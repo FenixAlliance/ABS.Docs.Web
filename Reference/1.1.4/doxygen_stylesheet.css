@@ -467,8 +467,7 @@ iframe#MSearchResults {
 
 #nav-tree {
     background: transparent;
-    padding: var(--spacing-medium) 0;
-    padding-bottom: 10px;
+    
 }
 
 #nav-tree .label {
