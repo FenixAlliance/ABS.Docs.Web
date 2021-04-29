@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component =
+[
+    [ "AccountHolderNotificationsViewComponent", "dc/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component.html#a9a9f013f8cc8d6006cceb47311c13806", null ],
+    [ "InvokeAsync", "dc/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component.html#a83ac6c8d73a49b700eab709c6e6c947d", null ]
+];

@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records =
+[
+    [ "CloudResourceTaxPolicyRecord", "df/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_cloud_resource_tax_policy_record.html", "df/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_cloud_resource_tax_policy_record" ],
+    [ "ItemTaxPolicyRecord", "df/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_item_tax_policy_record.html", "df/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_item_tax_policy_record" ],
+    [ "ServiceTaxPolicyRecord", "d6/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_service_tax_policy_record.html", "d6/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_service_tax_policy_record" ]
+];

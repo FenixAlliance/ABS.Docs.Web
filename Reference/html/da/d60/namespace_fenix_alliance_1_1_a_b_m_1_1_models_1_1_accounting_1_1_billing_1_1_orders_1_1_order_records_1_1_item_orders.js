@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_item_orders =
+[
+    [ "ItemOrderRecord", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d.html", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d" ]
+];

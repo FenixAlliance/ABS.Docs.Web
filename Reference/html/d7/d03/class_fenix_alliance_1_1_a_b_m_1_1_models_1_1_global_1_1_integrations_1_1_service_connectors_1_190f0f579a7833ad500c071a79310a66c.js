@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_190f0f579a7833ad500c071a79310a66c =
+[
+    [ "MercadoLibreCustomerCode", "d7/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_190f0f579a7833ad500c071a79310a66c.html#a04a3a13a57cb265d9b02f2c700b06e76", null ]
+];

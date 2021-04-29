@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records =
+[
+    [ "BusinessProfileRecord", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record" ]
+];

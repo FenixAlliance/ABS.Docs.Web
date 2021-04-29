@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_curriculums_1_1_skillset =
+[
+    [ "CurriculumSkill", "d1/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_curriculums_1f27dc2f065bf20d6e20be16f1803629d.html", null ]
+];

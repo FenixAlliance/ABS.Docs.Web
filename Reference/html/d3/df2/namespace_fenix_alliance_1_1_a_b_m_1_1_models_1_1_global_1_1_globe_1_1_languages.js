@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_languages =
+[
+    [ "CountryLanguage", "d8/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_languages_1_1_country_language.html", "d8/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_languages_1_1_country_language" ],
+    [ "CountryLanguageRecord", "de/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_languages_1_1_country_language_record.html", "de/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_languages_1_1_country_language_record" ]
+];

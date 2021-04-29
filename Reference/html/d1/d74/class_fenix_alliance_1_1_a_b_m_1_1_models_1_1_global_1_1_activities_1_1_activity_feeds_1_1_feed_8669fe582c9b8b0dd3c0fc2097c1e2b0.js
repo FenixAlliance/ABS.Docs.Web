@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0 =
+[
+    [ "PerformanceGoal", "d1/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0.html#a4ed7b0e705c4d2cafaf68f742e85e5dc", null ],
+    [ "PerformanceGoalID", "d1/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0.html#a663d360429bec01a797dca641e11af67", null ]
+];

@@ -1,0 +1,10 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22 =
+[
+    [ "ActivationTimestamp", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#afad5f6959ca62f2f311c5b8ed5f31797", null ],
+    [ "DesactivationTimestamp", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#ad4342a777ae41f42e26610a333a2f06c", null ],
+    [ "DianFiscalizationDocuments", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#a79cf46c9f06beed8c1e119afb8864d25", null ],
+    [ "DianNumAuthResolution", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#a8ab2865040a563761775051d86c81d55", null ],
+    [ "DianNumAuthResolutionID", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#a9fb9c00789a8e6501c193fb2e93fda99", null ],
+    [ "DianTenantBillingProfile", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#a138a8264cbd1ecf4bfb6525c5f3e70e4", null ],
+    [ "DianTenantBillingProfileID", "df/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numera1a48bd9a90f1b5c93ba6ca755b604f22.html#a8f02d3de5904781567aa74b46a0840bc", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cognitive_1_1_bot_engine_1_1_bot_engine_options =
+[
+    [ "RootDialog", "d6/dac/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cognitive_1_1_bot_engine_1_1_bot_engine_options.html#ae64a814949155cc3d20d543bd66d6369", null ],
+    [ "RootDialogAssembly", "d6/dac/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cognitive_1_1_bot_engine_1_1_bot_engine_options.html#a82c785c45724c192d4e7db9bd3a422a7", null ]
+];

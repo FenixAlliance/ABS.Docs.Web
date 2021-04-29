@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite0b34741228374485f1f6c46c06e2f002 =
+[
+    [ "ID", "dd/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite0b34741228374485f1f6c46c06e2f002.html#aa06a9e55948ca6595d0a4d07ba270e3b", null ],
+    [ "ItemPriceList", "dd/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite0b34741228374485f1f6c46c06e2f002.html#a767be1c1cb9e77ad076b7f90383a5086", null ],
+    [ "ItemPriceListID", "dd/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite0b34741228374485f1f6c46c06e2f002.html#a746326f17b8c2410a350aa7113bbf4f2", null ]
+];

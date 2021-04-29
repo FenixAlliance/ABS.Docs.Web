@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record =
+[
+    [ "CartID", "d8/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record.html#a5316c53abda4756cf4b942d3c86f48fd", null ],
+    [ "CustomWeight", "d8/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record.html#a692f67fa8fd98a2dd84290568fc62a0f", null ],
+    [ "EventType", "d8/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record.html#a53550d668e2bda97b3ad7d2c402d1a3a", null ]
+];

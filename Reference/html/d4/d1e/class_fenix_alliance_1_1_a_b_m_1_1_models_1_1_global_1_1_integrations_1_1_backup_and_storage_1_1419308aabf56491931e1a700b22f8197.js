@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1419308aabf56491931e1a700b22f8197 =
+[
+    [ "BackupFolderName", "d4/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1419308aabf56491931e1a700b22f8197.html#a3f48d1bdb92a1c1102695ec69ae58370", null ],
+    [ "EmailForBackupNotifications", "d4/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1419308aabf56491931e1a700b22f8197.html#a87c33190808feebc26d8ad8077ac3da0", null ],
+    [ "EnableBackupNotifications", "d4/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1419308aabf56491931e1a700b22f8197.html#a0b569b52e7a119f168c7266a6fdfdfdc", null ],
+    [ "EnableFileBackups", "d4/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1419308aabf56491931e1a700b22f8197.html#aa0ae470cfc0fede5bfca2f9ca94719d0", null ]
+];

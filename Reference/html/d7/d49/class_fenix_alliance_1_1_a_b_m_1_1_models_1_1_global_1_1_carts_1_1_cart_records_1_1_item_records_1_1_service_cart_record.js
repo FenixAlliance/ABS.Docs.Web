@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records_1_1_service_cart_record =
+[
+    [ "Service", "d7/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records_1_1_service_cart_record.html#a314ff8e1f738d9a5ffae250332cd6190", null ],
+    [ "ServiceID", "d7/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records_1_1_service_cart_record.html#a1e0af9cfc41ef6a038ae9564aeb632f4", null ]
+];

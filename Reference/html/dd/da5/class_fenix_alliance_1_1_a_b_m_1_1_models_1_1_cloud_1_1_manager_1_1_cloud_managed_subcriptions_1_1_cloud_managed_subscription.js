@@ -1,0 +1,9 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription =
+[
+    [ "CloudResourceDeployments", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#a164cb6826ec84b9a3ded4e0ca0b6d40c", null ],
+    [ "CloudResourceGroups", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#ae339e42348d30880ba04a590d80cac0a", null ],
+    [ "CloudResourceInstances", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#af7600b0bd1d128ced58c29df0e48cde5", null ],
+    [ "CloudResourceProvider", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#a080a875edfc52804cf2bca0357d9bb52", null ],
+    [ "CloudResourceProviderID", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#aac78b768dd904f87270aab280a1509b8", null ],
+    [ "MontlyExpenseLimitInUSD", "dd/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions_1_1_cloud_managed_subscription.html#a3e9aa4c12e82efd5106448f59133a74a", null ]
+];

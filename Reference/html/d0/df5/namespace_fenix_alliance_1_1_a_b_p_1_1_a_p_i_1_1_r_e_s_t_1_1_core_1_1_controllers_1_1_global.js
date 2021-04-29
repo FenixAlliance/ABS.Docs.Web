@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global =
+[
+    [ "Countries", "d7/dae/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_countries.html", "d7/dae/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_countries" ],
+    [ "Currencies", "d4/d1b/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_currencies.html", "d4/d1b/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_currencies" ]
+];

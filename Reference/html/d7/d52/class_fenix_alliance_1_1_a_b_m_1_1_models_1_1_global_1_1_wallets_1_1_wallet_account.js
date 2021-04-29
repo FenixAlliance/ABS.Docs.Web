@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account =
+[
+    [ "Cellphone", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a54eb866f7de247ba6bcae1264aba74ab", null ],
+    [ "City", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a51a9a229cb03f45635196a9cca5cd267", null ],
+    [ "Country", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a453996fbd4f70e7c5403ac5da4eeb727", null ],
+    [ "CountryID", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a818ab2a620ec50e51ec0704de749f5e9", null ],
+    [ "CreatedTimestamp", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a9a95824075687c3c3f74454e942c7b5f", null ],
+    [ "CustomAddress", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#afc51360c1e9f2df8e6ac193f149cb04f", null ],
+    [ "Department", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a0df29f9f76db61c197adc76a5702b390", null ],
+    [ "EnabledToRecievePayments", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a7bec1c6927f9993b5b4871c9da363b51", null ],
+    [ "ePaycoBillingCustomerID", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#aead7a2e2e7819987df61b41fa712117b", null ],
+    [ "ID", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a64810f0b11d7c1ea51515ba86614fa92", null ],
+    [ "Invoices", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a84de44ad05fc2c43d391d9a95471a081", null ],
+    [ "LegalName", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#ac96d3fd2e640ea29d4e4e289f299b1e8", null ],
+    [ "LicenseRenewalPayments", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#af55ecde661f661dddb18933f3721acbc", null ],
+    [ "Location", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#aed826a0c897af297e14e8d8453eea5a1", null ],
+    [ "LocationID", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a74272cf766fd8d00a6afe34df4a3cdc8", null ],
+    [ "OfficialID", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#ac2ef93da04573d0983b93b361d9f3c27", null ],
+    [ "OfficialIDExpeditionDate", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#ab68c0959668517b0fc21722907fc4db4", null ],
+    [ "Order", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#ad4ce570eb6a3bc20af7920f198e7ccd4", null ],
+    [ "Payments", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a5c7562b55ca2e9b748fefa7b435ce98c", null ],
+    [ "PaymentTokens", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a50e8e0f40b545fc9d885ee143eb90e4a", null ],
+    [ "Phone", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a322034082087156d598c64510ee03d1b", null ],
+    [ "SignatorProfiles", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a1ee1afe06257dd9d03db630abebf19b0", null ],
+    [ "WalletCurrentBalanceInUSD", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#aaf9949184a13cbcf489a7fcd5a9864c0", null ]
+];

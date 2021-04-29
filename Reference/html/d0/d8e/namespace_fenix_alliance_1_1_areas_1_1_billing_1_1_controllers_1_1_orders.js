@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_orders =
+[
+    [ "OrdersController", "d3/dd2/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_orders_1_1_orders_controller.html", "d3/dd2/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_orders_1_1_orders_controller" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_carts =
+[
+    [ "CloudResourceCartRecord", "da/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_carts_1_1_cloud_resource_cart_record.html", "da/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_carts_1_1_cloud_resource_cart_record" ]
+];

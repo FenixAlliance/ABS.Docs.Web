@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_resellers =
+[
+    [ "HostingResellerProfile", "d3/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_resellers_1_1_hosting_reseller_profile.html", "d3/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_resellers_1_1_hosting_reseller_profile" ]
+];

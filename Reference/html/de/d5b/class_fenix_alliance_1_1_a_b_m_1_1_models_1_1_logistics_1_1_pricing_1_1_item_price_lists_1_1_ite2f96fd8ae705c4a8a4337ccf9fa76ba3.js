@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite2f96fd8ae705c4a8a4337ccf9fa76ba3 =
+[
+    [ "Country", "de/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite2f96fd8ae705c4a8a4337ccf9fa76ba3.html#a6a81eebd008cb000da8650b7c5c3669f", null ],
+    [ "CountryID", "de/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_ite2f96fd8ae705c4a8a4337ccf9fa76ba3.html#a418abc938c6ac300c87ee74f7f9207be", null ]
+];

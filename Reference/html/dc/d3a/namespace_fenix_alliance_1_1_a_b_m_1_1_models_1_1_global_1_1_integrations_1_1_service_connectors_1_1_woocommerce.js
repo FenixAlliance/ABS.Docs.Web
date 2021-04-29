@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1_woocommerce =
+[
+    [ "WoocommerceConnector", "d3/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1d1e48bfb8b0fb57046d5d48131f2dbfe.html", "d3/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1d1e48bfb8b0fb57046d5d48131f2dbfe" ]
+];

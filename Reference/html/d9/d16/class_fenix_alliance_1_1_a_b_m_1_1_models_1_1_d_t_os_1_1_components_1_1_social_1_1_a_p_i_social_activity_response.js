@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_a_p_i_social_activity_response =
+[
+    [ "FollowRecords", "d9/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_a_p_i_social_activity_response.html#a31d368bace40a797fa3aa84f449222de", null ]
+];

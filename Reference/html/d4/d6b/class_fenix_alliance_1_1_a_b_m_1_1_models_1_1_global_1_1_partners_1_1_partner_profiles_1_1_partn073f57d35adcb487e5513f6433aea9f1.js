@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partn073f57d35adcb487e5513f6433aea9f1 =
+[
+    [ "AccountHolder", "d4/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partn073f57d35adcb487e5513f6433aea9f1.html#aee53c09f56fc47712aaa492f860b235d", null ],
+    [ "AccountHolderID", "d4/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partn073f57d35adcb487e5513f6433aea9f1.html#a3f912d0fae0c8c8ad1f13c694b0a8c16", null ]
+];

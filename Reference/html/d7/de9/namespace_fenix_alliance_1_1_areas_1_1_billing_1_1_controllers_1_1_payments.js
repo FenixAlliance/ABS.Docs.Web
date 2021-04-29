@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_payments =
+[
+    [ "PaymentsController", "da/d1d/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_payments_1_1_payments_controller.html", "da/d1d/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_payments_1_1_payments_controller" ]
+];

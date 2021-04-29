@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1_a_m_w_s =
+[
+    [ "AmazonMWSConnector", "da/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_16849f5ce09aa22702ff93c6ed0364e38.html", "da/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_16849f5ce09aa22702ff93c6ed0364e38" ]
+];

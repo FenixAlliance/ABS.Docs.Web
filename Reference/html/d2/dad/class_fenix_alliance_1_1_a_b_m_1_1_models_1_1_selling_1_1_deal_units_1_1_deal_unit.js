@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit =
+[
+    [ "Business", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad81f0ff668584eab82e025b0cb494283", null ],
+    [ "BusinessID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad6e466eecca2a5061e93ae93d3a5d5a3", null ],
+    [ "BusinessProfileRecord", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad8f0ade4e1d31533ebbf04c8b49052f3", null ],
+    [ "BusinessProfileRecordID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a26f840c02065cf0c73810920abd7b865", null ],
+    [ "Contact", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ac8aadd1cf4c08fc239e7ff3ce6cea286", null ],
+    [ "ContactID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a8fbbddcb63be3f6c8f6cbbaf74459b3a", null ],
+    [ "Currency", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa3f8f64004641813bf2870db6c19f4bf", null ],
+    [ "CurrencyID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7afeb30c7967c8270e43eff6b65d3339", null ],
+    [ "DealAmount", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a663c953d4cbe28bce8975ec9a981ef6d", null ],
+    [ "DealUnitCustomPropertyRecords", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4383636df24f33cd9f6c3c94daeffefa", null ],
+    [ "DealUnitFeed", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#af3ae3cdcee8c422552f245d3bd7e5da0", null ],
+    [ "DealUnitFlow", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a09d6af3c0cdeaf61fe6632bde036b953", null ],
+    [ "DealUnitFlowID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a557be66182ea6e0ff4d137ae67f02ee9", null ],
+    [ "DealUnitFlowStage", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a99472e8a92637e40f05f36f0ec1c8a26", null ],
+    [ "DealUnitFlowStageID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a0109f7a503d065c50c78ee5a08b18c6a", null ],
+    [ "Description", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a81c27e97230c6c9aefc47e053ae8376d", null ],
+    [ "ExpectedCloseDate", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a96bd2c7c87a4ada03502fba0d9789ca4", null ],
+    [ "ID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7768a48fa42b3ff0513ecc10aa248ae9", null ],
+    [ "Organization", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad764710e9fa97c525b9794b007aefd9f", null ],
+    [ "OrganizationID", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a3b25464dd41c46a3ba8f648050758e3a", null ],
+    [ "Timestamp", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a94c77dd9d8e0c0a022a7037d19279222", null ],
+    [ "Title", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a2610d72aea688c962de6b8df0e853c66", null ]
+];

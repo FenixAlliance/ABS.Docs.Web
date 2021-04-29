@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources =
+[
+    [ "CloudResource", "d5/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources_1_1_cloud_resource.html", "d5/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources_1_1_cloud_resource" ],
+    [ "CloudResourceImage", "dc/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources_1_1_cloud_resource_image.html", "dc/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources_1_1_cloud_resource_image" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries =
+[
+    [ "RestCountriesClient", "d5/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries_1_1_rest_countries_client.html", "d5/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries_1_1_rest_countries_client" ]
+];

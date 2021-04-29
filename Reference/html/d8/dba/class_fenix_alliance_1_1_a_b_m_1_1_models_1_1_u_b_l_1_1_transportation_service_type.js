@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type =
+[
+    [ "CommodityClassification", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a714fe20b133e3e15a73527a45a78faf5", null ],
+    [ "EnvironmentalEmission", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a044e97d37b13d6d311974abfc1091e58", null ],
+    [ "EstimatedDurationPeriod", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a8368ff389ef3a65394d40843c8dd8f5a", null ],
+    [ "FreightRateClassCode", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a6413ffbe676aa55d9ad3dd8d17d85212", null ],
+    [ "Name", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#aa0c349d0fd9088e8f67204660c112b50", null ],
+    [ "NominationDate", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#ab1276d1333752be886a055c9d4327625", null ],
+    [ "NominationTime", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a0d20013db9c1ee6f1bd4dbf09ff45038", null ],
+    [ "Priority", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a35d7fd21f53f9abce86a4452430e00d5", null ],
+    [ "ResponsibleTransportServiceProviderParty", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#af77bcfdf2ea5ff784abfb59573e66616", null ],
+    [ "ScheduledServiceFrequency", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#ab6bcbc1b8d646f0a8081faec1b71b0b7", null ],
+    [ "SequenceNumeric", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a54626cd23890a41084aeb6dda3c3cd29", null ],
+    [ "ShipmentStage", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a3eadfcf28ba2b85629f1ac6f7658cd4d", null ],
+    [ "SupportedCommodityClassification", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a68f1e7ef51786e446e4d5ed85e26c2b4", null ],
+    [ "SupportedTransportEquipment", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a117fd2c27026677d106f2f3549260be7", null ],
+    [ "TariffClassCode", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a7106ffa02dff4d97d9672de07bc68883", null ],
+    [ "TotalCapacityDimension", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a713b1536d11921e44bbc74f1d8ed1841", null ],
+    [ "TransportationServiceDescription", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a5c861555a73404decb313d86d5f6db20", null ],
+    [ "TransportationServiceDetailsURI", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a8f4d098ad6fd91c2efe21c586288adc8", null ],
+    [ "TransportEquipment", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a9107ece0765bcde9aa3f8f2d38b11534", null ],
+    [ "TransportEvent", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#ab4b13a2d3a4b24f4ce144e1e222ebba4", null ],
+    [ "TransportServiceCode", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a7ae219f144d1f5304574f4ce6f5c7bfd", null ],
+    [ "UnsupportedCommodityClassification", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#a3c7e32d8d957d40e04d72438886d3069", null ],
+    [ "UnsupportedTransportEquipment", "d8/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transportation_service_type.html#aac850476955ea12139275472a15514bf", null ]
+];

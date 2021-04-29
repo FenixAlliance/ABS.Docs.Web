@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes =
+[
+    [ "TaxClass", "d0/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class.html", "d0/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class" ],
+    [ "TaxClassPolicyRecord", "d1/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class_policy_record.html", "d1/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class_policy_record" ],
+    [ "TaxClassRateRecord", "da/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class_rate_record.html", "da/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class_rate_record" ]
+];

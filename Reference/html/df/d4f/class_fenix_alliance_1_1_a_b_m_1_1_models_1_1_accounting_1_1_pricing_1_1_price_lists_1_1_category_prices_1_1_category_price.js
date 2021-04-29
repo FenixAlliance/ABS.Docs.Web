@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_category_prices_1_1_category_price =
+[
+    [ "ID", "df/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_category_prices_1_1_category_price.html#a3268e17a981cd8b2237351b73fdd54ab", null ]
+];

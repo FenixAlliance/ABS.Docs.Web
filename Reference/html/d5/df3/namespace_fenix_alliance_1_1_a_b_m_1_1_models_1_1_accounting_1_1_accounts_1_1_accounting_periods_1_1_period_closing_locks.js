@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_periods_1_1_period_closing_locks =
+[
+    [ "AccountingPeriodClosingLock", "d0/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_periods_1_137e024b2bc40ed3cd7df2c1e50194b12.html", "d0/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_periods_1_137e024b2bc40ed3cd7df2c1e50194b12" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_discountings =
+[
+    [ "InvoiceDiscounting", "d4/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_dib107c2c6731a708da54ed45a0e883164.html", "d4/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_dib107c2c6731a708da54ed45a0e883164" ]
+];

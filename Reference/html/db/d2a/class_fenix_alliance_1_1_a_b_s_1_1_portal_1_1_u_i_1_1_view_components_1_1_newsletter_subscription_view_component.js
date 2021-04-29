@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component =
+[
+    [ "NewsletterSubscriptionViewComponent", "db/d2a/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component.html#aa38aed64a8188cc025f66e84ecdfc6bf", null ],
+    [ "InvokeAsync", "db/d2a/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component.html#ac93e839dca9e2f5455683d6d5bde9979", null ]
+];

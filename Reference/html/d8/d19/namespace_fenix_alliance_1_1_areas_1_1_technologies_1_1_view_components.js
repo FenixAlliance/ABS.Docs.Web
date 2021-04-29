@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_areas_1_1_technologies_1_1_view_components =
+[
+    [ "AddToCompareButtonViewComponent", "d7/d78/class_fenix_alliance_1_1_areas_1_1_technologies_1_1_view_components_1_1_add_to_compare_button_view_component.html", "d7/d78/class_fenix_alliance_1_1_areas_1_1_technologies_1_1_view_components_1_1_add_to_compare_button_view_component" ]
+];

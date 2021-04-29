@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busind690a70db032f6846585512973f18aac =
+[
+    [ "WebPortals", "d5/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busind690a70db032f6846585512973f18aac.html#a1dbeebb134c803eabbfec2c68558808b", null ]
+];

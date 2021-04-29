@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record =
+[
+    [ "AccountHolder", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a0581111f10f1a4a1033bee77a1402828", null ],
+    [ "AccountHolderID", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a1e6300a5130a692fff54e26bfe190091", null ],
+    [ "Activities", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a93727a30628308cf6a7e5fb909484e80", null ],
+    [ "Business", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a526c079752caea7dd5155aaed9b11aec", null ],
+    [ "BusinessApplications", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a10f884f2edeb7f468cd8a6ec8f1efd53", null ],
+    [ "BusinessID", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a701445aa80436c87a33b226b31c6f13b", null ],
+    [ "BusinessPermissionGrants", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a7380ff5b89629d3a9ca45b61d6dda07f", null ],
+    [ "BusinessProfileDirectPermissionGrants", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a0e8b787cd64982cd3e091b34dd53243b", null ],
+    [ "BusinessProfileSecurityRoleGrants", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a7bc1c94c885ba06dc49e4ba439a59a97", null ],
+    [ "BusinessSecurityLogs", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a507fbdb042bff476dd7c9080ff8b3bcc", null ],
+    [ "Contact", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#af167a4953ecc9fd53aa3c71a2fa801a9", null ],
+    [ "Contacts", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a4ce8b9baea8910ba2b199774b0578be0", null ],
+    [ "DealUnits", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#abc7882ade746acffd6cbdbeecca0f788", null ],
+    [ "FileUploadGrantorPermissionRecords", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a39639ee90493e89ddf4f4e8a635f8dac", null ],
+    [ "FileUploadPermissionRecords", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a91c20961fed7ad7f3b71b2c53a690a09", null ],
+    [ "ID", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a91710d24db48c41ca7779a15cffe2e53", null ],
+    [ "Integrations", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#acfb1aff2e21f74da3ae2dfdc417faa2a", null ],
+    [ "IsBusinessOwner", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#ab6d84dbd41450c89ae50fe9e42838331", null ],
+    [ "IsDisabled", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#af2deb5f89a5086e69b2ee6095f80dc56", null ],
+    [ "IssuedBusinessProfileInvitation", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a6b72b105a31656743f6ad8222ec40975", null ],
+    [ "LicenseRenewals", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#af4a9357191933c8732997955f63b5631", null ],
+    [ "SignatorCertificate", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#ad096e9438fb8e50ea0f85051b384d2fd", null ],
+    [ "WebPageModifications", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a9fd55526deffff6b0d64080d06614ce1", null ],
+    [ "WebsitePages", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#acb4c7b655d2c3a99dc36b8cee5ee1ee1", null ]
+];

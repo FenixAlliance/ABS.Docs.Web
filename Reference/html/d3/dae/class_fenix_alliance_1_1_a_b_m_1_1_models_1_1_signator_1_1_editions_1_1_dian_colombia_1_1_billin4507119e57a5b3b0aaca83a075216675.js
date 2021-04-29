@@ -1,0 +1,18 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675 =
+[
+    [ "Dian4x1000Rate", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#ae6717c19e32835703517322903096ed2", null ],
+    [ "DianActivityCode", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a849b87b4c9fa444cb237e2a4065980b8", null ],
+    [ "DianActivityCodeRate", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a74d0c6b54ff5d5e04c0a9abe4ef66c08", null ],
+    [ "DianActivityDescription", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a64f3f35f8d95ffd27bc7aeb015da619b", null ],
+    [ "DianCityCode", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#aff9c0b06e9a2cb5c57a0da0ba8606662", null ],
+    [ "DianCurrentNumAuthResolutionID", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#ac23a08a6dcc1b0a906acf2f6e695a4ce", null ],
+    [ "DianEnableAIU", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a8174bee1875eb8a1aeae10ca32d3b0a1", null ],
+    [ "DianFormatedAddress", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a4c43d507d8b230abf846ca11e6f8ee0d", null ],
+    [ "DianNumAuthResolution", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#aedbe05ade0e506a9794093ed85458943", null ],
+    [ "DianNumAuthResolutionActivation", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#abfd483dbd8d1c5a793eeeb401a2a8750", null ],
+    [ "DianNumAuthResolutionActivations", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#acaee8c197922bf7ec28eca1465c92540", null ],
+    [ "DianRegimeCode", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#ae379b478c9f585e7eb865bd66f3ae39b", null ],
+    [ "DianTaxIDVerificationDigit", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#abf42f74e9351995b00f5613ea6e21177", null ],
+    [ "DianTaxpayerRegime", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#af4fd5888c76efeb539ce60336aa379cf", null ],
+    [ "DianTaxpayerType", "d3/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billin4507119e57a5b3b0aaca83a075216675.html#a43adfb2530a45ecb59a8e1ebca36f531", null ]
+];

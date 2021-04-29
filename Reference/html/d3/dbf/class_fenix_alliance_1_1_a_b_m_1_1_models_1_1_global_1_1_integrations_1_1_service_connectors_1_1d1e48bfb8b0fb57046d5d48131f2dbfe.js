@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1d1e48bfb8b0fb57046d5d48131f2dbfe =
+[
+    [ "ApplicationID", "d3/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1d1e48bfb8b0fb57046d5d48131f2dbfe.html#aca27497c5e1b6be1260534daa3263a15", null ],
+    [ "ApplicationSecret", "d3/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1d1e48bfb8b0fb57046d5d48131f2dbfe.html#ae695f2205640d74f81572d81489926df", null ]
+];

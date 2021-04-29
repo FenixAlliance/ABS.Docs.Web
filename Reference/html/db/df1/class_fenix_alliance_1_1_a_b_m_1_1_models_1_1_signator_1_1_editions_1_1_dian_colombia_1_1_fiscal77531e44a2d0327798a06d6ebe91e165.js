@@ -1,0 +1,10 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165 =
+[
+    [ "DianContactBillingProfile", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#a70b251b610678f696dc6b73ce17b9d83", null ],
+    [ "DianContactBillingProfileID", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#a8c7e9388486bf9880e654964db669d4f", null ],
+    [ "DianInvoiceRelations", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#aa40e355f4f38793f42c5442efa406286", null ],
+    [ "DianNumAuthResolutionActivation", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#adc85e70631a0d41e2a66ca070f6539d4", null ],
+    [ "DianNumAuthResolutionActivationID", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#aac3fb69d0d5130da9c0a4bb9a9b630b9", null ],
+    [ "DianTenantBillingProfile", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#a22efc531503aa325b261bc0dc8ef3d54", null ],
+    [ "DianTenantBillingProfileID", "db/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscal77531e44a2d0327798a06d6ebe91e165.html#a97db88f015f8d0b609319d6f30358b41", null ]
+];

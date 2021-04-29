@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_prices_1_1_role_price =
+[
+    [ "ID", "df/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_prices_1_1_role_price.html#a876320621ab68985976c440a5d73e566", null ]
+];

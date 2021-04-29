@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_controllers_with_views =
+[
+    [ "Endpoints", "d4/d92/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_controllers_with_views.html#adb461b0518b7f7994371878fc1f8d153", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_8fc2ceca426d49c812ce648cf1c07c1f =
+[
+    [ "BusinessProfileRecord", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_8fc2ceca426d49c812ce648cf1c07c1f.html#a76926b8e3d0f7e30d2b7947252ead01a", null ],
+    [ "BusinessProfileRecordID", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_8fc2ceca426d49c812ce648cf1c07c1f.html#aaa6168b3b963045564de7b3b9581e63e", null ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_identity_server_1_1_device_1_1_device_authorization_input_model =
+[
+    [ "UserCode", "dc/d9f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_identity_server_1_1_device_1_1_device_authorization_input_model.html#a63f4c1b49d93144d92bef6363a96d69d", null ]
+];

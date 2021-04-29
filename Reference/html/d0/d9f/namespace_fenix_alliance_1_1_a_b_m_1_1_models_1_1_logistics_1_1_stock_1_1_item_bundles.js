@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles =
+[
+    [ "ItemBundle", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle.html", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle" ],
+    [ "ItemBundleRecord", "d2/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle_record.html", "d2/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle_record" ]
+];

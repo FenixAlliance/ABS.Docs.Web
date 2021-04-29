@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type =
+[
+    [ "AdditionalDocumentReference", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a85615876eb9ff4f307a98755a6aa69a2", null ],
+    [ "AuctionTerms", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#af6281e46838000f5081aa86221735894", null ],
+    [ "CandidateReductionConstraintIndicator", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#aadec21a4c8ac7f3c327ce983c3221272", null ],
+    [ "ContractingSystemCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a02ccb186268b0624fbc095ea01c88899", null ],
+    [ "Description", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a585d38c015a5db59f95f2fcd6724613d", null ],
+    [ "DocumentAvailabilityPeriod", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#aa697bd1a6981e610e0d05c5646dfd7f2", null ],
+    [ "EconomicOperatorShortList", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a38fbc42f57533c7ff314ac52276ca03f", null ],
+    [ "ExpenseCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a78026d2235609a9c180be7ea3269cb09", null ],
+    [ "FrameworkAgreement", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#aaf92566886ba0ca7c30a7e42f0a6c2ca", null ],
+    [ "GovernmentAgreementConstraintIndicator", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#ab6c99f253e9b513d7679c9a6d866fa96", null ],
+    [ "ID", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a59bc8f75f1a820ae83dbdcd3c792f48f", null ],
+    [ "InvitationSubmissionPeriod", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#ad543daacaeee9d2c8edf2eadc5664509", null ],
+    [ "NegotiationDescription", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#adc477c935e6d4a8e56bf508ad3b733fe", null ],
+    [ "NoticeDocumentReference", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#ada2ac51dea4dab59be0f418023b01390", null ],
+    [ "OpenTenderEvent", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a56e0a9d3a7244b06be122f1ffc3ca626", null ],
+    [ "OriginalContractingSystemID", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a47638e86fecd33016b489c5bfc9f1eee", null ],
+    [ "ParticipationRequestReceptionPeriod", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a891dbfa1da4df9149fefab87bd02551d", null ],
+    [ "PartPresentationCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a34584934173bc9a2b65c2d1b8d10e997", null ],
+    [ "ProcedureCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#acc2f3b8791875d8e39f54f56b18e3c04", null ],
+    [ "ProcessJustification", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a01c5b3641ebadc524892d3ae355125e7", null ],
+    [ "SubmissionMethodCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a013b3690fa78f690f6bc59639c162a84", null ],
+    [ "TenderSubmissionDeadlinePeriod", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#ab7815d01f7abe466740a408c082ec8ca", null ],
+    [ "UrgencyCode", "da/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_process_type.html#a51f143886e00d9abee492fea95c4b2a6", null ]
+];

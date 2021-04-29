@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_purchase_receipt =
+[
+    [ "Assets", "dc/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_purchase_receipt.html#a3b53579e139978dc9542adab13228f54", null ]
+];

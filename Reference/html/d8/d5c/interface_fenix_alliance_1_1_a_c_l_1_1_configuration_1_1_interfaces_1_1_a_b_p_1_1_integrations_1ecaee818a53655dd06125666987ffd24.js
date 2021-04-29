@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24 =
+[
+    [ "ApiKey", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24.html#a4a09248fbdd28f45984eb9c704cf4000", null ],
+    [ "ApiSecret", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24.html#aac259b84f3ffcb8b0c3e9f06fa4009fd", null ]
+];

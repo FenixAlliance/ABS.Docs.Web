@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5 =
+[
+    [ "HostingResellerProfile", "de/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5.html#aa21c4efebd93362f0bf9a551e1140934", null ],
+    [ "HostingResellerProfileID", "de/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5.html#af36606788d673f0c39add09719e0c356", null ],
+    [ "HostingServer", "de/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5.html#a8c593828aef7aab4c76dc4fb9350964f", null ],
+    [ "HostingServerID", "de/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5.html#a09834a83f04f7d4884186028d4f400f2", null ],
+    [ "ID", "de/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_r6ed574f663cc5fb8d1300964f2cceac5.html#a53be0d9a258d5a27ba93db9534764007", null ]
+];
