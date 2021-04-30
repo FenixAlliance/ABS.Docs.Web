@@ -987,3 +987,9 @@ span.SRScope {
     font-family: Arial, Verdana, sans-serif;
     color: white;
 }
+
+.SRPage .SREntry {
+    font-size: 8pt;
+    padding: 1px 5px;
+    color: white;
+}
