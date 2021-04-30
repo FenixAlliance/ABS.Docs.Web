@@ -987,7 +987,13 @@ span.SRScope {
     font-family: Arial, Verdana, sans-serif;
     color: white;
 }
-
+}
+#side-nav {
+    padding: 0 6px 0 0;
+    background: var(--side-nav-background);
+    width: 30%;
+    max-width: 50%;
+}
 .ui-resizable .ui-resizable-handle {
     display: block;
     width: 10px;
