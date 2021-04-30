@@ -6,21 +6,21 @@ description: >-
 
 ## How to get started?
 
-The Alliance Business Suite enables developers and non-developers alike to easily configure and manage security. The Alliance Passport Services Library contains features for managing authentication, authorization, data protection, HTTPS enforcement, app secrets, XSRF/CSRF prevention, and CORS management. These security features allow you to build robust yet secure Alliance Business Suite apps.
+The Alliance Business Suite enables developers and non-developers alike to easily configure and manage security. The Alliance Passport Services Engine contains features for managing authentication, authorization, data protection, HTTPS enforcement, app secrets, XSRF/CSRF prevention, and CORS management. These security features allow you to build robust yet secure Alliance Business Suite apps.
 
 ## Alliance Business Suite security features
 
-The Alliance Business Suite provides many tools and libraries to secure your apps including built-in identity providers, but you can use third-party identity services such as Facebook, Twitter, and LinkedIn. With the Alliance Business Suite, you can easily manage app secrets, which are a way to store and use confidential information without having to expose it in the code.
+The Alliance Business Suite provides many tools and libraries to secure your apps including built-in identity providers, MFA TOTP (Time-based One-time Password Algorithm) support, but you can use third-party identity services such as Facebook, Twitter, and LinkedIn, or even enterprise services such as Azure AD, Azure AD B2C, and AWS Cognito (preview). With the Alliance Business Suite, you can easily manage app secrets, which are a way to store and use confidential information without having to expose it in the code.
 
 ## Authentication vs. Authorization
-Authentication is a process in which a user provides credentials that are then compared to those stored in an operating system, database, app, or resource. If they match, users authenticate successfully, and can then perform actions that they're authorized for, during an authorization process. The authorization refers to the process that determines what a user is allowed to do.
+Authentication is a process in which a user provides credentials that are then compared to those stored by an operating system, database, app, or resource. If they match, users are authenticated successfully, and can then perform actions that they're authorized for, during an authorization process. The authorization refers to the process that determines what a user is allowed to do.
 
 Another way to think of authentication is to consider it as a way to enter a space, such as a server, database, app, or resource, while authorization is which actions the user can perform to which objects inside that space (server, database, or app).
 
 ## Understanding how APS works
-Before you create users, you should understand how APS+IAM works. 
+Before you create Account Holders or businessesTenants, you should understand how APS enables IAM workflows. 
 
-**Alliance Passport Services** (commonly known as "**APS**") is an Identity Framework that provides the infrastructure necessary to control authentication and authorization for the Alliance Business Suite. 
+**Alliance Passport Services** (commonly known as "**APS**") is an Identity Engine that provides the infrastructure necessary to control authentication and authorization for the Alliance Business Suite. 
 
 The **Identity and Access Management** Module ("**IAM**") is an extension built on top of the Alliance Passport Services Framework to allow users and applications to connect to certain Alliance Business Suite instances.
 
@@ -67,6 +67,20 @@ The APS Engine checks each policy that applies to the context of any given reque
 - An explicit deny in any policy overrides any allows.
 
 To learn more about how all types of policies are evaluated, please refer to Authorization evaluation logic. If you need to make a request in a different account, a policy in the other account must allow you to access the resource, and the IAM entity that you use to make the request must have an identity-based policy that allows the request.
+
+
+## Security Permissions
+After your request has been authenticated and authorized, AWS approves the actions or operations in your request. Operations are defined by service and include things that you can do to a resource, such as viewing, creating, editing, and deleting that resource. For example, APS supports approximately 40 actions for a user resource, including the following actions:
+
+- CreateUser
+
+- DeleteUser
+
+- GetUser
+
+- UpdateUser
+
+To allow an **Identity Holder** to perform an operation, you must include the necessary actions in a policy that applies to the principal or the affected resource. To see a list of actions, resource types, and condition keys supported by each service, refer to Actions, Resources, and Permissions for ABS Services.
 
 # Resources
 After the Alliance Business Platform approves the operations in your request, it can be performed on the related resources within your account. A resource is an object that exists within an Alliance Business Suite instance. Examples include a Financial Account Record in the ABM, an IAM user, and a Storage File. The service defines a set of actions that can be performed on each resource through its exposed API Methods through either the REST Application Programming Interface or a GUI, like the Alliance Business Studio or a Portal. If you create a request to perform an unrelated action on a resource, that request is denied. For example, if you request to delete an IAM role but provide an IAM group resource, the request fails. Please refer to the BusinessPermission tables that identify which resources are affected by an action, see Actions, Resources, and Business Permissions for the ABS Resources.
