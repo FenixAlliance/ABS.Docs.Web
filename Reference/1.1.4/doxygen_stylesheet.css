@@ -162,7 +162,7 @@ body, table, div, p, dl, #nav-tree .label, .title, .sm-dox a, .sm-dox a:hover, #
 
 h1, h2, h3, h4, h5 {
     margin-top: .9em;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 p, div, table, dl {
@@ -543,8 +543,8 @@ div.headertitle {
 }
 
 div.header .title {
-    font-weight: 600;
-    font-size: 210%;
+    font-weight: 400;
+    font-size: 150%;
     padding: var(--spacing-medium);
 }
 
