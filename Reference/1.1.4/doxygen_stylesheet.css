@@ -1,12 +1,4 @@
 
-.footer {
-    display:none;
-}
-.SRScope {
-    padding-left: 4px;
-    font-family: Arial, Verdana, sans-serif;
-    color: white;
-}
 :root {
     /* primary theme color. This will affect the entire websites color scheme: links, arrows, labels, ... */
     --primary-color: #1982d2;
@@ -984,4 +976,14 @@ address.footer {
     transform: scaleX(.4);
     text-shadow: 4px 0 0 var(--separator-color), 12px 0 5px rgba(0,0,0,0.15);
     color: var(--page-background-color);
+}
+
+.footer {
+    display:none;
+}
+
+span.SRScope {
+    padding-left: 4px;
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
 }
