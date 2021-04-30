@@ -1,5 +1,8 @@
 /*---------------- Search Box */
-
+body.SRPage {
+    margin: 5px 2px;
+    color: white;
+}
 #MSearchBox {
     white-space : nowrap;
     background: white;
