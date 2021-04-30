@@ -988,6 +988,11 @@ span.SRScope {
     color: white;
 }
 
+.ui-resizable .ui-resizable-handle {
+    display: block;
+    width: 10px;
+}
+
 .SRPage .SREntry {
     font-size: 8pt;
     padding: 1px 5px;
