@@ -2,6 +2,11 @@
 .footer {
     display:none;
 }
+span.SRScope {
+    padding-left: 4px;
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+}
 :root {
     /* primary theme color. This will affect the entire websites color scheme: links, arrows, labels, ... */
     --primary-color: #1982d2;
