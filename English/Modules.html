@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Internationalization - Alliance Business Suite Documentation</title>
+        <title>Modules and Integrations - Alliance Business Suite Documentation</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -77,10 +77,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="Internationalization/Localization-Strings.html" />
+    <link rel="next" href="Internationalization.html" />
     
     
-    <link rel="prev" href="Modules.html" />
+    <link rel="prev" href="Data-Access/Data-Repositories.html" />
     
 
     </head>
@@ -480,7 +480,7 @@
             
         </li>
     
-        <li class="chapter " data-level="2.7" data-path="Modules.html">
+        <li class="chapter active" data-level="2.7" data-path="Modules.html">
             
                 <a href="Modules.html">
             
@@ -493,7 +493,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="2.8" data-path="Internationalization.html">
+        <li class="chapter " data-level="2.8" data-path="Internationalization.html">
             
                 <a href="Internationalization.html">
             
@@ -1007,7 +1007,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Internationalization</a>
+        <a href="." >Modules and Integrations</a>
     </h1>
 </div>
 
@@ -1022,7 +1022,46 @@
     
                                 <section class="normal markdown-section">
                                 
-                                
+                                <p>The Alliance Business Suite is a modular application platform. This means that you can create custom functionalities in the form of modules and add them to your ABS instance.</p>
+<p>Modules are pieces of software that are designed to perform a specific set of functions or add a specific kind of feature, to any Alliance Business Suite instance. ABS Modules work only with self-hosted ABS instances. Hosted versions such as absuite.net typically offer theme options for customizing portals, but it isn&#x2019;t possible to install plugins freely to customize portals on this platform.</p>
+<p>ABS Modules are written in C#, the programming language for the Alliance Business Suite itself. When using ABS Modules, you can easily install or &#x201C;plugin&#x201D; the one you want to an existing ABS instance with no knowledge of code required. The power of the Alliance Business Suite can be leveraged from small personal blogs and professional portfolios to the infrastructure of large corporations and eCommerce platforms. The power of ABS Modules makes it possible to extend the functionality of the Alliance Business Suite sites while creating customer experiences that are completely unique.</p>
+<p>The Alliance Business Platform provides an essential framework for building a basic website. Some specialized functions can be added to each module and integrated with every theme but those features usually relate to customizing the structure of the site itself. For example, a theme designed for photographers might include options for a gallery or slideshow, and an eCommerce theme might have basic functionality for setting up product pages. Plugins incorporate a fully developed set of functions into your Alliance Business Suite instance site and can include options for customization and configuration.</p>
+<h1 id="creating-modules">Creating Modules</h1>
+<p>To create a Module for the Alliance Business Suite, you&apos;ll need to create a new Razor Class Library with DotNet. Then add a reference to the <code>FenixAlliance.ABP.SDK</code> Nuget package to your project and implement the <code>IModule</code> interface.</p>
+<p>This will give you access to the entire dependency tree of the Alliance Business Suite, which includes things like Internal Services, Database Access, and Initialization Middleware Entrypoints (to register your own custom services or InternalServices implementations). From there, is just like developing any other ASP.NET Class Library, but without having to worry about things like StartUp processes or complex application dependency wiring.</p>
+<p>Once your Module is ready for production, you can build it as a Nuget Package and install it into any ABS instance by uploading the .nupkg file to the Modules folder on the Root content path of your ABS instance or by uploading it to the <a href="https://gallery.absuite.net" target="_blank">ABS Public Modules Gallery</a> and install it through your Admin Portal..</p>
+<h1 id="what-can-modules-do">What Can Modules Do?</h1>
+<p>Modules make it easy to convert a basic Alliance Business Suite instance into a fully functioning online storefront, a membership site, a blog, or a website capable of handling the complex professional needs of a multinational corporation. Generally, Modules can add essential functions that are useful for any Alliance Business Suite instance, as well as features for specific needs.</p>
+<p>Modules can enhance your Alliance Business Suite instance by:</p>
+<ul>
+<li><strong>Adding Custom Functionalities.</strong> Modules are extremely powerful when it comes to building custom functionalities on top of the Alliance Business Suite. Even when it is super easy to static assets and server-side logic to the Alliance Business Suite through Pages, Components, and Templates, and even SPA applications can be added with the click of a button, Modules allow customers to add fully functional sets of components for the ABS instance. Modules can contain Static Assets, MVC sets, Blazor Components, Tag Helpers, API Controllers, Bot Dialogs, Middlewares, and more.</li>
+<li><strong>Improving user experience.</strong> Modules can add features to help users navigate through a portal, find content, leave comments, subscribe for updates, and contact site administrators.</li>
+<li><strong>Adding essential security features.</strong> The core Alliance Business Suite install comes with a great set of security features, but Modules can add sophisticated firewalls, alerts, user verifications, authentication providers, and spam blockers for greater site security.</li>
+<li>Speeding up site loading time. Modules can speed up an Alliance Business Suite portal by enabling caching and optimizing static files such as images and even videos.</li>
+<li>Streamlining your workflow. Modules can help optimize your site for searchability, add server-side logic and API endpoints.</li>
+<li><strong>Improving the site&#x2019;s appearance.</strong> Modules can add designer fonts, galleries, sliders, and media players to your site. Some themes require certain Modules to perform properly.</li>
+<li><strong>Adding needed features for your site&#x2019;s goals.</strong> Modules can add features like product pages and shopping carts to eCommerce sites, landing pages, paywalls, and a long list of other features to support the site&#x2019;s intended purpose.</li>
+</ul>
+<h1 id="best-practices-for-abs-module-development">Best practices for ABS Module Development</h1>
+<ul>
+<li>To reduce possible incompatibilities, it is recommended to create all your functionality inside an ASP.NET Area named after your Module. This will reduce the possibility to collide with other module namespaces and routes.  </li>
+<li>Whenever possible, use the default provided service interfaces under the <code>FenixAlliance.ABM.Data.Interfaces.Services</code> namespace.</li>
+<li>If you need to add a custom implementation for any service, it is recommended not to do so and instead create a new service; but in cases when there is no other choice, please consider inheriting from the Internal implementation and overriding the required virtual methods.</li>
+</ul>
+<h1 id="security-considerations">Security Considerations</h1>
+<p>Due to the power of Modules, they can be used to add incredible functionalities to your ABS instance, but they can also result in breaking functionalities and even security breaches. </p>
+<p>Keep in mind some general ideas while considering security for each aspect of your system:</p>
+<h2 id="reduce-exposure">Reduce exposure</h2>
+<p>First of all, make sure your Modules are always updated. Also, if you are not using a specific Module, delete it from the system.</p>
+<h2 id="limit-access">Limit access</h2>
+<p>Making smart Instance/Module/Theme configurations can drastically reduce possible entry points available to a malicious person.</p>
+<h2 id="containment">Containment</h2>
+<p>Your system should be configured to minimize the amount of damage that can be done in the event that it is compromised.</p>
+<h2 id="preparation-and-knowledge">Preparation and knowledge</h2>
+<p>Keeping backups and knowing the state of your Alliance Business Suite instance at regular intervals. Having a plan to backup and recover your installation in the case of catastrophe can help you get back online faster in the case of a problem.</p>
+<h2 id="trusted-sources">Trusted Sources</h2>
+<p>Do not get plugins/themes from untrusted sources. Restrict yourself to the WordPress.org repository or well-known companies. Trying to get plugins/themes from the outside may lead to issues.</p>
+
                                 
                                 </section>
                             
@@ -1049,12 +1088,12 @@
 
             
                 
-                <a href="Modules.html" class="navigation navigation-prev " aria-label="Previous page: Modules and Integrations">
+                <a href="Data-Access/Data-Repositories.html" class="navigation navigation-prev " aria-label="Previous page: Data Repositories">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="Internationalization/Localization-Strings.html" class="navigation navigation-next " aria-label="Next page: Localization Strings">
+                <a href="Internationalization.html" class="navigation navigation-next " aria-label="Next page: Internationalization">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1065,7 +1104,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Internationalization","level":"2.8","depth":1,"next":{"title":"Localization Strings","level":"2.8.1","depth":2,"path":"Internationalization/Localization-Strings.md","ref":"Internationalization/Localization-Strings.md","articles":[]},"previous":{"title":"Modules and Integrations","level":"2.7","depth":1,"path":"Modules.md","ref":"Modules.md","articles":[]},"dir":"neutral"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Internationalization.md","mtime":"2021-04-28T05:12:55.246Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-22T10:10:13.621Z"},"basePath":".","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Modules and Integrations","level":"2.7","depth":1,"next":{"title":"Internationalization","level":"2.8","depth":1,"path":"Internationalization.md","ref":"Internationalization.md","articles":[{"title":"Localization Strings","level":"2.8.1","depth":2,"path":"Internationalization/Localization-Strings.md","ref":"Internationalization/Localization-Strings.md","articles":[]}]},"previous":{"title":"Data Repositories","level":"2.6.1","depth":2,"path":"Data-Access/Data-Repositories.md","ref":"Data-Access/Data-Repositories.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Modules.md","mtime":"2021-05-22T10:10:10.113Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-22T10:10:13.621Z"},"basePath":".","book":{"language":"English"}});
         });
     </script>
 </div>
