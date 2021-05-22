@@ -1,4 +1,10 @@
 # Security Features
+If you own an Alliance Business Suite-powered infrastructure or are considering using the Alliance Business Suite as your CMS/CRM/ERP (or any other), you may be concerned about potential Alliance Business Suite security issues. In this post, we’ll outline a few of the most common ABS security vulnerabilities, along with steps you can take to secure and protect your Alliance Business Suite instance.
+
+
+## Is the Alliance Business Suite Secure?
+The answer to the question “is the Alliance Business Suite secure?” is it depends. The Alliance Business Suite itself is very secure as long as security best practices are followed.
+
 
 ### Encryption at rest <a id="encryption-at-rest"></a>
 
@@ -6,7 +12,7 @@ All files sent to our applications are automatically encrypted with a 256-bit Ad
 
 ### Encryption in transit <a id="encryption-in-transit"></a>
 
-We keep your data secure by enabling _transport-level security_ between our applications and the client. We ALWAYS use _HTTPS_ to secure communication over the public internet. When you call the REST APIs to access objects in storage accounts or our databases, we enforce the use of HTTPS by requiring secure transfer and connections that use HTTP will be refused and redirected.
+We keep your data secure by enabling _transport-level security_ between our applications and the client. We ALWAYS use _HTTPS_ to secure communication over the public internet. When you call the REST APIs to access objects in storage accounts or our databases, we enforce the use of HTTPS by requiring secure transfer, and connections that use HTTP will be refused and redirected.
 
 ### CORS support <a id="cors-support"></a>
 
