@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Overview - Alliance Business Suite Documentation</title>
+        <title>Web Development - Alliance Business Suite Documentation</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -77,10 +77,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="Changelog.html" />
+    <link rel="next" href="Web-Development/Razor-Pages.html" />
     
     
-    <link rel="prev" href="About.html" />
+    <link rel="prev" href="Fundamentals/Static-Files.html" />
     
 
     </head>
@@ -177,7 +177,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="2.2" data-path="Overview.html">
+        <li class="chapter " data-level="2.2" data-path="Overview.html">
             
                 <a href="Overview.html">
             
@@ -345,7 +345,7 @@
             
         </li>
     
-        <li class="chapter " data-level="2.5" data-path="Web-Development.html">
+        <li class="chapter active" data-level="2.5" data-path="Web-Development.html">
             
                 <a href="Web-Development.html">
             
@@ -994,7 +994,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Overview</a>
+        <a href="." >Web Development</a>
     </h1>
 </div>
 
@@ -1009,59 +1009,33 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="system-requirements">System requirements</h1>
-<p>The following browsers are supported:</p>
-<ul>
-<li>Google Chrome</li>
-<li>Microsoft Edge (supported on Windows 10)</li>
-<li>Apple Safari 11</li>
-<li>Internet Explorer 11</li>
-</ul>
-<h2 id="recommended-windows-server-hardware-minimum">Recommended Windows Server Hardware (Minimum)</h2>
-<ul>
-<li>Quad-core x64 2 GHz CPU or higher (x64 compatible dual-core 1.5 GHz processor)</li>
-<li>16GB Memory (8GB Memory)</li>
-<li>40GB free hard disk space (10GB free hard disk)</li>
-<li>Recommended SQL Server Hardware (Minimum)</li>
-<li>Quad-core x64 2 GHz CPU or higher (x64 compatible dual-core 1.5 GHz processor)</li>
-<li>16GB Memory (4GB Memory)</li>
-<li>Hard Disk: SSD Recommended</li>
-</ul>
-<h2 id="supported-operating-systems">Supported Operating Systems</h2>
-<p>The following operating systems are supported with the recommendation that the latest Windows updates are applied.</p>
-<ul>
-<li>Windows Server 2012 R2 x64 Datacenter / Standard</li>
-<li>Windows Server 2012 x64 Datacenter / Standard</li>
-</ul>
-<h2 id="supported-sql-server-editions">Supported SQL Server Editions</h2>
-<p>The following SQL Server Editions are supported with the recommendation that the latest Windows updates are applied.</p>
-<ul>
-<li>SQL Server 2019</li>
-<li>SQL Server 2017    </li>
-<li>SQL Server 2016    </li>
-<li>Azure SQL Service    </li>
-</ul>
-<p>Supported SQL Server Reporting Services (SSRS)
-The following SQL Server Reporting Services are supported with the recommendation that the latest Windows updates are applied.</p>
-<ul>
-<li>Microsoft SQL Server 2014 Enterprise x64</li>
-<li>Microsoft SQL Server 2014 Business Intelligence x64</li>
-<li>Microsoft SQL Server 2014 Standard x64</li>
-<li>Microsoft SQL Server 2012 Enterprise x64 SP1</li>
-<li>Microsoft SQL Server 2012 Business Intelligence x64 SP1</li>
-<li>Microsoft SQL Server 2012 Standard x64 SP1</li>
-</ul>
-<h2 id="internet-information-services-iis">Internet Information Services (IIS)</h2>
-<ul>
-<li>IIS 10, Windows Server 2016</li>
-<li>IIS 10.0, Windows 10 &amp; Windows Server 2019</li>
-</ul>
-<h2 id="required-software-components">Required Software Components</h2>
-<ul>
-<li>SQL &#x2013; SQL Word Breakers</li>
-<li>SQL &#x2013; SQL Server Agent Service</li>
-<li>SQL &#x2013; Server Full-Text Indexing</li>
-</ul>
+                                <h1 id="introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</h1>
+<p>[[<em>TOC</em>]]</p>
+<p>By <a href="https://twitter.com/DLozanoNavas" target="_blank">Daniel Lozano</a></p>
+<p>Portal Pages can make coding page-focused scenarios easier and more productive than using controllers and views.</p>
+<p>This document provides an introduction to the Alliance Business Suite - Razor Templating Engine</p>
+<h1 id="rendering-html">Rendering HTML</h1>
+<p>The default Razor language is HTML. Rendering HTML from Razor markup is no different than rendering HTML from an HTML file. HTML markup in .cshtml Razor files is rendered by the server unchanged.</p>
+<h1 id="razor-syntax">Razor syntax</h1>
+<p>Razor supports C# and uses the @ symbol to transition from HTML to C#. Razor evaluates C# expressions and renders them in the HTML output.</p>
+<p>When an @ symbol is followed by a Razor reserved keyword, it transitions into Razor-specific markup. Otherwise, it transitions into plain C#.</p>
+<p>To escape an @ symbol in Razor markup, use a second @ symbol:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@@Username<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
+<p>The code is rendered in HTML with a single @ symbol:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@Username<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
+<p>HTML attributes and content containing email addresses don&apos;t treat the @ symbol as a transition character. The email addresses in the following example are untouched by Razor parsing:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;mailto:Support@contoso.com&quot;</span>&gt;</span>Support@contoso.com<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+</code></pre>
+<h1 id="implicit-razor-expressions">Implicit Razor expressions</h1>
+<p>Implicit Razor expressions start with @ followed by C# code:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@DateTime.Now<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@DateTime.IsLeapYear(2016)<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
+<p>With the exception of the C# await keyword, implicit expressions must not contain spaces. If the C# statement has a clear ending, spaces can be intermingled:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@await DoSomething(&quot;hello&quot;, &quot;world&quot;)<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
 
                                 
                                 </section>
@@ -1089,12 +1063,12 @@ The following SQL Server Reporting Services are supported with the recommendatio
 
             
                 
-                <a href="About.html" class="navigation navigation-prev " aria-label="Previous page: Outlook">
+                <a href="Fundamentals/Static-Files.html" class="navigation navigation-prev " aria-label="Previous page: Static Files">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="Changelog.html" class="navigation navigation-next " aria-label="Next page: What's New?">
+                <a href="Web-Development/Razor-Pages.html" class="navigation navigation-next " aria-label="Next page: Web Pages">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1105,7 +1079,7 @@ The following SQL Server Reporting Services are supported with the recommendatio
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Overview","level":"2.2","depth":1,"next":{"title":"What's New?","level":"2.3","depth":1,"path":"Changelog.md","ref":"Changelog.md","articles":[]},"previous":{"title":"Outlook","level":"2.1","depth":1,"path":"About.md","ref":"About.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Overview.md","mtime":"2021-04-27T19:59:40.684Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-22T08:43:51.893Z"},"basePath":".","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Web Development","level":"2.5","depth":1,"next":{"title":"Web Pages","level":"2.5.1","depth":2,"path":"Web-Development/Razor-Pages.md","ref":"Web-Development/Razor-Pages.md","articles":[{"title":"Razor Syntax","level":"2.5.1.1","depth":3,"path":"Web-Development/Razor-Pages/Razor-Syntax.md","ref":"Web-Development/Razor-Pages/Razor-Syntax.md","articles":[]}]},"previous":{"title":"Static Files","level":"2.4.7","depth":2,"path":"Fundamentals/Static-Files.md","ref":"Fundamentals/Static-Files.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Web-Development.md","mtime":"2021-05-22T08:40:33.858Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-22T08:43:51.893Z"},"basePath":".","book":{"language":"English"}});
         });
     </script>
 </div>
