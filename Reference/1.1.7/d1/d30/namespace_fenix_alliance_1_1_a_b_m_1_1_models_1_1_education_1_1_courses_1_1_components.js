@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components =
+[
+    [ "CourseAssignmentComponent", "d1/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components_1_1_course_assignment_component.html", "d1/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components_1_1_course_assignment_component" ],
+    [ "CourseUnitComponent", "d2/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components_1_1_course_unit_component.html", "d2/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components_1_1_course_unit_component" ]
+];

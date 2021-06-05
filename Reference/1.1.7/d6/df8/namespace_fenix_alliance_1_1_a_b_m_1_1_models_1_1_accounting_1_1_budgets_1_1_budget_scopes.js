@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes =
+[
+    [ "ContactBudget", "df/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_contact_budget.html", "df/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_contact_budget" ],
+    [ "CostCentreBudget", "d6/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_cost_centre_budget.html", "d6/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_cost_centre_budget" ],
+    [ "ProjectBudget", "d8/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_project_budget.html", "d8/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_project_budget" ]
+];

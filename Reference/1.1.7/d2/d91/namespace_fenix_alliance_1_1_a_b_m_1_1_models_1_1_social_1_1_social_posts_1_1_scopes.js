@@ -1,0 +1,8 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes =
+[
+    [ "SocialBlogPost", "d4/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_blog_post.html", "d4/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_blog_post" ],
+    [ "SocialFeedPost", "d8/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_feed_post.html", "d8/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_feed_post" ],
+    [ "SocialForumPost", "d0/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_forum_post.html", "d0/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_forum_post" ],
+    [ "SocialGroupPost", "da/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_group_post.html", "da/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_group_post" ],
+    [ "SocialPagePost", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_page_post.html", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_scopes_1_1_social_page_post" ]
+];

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component =
+[
+    [ "FullWidthSliderShowcaseViewComponent", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html#ac803e5f7743e0e449c39b3d93b390e11", null ],
+    [ "InvokeAsync", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html#af0a7ef00d5aac438cdaf46ea4b44c80a", null ],
+    [ "DataContext", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html#a862ff3b2d3e843daae1f656126c51473", null ],
+    [ "HolderService", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html#aae737ca3a3c153e826c86a00ea8f54ee", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3 =
+[
+    [ "Item", "d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3.html#a9a8d0ce1df6b0f637a4ee450268c2f76", null ],
+    [ "ItemID", "d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3.html#ac6fab6e8af46834ff0af3803dacc65e9", null ]
+];

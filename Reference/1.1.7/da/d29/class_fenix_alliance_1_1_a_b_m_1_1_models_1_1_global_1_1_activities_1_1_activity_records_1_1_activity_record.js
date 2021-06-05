@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record =
+[
+    [ "Activities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a93d602100dea156833d9d37e6a509fd2", null ],
+    [ "ActivityFeed", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a39132bbc64eb15307cb10a6d49916d78", null ],
+    [ "ActivityFeedID", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a342f1f869887d89d4a5f070857769db9", null ],
+    [ "Business", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a6b18e7edfd59a3a3cc41ae5114242603", null ],
+    [ "BusinessID", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ae4e43d039bebfcd383cb1cf95ecc89a6", null ],
+    [ "BusinessProfileRecord", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a588335d20257e3142f8e1c68a44605b3", null ],
+    [ "BusinessProfileRecordID", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a3161b7d99bf7f5b194bfa04a5bea5a37", null ],
+    [ "Description", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a64e20bde96c1d3def67d1c860546dcf7", null ],
+    [ "EnableAlertActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a8cd6dcb7ed1e924ed9fabda5ab9de49d", null ],
+    [ "EnableAnnotationActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a6a177e989f8b747af92f0510888e32b2", null ],
+    [ "EnableAppointmentActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#acc14d12a0538ab3e19682b5f6bf45c5d", null ],
+    [ "EnableEmailActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#adb46d54d256927dd83540eaa432c4cfe", null ],
+    [ "EnableFaxActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#aecf36024ae9eb4148f8486361a185617", null ],
+    [ "EnableLetterActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#abf7e52d2ef6e0b97f3a608bc339e142c", null ],
+    [ "EnablePhoneCallActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ab22e7c387f6c57e91eed6bd1f900930e", null ],
+    [ "EnableTaskActivities", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ad89c3dee8eaed91cf30ca1a19ab1dbeb", null ],
+    [ "ID", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a4827070e17f3123ac23eea108b947cb7", null ],
+    [ "ParentActivity", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ae197c9ef236b3162042a9e2c72092067", null ],
+    [ "ParentActivityID", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ab7b47b2a16ea12b52a6ebe3fcc6a676a", null ],
+    [ "Timestamp", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a56e211572676196c6115e47edd03d05a", null ],
+    [ "Title", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#a4a01940333fe8da49fa352323b75e7fa", null ],
+    [ "Type", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html#ab6af37b51b1578f38d120bb8af324576", null ]
+];

@@ -1,0 +1,10 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0 =
+[
+    [ "Business", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#adc51620ebf0ec1ac61ba152e33663dd4", null ],
+    [ "BusinessID", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#a3825e64ae73a50642394e2d2b887f8ad", null ],
+    [ "BusinessPermission", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#a06ae6e3a275ef2bf87ab364b1835eea3", null ],
+    [ "BusinessPermissionID", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#a89db6320bf4b6998615844eac1d0fc9a", null ],
+    [ "GrantorBusinessProfileRecord", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#af2415248d83100b89778fbd2b746622d", null ],
+    [ "GrantorBusinessProfileRecordID", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#a932af3ce38461da43800d3819422cfc2", null ],
+    [ "ID", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html#a389abb492df5eb6b528623a1a061d636", null ]
+];

@@ -1,0 +1,7 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation =
+[
+    [ "BusinessIndustry", "d2/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry.html", "d2/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry" ],
+    [ "BusinessIndustryRecord", "d5/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry_record.html", "d5/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry_record" ],
+    [ "BusinessSegment", "dc/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_segment.html", "dc/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_segment" ],
+    [ "BusinessType", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_type.html", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_type" ]
+];

@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7 =
+[
+    [ "ID", "d0/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7.html#a25865b377627704637b2b17edc09b2e8", null ],
+    [ "PaymentTerm", "d0/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7.html#a7c989502c7437c5ec387763ec440c058", null ],
+    [ "PaymentTermID", "d0/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7.html#a69bee52fca50f4d0c51a5085f58b7d5e", null ],
+    [ "PaymentTermsTemplate", "d0/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7.html#a6e6ff9412020ab53cca8244c9aa37390", null ],
+    [ "PaymentTermsTemplateID", "d0/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_te9395dc982a9e791afbbc9d1675c4b3f7.html#a3952d2866b986ffe14c42bb0e908db02", null ]
+];

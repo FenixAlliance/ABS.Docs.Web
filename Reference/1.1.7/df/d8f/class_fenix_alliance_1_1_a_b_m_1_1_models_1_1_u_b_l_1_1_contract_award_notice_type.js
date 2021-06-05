@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type =
+[
+    [ "ContractFolderID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ac5bbaaf33a21ac491e8b2b358550ef04", null ],
+    [ "ContractingParty", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ac73197643ddead59a2d6533e4b53590d", null ],
+    [ "CopyIndicator", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a00b754b41036f9aa131fc7aa0fbe1bcf", null ],
+    [ "CustomizationID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#af91c1707590ed3f00c63e1ac342f952c", null ],
+    [ "ID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ae4cd9ba77eeb0ba08f4016956fc5d372", null ],
+    [ "IssueDate", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a299bf9fb67bb303ead6d3c9c6a8384a9", null ],
+    [ "IssueTime", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a34de3f83ea81c0361ffc82192b98b7c4", null ],
+    [ "MinutesDocumentReference", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ac85225806630815775ce99bc584ad77b", null ],
+    [ "Note", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#afd9f47d887d58b00385a04667b9a231f", null ],
+    [ "OriginatorCustomerParty", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ace772972721982df80b6a6a12de27927", null ],
+    [ "PreviousDocumentReference", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a105f73c91889af0938830419fb18c19b", null ],
+    [ "ProcurementProject", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a3815dbd211c43994b4a32121f089ef18", null ],
+    [ "ProcurementProjectLot", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#abf6dc8ba3a050ffa6cf2883b0451c32f", null ],
+    [ "ProfileExecutionID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a4f80eceedc0b7244eb59af04c9d83162", null ],
+    [ "ProfileID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#af9dac60f0d10cca7f6d22d4c767ef623", null ],
+    [ "PublishAwardIndicator", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a099336f8298f2d32e3debf59d1f96514", null ],
+    [ "ReceiverParty", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a78eb13c8bd10235b3d3448149e410767", null ],
+    [ "RegulatoryDomain", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ac2466193e999d23790c7ed4827e46227", null ],
+    [ "Signature", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a46e8449796c5a61edb59ca15768c8f30", null ],
+    [ "TenderingProcess", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a3084705e1d6218f5e034f02fdc675e4a", null ],
+    [ "TenderingTerms", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ab5aeb2fab7b17a5d0dae41d770782322", null ],
+    [ "TenderResult", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#ad3e15d2774e7566e30887d2ea7f21e0f", null ],
+    [ "UBLExtensions", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#afcd477f4fa5b94b7e1d9867368a560c8", null ],
+    [ "UBLVersionID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a1bc370370990c8c0e30b441ba6d6c058", null ],
+    [ "UUID", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html#a717a02bab9ff07b6e9cc03212847327c", null ]
+];

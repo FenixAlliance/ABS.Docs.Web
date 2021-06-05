@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements_1_1_measurement_options =
+[
+    [ "DefaultDimensionUInit", "de/d3e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements_1_1_measurement_options.html#a8c7c74ece80312fd8d2dbe83f0391417", null ],
+    [ "DefaultWeightUnit", "de/d3e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements_1_1_measurement_options.html#ac9e177c8879af8b3e68151ecf7a70c9e", null ]
+];

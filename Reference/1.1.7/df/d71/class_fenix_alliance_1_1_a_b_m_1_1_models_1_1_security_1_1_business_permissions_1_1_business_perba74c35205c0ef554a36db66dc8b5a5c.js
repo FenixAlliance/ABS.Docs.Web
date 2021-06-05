@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perba74c35205c0ef554a36db66dc8b5a5c =
+[
+    [ "BusinessApplication", "df/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perba74c35205c0ef554a36db66dc8b5a5c.html#acf095db9a19da569efdef493f9881659", null ],
+    [ "BusinessApplicationGrantScope", "df/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perba74c35205c0ef554a36db66dc8b5a5c.html#a5f6e50de3d083c07fea95b94c66d478f", null ],
+    [ "BusinessApplicationID", "df/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perba74c35205c0ef554a36db66dc8b5a5c.html#a1f41749a8392e838cdac95295c972f08", null ]
+];

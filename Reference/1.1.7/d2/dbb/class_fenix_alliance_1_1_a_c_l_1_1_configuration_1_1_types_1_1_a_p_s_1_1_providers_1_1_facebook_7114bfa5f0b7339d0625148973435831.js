@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831 =
+[
+    [ "AppId", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html#ae973521db5b9478d51735cf0557f193c", null ],
+    [ "AppSecret", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html#a8031c5fc7c0a7d9df45ffb6fc55456ea", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_groups =
+[
+    [ "SupplierGroup", "df/de3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_groups_1_1_supplier_group.html", "df/de3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_groups_1_1_supplier_group" ],
+    [ "SupplierGroupRecord", "da/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_groups_1_1_supplier_group_record.html", "da/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_groups_1_1_supplier_group_record" ]
+];

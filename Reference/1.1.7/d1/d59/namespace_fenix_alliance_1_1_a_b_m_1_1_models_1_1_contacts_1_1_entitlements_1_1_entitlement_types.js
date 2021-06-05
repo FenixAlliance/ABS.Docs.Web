@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement_types =
+[
+    [ "PriceListEntitlement", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement_types_1_1_price_list_entitlement.html", null ]
+];

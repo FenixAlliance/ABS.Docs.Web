@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests =
+[
+    [ "WarrantyRequest", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request.html", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset =
+[
+    [ "RequiredSkillRecord", "d1/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset_1_1_required_skill_record.html", "d1/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset_1_1_required_skill_record" ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile =
+[
+    [ "JobOfferApplication", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html#a77d7bf5a3bc7d973816cbee2915669b8", null ]
+];

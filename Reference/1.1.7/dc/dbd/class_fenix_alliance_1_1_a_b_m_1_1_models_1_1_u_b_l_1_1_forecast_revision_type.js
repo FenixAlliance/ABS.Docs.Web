@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type =
+[
+    [ "BuyerCustomerParty", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a0f5c923d39f66146ebc4150572d7bb79", null ],
+    [ "CopyIndicator", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a8038dff615623d96315c2cf6ead993eb", null ],
+    [ "CustomizationID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a07476354883e9bb4dd2a00d358640567", null ],
+    [ "ForecastPeriod", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#abe4a0fce1cc3e8774a443dec9d0e6649", null ],
+    [ "ForecastRevisionLine", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#ac5ebf4754f198689238743117451df7b", null ],
+    [ "ID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a037194c684dd5ac30b00c3cf4e28506d", null ],
+    [ "IssueDate", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a456f3fa01ee0dd2fec04aaa55a5cb955", null ],
+    [ "IssueTime", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a20dfa309bba7dfe67c065b5045f85a88", null ],
+    [ "Note", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a20330b52a386028fee348b6ae40a6b72", null ],
+    [ "OriginalDocumentReference", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#abdcd9d4d8ffcae2fc947ff5e39bbaf71", null ],
+    [ "ProfileExecutionID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a1278938d667fe57b7f91eed29bd810b3", null ],
+    [ "ProfileID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#afba48b1a70b702e43efa46277f38449a", null ],
+    [ "PurposeCode", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a0b3318e3b1281db238e5764777f0a998", null ],
+    [ "ReceiverParty", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a811f4ffa2d51a4d04ecc756d3796559a", null ],
+    [ "RevisionStatusCode", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#ac20a481c43edd464beb84cbbf1298eb8", null ],
+    [ "SellerSupplierParty", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a33a557005c5dace3c47d81bfbbd627b2", null ],
+    [ "SenderParty", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a72a980e52643f21ed41989fdc8328b81", null ],
+    [ "SequenceNumberID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#ad26866d3cd4fdfc62f85e2bcb9ed7993", null ],
+    [ "Signature", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#aec5ba57656354675f2725436cd2cd826", null ],
+    [ "UBLExtensions", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a8b72bf804726d8d0afc3325390ebc840", null ],
+    [ "UBLVersionID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a33c0f2fe968dfa9ca41d71ca73a9253f", null ],
+    [ "UUID", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forecast_revision_type.html#a29525731de28f492f6935e1d490857b1", null ]
+];

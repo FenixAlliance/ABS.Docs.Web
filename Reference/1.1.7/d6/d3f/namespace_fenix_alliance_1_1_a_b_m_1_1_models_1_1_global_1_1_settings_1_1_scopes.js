@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes =
+[
+    [ "AccountHolderSettings", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_account_holder_settings.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_account_holder_settings" ],
+    [ "BusinessTenantSettings", "d2/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_business_tenant_settings.html", "d2/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_business_tenant_settings" ],
+    [ "SingletonApplicationSettings", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings.html", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook =
+[
+    [ "FacebookAuthenticationOptions", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831" ]
+];

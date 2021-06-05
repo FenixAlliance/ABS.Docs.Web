@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_retain_samples =
+[
+    [ "ItemRetainSample", "dd/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_retain_samples_1_1_item_retain_sample.html", "dd/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_retain_samples_1_1_item_retain_sample" ]
+];

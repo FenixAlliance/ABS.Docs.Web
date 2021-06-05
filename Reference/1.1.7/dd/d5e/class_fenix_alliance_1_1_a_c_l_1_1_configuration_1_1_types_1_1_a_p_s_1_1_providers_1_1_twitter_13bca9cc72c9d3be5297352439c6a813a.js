@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a =
+[
+    [ "ConsumerKey", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a.html#afee8c5a974e6cb36e4c6284b87b4eb2f", null ],
+    [ "ConsumerSecret", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a.html#a52c39a025c7bf76519c2b517eb91f756", null ],
+    [ "RetrieveUserDetails", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a.html#a2d36c4d33aab5c5759bb6e3c3da58a72", null ]
+];

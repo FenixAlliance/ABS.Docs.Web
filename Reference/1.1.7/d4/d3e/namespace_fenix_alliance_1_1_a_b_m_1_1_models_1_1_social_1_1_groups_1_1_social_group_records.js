@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_records =
+[
+    [ "SocialGroupRecord", "df/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_records_1_1_social_group_record.html", "df/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_records_1_1_social_group_record" ]
+];

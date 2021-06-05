@@ -1,0 +1,9 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching =
+[
+    [ "CachingOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options.html", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options" ],
+    [ "DistributedCache", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache.html", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache" ],
+    [ "DistributedMemoryCache", "da/d65/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_memory_cache.html", "da/d65/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_memory_cache" ],
+    [ "DistributedSqlServerCache", "de/dfa/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_sql_server_cache.html", "de/dfa/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_sql_server_cache" ],
+    [ "MemoryCache", "db/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_memory_cache.html", "db/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_memory_cache" ],
+    [ "ResponseCachingOptions", "d3/d9b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_response_caching_options.html", "d3/d9b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_response_caching_options" ]
+];

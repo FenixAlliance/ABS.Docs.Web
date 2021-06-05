@@ -1,0 +1,13 @@
+<map id="FenixAlliance.ACL.Configuration.Types.ICX.Payments.PaymentMethod" name="FenixAlliance.ACL.Configuration.Types.ICX.Payments.PaymentMethod">
+<area shape="rect" id="node1" title=" " alt="" coords="144,275,391,316"/>
+<area shape="rect" id="node3" href="$d3/d27/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_bank_transfer.html" title=" " alt="" coords="452,5,735,47"/>
+<area shape="rect" id="node4" href="$db/d8e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_cash_on_delivery.html" title=" " alt="" coords="444,71,743,112"/>
+<area shape="rect" id="node5" href="$d4/d83/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_check_payment.html" title=" " alt="" coords="446,136,741,177"/>
+<area shape="rect" id="node6" href="$de/d6e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_e_payco_check_out.html" title=" " alt="" coords="439,201,748,243"/>
+<area shape="rect" id="node7" href="$df/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_mercado_pago_checkout.html" title=" " alt="" coords="466,267,721,323"/>
+<area shape="rect" id="node8" href="$d8/ddb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_pay_pal_checkout.html" title=" " alt="" coords="442,348,745,389"/>
+<area shape="rect" id="node9" href="$d9/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_pay_pal_standard.html" title=" " alt="" coords="444,413,743,455"/>
+<area shape="rect" id="node10" href="$df/df6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_stripe_standard.html" title=" " alt="" coords="448,479,739,520"/>
+<area shape="rect" id="node11" href="$d2/dd7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_wompi_checkout.html" title=" " alt="" coords="443,544,743,585"/>
+<area shape="rect" id="node2" href="$d1/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_option.html" title=" " alt="" coords="5,282,96,309"/>
+</map>

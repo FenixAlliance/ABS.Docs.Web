@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cognitive_1_1_cognitive_options =
+[
+    [ "BotEngine", "d5/dfc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cognitive_1_1_cognitive_options.html#a8b3a4efd8ff4b67a20bfdda6b0e26ee2", null ]
+];

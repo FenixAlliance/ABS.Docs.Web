@@ -1,0 +1,16 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options =
+[
+    [ "AllowGuestCartRecognition", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a3759c44c48fe6009fa45f2f716ae05f7", null ],
+    [ "AllowGuestOrders", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a39f51c4bde20f37fd082f27216fbbc23", null ],
+    [ "AllowRemoveDownloadAccessOnRequest", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#ae25dea3c72605acb01d4da9a344d6085", null ],
+    [ "AllowRemovePersonalDataFromOrdersOnRequest", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a46eb660a1ea1dfde394d3676bdd40e5d", null ],
+    [ "AllowRemovePersonalDataFromSubscriptionsOnRequest", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#abca4108293a7aae930a45536cc7b2d84", null ],
+    [ "CancelledOrdersRetentionPolicy", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a080be379249e7989e900b4d392c1c4af", null ],
+    [ "CompletedOrdersRetentionPolicy", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#ae6762571a4a026499e603e1177722ab4", null ],
+    [ "DefaultCustomerLocation", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a4ebfc8797540e081654812755d5c3a44", null ],
+    [ "FailedOrdersRetentionPolicy", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#ad2c016affb11d1d075776a2b52137f19", null ],
+    [ "InactiveCartsRetentionPolicy", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#ab4507cb7c1177d4e4db87c04e17bdf26", null ],
+    [ "PendingOrdersRetentionPolicy", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a8eb4fd432c49c0ee8ce0fbb307ec0503", null ],
+    [ "StoreCheckoutPrivacyPolicyNotice", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#a54495624de2080a778c1245cb0804696", null ],
+    [ "StoreRegistrationPrivacyPolicyNotice", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html#adf27474206f63f2dac27a28f20a76cab", null ]
+];

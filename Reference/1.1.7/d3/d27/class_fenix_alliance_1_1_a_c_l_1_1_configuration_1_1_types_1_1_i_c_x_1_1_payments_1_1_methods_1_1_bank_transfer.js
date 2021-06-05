@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_bank_transfer =
+[
+    [ "BankAccounts", "d3/d27/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_bank_transfer.html#a08aa65e5815d384d5daa143f516920e9", null ]
+];
