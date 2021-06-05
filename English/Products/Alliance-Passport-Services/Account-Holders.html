@@ -448,7 +448,20 @@
             
         </li>
     
-        <li class="chapter " data-level="2.6" data-path="../../Data-Access.html">
+        <li class="chapter " data-level="2.6" data-path="../../Web-API-Development.html">
+            
+                <a href="../../Web-API-Development.html">
+            
+                    
+                    Web API Development
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="../../Data-Access.html">
             
                 <a href="../../Data-Access.html">
             
@@ -462,7 +475,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="2.6.1" data-path="../../Data-Access/Data-Repositories.html">
+        <li class="chapter " data-level="2.7.1" data-path="../../Data-Access/Data-Repositories.html">
             
                 <a href="../../Data-Access/Data-Repositories.html">
             
@@ -480,7 +493,7 @@
             
         </li>
     
-        <li class="chapter " data-level="2.7" data-path="../../Modules.html">
+        <li class="chapter " data-level="2.8" data-path="../../Modules.html">
             
                 <a href="../../Modules.html">
             
@@ -493,7 +506,7 @@
             
         </li>
     
-        <li class="chapter " data-level="2.8" data-path="../../Internationalization.html">
+        <li class="chapter " data-level="2.9" data-path="../../Internationalization.html">
             
                 <a href="../../Internationalization.html">
             
@@ -507,7 +520,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="2.8.1" data-path="../../Internationalization/Localization-Strings.html">
+        <li class="chapter " data-level="2.9.1" data-path="../../Internationalization/Localization-Strings.html">
             
                 <a href="../../Internationalization/Localization-Strings.html">
             
@@ -1058,9 +1071,9 @@
                                 <h1 id="introduction-to-account-holder-entities">Introduction to Account Holder Entities</h1>
 <p>An Account Holder is a CredentialsPrincipal for the APS Engine. It represents a human user identified by a username/password. (Unless using some kind of federated identity service like Azure Active Directory, Google, Facebook, Microsoft Identity, etc...)</p>
 <p>The &quot;Credentials&quot; aspect of APS Identity and Access Management (IAM) helps you with the question &quot;Who is that user?&quot;, often referred to as authentication. Instead of sharing your root user credentials with others, you can create individual Account Holders within your instance that correspond to users in your organization. </p>
-<p>In the following figure, the user&apos;s Sebastien, Fernando, Camila, Alejandro, Ana, and Julianna have been added to a single ABS Instance. Each Account Holder will have their own credentials.</p>
+<p>In the following figure, the users Sebastien, Fernando, Camila, Alejandro, Ana, and Julianna have been added to a single ABS Instance. Each Account Holder will have their own credentials.</p>
 <h2 id="first-time-access-only-your-root-user-credentials">First-time access only: Your root user credentials</h2>
-<p>When you create an ABS Instance, you create an APS Account Holder root identity, which you use to sign in to the instance. You can sign in to the ABS Studio and the ABS Portal Admin using this root user identity; that is, the email address and password that you provided when creating the instance. This combination of your email address and password is also called your root user credentials.</p>
+<p>When you create an ABS Instance, you create an APS Account Holder root identity, which you will use to sign in to the instance. You can sign in to the ABS Studio and the ABS Portal Admin using this root user identity; that is, the email address and password that you provided when installing the instance. This combination of your email address and password is also called your root user credentials.</p>
 <p>When you use your root user credentials, you have complete, unrestricted access to all resources in your ABS instance, including access to your billing and licensing information and the ability to change your password and set multi-factor authentication. This level of access is necessary when you first set up your account. However, <strong>we recommend that you don&apos;t use root user credentials for everyday access</strong>. We especially recommend that you do not share your root user credentials with anyone because doing so gives them unrestricted access to your instance. Only service control policies (SCPs) in tenants can restrict the permissions that are granted to the root user.</p>
 <p>We recommend that you create an Account Holder for yourself and then assign yourself administrative permissions for your account. You can then sign in as the new user to add more users and transact over resources as needed.</p>
 <p>The following sections explain how you can use APS to create and manage user identity and permissions to provide secure, limited access to your ABS instance, both for yourself and for others who need to work with your ABS instance.</p>
@@ -1136,7 +1149,7 @@ Select the Hello <email alias=""> link at the top-right corner to navigate to th
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Account Holders","level":"3.4.1","depth":2,"next":{"title":"Business Tenants","level":"3.4.2","depth":2,"path":"Products/Alliance-Passport-Services/Business-Tenants.md","ref":"Products/Alliance-Passport-Services/Business-Tenants.md","articles":[]},"previous":{"title":"Alliance Passport Services","level":"3.4","depth":1,"path":"Products/Alliance-Passport-Services.md","ref":"Products/Alliance-Passport-Services.md","articles":[{"title":"Account Holders","level":"3.4.1","depth":2,"path":"Products/Alliance-Passport-Services/Account-Holders.md","ref":"Products/Alliance-Passport-Services/Account-Holders.md","articles":[]},{"title":"Business Tenants","level":"3.4.2","depth":2,"path":"Products/Alliance-Passport-Services/Business-Tenants.md","ref":"Products/Alliance-Passport-Services/Business-Tenants.md","articles":[]},{"title":"Identity & Access Management","level":"3.4.3","depth":2,"path":"Products/Alliance-Passport-Services/Identity-and-Access-Manager.md","ref":"Products/Alliance-Passport-Services/Identity-and-Access-Manager.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Products/Alliance-Passport-Services/Account-Holders.md","mtime":"2021-04-30T06:18:08.126Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-23T00:23:48.977Z"},"basePath":"../..","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Account Holders","level":"3.4.1","depth":2,"next":{"title":"Business Tenants","level":"3.4.2","depth":2,"path":"Products/Alliance-Passport-Services/Business-Tenants.md","ref":"Products/Alliance-Passport-Services/Business-Tenants.md","articles":[]},"previous":{"title":"Alliance Passport Services","level":"3.4","depth":1,"path":"Products/Alliance-Passport-Services.md","ref":"Products/Alliance-Passport-Services.md","articles":[{"title":"Account Holders","level":"3.4.1","depth":2,"path":"Products/Alliance-Passport-Services/Account-Holders.md","ref":"Products/Alliance-Passport-Services/Account-Holders.md","articles":[]},{"title":"Business Tenants","level":"3.4.2","depth":2,"path":"Products/Alliance-Passport-Services/Business-Tenants.md","ref":"Products/Alliance-Passport-Services/Business-Tenants.md","articles":[]},{"title":"Identity & Access Management","level":"3.4.3","depth":2,"path":"Products/Alliance-Passport-Services/Identity-and-Access-Manager.md","ref":"Products/Alliance-Passport-Services/Identity-and-Access-Manager.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Products/Alliance-Passport-Services/Account-Holders.md","mtime":"2021-06-02T16:36:29.433Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-05T14:07:01.590Z"},"basePath":"../..","book":{"language":"English"}});
         });
     </script>
 </div>

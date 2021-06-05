@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Web Development - Alliance Business Suite Documentation</title>
+        <title>Web API Development - Alliance Business Suite Documentation</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -77,10 +77,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="Web-Development/Razor-Pages.html" />
+    <link rel="next" href="Data-Access.html" />
     
     
-    <link rel="prev" href="Fundamentals/Static-Files.html" />
+    <link rel="prev" href="Web-Development/Session-and-state-management.html" />
     
 
     </head>
@@ -345,7 +345,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="2.5" data-path="Web-Development.html">
+        <li class="chapter " data-level="2.5" data-path="Web-Development.html">
             
                 <a href="Web-Development.html">
             
@@ -448,7 +448,7 @@
             
         </li>
     
-        <li class="chapter " data-level="2.6" data-path="Web-API-Development.html">
+        <li class="chapter active" data-level="2.6" data-path="Web-API-Development.html">
             
                 <a href="Web-API-Development.html">
             
@@ -1053,7 +1053,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Web Development</a>
+        <a href="." >Web API Development</a>
     </h1>
 </div>
 
@@ -1068,33 +1068,132 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</h1>
-<p>[[<em>TOC</em>]]</p>
-<p>By <a href="https://twitter.com/DLozanoNavas" target="_blank">Daniel Lozano</a></p>
-<p>Portal Pages can make coding page-focused scenarios easier and more productive than using controllers and views.</p>
-<p>This document provides an introduction to the Alliance Business Suite - Razor Templating Engine</p>
-<h1 id="rendering-html">Rendering HTML</h1>
-<p>The default Razor language is HTML. Rendering HTML from Razor markup is no different than rendering HTML from an HTML file. HTML markup in .cshtml Razor files is rendered by the server unchanged.</p>
-<h1 id="razor-syntax">Razor syntax</h1>
-<p>Razor supports C# and uses the @ symbol to transition from HTML to C#. Razor evaluates C# expressions and renders them in the HTML output.</p>
-<p>When an @ symbol is followed by a Razor reserved keyword, it transitions into Razor-specific markup. Otherwise, it transitions into plain C#.</p>
-<p>To escape an @ symbol in Razor markup, use a second @ symbol:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@@Username<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+                                <p>The Alliance Business Suite supports creating RESTful services, also known as web APIs, using C#. To handle requests, a web API uses controllers. Controllers in the Alliance Business Suite can be added from several approaches, some of which will allow you to access every Alliance Business Suite feature that&apos;s available. Controllers are classes that derive from ControllerBase and can be added as Modules to the Alliance Business Suite by installing them as a Nuget Package or uploading them through your instance or File System. </p>
+<p>This article shows how to use controllers for handling web API requests.</p>
+<h2 id="controllerbase-class">ControllerBase class</h2>
+<p>The Alliance Business Suite is written in C# using .NET, and several interfaces have been set in place to make it as extensible as it can be. </p>
+<p>The Alliance Business Suite allows customers to develop their own API Sets (which consists of one or more controller classes that derive from ControllerBase) just as if they were building a .NET API, with one main difference. You don&apos;t need to worry about wiring features and managing complicated stuff such as authentication processes, dependency injection, and application startup. Also, you can use the ABS SDK to build amazing custom functionalities with just a few lines of code.</p>
+<p>Please consider the following class as an example of  the most basic custom API Controller for the Alliance Business Suite:</p>
+<pre><code class="lang-csharp">
+[ApiController]
+[Route(<span class="hljs-string">&quot;api/v2/[controller]&quot;</span>)]
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title">LicensesController</span> : <span class="hljs-title">ControllerBase</span> {
+
+        <span class="hljs-comment">// Constructor</span>
+        <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">LicensesController</span>(<span class="hljs-params"></span>)</span>{
+        }
+
+        [HttpGet(<span class="hljs-string">&quot;validate/{LicenceID}&quot;</span>)]
+        <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">async</span> Task&lt;ActionResult&gt; <span class="hljs-title">Get</span>(<span class="hljs-params"><span class="hljs-keyword">string</span> LicenceID</span>)
+        </span>{
+            <span class="hljs-keyword">await</span> Task.Delay(<span class="hljs-number">1000</span>);
+            <span class="hljs-keyword">return</span> Ok(LicenceID);
+        }
+
+}
 </code></pre>
-<p>The code is rendered in HTML with a single @ symbol:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@Username<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+<p>The previous controller will be available at <code>/api/v2/licenses</code> and the Get method can be invoked by making an HTTP GET request to <code>/api/v2/licenses/validate/{LicenseID}</code></p>
+<p>Also, it is worth pointing out that the Alliance Business Suite DOES have support for the MVC Pattern, you should not create a web API controller by deriving from the <code>Controller</code> class. <code>Controller</code> derives from <code>ControllerBase</code> and adds support for views, so it&apos;s for handling web pages, not web API requests. There&apos;s an exception to this rule: if you plan to use the same controller for both views and web APIs, derive it from <code>Controller</code>.&quot;</p>
+<p>In essence, creating an Alliance Business Suite compatible Controller is just as straightforward as creating a .NET API Controller with a few additions:</p>
+<ul>
+<li>You can inject, through dependency injection, any registered Alliance Business Suite Service. This includes every interface provided with the following schema: I{ServiceName}Service (e.g: IAuthService, IHolderService, IViewRenderingService, ICodeCompilationService, and other 100+).</li>
+</ul>
+<p>Please consider the following class as an example of a Custom Complex Controller for the Alliance Business Suite:</p>
+<pre><code class="lang-csharp">
+<span class="hljs-keyword">using</span> FenixAlliance.ABM.Data;
+<span class="hljs-keyword">using</span> FenixAlliance.ABM.Data.Interfaces.Services;
+<span class="hljs-keyword">using</span> Microsoft.AspNetCore.Authorization;
+<span class="hljs-keyword">using</span> Microsoft.AspNetCore.Mvc;
+<span class="hljs-keyword">using</span> Microsoft.EntityFrameworkCore;
+<span class="hljs-keyword">using</span> Microsoft.Extensions.Configuration;
+<span class="hljs-keyword">using</span> Microsoft.Extensions.Hosting;
+<span class="hljs-keyword">using</span> System;
+<span class="hljs-keyword">using</span> System.Collections.Generic;
+<span class="hljs-keyword">using</span> System.Threading.Tasks;
+
+<span class="hljs-keyword">namespace</span> <span class="hljs-title">FenixAlliance.Areas.Licensing.Controllers</span>
+{
+    [ApiController]
+    [Route(<span class="hljs-string">&quot;api/v2/CustomMe&quot;</span>)]
+    [ApiExplorerSettings(IgnoreApi = <span class="hljs-keyword">true</span>)]
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title">HolderController</span> : <span class="hljs-title">ControllerBase</span> {
+
+        <span class="hljs-keyword">public</span> DataContext DataContext { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IAuthService AuthService { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IStoreService StoreService { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IConfiguration Configuration { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IHostEnvironment Environment { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IHolderService HolderService { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> ITenantService TenantService { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+        <span class="hljs-keyword">public</span> IStorageService StorageService { <span class="hljs-keyword">get</span>; <span class="hljs-keyword">set</span>; }
+
+        <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">LicensesController</span>(<span class="hljs-params">
+            DataContext DataContext,
+            IConfiguration Configuration,
+            IHostEnvironment Environment,
+            IStoreService StoreService,
+            ITenantService TenantService,
+            IHolderService HolderService,
+            IAuthService AuthService,
+            IStorageService StorageService
+        </span>)
+        </span>{
+            <span class="hljs-keyword">this</span>.AuthService = AuthService;
+            <span class="hljs-keyword">this</span>.DataContext = DataContext;
+            <span class="hljs-keyword">this</span>.Environment = Environment;
+            <span class="hljs-keyword">this</span>.StoreService = StoreService;
+            <span class="hljs-keyword">this</span>.Configuration = Configuration;
+            <span class="hljs-keyword">this</span>.HolderService = HolderService;
+            <span class="hljs-keyword">this</span>.TenantService = TenantService;
+            <span class="hljs-keyword">this</span>.StorageService = StorageService;
+        }
+
+        <span class="hljs-comment"><span class="hljs-doctag">///</span> <span class="hljs-doctag">&lt;summary&gt;</span></span>
+        <span class="hljs-comment"><span class="hljs-doctag">///</span> Get the current user profile</span>
+        <span class="hljs-comment"><span class="hljs-doctag">///</span> <span class="hljs-doctag">&lt;/summary&gt;</span></span>
+        <span class="hljs-comment"><span class="hljs-doctag">///</span> <span class="hljs-doctag">&lt;returns&gt;</span><span class="hljs-doctag">&lt;/returns&gt;</span></span>
+        [HttpGet]
+        [Produces(<span class="hljs-string">&quot;application/json&quot;</span>)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(<span class="hljs-keyword">typeof</span>(Holder), StatusCodes.Status200OK)]
+        [ProducesResponseType(<span class="hljs-keyword">typeof</span>(ResponseStatus), StatusCodes.Status401Unauthorized)]
+        <span class="hljs-keyword">public</span> <span class="hljs-keyword">async</span> Task&lt;ActionResult&lt;APIResponse&gt;&gt; GetMe()
+        {
+            <span class="hljs-keyword">var</span> apiResponse = JsonConvert.DeserializeObject&lt;APIResponse&gt;(
+                JsonConvert.SerializeObject(
+                    <span class="hljs-keyword">await</span> AuthService.BindAPIBaseResponse(
+                        DataContext,
+                        HttpContext,
+                        Request,
+                        HolderService,
+                        User
+                        )
+                    )
+                );
+
+            <span class="hljs-keyword">if</span> (apiResponse == <span class="hljs-keyword">null</span> || !apiResponse.Status.Success || apiResponse.Holder == <span class="hljs-keyword">null</span>)
+            {
+                <span class="hljs-keyword">return</span> Unauthorized(apiResponse?.Status);
+            }
+
+            <span class="hljs-keyword">return</span> Ok(apiResponse.Holder);
+        }
+    }
+}
 </code></pre>
-<p>HTML attributes and content containing email addresses don&apos;t treat the @ symbol as a transition character. The email addresses in the following example are untouched by Razor parsing:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;mailto:Support@contoso.com&quot;</span>&gt;</span>Support@contoso.com<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
-</code></pre>
-<h1 id="implicit-razor-expressions">Implicit Razor expressions</h1>
-<p>Implicit Razor expressions start with @ followed by C# code:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@DateTime.Now<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@DateTime.IsLeapYear(2016)<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-</code></pre>
-<p>With the exception of the C# await keyword, implicit expressions must not contain spaces. If the C# statement has a clear ending, spaces can be intermingled:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>@await DoSomething(&quot;hello&quot;, &quot;world&quot;)<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-</code></pre>
+<p>Of course, a controller</p>
+<h2 id="installing-a-custom-controller">Installing a Custom Controller</h2>
+<p>To install a custom controller you just need to build the Razor Class Library containing your custom Controllers as a NuGet Package and then upload it into your Alliance Business Suite instance. </p>
+<p>If your RCL depends on other Nuget Packages, those will need to be copied into the NuGet Package for your custom functionality to work.
+To do this, you can extract the .nupkg file using something like 7-Zip (NuGet Packages are just Zipped files with a different extension), and then copy every non-ABS Dll required for your CRL to work properly. Then, re-compress the files, and change the re-compressed file extension to .nupkg to be uploaded into your Alliance Business Suite Instance as a Module. </p>
+<p>To install a module into your Alliance Business Suite:</p>
+<ul>
+<li><p>Upload your NuGet Package to the <a href="https://gallery.absuite.net" target="_blank">Alliance Business Suite Gallery</a> and then install it through the Modules Manager. (This method will make your Module available to every Alliance Business Suite installation out there, and is best suited for those who create commercial modules and integrations)</p>
+</li>
+<li><p>Upload the NuGet package right into your Alliance Business Suite instance using your instance&apos;s Modules Manager.</p>
+</li>
+<li>Copy the NuGet Package into the Modules folder at the root of your Alliance Business Suite installation. (If the folder does not exist yet, you can confidently create it) and then enable it through your instance&apos;s admin portal.</li>
+</ul>
 
                                 
                                 </section>
@@ -1122,12 +1221,12 @@
 
             
                 
-                <a href="Fundamentals/Static-Files.html" class="navigation navigation-prev " aria-label="Previous page: Static Files">
+                <a href="Web-Development/Session-and-state-management.html" class="navigation navigation-prev " aria-label="Previous page: Sessions and State">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="Web-Development/Razor-Pages.html" class="navigation navigation-next " aria-label="Next page: Web Pages">
+                <a href="Data-Access.html" class="navigation navigation-next " aria-label="Next page: Data Access">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1138,7 +1237,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Web Development","level":"2.5","depth":1,"next":{"title":"Web Pages","level":"2.5.1","depth":2,"path":"Web-Development/Razor-Pages.md","ref":"Web-Development/Razor-Pages.md","articles":[{"title":"Razor Syntax","level":"2.5.1.1","depth":3,"path":"Web-Development/Razor-Pages/Razor-Syntax.md","ref":"Web-Development/Razor-Pages/Razor-Syntax.md","articles":[]}]},"previous":{"title":"Static Files","level":"2.4.7","depth":2,"path":"Fundamentals/Static-Files.md","ref":"Fundamentals/Static-Files.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Web-Development.md","mtime":"2021-05-22T08:40:33.858Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-05T14:07:01.590Z"},"basePath":".","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Web API Development","level":"2.6","depth":1,"next":{"title":"Data Access","level":"2.7","depth":1,"path":"Data-Access.md","ref":"Data-Access.md","articles":[{"title":"Data Repositories","level":"2.7.1","depth":2,"path":"Data-Access/Data-Repositories.md","ref":"Data-Access/Data-Repositories.md","articles":[]}]},"previous":{"title":"Sessions and State","level":"2.5.5","depth":2,"path":"Web-Development/Session-and-state-management.md","ref":"Web-Development/Session-and-state-management.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Web-API-Development.md","mtime":"2021-06-05T14:06:57.417Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-05T14:07:01.590Z"},"basePath":".","book":{"language":"English"}});
         });
     </script>
 </div>
