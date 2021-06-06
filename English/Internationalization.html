@@ -144,9 +144,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="./">
+        <li class="chapter " data-level="1.3" data-path="References">
             
-                <a href="./">
+                <span>
             
                     
                     API Reference
@@ -1100,7 +1100,102 @@
     
                                 <section class="normal markdown-section">
                                 
-                                
+                                <h1 id="internationalization-in-the-alliance-business-suite">Internationalization in the Alliance Business Suite</h1>
+<p>A multilingual website allows the site to reach a wider audience. The Alliance Business Suite provides convenient, easy-to-use solutions for localizing portals into different languages and cultures.</p>
+<p>Internationalization involves Globalization and Localization. Globalization is the process of designing apps that support different cultures. Globalization adds support for the input, display, and output of a defined set of language scripts that relate to specific geographic areas.</p>
+<p>Localization is the process of adapting a globalized app, which you have already processed for localizability, to a particular culture/locale. For more information see Globalization and localization terms near the end of this document.</p>
+<h2 id="how-to-make-the-apps-content-localizable">How to make the app&apos;s content localizable</h2>
+<p>The Alliance Business Suite was architected to allow customers to obtain this functionality right out of the box. Through simple front-end settings for each portal, customers can select a default language for each portal and localize strings and HTML fragments by just calling the <code>_()</code> method available through code on every web content entry. (e.g: _(&quot;Hello World&quot;))</p>
+<p>Once your localizable strings have been placed in code using the String Localizer function. you can <a href="Internationalization/Localization-Strings">create localization resources using your instance&apos;s admin portal</a>.</p>
+<h2 id="implement-a-strategy-to-select-the-languageculture-for-each-request">Implement a strategy to select the language/culture for each request</h2>
+<p>Localization is already set up using the ACL. Additional supported languages, as well as the primary content language for each portal, can be selected on each&apos;s portal configuration manager.</p>
+<h3 id="querystringrequestcultureprovider">QueryStringRequestCultureProvider</h3>
+<p>Portals can use a query string to set the Culture Info. For apps that use the cookie or Accept-Language header approach, adding a query string to the URL is useful for debugging and testing code. By default, the QueryStringRequestCultureProvider is registered as the first localization provider in the RequestCultureProvider list. You pass the query string parameters culture and UI-culture. The following example sets the specific culture (language and region) to Spanish/Mexico:</p>
+<pre><code>http://yourdomain/?culture=es-MX&amp;ui-culture=es-MX
+</code></pre><p>If you only pass in one of the two (culture or ui-culture), the query string provider will set both values using the one you passed in. For example, setting just the culture will set both the Culture and the UICulture:</p>
+<pre><code>http://localhost:5000/?culture=es-MX
+</code></pre><h3 id="cookierequestcultureprovider">CookieRequestCultureProvider</h3>
+<p>Production apps will often provide a mechanism to set the culture with the ASP.NET Core culture cookie. Use the MakeCookieValue method to create a cookie.</p>
+<p>The CookieRequestCultureProvider DefaultCookieName returns the default cookie name used to track the user&apos;s preferred culture information. The default cookie name is .AspNetCore.Culture.</p>
+<p>The cookie format is c=%LANGCODE%|uic=%LANGCODE%, where c is Culture and uic is UICulture, for example:</p>
+<pre><code>c=en-UK|uic=en-US
+</code></pre><p>If you only specify one of culture info and UI culture, the specified culture will be used for both culture info and UI culture.</p>
+<h3 id="the-accept-language-http-header">The Accept-Language HTTP header</h3>
+<p>The Accept-Language header is settable in most browsers and was originally intended to specify the user&apos;s language. This setting indicates what the browser has been set to send or has inherited from the underlying operating system. The Accept-Language HTTP header from a browser request isn&apos;t an infallible way to detect the user&apos;s preferred language (see Setting language preferences in a browser). A production app should include a way for a user to customize their choice of culture.</p>
+<h4 id="set-the-accept-language-http-header-in-ie">Set the Accept-Language HTTP header in IE</h4>
+<ol>
+<li><p>From the gear icon, tap Internet Options.</p>
+</li>
+<li><p>Tap Languages.</p>
+</li>
+<li><p>Internet Options</p>
+</li>
+<li><p>Tap Set Language Preferences.</p>
+</li>
+<li><p>Tap Add a language.</p>
+</li>
+<li><p>Add the language.</p>
+</li>
+<li><p>Tap the language, then tap Move Up.</p>
+</li>
+</ol>
+<h2 id="set-the-culture-programmatically">Set the culture programmatically</h2>
+<p>You can easily create a component to allow your users to select their preferred culture from the list of supported cultures:</p>
+<p>This sample, present on the Header Component for the <a href="https://github.com/FenixAlliance/ABS.Portal.Themes.Turing" target="_blank">Turing Theme</a> shows you how to do so:</p>
+<pre><code class="lang-csharp">@{
+    <span class="hljs-keyword">var</span> requestCulture = Context.Features.Get&lt;IRequestCultureFeature&gt;();
+    <span class="hljs-keyword">var</span> cultureItems = RequestLocalizationOptions.Value.SupportedUICultures
+        .Select(c =&gt; <span class="hljs-keyword">new</span> SelectListItem { Value = c.Name, Text = c.DisplayName })
+        .ToList();
+    <span class="hljs-keyword">var</span> returnUrl = <span class="hljs-keyword">string</span>.IsNullOrEmpty(Context.Request.Path) ? <span class="hljs-string">&quot;~/&quot;</span> : $<span class="hljs-string">&quot;~{Context.Request.Path.Value}&quot;</span>;
+}
+
+&lt;li <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;nav-item dropdown&quot;</span>&gt;
+    &lt;div <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;dropdown-menu&quot;</span> aria-labelledby=<span class="hljs-string">&quot;SelectLang&quot;</span>&gt;
+        &lt;!-- Current Language --&gt;
+        &lt;h6 <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;dropdown-header&quot;</span>&gt;
+            &lt;b&gt;  &lt;i <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;fas fa-globe-americas&quot;</span>&gt;&lt;/i&gt;&amp;nbsp;  @_(<span class="hljs-string">&quot;Current Language&quot;</span>): &lt;/b&gt;
+            &lt;b id=<span class="hljs-string">&quot;CurrencyTip&quot;</span>&gt;
+                @requestCulture.RequestCulture.Culture.TwoLetterISOLanguageName
+            &lt;/b&gt;
+        &lt;/h6&gt;
+        &lt;div <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;dropdown-divider&quot;</span>&gt;&lt;/div&gt;
+        @<span class="hljs-keyword">foreach</span> (<span class="hljs-keyword">var</span> item <span class="hljs-keyword">in</span> cultureItems)
+        {
+            <span class="hljs-keyword">var</span> <span class="hljs-keyword">value</span> = @item.Value;
+            &lt;a href=<span class="hljs-string">&quot;#&quot;</span> onclick=<span class="hljs-string">&quot;SelectLang(&apos;@(value.Replace(&quot;</span> <span class="hljs-string">&quot;, &quot;</span><span class="hljs-string">&quot;))&apos;)&quot;</span> <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;dropdown-item&quot;</span>&gt;
+                &lt;i <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;fas fa-language&quot;</span>&gt;&lt;/i&gt;&amp;nbsp; @item.Text
+            &lt;/a&gt;
+        }
+    &lt;/div&gt;
+
+    &lt;script&gt;
+        <span class="hljs-comment">//Select Language</span>
+        <span class="hljs-function">function <span class="hljs-title">SelectLang</span>(<span class="hljs-params"><span class="hljs-keyword">value</span></span>) </span>{
+            cookie = <span class="hljs-string">&quot;c=&quot;</span> + <span class="hljs-keyword">value</span>.trim() + <span class="hljs-string">&quot;|uic=&quot;</span> + <span class="hljs-keyword">value</span>.trim();
+            Cookies.<span class="hljs-keyword">set</span>(<span class="hljs-string">&apos;.AspNetCore.Culture&apos;</span>, cookie);
+            window.location.reload();
+        }
+    &lt;/script&gt;
+&lt;/li&gt;
+</code></pre>
+<h2 id="globalization-and-localization-terms">Globalization and localization terms</h2>
+<p>The process of localizing your portals also requires a basic understanding of relevant character sets commonly used in modern software development and an understanding of the issues associated with them. Although all computers store text as numbers (1&apos;s and 0&apos;s), different systems store the same text using different numbers. The localization process refers to translating the portal user interface (UI) for a specific culture/locale.</p>
+<p>Localizability is an intermediate process for verifying that a globalized app is ready for localization.</p>
+<p>The RFC 4646 format for the culture name is {languagecode2}-{country/regioncode2}, where {languagecode2} is the language code and {country/regioncode2} is the subculture code. For example, es-CO for Spanish (Colombia), en-US for English (United States), and en-AU for English (Australia). RFC 4646 is a combination of an ISO 639 two-letter lowercase culture code associated with a language and an ISO 3166 two-letter uppercase subculture code associated with a country or region. </p>
+<p>Internationalization is often abbreviated to &quot;I18N&quot;. The abbreviation takes the first and last letters and the number of letters between them, so 18 stands for the number of letters between the first &quot;I&quot; and the last &quot;N&quot;. The same applies to Globalization (G11N), and Localization (L10N).</p>
+<p>Terms:</p>
+<ul>
+<li><strong>Globalization (G11N)</strong>: The process of making a piece of software to support different languages and regions.</li>
+<li><strong>Localization (L10N)</strong>: The process of customizing an app for a given language and region.</li>
+<li><strong>Internationalization (I18N)</strong>: Describes both globalization and localization.</li>
+<li><strong>Culture</strong>: It&apos;s a language and, optionally, a region.</li>
+<li><strong>Neutral culture</strong>: A culture that has a specified language, but not a region. (for example &quot;en&quot;, &quot;es&quot;)</li>
+<li><strong>Specific culture</strong>: A culture that has a specified language and region. (for example &quot;en-US&quot;, &quot;en-GB&quot;, &quot;es-CL&quot;)</li>
+<li><strong>Parent Culture</strong>: The neutral culture that contains a specific culture. (for example, &quot;en&quot; is the parent culture of &quot;en-US&quot; and &quot;en-GB&quot;)</li>
+<li><strong>Locale</strong>: A locale is the same as a culture.</li>
+</ul>
+
                                 
                                 </section>
                             
@@ -1143,7 +1238,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Internationalization","level":"2.9","depth":1,"next":{"title":"Localization Strings","level":"2.9.1","depth":2,"path":"Internationalization/Localization-Strings.md","ref":"Internationalization/Localization-Strings.md","articles":[]},"previous":{"title":"Modules and Integrations","level":"2.8","depth":1,"path":"Modules.md","ref":"Modules.md","articles":[]},"dir":"neutral"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Internationalization.md","mtime":"2021-04-28T05:12:55.246Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-05T19:12:30.807Z"},"basePath":".","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Internationalization","level":"2.9","depth":1,"next":{"title":"Localization Strings","level":"2.9.1","depth":2,"path":"Internationalization/Localization-Strings.md","ref":"Internationalization/Localization-Strings.md","articles":[]},"previous":{"title":"Modules and Integrations","level":"2.8","depth":1,"path":"Modules.md","ref":"Modules.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Internationalization.md","mtime":"2021-06-06T07:19:09.907Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-06T07:19:13.849Z"},"basePath":".","book":{"language":"English"}});
         });
     </script>
 </div>
