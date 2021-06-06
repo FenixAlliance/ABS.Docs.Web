@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties =
+[
+    [ "ItemWarrantyPolicyRecord", "d3/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_item_warranty_policy_record.html", "d3/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_item_warranty_policy_record" ],
+    [ "WarrantyPolicy", "de/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_warranty_policy.html", "de/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_warranty_policy" ]
+];

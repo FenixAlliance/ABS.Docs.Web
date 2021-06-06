@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type =
+[
+    [ "AccountingCustomerParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a7252386ef5a744130829dcd936e6880e", null ],
+    [ "AccountingSupplierParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a7e3ee71319f400d50075bc31c886165b", null ],
+    [ "AllowanceCharge", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a46deb9f565446696c72e186605034e35", null ],
+    [ "BalanceAmount", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a527549ccfb6bc2d306d9156639ca2b7c", null ],
+    [ "BalanceBroughtForwardIndicator", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a0a4e1f0c8cc12b296a5ee740956d408e", null ],
+    [ "BillingReference", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a0046e0b5d7953872ebfab7cf88585188", null ],
+    [ "BuyerCustomerParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a14333139906b81dc9fd19120aa60a493", null ],
+    [ "CollectedPayment", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a03021596ff0567f6ac3ef8a52f82eb0c", null ],
+    [ "CreditLineAmount", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a08441be623430c141a2b1e2aa50400a9", null ],
+    [ "DebitLineAmount", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a9201a383ad49be6d991ad04428be4feb", null ],
+    [ "DocumentReference", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a629df9905fa90206c18409cb07810d32", null ],
+    [ "ExchangeRate", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a5af28b3071f494b51b61142c5f5b4d7d", null ],
+    [ "ID", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a6ec14b7c29b11df28823c75c85c4c228", null ],
+    [ "InvoicePeriod", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a086ec216b35c91edabb8a9b69949c8e4", null ],
+    [ "Note", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a88e6f03e76e29c2d1e8e579d129d5e18", null ],
+    [ "OriginatorCustomerParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a4fb1557d8b99e9a910fccdedcbe6852c", null ],
+    [ "PayeeParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#ad746e6da543890d071fed84cd446f247", null ],
+    [ "PaymentMeans", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#aa31dd8bf313ce4e6c8db297493ab4652", null ],
+    [ "PaymentPurposeCode", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a017449eada1559203a81a929835c9855", null ],
+    [ "PaymentTerms", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a66c225e2dedbbbdff9dc764031c3c23d", null ],
+    [ "SellerSupplierParty", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#aaa304711005019eb2c8f3d407536e5d7", null ],
+    [ "UUID", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html#a16ec937ca629ca97185d1e22997cc598", null ]
+];

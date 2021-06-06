@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes =
+[
+    [ "SocialCommentReaction", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_comment_reaction.html", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_comment_reaction" ],
+    [ "SocialPostReaction", "db/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_post_reaction.html", "db/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_post_reaction" ]
+];

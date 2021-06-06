@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_settings_controller =
+[
+    [ "Index", "dd/d53/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_settings_controller.html#acf2aa60787d40c1b042cf750ebc705d4", null ]
+];

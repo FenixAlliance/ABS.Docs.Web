@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type =
+[
+    [ "AdditionalDocumentReference", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a14fbb29e5fe538c8bde20dc5ca5f6b27", null ],
+    [ "BuyerCustomerParty", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#ade49f3260793e55e66a11ddc7a6a4615", null ],
+    [ "CancellationNote", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#ad23a5d39752c856c4d5c60ef226b3343", null ],
+    [ "Contract", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#ab33fb58d18010a725d0c3bddb291a2d2", null ],
+    [ "CopyIndicator", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a4b5226e0a846e2e160332bea03481c96", null ],
+    [ "CustomizationID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a3748ff07739a9093dbf988be3119414f", null ],
+    [ "DeliveryCustomerParty", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#ac39259a1ac04e9bc8e5595aff6661b23", null ],
+    [ "DespatchDocumentReference", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a60676cddb9fa60575245a3ecc7a2ece3", null ],
+    [ "DespatchSupplierParty", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a0fd129d431ddc931a131253f124d6753", null ],
+    [ "ID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a2cfee48e8d3bc3e33382840cea909820", null ],
+    [ "IssueDate", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a452336f9de6929ed36857818bb95efdf", null ],
+    [ "IssueTime", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a0c4911a185f7802a5f2d47c20b6b5af2", null ],
+    [ "Note", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#aad29dd53c40417b68c28c6418778c4eb", null ],
+    [ "OrderReference", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a1be8de6ae9f9f14c041b10861b6c87b3", null ],
+    [ "OriginatorCustomerParty", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#ace4cece6f721430775acf2c6f96cc6ff", null ],
+    [ "ProfileExecutionID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a0c8c2ca7cb886338ed315f5dfc7891bd", null ],
+    [ "ProfileID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a7277034010ea113ea1dcab5d0c4ca7f8", null ],
+    [ "ReceiptDocumentReference", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a3e07eeb6b720ec3270b98815f02cbd5f", null ],
+    [ "SellerSupplierParty", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a05fd91820206e1376eee0821976e4c09", null ],
+    [ "Signature", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a5e5f8e85364c90a4472476dfa08832fd", null ],
+    [ "UBLExtensions", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a09807baf20ab47e7cb8f5ae85c76b8c6", null ],
+    [ "UBLVersionID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a94aa333c03cf44243a3fdcf67256c5b6", null ],
+    [ "UUID", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html#a481856ffa3453948148df3f327ba22d9", null ]
+];

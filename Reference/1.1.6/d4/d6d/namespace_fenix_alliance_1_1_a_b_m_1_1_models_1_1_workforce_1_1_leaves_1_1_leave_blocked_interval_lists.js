@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_interval_lists =
+[
+    [ "LeaveBlockedIntervalLists", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_interval_licdeec19c6c83f7113ab812cb7ce99630.html", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_interval_licdeec19c6c83f7113ab812cb7ce99630" ]
+];

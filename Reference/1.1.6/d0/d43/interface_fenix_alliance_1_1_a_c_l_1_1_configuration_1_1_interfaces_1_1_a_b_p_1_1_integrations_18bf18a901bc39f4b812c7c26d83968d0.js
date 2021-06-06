@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0 =
+[
+    [ "ConsumerKey", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0.html#a6681f02cbea7da227a4434efd471f418", null ],
+    [ "ConsumerSecret", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0.html#a77eaa8d9935b0e04ef384f3d9de4dba6", null ],
+    [ "HooksSecret", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0.html#adb9923f94d0b878c966d84b9e6cd2657", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions =
+[
+    [ "Transaction", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction" ],
+    [ "TransactionCategory", "d5/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction_category.html", "d5/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction_category" ]
+];

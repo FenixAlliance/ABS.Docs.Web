@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23 =
+[
+    [ "Business", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html#a3966f2f807ef74eb360819cc03126562", null ],
+    [ "BusinessID", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html#aab0cd0c290f4f5fe4a45f975ba474f88", null ],
+    [ "BusinessProfileRecord", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html#a16c2377903baaee23be063bc5de6f937", null ],
+    [ "BusinessProfileRecordID", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html#af37e02ac7b045fbb4337f104a9f15d0c", null ],
+    [ "ID", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html#a729ea87c5d60a995dc59bc1f654071f7", null ]
+];

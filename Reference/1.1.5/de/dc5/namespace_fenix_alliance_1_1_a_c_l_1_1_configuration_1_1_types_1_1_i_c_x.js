@@ -1,0 +1,22 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x =
+[
+    [ "Accounting", "d0/d79/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_accounting.html", "d0/d79/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_accounting" ],
+    [ "Advanced", "d1/d47/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_advanced.html", "d1/d47/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_advanced" ],
+    [ "Carts", "d9/daf/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_carts.html", "d9/daf/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_carts" ],
+    [ "Coupons", "da/d1a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_coupons.html", "da/d1a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_coupons" ],
+    [ "Downloadables", "d9/d6c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables.html", "d9/d6c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables" ],
+    [ "Emails", "d4/dc4/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails.html", "d4/dc4/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails" ],
+    [ "IdentityAndPrivacy", "d6/d4f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy.html", "d6/d4f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy" ],
+    [ "Integrations", "dd/da1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_integrations.html", "dd/da1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_integrations" ],
+    [ "Inventory", "d1/d8d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_inventory.html", "d1/d8d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_inventory" ],
+    [ "Measurements", "d5/db6/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements.html", "d5/db6/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements" ],
+    [ "Payments", "d6/d4f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments.html", "d6/d4f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments" ],
+    [ "Prices", "dd/d2a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices.html", "dd/d2a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices" ],
+    [ "Products", "d2/dee/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_products.html", "d2/dee/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_products" ],
+    [ "Recomendations", "d8/d0d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_recomendations.html", "d8/d0d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_recomendations" ],
+    [ "Services", "d9/d35/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services.html", "d9/d35/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services" ],
+    [ "Shipping", "d3/d1d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_shipping.html", "d3/d1d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_shipping" ],
+    [ "Subscriptions", "da/d1c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_subscriptions.html", "da/d1c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_subscriptions" ],
+    [ "Taxes", "d2/d48/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_taxes.html", "d2/d48/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_taxes" ],
+    [ "StoreOptions", "de/d8d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_store_options.html", "de/d8d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_store_options" ]
+];

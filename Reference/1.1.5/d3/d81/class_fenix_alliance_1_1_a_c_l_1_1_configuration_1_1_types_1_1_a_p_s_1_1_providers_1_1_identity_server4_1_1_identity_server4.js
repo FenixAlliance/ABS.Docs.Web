@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4 =
+[
+    [ "ApiClients", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html#afd7c632e016d6c5345205b1018e52cb8", null ],
+    [ "ApiScopes", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html#ae02b5a47d64bb4b6707a3bf21ca2d06b", null ],
+    [ "ConfigurationStoreOptions", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html#a8c4cfec67c9cc480f5868128c86ba809", null ],
+    [ "DefaultMapInboundClaims", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html#aba1d89db46369063ca68dd99ec385d9e", null ],
+    [ "OperationalStoreOptions", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html#a315c3695b63fa5bd8bf3b53778044a00", null ]
+];

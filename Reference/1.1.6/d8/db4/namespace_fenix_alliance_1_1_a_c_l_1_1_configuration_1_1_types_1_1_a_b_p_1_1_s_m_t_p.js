@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_s_m_t_p =
+[
+    [ "SmtpOptions", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_s_m_t_p_1_1_smtp_options.html", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_s_m_t_p_1_1_smtp_options" ]
+];

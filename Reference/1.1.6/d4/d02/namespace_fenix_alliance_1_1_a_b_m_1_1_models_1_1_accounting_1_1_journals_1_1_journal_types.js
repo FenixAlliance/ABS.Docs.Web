@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_types =
+[
+    [ "JournalType", "da/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_types_1_1_journal_type.html", "da/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_types_1_1_journal_type" ]
+];

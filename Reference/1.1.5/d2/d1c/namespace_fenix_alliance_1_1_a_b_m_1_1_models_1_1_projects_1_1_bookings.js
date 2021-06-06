@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_bookings =
+[
+    [ "ProjectResourceBooking", "d5/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_bookings_1_1_project_resource_booking.html", "d5/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_bookings_1_1_project_resource_booking" ]
+];

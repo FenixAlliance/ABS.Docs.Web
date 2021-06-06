@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_domains =
+[
+    [ "BusinessDomain", "d6/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_domains_1_1_business_domain.html", "d6/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_domains_1_1_business_domain" ]
+];

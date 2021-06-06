@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_business_1_1_business_enrollments_response =
+[
+    [ "Enrollments", "d2/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_business_1_1_business_enrollments_response.html#a0f9d23f32a6fa61b278621d22b2ffe4e", null ]
+];

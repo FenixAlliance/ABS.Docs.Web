@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_prices =
+[
+    [ "ItemPrice", "d6/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_prices_1_1_item_price.html", "d6/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_prices_1_1_item_price" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c =
+[
+    [ "AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service" ]
+];

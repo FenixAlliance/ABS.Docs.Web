@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client =
+[
+    [ "GetBlobContainerClientAsync", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html#a760c7bc707fba234cb99777e183b638c", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models =
+[
+    [ "RecommendationObjectsRequestResponse", "dc/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models_1_1_recommendation_objects_request_response.html", "dc/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models_1_1_recommendation_objects_request_response" ]
+];

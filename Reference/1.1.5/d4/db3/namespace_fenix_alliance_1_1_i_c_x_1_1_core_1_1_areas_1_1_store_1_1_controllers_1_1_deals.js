@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals =
+[
+    [ "DealsController", "d7/d63/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals_1_1_deals_controller.html", "d7/d63/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals_1_1_deals_controller" ]
+];

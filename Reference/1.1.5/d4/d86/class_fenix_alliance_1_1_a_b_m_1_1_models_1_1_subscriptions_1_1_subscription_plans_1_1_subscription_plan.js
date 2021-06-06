@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan =
+[
+    [ "Subscriptions", "d4/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan.html#ac15a609e49a1a52b1eb14afe54174f97", null ]
+];

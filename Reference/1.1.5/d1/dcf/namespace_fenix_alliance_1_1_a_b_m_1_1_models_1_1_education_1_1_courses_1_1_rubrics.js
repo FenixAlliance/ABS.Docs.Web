@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics =
+[
+    [ "CourseGradingCriteria", "df/d0c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_criteria.html", "df/d0c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_criteria" ],
+    [ "CourseGradingCriteriaCategory", "de/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_criteria_category.html", "de/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_criteria_category" ],
+    [ "CourseGradingRubric", "dc/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_rubric.html", "dc/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_rubrics_1_1_course_grading_rubric" ]
+];

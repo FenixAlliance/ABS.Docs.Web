@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging =
+[
+    [ "Serilog", "de/d99/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog.html", "de/d99/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog" ],
+    [ "ILogging", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging.html", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging" ],
+    [ "ILogLevel", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level.html", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level" ]
+];

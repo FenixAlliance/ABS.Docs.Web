@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons =
+[
+    [ "AppleIcons", "db/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_apple_icons.html", "db/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_apple_icons" ],
+    [ "Favicons", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons.html", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons" ],
+    [ "MSAppTile", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile.html", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile" ]
+];

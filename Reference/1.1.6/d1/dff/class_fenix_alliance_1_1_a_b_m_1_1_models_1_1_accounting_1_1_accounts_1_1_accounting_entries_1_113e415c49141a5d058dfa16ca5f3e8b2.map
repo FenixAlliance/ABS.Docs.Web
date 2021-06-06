@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABM.Models.Accounting.Accounts.AccountingEntries.AccountingEntry" name="FenixAlliance.ABM.Models.Accounting.Accounts.AccountingEntries.AccountingEntry">
+<area shape="rect" id="node1" title="Represents an Accounting Entry, used to prepare and/or audit financial statements." alt="" coords="13,5,227,61"/>
+<area shape="rect" id="node2" href="$d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_entries_1_1_budget_account_entry.html" title="Used for multiple budgets in any given account" alt="" coords="5,109,235,165"/>
+</map>

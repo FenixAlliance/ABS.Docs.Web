@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler =
+[
+    [ "BotAdapterWithErrorHandler", "da/d65/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler.html#ac361bb1993872cafed2fe23e2c369ea6", null ]
+];

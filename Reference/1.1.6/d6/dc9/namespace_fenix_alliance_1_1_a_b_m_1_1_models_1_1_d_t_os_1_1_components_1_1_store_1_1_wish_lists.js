@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_wish_lists =
+[
+    [ "WishList", "d8/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_wish_lists_1_1_wish_list.html", "d8/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_wish_lists_1_1_wish_list" ]
+];

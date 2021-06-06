@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange =
+[
+    [ "ForexService", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service.html", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service" ]
+];

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f =
+[
+    [ "AppId", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f.html#a55e167147c6f745ec978336ebbdfe564", null ],
+    [ "PrivateKey", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f.html#af89378fe084de308a91dd8f36e964b62", null ],
+    [ "PublicKey", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f.html#afb41165de4fa9101ddcc840c2a0909b0", null ],
+    [ "TenantId", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f.html#a941449506beb1771ae73b10bbb042ea9", null ]
+];

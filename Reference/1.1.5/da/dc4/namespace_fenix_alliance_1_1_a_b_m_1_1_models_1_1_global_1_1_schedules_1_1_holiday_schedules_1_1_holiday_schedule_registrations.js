@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holiday_schedule_registrations =
+[
+    [ "HolidayScheduleRecord", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe.html", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe" ]
+];

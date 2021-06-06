@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory_relationships =
+[
+    [ "TerritoryRelationship", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_11f81246055adf4b33c5e2172eaabae4a.html", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_11f81246055adf4b33c5e2172eaabae4a" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records =
+[
+    [ "ServiceQueueRecord", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records_1_1_service_queue_record.html", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records_1_1_service_queue_record" ]
+];

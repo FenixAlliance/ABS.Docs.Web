@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_categories =
+[
+    [ "ServiceCategory", "d4/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_categories_1_1_service_category.html", "d4/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_categories_1_1_service_category" ],
+    [ "ServiceCategoryRecord", "db/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_categories_1_1_service_category_record.html", "db/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_categories_1_1_service_category_record" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_rollups_1_1_rollup_queries =
+[
+    [ "RollupQuery", "d8/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_rollups_1_1_rollup_queries_1_1_rollup_query.html", null ]
+];

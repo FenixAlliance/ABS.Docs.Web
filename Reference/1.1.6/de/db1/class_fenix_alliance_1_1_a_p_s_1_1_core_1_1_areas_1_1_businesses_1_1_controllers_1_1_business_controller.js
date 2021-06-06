@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller =
+[
+    [ "BusinessController", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#aa1c542a47e86414c78d3b24d682b44c8", null ],
+    [ "Create", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#aa8c33ffa7886f50858400e91ec0608fa", null ],
+    [ "Create", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#aab2b668d501a0483799061631da9dea5", null ],
+    [ "Delete", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#ae6b0f02238dfa8cc4e79d804e42f3803", null ],
+    [ "DeleteConfirmed", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a4d03a65efc3dba89da66382db65ebfd5", null ],
+    [ "Details", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#aafe6a23194ec22495e788d69dfd3c386", null ],
+    [ "Edit", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a423c52fc5b54b2970e96643c4dcb8443", null ],
+    [ "Edit", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#abf5077cf156337c166f9a263b0983285", null ],
+    [ "Employees", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a6c9e3f661ea9b39a900ad5cf18fd7d4d", null ],
+    [ "Enrollments", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a7f65e9012d918febc578223e2acccd5c", null ],
+    [ "Followers", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a8830e2034034dc8b6d56abeb4b5387cb", null ],
+    [ "Following", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#ae8e3876e0b1078785dbcc5eab2569224", null ],
+    [ "Groups", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a2b7da7ba130803d2c5ecdc722bbd4349", null ],
+    [ "Index", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#abcca93ba9c397fa0e6c343565055f51a", null ],
+    [ "JobOffers", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a7b4da12f5bfa5f41f1b92c8d00eb0af1", null ],
+    [ "Products", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#abe95286869847b5ac56d94260edc7630", null ],
+    [ "Search", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#acfc5cc670d8726fa6f2da6afb81c4c49", null ],
+    [ "AuthService", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#af7d82e4c7f077965f0fb5305e38d5b54", null ],
+    [ "Configuration", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a6c619179e3a18721259ef8217bd13bc9", null ],
+    [ "DataContext", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a4c3ab40a7b68e5ce08c55a83af489bea", null ],
+    [ "Environment", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a8e7bcc057ce398866ebdfceac505af60", null ],
+    [ "HolderService", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#ae70049022d67321abf7353e1fe365262", null ],
+    [ "StorageService", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#a153941432f3cef4886aa9869e9e39807", null ],
+    [ "StoreHelpers", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#ad2b4b642282364af1a1739b614f2279c", null ],
+    [ "TenantService", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#ace97f62075cd41092d341c29ac477643", null ]
+];

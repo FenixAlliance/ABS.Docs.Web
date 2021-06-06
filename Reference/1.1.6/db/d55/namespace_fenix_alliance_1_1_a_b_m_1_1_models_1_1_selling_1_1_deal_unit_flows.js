@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows =
+[
+    [ "DealUnitFlow", "d3/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow.html", "d3/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow" ],
+    [ "DealUnitFlowStage", "d0/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow_stage.html", "d0/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow_stage" ]
+];

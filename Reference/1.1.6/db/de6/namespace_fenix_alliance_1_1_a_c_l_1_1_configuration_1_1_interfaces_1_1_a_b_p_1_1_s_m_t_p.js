@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_s_m_t_p =
+[
+    [ "ISmtp", "da/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_s_m_t_p_1_1_i_smtp.html", "da/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_s_m_t_p_1_1_i_smtp" ]
+];

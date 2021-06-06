@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component =
+[
+    [ "GetShippingEstimatesBoxViewComponent", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html#a4b7bd8aa5f28c5a7edad76f09c35615f", null ],
+    [ "InvokeAsync", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html#a4a2e955cbcac71d83fa9195b473674fb", null ],
+    [ "DataContext", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html#ab53658a68a5f2dabc016bf283bd62949", null ],
+    [ "HolderService", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html#aef2e8a53ac756cf712bef69f60de7f8c", null ]
+];

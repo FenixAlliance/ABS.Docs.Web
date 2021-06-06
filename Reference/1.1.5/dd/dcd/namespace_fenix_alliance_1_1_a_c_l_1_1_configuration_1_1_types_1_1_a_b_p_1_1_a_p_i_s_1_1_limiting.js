@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting =
+[
+    [ "GeneralLimitingRule", "d4/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_general_limiting_rule.html", "d4/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_general_limiting_rule" ],
+    [ "IpRateLimitingOptions", "df/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_ip_rate_limiting_options.html", "df/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_ip_rate_limiting_options" ]
+];

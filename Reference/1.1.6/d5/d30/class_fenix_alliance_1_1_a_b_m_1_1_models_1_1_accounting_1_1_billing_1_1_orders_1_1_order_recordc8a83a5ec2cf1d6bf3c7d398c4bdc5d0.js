@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0 =
+[
+    [ "Subscription", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0.html#a3e56b48e4f857dd9e38d5dceac2e6cc3", null ],
+    [ "SubscriptionID", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0.html#a443a0855ef0722ff2c9d64a5989d82fa", null ]
+];

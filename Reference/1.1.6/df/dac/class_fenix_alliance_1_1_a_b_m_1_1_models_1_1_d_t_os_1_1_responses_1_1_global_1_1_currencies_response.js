@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_global_1_1_currencies_response =
+[
+    [ "Currencies", "df/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_global_1_1_currencies_response.html#a1771f748415cd8f18cfc615cb3e61906", null ]
+];

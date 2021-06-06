@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records =
+[
+    [ "QuoteItemRecord", "da/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records_1_1_quote_item_record.html", "da/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records_1_1_quote_item_record" ]
+];

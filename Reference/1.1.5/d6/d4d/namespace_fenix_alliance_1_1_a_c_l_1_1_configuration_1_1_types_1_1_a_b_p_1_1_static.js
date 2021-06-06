@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static =
+[
+    [ "StaticFilesOptions", "d0/d60/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_files_options.html", "d0/d60/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_files_options" ],
+    [ "StaticResource", "d4/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_resource.html", "d4/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_resource" ]
+];

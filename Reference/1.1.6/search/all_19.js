@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['x509certificate_12130',['X509Certificate',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aee53cea6157362bdcb57b7cbe3e70298a38519f6a431a73194ea2c0cc7eb4612b',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509crl_12131',['X509CRL',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aee53cea6157362bdcb57b7cbe3e70298a1b6201b089420b4a4c95ef7184c14c3a',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509data_12132',['X509Data',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aa5755172846c88f01e366651f2bd2ed5accffb30d17d14acbe8e514686842b34b',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509datatype_12133',['X509DataType',['../d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_data_type.html',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509datatype_2ecs_12134',['X509DataType.cs',['../d3/d6f/_x509_data_type_8cs.html',1,'']]],
+  ['x509issuername_12135',['X509IssuerName',['../dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_issuer_serial_type.html#a153702d9ef45ec3159147ac0d6b694bd',1,'FenixAlliance::ABM::Models::UBL::X509IssuerSerialType']]],
+  ['x509issuerserial_12136',['X509IssuerSerial',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aee53cea6157362bdcb57b7cbe3e70298add1276b36cb578559e86ade00227ca83',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509issuerserialtype_12137',['X509IssuerSerialType',['../dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_issuer_serial_type.html',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509issuerserialtype_2ecs_12138',['X509IssuerSerialType.cs',['../d7/dcf/_x509_issuer_serial_type_8cs.html',1,'']]],
+  ['x509serialnumber_12139',['X509SerialNumber',['../dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_issuer_serial_type.html#a64cdb58051eed02ed2625cb441dbd8c8',1,'FenixAlliance::ABM::Models::UBL::X509IssuerSerialType']]],
+  ['x509ski_12140',['X509SKI',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aee53cea6157362bdcb57b7cbe3e70298afb4e258c1dd95247722d5fb0f8c456a3',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['x509subjectname_12141',['X509SubjectName',['../dd/d5e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l.html#aee53cea6157362bdcb57b7cbe3e70298a5ba7c392965a017fa65d808b9729d2b7',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['xadestimestamptype_12142',['XAdESTimeStampType',['../d5/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_ad_e_s_time_stamp_type.html',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['xadestimestamptype_2ecs_12143',['XAdESTimeStampType.cs',['../d0/d5b/_x_ad_e_s_time_stamp_type_8cs.html',1,'']]],
+  ['xml_12144',['XML',['../d3/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns.html#a8fa1b3bc86608979fc088f8db3b62da1a3501bb093d363810b671059b9cfed3f8',1,'FenixAlliance::ABM::Models::Internals::Columns']]],
+  ['xml_12145',['Xml',['../d2/dfa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workflows.html#abf074abf328c287a978098516dd0d09fa9ec8e4e3ab4c7eeba097f27d7364d743',1,'FenixAlliance::ABM::Models::Workflows']]],
+  ['xpath_12146',['XPath',['../df/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_document_reference_type.html#a8f8ffd6f37e010dad2147cf572cfa7e2',1,'FenixAlliance::ABM::Models::UBL::DocumentReferenceType']]],
+  ['xpathtype_12147',['XPathType',['../df/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_path_type.html',1,'FenixAlliance::ABM::Models::UBL']]],
+  ['xpathtype_2ecs_12148',['XPathType.cs',['../db/d30/_x_path_type_8cs.html',1,'']]]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans_1_1_loan_types =
+[
+    [ "LoanType", "da/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans_1_1_loan_types_1_1_loan_type.html", "da/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans_1_1_loan_types_1_1_loan_type" ]
+];

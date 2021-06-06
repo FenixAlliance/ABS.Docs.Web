@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles =
+[
+    [ "CourseArticle", "db/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_article.html", "db/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_article" ],
+    [ "CourseWiki", "d6/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_wiki.html", "d6/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_wiki" ]
+];

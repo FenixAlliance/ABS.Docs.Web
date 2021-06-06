@@ -1,0 +1,13 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce =
+[
+    [ "Appraisals", "d3/da5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_appraisals.html", "d3/da5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_appraisals" ],
+    [ "Employees", "d4/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_employees.html", "d4/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_employees" ],
+    [ "Employers", "d3/dc6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_employers.html", "d3/dc6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_employers" ],
+    [ "JobFields", "d0/dab/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_job_fields.html", "d0/dab/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_job_fields" ],
+    [ "JobOffers", "dc/d28/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_job_offers.html", "dc/d28/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_job_offers" ],
+    [ "Leaves", "d9/d6a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_leaves.html", "d9/d6a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_leaves" ],
+    [ "Payroll", "d2/df7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_payroll.html", "d2/df7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_payroll" ],
+    [ "Salaries", "d4/dec/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_salaries.html", "d4/dec/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_salaries" ],
+    [ "Shifts", "d2/d6c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_shifts.html", "d2/d6c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_shifts" ],
+    [ "Training", "d9/d4f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_training.html", "d9/d4f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_training" ]
+];

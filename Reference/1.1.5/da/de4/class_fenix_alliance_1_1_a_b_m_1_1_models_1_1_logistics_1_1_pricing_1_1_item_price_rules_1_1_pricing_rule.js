@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule =
+[
+    [ "PricingRuleRecords", "da/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule.html#af0d526a73714d0fda9e84a80f6a30079", null ]
+];

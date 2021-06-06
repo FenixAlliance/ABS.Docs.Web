@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes =
+[
+    [ "BusinessSocialProfile", "d5/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_business_social_profile.html", "d5/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_business_social_profile" ],
+    [ "ContactSocialProfile", "d2/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_contact_social_profile.html", "d2/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_contact_social_profile" ],
+    [ "AccountHolderSocialProfile", "d9/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_account_holder_social_profile.html", "d9/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_scopes_1_1_account_holder_social_profile" ]
+];

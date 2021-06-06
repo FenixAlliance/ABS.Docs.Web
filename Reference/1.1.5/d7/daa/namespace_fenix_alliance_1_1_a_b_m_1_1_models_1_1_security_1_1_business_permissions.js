@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions =
+[
+    [ "BusinessPermissionGrants", "d8/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_permission_grants.html", "d8/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_permission_grants" ],
+    [ "BusinessPermission", "dc/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_permission.html", "dc/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_permission" ]
+];

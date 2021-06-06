@@ -1,0 +1,7 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources =
+[
+    [ "ProjectResource", "da/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource.html", "da/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource" ],
+    [ "ProjectResourceRequest", "dc/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_request.html", "dc/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_request" ],
+    [ "ProjectResourceRole", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_role.html", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_role" ],
+    [ "ProjectResourceSkillRecord", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record" ]
+];

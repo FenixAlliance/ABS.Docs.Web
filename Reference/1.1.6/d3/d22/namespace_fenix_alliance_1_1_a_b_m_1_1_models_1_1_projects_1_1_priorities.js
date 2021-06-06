@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities =
+[
+    [ "RequerimentPriority", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities_1_1_requeriment_priority.html", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities_1_1_requeriment_priority" ]
+];

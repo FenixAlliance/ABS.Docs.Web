@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_localization =
+[
+    [ "LocalizationResource", "d6/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_localization_1_1_localization_resource.html", "d6/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_localization_1_1_localization_resource" ]
+];

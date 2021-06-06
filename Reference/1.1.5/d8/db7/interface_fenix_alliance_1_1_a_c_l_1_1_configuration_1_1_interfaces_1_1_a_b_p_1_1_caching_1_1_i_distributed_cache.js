@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_cache =
+[
+    [ "DistributedMemoryCache", "d8/db7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_cache.html#a75dfeebf851576f7c2ff2e9f0e6a720b", null ],
+    [ "DistributedSqlServerCache", "d8/db7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_cache.html#a09cd70c8de76ed53e8e3754e2d0d5431", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency =
+[
+    [ "ProficiencyRatingModel", "dd/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_model.html", "dd/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_model" ],
+    [ "ProficiencyRatingValue", "dd/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_value.html", "dd/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_value" ]
+];

@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_resulta90eb012f121221a960d0f38a8bcff3a =
+[
+    [ "Business", "d5/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_resulta90eb012f121221a960d0f38a8bcff3a.html#ac943e1c1a523aa1b25982f90c914708f", null ],
+    [ "BusinessID", "d5/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_resulta90eb012f121221a960d0f38a8bcff3a.html#add2d9b1a729829fc12960954cb182efa", null ],
+    [ "ID", "d5/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_resulta90eb012f121221a960d0f38a8bcff3a.html#a333c4a9a4b277b015caaa7c81bef912c", null ]
+];

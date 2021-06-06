@@ -25,9 +25,41 @@
 var NAVTREE =
 [
   [ "Alliance Business Suite", "index.html", [
-    [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ],
-      [ "Package Functions", "namespacemembers.html", [
+    [ "About the Alliance Business Creed", "index.html#autotoc_md1", [
+      [ "Well when. What do I get?", "index.html#autotoc_md2", null ],
+      [ "User Guide", "index.html#autotoc_md3", null ],
+      [ "Easy Install", "index.html#autotoc_md5", [
+        [ "Conventional Install", "index.html#autotoc_md6", null ],
+        [ "Usage", "index.html#autotoc_md7", null ]
+      ] ]
+    ] ],
+    [ "Register Services and Configuration", "index.html#autotoc_md8", null ],
+    [ "## Alliance Business Model (ABM) Schema", "index.html#autotoc_md9", null ],
+    [ "## Alliance Business Platform (ABP)", "index.html#autotoc_md10", null ],
+    [ "## Alliance Business Portal (ABS Portal)", "index.html#autotoc_md11", null ],
+    [ "## Alliance Business Studio (ABS Studio)", "index.html#autotoc_md12", null ],
+    [ "Getting Started", "index.html#autotoc_md13", null ],
+    [ "Documentation", "index.html#autotoc_md14", null ],
+    [ "Roadmap", "index.html#autotoc_md15", null ],
+    [ "Release Announcements", "index.html#autotoc_md16", null ],
+    [ "Example Screenshots", "index.html#autotoc_md17", [
+      [ "APS IAM Social Providers:", "index.html#autotoc_md18", null ],
+      [ "ABS Extensions:", "index.html#autotoc_md19", null ],
+      [ "ABS Commander Terminal:", "index.html#autotoc_md20", null ],
+      [ "ABS WOPI Connector:", "index.html#autotoc_md21", null ],
+      [ "ACS Bot Maker:", "index.html#autotoc_md22", null ]
+    ] ],
+    [ "Versioning", "index.html#autotoc_md23", [
+      [ "🤝 Contributing", "index.html#autotoc_md24", null ],
+      [ "Show your support", "index.html#autotoc_md26", null ],
+      [ "Author", "index.html#autotoc_md27", null ],
+      [ "Logo and Trademark", "index.html#autotoc_md28", null ],
+      [ "Licensing and Contributions", "index.html#autotoc_md29", null ]
+    ] ],
+    [ "Legal Notices", "index.html#autotoc_md30", null ],
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
+      [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ]
       ] ]
@@ -149,7 +181,8 @@ var NAVTREEINDEX =
 "df/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_records_1_1_social_group_record.html#a9a5bd644605f56765eec1b35a4a0084c",
 "df/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_freight_invoice_type.html#afd57b54f96adfb26e238221b49c9cf2c",
 "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html#a58f0046d06b9109420d3d5b37de116ed",
-"df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller.html#a496c20ce0bcbc74075bd15783c8c0ba8"
+"df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller.html#a496c20ce0bcbc74075bd15783c8c0ba8",
+"index.html#autotoc_md7"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
