@@ -37,6 +37,7 @@ We're designed to succeed when you and your business succeed; that's why we're c
 The fact is, since our inception, we've steered towards creating a culture designed to reach beyond expectations together by building an organization whose success strategy is to help others to succeed.
 
 ### Well when. What do I get?
+
 We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to manage their services, products, and cloud resources. But the truth is that isn't limited to just that.
 
 Our applications are being developed to give you access to every functionality that we implement for our business, to power your business and vision as well. This is because if we can add value to our business and gain a competitive advantage through these tools, chances are you can too!
@@ -83,7 +84,7 @@ To learn more about our privacy policy, please visit: https://fenixalliance.com.
 - If you are getting started with Alliance Business Suite, a [series of videos](https://www.youtube.com/playlist?list=PLGYfOT42OgSZdmYctCWeiRkPfGVQbCRWM) are available which explain how to install the product, interact with the user interface, and develop custom modules.
 
 ## Documentation
-There is a separate [Documentation repository](https://dev.azure.com/fenixalliance/ABS.Docs), which contains various types of documentation for the Alliance Business Suite, including the C# API documentation for every class on every library. The contents of the repository are available at [https://docs.absuite.net](https://docs.absuite.net) as a MSDN-like documentation.
+There is a separate [Documentation repository](https://dev.azure.com/fenixalliance/ABS.Docs), which contains various types of documentation for the Alliance Business Suite, including the C# API documentation for every class on every library. The contents of the repository are available at [https://docs.absuite.net](https://docs.absuite.net) as interactive documentation.
 
 ---
 
