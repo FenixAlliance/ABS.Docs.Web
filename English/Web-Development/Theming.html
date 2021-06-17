@@ -1136,7 +1136,7 @@
 <ul>
 <li>Use a powerful component architecture to avoid code repetition and improve maintainability</li>
 <li>Provide alternative templates for fixed platform functionalities such as the Store &amp; Dashboard.</li>
-<li>Themes can be updated through a mirror ().</li>
+<li>Themes can be updated through a mirror URL (which can perform things like license validation and much more).</li>
 </ul>
 <h2 id="benefits">Benefits</h2>
 <ul>
@@ -1188,13 +1188,13 @@
     <span class="hljs-string">&quot;ID&quot;</span>: <span class="hljs-string">&quot;Turing&quot;</span>,
     <span class="hljs-string">&quot;Name&quot;</span>: <span class="hljs-string">&quot;Turing&quot;</span>,
     <span class="hljs-string">&quot;Domain&quot;</span>: <span class="hljs-string">&quot;Turing&quot;</span>,
-    <span class="hljs-string">&quot;License&quot;</span>: <span class="hljs-string">&quot;GNU General Public License v2 or later&quot;</span>,
-    <span class="hljs-string">&quot;LicenseUrl&quot;</span>: <span class="hljs-string">&quot;http://www.gnu.org/licenses/gpl-2.0.html&quot;</span>,
+    <span class="hljs-string">&quot;Version&quot;</span>: <span class="hljs-string">&quot;0.0.1&quot;</span>,
     <span class="hljs-string">&quot;AuthorName&quot;</span>: <span class="hljs-string">&quot;Fenix Alliance Inc.&quot;</span>,
     <span class="hljs-string">&quot;AuthorUrl&quot;</span>: <span class="hljs-string">&quot;https://fenix-alliance.com&quot;</span>,
     <span class="hljs-string">&quot;ThemeUrl&quot;</span>: <span class="hljs-string">&quot;https://fenix-alliance.com&quot;</span>,
-    <span class="hljs-string">&quot;Version&quot;</span>: <span class="hljs-string">&quot;0.0.1&quot;</span>,
     <span class="hljs-string">&quot;Tags&quot;</span>: <span class="hljs-string">&quot;mega-menu, translation-ready&quot;</span>,
+    <span class="hljs-string">&quot;License&quot;</span>: <span class="hljs-string">&quot;GNU General Public License v2 or later&quot;</span>,
+    <span class="hljs-string">&quot;LicenseUrl&quot;</span>: <span class="hljs-string">&quot;http://www.gnu.org/licenses/gpl-2.0.html&quot;</span>,
     <span class="hljs-string">&quot;Description&quot;</span>: <span class="hljs-string">&quot;Default theme for the Alliance Business Suite Portal.&quot;</span>
 }
 </code></pre>
@@ -1231,6 +1231,9 @@ The Dashboard template.</p>
 </ul>
 <h2 id="core-pages">Core Pages</h2>
 <ul>
+<li><p><strong>Page.cshtml</strong>:
+The page template. Used when an individual Page is queried.</p>
+</li>
 <li><p><strong>Home.cshtml</strong>:
 The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
 </li>
@@ -1241,22 +1244,18 @@ The home page template, which is the front page by default. If you use a static 
 The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
 </li>
 <li><p><strong>StoreHome.cshtml</strong>:
-The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
+The home page template, which is the store front page by default. If you use a static store front page this is the template for the page with the latest posts.</p>
 </li>
-<li><p><strong>Single{ContentType}.cshtml</strong>:
-The single post template used when a single post from a custom post type is queried. For example, single-book.cshtml used for displaying single posts from the custom post type named &quot;book&quot;. Main.cshtml is used if the query template for the custom post type is not present.</p>
+<li><p><strong>{PluralizedEntityType}.cshtml</strong>:
+The content template used when the records from any given Entity type are queried. For example, Courses.cshtml used for displaying posts from the Entity named &quot;Course&quot;. Archive.cshtml is used if the query template for the custom post type is not present.</p>
 </li>
-<li><p><strong>Page.cshtml</strong>:
-The page template. Used when an individual Page is queried.</p>
+<li><p><strong>Single{EntityType}.cshtml</strong>: The single post template used when a single post from a custom post type is queried. For example, SingleItemCategory.cshtml used for displaying single records from the &quot;ItemCategory&quot; Entity. Single.cshtml is used if the query template for the custom post type is not present.</p>
 </li>
 <li><p><strong>Category.cshtml</strong>:
 The category template. Used when a category is queried.</p>
 </li>
 <li><p><strong>Tag.cshtml</strong>:
 The tag template. Used when a tag is queried.</p>
-</li>
-<li><p><strong>Cart.cshtml</strong>:
-The cart page template. Used when a cart is queried.</p>
 </li>
 <li><p><strong>Currencies.cshtml</strong>:
 The currency selector page template. Used to change the default currency is queried.</p>
@@ -1312,6 +1311,12 @@ The footer component.</p>
 <li><p><strong>Header.cshtml</strong>:
 The header component.</p>
 </li>
+<li><p><strong>StoreFooter.cshtml</strong>:
+The store footer component.</p>
+</li>
+<li><p><strong>StoreHeader.cshtml</strong>:
+The store  header component.</p>
+</li>
 </ul>
 
                                 
@@ -1356,7 +1361,7 @@ The header component.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Theming","level":"2.5.4","depth":2,"next":{"title":"View Components","level":"2.5.5","depth":2,"path":"Web-Development/View-Components.md","ref":"Web-Development/View-Components.md","articles":[]},"previous":{"title":"Layouts","level":"2.5.3","depth":2,"path":"Web-Development/Layout.md","ref":"Web-Development/Layout.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Web-Development/Theming.md","mtime":"2021-06-16T05:40:10.414Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-16T05:40:17.549Z"},"basePath":"..","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Theming","level":"2.5.4","depth":2,"next":{"title":"View Components","level":"2.5.5","depth":2,"path":"Web-Development/View-Components.md","ref":"Web-Development/View-Components.md","articles":[]},"previous":{"title":"Layouts","level":"2.5.3","depth":2,"path":"Web-Development/Layout.md","ref":"Web-Development/Layout.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Web-Development/Theming.md","mtime":"2021-06-17T03:02:46.488Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-17T03:02:51.994Z"},"basePath":"..","book":{"language":"English"}});
         });
     </script>
 </div>

@@ -13,7 +13,7 @@ The **ABS Theming Engine** is built on top of the **ABS Razor Templating Engine*
 
 - Use a powerful component architecture to avoid code repetition and improve maintainability
 - Provide alternative templates for fixed platform functionalities such as the Store & Dashboard.
-- Themes can be updated through a mirror ().
+- Themes can be updated through a mirror URL (which can perform things like license validation and much more).
 
 ## Benefits
 
@@ -92,13 +92,13 @@ In addition to your theme, the theme.json file provides details about the Theme 
     "ID": "Turing",
     "Name": "Turing",
     "Domain": "Turing",
-    "License": "GNU General Public License v2 or later",
-    "LicenseUrl": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "Version": "0.0.1",
     "AuthorName": "Fenix Alliance Inc.",
     "AuthorUrl": "https://fenix-alliance.com",
     "ThemeUrl": "https://fenix-alliance.com",
-    "Version": "0.0.1",
     "Tags": "mega-menu, translation-ready",
+    "License": "GNU General Public License v2 or later",
+    "LicenseUrl": "http://www.gnu.org/licenses/gpl-2.0.html",
     "Description": "Default theme for the Alliance Business Suite Portal."
 }
 ```
@@ -144,6 +144,9 @@ The Dashboard template.
 
 ## Core Pages
 
+- **Page.cshtml**:
+The page template. Used when an individual Page is queried.
+
 - **Home.cshtml**:
 The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.
 
@@ -154,22 +157,18 @@ The home page template, which is the front page by default. If you use a static 
 The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.
 
 - **StoreHome.cshtml**:
-The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.
+The home page template, which is the store front page by default. If you use a static store front page this is the template for the page with the latest posts.
 
-- **Single{ContentType}.cshtml**:
-The single post template used when a single post from a custom post type is queried. For example, single-book.cshtml used for displaying single posts from the custom post type named "book". Main.cshtml is used if the query template for the custom post type is not present.
+- **{PluralizedEntityType}.cshtml**:
+The content template used when the records from any given Entity type are queried. For example, Courses.cshtml used for displaying posts from the Entity named "Course". Archive.cshtml is used if the query template for the custom post type is not present.
 
-- **Page.cshtml**:
-The page template. Used when an individual Page is queried.
+- **Single{EntityType}.cshtml**: The single post template used when a single post from a custom post type is queried. For example, SingleItemCategory.cshtml used for displaying single records from the "ItemCategory" Entity. Single.cshtml is used if the query template for the custom post type is not present.
 
 - **Category.cshtml**:
 The category template. Used when a category is queried.
 
 - **Tag.cshtml**:
 The tag template. Used when a tag is queried.
-
-- **Cart.cshtml**:
-The cart page template. Used when a cart is queried.
 
 - **Currencies.cshtml**:
 The currency selector page template. Used to change the default currency is queried.
@@ -223,3 +222,9 @@ The footer component.
 
 - **Header.cshtml**:
 The header component.
+
+- **StoreFooter.cshtml**:
+The store footer component.
+
+- **StoreHeader.cshtml**:
+The store  header component.
