@@ -1,9 +1,3 @@
----
-description: >-
-  Welcome to the open-source documentation for the Alliance Business Suite.
-  Please review this README file to understand how you can assist in contributing to the project.
----
-
 # Alliance Business Suite
 ![Alliance Business Suite](https://absuite.net/wp-content/uploads/sites/13/2020/03/Logo.Blue_.NoBG_.h40.png "Alliance Business Suite")
 
@@ -24,9 +18,9 @@ description: >-
 
 Welcome to the Alliance Business Suite!
 
-The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart their business through the acceleration of several core aspects of any given business.
+The Alliance Business Suite is a set of intelligent, extensible, multi-tenant applications built to enable users to jumpstart their business through the acceleration of several core aspects of any given business.
 
-The Alliance Business Suite gives users a Full-Stack, Modular Application Framework built on top of the [Alliance Business Platform](https://absuite.net). 
+The Alliance Business Suite gives users a Modular, Full-Stack, Low-Code Application Framework built on top of the [Alliance Business Platform](https://absuite.net). 
 
 Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through ASP.NET Core, an open-source and cross-platform web UI framework for building web apps using .NET and C# with or without the use of JavaScript.
 
@@ -179,18 +173,19 @@ V.1.3 ( release in 2021 S2 )
 - [ ] Granular Property Set Access
 - [ ] gRPC Modularization
 - [ ] ACS Modularization
-
-V.1.2 ( release: July 12, 2021 )
 - [ ] Custom Macro Definitions
 - [ ] Virtual Entity Data Sources
+
+V.1.2 ( release: July 12, 2021 )
 - [ ] Studio Static Localization
-- [ ] Custom Portal Profile Definitions
 - [ ] Template Definitions
     - [ ] Agreement Template Definitions
     - [ ] Email Template Definitions
     - [ ] Email Signature Template Definitions
     - [ ] Document Template Definitions
     - [ ] Article Template Definitions
+- ✅ Custom Options Manager
+- ✅ Custom Portal Option Definitions
 - ✅ Virtual SPA Support (Angular/React)
 - ✅ Razor Templating Engine
 - ✅ Live Web Designer Integration
@@ -278,13 +273,9 @@ Constant Considerations
 
 # Example Screenshots
 
-## APS IAM Social Providers:
-Alliance Passport Services provides Internal, B2B, and B2C identity as a service. It allows users to use their preferred social, enterprise, or local account identities to get single sign-on access to the Alliance Business Suite.
+## ABS Studio Dashboard:
 
-Alliance Passport Services (APS) is Fenix Alliance's cloud-based identity and access management service, which helps your customers and employees to sign in and access resources in your deployment, such as apps on your tenant, portal instances, Infinity Comex Deployments, along with any cloud apps developed by your own organization.
-
-
-![Alliance Passport Services](https://github.com/fenixalliance/abs.docs/blob/master/.attachments/image-a85a71aa-0553-47b3-bde4-0f2a7cb8b220.png?raw=true "Alliance Passport Services")
+![image.png](/.attachments/image-8bae0adf-518b-4e17-adfe-05bdc9f31fc1.png)
 
 ## ABS Extensions:
 The ABS is absolutely modular. Whether you need to add pages, products, or posts with no code at all (using the ABS Web Designer), modify the style or layout, or add your own Types, Controllers, Pages, Views, Components, or Tag Helpers
