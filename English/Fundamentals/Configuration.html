@@ -546,9 +546,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="2.7.1" data-path="../Data-Access/Data-Repositories.html">
+        <li class="chapter " data-level="2.7.1" data-path="../Data-Access/Data-Repositories.md">
             
-                <a href="../Data-Access/Data-Repositories.html">
+                <span>
             
                     
                     Data Repositories
@@ -1139,7 +1139,85 @@
     
                                 <section class="normal markdown-section">
                                 
-                                
+                                <h1 id="configuring-an-alliance-business-suite-instance">Configuring an Alliance Business Suite Instance</h1>
+<h2 id="short-notation-for-this-page">Short Notation for this page</h2>
+<ul>
+<li>Acting Business Tenant (&quot;ABT&quot;) </li>
+<li>Current Web Portal (&quot;CWP&quot;) </li>
+</ul>
+<p>The Alliance Business Suite is designed to be as easy to use as it can be by abstracting complexity through a clean UI and multiple navigation features designed to take you where you need to perform.</p>
+<p>Once installed, your instance will be functional, but not quite yet ready for production. For this reason, new instances are created with a Not Operational Status. This Status means that even new users can be created and pretty much every functionality will work right out of the box, several unconfigured functionalities won&apos;t be available until proper setup.</p>
+<p>In order to get your instance to an Operational State, you should first configure for the first time the Alliance Passport Service, perform some internal configurations, and properly set up your Root Web Portal. </p>
+<h2 id="configuring-your-instance">Configuring your instance</h2>
+<p>One of the most important files in your Alliance Business Suite instance is the suitesettings.json file. This file is located in the root of your instance&apos;s file directory and contains your website&#x2019;s base configuration details, such as database connection information.</p>
+<p>When you first download the Alliance Business Suite, this file does not exist, as it will be created during the initial setup process.</p>
+<p>Although you can manually provide a suitesettings.json file for your instance (bypassing like so the initial setup process), you will be required to run this initial setup process at least once to create your initial database schema and insert required records.</p>
+<p>Once this installation process has been completed, multiple instances can retrieve their configuration files through the ABS Management API from the root instance, and thus sharing the data layer, allowing customers to scale both the data and application layer independently, depending on their specific requirements.</p>
+<p>Each Alliance Business Suite instance contains its own administrator portal. Instances are bounded each a Business Tenant&apos;s Primary <a href="../English/Web-Development/Web-Portals.md">Web Portal</a>&apos;s configuration.</p>
+<p>The first towards configuring your Root Web Portal is to finish creating information for your Business Tenant. The amount of configuration required will depend on the number of Modules included in your instance. </p>
+<p>Note: Although currently possible, it is not recommended to edit the <code>suitesettings.json</code> file directly unless required.</p>
+<h1 id="administration-flow-optimization">Administration Flow Optimization</h1>
+<p>Due to the massive amount of different types of data that the Alliance Business Suite is built to manage, and the tremendous amount of control given to our customers, it can be easy to get lost among all the different options and configurations available. We understand this and We want your workflow to be as fluid as possible, so we&apos;ve been tackling this issue through several shortcuts and UI optimizations that will help you manage your business tenant&apos;s with an incredibly high APM (&quot;Actions per Minute&quot;) rate.</p>
+<p>These optimizations include:</p>
+<ol>
+<li>Drastically reducing the number of page loads required to manage everything inside the Alliance Business Suite: Our goal is to bring this number to 1, meaning that once you&apos;re into the Alliance Business Studio, </li>
+<li>Drastically reducing the number of clicks required to get from point A to point B inside the application: Our goal is to provide multiple ways to get you where you need to be across your business tenants.</li>
+<li>Optimizing performance and improving both UX/UI to deliver clear, readable interfaces to manage data across Business Tenants.</li>
+<li>Including accessibility features to improve the way people with limitations interact with the application.</li>
+<li>Delivering additional interfaces other than the Studio to help Customers to automate and extend </li>
+</ol>
+<h2 id="shortcuts-list-for-the-alliance-business-studio">Shortcuts List for the Alliance Business Studio</h2>
+<h3 id="studio-global-shortcuts">Studio: Global Shortcuts</h3>
+<ul>
+<li><code>Shift + H</code>: Go to the Studio Home</li>
+<li><code>Shift + I</code>: Go to your Account Holder Profile Page</li>
+<li><code>Shift + Tab</code>: Go to the Business Tenant Selection Page</li>
+<li><code>Shift + Comma</code>: Go to the Acting Business Tenant&apos;s Profile Page</li>
+<li><code>Shift + A</code>: Go to the Acting Business Tenant&apos;s Admin Dashboard Page</li>
+<li><code>Shift + U</code>: Go to the Acting Business Tenant&apos;s Users Page</li>
+<li><code>Shift + W</code>: Go to the Portals Selection Page </li>
+</ul>
+<h3 id="content-manager-shortcuts">Content Manager Shortcuts</h3>
+<ul>
+<li><code>Shift + P</code>: Go to the CWP&apos;s Web Pages Index Page </li>
+<li><code>Shift + C</code>: Go to the CWP&apos;s Components Index Page </li>
+<li><code>Shift + T</code>: Go to the CWP&apos;s Templates Index Page </li>
+<li><code>Shift + M</code>: Go to the CWP&apos;s Media Manager Page </li>
+</ul>
+<h3 id="network-manager-shortcuts">Network Manager Shortcuts</h3>
+<ul>
+<li><code>Shift + N</code>: Go to the Network&apos;s Dashboard</li>
+<li><code>Shift + L</code>: Go to the Logs Manager</li>
+</ul>
+<h3 id="module-related-shortcuts">Module Related Shortcuts</h3>
+<ul>
+<li><code>Alt + M</code>: Go to the ABT&apos;s Modules Page </li>
+<li><code>Alt + C</code>: Go to the ABT&apos;s Contact Sight Module Page</li>
+<li><code>Alt + A</code>: Go to the ABT&apos;s Accounting Module Page </li>
+<li><code>Alt + S</code>: Go to the ABT&apos;s Sales Module Page </li>
+<li><code>Alt + L</code>: Go to the ABT&apos;s Logistics Module Page </li>
+<li><code>Alt + E</code>: Go to the ABT&apos;s Education Module Page </li>
+<li><code>Alt + H</code>: Go to the ABT&apos;s Helpdesk Module Page </li>
+<li><code>Alt + P</code>: Go to the ABT&apos;s Project Workbench Module Page </li>
+<li><code>Alt + Q</code>: Go to the ABT&apos;s Quality Inspector Module Page </li>
+<li><code>Alt + W</code>: Go to the ABT&apos;s Workplace Module Page</li>
+<li><code>Alt + F</code>: Go to the ABT&apos;s Workforce Module Page</li>
+<li><code>Alt + I</code>: Go to the ABT&apos;s Marketing Module Page</li>
+</ul>
+<h3 id="studio-web-content--live-editor-pages-shortcuts">Studio: Web Content &amp; Live Editor Pages Shortcuts</h3>
+<ul>
+<li><code>CTRL + S</code>: Save Changes</li>
+<li><code>CTRL + V</code>: Validate Code</li>
+<li><code>CTRL + F</code>: Format Code</li>
+</ul>
+<h3 id="quick-record-shortcuts">Quick Record Shortcuts</h3>
+<ul>
+<li><code>CTRL + I</code>: Create Quick Invoice</li>
+<li><code>CTRL + A</code>: Create Quick Account</li>
+<li><code>CTRL + O</code>: Create Quick Order</li>
+<li><code>CTRL + Q</code>: Create Quick Quote</li>
+</ul>
+
                                 
                                 </section>
                             
@@ -1182,7 +1260,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Configuration","level":"2.4.2","depth":2,"next":{"title":"Environments","level":"2.4.3","depth":2,"path":"Fundamentals/Environments.md","ref":"Fundamentals/Environments.md","articles":[]},"previous":{"title":"Installation","level":"2.4.1","depth":2,"path":"Fundamentals/Installation.md","ref":"Fundamentals/Installation.md","articles":[]},"dir":"neutral"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Fundamentals/Configuration.md","mtime":"2021-04-28T08:22:39.369Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-07-06T05:38:32.854Z"},"basePath":"..","book":{"language":"English"}});
+            gitbook.page.hasChanged({"page":{"title":"Configuration","level":"2.4.2","depth":2,"next":{"title":"Environments","level":"2.4.3","depth":2,"path":"Fundamentals/Environments.md","ref":"Fundamentals/Environments.md","articles":[]},"previous":{"title":"Installation","level":"2.4.1","depth":2,"path":"Fundamentals/Installation.md","ref":"Fundamentals/Installation.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","hints","include-html","insert-logo","folding-menu","toggle-chapters","back-to-top-button","hide-published-with","collapsible-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"intopic-toc":{"isCollapsed":true,"isScrollspyActive":true,"label":"In this article","maxDepth":6,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6","visible":true},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-published-with":{},"include-html":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"ga":{"configuration":"auto","token":"UA-XXXX-Y"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"insert-logo":{"style":"background: none;","url":"https://fenixalliance.com.co/images/FenixAlliance/Branding/logo-onecolor-220x40.png"}},"theme":"default","absdocs":"3.2.3","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"English","links":{"sidebar":{"Contact us / Support":"https://fenixalliance.com.co/support"}},"gitbook":"*"},"file":{"path":"Fundamentals/Configuration.md","mtime":"2021-07-09T18:55:16.247Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-07-09T18:55:20.968Z"},"basePath":"..","book":{"language":"English"}});
         });
     </script>
 </div>
