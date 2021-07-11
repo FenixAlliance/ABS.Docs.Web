@@ -1,0 +1,301 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Internationalization - Alliance Business Suite Documentation</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="favicon.svg">
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Overview</a></li><li class="chapter-item expanded "><a href="References.html"><strong aria-hidden="true">2.</strong> API Reference</a></li><li class="chapter-item expanded "><a href="About.html"><strong aria-hidden="true">3.</strong> Outlook</a></li><li class="chapter-item expanded "><a href="Overview.html"><strong aria-hidden="true">4.</strong> Overview</a></li><li class="chapter-item expanded "><a href="Get-started.html"><strong aria-hidden="true">5.</strong> Getting Started</a></li><li class="chapter-item expanded "><a href="Fundamentals.html"><strong aria-hidden="true">6.</strong> Fundamentals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Fundamentals/Installation.html"><strong aria-hidden="true">6.1.</strong> Installation</a></li><li class="chapter-item expanded "><a href="Fundamentals/Configuration.html"><strong aria-hidden="true">6.2.</strong> Configuration</a></li><li class="chapter-item expanded "><a href="Fundamentals/Environments.html"><strong aria-hidden="true">6.3.</strong> Environments</a></li><li class="chapter-item expanded "><a href="Fundamentals/Hosting.html"><strong aria-hidden="true">6.4.</strong> Hosting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Fundamentals/Hosting/Hosting-on-ABS-Cloud.html"><strong aria-hidden="true">6.4.1.</strong> Hosting on ABS Cloud</a></li><li class="chapter-item expanded "><a href="Fundamentals/Hosting/Hosting-on-IIS.html"><strong aria-hidden="true">6.4.2.</strong> Hosting on IIS</a></li></ol></li><li class="chapter-item expanded "><a href="Fundamentals/Logging.html"><strong aria-hidden="true">6.5.</strong> Logging</a></li><li class="chapter-item expanded "><a href="Fundamentals/Routing.html"><strong aria-hidden="true">6.6.</strong> Routing</a></li><li class="chapter-item expanded "><a href="Fundamentals/Static-Files.html"><strong aria-hidden="true">6.7.</strong> Static Files</a></li></ol></li><li class="chapter-item expanded "><a href="Web-Development.html"><strong aria-hidden="true">7.</strong> Web Development</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Web-Development/Web-Portals.html"><strong aria-hidden="true">7.1.</strong> Web Portals</a></li><li class="chapter-item expanded "><a href="Web-Development/Razor-Pages.html"><strong aria-hidden="true">7.2.</strong> Web Pages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Web-Development/Razor-Pages/Razor-Syntax.html"><strong aria-hidden="true">7.2.1.</strong> Razor Syntax</a></li></ol></li><li class="chapter-item expanded "><a href="Web-Development/Client-Side-Apps.html"><strong aria-hidden="true">7.3.</strong> Client Side-Apps</a></li><li class="chapter-item expanded "><a href="Web-Development/Layout.html"><strong aria-hidden="true">7.4.</strong> Layouts</a></li><li class="chapter-item expanded "><a href="Web-Development/Theming.html"><strong aria-hidden="true">7.5.</strong> Theming</a></li><li class="chapter-item expanded "><a href="Web-Development/View-Components.html"><strong aria-hidden="true">7.6.</strong> View Components</a></li><li class="chapter-item expanded "><a href="Web-Development/Session-and-state-management.html"><strong aria-hidden="true">7.7.</strong> Sessions and State</a></li></ol></li><li class="chapter-item expanded "><a href="Web-API-Development.html"><strong aria-hidden="true">8.</strong> Web API Development</a></li><li class="chapter-item expanded "><a href="Data-Access.html"><strong aria-hidden="true">9.</strong> Data Access</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Data-Access/Data-Repositories.html"><strong aria-hidden="true">9.1.</strong> Data Repositories</a></li></ol></li><li class="chapter-item expanded "><a href="Modules.html"><strong aria-hidden="true">10.</strong> Modules and Integrations</a></li><li class="chapter-item expanded "><a href="Internationalization.html" class="active"><strong aria-hidden="true">11.</strong> Internationalization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Internationalization/Localization-Strings.html"><strong aria-hidden="true">11.1.</strong> Localization Strings</a></li></ol></li><li class="chapter-item expanded "><a href="Products.html"><strong aria-hidden="true">12.</strong> Products Overview</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Cloud.html"><strong aria-hidden="true">13.</strong> Alliance Business Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Business-Cloud/About.html"><strong aria-hidden="true">13.1.</strong> About</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Cloud/View-Statistics.html"><strong aria-hidden="true">13.2.</strong> View Statistics</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Cloud/Hosting-Features.html"><strong aria-hidden="true">13.3.</strong> Hosting-Features</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Cloud/Allocated-and-Consumed-Resources.html"><strong aria-hidden="true">13.4.</strong> Allocated and Consumed Resources</a></li></ol></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Model.html"><strong aria-hidden="true">14.</strong> Alliance Business Model</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Business-Model/Extensibility.html"><strong aria-hidden="true">14.1.</strong> Extensibility</a></li></ol></li><li class="chapter-item expanded "><a href="Products/Alliance-Passport-Services.html"><strong aria-hidden="true">15.</strong> Alliance Passport Services</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Passport-Services/Account-Holders.html"><strong aria-hidden="true">15.1.</strong> Account Holders</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Passport-Services/Business-Tenants.html"><strong aria-hidden="true">15.2.</strong> Business Tenants</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Passport-Services/Identity-and-Access-Manager.html"><strong aria-hidden="true">15.3.</strong> Identity &amp; Access Management</a></li></ol></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform.html"><strong aria-hidden="true">16.</strong> Alliance Business Platform</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/APIs.html"><strong aria-hidden="true">16.1.</strong> Application Programming Interfaces</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/APIs/REST-API.html"><strong aria-hidden="true">16.1.1.</strong> REST API</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/APIs/GraphQl-API.html"><strong aria-hidden="true">16.1.2.</strong> GraphQl API</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/APIs/GRPC-API.html"><strong aria-hidden="true">16.1.3.</strong> GRPC API</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/APIs/ABS-Tx.html"><strong aria-hidden="true">16.1.4.</strong> ABS TermX</a></li></ol></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/SDKs.html"><strong aria-hidden="true">16.2.</strong> Software Development Kits</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/SDKs/SDK-Nuget-Package.html"><strong aria-hidden="true">16.2.1.</strong> .NET SDK</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/SDKs/DTOs-Nuget-Package.html"><strong aria-hidden="true">16.2.2.</strong> .NET DTOs Library</a></li><li class="chapter-item expanded "><a href="Products/Alliance-Business-Platform/SDKs/PowerShell-CLI-Module.html"><strong aria-hidden="true">16.2.3.</strong> PowerShell CLI</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="Products/Infinity-Comex-Engine.html"><strong aria-hidden="true">17.</strong> Infinity Comex Engine</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Infinity-Comex-Engine/Carts.html"><strong aria-hidden="true">17.1.</strong> Carts</a></li></ol></li><li class="chapter-item expanded "><a href="Products/Mobile-&-Desktop-Apps.html"><strong aria-hidden="true">18.</strong> Mobile &amp; Desktop Clients</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="Products/Mobile-&-Desktop-Apps/AID-Pocket.html"><strong aria-hidden="true">18.1.</strong> AID Pocket</a></li><li class="chapter-item expanded "><a href="Products/Mobile-&-Desktop-Apps/ABS-Pocket.html"><strong aria-hidden="true">18.2.</strong> ABS Pocket</a></li><li class="chapter-item expanded "><a href="Products/Mobile-&-Desktop-Apps/ABS-POS.html"><strong aria-hidden="true">18.3.</strong> ABS POS</a></li><li class="chapter-item expanded "><a href="Products/Mobile-&-Desktop-Apps/iCx-Mobile.html"><strong aria-hidden="true">18.4.</strong> iCx Mobile</a></li></ol></li><li class="chapter-item expanded "><a href="Security/Data-Protection.html"><strong aria-hidden="true">19.</strong> Data Protection</a></li><li class="chapter-item expanded "><a href="License.html"><strong aria-hidden="true">20.</strong> License</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Alliance Business Suite Documentation</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="internationalization-in-the-alliance-business-suite"><a class="header" href="#internationalization-in-the-alliance-business-suite">Internationalization in the Alliance Business Suite</a></h1>
+<p>A multilingual website allows the site to reach a wider audience. The Alliance Business Suite provides convenient, easy-to-use solutions for localizing portals into different languages and cultures.</p>
+<p>Internationalization involves Globalization and Localization. Globalization is the process of designing apps that support different cultures. Globalization adds support for the input, display, and output of a defined set of language scripts that relate to specific geographic areas.</p>
+<p>Localization is the process of adapting a globalized app, which you have already processed for localizability, to a particular culture/locale. For more information see Globalization and localization terms near the end of this document.</p>
+<h2 id="how-to-make-the-apps-content-localizable"><a class="header" href="#how-to-make-the-apps-content-localizable">How to make the app's content localizable</a></h2>
+<p>The Alliance Business Suite was architected to allow customers to obtain this functionality right out of the box. Through simple front-end settings for each portal, customers can select a default language for each portal and localize strings and HTML fragments by just calling the <code>_()</code> method available through code on every web content entry. (e.g: _(&quot;Hello World&quot;))</p>
+<p>Once your localizable strings have been placed in code using the String Localizer function. you can <a href="Internationalization/Localization-Strings">create localization resources using your instance's admin portal</a>.</p>
+<h2 id="implement-a-strategy-to-select-the-languageculture-for-each-request"><a class="header" href="#implement-a-strategy-to-select-the-languageculture-for-each-request">Implement a strategy to select the language/culture for each request</a></h2>
+<p>Localization is already set up using the ACL. Additional supported languages, as well as the primary content language for each portal, can be selected on each's portal configuration manager.</p>
+<h3 id="querystringrequestcultureprovider"><a class="header" href="#querystringrequestcultureprovider">QueryStringRequestCultureProvider</a></h3>
+<p>Portals can use a query string to set the Culture Info. For apps that use the cookie or Accept-Language header approach, adding a query string to the URL is useful for debugging and testing code. By default, the QueryStringRequestCultureProvider is registered as the first localization provider in the RequestCultureProvider list. You pass the query string parameters culture and UI-culture. The following example sets the specific culture (language and region) to Spanish/Mexico:</p>
+<pre><code>http://yourdomain/?culture=es-MX&amp;ui-culture=es-MX
+</code></pre>
+<p>If you only pass in one of the two (culture or ui-culture), the query string provider will set both values using the one you passed in. For example, setting just the culture will set both the Culture and the UICulture:</p>
+<pre><code>http://localhost:5000/?culture=es-MX
+</code></pre>
+<h3 id="cookierequestcultureprovider"><a class="header" href="#cookierequestcultureprovider">CookieRequestCultureProvider</a></h3>
+<p>Production apps will often provide a mechanism to set the culture with the ASP.NET Core culture cookie. Use the MakeCookieValue method to create a cookie.</p>
+<p>The CookieRequestCultureProvider DefaultCookieName returns the default cookie name used to track the user's preferred culture information. The default cookie name is .AspNetCore.Culture.</p>
+<p>The cookie format is c=%LANGCODE%|uic=%LANGCODE%, where c is Culture and uic is UICulture, for example:</p>
+<pre><code>c=en-UK|uic=en-US
+</code></pre>
+<p>If you only specify one of culture info and UI culture, the specified culture will be used for both culture info and UI culture.</p>
+<h3 id="the-accept-language-http-header"><a class="header" href="#the-accept-language-http-header">The Accept-Language HTTP header</a></h3>
+<p>The Accept-Language header is settable in most browsers and was originally intended to specify the user's language. This setting indicates what the browser has been set to send or has inherited from the underlying operating system. The Accept-Language HTTP header from a browser request isn't an infallible way to detect the user's preferred language (see Setting language preferences in a browser). A production app should include a way for a user to customize their choice of culture.</p>
+<h4 id="set-the-accept-language-http-header-in-ie"><a class="header" href="#set-the-accept-language-http-header-in-ie">Set the Accept-Language HTTP header in IE</a></h4>
+<ol>
+<li>
+<p>From the gear icon, tap Internet Options.</p>
+</li>
+<li>
+<p>Tap Languages.</p>
+</li>
+<li>
+<p>Internet Options</p>
+</li>
+<li>
+<p>Tap Set Language Preferences.</p>
+</li>
+<li>
+<p>Tap Add a language.</p>
+</li>
+<li>
+<p>Add the language.</p>
+</li>
+<li>
+<p>Tap the language, then tap Move Up.</p>
+</li>
+</ol>
+<h2 id="set-the-culture-programmatically"><a class="header" href="#set-the-culture-programmatically">Set the culture programmatically</a></h2>
+<p>You can easily create a component to allow your users to select their preferred culture from the list of supported cultures:</p>
+<p>This sample, present on the Header Component for the <a href="https://github.com/FenixAlliance/ABS.Portal.Themes.Turing">Turing Theme</a> shows you how to do so:</p>
+<pre><code class="language-csharp">@{
+	var requestCulture = Context.Features.Get&lt;IRequestCultureFeature&gt;();
+	var cultureItems = RequestLocalizationOptions.Value.SupportedUICultures
+		.Select(c =&gt; new SelectListItem { Value = c.Name, Text = c.DisplayName })
+		.ToList();
+	var returnUrl = string.IsNullOrEmpty(Context.Request.Path) ? &quot;~/&quot; : $&quot;~{Context.Request.Path.Value}&quot;;
+}
+
+&lt;li class=&quot;nav-item dropdown&quot;&gt;
+	&lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;SelectLang&quot;&gt;
+		&lt;!-- Current Language --&gt;
+		&lt;h6 class=&quot;dropdown-header&quot;&gt;
+			&lt;b&gt;  &lt;i class=&quot;fas fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;  @_(&quot;Current Language&quot;): &lt;/b&gt;
+			&lt;b id=&quot;CurrencyTip&quot;&gt;
+				@requestCulture.RequestCulture.Culture.TwoLetterISOLanguageName
+			&lt;/b&gt;
+		&lt;/h6&gt;
+		&lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
+		@foreach (var item in cultureItems)
+		{
+			var value = @item.Value;
+			&lt;a href=&quot;#&quot; onclick=&quot;SelectLang('@(value.Replace(&quot; &quot;, &quot;&quot;))')&quot; class=&quot;dropdown-item&quot;&gt;
+				&lt;i class=&quot;fas fa-language&quot;&gt;&lt;/i&gt;&amp;nbsp; @item.Text
+			&lt;/a&gt;
+		}
+	&lt;/div&gt;
+
+	&lt;script&gt;
+		//Select Language
+		function SelectLang(value) {
+			cookie = &quot;c=&quot; + value.trim() + &quot;|uic=&quot; + value.trim();
+			Cookies.set('.AspNetCore.Culture', cookie);
+			window.location.reload();
+		}
+	&lt;/script&gt;
+&lt;/li&gt;
+</code></pre>
+<h2 id="globalization-and-localization-terms"><a class="header" href="#globalization-and-localization-terms">Globalization and localization terms</a></h2>
+<p>The process of localizing your portals also requires a basic understanding of relevant character sets commonly used in modern software development and an understanding of the issues associated with them. Although all computers store text as numbers (1's and 0's), different systems store the same text using different numbers. The localization process refers to translating the portal user interface (UI) for a specific culture/locale.</p>
+<p>Localizability is an intermediate process for verifying that a globalized app is ready for localization.</p>
+<p>The RFC 4646 format for the culture name is {languagecode2}-{country/regioncode2}, where {languagecode2} is the language code and {country/regioncode2} is the subculture code. For example, es-CO for Spanish (Colombia), en-US for English (United States), and en-AU for English (Australia). RFC 4646 is a combination of an ISO 639 two-letter lowercase culture code associated with a language and an ISO 3166 two-letter uppercase subculture code associated with a country or region. </p>
+<p>Internationalization is often abbreviated to &quot;I18N&quot;. The abbreviation takes the first and last letters and the number of letters between them, so 18 stands for the number of letters between the first &quot;I&quot; and the last &quot;N&quot;. The same applies to Globalization (G11N), and Localization (L10N).</p>
+<p>Terms:</p>
+<ul>
+<li><strong>Globalization (G11N)</strong>: The process of making a piece of software to support different languages and regions.</li>
+<li><strong>Localization (L10N)</strong>: The process of customizing an app for a given language and region.</li>
+<li><strong>Internationalization (I18N)</strong>: Describes both globalization and localization.</li>
+<li><strong>Culture</strong>: It's a language and, optionally, a region.</li>
+<li><strong>Neutral culture</strong>: A culture that has a specified language, but not a region. (for example &quot;en&quot;, &quot;es&quot;)</li>
+<li><strong>Specific culture</strong>: A culture that has a specified language and region. (for example &quot;en-US&quot;, &quot;en-GB&quot;, &quot;es-CL&quot;)</li>
+<li><strong>Parent Culture</strong>: The neutral culture that contains a specific culture. (for example, &quot;en&quot; is the parent culture of &quot;en-US&quot; and &quot;en-GB&quot;)</li>
+<li><strong>Locale</strong>: A locale is the same as a culture.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="Modules.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="Internationalization/Localization-Strings.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="Modules.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="Internationalization/Localization-Strings.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
