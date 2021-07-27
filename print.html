@@ -147,8 +147,8 @@
                         <h1 id="alliance-business-suite"><a class="header" href="#alliance-business-suite">Alliance Business Suite</a></h1>
 <p><img src="https://absuite.net/wp-content/uploads/sites/13/2020/03/Logo.Blue_.NoBG_.h40.png" alt="Alliance Business Suite" title="Alliance Business Suite" /></p>
 <p>
-  <a href="https://docs.absuite.net/reference/1.1.7/" target="_blank">
-     <img alt="Version" src="https://img.shields.io/badge/Version-1.1.7-blue.svg?cacheSeconds=2592000" />
+  <a href="https://docs.absuite.net/reference/1.2.0/" target="_blank">
+     <img alt="Version" src="https://img.shields.io/badge/Version-1.2.0-blue.svg?cacheSeconds=2592000" />
   </a>
   <a href="https://docs.absuite.net" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/Documentation-yes-brightgreen.svg" />
@@ -164,7 +164,7 @@
 <p>The Alliance Business Suite is a set of intelligent, extensible, multi-tenant applications built to enable users to jumpstart their business through the acceleration of several core aspects of any given business.</p>
 <p>The Alliance Business Suite gives users a Modular, Full-Stack, Low-Code Application Framework built on top of the <a href="https://absuite.net">Alliance Business Platform</a>. </p>
 <p>Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through ASP.NET Core, an open-source and cross-platform web UI framework for building web apps using .NET and C# with or without the use of JavaScript.</p>
-<p>ABS Apps are composed of reusable web UI components implemented using C#, HTML, and CSS. </p>
+<p>The power of the Alliance Business Suite can be leveraged from small personal blogs,  eCommerce platforms, and professional portfolios to the infrastructure of large corporations.</p>
 <h2 id="about-the-alliance-creed"><a class="header" href="#about-the-alliance-creed">About the Alliance Creed</a></h2>
 <p>We're designed to succeed when you and your business succeed; that's why we're committed to helping as many people as possible to harness their entire potential. By building on top of word-class technologies, we're designing this solution to jumpstart your business without having to worry about any of the complexity and technical aspects. We simply want to help you make your life easier while increasing your odds for success through the right tools and support on the path to digitalization.</p>
 <p>The fact is, since our inception, we've steered towards creating a culture designed to reach beyond expectations together by building an organization whose success strategy is to help others to succeed.</p>
@@ -277,7 +277,7 @@ namespace FenixAlliance.ABS
 </code></pre>
 <h1 id="roadmap"><a class="header" href="#roadmap">Roadmap</a></h1>
 <p>This project is a work in progress and the schedule for implementing enhancements is dependent upon the availability of community members who are willing/able to assist. For a more comprehensive look at our roadmap, please visit our <strong><a href="https://dev.azure.com/fenixalliance/ABS.Docs/_workitems/recentlyupdated">Progess Board</a></strong>.</p>
-<p>V.1.4 ( release in 2022 S1 )</p>
+<p>V.1.3 ( release: July 12, 2023 )</p>
 <ul>
 <li><input disabled="" type="checkbox"/>
 UBL 2.1 Support</li>
@@ -286,8 +286,20 @@ Process Canvas.</li>
 <li><input disabled="" type="checkbox"/>
 PowerShell SDK </li>
 </ul>
-<p>V.1.3 ( release in 2021 S2 )</p>
+<p>V.1.3 ( release: July 12, 2022 )</p>
 <ul>
+<li><input disabled="" type="checkbox"/>
+.NET 6.0 Stable Release</li>
+<li><input disabled="" type="checkbox"/>
+Template Definitions</li>
+<li><input disabled="" type="checkbox"/>
+Agreement Template Definitions</li>
+<li><input disabled="" type="checkbox"/>
+Email Signature Template Definitions</li>
+<li><input disabled="" type="checkbox"/>
+Document Template Definitions</li>
+<li><input disabled="" type="checkbox"/>
+Article Template Definitions</li>
 <li><input disabled="" type="checkbox"/>
 gRPC Modularization</li>
 <li><input disabled="" type="checkbox"/>
@@ -295,35 +307,22 @@ Reporting Dashboard</li>
 <li><input disabled="" type="checkbox"/>
 Dynamic Dashboards</li>
 <li><input disabled="" type="checkbox"/>
-Granular Property Set Access</li>
-<li><input disabled="" type="checkbox"/>
 gRPC Modularization</li>
 <li><input disabled="" type="checkbox"/>
 ACS Modularization</li>
 <li><input disabled="" type="checkbox"/>
-Custom Macro Definitions</li>
+Granular Property Set Access</li>
+<li><input disabled="" type="checkbox"/>
+Custom Includes Definitions</li>
 <li><input disabled="" type="checkbox"/>
 Virtual Entity Data Sources</li>
-</ul>
-<p>V.1.2 ( release: July 12, 2021 )</p>
-<ul>
 <li><input disabled="" type="checkbox"/>
 Studio Static Localization</li>
-<li><input disabled="" type="checkbox"/>
-Template Definitions
-<ul>
-<li><input disabled="" type="checkbox"/>
-Agreement Template Definitions</li>
-<li><input disabled="" type="checkbox"/>
-Email Template Definitions</li>
-<li><input disabled="" type="checkbox"/>
-Email Signature Template Definitions</li>
-<li><input disabled="" type="checkbox"/>
-Document Template Definitions</li>
-<li><input disabled="" type="checkbox"/>
-Article Template Definitions</li>
+<li>✅ Email Template Definitions</li>
+<li>✅ Blazor Support (Experimental)</li>
 </ul>
-</li>
+<p>V.1.2 LTS ( release: July 12, 2021 )</p>
+<ul>
 <li>✅ Custom Options Manager</li>
 <li>✅ Custom Portal Option Definitions</li>
 <li>✅ Virtual SPA Support (Angular/React)</li>
@@ -360,7 +359,7 @@ Article Template Definitions</li>
 </ul>
 </li>
 </ul>
-<p>V.1.0.0 ( released in Dec 31, 2020 )</p>
+<p>V.1.1 ( release: July 12, 2020 )</p>
 <ul>
 <li>✅ Authentication / User Management / Profile Management</li>
 <li>✅ Authorization / Roles Management / Granular Permissions</li>
@@ -2702,7 +2701,7 @@ foreach(var contact in contacts){
 <div style="break-before: page; page-break-before: always;"></div><h1 id="modules-for-the-alliance-business-suite"><a class="header" href="#modules-for-the-alliance-business-suite">Modules for the Alliance Business Suite</a></h1>
 <p>The Alliance Business Suite is a modular application platform. This means that you can create custom functionalities in the form of modules and add them to your ABS instance.</p>
 <p>Modules are pieces of software that are designed to perform a specific set of functions or add a specific kind of feature, to any Alliance Business Suite instance. ABS Modules work only with self-hosted ABS instances. Hosted versions such as absuite.net typically offer theme options for customizing portals, but it isn’t possible to install plugins freely to customize portals on this platform.</p>
-<p>ABS Modules are written in C#, the programming language for the Alliance Business Suite itself. When using ABS Modules, you can easily install or “plugin” the one you want to an existing ABS instance with no knowledge of code required. The power of the Alliance Business Suite can be leveraged from small personal blogs and professional portfolios to the infrastructure of large corporations and eCommerce platforms. The power of ABS Modules makes it possible to extend the functionality of the Alliance Business Suite sites while creating customer experiences that are completely unique.</p>
+<p>ABS Modules are written in C#, the programming language for the Alliance Business Suite itself. When using ABS Modules, you can easily install or “plugin” the one you want to an existing ABS instance with no knowledge of code required. The power of ABS Modules makes it possible to extend the functionality of the Alliance Business Suite sites while creating customer experiences that are completely unique.</p>
 <p>The Alliance Business Platform provides an essential framework for building a basic website. Some specialized functions can be added to each module and integrated with every theme but those features usually relate to customizing the structure of the site itself. For example, a theme designed for photographers might include options for a gallery or slideshow, and an eCommerce theme might have basic functionality for setting up product pages. Plugins incorporate a fully developed set of functions into your Alliance Business Suite instance site and can include options for customization and configuration.</p>
 <h1 id="creating-modules"><a class="header" href="#creating-modules">Creating Modules</a></h1>
 <p>To create a Module for the Alliance Business Suite, you'll need to create a new Razor Class Library with DotNet. Then add a reference to the <code>FenixAlliance.ABP.SDK</code> Nuget package to your project and implement the <code>IModule</code> interface.</p>
