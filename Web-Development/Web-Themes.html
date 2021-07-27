@@ -1,0 +1,424 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Web Themes - Alliance Business Suite Documentation</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../favicon.svg">
+                        <link rel="shortcut icon" href="../favicon.png">
+                <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+                <link rel="stylesheet" href="../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html"><strong aria-hidden="true">1.</strong> Overview</a></li><li class="chapter-item expanded "><a href="../References.html"><strong aria-hidden="true">2.</strong> API Reference</a></li><li class="chapter-item expanded "><a href="../About.html"><strong aria-hidden="true">3.</strong> Outlook</a></li><li class="chapter-item expanded "><a href="../Overview.html"><strong aria-hidden="true">4.</strong> Overview</a></li><li class="chapter-item expanded "><a href="../Get-started.html"><strong aria-hidden="true">5.</strong> Getting Started</a></li><li class="chapter-item expanded "><a href="../Fundamentals.html"><strong aria-hidden="true">6.</strong> Fundamentals</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Fundamentals/Installation.html"><strong aria-hidden="true">6.1.</strong> Installation</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Configuration.html"><strong aria-hidden="true">6.2.</strong> Configuration</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Environments.html"><strong aria-hidden="true">6.3.</strong> Environments</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Hosting.html"><strong aria-hidden="true">6.4.</strong> Hosting</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Fundamentals/Hosting/Hosting-on-ABS-Cloud.html"><strong aria-hidden="true">6.4.1.</strong> Hosting on ABS Cloud</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Hosting/Hosting-on-IIS.html"><strong aria-hidden="true">6.4.2.</strong> Hosting on IIS</a></li></ol></li><li class="chapter-item expanded "><a href="../Fundamentals/Logging.html"><strong aria-hidden="true">6.5.</strong> Logging</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Routing.html"><strong aria-hidden="true">6.6.</strong> Routing</a></li><li class="chapter-item expanded "><a href="../Fundamentals/Static-Files.html"><strong aria-hidden="true">6.7.</strong> Static Files</a></li></ol></li><li class="chapter-item expanded "><a href="../Web-Development.html"><strong aria-hidden="true">7.</strong> Web Development</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Web-Development/Web-Portals.html"><strong aria-hidden="true">7.1.</strong> Web Portals</a></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages.html"><strong aria-hidden="true">7.2.</strong> Web Pages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages/Razor-Pages.html"><strong aria-hidden="true">7.2.1.</strong> Razor Pages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages/Razor-Pages/Razor-Syntax.html"><strong aria-hidden="true">7.2.1.1.</strong> Razor Syntax</a></li></ol></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages/Razor-Pages.html"><strong aria-hidden="true">7.2.2.</strong> Blazor Pages</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages/Blazor-Pages/Data-Binding.html"><strong aria-hidden="true">7.2.2.1.</strong> Data Binding</a></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Pages/Blazor-Pages/Event-Handling.html"><strong aria-hidden="true">7.2.2.2.</strong> Data Binding</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Themes.html" class="active"><strong aria-hidden="true">7.3.</strong> Web Themes</a></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Templates.html"><strong aria-hidden="true">7.4.</strong> Web Templates</a></li><li class="chapter-item expanded "><a href="../Web-Development/Web-Components.html"><strong aria-hidden="true">7.5.</strong> Web Components</a></li><li class="chapter-item expanded "><a href="../Web-Development/Client-Side-Apps.html"><strong aria-hidden="true">7.6.</strong> Client Side-Apps</a></li><li class="chapter-item expanded "><a href="../Web-Development/Session-and-state-management.html"><strong aria-hidden="true">7.7.</strong> Sessions and State</a></li></ol></li><li class="chapter-item expanded "><a href="../Web-API-Development.html"><strong aria-hidden="true">8.</strong> Web API Development</a></li><li class="chapter-item expanded "><a href="../Data-Access.html"><strong aria-hidden="true">9.</strong> Data Access</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Data-Access/Data-Repositories.html"><strong aria-hidden="true">9.1.</strong> Data Repositories</a></li></ol></li><li class="chapter-item expanded "><a href="../Modules.html"><strong aria-hidden="true">10.</strong> Modules and Integrations</a></li><li class="chapter-item expanded "><a href="../Internationalization.html"><strong aria-hidden="true">11.</strong> Internationalization</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Internationalization/Localization-Strings.html"><strong aria-hidden="true">11.1.</strong> Localization Strings</a></li></ol></li><li class="chapter-item expanded "><a href="../Products.html"><strong aria-hidden="true">12.</strong> Products Overview</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Cloud.html"><strong aria-hidden="true">13.</strong> Alliance Business Cloud</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Cloud/About.html"><strong aria-hidden="true">13.1.</strong> About</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Cloud/View-Statistics.html"><strong aria-hidden="true">13.2.</strong> View Statistics</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Cloud/Hosting-Features.html"><strong aria-hidden="true">13.3.</strong> Hosting-Features</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Cloud/Allocated-and-Consumed-Resources.html"><strong aria-hidden="true">13.4.</strong> Allocated and Consumed Resources</a></li></ol></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Model.html"><strong aria-hidden="true">14.</strong> Alliance Business Model</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Model/Extensibility.html"><strong aria-hidden="true">14.1.</strong> Extensibility</a></li></ol></li><li class="chapter-item expanded "><a href="../Products/Alliance-Passport-Services.html"><strong aria-hidden="true">15.</strong> Alliance Passport Services</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Passport-Services/Account-Holders.html"><strong aria-hidden="true">15.1.</strong> Account Holders</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Passport-Services/Business-Tenants.html"><strong aria-hidden="true">15.2.</strong> Business Tenants</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Passport-Services/Identity-and-Access-Manager.html"><strong aria-hidden="true">15.3.</strong> Identity &amp; Access Management</a></li></ol></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform.html"><strong aria-hidden="true">16.</strong> Alliance Business Platform</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/APIs.html"><strong aria-hidden="true">16.1.</strong> Application Programming Interfaces</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/APIs/REST-API.html"><strong aria-hidden="true">16.1.1.</strong> REST API</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/APIs/GraphQl-API.html"><strong aria-hidden="true">16.1.2.</strong> GraphQl API</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/APIs/GRPC-API.html"><strong aria-hidden="true">16.1.3.</strong> GRPC API</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/APIs/ABS-Tx.html"><strong aria-hidden="true">16.1.4.</strong> ABS TermX</a></li></ol></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/SDKs.html"><strong aria-hidden="true">16.2.</strong> Software Development Kits</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/SDKs/SDK-Nuget-Package.html"><strong aria-hidden="true">16.2.1.</strong> .NET SDK</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/SDKs/DTOs-Nuget-Package.html"><strong aria-hidden="true">16.2.2.</strong> .NET DTOs Library</a></li><li class="chapter-item expanded "><a href="../Products/Alliance-Business-Platform/SDKs/PowerShell-CLI-Module.html"><strong aria-hidden="true">16.2.3.</strong> PowerShell CLI</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../Products/Infinity-Comex-Engine.html"><strong aria-hidden="true">17.</strong> Infinity Comex Engine</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Infinity-Comex-Engine/Carts.html"><strong aria-hidden="true">17.1.</strong> Carts</a></li></ol></li><li class="chapter-item expanded "><a href="../Products/Mobile-&-Desktop-Apps.html"><strong aria-hidden="true">18.</strong> Mobile &amp; Desktop Clients</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Products/Mobile-&-Desktop-Apps/AID-Pocket.html"><strong aria-hidden="true">18.1.</strong> AID Pocket</a></li><li class="chapter-item expanded "><a href="../Products/Mobile-&-Desktop-Apps/ABS-Pocket.html"><strong aria-hidden="true">18.2.</strong> ABS Pocket</a></li><li class="chapter-item expanded "><a href="../Products/Mobile-&-Desktop-Apps/ABS-POS.html"><strong aria-hidden="true">18.3.</strong> ABS POS</a></li><li class="chapter-item expanded "><a href="../Products/Mobile-&-Desktop-Apps/iCx-Mobile.html"><strong aria-hidden="true">18.4.</strong> iCx Mobile</a></li></ol></li><li class="chapter-item expanded "><a href="../Security/Data-Protection.html"><strong aria-hidden="true">19.</strong> Data Protection</a></li><li class="chapter-item expanded "><a href="../License.html"><strong aria-hidden="true">20.</strong> License</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Alliance Business Suite Documentation</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="theming-engine"><a class="header" href="#theming-engine">Theming Engine</a></h1>
+<p>This article contains information about developing themes for the Alliance Business Suite. The product includes a powerful theming engine that allows customers to customize every portal's look and feel.</p>
+<h2 id="introduction"><a class="header" href="#introduction">Introduction</a></h2>
+<p>Alliance Business Suite Themes are groups of files that work together to create the design and functionality of an Alliance Business Suite portal. Each Theme may be different, offering many choices for site owners to instantly change their portal look.</p>
+<p>We're building the theme engine to allow customers to create themes for their own use, for a client project or to submit to the ABS Theme Directory. </p>
+<h2 id="capabilities"><a class="header" href="#capabilities">Capabilities</a></h2>
+<p>The <strong>ABS Theming Engine</strong> is built on top of the <strong>ABS Razor Templating Engine</strong>, which allows themes to use a combination of C# + HTML, CSS, and JavaScript to build amazing experiences.</p>
+<ul>
+<li>Use a powerful component architecture to avoid code repetition and improve maintainability</li>
+<li>Provide alternative templates for fixed platform functionalities such as the Store &amp; Dashboard.</li>
+<li>Themes can be updated through a mirror URL (which can perform things like license validation and much more).</li>
+</ul>
+<h2 id="benefits"><a class="header" href="#benefits">Benefits</a></h2>
+<ul>
+<li>Themes can keep your Business Logic separated from your UI.</li>
+<li>Themes are easily portable to other Alliance Business Suite instances.</li>
+<li>Themes can be enabled on many portals running on the same instance.</li>
+<li>Theme files can be overridden by <a href="#Child-Themes">child theme files</a> and Dynamic Web Content (pulled from the database).</li>
+</ul>
+<h2 id="anatomy-of-a-theme"><a class="header" href="#anatomy-of-a-theme">Anatomy of a Theme</a></h2>
+<p>Alliance Business Suite themes are just files living on a specific folder inside your instance's file system (<code>/AppData/Themes/{ThemeName}</code>). Each Theme Folder contains static files (such as JavaScript, CSS, Images, SVGs...) as well as a collection of C#, Razor, and Cshtml files.</p>
+<p>The Alliance Business Suite includes a default theme in each new installation. Examine the files in the default theme carefully to get a better idea of how to build your own Theme files.</p>
+<h2 id="child-themes"><a class="header" href="#child-themes">Child Themes</a></h2>
+<p>A child theme allows you to change small aspects of each theme's appearance while still preserving your theme’s look and functionality. To understand how child themes work it is first important to understand the relationship between parent and child themes.</p>
+<p>A parent theme is a regular theme that includes every needed file the theme needs to properly work. This includes static files and business logic (dependencies should be installed through a Module).</p>
+<p>Therefore, a Child Theme is just a subset of the parent's files which overrides a small subset of the parent's theme style and/or functionality.</p>
+<h2 id="benefits-of-using-a-child-theme"><a class="header" href="#benefits-of-using-a-child-theme">Benefits of using a Child Theme</a></h2>
+<ul>
+<li>make your modifications portable and replicable;</li>
+<li>keep customization separate from parent theme functions.</li>
+<li>allow parent themes to be updated without destroying your modifications.</li>
+<li>allow you to take advantage of the effort and testing put into the parent theme.</li>
+<li>save on development time as you are not reinventing the wheel; and</li>
+<li>are a great way to start learning about theme development.</li>
+</ul>
+<h2 id="the-anatomy-of-a-theme"><a class="header" href="#the-anatomy-of-a-theme">The anatomy of a Theme</a></h2>
+<p>Themes contain a specific folder structure used to override the content defaults</p>
+<pre><code>- /Pages/
+- /Components/
+- /Public/
+- /Templates/
+</code></pre>
+<p>Using these template files you can poll dynamic web content within the Main.cshtml master file to include these other files where you want them to appear in the final generated page.</p>
+<ul>
+<li>To include the body, use <code>@Body</code>.</li>
+<li>To include the header, use <code>@await ViewService.InvokeAsync(&quot;Header&quot;)</code>.</li>
+<li>To include the sidebar, use <code>@await ViewService.InvokeAsync(&quot;Sidebar&quot;)</code>.</li>
+<li>To include the footer, use <code>@await ViewService.InvokeAsync(&quot;Footer&quot;)</code>.</li>
+<li>To include the search bar, use <code>@await ViewService.InvokeAsync(&quot;Search&quot;)</code>.</li>
+</ul>
+<p>Here is an example of a basic Template File:</p>
+<pre><code>@{Name = &quot;Turing Main Template&quot;;}
+
+@await ViewService.InvokeAsync(&quot;Header&quot;)
+@Body
+@await ViewService.InvokeAsync(&quot;Footer&quot;)
+
+</code></pre>
+<p>For more on how these various Templates work and how to generate different information within themes, read the <a href="/English/Web-Development/Layout.html">Templates documentation</a>.</p>
+<h2 id="theme-configuration-file"><a class="header" href="#theme-configuration-file">Theme Configuration File</a></h2>
+<p>In addition to your theme, the theme.json file provides details about the Theme in the form of a JSON Object. The file MUST exist and provide details about the Theme in a specific format. No two Themes are allowed to have the same details listed in the properties, as this will lead to problems in the Theme selection process. If you make your own Theme by copying an existing one, make sure you change this information first.</p>
+<pre><code class="language-json">{
+    &quot;ID&quot;: &quot;Turing&quot;,
+    &quot;Name&quot;: &quot;Turing&quot;,
+    &quot;Domain&quot;: &quot;Turing&quot;,
+    &quot;Version&quot;: &quot;0.0.1&quot;,
+    &quot;AuthorName&quot;: &quot;Fenix Alliance Inc.&quot;,
+    &quot;AuthorUrl&quot;: &quot;https://fenix-alliance.com&quot;,
+    &quot;ThemeUrl&quot;: &quot;https://fenix-alliance.com&quot;,
+    &quot;Tags&quot;: &quot;mega-menu, translation-ready&quot;,
+    &quot;License&quot;: &quot;GNU General Public License v2 or later&quot;,
+    &quot;LicenseUrl&quot;: &quot;http://www.gnu.org/licenses/gpl-2.0.html&quot;,
+    &quot;Description&quot;: &quot;Default theme for the Alliance Business Suite Portal.&quot;
+}
+</code></pre>
+<p>NB: The name used for the Author is suggested to be the same as the Theme Author's github.com username, in which case it should start with an &quot;@&quot;, although it can be the author's real or business name as well.</p>
+<h2 id="template-files"><a class="header" href="#template-files">Template Files</a></h2>
+<p>Templates are ABS Razor source files used to generate the pages requested by visitors and are output as HTML. Template files are made up of HTML, C# and are rendered through ABS Templating Engine.</p>
+<p>The Alliance Business Suite defines several template files that control the look and feel of certain parts of each portal.</p>
+<p>Templates are rendered based upon the Web Component Hierarchy, which depends on the files that are present on the portal's enabled theme.</p>
+<p>Template files should exist inside the Templates folder on your theme.</p>
+<p>At the very minimum, an Alliance Business Suite Theme consists of two files:</p>
+<ul>
+<li>theme.json</li>
+<li>/Public/style.css</li>
+</ul>
+<p>Both of these files go into the Theme directory. The Main.cshtml template file is very flexible. It can be used to include references to the header, sidebar, footer, body, categories, archives, search, error, and any other components both present in the theme's filesystem or pulled from the Alliance Business Model as Dynamic Web Content.</p>
+<p>Or, it can be divided into several template files, each one taking on part of the workload. If you do not provide other template files, the Alliance Business Suite may have default files or functions to perform their jobs. For example, if you do not provide a SearchForm.cshtml template file, the Alliance Business Suite has a default View Component to display the search form.</p>
+<h2 id="core-templates"><a class="header" href="#core-templates">Core Templates</a></h2>
+<ul>
+<li>
+<p><strong>Main.cshtml</strong>:
+The main template. If your Theme provides its own template, Main.cshtml must be present.</p>
+</li>
+<li>
+<p><strong>Blog.cshtml</strong>:
+The Blog template.</p>
+</li>
+<li>
+<p><strong>Forum.cshtml</strong>:
+The Forum template.</p>
+</li>
+<li>
+<p><strong>Store.cshtml</strong>:
+The Store template.</p>
+</li>
+<li>
+<p><strong>Dashboard.cshtml</strong>:
+The Dashboard template.</p>
+</li>
+</ul>
+<h2 id="core-pages"><a class="header" href="#core-pages">Core Pages</a></h2>
+<ul>
+<li>
+<p><strong>Page.cshtml</strong>:
+The page template. Used when an individual Page is queried.</p>
+</li>
+<li>
+<p><strong>Home.cshtml</strong>:
+The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
+</li>
+<li>
+<p><strong>ForumHome.cshtml</strong>:
+The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
+</li>
+<li>
+<p><strong>BlogHome.cshtml</strong>:
+The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts.</p>
+</li>
+<li>
+<p><strong>StoreHome.cshtml</strong>:
+The home page template, which is the store front page by default. If you use a static store front page this is the template for the page with the latest posts.</p>
+</li>
+<li>
+<p><strong>{PluralizedEntityType}.cshtml</strong>:
+The content template used when the records from any given Entity type are queried. For example, Courses.cshtml used for displaying posts from the Entity named &quot;Course&quot;. Archive.cshtml is used if the query template for the custom post type is not present.</p>
+</li>
+<li>
+<p><strong>Single{EntityType}.cshtml</strong>: The single post template used when a single post from a custom post type is queried. For example, SingleItemCategory.cshtml used for displaying single records from the &quot;ItemCategory&quot; Entity. Single.cshtml is used if the query template for the custom post type is not present.</p>
+</li>
+<li>
+<p><strong>Category.cshtml</strong>:
+The category template. Used when a category is queried.</p>
+</li>
+<li>
+<p><strong>Tag.cshtml</strong>:
+The tag template. Used when a tag is queried.</p>
+</li>
+<li>
+<p><strong>Currencies.cshtml</strong>:
+The currency selector page template. Used to change the default currency is queried.</p>
+</li>
+<li>
+<p><strong>User.cshtml</strong>:
+The account page template. Used on the User Profile Page.</p>
+</li>
+<li>
+<p><strong>Login.cshtml</strong>:
+The login page template. Used on the User Login Page.</p>
+</li>
+<li>
+<p><strong>Register.cshtml</strong>:
+The register page template. Used on the User Registration Page.</p>
+</li>
+<li>
+<p><strong>Taxonomy.cshtml</strong>:
+The taxonomy template. Used when a taxonomy is queried.</p>
+</li>
+<li>
+<p><strong>SocialProfile.cshtml</strong>:
+The Social Profile template page. Used when a social profile is queried.</p>
+</li>
+<li>
+<p><strong>Date.cshtml</strong>:
+The date/time template. Used when a date or time is queried. Year, month, day, hour, minute, second.</p>
+</li>
+<li>
+<p><strong>Archive.cshtml</strong>:
+The archive template. Used when a category, author, or date is queried. Note that this template will be overridden by Category.cshtml, SocialProfile.cshtml, and Date.cshtml for their respective query types.</p>
+</li>
+<li>
+<p><strong>Search.cshtml</strong>:
+The search results template. Used when a search is performed.</p>
+</li>
+<li>
+<p><strong>Attachment.cshtml</strong>:
+Attachment template. Used when viewing a single attachment.</p>
+</li>
+<li>
+<p><strong>Image.cshtml</strong>:
+Image attachment template. Used when viewing a single image attachment. If not present, attachment.php will be used.</p>
+</li>
+<li>
+<p><strong>E404.cshtml</strong>:
+The 404 Not Found template. Used when the ABS cannot find a post or page that matches the query.</p>
+</li>
+<li>
+<p><strong>E401.cshtml</strong>:
+The 404 Not Authorized template. Used when the ABS cannot allow a user to query some endpoint.</p>
+</li>
+<li>
+<p><strong>E500.cshtml</strong>:
+The 500 Error template. Used when the ABS cannot perform some action due to some internal error.</p>
+</li>
+</ul>
+<h2 id="core-components"><a class="header" href="#core-components">Core Components</a></h2>
+<ul>
+<li>
+<p><strong>Head.cshtml</strong>:
+The head component.</p>
+</li>
+<li>
+<p><strong>Footer.cshtml</strong>:
+The footer component.</p>
+</li>
+<li>
+<p><strong>Header.cshtml</strong>:
+The header component.</p>
+</li>
+<li>
+<p><strong>StoreFooter.cshtml</strong>:
+The store footer component.</p>
+</li>
+<li>
+<p><strong>StoreHeader.cshtml</strong>:
+The store  header component.</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../Web-Development/Web-Pages/Blazor-Pages/Event-Handling.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../Web-Development/Web-Templates.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../Web-Development/Web-Pages/Blazor-Pages/Event-Handling.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../Web-Development/Web-Templates.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
