@@ -4,3 +4,4 @@ language = "en"
 multilingual = false
 src = "."
 title = "Alliance Business Suite Documentation"
+output.html.fold.enable  = true
