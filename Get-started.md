@@ -6,9 +6,9 @@ To help businesses across the world to harness this promise, we've created a dig
 
 The Alliance Business Suite lets you build outstanding and secure web and mobile apps. This is what you need to get started:
 
-1. Buy a license (or get a community license for free), or sign up for a free 30-day trial license. 
-1. Install the Alliance Business Suite.
-1. Start building.
+1. Buy a license (or sign up for a free 30-day trial license), or get a community license for free. 
+1. [Install the Alliance Business Suite](/Fundamentals/Installation.md).
+1. Start building your business.
 
 ## Alliance Business Suite components
 
@@ -18,25 +18,4 @@ The Alliance Business Suite lets you build outstanding and secure web and mobile
 - ### [Alliance Business Studio (ABS)](/Products/Alliance-Business-Studio.html)
 - ### [Alliance Business Cloud (ABC)](/Products/Alliance-Business-Cloud.html)
 - ### [Infinity Comex Engine (ICX)](/Products/Infinity-Comex-Engine.html)
-
-## About licensing
-
-Our Community Edition was released to help you make your life easier while increasing your odds for success through the right tools and support required for your path for digitalization.
-
-The Community Edition License is not a demo license. You’ll get access to the entire ABS. Either if you are an individual or an organization.
-
-In a nutshell, You’ll only pay for core licensing fees if you use the ABS on behalf of an Enterprise, who’s an organization and its affiliates who collectively have either (a) more than 250 PCs or users or (b) more than one million U.S. dollars (or the equivalent in other currencies) in annual revenues.
-
-
-### **Just add code**:
-Ready to code online development platform with a code editor and advanced site preview with support for dynamic sites.
-
-## Who’s the Alliance Business Suite for?
-- ## Business owners
-- ## Developers
-- ## Content Managers
-- ## Digital Agencies
-- ## Financial Businesses
-- ## Education Institutions
-
 

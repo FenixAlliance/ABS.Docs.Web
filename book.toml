@@ -1,10 +1,16 @@
 [book]
 authors = ["Daniel Lozano"]
-language = "en"
 multilingual = false
+language = "en"
+
 src = "."
 title = "Alliance Business Suite Documentation"
 description = "The Ultimate Business Development Platform"
+
+[build]
+build-dir = "/book"
+create-missing = false
+
 [output.html.search]
 enable = true
 

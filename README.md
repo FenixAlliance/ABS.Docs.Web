@@ -2,8 +2,8 @@
 ![Alliance Business Suite](https://absuite.net/wp-content/uploads/sites/13/2020/03/Logo.Blue_.NoBG_.h40.png "Alliance Business Suite")
 
 <p>
-  <a href="https://docs.absuite.net/reference/1.1.7/" target="_blank">
-     <img alt="Version" src="https://img.shields.io/badge/Version-1.1.7-blue.svg?cacheSeconds=2592000" />
+  <a href="https://docs.absuite.net/reference/1.2.0/" target="_blank">
+     <img alt="Version" src="https://img.shields.io/badge/Version-1.2.0-blue.svg?cacheSeconds=2592000" />
   </a>
   <a href="https://docs.absuite.net" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/Documentation-yes-brightgreen.svg" />
@@ -22,9 +22,10 @@ The Alliance Business Suite is a set of intelligent, extensible, multi-tenant ap
 
 The Alliance Business Suite gives users a Modular, Full-Stack, Low-Code Application Framework built on top of the [Alliance Business Platform](https://absuite.net). 
 
-Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through ASP.NET Core, an open-source and cross-platform web UI framework for building web apps using .NET and C# with or without the use of JavaScript.
+Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through .NET, an open-source and cross-platform framework for building web-mobile apps using C#, with or without the use of JavaScript.
 
-ABS Apps are composed of reusable web UI components implemented using C#, HTML, and CSS. 
+The power of the Alliance Business Suite can be leveraged from small personal blogs,  eCommerce platforms, and professional portfolios to the infrastructure of large corporations.
+
 
 ## About the Alliance Creed
 
@@ -42,9 +43,10 @@ So far, we've created a few extensions and connectors for the Alliance Business 
 
 Connectors are always free and you can find them on your ABS Extensions page, and some of our extensions have free tiers. You will get the Alliance Business Suite Community Edition, for free, with the following Modules:
 
-- ABS ContactSight. (CRM)
-- ABS Content Portals (CMS)
+- ABS Contact Sight. (CRM)
+- ABS Media Portals. (CMS)
 - ABS Accounting. (AMS)
+- ABS Learning. (LMS)
 - ABS Social Networks. (Intranet Social Network)
 - ABS IAM (Identity and Access Management)
 - Infinity Comex (eCommerce Engine)
@@ -158,113 +160,6 @@ namespace FenixAlliance.ABS
 
 
 
-# Roadmap
-This project is a work in progress and the schedule for implementing enhancements is dependent upon the availability of community members who are willing/able to assist. For a more comprehensive look at our roadmap, please visit our **[Progess Board](https://dev.azure.com/fenixalliance/ABS.Docs/_workitems/recentlyupdated)**.
-
-V.1.4 ( release in 2022 S1 )
-- [ ] UBL 2.1 Support
-- [ ] Process Canvas.
-- [ ] PowerShell SDK 
-
-V.1.3 ( release in 2021 S2 )
-- [ ] gRPC Modularization
-- [ ] Reporting Dashboard
-- [ ] Dynamic Dashboards
-- [ ] Granular Property Set Access
-- [ ] gRPC Modularization
-- [ ] ACS Modularization
-- [ ] Custom Macro Definitions
-- [ ] Virtual Entity Data Sources
-
-V.1.2 ( release: July 12, 2021 )
-- [ ] Studio Static Localization
-- [ ] Template Definitions
-    - [ ] Agreement Template Definitions
-    - [ ] Email Template Definitions
-    - [ ] Email Signature Template Definitions
-    - [ ] Document Template Definitions
-    - [ ] Article Template Definitions
-- ✅ Custom Options Manager
-- ✅ Custom Portal Option Definitions
-- ✅ Virtual SPA Support (Angular/React)
-- ✅ Razor Templating Engine
-- ✅ Live Web Designer Integration
-- ✅ Dynamic Entity Views
-- ✅ Content Live Builder
-- ✅ Custom Controller Definitions
-- ✅ Portal Settings Manager UI
-- ✅ Custom Option Definitions
-- ✅ Custom Service Endpoint Definitions
-- ✅ Custom Web Portal Resources
-- ✅ Alliance Passport Services (Auth Engine)
-    - ✅ TOTP MFA Enabled
-    - ✅ Local Account Support
-    - ✅ Microsoft Identity Integration
-    - ✅ Twitter Identity Integration
-    - ✅ Facebook Identity Integration
-    - ✅ Google Identity Integration
-    - ✅ Azure AD Identity Integration
-    - ✅ Azure AD B2C Identity Integration
-    - ✅ Okta Identity Integration (Preview)
-    - ✅ AWS Cognito Identity Integration 
-    - ✅ Default Identity Management
-- ✅ Module Manager Dashboard
-    - ✅ Trusted Publisher Rules
-    - ✅ Module Assembly Manager
-    - ✅ Managed Module Support
-    - ✅ Unmanaged Module Support
-
-V.1.0.0 ( released in Dec 31, 2020 )
-- ✅ Authentication / User Management / Profile Management
-- ✅ Authorization / Roles Management / Granular Permissions
-- ✅ Blazor Support
-- ✅ Cross-Platform Database Support ( MySQL, MSSQL )
-- ✅ Dynamic CSS/Lazy Loading
-- ✅ Dynamic Page Compositing Model / Site & Page Management
-- ✅ Dynamic Routing
-- ✅ Dynamic Swagger Specs
-- ✅ EF Core Migrations for Database Installation / Upgrade
-- ✅ Enabled for Infinity Comex (eCommerce Extension)
-- ✅ Event Logging / Audit Trail
-- ✅ Extensibility via Custom Modules
-- ✅ Extensibility via Custom Themes
-- ✅ Folder / File Management (Azure Storage, File System)
-- ✅ GraphQl API with Voyager, GraphiQl y GraphQl Playground
-- ✅ Headless API with Swagger Support
-- ✅ HealthCheck Rules with UI Support
-- ✅ i18n Enabled (Based on GeoAPI and Custom Settings)
-- ✅ Improved JavaScript reference support
-- ✅ In-App CLI (Studio Commander)
-- ✅ Infinity Comex Support (ABS' eCommerce Engine)
-- ✅ JavaScript Lazy Loading
-- ✅ Modular Architecture
-- ✅ Multi-Currency Support
-- ✅ Multi-Portal ( Monolith & Microservice Distributed )
-- ✅ Multi-Tenant ( Shared Database & Isolated Database )
-- ✅ Notifications / Email Delivery
-- ✅ Notifications / SMTP Delivery
-- ✅ Progressive Web Application Support
-- ✅ Recycle Bin
-- ✅ REST API with Swagger Support
-- ✅ Scheduled Flows ( Background Processing )
-- ✅ Scheduled Jobs ( Background Processing )
-- ✅ Seamless Upgrade Experience
-- ✅ Slack integration (OAuth)
-- ✅ Support For Additional Authentication Providers (OAuth)
-
-Constant Considerations
-
-- ✅ Code Annotations
-- ✅ A11y Improvements
-- ✅ i18n Improvements
-- ✅ UI/UX Improvements 
-- ✅ Security Improvements
-- ✅ SOLID Code Improvements
-- ✅ Performance Improvements 
-- ✅ Extensibility Improvements 
-- ✅ Generic Integrations Improvements
-- ✅ Developer productivity enhancements
-- ✅ Bug fixes & core Dependency Management
 
 
 # Release Announcements
