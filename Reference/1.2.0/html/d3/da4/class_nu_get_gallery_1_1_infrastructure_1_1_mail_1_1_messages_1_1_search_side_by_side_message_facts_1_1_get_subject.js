@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject =
-[
-    [ "IsBasedOnConfiguration", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject.html#acbdff0e9739c4da134047eaf4ce4603e", null ]
-];

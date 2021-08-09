@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,111,177,138"/>
-<area shape="rect" id="node2" href="$d5/d13/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_action_count_routing_convention.html" title="Maps /$count on an Action to an action method called ActionCount()." alt="" coords="249,5,471,47"/>
-<area shape="rect" id="node3" href="$dd/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_controller_aliasing_o_data_routing_convention.html" title="Decorates any other IODataRoutingConvention to use a controller name that is different from the defau..." alt="" coords="225,71,495,112"/>
-<area shape="rect" id="node4" href="$da/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_property_routing_convention.html" title="Routes an OData request with a given entityset, key and property to a method with the structure GetPr..." alt="" coords="243,136,477,177"/>
-<area shape="rect" id="node5" href="$de/db0/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_method_name_action_routing_convention.html" title="Routes an OData request with a given action to a method with the same name as the action." alt="" coords="237,201,483,243"/>
-</map>

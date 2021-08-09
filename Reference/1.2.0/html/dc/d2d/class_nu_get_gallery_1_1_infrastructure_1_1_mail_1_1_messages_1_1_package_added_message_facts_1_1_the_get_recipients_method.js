@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method =
-[
-    [ "AddsPackageOwnersSubscribedToPackagePushedNotificationToToList", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html#ab66d6d389959d9797d7da571d6a6569a", null ],
-    [ "DoesNotAddPackageOwnersNotSubscribedToPackagePushedNotificationToToList", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html#a8ee311c7f6f54055fb1d39b0be39659f", null ],
-    [ "HasEmptyBccList", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html#a8b470dbc36d6b93c85f2ae0adbec5e68", null ],
-    [ "HasEmptyCCList", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html#a42f8a21c5a307f592b6b6388247c65fb", null ],
-    [ "HasEmptyReplyToList", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html#a2da99078d1fd92fb02593d11ca4740ab", null ]
-];

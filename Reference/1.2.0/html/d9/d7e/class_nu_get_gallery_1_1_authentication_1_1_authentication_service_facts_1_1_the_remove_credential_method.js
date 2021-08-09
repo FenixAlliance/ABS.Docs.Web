@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method =
-[
-    [ "RemovesTheCredentialFromTheDataStore", "d9/d7e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method.html#a6f772e7421715925d8b119c0cbbdd785", null ],
-    [ "WritesAuditRecordForTheRemovedCredential", "d9/d7e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method.html#aa951ec6162ea586882a5251167d9adef", null ]
-];

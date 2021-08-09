@@ -1,9 +1,0 @@
-<map id="NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.FactsBase" name="NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.FactsBase">
-<area shape="rect" id="node1" title=" " alt="" coords="735,63,949,119"/>
-<area shape="rect" id="node2" href="$d0/d73/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service.html" title=" " alt="" coords="367,5,581,47"/>
-<area shape="rect" id="node3" href="$d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package.html" title=" " alt="" coords="391,136,557,177"/>
-<area shape="rect" id="node4" href="$de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html" title="The common entity type to be shared by Package and SymbolPackage This allows us the generic type inst..." alt="" coords="161,86,271,113"/>
-<area shape="rect" id="node7" href="$d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html" title=" " alt="" coords="391,71,557,112"/>
-<area shape="rect" id="node5" href="$d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="5,86,65,113"/>
-<area shape="rect" id="node6" title=" " alt="" coords="115,145,317,171"/>
-</map>

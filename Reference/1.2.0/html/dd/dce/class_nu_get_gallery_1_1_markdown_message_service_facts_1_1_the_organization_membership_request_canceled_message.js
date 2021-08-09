@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message =
-[
-    [ "WillNotSendEmailIfEmailNotAllowed", "dd/dce/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message.html#abd4e47a31a1141d06b73cbbc0ebee72e", null ],
-    [ "WillSendEmailIfEmailAllowed", "dd/dce/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message.html#a00dfc6161f5155a70131d0b3e68f17eb", null ]
-];

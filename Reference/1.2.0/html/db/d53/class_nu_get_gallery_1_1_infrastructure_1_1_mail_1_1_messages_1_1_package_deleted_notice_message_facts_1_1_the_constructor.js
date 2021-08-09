@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_constructor =
-[
-    [ "GivenANullArgument_ItShouldThrow", "db/d53/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_constructor.html#acc6c9c69fff80092f7f532ad9b8cd8cc", null ]
-];

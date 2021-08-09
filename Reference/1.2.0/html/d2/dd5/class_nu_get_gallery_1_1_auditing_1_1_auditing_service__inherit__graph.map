@@ -1,6 +1,0 @@
-<map id="NuGetGallery.Auditing.AuditingService" name="NuGetGallery.Auditing.AuditingService">
-<area shape="rect" id="node1" title="Base class for auditing services." alt="" coords="171,39,373,80"/>
-<area shape="rect" id="node3" href="$df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service.html" title="Writes audit records to a specific container in the Cloud Storage Account provided" alt="" coords="421,5,609,47"/>
-<area shape="rect" id="node4" href="$d5/da9/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service.html" title="Writes audit records to a specific directory in the file system" alt="" coords="427,71,603,112"/>
-<area shape="rect" id="node2" href="$d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html" title="Base interface for an auditing service." alt="" coords="5,46,123,73"/>
-</map>

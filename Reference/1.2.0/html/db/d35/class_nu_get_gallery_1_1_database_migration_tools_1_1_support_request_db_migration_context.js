@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context =
-[
-    [ "SupportRequestDbMigrationContext", "db/d35/class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context.html#ad9e2b26adbbbd10b300f65b56656b1b6", null ]
-];

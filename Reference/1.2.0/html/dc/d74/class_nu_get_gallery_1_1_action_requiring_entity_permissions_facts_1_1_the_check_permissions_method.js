@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method =
-[
-    [ "ReturnsAccountPermissionsFailureWhenAccountCheckFails", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method.html#a82526f27da3fcc9d86e382c2346b5b1b", null ],
-    [ "ReturnsPermissionsFailureThrownBySubclass", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method.html#a04de0209592db215b161cb00da3828ee", null ]
-];

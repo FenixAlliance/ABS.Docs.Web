@@ -1,9 +1,0 @@
-var class_nu_get_gallery_1_1_package_delete_service_facts =
-[
-    [ "TestPackageDeleteService", "d9/de3/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_test_package_delete_service.html", "d9/de3/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_test_package_delete_service" ],
-    [ "TheCanPackageBeDeletedByUserAsyncMethod", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method" ],
-    [ "TheConstructor", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor.html", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor" ],
-    [ "TheHardDeletePackagesAsyncMethod", "d9/d33/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_hard_delete_packages_async_method.html", "d9/d33/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_hard_delete_packages_async_method" ],
-    [ "TheReflowHardDeletedPackagesAsyncMethod", "d1/d34/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_reflow_hard_deleted_packages_async_method.html", "d1/d34/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_reflow_hard_deleted_packages_async_method" ],
-    [ "TheSoftDeletePackagesAsyncMethod", "d8/df8/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_soft_delete_packages_async_method.html", "d8/df8/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_soft_delete_packages_async_method" ]
-];

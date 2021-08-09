@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_get_current_api_key_credential_method =
-[
-    [ "ReturnsApiKeyMatchingClaim", "d6/d00/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_get_current_api_key_credential_method.html#a5a1b0ddab46764e09adfb72d27841c9b", null ],
-    [ "ReturnsNullIfNoApiKeyClaim", "d6/d00/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_get_current_api_key_credential_method.html#a875a85065453ccf2f6407a4be28db588", null ],
-    [ "WhenUserIsNull_ThrowsArgumentNullException", "d6/d00/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_get_current_api_key_credential_method.html#a343b343e21c6121632015bd3490c6ce3", null ]
-];

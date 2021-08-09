@@ -1,6 +1,0 @@
-<map id="NuGetGallery.ICorePackageService" name="NuGetGallery.ICorePackageService">
-<area shape="rect" id="node1" title="Package business logic that is needed in multiple components (not just the Gallery process)." alt="" coords="111,5,298,47"/>
-<area shape="rect" id="node2" href="$db/ddf/class_nu_get_gallery_1_1_core_package_service.html" title=" " alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node4" href="$d8/d29/interface_nu_get_gallery_1_1_i_package_service.html" title="Business logic related to Package and PackageRegistration instances. This logic is only used by the N..." alt="" coords="213,102,415,129"/>
-<area shape="rect" id="node3" href="$de/d5c/class_nu_get_gallery_1_1_package_service.html" title=" " alt="" coords="105,184,304,211"/>
-</map>

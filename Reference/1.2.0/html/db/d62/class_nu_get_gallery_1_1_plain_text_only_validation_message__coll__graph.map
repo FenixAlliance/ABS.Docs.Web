@@ -1,4 +1,0 @@
-<map id="NuGetGallery.PlainTextOnlyValidationMessage" name="NuGetGallery.PlainTextOnlyValidationMessage">
-<area shape="rect" id="node1" title="Cautious default implementation of IValidationMessage that does not allow user to specify raw html re..." alt="" coords="5,80,192,121"/>
-<area shape="rect" id="node2" href="$df/d38/interface_nu_get_gallery_1_1_i_validation_message.html" title="Represents a validation message that may include a raw HTML message (if we want to present some links..." alt="" coords="31,5,167,32"/>
-</map>

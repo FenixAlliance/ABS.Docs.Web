@@ -1,4 +1,0 @@
-<map id="NuGetGallery.InvalidUrlEncodingForLicenseUrlValidationMessage" name="NuGetGallery.InvalidUrlEncodingForLicenseUrlValidationMessage">
-<area shape="rect" id="node1" title="The error message to be used when we detect an invalid URL encoding used for a license URL...." alt="" coords="5,80,217,121"/>
-<area shape="rect" id="node2" href="$df/d38/interface_nu_get_gallery_1_1_i_validation_message.html" title="Represents a validation message that may include a raw HTML message (if we want to present some links..." alt="" coords="43,5,179,32"/>
-</map>

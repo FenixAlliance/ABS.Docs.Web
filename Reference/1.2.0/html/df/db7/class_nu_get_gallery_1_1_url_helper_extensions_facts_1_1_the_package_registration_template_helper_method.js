@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method =
-[
-    [ "ResolvePathIsCorrect", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method.html#a8b943079b8bf63d6f4453f8ef07396f8", null ]
-];

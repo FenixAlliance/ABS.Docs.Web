@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_symbol_package_upload_service_facts =
-[
-    [ "TheCreateAndUploadSymbolsPackageMethod", "dd/dcf/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_create_and_upload_symbols_package_method.html", "dd/dcf/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_create_and_upload_symbols_package_method" ],
-    [ "TheDeleteSymbolsPackageAsyncMethod", "d6/d41/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_delete_symbols_package_async_method.html", "d6/d41/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_delete_symbols_package_async_method" ],
-    [ "TheValidateUploadedSymbolsPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package" ]
-];

@@ -1,3 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d9/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holidays_1_1_holiday.html" title=" " alt="" coords="5,5,241,61"/>
+<area shape="rect" id="node1" href="$d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html" title=" " alt="" coords="5,165,216,221"/>
+<area shape="rect" id="node2" href="$d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_intervals_1_1_leave_blocked_interval.html" title=" " alt="" coords="264,5,531,61"/>
+<area shape="rect" id="node3" href="$df/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_interval_requests_1_1_leave_interval_request.html" title=" " alt="" coords="293,85,502,141"/>
+<area shape="rect" id="node4" href="$da/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll_periods_1_1_payroll_period.html" title=" " alt="" coords="289,165,506,221"/>
+<area shape="rect" id="node5" href="$de/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_shifts_1_1_shift.html" title=" " alt="" coords="306,246,489,287"/>
+<area shape="rect" id="node6" href="$d4/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events_1_1_training_program_event.html" title=" " alt="" coords="284,312,511,368"/>
 </map>

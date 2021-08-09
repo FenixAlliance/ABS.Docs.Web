@@ -1,9 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483 =
-[
-    [ "AzureActiveDirectoryAuthenticatorConfiguration", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#a08529bd7c8a32bfed292335339cd224d", null ],
-    [ "ApplyToOwinSecurityOptions", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#a206f0f45c13eefcd7e202db8e1e94e93", null ],
-    [ "Authority", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#aedc439827d5adf7adf1b131fc2f8e62a", null ],
-    [ "ClientId", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#a6dcb972741115396c9a528b42b4ce391", null ],
-    [ "Issuer", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#a621460840e827ae43e377e4f7f71dcb9", null ],
-    [ "ShowOnLoginPage", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html#a829cdafe92c510a0b1ee3a47a7ad6fb4", null ]
-];

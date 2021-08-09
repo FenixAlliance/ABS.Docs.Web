@@ -1,3 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d0/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_classes_1_1_tax_class.html" title="Represents a Tax (or a Tax Withholding ) Type (eg. IVA)" alt="" coords="5,5,264,47"/>
+<area shape="rect" id="node1" href="$d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html" title=" " alt="" coords="5,54,244,95"/>
+<area shape="rect" id="node2" href="$dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_transaction.html" title=" " alt="" coords="303,21,543,62"/>
+<area shape="rect" id="node3" href="$d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html" title=" " alt="" coords="292,86,555,127"/>
+<area shape="rect" id="node4" href="$d2/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_actuals_1_1_project_actual_record.html" title=" " alt="" coords="617,5,817,61"/>
+<area shape="rect" id="node5" href="$d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_approvals_1_1_project_approval.html" title=" " alt="" coords="603,86,831,127"/>
+<area shape="rect" id="node6" href="$d9/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_journals_1_1_project_journal_record.html" title=" " alt="" coords="611,152,822,208"/>
 </map>

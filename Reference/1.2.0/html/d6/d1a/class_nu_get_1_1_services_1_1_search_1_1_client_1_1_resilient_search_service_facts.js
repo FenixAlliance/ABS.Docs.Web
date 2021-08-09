@@ -1,4 +1,0 @@
-var class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts =
-[
-    [ "TheGetAsyncMethod", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method" ]
-];

@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method =
-[
-    [ "TheGetApiKeyCredentialMethod", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method.html#ab1b166d34e9666704f28f46868c11169", null ],
-    [ "GivenInvalidApiKey_ItReturnsNull", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method.html#ac0a378b9614681c75af6b62a372fcb07", null ],
-    [ "GivenValidApiKey_ItReturnsCredential", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method.html#a0ac71430cf800d96f555026ef7f21e26", null ]
-];

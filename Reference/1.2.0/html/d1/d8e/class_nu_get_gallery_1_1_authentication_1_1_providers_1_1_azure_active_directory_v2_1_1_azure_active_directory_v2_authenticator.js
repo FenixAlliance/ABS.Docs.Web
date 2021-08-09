@@ -1,9 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator =
-[
-    [ "AttachToOwinApp", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#aa725c42a42efa9c9232fd6c59925ebb1", null ],
-    [ "Challenge", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#a5c4afb89b818b488d2a47c29b7fcdd60", null ],
-    [ "GetIdentityInformation", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#afdef37b8c677f4bb2a87ac0b7ac0e2f5", null ],
-    [ "GetUI", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#a2d693cfc3213a3f1e7524fd75afe1dda", null ],
-    [ "IsProviderForIdentity", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#aa3ce02df4d309b6b7581d484b3ac2f23", null ],
-    [ "SupportsMultiFactorAuthentication", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html#a10bc5f92ed92a03a01f304ed546e56c5", null ]
-];

@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatda61370eee356d2f00572428f5ec32aa =
-[
-    [ "ReturnsExpectedBody", "d5/d92/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatda61370eee356d2f00572428f5ec32aa.html#a2e5b0bda8e6fa5a2d50933431b18e9a0", null ]
-];

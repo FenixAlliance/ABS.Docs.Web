@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method =
-[
-    [ "AddsMultiFactorAuthenticationSettingAppropriately", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html#afbcdda0d4723e4fd3bbd16c0713a3331", null ],
-    [ "GivenAUser_ItAddsUserLoginClaims", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html#a91b46b579954b8305a9c1e84716ed445", null ],
-    [ "GivenAUser_ItCreatesAnOwinAuthenticationTicketForTheUser", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html#a3af3281f211bc6c9025f23b132ad0df8", null ],
-    [ "WritesAnAuditRecord", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html#a0ea933d9170b687898879188dad84207", null ]
-];

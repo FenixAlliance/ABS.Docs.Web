@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message =
-[
-    [ "DoesNotSendRequestIfUserDoesNotAllowEmails", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message.html#a4144650a3a3d19084a804c44aa235a8b", null ],
-    [ "SendsPackageOwnerRequestConfirmationUrl", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message.html#a3b1b25098f56d7f9f387373028f425ed", null ],
-    [ "SendsPackageOwnerRequestConfirmationUrlWithoutUserMessage", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message.html#aaea31e1d9c29c9eaef88d61967bc4766", null ]
-];

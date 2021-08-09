@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315 =
-[
-    [ "AddsOrganizationMailAddressToToListWhenOrganizationEmailAllowed", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html#aecd8e5bfecd751ffdfceebd3201e1bff", null ],
-    [ "AddsRemovedUserToReplyToList", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html#a78d4d9e0cacb61600aeb05e02300cc24", null ],
-    [ "HasEmptyBccList", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html#a6fe20daf406364f91e35634170218dd8", null ],
-    [ "HasEmptyCCList", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html#a14405360c7b06b0b09c5396d5bc888a8", null ],
-    [ "ReturnsRecipientsNoneWhenOrganizationEmailNotAllowed", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html#a96121cbd7a163c1598ddd91459cd4b6f", null ]
-];

@@ -1,5 +1,0 @@
-<map id="NuGetGallery.AccountDeleter.NuGetDeleteEvaluator" name="NuGetGallery.AccountDeleter.NuGetDeleteEvaluator">
-<area shape="rect" id="node1" title="Simple single (non aggregate) evaluator for easy use Criteria is user must own zero (0) packages and ..." alt="" coords="5,155,203,196"/>
-<area shape="rect" id="node2" href="$d9/db5/class_nu_get_gallery_1_1_account_deleter_1_1_base_user_evaluator.html" title=" " alt="" coords="37,80,171,107"/>
-<area shape="rect" id="node3" href="$d0/d8c/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator.html" title="Interface for user evaluators that determine if a user can be deleted or not" alt="" coords="50,5,158,32"/>
-</map>

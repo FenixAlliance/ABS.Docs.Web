@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts =
-[
-    [ "TheAddPackageOwnershipRequestMethod", "dc/de6/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_add_package_ownership_request_method.html", "dc/de6/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_add_package_ownership_request_method" ],
-    [ "TheIsValidPackageOwnerRequestMethod", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method" ]
-];

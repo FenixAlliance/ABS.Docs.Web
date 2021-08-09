@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method =
-[
-    [ "CommitChangesIsNotExecuted", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html#aa64d5b90173cec78e5a83c144e4f3d22", null ],
-    [ "NonExistentNamespaceThrowsException", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html#ab10c0d222b2005b51311921e7ffaf267", null ],
-    [ "NullNamespaceThrowsException", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html#a77f364fb0f5837910f655a7ec0f0f28a", null ],
-    [ "NullPackageRegistrationThrowsException", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html#ac893035235f8c87dc05d92f70cca34f9", null ],
-    [ "PackageRegistrationIsAddedSuccessfully", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html#a470716dcefc881abab9c34fcde356f01", null ]
-];

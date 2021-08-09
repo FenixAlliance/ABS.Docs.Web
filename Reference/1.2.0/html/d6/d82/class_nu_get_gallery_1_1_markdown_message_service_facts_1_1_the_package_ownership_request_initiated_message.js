@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message =
-[
-    [ "DoesNotSendNoticeIfUserDoesNotAllowEmails", "d6/d82/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message.html#aa113b606097d1805baef59d8bfb1a09c", null ],
-    [ "SendsNotice", "d6/d82/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message.html#ad1b28a673e0248f1f4cede2aeabe49fb", null ]
-];

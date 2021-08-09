@@ -1,5 +1,0 @@
-var namespace_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation =
-[
-    [ "CorrelatingHttpClientHandler", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler.html", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler" ],
-    [ "WebApiCorrelationHandler", "d2/dca/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_web_api_correlation_handler.html", "d2/dca/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_web_api_correlation_handler" ]
-];

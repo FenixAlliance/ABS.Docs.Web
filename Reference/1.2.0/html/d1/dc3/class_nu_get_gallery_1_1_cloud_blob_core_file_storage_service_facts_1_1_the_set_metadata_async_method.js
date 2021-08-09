@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method =
-[
-    [ "TheSetMetadataAsyncMethod", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html#a628ab8b872625ec412d83711361160ab", null ],
-    [ "WhenLazyStreamRead_ReturnsContent", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html#a8d65a71a747c3e203672d452bffa2e4b", null ],
-    [ "WhenReturnValueIsFalse_MetadataChangesAreNotPersisted", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html#a766d27463891dc4c8095a7a5d66d33d1", null ],
-    [ "WhenReturnValueIsTrue_MetadataChangesAreNotPersisted", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html#aa39a500a64b6f9cde3fb21ef9bb3beb2", null ]
-];

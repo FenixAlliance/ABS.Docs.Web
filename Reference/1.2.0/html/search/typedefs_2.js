@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deliverynote_38572',['DeliveryNote',['../d2/da6/_delivery_note_mapper_8cs.html#abf82733b8577b1637a1bfd9237d93be7',1,'DeliveryNoteMapper.cs']]]
+  ['iviewbufferscope_20310',['IViewBufferScope',['../d7/db5/_dynamic_component_base_8cs.html#a4fac347ed03e183fd1d9e82bcfb924dd',1,'DynamicComponentBase.cs']]]
 ];

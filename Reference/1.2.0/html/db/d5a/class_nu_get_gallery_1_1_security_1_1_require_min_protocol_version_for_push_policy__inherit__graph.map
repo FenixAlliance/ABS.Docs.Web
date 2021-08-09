@@ -1,5 +1,0 @@
-<map id="NuGetGallery.Security.RequireMinProtocolVersionForPushPolicy" name="NuGetGallery.Security.RequireMinProtocolVersionForPushPolicy">
-<area shape="rect" id="node1" title="User security policy that requires a minimum protocol version in order to push packages." alt="" coords="5,184,225,225"/>
-<area shape="rect" id="node2" href="$d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html" title="Policy handler that defines behavior for specific user policy types." alt="" coords="27,109,204,136"/>
-<area shape="rect" id="node3" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="12,5,219,61"/>
-</map>

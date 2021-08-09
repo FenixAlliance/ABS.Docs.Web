@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_missing_version =
-[
-    [ "InvokeDeleteSymbols", "d8/dbc/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_missing_version.html#a3d403c9ccf924f3717d29bf1d9a50cbb", null ]
-];

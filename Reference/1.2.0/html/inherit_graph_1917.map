@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d7/dd5/interface_nu_get_gallery_1_1_i_core_package_service.html" title="Package business logic that is needed in multiple components (not just the Gallery process)." alt="" coords="5,35,192,76"/>
-<area shape="rect" id="node2" href="$db/ddf/class_nu_get_gallery_1_1_core_package_service.html" title=" " alt="" coords="250,5,433,47"/>
-<area shape="rect" id="node4" href="$d8/d29/interface_nu_get_gallery_1_1_i_package_service.html" title="Business logic related to Package and PackageRegistration instances. This logic is only used by the N..." alt="" coords="240,71,443,98"/>
-<area shape="rect" id="node3" href="$de/d5c/class_nu_get_gallery_1_1_package_service.html" title=" " alt="" coords="491,42,689,69"/>
-</map>

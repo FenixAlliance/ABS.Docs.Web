@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_redirect_action =
-[
-    [ "RedirectsAndDoesNotPerformWriteOperation", "db/dd9/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_redirect_action.html#aca7231e3a12a46b571f2c6df99cbbb99", null ]
-];

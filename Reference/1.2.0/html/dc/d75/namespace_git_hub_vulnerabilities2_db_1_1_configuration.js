@@ -1,4 +1,0 @@
-var namespace_git_hub_vulnerabilities2_db_1_1_configuration =
-[
-    [ "GitHubVulnerabilities2DbConfiguration", "d0/d28/class_git_hub_vulnerabilities2_db_1_1_configuration_1_1_git_hub_vulnerabilities2_db_configuration.html", "d0/d28/class_git_hub_vulnerabilities2_db_1_1_configuration_1_1_git_hub_vulnerabilities2_db_configuration" ]
-];

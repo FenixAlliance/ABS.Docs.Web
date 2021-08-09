@@ -1,6 +1,0 @@
-<map id="NuGetGallery.IconUrlTemplateProcessor" name="NuGetGallery.IconUrlTemplateProcessor">
-<area shape="rect" id="node1" title=" " alt="" coords="125,184,323,225"/>
-<area shape="rect" id="node2" href="$d6/d4b/class_nu_get_gallery_1_1_string_replace_template_processor.html" title=" " alt="" coords="5,95,221,136"/>
-<area shape="rect" id="node3" href="$d3/d2e/interface_nu_get_gallery_1_1_i_icon_url_template_processor.html" title="Produces embedded icon storage URLs from the Package objects." alt="" coords="246,102,426,129"/>
-<area shape="rect" id="node4" href="$d9/dc8/interface_nu_get_gallery_1_1_i_string_template_processor.html" title=" " alt="" coords="249,5,423,47"/>
-</map>

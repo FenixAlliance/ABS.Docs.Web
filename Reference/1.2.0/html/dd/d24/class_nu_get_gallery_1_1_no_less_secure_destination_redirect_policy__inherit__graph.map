@@ -1,4 +1,0 @@
-<map id="NuGetGallery.NoLessSecureDestinationRedirectPolicy" name="NuGetGallery.NoLessSecureDestinationRedirectPolicy">
-<area shape="rect" id="node1" title="Redirect policy that only allows same or higher security level for destination URL compared to source..." alt="" coords="5,95,195,136"/>
-<area shape="rect" id="node2" href="$d6/de2/interface_nu_get_gallery_1_1_i_source_destination_redirect_policy.html" title="Represents the policy services might use to allow or not allow redirects from and to certain URLs." alt="" coords="10,5,190,47"/>
-</map>

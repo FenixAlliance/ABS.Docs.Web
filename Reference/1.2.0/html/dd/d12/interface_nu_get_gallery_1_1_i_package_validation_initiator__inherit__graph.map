@@ -1,5 +1,0 @@
-<map id="NuGetGallery.IPackageValidationInitiator&lt; TPackageEntity &gt;" name="NuGetGallery.IPackageValidationInitiator&lt; TPackageEntity &gt;">
-<area shape="rect" id="node1" title="Initiates validation for a specific package." alt="" coords="5,50,221,91"/>
-<area shape="rect" id="node2" href="$d9/df6/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator.html" title="Initiates asynchronous validation on a package by enqueuing a message containing the package identity..." alt="" coords="284,5,471,61"/>
-<area shape="rect" id="node3" href="$dc/dd2/class_nu_get_gallery_1_1_immediate_package_validator.html" title="A validation initiator that immediately marks the package as validated. In other words,..." alt="" coords="269,86,485,127"/>
-</map>

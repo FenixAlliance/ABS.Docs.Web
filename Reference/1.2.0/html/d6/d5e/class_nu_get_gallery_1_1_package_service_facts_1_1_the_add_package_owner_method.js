@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method =
-[
-    [ "AddsUserToPackageOwnerCollection", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method.html#aa057350352524d27ec2390ce1deda033", null ],
-    [ "WhenNewOwnerHasAutomaticallyOverwriteRequiredSignerPolicyAndRequiredSignerIsNotNull_NewOwnerBecomesRequiredSigner", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method.html#a1d423904e4910118077a728bc446dc98", null ],
-    [ "WhenNewOwnerHasAutomaticallyOverwriteRequiredSignerPolicyAndRequiredSignerIsNull_NewOwnerBecomesRequiredSigner", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method.html#a89bb527899d6ac608f31d6856e43b99a", null ]
-];

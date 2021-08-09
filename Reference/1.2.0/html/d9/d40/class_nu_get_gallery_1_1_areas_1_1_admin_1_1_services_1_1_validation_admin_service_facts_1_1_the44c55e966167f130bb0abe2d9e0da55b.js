@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b =
-[
-    [ "ReturnsNotDeletedForNonDeletedPackage", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html#a716d2ef7451edbd83264a8642554bb32", null ],
-    [ "ReturnsSoftDeletedForDeletedPackage", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html#a701d0342317e5e4086325c8579b92615", null ],
-    [ "ReturnsUnknownForMissingPackage", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html#a41fe809598ca597dba0a9e18f1cf6d05", null ]
-];

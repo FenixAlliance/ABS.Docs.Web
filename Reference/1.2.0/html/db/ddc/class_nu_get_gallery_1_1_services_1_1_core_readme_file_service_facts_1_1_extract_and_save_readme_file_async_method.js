@@ -1,9 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method =
-[
-    [ "SavesReadmeFile", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#a5c2b12d472ab76762de3a9556037b972", null ],
-    [ "ThrowsOnMissingReadmeFile", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#a4154f6b8db1b0862eaabfbe2d4cfe4f7", null ],
-    [ "ThrowsWhenNoReadmeFileSpecified", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#ad79f3f7a08677837ae3eeb1ca8d5d9c8", null ],
-    [ "ThrowsWhenPackageIsNull", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#a7d7d5ed1ee103f27bff692dca09935bd", null ],
-    [ "ThrowsWhenPackageStreamIsNull", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#a79de2882461f7df8deec321bb2618b22", null ],
-    [ "WhenEmbeddedReadmeTypeIsAbsent_ThrowsArgumentException", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html#a28d0cdf855ae2e51d1e7591603a25662", null ]
-];

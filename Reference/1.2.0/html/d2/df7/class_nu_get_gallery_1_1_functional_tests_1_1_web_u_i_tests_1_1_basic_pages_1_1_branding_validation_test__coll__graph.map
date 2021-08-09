@@ -1,4 +1,0 @@
-<map id="NuGetGallery.FunctionalTests.WebUITests.BasicPages.BrandingValidationTest" name="NuGetGallery.FunctionalTests.WebUITests.BasicPages.BrandingValidationTest">
-<area shape="rect" id="node1" title="Sends http request to gallery home page checks for the configured branding text in the reponse...." alt="" coords="5,80,312,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="121,5,196,32"/>
-</map>

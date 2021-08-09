@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor =
-[
-    [ "GivenAListOfDependenciesItShouldGroupByTargetFrameworkName", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html#a684165862d34ee6f8521921931514fd6", null ],
-    [ "GivenAListOfDependenciesPackageIdsWillBeOrdered", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html#a0f09039bb5809e63dff1faaf4a7e21d6", null ],
-    [ "GivenAListOfDependenciesTargetFrameworksWillBeOrdered", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html#a08f142ba528efb302e496f559466cdda", null ]
-];

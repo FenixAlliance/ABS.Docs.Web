@@ -1,4 +1,0 @@
-<map id="NuGetGallery.Auditing.AggregateAuditingService" name="NuGetGallery.Auditing.AggregateAuditingService">
-<area shape="rect" id="node1" title="An auditing service that aggregates multiple auditing services." alt="" coords="5,80,220,121"/>
-<area shape="rect" id="node2" href="$d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html" title="Base interface for an auditing service." alt="" coords="54,5,171,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="NuGetGallery.AllowLocalHttpRedirectPolicy" name="NuGetGallery.AllowLocalHttpRedirectPolicy">
-<area shape="rect" id="node1" title="Redirect policy that allows potentially unsafe redirects to localhost URLs (for debugging purposes on..." alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node2" href="$d6/de2/interface_nu_get_gallery_1_1_i_source_destination_redirect_policy.html" title="Represents the policy services might use to allow or not allow redirects from and to certain URLs." alt="" coords="11,5,191,47"/>
-</map>

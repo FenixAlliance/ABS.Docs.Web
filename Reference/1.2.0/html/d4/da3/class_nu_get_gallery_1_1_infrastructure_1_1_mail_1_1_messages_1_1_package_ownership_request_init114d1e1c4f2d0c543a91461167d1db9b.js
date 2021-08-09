@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b =
-[
-    [ "AddsNewOwnerAddressToReplyToList", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html#afd65d67b536a2c6bc8ffb93715bca830", null ],
-    [ "AddsOwnersWithPermissionToToList", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html#af2695383926c6636c25b5f50f3cbc7fe", null ],
-    [ "HasEmptyBccList", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html#a30daa566953a1fe00848fa6bbeeb96fa", null ],
-    [ "HasEmptyCCList", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html#ae103cf623eda60298ff7c67320b2cd94", null ]
-];

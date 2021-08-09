@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301 =
-[
-    [ "FailsIfAttemptingToRemoveLastOwner", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html#a2fa922180065bf049b9f45e6e67cea54", null ],
-    [ "RemovesExistingOwner", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html#a423ee49a38b17cd0625dcb300e1f2bac", null ],
-    [ "RemovesPackageOwnerRequest", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html#adc45eeb03865ec6eac023c50a2c9914e", null ],
-    [ "ReturnsFailureIfCurrentUserNotFound", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html#a3b31f8f09901094d2626295a8f1457d1", null ],
-    [ "ReturnsFailureIfUserIsNotAnOwner", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html#ad70bc64b7e465d457f3cf7d1ebe20640", null ]
-];

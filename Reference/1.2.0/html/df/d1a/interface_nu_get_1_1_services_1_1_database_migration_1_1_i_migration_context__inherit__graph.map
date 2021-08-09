@@ -1,8 +1,0 @@
-<map id="NuGet.Services.DatabaseMigration.IMigrationContext" name="NuGet.Services.DatabaseMigration.IMigrationContext">
-<area shape="rect" id="node1" title="This interface is used to define the context needed for database migration." alt="" coords="144,71,375,112"/>
-<area shape="rect" id="node3" href="$d8/d71/class_nu_get_1_1_services_1_1_database_migration_1_1_base_db_migration_context.html" title=" " alt="" coords="423,71,653,112"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,78,96,105"/>
-<area shape="rect" id="node4" href="$d3/d76/class_nu_get_gallery_1_1_database_migration_tools_1_1_gallery_db_migration_context.html" title=" " alt="" coords="727,5,941,47"/>
-<area shape="rect" id="node5" href="$db/d35/class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context.html" title=" " alt="" coords="701,71,967,112"/>
-<area shape="rect" id="node6" href="$df/dad/class_nu_get_gallery_1_1_database_migration_tools_1_1_validation_db_migration_context.html" title=" " alt="" coords="719,136,949,177"/>
-</map>

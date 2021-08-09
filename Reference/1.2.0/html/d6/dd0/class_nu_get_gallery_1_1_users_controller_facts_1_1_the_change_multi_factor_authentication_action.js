@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_multi_factor_authentication_action =
-[
-    [ "SettingsAreUpdated_RedirectsBackWithMessage", "d6/dd0/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_multi_factor_authentication_action.html#a22f73db837af9f8e35287418157e5caa", null ]
-];

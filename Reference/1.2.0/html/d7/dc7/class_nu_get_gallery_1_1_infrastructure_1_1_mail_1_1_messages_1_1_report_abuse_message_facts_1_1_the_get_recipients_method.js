@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method =
-[
-    [ "AddsFromAddressToReplyToList", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html#a5c4cfc9fd4661c8bc41982b215523f7c", null ],
-    [ "AddsGalleryOwnerToToList", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html#ac174bada9468bf4befeb23cbb7f0b4cd", null ],
-    [ "HasEmptyBccList", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html#a6f362ccb89bcc3c2c56407b5a53e392d", null ],
-    [ "WhenCopySenderFalse_HasEmptyCCList", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html#afa8053c2f49db6e026fd76f31270ee7d", null ],
-    [ "WhenCopySenderTrue_AddsFromAddressToCCList", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html#a5487f137627ebba4a84522b592dc7770", null ]
-];

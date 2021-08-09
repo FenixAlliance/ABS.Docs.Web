@@ -1,4 +1,0 @@
-<map id="NuGetGallery.ISymbolPackageService" name="NuGetGallery.ISymbolPackageService">
-<area shape="rect" id="node1" title="Business logic related to SymbolPackage. This logic is only used by the NuGet Gallery,..." alt="" coords="5,80,208,121"/>
-<area shape="rect" id="node2" href="$df/d7a/interface_nu_get_gallery_1_1_i_core_symbol_package_service.html" title="Symbol Package business logic that is needed in multiple components (not just the Gallery process)." alt="" coords="11,5,203,32"/>
-</map>

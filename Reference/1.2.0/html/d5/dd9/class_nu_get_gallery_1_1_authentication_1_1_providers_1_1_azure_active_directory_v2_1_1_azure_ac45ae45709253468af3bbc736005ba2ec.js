@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec =
-[
-    [ "AzureActiveDirectoryV2AuthenticatorConfiguration", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html#a8e9b3dfb062d4c63c3b09a1208222626", null ],
-    [ "ApplyToOwinSecurityOptions", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html#a095c8404293c680485b954b93ae22c5f", null ],
-    [ "ClientId", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html#a17909f7744a1a388d087d6a93d8e64e7", null ],
-    [ "ClientSecret", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html#a28eeff7bac244db255c764b1388ad58a", null ]
-];

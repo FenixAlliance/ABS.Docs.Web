@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method =
-[
-    [ "GetPackageRenamesGivenPackageRegistration", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method.html#af29997345892a8807a07b2a85dc788da", null ]
-];

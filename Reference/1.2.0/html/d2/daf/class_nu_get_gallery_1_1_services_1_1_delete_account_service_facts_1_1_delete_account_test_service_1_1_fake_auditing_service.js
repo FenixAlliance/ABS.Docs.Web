@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service =
-[
-    [ "SaveAuditRecordAsync", "d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service.html#a05e2db80ba295c0baf67250c3276002d", null ],
-    [ "Records", "d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service.html#a5bea81024ccbdf65bac8979ca1dc9b38", null ]
-];

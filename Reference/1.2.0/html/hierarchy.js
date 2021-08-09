@@ -2,18 +2,11 @@ var hierarchy =
 [
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.AADB2CConstants", "d7/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_constants.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.AADB2COptions", "d7/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_options.html", null ],
-    [ "NuGetGallery.ABTestEnrollment", "d0/dca/class_nu_get_gallery_1_1_a_b_test_enrollment.html", null ],
-    [ "NuGetGallery.ABTestEnrollmentFactoryFacts", "d3/d97/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Academic.Institutions.AcademicInstitution", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution.html", null ],
-    [ "NuGetGallery.Services.AccessConditionWrapperFacts", "d5/dc2/class_nu_get_gallery_1_1_services_1_1_access_condition_wrapper_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Security.AccessKeys.AccessKeyPair", "d1/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_access_keys_1_1_access_key_pair.html", null ],
-    [ "NuGetGallery.Helpers.AccordionHelper", "d5/dfd/class_nu_get_gallery_1_1_helpers_1_1_accordion_helper.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.Accounts.Account", "db/d4c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_accounts_1_1_account.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.Account", "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Accounts.Account", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_accounts_1_1_account.html", null ],
-    [ "NuGetGallery.AccountDeleter.AccountDeleteConfiguration", "d1/dbe/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_configuration.html", null ],
-    [ "NuGetGallery.AccountDeleteMessage", "d3/d45/class_nu_get_gallery_1_1_account_delete_message.html", null ],
-    [ "NuGetGallery.AccountDeleter.Facts.AccountDeleteMessageHandlerFacts", "dd/d02/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_account_delete_message_handler_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountGroups.AccountGroup", "d7/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_groups_1_1_account_group.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountingEntries.AccountingEntry", "d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Budgets.BudgetEntries.BudgetAccountEntry", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_entries_1_1_budget_account_entry.html", null ]
@@ -28,66 +21,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountRelations.AccountRelation", "d3/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_account_relation.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountRelations.Scopes.ProjectAccount", "d0/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes_1_1_project_account.html", null ]
     ] ],
-    [ "NuGetGallery.AccountsController< Organization, OrganizationAccountViewModel >", "d2/d7a/class_nu_get_gallery_1_1_accounts_controller.html", [
-      [ "NuGetGallery.OrganizationsController", "d8/df4/class_nu_get_gallery_1_1_organizations_controller.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountsController< User, UserAccountViewModel >", "d2/d7a/class_nu_get_gallery_1_1_accounts_controller.html", [
-      [ "NuGetGallery.UsersController", "d4/d4c/class_nu_get_gallery_1_1_users_controller.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >", "da/d19/class_nu_get_gallery_1_1_accounts_controller_facts.html", null ],
-    [ "NuGetGallery.AccountsControllerFacts< OrganizationsController, Organization, OrganizationAccountViewModel >", "da/d19/class_nu_get_gallery_1_1_accounts_controller_facts.html", [
-      [ "NuGetGallery.OrganizationsControllerFacts", "d3/df0/class_nu_get_gallery_1_1_organizations_controller_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountsControllerFacts< UsersController, User, UserAccountViewModel >", "da/d19/class_nu_get_gallery_1_1_accounts_controller_facts.html", [
-      [ "NuGetGallery.UsersControllerFacts", "d6/d4a/class_nu_get_gallery_1_1_users_controller_facts.html", null ]
-    ] ],
-    [ "AccountsControllerTestContainer", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheAddCertificateAction", "d4/d6d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_certificate_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheAddMemberAction", "d2/db2/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_member_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheCancelMemberRequestAction", "dd/d9e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_member_request_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheConfirmMemberAction", "df/dc6/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheConfirmMemberRequestRedirectAction", "d9/d41/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_request_redirect_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheDeleteCertificateAction", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheDeleteMemberAction", "dd/d2b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_member_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheGetCertificateAction", "db/d3b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificate_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheGetCertificatesAction", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheRejectMemberAction", "d3/d94/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheRejectMemberRequestRedirectAction", "d3/d08/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_request_redirect_action.html", null ],
-      [ "NuGetGallery.OrganizationsControllerFacts.TheUpdateMemberAction", "db/db4/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_update_member_action.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountTypes.AccountType", "de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_types_1_1_account_type.html", null ],
-    [ "AccountViewModel", null, [
-      [ "NuGetGallery.AccountViewModel< T >", "da/d0d/class_nu_get_gallery_1_1_account_view_model.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountViewModel< Organization >", "da/d0d/class_nu_get_gallery_1_1_account_view_model.html", [
-      [ "NuGetGallery.OrganizationAccountViewModel", "d3/d00/class_nu_get_gallery_1_1_organization_account_view_model.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountViewModel< User >", "da/d0d/class_nu_get_gallery_1_1_account_view_model.html", [
-      [ "NuGetGallery.UserAccountViewModel", "d9/d14/class_nu_get_gallery_1_1_user_account_view_model.html", null ]
-    ] ],
-    [ "ActionFilterAttribute", null, [
-      [ "NuGetGallery.Filters.CacheFilterAttribute", "d5/d1a/class_nu_get_gallery_1_1_filters_1_1_cache_filter_attribute.html", null ],
-      [ "NuGetGallery.Filters.CompressFilter", "d4/dfc/class_nu_get_gallery_1_1_filters_1_1_compress_filter.html", null ],
-      [ "NuGetGallery.Filters.RequiresAccountConfirmationAttribute", "d5/d4c/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute.html", null ],
-      [ "NuGetGallery.Filters.ValidateRecaptchaResponseAttribute", "d4/d6a/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.ActionOnNewPackageContext", "de/d83/class_nu_get_gallery_1_1_action_on_new_package_context.html", null ],
-    [ "NuGetGallery.ActionRequiringAccountPermissions", "d4/d4a/class_nu_get_gallery_1_1_action_requiring_account_permissions.html", null ],
-    [ "ActionRequiringEntityPermissions< IReadOnlyCollection< ReservedNamespace >>", null, [
-      [ "NuGetGallery.ActionRequiringReservedNamespacePermissions", "d0/d63/class_nu_get_gallery_1_1_action_requiring_reserved_namespace_permissions.html", null ]
-    ] ],
-    [ "NuGetGallery.ActionRequiringEntityPermissions< PackageRegistration >", "da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions.html", [
-      [ "NuGetGallery.ActionRequiringPackagePermissions", "d0/d42/class_nu_get_gallery_1_1_action_requiring_package_permissions.html", null ]
-    ] ],
-    [ "NuGetGallery.ActionRequiringEntityPermissions< TestablePermissionsEntity >", "da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions.html", [
-      [ "NuGetGallery.TestableActionRequiringEntityPermissions", "de/d8e/class_nu_get_gallery_1_1_testable_action_requiring_entity_permissions.html", null ]
-    ] ],
-    [ "NuGetGallery.ActionRequiringEntityPermissionsFacts", "dd/d52/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts.html", null ],
-    [ "ActionResult", null, [
-      [ "NuGetGallery.ImageResult", "d5/d34/class_nu_get_gallery_1_1_image_result.html", null ],
-      [ "NuGetGallery.Infrastructure.SyndicationAtomActionResult", "df/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_syndication_atom_action_result.html", null ],
-      [ "NuGetGallery.SafeRedirectResult", "dc/d14/class_nu_get_gallery_1_1_safe_redirect_result.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ActivityDataLineType", "d3/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_activity_data_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.ActivityFeed", "da/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_activity_feed.html", [
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.ContactActivityFeed", "d9/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_ddcda65bf4cc72599b413ebf03c7a4ac.html", null ],
@@ -109,8 +43,6 @@ var hierarchy =
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.ActivityToggleEventArgs", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Activities.ActivityTypes.ActivityType", "d5/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_types_1_1_activity_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.Actor", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_actor.html", null ],
-    [ "NuGetGallery.AddOrganizationViewModel", "dc/d5e/class_nu_get_gallery_1_1_add_organization_view_model.html", null ],
-    [ "NuGetGallery.AddPackageOwnerViewModel", "df/dbf/class_nu_get_gallery_1_1_add_package_owner_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.Cart.AddProductToCartRequest", "d5/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_cart_1_1_add_product_to_cart_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.Compare.AddProductToCompareRequest", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_compare_1_1_add_product_to_compare_request.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.AddResponseModel", "de/d53/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_add_response_model.html", null ],
@@ -121,10 +53,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.Cart.AddSubscriptionToCartRequest", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_cart_1_1_add_subscription_to_cart_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.Compare.AddSubscriptionToCompareRequest", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_compare_1_1_add_subscription_to_compare_request.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Advanced.AdvancedOptions", "df/d16/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_advanced_1_1_advanced_options.html", null ],
-    [ "GitHubVulnerabilities2Db.Facts.AdvisoryIngestorFacts", "d2/d07/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts.html", null ],
-    [ "GitHubVulnerabilities2Db.Facts.AdvisoryQueryServiceFacts", "db/df9/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_query_service_facts.html", null ],
-    [ "NuGetGallery.Auditing.AggregateAuditingServiceTests", "d4/dba/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service_tests.html", null ],
-    [ "NuGetGallery.AggregateStats", "d6/d28/class_nu_get_gallery_1_1_aggregate_stats.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Agreements.Agreement", "dc/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Agreements.AgreementRevisions.AgreementRevision", "da/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_revisions_1_1_agreement_revision.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Agreements.AgreementTypes.AgreementType", "d7/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_types_1_1_agreement_type.html", null ],
@@ -132,7 +60,6 @@ var hierarchy =
     [ "FenixAlliance.ABP.FileSystem.Extensions.AllianceBusinessSuiteFileSystemExtensions", "d9/dcc/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions_1_1_alliance_business_suite_file_system_extensions.html", null ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.Repos.AllianceIDRepository", "d3/d84/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_alliance_i_d_repository.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AllowanceChargeType", "d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_allowance_charge_type.html", null ],
-    [ "NuGetGallery.Services.AllowLocalHttpRedirectPolicyFacts", "d1/d60/class_nu_get_gallery_1_1_services_1_1_allow_local_http_redirect_policy_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AmountType", "da/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.AmountType1", "d9/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_type1.html", [
         [ "FenixAlliance.ABM.Models.UBL.AdvertisementAmountType", "d0/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_advertisement_amount_type.html", null ],
@@ -205,21 +132,8 @@ var hierarchy =
         [ "FenixAlliance.ABM.Models.UBL.ValueAmountType", "df/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_value_amount_type.html", null ]
       ] ]
     ] ],
-    [ "NuGetGallery.Infrastructure.AnalysisHelperFacts", "db/d38/class_nu_get_gallery_1_1_infrastructure_1_1_analysis_helper_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.Answer", "d3/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_answer.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AnyType", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_any_type.html", null ],
-    [ "NuGetGallery.Filters.ApiAuthorizeAttributeFacts", "d3/dba/class_nu_get_gallery_1_1_filters_1_1_api_authorize_attribute_facts.html", null ],
-    [ "NuGetGallery.ApiControllerFacts", "db/d2e/class_nu_get_gallery_1_1_api_controller_facts.html", null ],
-    [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationHandlerFacts", "d3/dc7/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_handler_facts.html", null ],
-    [ "NuGetGallery.ApiKeyListViewModel", "db/d4a/class_nu_get_gallery_1_1_api_key_list_view_model.html", null ],
-    [ "NuGetGallery.ApiKeyOwnerViewModel", "d5/da8/class_nu_get_gallery_1_1_api_key_owner_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.ApiKeyRevokeViewModel", "d3/dff/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_api_key_revoke_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.ApiKeysControllerFacts", "d4/daa/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts.html", null ],
-    [ "NuGetGallery.Infrastructure.Authentication.ApiKeyV3", "da/d99/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3.html", null ],
-    [ "NuGetGallery.Infrastructure.Authentication.ApiKeyV3Facts", "d9/d18/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3_facts.html", null ],
-    [ "NuGetGallery.Infrastructure.Authentication.ApiKeyV4", "d4/d14/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4.html", null ],
-    [ "NuGetGallery.Infrastructure.Authentication.ApiKeyV4Facts", "d3/d83/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4_facts.html", null ],
-    [ "NuGetGallery.ApiKeyViewModel", "da/d7e/class_nu_get_gallery_1_1_api_key_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct", "db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.APIResponse", "db/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_a_p_i_response.html", [
       [ "FenixAlliance.ABM.Models.DTOs.Components.Social.APISocialActivityResponse", "d9/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_a_p_i_social_activity_response.html", null ],
@@ -229,36 +143,20 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.DTOs.Responses.Social.FollowRecordsResponse", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_social_1_1_follow_records_response.html", null ],
       [ "FenixAlliance.ABM.Models.DTOs.Responses.Store.APIProductsResponse", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_store_1_1_a_p_i_products_response.html", null ]
     ] ],
-    [ "NuGetGallery.Authentication.ApiScopeEvaluationResult", "d4/d80/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result.html", null ],
-    [ "NuGetGallery.Authentication.ApiScopeEvaluationResultFacts", "d3/d09/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts.html", null ],
-    [ "NuGetGallery.Authentication.ApiScopeEvaluatorFacts", "d4/d5e/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts.html", null ],
-    [ "NuGetGallery.Filters.ApiScopeRequiredAttributeFacts", "d0/d56/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts.html", null ],
-    [ "NuGetGallery.AppConfigIsCorrectlyApplied", "d1/dc3/class_nu_get_gallery_1_1_app_config_is_correctly_applied.html", null ],
-    [ "NuGetGallery.Controllers.AppControllerFacts", "db/db1/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AppealTermsType", "de/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_appeal_terms_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Favicons.AppleIcons", "db/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_apple_icons.html", null ],
-    [ "Application", null, [
-      [ "FenixAlliance.ABS.MAUI.App", "df/d19/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_app.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ApplicationResponseType", "dc/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_application_response_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Settings.ApplicationSettings", "dc/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_application_settings.html", [
       [ "FenixAlliance.ABM.Models.Global.Settings.Scopes.AccountHolderSettings", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_account_holder_settings.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Settings.Scopes.BusinessTenantSettings", "d2/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_business_tenant_settings.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Settings.Scopes.SingletonApplicationSettings", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings.html", null ]
     ] ],
-    [ "NuGetGallery.ApplicationVersion", "dd/d56/class_nu_get_gallery_1_1_application_version.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.Appraisals.Appraisal", "d9/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_appraisals_1_1_appraisal.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Appraisals.AppraisalSessions.AppraisalSession", "db/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_sessions_1_1_appraisal_session.html", [
       [ "FenixAlliance.ABM.Models.Workforce.Appraisals.EmployeeAppraisalSession", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_employee_appraisal_session.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Workforce.Appraisals.AppraisalSessionEntries.AppraisalSessionEntry", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.Archive", "d5/d03/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_archive.html", null ],
-    [ "AreaRegistration", null, [
-      [ "NuGetGallery.Areas.Admin.AdminAreaRegistration", "d5/d8e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_admin_area_registration.html", null ]
-    ] ],
-    [ "ArgumentException", null, [
-      [ "GitHubVulnerabilities2Db.Ingest.GitHubVersionRangeParsingException", "d3/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parsing_exception.html", null ]
-    ] ],
     [ "AssemblyLoadContext", null, [
       [ "FenixAlliance.ABP.Hub.Plugins.PluginLoadContext", "d3/dcc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_load_context.html", null ]
     ] ],
@@ -277,157 +175,26 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Assets.AssetRepairs.AssetRepair", "d2/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_repairs_1_1_asset_repair.html", null ],
     [ "FenixAlliance.ABM.Models.Assets.AssetTransfers.AssetTransfer", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html", null ],
     [ "FenixAlliance.ABM.Models.Assets.AssetValueAmends.AssetValueAmend", "d3/d68/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_value_amends_1_1_asset_value_amend.html", null ],
-    [ "NuGetGallery.AssociateExternalAccountViewModel", "d3/d1c/class_nu_get_gallery_1_1_associate_external_account_view_model.html", null ],
-    [ "NuGetGallery.AsyncFileUpload.AsyncFileUploadProgress", "d5/dde/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_progress.html", null ],
-    [ "NuGetGallery.Services.AsynchronousDeleteAccountServiceFacts", "d9/d68/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts.html", null ],
-    [ "NuGetGallery.AsynchronousPackageValidationInitiator< IPackageEntity >", "d9/df6/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator.html", null ],
-    [ "NuGetGallery.AsynchronousPackageValidationInitiatorFacts", "d6/d2a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AttachedDocumentType", "df/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_attached_document_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AttachmentType", "da/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_attachment_type.html", null ],
     [ "Attribute", null, [
       [ "FenixAlliance.ABP.FileSystem.Filters.DisableFormValueModelBindingAttribute", "db/d25/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters_1_1_disable_form_value_model_binding_attribute.html", null ],
-      [ "FenixAlliance.ABP.Proxy.ProxyRouteAttribute", "d2/d51/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_route_attribute.html", null ],
-      [ "NuGetGallery.Auditing.Obfuscation.ObfuscateAttribute", "d0/d33/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscate_attribute.html", null ],
-      [ "NuGetGallery.FunctionalTests.CategoryAttribute", "d3/d27/class_nu_get_gallery_1_1_functional_tests_1_1_category_attribute.html", null ],
-      [ "NuGetGallery.FunctionalTests.PriorityAttribute", "de/d05/class_nu_get_gallery_1_1_functional_tests_1_1_priority_attribute.html", null ],
-      [ "NuGetGallery.HintAttribute", "dd/dea/class_nu_get_gallery_1_1_hint_attribute.html", null ],
-      [ "NuGetGallery.SubtextAttribute", "d4/d8f/class_nu_get_gallery_1_1_subtext_attribute.html", null ]
+      [ "FenixAlliance.ABP.Proxy.ProxyRouteAttribute", "d2/d51/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_route_attribute.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.AuctionTermsType", "d4/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_auction_terms_type.html", null ],
-    [ "NuGetGallery.Auditing.AuditActor", "d7/dd3/class_nu_get_gallery_1_1_auditing_1_1_audit_actor.html", null ],
-    [ "NuGetGallery.Auditing.AuditActorTests", "de/d82/class_nu_get_gallery_1_1_auditing_1_1_audit_actor_tests.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedFeatureFlagFeature", "dd/d17/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_feature.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedFeatureFlagFlight", "db/dd0/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_flight.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedPackage", "d6/d07/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedPackageDeprecation", "d7/d4b/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_deprecation.html", null ],
-    [ "NuGetGallery.Auditing.AuditedPackageFacts", "d4/d37/class_nu_get_gallery_1_1_auditing_1_1_audited_package_facts.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedPackageIdentifier", "d3/dc7/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_identifier.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedPackageRegistration", "db/d86/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_registration.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedReservedNamespace", "d5/d29/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_reserved_namespace.html", null ],
-    [ "NuGetGallery.Auditing.AuditedEntities.AuditedUserSecurityPolicy", "d0/dce/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_user_security_policy.html", null ],
-    [ "NuGetGallery.Auditing.AuditEntry", "d2/df1/class_nu_get_gallery_1_1_auditing_1_1_audit_entry.html", null ],
-    [ "NuGetGallery.Auditing.AuditEntryTests", "d9/db5/class_nu_get_gallery_1_1_auditing_1_1_audit_entry_tests.html", null ],
-    [ "NuGetGallery.Auditing.AuditingServiceTests", "d2/dfd/class_nu_get_gallery_1_1_auditing_1_1_auditing_service_tests.html", null ],
-    [ "AuditRecord", null, [
-      [ "NuGetGallery.Auditing.AuditRecord< T >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedAuthenticatedOperationAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.FailedAuthenticatedOperationAuditRecord", "da/d72/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedCertificateAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.CertificateAuditRecord", "d6/d50/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedDeleteAccountAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.DeleteAccountAuditRecord", "d7/d62/class_nu_get_gallery_1_1_auditing_1_1_delete_account_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedFeatureFlagsAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.FeatureFlagsAuditRecord", "da/d1d/class_nu_get_gallery_1_1_auditing_1_1_feature_flags_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedPackageAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.PackageAuditRecord", "d8/d2c/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedPackageRegistrationAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.PackageRegistrationAuditRecord", "d0/daf/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedReservedNamespaceAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.ReservedNamespaceAuditRecord", "d6/d0b/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedSecurityPolicyAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.UserSecurityPolicyAuditRecord", "d4/d2b/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecord< AuditedUserAction >", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", [
-      [ "NuGetGallery.Auditing.UserAuditRecord", "d5/df6/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.AuditRecordTests", "df/d02/class_nu_get_gallery_1_1_auditing_1_1_audit_record_tests.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticatedUser", "d9/d4c/class_nu_get_gallery_1_1_authentication_1_1_authenticated_user.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticateExternalLoginResult", "d4/dd7/class_nu_get_gallery_1_1_authentication_1_1_authenticate_external_login_result.html", null ],
-    [ "NuGetGallery.Controllers.AuthenticationControllerFacts", "da/d73/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts.html", null ],
-    [ "AuthenticationHandler", null, [
-      [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationHandler", "d8/d0e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_handler.html", [
-        [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationHandlerFacts.TestableApiKeyAuthenticationHandler", "d5/db9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han50fc52a1f450e659c8b66599b5ee0aa7.html", null ]
-      ] ]
-    ] ],
-    [ "AuthenticationMiddleware", null, [
-      [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationMiddleware", "d2/d60/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_middleware.html", null ]
-    ] ],
-    [ "AuthenticationOptions", null, [
-      [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationOptions", "df/de5/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_options.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.AuthenticationPolicy", "dd/dae/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authentication_policy.html", null ],
-    [ "NuGetGallery.AuthenticationProviderViewModel", "d3/dbc/class_nu_get_gallery_1_1_authentication_provider_view_model.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticationServiceFacts", "d0/d45/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts.html", null ],
-    [ "Authenticator", null, [
-      [ "NuGetGallery.Authentication.Providers.Authenticator< TConfig >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", [
-        [ "NuGetGallery.Authentication.Providers.Cookie.LocalUserAuthenticator", "dd/df4/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie_1_1_local_user_authenticator.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.Authenticator< AMisnamedConfig >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", null ],
-    [ "NuGetGallery.Authentication.Providers.Authenticator< ApiKeyAuthenticatorConfiguration >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", [
-      [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticator", "da/d41/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.Authenticator< AzureActiveDirectoryAuthenticatorConfiguration >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", [
-      [ "NuGetGallery.Authentication.Providers.AzureActiveDirectory.AzureActiveDirectoryAuthenticator", "d3/de9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_active_directory_authenticator.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.Authenticator< AzureActiveDirectoryV2AuthenticatorConfiguration >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", [
-      [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2Authenticator", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.Authenticator< MicrosoftAccountAuthenticatorConfiguration >", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", [
-      [ "NuGetGallery.Authentication.Providers.MicrosoftAccount.MicrosoftAccountAuthenticator", "db/d6f/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.Providers.AuthenticatorConfiguration", "d7/d83/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_configuration.html", [
-      [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticatorConfiguration", "d1/d7b/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator_configuration.html", null ],
-      [ "NuGetGallery.Authentication.Providers.AzureActiveDirectory.AzureActiveDirectoryAuthenticatorConfiguration", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html", null ],
-      [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2AuthenticatorConfiguration", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html", null ],
-      [ "NuGetGallery.Authentication.Providers.MicrosoftAccount.MicrosoftAccountAuthenticatorConfiguration", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.AuthenticatorFacts", "d2/d85/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts.html", null ],
-    [ "NuGetGallery.Authentication.Providers.AuthenticatorUI", "dd/dc1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_u_i.html", null ],
-    [ "AuthorizeAttribute", null, [
-      [ "NuGetGallery.Filters.ApiAuthorizeAttribute", "d9/d52/class_nu_get_gallery_1_1_filters_1_1_api_authorize_attribute.html", null ],
-      [ "NuGetGallery.Filters.ApiScopeRequiredAttribute", "d9/d67/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute.html", null ],
-      [ "NuGetGallery.Filters.UIAuthorizeAttribute", "d0/dd6/class_nu_get_gallery_1_1_filters_1_1_u_i_authorize_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageIdsQueryFacts", "d2/df0/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts.html", null ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageVersionsQueryFacts", "de/d54/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts.html", null ],
-    [ "NuGetGallery.AutocompleteServicePackageIdsQueryFacts", "d7/d37/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query_facts.html", null ],
-    [ "NuGetGallery.AutocompleteServicePackageVersionsQueryFacts", "d5/dd5/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query_facts.html", null ],
-    [ "NuGetGallery.AutocompleteServiceQuery", "d8/d16/class_nu_get_gallery_1_1_autocomplete_service_query.html", [
-      [ "NuGetGallery.AutocompleteServicePackageIdsQuery", "dc/da6/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query.html", null ],
-      [ "NuGetGallery.AutocompleteServicePackageVersionsQuery", "d4/d3b/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query.html", null ]
-    ] ],
-    [ "NuGetGallery.AutocompleteServiceQueryFacts", "d5/d6e/class_nu_get_gallery_1_1_autocomplete_service_query_facts.html", null ],
-    [ "NuGetGallery.Security.AutomaticallyOverwriteRequiredSignerPolicyFacts", "d8/db4/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardedNotificationType", "d1/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarded_notification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardingCriterionResponseType", "dc/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarding_criterion_response_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardingCriterionType", "d8/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarding_criterion_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardingTermsType", "d9/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarding_terms_type.html", null ],
-    [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2AuthenticatorFacts", "d6/dff/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acf61760758d02cd1ca4b96caad7799bd2.html", null ],
-    [ "NuGetGallery.Infrastructure.AzureEntityList< NuGetGallery.Infrastructure.ErrorEntity >", "de/dea/class_nu_get_gallery_1_1_infrastructure_1_1_azure_entity_list.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.B2CDecodedToken", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_b2_c_decoded_token.html", null ],
-    [ "GalleryTools.Commands.BackfillCommand< TMetadata >", "d9/d3f/class_gallery_tools_1_1_commands_1_1_backfill_command.html", null ],
-    [ "GalleryTools.Commands.BackfillCommand< bool >", "d9/d3f/class_gallery_tools_1_1_commands_1_1_backfill_command.html", [
-      [ "GalleryTools.Commands.BackfillDevelopmentDependencyCommand", "d2/d95/class_gallery_tools_1_1_commands_1_1_backfill_development_dependency_command.html", null ]
-    ] ],
-    [ "GalleryTools.Commands.BackfillCommand< RepositoryMetadata >", "d9/d3f/class_gallery_tools_1_1_commands_1_1_backfill_command.html", [
-      [ "GalleryTools.Commands.BackfillRepositoryMetadataCommand", "da/df0/class_gallery_tools_1_1_commands_1_1_backfill_repository_metadata_command.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Background", "d5/d92/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_background.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.BG.BackgroundOptions", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Banking.Bank", "db/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_banking_1_1_bank.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Banking.BankAccount", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Banking.BankGuarantee", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Banking.BankMapper", "d8/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_banking_1_1_bank_mapper.html", null ],
-    [ "NuGetGallery.Infrastructure.Base32EncoderTests", "da/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_base32_encoder_tests.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Drivers.BaseDriver", "d0/d45/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_base_driver.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver", "d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html", null ]
-    ] ],
-    [ "NuGetGallery.CloudDownloadCountServiceFacts.BaseFacts", "d5/da2/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_base_facts.html", [
-      [ "NuGetGallery.CloudDownloadCountServiceFacts.TheTryGetDownloadCountForPackageMethod", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html", null ],
-      [ "NuGetGallery.CloudDownloadCountServiceFacts.TheTryGetDownloadCountForPackageRegistrationMethod", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html", null ]
-    ] ],
-    [ "NuGetGallery.TelemetryServiceFacts.BaseFacts", "d8/da4/class_nu_get_gallery_1_1_telemetry_service_facts_1_1_base_facts.html", [
-      [ "NuGetGallery.TelemetryServiceFacts.TheTraceExceptionMethod", "dd/dc5/class_nu_get_gallery_1_1_telemetry_service_facts_1_1_the_trace_exception_method.html", null ],
-      [ "NuGetGallery.TelemetryServiceFacts.TheTrackEventMethod", "d7/d05/class_nu_get_gallery_1_1_telemetry_service_facts_1_1_the_track_event_method.html", null ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.Models.BaseModel", "d6/dd7/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_base_model.html", [
       [ "FenixAlliance.ABP.FileSystem.Models.DirectoryModel", "d0/d03/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_directory_model.html", [
@@ -438,10 +205,6 @@ var hierarchy =
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.BaseOpenResponseModel", "d1/df8/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_base_open_response_model.html", [
       [ "FenixAlliance.ABP.FileSystem.Models.Commands.InitResponseModel", "d5/db4/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_init_response_model.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Models.Commands.OpenResponse", "df/df9/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_open_response.html", null ]
-    ] ],
-    [ "NuGetGallery.BasicUserViewModel", "db/d65/class_nu_get_gallery_1_1_basic_user_view_model.html", null ],
-    [ "BeforeAfterTestAttribute", null, [
-      [ "NuGetGallery.TestUtils.UseInvariantCultureAttribute", "d8/d09/class_nu_get_gallery_1_1_test_utils_1_1_use_invariant_culture_attribute.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.BillingReferenceLineType", "d8/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_billing_reference_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.BillingReferenceType", "d6/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_billing_reference_type.html", null ],
@@ -474,7 +237,6 @@ var hierarchy =
     [ "FenixAlliance.ABP.BotEngine.Core.Auth.TokenResponse.BotTokenResponsePayload", "d2/d76/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_auth_1_1_token_response_1_1_bot_token_response_payload.html", null ],
     [ "FenixAlliance.ABP.BotEngine.Core.State.BotUserState", "dc/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_bot_user_state.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.BranchType", "d9/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_branch_type.html", null ],
-    [ "NuGetGallery.FunctionalTests.GalleryConfiguration.BrandingConfiguration", "de/d25/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_branding_configuration.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.BrandingOptions", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBrands.BrandRecord", "d5/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands_1_1_brand_record.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.BreadcrumbElement", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element.html", null ],
@@ -537,10 +299,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.BusinessUnits.BusinessUnitRecords.BusinessUnitRecordScopes.BusinessUnitContactRecord", "d4/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_cf022043695f63bc84daed1d9f3cd49b.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.BuyerPersonaProfile", "df/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_buyer_persona_profile.html", null ],
-    [ "CacheOutputAttribute", null, [
-      [ "NuGetGallery.ODataCacheOutputAttribute", "d3/db8/class_nu_get_gallery_1_1_o_data_cache_output_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.FunctionalTests.ApiManagement.CachingTests", "db/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_api_management_1_1_caching_tests.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CallForTendersType", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_call_for_tenders_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Marketing.Campaign", "d0/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_marketing_1_1_campaign.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Marketing.CampaignMapper", "d5/d05/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_marketing_1_1_campaign_mapper.html", null ],
@@ -574,43 +332,22 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Internals.Cells.Cell", "d3/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_cells_1_1_cell.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertIDListType", "d5/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_cert_i_d_list_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertIDType", "d2/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_cert_i_d_type.html", null ],
-    [ "NuGetGallery.Auditing.CertificateAuditRecordFacts", "d2/d57/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record_facts.html", null ],
-    [ "NuGetGallery.Certificates.CertificateFileFacts", "db/ddf/class_nu_get_gallery_1_1_certificates_1_1_certificate_file_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertificateOfOriginApplicationType", "de/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_application_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertificateOfOriginType", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_type.html", null ],
-    [ "NuGetGallery.Services.CertificatesConfigurationFacts", "df/d0d/class_nu_get_gallery_1_1_services_1_1_certificates_configuration_facts.html", null ],
-    [ "NuGetGallery.Services.CertificateServiceFacts", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertificateType", "d3/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_type.html", null ],
-    [ "NuGetGallery.Services.CertificateValidatorFacts", "d9/d14/class_nu_get_gallery_1_1_services_1_1_certificate_validator_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CertificateValuesType", "d7/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_values_type.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.ChangedResponseModel", "d2/d5e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_changed_response_model.html", null ],
-    [ "NuGetGallery.ChangeEmailViewModel", "d4/d79/class_nu_get_gallery_1_1_change_email_view_model.html", null ],
-    [ "NuGetGallery.ChangeNotificationsViewModel", "d7/d2e/class_nu_get_gallery_1_1_change_notifications_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.ChangePasswordViewModel", "dd/d5e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_change_password_view_model.html", null ],
-    [ "NuGetGallery.ChangePasswordViewModel", "d5/d8c/class_nu_get_gallery_1_1_change_password_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Properties.Characteristics.Characteristic", "d9/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_characteristic.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Properties.Characteristics.CharacteristicTypes.CharacteristicType", "db/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_char319675dbfb85f21c11cd36a79871a02a.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.Accounts.ChartOfAccounts", "d5/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_accounts_1_1_chart_of_accounts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.CheckoutRequest", "d6/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_checkout_request.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.City", "d7/db4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_city.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Globe.Countries.City", "d2/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_city.html", null ],
-    [ "Class1", "d9/d49/class_class1.html", null ],
-    [ "FenixAlliance.APS.SDK.Class1", "dd/dcd/class_fenix_alliance_1_1_a_p_s_1_1_s_d_k_1_1_class1.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ClassificationCategoryType", "dc/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_classification_category_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ClassificationSchemeType", "da/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_classification_scheme_type.html", null ],
-    [ "ClassMap", null, [
-      [ "GalleryTools.Commands.BackfillCommand< TMetadata >.PackageMetadataClassMap", "d9/de4/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata_class_map.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ClauseType", "d7/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_clause_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.ClientApplication", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_client_application.html", null ],
-    [ "NuGetGallery.Telemetry.ClientInformationTelemetryEnricherTests", "d2/da9/class_nu_get_gallery_1_1_telemetry_1_1_client_information_telemetry_enricher_tests.html", null ],
-    [ "NuGetGallery.Telemetry.ClientTelemetryPIIProcessorTests", "dd/d55/class_nu_get_gallery_1_1_telemetry_1_1_client_telemetry_p_i_i_processor_tests.html", null ],
-    [ "NuGetGallery.Auditing.CloudAuditingServiceTests", "df/d05/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service_tests.html", null ],
-    [ "NuGetGallery.Services.CloudBlobClientWrapperFacts", "dc/d6d/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts", "dc/de5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceIntegrationTests", "d5/dea/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_integration_tests.html", null ],
-    [ "NuGetGallery.CloudBlobFileStorageServiceFacts", "dc/dd8/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts.html", null ],
-    [ "NuGetGallery.CloudDownloadCountServiceFacts", "d5/d1e/class_nu_get_gallery_1_1_cloud_download_count_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Cloud.Subscriptions.CloudSubscription", "d6/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_cloud_1_1_subscriptions_1_1_cloud_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Cloud.Manager.Subscriptions.CloudSubscriptionMapper", "d3/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_manager_1_1_subscriptions_1_1_cloud_subscription_mapper.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Fields.CodeFieldsOptions", "d3/dbd/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_fields_1_1_code_fields_options.html", null ],
@@ -836,10 +573,6 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Colors.ColorScheme", "d8/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_scheme.html", null ],
     [ "FenixAlliance.ABM.Models.Internals.Columns.Column", "da/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns_1_1_column.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.CommandBarElement", "d1/dfe/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element.html", null ],
-    [ "CommandLineApplication", null, [
-      [ "AzureSqlConnectionTest.TestApplication", "d2/d45/class_azure_sql_connection_test_1_1_test_application.html", null ],
-      [ "NuGet.VerifyMicrosoftPackage.Application", "d4/d4a/class_nu_get_1_1_verify_microsoft_package_1_1_application.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.Commissions.Commission", "d4/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_commissions_1_1_commission.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CommitmentTypeIndicationType", "d9/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_commitment_type_indication_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CommodityClassificationType", "d1/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_commodity_classification_type.html", null ],
@@ -853,24 +586,9 @@ var hierarchy =
     [ "ComponentDialog", null, [
       [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", null ]
     ] ],
-    [ "NuGetGallery.ViewModels.CompositeLicenseExpressionSegmentViewModel", "dd/d0b/class_nu_get_gallery_1_1_view_models_1_1_composite_license_expression_segment_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ConditionType1", "d0/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_condition_type1.html", null ],
-    [ "NuGetGallery.ConfigurationIconFileProviderFacts", "d5/dad/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts.html", null ],
-    [ "NuGetGallery.ConfigurationIconFileProviderFacts.ConfigurationIconFileProviderFactsBase", "d8/d1c/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_configuration_icon_file_provider_facts_base.html", [
-      [ "NuGetGallery.ConfigurationIconFileProviderFacts.TheGetIconUrlMethodsBase", "dd/d9b/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_methods_base.html", [
-        [ "NuGetGallery.ConfigurationIconFileProviderFacts.TheGetIconUrlMethod", "da/dc0/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_method.html", null ],
-        [ "NuGetGallery.ConfigurationIconFileProviderFacts.TheGetIconUrlStringMethod", "d4/d0a/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_string_method.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.App_Start.ConfigurationServiceFacts", "d4/dd0/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts.html", null ],
-    [ "NuGetGallery.Configuration.ConfigurationServiceFacts", "d6/d78/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts.html", null ],
-    [ "NuGetGallery.ConfirmationContext", "d5/db4/class_nu_get_gallery_1_1_confirmation_context.html", null ],
-    [ "NuGetGallery.ConfirmationViewModel", "d6/dd1/class_nu_get_gallery_1_1_confirmation_view_model.html", null ],
-    [ "GitHubVulnerabilities2Db.GraphQL.ConnectionResponseData< TNode >", "de/dfd/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_connection_response_data.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Connector", "d6/d44/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_connector.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ConsignmentType", "de/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consignment_type.html", null ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageIdsQueryFacts.Constructor", "da/d40/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_constructor.html", null ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageVersionsQueryFacts.Constructor", "db/dfb/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_constructor.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ConsumptionAverageType", "d5/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consumption_average_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ConsumptionCorrectionType", "dc/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consumption_correction_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ConsumptionHistoryType", "d2/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consumption_history_type.html", null ],
@@ -884,7 +602,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Contacts.Groups.ContactGroupRecord", "dc/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_groups_1_1_contact_group_record.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Helpdesk.ContactInquiry", "dc/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_helpdesk_1_1_contact_inquiry.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Contact.ContactOptions", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options.html", null ],
-    [ "NuGetGallery.ContactOwnersViewModel", "db/d27/class_nu_get_gallery_1_1_contact_owners_view_model.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.ContactPoint", "d5/d6f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_contact_point.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Profiles.ContactProfile", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_contact_profile.html", [
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.BankProfile", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_bank_profile.html", null ],
@@ -913,15 +630,8 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Contacts.Relations.ContactRelationType", "d5/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_relations_1_1_contact_relation_type.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Groups.ContactsGroup", "d2/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_groups_1_1_contacts_group.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Sources.ContactSource", "d3/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_sources_1_1_contact_source.html", null ],
-    [ "NuGetGallery.ViewModels.ContactSupportViewModel", "dc/dd6/class_nu_get_gallery_1_1_view_models_1_1_contact_support_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContactType", "df/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contact_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.ContentFiles", "d4/d72/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_content_files.html", null ],
-    [ "NuGetGallery.ContentService.ContentItem", "d3/de0/class_nu_get_gallery_1_1_content_service_1_1_content_item.html", null ],
-    [ "NuGetGallery.Services.ContentObjectServiceFacts", "dd/d63/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts.html", null ],
-    [ "ContentPage", null, [
-      [ "FenixAlliance.ABS.MAUI.MainPage", "d6/d11/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_page.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.ContentServiceFacts", "d9/dc1/class_nu_get_gallery_1_1_services_1_1_content_service_facts.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Integrations.ContextualIntegrationsMenu", "dc/da8/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_integrations_1_1_contextual_integrations_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.ContextualMenu", "d7/de7/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Holder.ContextualMenu", "d2/d03/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder_1_1_contextual_menu.html", null ],
@@ -954,9 +664,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ContractingPartyTypeType", "d0/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contracting_party_type_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractNoticeType", "df/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_notice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractType", "d8/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_type.html", null ],
-    [ "Control", null, [
-      [ "NuGetGallery.DefaultEntityTemplate._NamingContainer", "da/d34/class_nu_get_gallery_1_1_default_entity_template_1_1___naming_container.html", null ]
-    ] ],
     [ "Controller", null, [
       [ "FenixAlliance.ABP.FileSystem.Controllers.FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.HolderFilesController", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller.html", null ],
@@ -1010,36 +717,7 @@ var hierarchy =
       [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.StoreCarts.CartsController", "df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller.html", null ],
       [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Tags.TagsController", "d5/dcb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_tags_1_1_tags_controller.html", null ],
       [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Types.TypesController", "d1/d4d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_types_1_1_types_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Wallets.WalletController", "da/d68/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets_1_1_wallet_controller.html", null ],
-      [ "NuGetGallery.AppController", "d8/d76/class_nu_get_gallery_1_1_app_controller.html", [
-        [ "NuGetGallery.AccountsController< TUser, TAccountViewModel >", "d2/d7a/class_nu_get_gallery_1_1_accounts_controller.html", null ],
-        [ "NuGetGallery.ApiController", "d7/d53/class_nu_get_gallery_1_1_api_controller.html", null ],
-        [ "NuGetGallery.Areas.Admin.Controllers.AdminControllerBase", "dd/dd1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_admin_controller_base.html", [
-          [ "NuGetGallery.Areas.Admin.Controllers.ApiKeysController", "db/d8b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.DeleteAccountController", "d3/d2c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.DeleteController", "df/d4a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.FeaturesController", "dc/dc5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_features_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.HomeController", "d7/d41/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_home_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.LockPackageController", "d3/da3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.LuceneController", "d5/d26/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lucene_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.ReservedNamespaceController", "d1/d09/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.RevalidationController", "d6/ddb/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_revalidation_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.SecurityPolicyController", "d2/d74/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.SiteAdminsController", "d2/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_site_admins_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.SupportRequestController", "d1/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_support_request_controller.html", null ],
-          [ "NuGetGallery.Areas.Admin.Controllers.ValidationController", "d0/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_validation_controller.html", null ]
-        ] ],
-        [ "NuGetGallery.AuthenticationController", "d8/d8f/class_nu_get_gallery_1_1_authentication_controller.html", null ],
-        [ "NuGetGallery.Controllers.AppControllerFacts.TestableAppController", "d0/d02/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_testable_app_controller.html", null ],
-        [ "NuGetGallery.Controllers.ExperimentsController", "d8/d70/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller.html", null ],
-        [ "NuGetGallery.ErrorsController", "d5/de8/class_nu_get_gallery_1_1_errors_controller.html", null ],
-        [ "NuGetGallery.Filters.RequiresAccountConfirmationAttributeFacts.TestableAppController", "dd/d14/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute_facts_1_1_testable_app_controller.html", null ],
-        [ "NuGetGallery.JsonApiController", "d1/dc8/class_nu_get_gallery_1_1_json_api_controller.html", null ],
-        [ "NuGetGallery.ManageDeprecationJsonApiController", "d7/dbd/class_nu_get_gallery_1_1_manage_deprecation_json_api_controller.html", null ],
-        [ "NuGetGallery.PackagesController", "d0/d6e/class_nu_get_gallery_1_1_packages_controller.html", null ],
-        [ "NuGetGallery.PagesController", "d9/d6a/class_nu_get_gallery_1_1_pages_controller.html", null ],
-        [ "NuGetGallery.StatisticsController", "d0/d44/class_nu_get_gallery_1_1_statistics_controller.html", null ]
-      ] ]
+      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Wallets.WalletController", "da/d68/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets_1_1_wallet_controller.html", null ]
     ] ],
     [ "ControllerBase", null, [
       [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQlController", "d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html", null ],
@@ -1056,24 +734,6 @@ var hierarchy =
       [ "FenixAlliance.ICX.Core.API.ProductsController", "d2/dd7/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_products_controller.html", null ],
       [ "FenixAlliance.ICX.Core.API.WishListsController", "d7/d54/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_wish_lists_controller.html", null ]
     ] ],
-    [ "NuGetGallery.Controllers.ControllerTests", "d7/dad/class_nu_get_gallery_1_1_controllers_1_1_controller_tests.html", null ],
-    [ "NuGetGallery.Security.ControlRequiredSignerPolicyFacts", "da/d1a/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy_facts.html", null ],
-    [ "NuGetGallery.CookieBasedABTestServiceFacts", "d4/daf/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts.html", null ],
-    [ "NuGetGallery.Cookies.CookieComplianceServiceFacts", "dc/de0/class_nu_get_gallery_1_1_cookies_1_1_cookie_compliance_service_facts.html", null ],
-    [ "NuGetGallery.Cookies.CookieExpirationServiceFacts", "d2/de2/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts.html", null ],
-    [ "NuGetGallery.Infrastructure.CookieTempDataProviderFacts", "da/d88/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts.html", null ],
-    [ "NuGetGallery.Services.CoreLicenseFileServiceFacts", "de/d84/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts.html", null ],
-    [ "CoreMarkdownMessageService", null, [
-      [ "NuGetGallery.Infrastructure.Mail.MarkdownMessageService", "d9/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_markdown_message_service.html", [
-        [ "NuGetGallery.Infrastructure.Mail.BackgroundMarkdownMessageService", "d6/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_background_markdown_message_service.html", null ],
-        [ "NuGetGallery.TestableMarkdownMessageService", "d1/def/class_nu_get_gallery_1_1_testable_markdown_message_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.CorePackageFileServiceFacts", "dd/dbc/class_nu_get_gallery_1_1_core_package_file_service_facts.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts", "d0/d62/class_nu_get_gallery_1_1_core_package_service_facts.html", null ],
-    [ "NuGetGallery.Services.CoreReadmeFileServiceFacts", "d1/d9d/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts.html", null ],
-    [ "NuGetGallery.CoreStrings", "d8/d13/class_nu_get_gallery_1_1_core_strings.html", null ],
-    [ "NuGetGallery.CoreSymbolPackageServiceFacts", "d7/d62/class_nu_get_gallery_1_1_core_symbol_package_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CorporateRegistrationSchemeType", "d7/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_corporate_registration_scheme_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.CostCentres.CostCentre", "da/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres_1_1_cost_centre.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.CostCentres.CostCentre", "d4/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_cost_centres_1_1_cost_centre.html", null ],
@@ -1125,13 +785,9 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Education.Courses.Articles.CourseWiki", "d6/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_wiki.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.CreateSnippetRequest", "d1/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_create_snippet_request.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.Creator", "d3/d4b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_creator.html", null ],
-    [ "NuGetGallery.Auditing.CredentialAuditRecord", "d9/d3b/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record.html", null ],
-    [ "NuGetGallery.Auditing.CredentialAuditRecordTests", "df/d40/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record_tests.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.Credentials", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_credentials.html", [
       [ "FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", null ]
     ] ],
-    [ "NuGetGallery.Authentication.CredentialTypeInfo", "dd/d8d/class_nu_get_gallery_1_1_authentication_1_1_credential_type_info.html", null ],
-    [ "NuGetGallery.CredentialViewModel", "dc/d11/class_nu_get_gallery_1_1_credential_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CreditAccountType", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_credit_account_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Loans.CreditLimits.CreditLimit", "df/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_credit_limits_1_1_credit_limit.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.CreditLimits.CreditLimit", "d7/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_credit_limits_1_1_credit_limit.html", null ],
@@ -1160,7 +816,6 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.CustomerPartyType", "d6/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customer_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.CustomerProfile", "d0/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_customer_profile.html", null ],
-    [ "NuGetGallery.Telemetry.CustomerResourceIdEnricherFacts", "d8/d0c/class_nu_get_gallery_1_1_telemetry_1_1_customer_resource_id_enricher_facts.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Typography.CustomFont", "d7/d23/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_custom_font.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Properties.CustomProperties.CustomProperty", "df/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_custom_property.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Properties.CustomProperties.CustomPropertyRecords.CustomPropertyRecord", "d7/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2.html", [
@@ -1169,11 +824,6 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.CustomsDeclarationType", "d7/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customs_declaration_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Dashboard.DashboardOptions", "dc/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard_1_1_dashboard_options.html", null ],
-    [ "NuGetGallery.Auditing.ObfuscatorJsonConverterTests.Data", "de/df1/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests_1_1_data.html", null ],
-    [ "DataAttribute", null, [
-      [ "NuGetGallery.FolderNamesDataAttribute", "d3/d1f/class_nu_get_gallery_1_1_folder_names_data_attribute.html", null ],
-      [ "NuGetGallery.FunctionalTests.XunitExtensions.DefaultSecurityPoliciesEnforcedDataAttribute", "d9/dd6/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.DataObjectFormatType", "da/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_data_object_format_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DateType", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_date_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.ActualDeliveryDateType", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_actual_delivery_date_type.html", null ],
@@ -1231,153 +881,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.UBL.ValidationDateType", "d6/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_date_type.html", null ],
       [ "FenixAlliance.ABM.Models.UBL.ValidityStartDateType", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validity_start_date_type.html", null ]
     ] ],
-    [ "DbCommandInterceptor", null, [
-      [ "NuGetGallery.QueryHintInterceptor", "d4/d91/class_nu_get_gallery_1_1_query_hint_interceptor.html", null ]
-    ] ],
-    [ "DbConfiguration", null, [
-      [ "NuGetGallery.EntitiesConfiguration", "d0/d40/class_nu_get_gallery_1_1_entities_configuration.html", null ]
-    ] ],
-    [ "DbContext", null, [
-      [ "NuGetGallery.Areas.Admin.Models.SupportRequestDbContext", "d1/d47/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context.html", null ],
-      [ "NuGetGallery.ObjectMaterializedInterceptingDbContext", "d2/d20/class_nu_get_gallery_1_1_object_materialized_intercepting_db_context.html", [
-        [ "NuGetGallery.EntitiesContext", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html", null ]
-      ] ]
-    ] ],
-    [ "DbMigration", null, [
-      [ "NuGetGallery.Areas.Admin.DropPagerDutyColumn", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column.html", null ],
-      [ "NuGetGallery.Areas.Admin.PackageInfoIsOptional", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional.html", null ],
-      [ "NuGetGallery.Areas.Admin.SupportRequestDbModel", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model.html", null ],
-      [ "NuGetGallery.Migrations.AccountDeleteSignatureNotRequired", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required.html", null ],
-      [ "NuGetGallery.Migrations.AddAccountDelete", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete.html", null ],
-      [ "NuGetGallery.Migrations.AddAdditionalIndexForPackageDeletes", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificate", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificateDetails", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificateRegistration", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration.html", null ],
-      [ "NuGetGallery.Migrations.AddCredentialDescriptionColumn", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column.html", null ],
-      [ "NuGetGallery.Migrations.AddCredentialRevocationSourceKeyColumn", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column.html", null ],
-      [ "NuGetGallery.Migrations.AddDeprecationEntities", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities.html", null ],
-      [ "NuGetGallery.Migrations.AddEmbeddedReadmeTypeColumn", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column.html", null ],
-      [ "NuGetGallery.Migrations.AddEnableMultiFactorAuthentication", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication.html", null ],
-      [ "NuGetGallery.Migrations.AddExpirationColumn", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexCredentialExpires", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForCredentialsUserKey", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForPackageDeletes", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForPackageLicenseReportsPackageKey", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForUserEmailAddress", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexIsLatestSemVer2", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexPackageRegistrationKeySemVer", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexSemVerLevelKey", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexSemVerLevelKeyPackageRegistrationKey", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexToPackageDependencies", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexToUserSecurityPolicy", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexUsersEmail", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email.html", null ],
-      [ "NuGetGallery.Migrations.AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table.html", null ],
-      [ "NuGetGallery.Migrations.AddMinRequiredVerisonColumn", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column.html", null ],
-      [ "NuGetGallery.Migrations.AddNuGetOperation", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageEditLastErrorColumn", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageIdLocking", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageOwnershipRequestsPage", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageRename", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageStatusKey", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageTypes", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageVulnerabilities", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities.html", null ],
-      [ "NuGetGallery.Migrations.AddPasswordHash", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash.html", null ],
-      [ "NuGetGallery.Migrations.AddRepositoryType", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type.html", null ],
-      [ "NuGetGallery.Migrations.AddRepositoryURL_ReadMe", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me.html", null ],
-      [ "NuGetGallery.Migrations.AddScopeCredentialKey", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key.html", null ],
-      [ "NuGetGallery.Migrations.AddSemVer2LatestVersionColumns", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns.html", null ],
-      [ "NuGetGallery.Migrations.AddSemVerLevelKeyColumn", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column.html", null ],
-      [ "NuGetGallery.Migrations.AddShortCertificateNames", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names.html", null ],
-      [ "NuGetGallery.Migrations.AddSmtpPassword", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password.html", null ],
-      [ "NuGetGallery.Migrations.AddTargetFxToDependencies", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies.html", null ],
-      [ "NuGetGallery.Migrations.AddTriggerForPackagesLastEdited", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited.html", null ],
-      [ "NuGetGallery.Migrations.AddUserCertificatesIndex", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index.html", null ],
-      [ "NuGetGallery.Migrations.AddUserFailedLogin", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerabilityEntities", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerablePackageVersionRangeFirstPatchedVersion", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerablePackageVersionRangeIdIndex", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index.html", null ],
-      [ "NuGetGallery.Migrations.AdditionalIndexesForPerformance", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance.html", null ],
-      [ "NuGetGallery.Migrations.AggregateStatistics_TotalDownloadCount", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count.html", null ],
-      [ "NuGetGallery.Migrations.AggregateStatsSp_ReduxLastUpdate", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update.html", null ],
-      [ "NuGetGallery.Migrations.ApiKeyDescription", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description.html", null ],
-      [ "NuGetGallery.Migrations.ApiKeyOwnerScope", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope.html", null ],
-      [ "NuGetGallery.Migrations.ChangeCuratedFeedIdToName", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name.html", null ],
-      [ "NuGetGallery.Migrations.ColumnLengthOfPackageTable", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table.html", null ],
-      [ "NuGetGallery.Migrations.Contract_UniqueCuratedPackages", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages.html", null ],
-      [ "NuGetGallery.Migrations.CreateAggregateStatisticsSP", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p.html", null ],
-      [ "NuGetGallery.Migrations.CredentialDoesNotExpire", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire.html", null ],
-      [ "NuGetGallery.Migrations.CredentialExpires", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires.html", null ],
-      [ "NuGetGallery.Migrations.CredentialLastUsed", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used.html", null ],
-      [ "NuGetGallery.Migrations.CredentialsTable", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table.html", null ],
-      [ "NuGetGallery.Migrations.CuratedFeeds", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds.html", null ],
-      [ "NuGetGallery.Migrations.CuratedPackages", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages.html", null ],
-      [ "NuGetGallery.Migrations.CvesCanBeEmpty", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty.html", null ],
-      [ "NuGetGallery.Migrations.DeletedByOptional", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional.html", null ],
-      [ "NuGetGallery.Migrations.DevelopmentDependencyMetadata", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata.html", null ],
-      [ "NuGetGallery.Migrations.DisplayPackageIndexes", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes.html", null ],
-      [ "NuGetGallery.Migrations.EditableMetadata", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata.html", null ],
-      [ "NuGetGallery.Migrations.EmbeddedIconFlag", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag.html", null ],
-      [ "NuGetGallery.Migrations.EntityFramework6", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6.html", null ],
-      [ "NuGetGallery.Migrations.ExecuteELMAHSql", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql.html", null ],
-      [ "NuGetGallery.Migrations.FixSymbolCreatedColumnEFIssue", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue.html", null ],
-      [ "NuGetGallery.Migrations.FrameworkName", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name.html", null ],
-      [ "NuGetGallery.Migrations.GalleryOwnerEmailSettings", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings.html", null ],
-      [ "NuGetGallery.Migrations.GallerySettings", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings.html", null ],
-      [ "NuGetGallery.Migrations.GallerySettings_TotalDownloadCount", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count.html", null ],
-      [ "NuGetGallery.Migrations.IndexPackagesLastUpdatedWithIsListed", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed.html", null ],
-      [ "NuGetGallery.Migrations.Initial", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial.html", null ],
-      [ "NuGetGallery.Migrations.Language", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language.html", null ],
-      [ "NuGetGallery.Migrations.LicenseChanges", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes.html", null ],
-      [ "NuGetGallery.Migrations.LicenseReports", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports.html", null ],
-      [ "NuGetGallery.Migrations.ListPackagesIndexes", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes.html", null ],
-      [ "NuGetGallery.Migrations.MakeCertificatesSha1ThumbprintRequired", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required.html", null ],
-      [ "NuGetGallery.Migrations.MembershipRequests", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests.html", null ],
-      [ "NuGetGallery.Migrations.MovingGallerySettingsToConfiguration", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration.html", null ],
-      [ "NuGetGallery.Migrations.MyPackagesIndexes", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes.html", null ],
-      [ "NuGetGallery.Migrations.NormalizedVersionColumn", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column.html", null ],
-      [ "NuGetGallery.Migrations.NotifyPackagePushed", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed.html", null ],
-      [ "NuGetGallery.Migrations.NullifyOldColumns", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns.html", null ],
-      [ "NuGetGallery.Migrations.Organizations", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations.html", null ],
-      [ "NuGetGallery.Migrations.PackageDelete", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete.html", null ],
-      [ "NuGetGallery.Migrations.PackageDependencyVersionSpec", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec.html", null ],
-      [ "NuGetGallery.Migrations.PackageIndexes", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes.html", null ],
-      [ "NuGetGallery.Migrations.PackageLastEditedTimestamp", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp.html", null ],
-      [ "NuGetGallery.Migrations.PackageOwnerRequests", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests.html", null ],
-      [ "NuGetGallery.Migrations.PackageReleaseNotes", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes.html", null ],
-      [ "NuGetGallery.Migrations.PackageSortingIndexes", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes.html", null ],
-      [ "NuGetGallery.Migrations.PackageStatistics", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics.html", null ],
-      [ "NuGetGallery.Migrations.PackageVulnerabilityAdvisoryUrlRenameAndRequired", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required.html", null ],
-      [ "NuGetGallery.Migrations.PackagesCreatedDateDefaultValue", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value.html", null ],
-      [ "NuGetGallery.Migrations.PrefixReservation", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation.html", null ],
-      [ "NuGetGallery.Migrations.PrereleaseChanges", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes.html", null ],
-      [ "NuGetGallery.Migrations.RemoveCuratedFeedEntities", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities.html", null ],
-      [ "NuGetGallery.Migrations.RemoveOldCredentialColumns", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns.html", null ],
-      [ "NuGetGallery.Migrations.RemoveOldCredentialColumnsFromUsersTable", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table.html", null ],
-      [ "NuGetGallery.Migrations.RemovePackageEdits", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits.html", null ],
-      [ "NuGetGallery.Migrations.RemovePackageStatistics", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics.html", null ],
-      [ "NuGetGallery.Migrations.RemoveSqlDownloadStatsAggregation", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation.html", null ],
-      [ "NuGetGallery.Migrations.RemoveUserCertificateIsActive", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active.html", null ],
-      [ "NuGetGallery.Migrations.RemoveVulnerabilityDataFromPackageDeprecationModel", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model.html", null ],
-      [ "NuGetGallery.Migrations.RemoveWorkItems", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items.html", null ],
-      [ "NuGetGallery.Migrations.ScopedCredential", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential.html", null ],
-      [ "NuGetGallery.Migrations.SecurityPolicies", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies.html", null ],
-      [ "NuGetGallery.Migrations.SecurityPoliciesFix", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix.html", null ],
-      [ "NuGetGallery.Migrations.SqlResourceMigration", "de/dc8/class_nu_get_gallery_1_1_migrations_1_1_sql_resource_migration.html", [
-        [ "NuGetGallery.Migrations.AddPackageLicenseReport2Sproc", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc.html", null ],
-        [ "NuGetGallery.Migrations.AddPackageLicenseReportSproc", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc.html", null ]
-      ] ],
-      [ "NuGetGallery.Migrations.SupportNewClientHeaders", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers.html", null ],
-      [ "NuGetGallery.Migrations.SymbolPackages", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages.html", null ],
-      [ "NuGetGallery.Migrations.UniquePackageRegistration", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration.html", null ],
-      [ "NuGetGallery.Migrations.UserCreatedDate", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date.html", null ],
-      [ "NuGetGallery.Migrations.UserLookupOptimization", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization.html", null ],
-      [ "NuGetGallery.Migrations.UserSecurityPolicies_SubscriptionColumn", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column.html", null ],
-      [ "NuGetGallery.Migrations.WidenStatisticsOperationColumn", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column.html", null ]
-    ] ],
-    [ "DbMigrationsConfiguration", null, [
-      [ "NuGetGallery.Areas.Admin.SupportRequestMigrationsConfiguration", "da/da1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_migrations_configuration.html", null ],
-      [ "NuGetGallery.Migrations.MigrationsConfiguration", "dc/d72/class_nu_get_gallery_1_1_migrations_1_1_migrations_configuration.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Seeding.DBSeeding", "d7/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_d_b_seeding.html", null ],
     [ "FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html", null ],
     [ "FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitRecord", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_record.html", [
@@ -1388,36 +891,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.DebitNoteType", "d4/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_debit_note_type.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.DebugResponseModel", "de/de9/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_debug_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DeclarationType", "df/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_declaration_type.html", null ],
-    [ "NuGetGallery.App_Start.DefaultDependenciesModuleFacts", "d5/de8/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts.html", null ],
-    [ "DefaultODataBatchHandler", null, [
-      [ "NuGetGallery.OData.ODataServiceVersionHeaderPropagatingBatchHandler", "d9/df5/class_nu_get_gallery_1_1_o_data_1_1_o_data_service_version_header_propagating_batch_handler.html", null ]
-    ] ],
-    [ "DefaultODataPathHandler", null, [
-      [ "NuGetGallery.OData.Routing.CountODataPathHandler", "d6/d71/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_o_data_path_handler.html", null ]
-    ] ],
-    [ "DefaultODataSerializerProvider", null, [
-      [ "NuGetGallery.OData.Serializers.CustomSerializerProvider", "d1/dc2/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_custom_serializer_provider.html", null ]
-    ] ],
-    [ "NuGetGallery.Security.DefaultSubscriptionFacts", "dd/dc2/class_nu_get_gallery_1_1_security_1_1_default_subscription_facts.html", null ],
-    [ "DelegatingHandler", null, [
-      [ "NuGetGallery.Infrastructure.Search.Correlation.CorrelatingHttpClientHandler", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler.html", null ],
-      [ "NuGetGallery.Infrastructure.Search.Correlation.WebApiCorrelationHandler", "d2/dca/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_web_api_correlation_handler.html", null ],
-      [ "NuGetGallery.Infrastructure.TracingHttpHandler", "da/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_tracing_http_handler.html", null ],
-      [ "NuGetGallery.TestUtils.MockHandler", "d5/d38/class_nu_get_gallery_1_1_test_utils_1_1_mock_handler.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.DeleteAccountAsAdminViewModel", "dd/dd1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_as_admin_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.DeleteAccountControllerFacts", "d6/d4d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts.html", null ],
-    [ "NuGetGallery.DeleteAccountListPackageItemViewModelFactory", "d0/dd1/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model_factory.html", null ],
-    [ "NuGetGallery.DeleteAccountRequest", "d9/df1/class_nu_get_gallery_1_1_delete_account_request.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.DeleteAccountSearchResult", "db/dbe/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_search_result.html", null ],
-    [ "NuGetGallery.Services.DeleteAccountServiceFacts", "d5/d2a/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.DeleteAccountStatus", "de/d3c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_status.html", null ],
-    [ "NuGetGallery.Services.DeleteAccountServiceFacts.DeleteAccountTestService", "d7/d54/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.DeleteControllerFacts", "dc/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts.html", null ],
-    [ "NuGetGallery.DeletePackageApiRequest", "db/d4b/class_nu_get_gallery_1_1_delete_package_api_request.html", null ],
-    [ "NuGetGallery.DeletePackagesRequest", "dd/dda/class_nu_get_gallery_1_1_delete_packages_request.html", null ],
-    [ "NuGetGallery.DeletePackageViewModelFactory", "de/de5/class_nu_get_gallery_1_1_delete_package_view_model_factory.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.DeleteSearchResult", "d8/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_search_result.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping.DeliveryNote", "dc/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping_1_1_delivery_note.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.Deliveries.DeliveryNotes.DeliveryNote", "db/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_deliveries_1_1_delivery_notes_1_1_delivery_note.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Shipments.DeliveryNoteMapper", "d6/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_shipments_1_1_delivery_note_mapper.html", null ],
@@ -1426,15 +899,10 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.DeliveryUnitType", "df/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_unit_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Dependencies", "da/d8c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_dependencies.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Dependency", "d5/d62/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_dependency.html", null ],
-    [ "NuGetGallery.DependencySetsViewModel", "d2/dca/class_nu_get_gallery_1_1_dependency_sets_view_model.html", null ],
-    [ "NuGetGallery.ViewModels.DependencySetsViewModelFacts", "dd/d91/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts.html", null ],
-    [ "NuGetGallery.DependencySetsViewModel.DependencyViewModel", "df/d77/class_nu_get_gallery_1_1_dependency_sets_view_model_1_1_dependency_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DependentPriceReferenceType", "d0/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_dependent_price_reference_type.html", null ],
-    [ "NuGetGallery.RequestModels.DeprecatePackageRequest", "d8/da5/class_nu_get_gallery_1_1_request_models_1_1_deprecate_package_request.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DespatchAdviceType", "d1/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_despatch_advice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DespatchLineType", "d0/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_despatch_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DespatchType", "dd/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_despatch_type.html", null ],
-    [ "NuGetGallery.Diagnostics.DiagnosticsServiceFacts", "de/d9a/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts.html", null ],
     [ "Dictionary", null, [
       [ "FenixAlliance.ABM.Data.Interfaces.Services.Localizer< TKey, TValue >", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer.html", null ],
       [ "FenixAlliance.ABP.API.GraphQl.Core.Repos.GraphQLUserContext", "de/da1/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_graph_q_l_user_context.html", null ]
@@ -1445,11 +913,6 @@ var hierarchy =
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.DimResponseModel", "dc/db0/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_dim_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Pricing.DiscountLists.Discounts.Discount", "de/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_discount_lists_1_1_discounts_1_1_discount.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Pricing.DiscountLists.DiscountList", "d6/de3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_discount_lists_1_1_discount_list.html", null ],
-    [ "NuGetGallery.DisplayLicenseViewModelFactory", "dd/dec/class_nu_get_gallery_1_1_display_license_view_model_factory.html", null ],
-    [ "NuGetGallery.ViewModels.DisplayLicenseViewModelFactoryFacts", "d8/de2/class_nu_get_gallery_1_1_view_models_1_1_display_license_view_model_factory_facts.html", null ],
-    [ "NuGetGallery.DisplayPackageRequest", "d3/de3/class_nu_get_gallery_1_1_display_package_request.html", null ],
-    [ "NuGetGallery.DisplayPackageViewModelFactory", "d9/d73/class_nu_get_gallery_1_1_display_package_view_model_factory.html", null ],
-    [ "NuGetGallery.ViewModels.DisplayPackageViewModelFacts", "d9/db2/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts.html", null ],
     [ "FenixAlliance.ABM.Data.Access.Helpers.DnsHelperService", "de/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_dns_helper_service.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.DoctorProfile", "dc/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_doctor_profile.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DocumentationReferencesType", "d4/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_documentation_references_type.html", null ],
@@ -1461,22 +924,14 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Downloadables.DownloadablesOptions", "da/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables_1_1_downloadables_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DSAKeyValueType", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_d_s_a_key_value_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DutyType1", "d1/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_duty_type1.html", null ],
-    [ "NuGetGallery.Areas.Admin.DynamicData.DynamicDataManager", "d7/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_dynamic_data_manager.html", null ],
     [ "DynamicObject", null, [
       [ "FenixAlliance.ABS.Core.Templating.AnonymousTypeWrapper", "de/dec/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_anonymous_type_wrapper.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.EconomicOperatorRoleType", "d2/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_role_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EconomicOperatorShortListType", "db/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_short_list_type.html", null ],
-    [ "GitHubVulnerabilities2Db.GraphQL.Edge< TNode >", "d2/d5b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_edge.html", null ],
-    [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts", "d5/dd7/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts.html", null ],
-    [ "NuGetGallery.EditPackageVersionReadMeRequest", "d1/d10/class_nu_get_gallery_1_1_edit_package_version_read_me_request.html", null ],
-    [ "NuGetGallery.Infrastructure.ElmahExceptionFacts", "db/dd7/class_nu_get_gallery_1_1_infrastructure_1_1_elmah_exception_facts.html", null ],
-    [ "NuGetGallery.AccountDeleter.Facts.EmailBuilderFacts", "d6/d3b/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_email_builder_facts.html", null ],
-    [ "NuGetGallery.AccountDeleter.EmailConfiguration", "db/d51/class_nu_get_gallery_1_1_account_deleter_1_1_email_configuration.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroup", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroupMembership", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Emails.EmailOptions", "d1/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails_1_1_email_options.html", null ],
-    [ "NuGetGallery.EmailValidationRegex", "db/d09/class_nu_get_gallery_1_1_email_validation_regex.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EmissionCalculationMethodType", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_emission_calculation_method_type.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeBenefits.EmployeeBenefit", "d3/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeDegrees.EmployeeDegree", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html", null ],
@@ -1492,7 +947,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.EnergyTaxReportType", "d9/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_energy_tax_report_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EnergyWaterSupplyType", "db/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_energy_water_supply_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Tenants.Enrollment", "de/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_tenants_1_1_enrollment.html", null ],
-    [ "NuGetGallery.Entities.EntitiesContextFacts", "d5/d0a/class_nu_get_gallery_1_1_entities_1_1_entities_context_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Entitlements.Entitlement", "d2/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement.html", [
       [ "FenixAlliance.ABM.Models.Contacts.Entitlements.EntitlementTypes.PriceListEntitlement", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement_types_1_1_price_list_entitlement.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.SupportEntitlements.SupportEntitlement", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement.html", null ],
@@ -1500,64 +954,20 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeBenefits.EmployeeBenefitEntitlement", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Internals.Entities.Entity", "d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_entities_1_1_entity.html", null ],
-    [ "EntityRoutingConvention", null, [
-      [ "NuGetGallery.OData.Conventions.CompositeKeyRoutingConvention", "d8/ddc/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_composite_key_routing_convention.html", null ]
-    ] ],
-    [ "EntitySetRoutingConvention", null, [
-      [ "NuGetGallery.OData.Conventions.EntitySetCountRoutingConvention", "de/d68/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_count_routing_convention.html", null ]
-    ] ],
-    [ "System.Web.DynamicData.EntityTemplateUserControl", null, [
-      [ "NuGetGallery.DefaultEntityTemplate", "d3/d7a/class_nu_get_gallery_1_1_default_entity_template.html", null ],
-      [ "NuGetGallery.Default_EditEntityTemplate", "d0/d75/class_nu_get_gallery_1_1_default___edit_entity_template.html", null ],
-      [ "NuGetGallery.Default_InsertEntityTemplate", "dc/ded/class_nu_get_gallery_1_1_default___insert_entity_template.html", null ]
-    ] ],
-    [ "NuGetGallery.Helpers.EnumHelperFacts", "de/df2/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts.html", null ],
-    [ "NuGetGallery.Auditing.EnumTests", "dd/d19/class_nu_get_gallery_1_1_auditing_1_1_enum_tests.html", [
-      [ "NuGetGallery.Auditing.AuditedAuthenticatedOperationActionTests", "db/d9b/class_nu_get_gallery_1_1_auditing_1_1_audited_authenticated_operation_action_tests.html", null ],
-      [ "NuGetGallery.Auditing.AuditedCertificateActionTests", "d5/d9d/class_nu_get_gallery_1_1_auditing_1_1_audited_certificate_action_tests.html", null ],
-      [ "NuGetGallery.Auditing.AuditedPackageActionTests", "df/d76/class_nu_get_gallery_1_1_auditing_1_1_audited_package_action_tests.html", null ],
-      [ "NuGetGallery.Auditing.AuditedPackageRegistrationActionTests", "d3/de6/class_nu_get_gallery_1_1_auditing_1_1_audited_package_registration_action_tests.html", null ],
-      [ "NuGetGallery.Auditing.AuditedUserActionTests", "d2/d0a/class_nu_get_gallery_1_1_auditing_1_1_audited_user_action_tests.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.EnvironmentalEmissionType", "dc/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_environmental_emission_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.Error", "d5/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_error.html", null ],
-    [ "ErrorLog", null, [
-      [ "NuGetGallery.Infrastructure.TableErrorLog", "d5/dce/class_nu_get_gallery_1_1_infrastructure_1_1_table_error_log.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.ErrorViewModel", "d3/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_error_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ErrorViewModel", "df/dd1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_error_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EvaluationCriterionType", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_evaluation_criterion_type.html", null ],
-    [ "NuGetGallery.AccountDeleter.Facts.EvaluatorFacts", "db/d09/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_evaluator_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EventCommentType", "d5/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_comment_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EventLineItemType", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_line_item_type.html", null ],
-    [ "NuGetGallery.TelemetryService.Events", "da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EventTacticEnumerationType", "dd/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_tactic_enumeration_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EventTacticType", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_tactic_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EventType", "df/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EvidenceSuppliedType", "df/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_evidence_supplied_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EvidenceType", "d3/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_evidence_type.html", null ],
-    [ "Exception", null, [
-      [ "NuGet.Services.Entities.EntityException", "d4/d6f/class_nu_get_1_1_services_1_1_entities_1_1_entity_exception.html", null ],
-      [ "NuGetGallery.AccountDeleter.UnknownEvaluatorException", "d1/d5e/class_nu_get_gallery_1_1_account_deleter_1_1_unknown_evaluator_exception.html", null ],
-      [ "NuGetGallery.AccountDeleter.UnknownSourceException", "d8/dbf/class_nu_get_gallery_1_1_account_deleter_1_1_unknown_source_exception.html", null ],
-      [ "NuGetGallery.AccountDeleter.UserNotFoundException", "dc/d66/class_nu_get_gallery_1_1_account_deleter_1_1_user_not_found_exception.html", null ],
-      [ "NuGetGallery.ApiControllerFacts.SymbolsTestException", "dd/d42/class_nu_get_gallery_1_1_api_controller_facts_1_1_symbols_test_exception.html", null ],
-      [ "NuGetGallery.AppActivatorException", "dc/d9d/class_nu_get_gallery_1_1_app_activator_exception.html", null ],
-      [ "NuGetGallery.Authentication.FeedOnlyModeException", "d5/dba/class_nu_get_gallery_1_1_authentication_1_1_feed_only_mode_exception.html", null ],
-      [ "NuGetGallery.ElmahException", "dc/d73/class_nu_get_gallery_1_1_elmah_exception.html", null ],
-      [ "NuGetGallery.FileAlreadyExistsException", "d3/de1/class_nu_get_gallery_1_1_file_already_exists_exception.html", null ],
-      [ "NuGetGallery.PackageAlreadyExistsException", "d4/d9b/class_nu_get_gallery_1_1_package_already_exists_exception.html", null ],
-      [ "NuGetGallery.Packaging.InvalidPackageException", "d5/d55/class_nu_get_gallery_1_1_packaging_1_1_invalid_package_exception.html", null ],
-      [ "NuGetGallery.ReadOnlyModeException", "d8/dc4/class_nu_get_gallery_1_1_read_only_mode_exception.html", null ],
-      [ "NuGetGallery.StatisticsReportNotFoundException", "dd/d67/class_nu_get_gallery_1_1_statistics_report_not_found_exception.html", null ],
-      [ "NuGetGallery.TestableStorageClientException", "d4/d51/class_nu_get_gallery_1_1_testable_storage_client_exception.html", null ],
-      [ "NuGetGallery.UserSafeException", "d7/d13/class_nu_get_gallery_1_1_user_safe_exception.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ExceptionCriteriaLineType", "da/d8c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exception_criteria_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ExceptionCriteriaType", "d6/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exception_criteria_type.html", null ],
-    [ "ExceptionLogger", null, [
-      [ "NuGetGallery.QuietExceptionLogger", "d5/dcd/class_nu_get_gallery_1_1_quiet_exception_logger.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ExceptionNotificationLineType", "d4/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exception_notification_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ExceptionNotificationType", "da/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exception_notification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ExchangeRateType", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exchange_rate_type.html", null ],
@@ -1570,149 +980,15 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Expenses.ExpenseMapper", "d0/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_expenses_1_1_expense_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Expenses.ExpenseTypes.ExpenseType", "db/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types_1_1_expense_type.html", null ],
-    [ "NuGetGallery.Controllers.ExperimentsControllerFacts", "d3/d7d/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts.html", null ],
-    [ "ExpressionVisitor", null, [
-      [ "NuGetGallery.OData.QueryInterceptors.CountInterceptor", "de/d42/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_count_interceptor.html", null ],
-      [ "NuGetGallery.OData.QueryInterceptors.DisregardODataInterceptor", "d8/d0f/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_disregard_o_data_interceptor.html", null ],
-      [ "NuGetGallery.OData.QueryInterceptors.NormalizeVersionInterceptor", "d5/d04/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_normalize_version_interceptor.html", null ],
-      [ "NuGetGallery.OData.QueryInterceptors.ODataRemoveSorter", "df/df5/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_o_data_remove_sorter.html", null ]
-    ] ],
-    [ "NuGetGallery.ExtensionMethodsFacts", "d6/d1d/class_nu_get_gallery_1_1_extension_methods_facts.html", null ],
-    [ "NuGetGallery.Authentication.NuGetClaims.ExternalLoginCredentialValues", "d8/d7f/class_nu_get_gallery_1_1_authentication_1_1_nu_get_claims_1_1_external_login_credential_values.html", null ],
-    [ "NuGetGallery.Authentication.ExternalLoginSessionDetails", "d8/d7a/class_nu_get_gallery_1_1_authentication_1_1_external_login_session_details.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.ExternalLoginsViewModel", "d6/da6/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_external_logins_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.ExternalLoginViewModel", "d3/d06/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_external_login_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ExternalReferenceType", "d5/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_external_reference_type.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.ExternalSearchServiceFacts", "df/dc1/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts.html", null ],
-    [ "NuGetGallery.Services.CoreLicenseFileServiceFacts.ExtractAndSaveLicenseFileAsync", "d4/dc7/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_extract_and_save_license_file_async.html", null ],
-    [ "NuGetGallery.Services.CoreReadmeFileServiceFacts.ExtractAndSaveReadmeFileAsyncMethod", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html", null ],
-    [ "FactAttribute", null, [
-      [ "NuGetGallery.BlobStorageFact", "d9/d65/class_nu_get_gallery_1_1_blob_storage_fact.html", null ],
-      [ "NuGetGallery.FunctionalTests.XunitExtensions.DefaultSecurityPoliciesEnforcedFactAttribute", "db/d51/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_fact_attribute.html", null ],
-      [ "NuGetGallery.FunctionalTests.XunitExtensions.PackageLockFactAttribute", "dd/da5/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_package_lock_fact_attribute.html", null ],
-      [ "NuGetGallery.FunctionalTests.XunitExtensions.TyposquattingTestFactAttribute", "d1/d3a/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_typosquatting_test_fact_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageIdsQueryFacts.FactBase", "dc/d7e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_fact_base.html", [
-      [ "NuGetGallery.Queries.AutocompleteDatabasePackageIdsQueryFacts.Execute", "db/d6a/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_execute.html", null ]
-    ] ],
-    [ "NuGetGallery.Queries.AutocompleteDatabasePackageVersionsQueryFacts.FactBase", "de/d4e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_fact_base.html", [
-      [ "NuGetGallery.Queries.AutocompleteDatabasePackageVersionsQueryFacts.Execute", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html", null ]
-    ] ],
-    [ "NuGetGallery.ABTestEnrollmentFactoryFacts.Facts", "da/d93/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_facts.html", [
-      [ "NuGetGallery.ABTestEnrollmentFactoryFacts.Deserialize", "d9/d43/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_deserialize.html", null ],
-      [ "NuGetGallery.ABTestEnrollmentFactoryFacts.Initialize", "dc/d30/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_initialize.html", null ],
-      [ "NuGetGallery.ABTestEnrollmentFactoryFacts.Serialize", "d9/d12/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_serialize.html", null ]
-    ] ],
-    [ "NuGetGallery.CookieBasedABTestServiceFacts.Facts", "dd/d51/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_facts.html", [
-      [ "NuGetGallery.CookieBasedABTestServiceFacts.BaseSerializationFacts", "d1/d7a/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_base_serialization_facts.html", [
-        [ "NuGetGallery.CookieBasedABTestServiceFacts.IsPreviewSearchEnabled", "d4/d6c/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_is_preview_search_enabled.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.ODataCacheOutputAttributeFacts.Facts", "d6/dbb/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_facts.html", [
-      [ "NuGetGallery.ODataCacheOutputAttributeFacts.OnActionExecutedAsync", "de/d06/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_on_action_executed_async.html", null ]
-    ] ],
-    [ "NuGetGallery.SearchAdaptorFacts.Facts", "d1/d2f/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_facts.html", [
-      [ "NuGetGallery.SearchAdaptorFacts.TheFindByIdAndVersionCoreMethod", "d7/d7b/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_find_by_id_and_version_core_method.html", null ],
-      [ "NuGetGallery.SearchAdaptorFacts.TheSearchCoreMethod", "db/d47/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_search_core_method.html", null ]
-    ] ],
-    [ "NuGetGallery.SearchSideBySideServiceFacts.Facts", "df/d56/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_facts.html", [
-      [ "NuGetGallery.SearchSideBySideServiceFacts.RecordFeedbackAsync", "d6/de0/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_record_feedback_async.html", null ],
-      [ "NuGetGallery.SearchSideBySideServiceFacts.SearchAsync", "d2/dd5/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_search_async.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.Services.RevalidationAdminServiceFacts.FactsBase", "d0/dbf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.Areas.Admin.Services.RevalidationAdminServiceFacts.TheGetStatisticsAsyncMethod", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.FactsBase", "d8/d51/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.TheGetPackageDeletedStatusMethod", "df/d14/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the34f21e1494e5cf40c504bdcff6d3261b.html", null ],
-      [ "NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.TheGetSymbolsPackageDeletedStatusMethod", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html", null ],
-      [ "NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts.TheSearchMethod", "d1/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the_search_method.html", null ]
-    ] ],
-    [ "NuGetGallery.AsynchronousPackageValidationInitiatorFacts.FactsBase", "d3/dcf/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.AsynchronousPackageValidationInitiatorFacts.TheStartSymbolsPackageValidationAsyncMethod", "da/dfb/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_symbols_package_validation_async_method.html", null ],
-      [ "NuGetGallery.AsynchronousPackageValidationInitiatorFacts.TheStartValidationAsyncMethod", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html", null ]
-    ] ],
-    [ "NuGetGallery.CorePackageFileServiceFacts.FactsBase", "d8/da0/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheDeletePackageFileMethod", "d6/d8b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_package_file_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheDeleteValidationPackageFileMethod", "d0/d54/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_validation_package_file_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheDoesPackageFileExistMethod", "da/d36/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_package_file_exist_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheDoesValidationPackageFileExistMethod", "dc/dfd/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_validation_package_file_exist_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheDownloadValidationPackageFileMethod", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheGetPackageReadUriMethod", "d9/d7e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_package_read_uri_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheGetValidationPackageReadUriAsyncMethod", "d9/d1b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_validation_package_read_uri_async_method.html", null ],
-      [ "NuGetGallery.CorePackageFileServiceFacts.TheSaveValidationPackageFileMethod", "d5/da8/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_validation_package_file_method.html", null ]
-    ] ],
-    [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts.FactsBase", "dc/d4f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts.GetAsync", "d3/d2d/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_async.html", null ],
-      [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts.GetReferenceAsync", "d9/d59/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_reference_async.html", null ],
-      [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts.TryRemoveUserAsync", "d7/dfe/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_remove_user_async.html", null ],
-      [ "NuGetGallery.Features.EditableFeatureFlagFileStorageServiceFacts.TrySaveAsync", "d2/d6f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_save_async.html", null ]
-    ] ],
-    [ "NuGetGallery.PackageMetadataValidationServiceFacts.FactsBase", "d7/dd8/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.PackageMetadataValidationServiceFacts.TheValidateAfterGeneratePackageMethod", "de/d42/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_after_generate_package_method.html", null ],
-      [ "NuGetGallery.PackageMetadataValidationServiceFacts.TheValidateMetadataBeforeUploadAsync", "d4/d17/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_metadata_before_upload_async.html", null ]
-    ] ],
-    [ "NuGetGallery.PackageUploadServiceFacts.FactsBase", "d1/dd3/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.PackageUploadServiceFacts.TheCommitPackageMethod", "d8/df1/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_commit_package_method.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.JsonStatisticsServiceFacts.FactsBase", "d8/df0/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.Services.JsonStatisticsServiceFacts.TheRefreshMethod", "d1/d75/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_the_refresh_method.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.RevalidationStateServiceFacts.FactsBase", "d3/d7c/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.Services.RevalidationStateServiceFacts.TheGetStateAsyncMethod", "df/dd3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_get_state_async_method.html", null ],
-      [ "NuGetGallery.Services.RevalidationStateServiceFacts.TheMaybeUpdateStateAsyncMethod", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html", null ],
-      [ "NuGetGallery.Services.RevalidationStateServiceFacts.TheUpdateStateAsyncMethod", "dd/d6a/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_update_state_async_method.html", null ]
-    ] ],
-    [ "NuGetGallery.ValidationServiceFacts.FactsBase", "df/d04/class_nu_get_gallery_1_1_validation_service_facts_1_1_facts_base.html", [
-      [ "NuGetGallery.ValidationServiceFacts.TheGetLatestValidationIssuesMethod", "dd/d43/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_get_latest_validation_issues_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheIsValidatingTooLongMethod", "d8/dda/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_is_validating_too_long_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheRevalidateMethod", "d0/d72/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_revalidate_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheStartSymbolsPackageValidationAsyncMethod", "da/de0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_symbols_package_validation_async_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheStartValidationMethod", "d3/dde/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_validation_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheUpdatePackageAsyncMethod", "da/db0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_package_async_method.html", null ],
-      [ "NuGetGallery.ValidationServiceFacts.TheUpdateSymbolPackageAsyncMethod", "d7/d26/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_symbol_package_async_method.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.FailedAuthenticatedOperationAuditRecordTests", "d8/d7e/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record_tests.html", null ],
-    [ "NuGetGallery.Framework.Fakes", "d7/da4/class_nu_get_gallery_1_1_framework_1_1_fakes.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.MarkdownMessageBuilderFacts.Fakes", "dc/d3d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts_1_1_fakes.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Favicons.Favicons", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons.html", null ],
-    [ "NuGetGallery.Configuration.FeatureConfiguration", "d6/d4d/class_nu_get_gallery_1_1_configuration_1_1_feature_configuration.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Others.FeaturedImageRollover.FeaturedImageRolloverOptions", "dd/d87/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_others_1_1_feeb767d84d08f8cb7ec548e9b534e069.html", null ],
-    [ "NuGetGallery.Features.FeatureFlagClientExtensionsFacts", "d4/d65/class_nu_get_gallery_1_1_features_1_1_feature_flag_client_extensions_facts.html", null ],
-    [ "NuGetGallery.Features.FeatureFlagReference", "d0/d55/class_nu_get_gallery_1_1_features_1_1_feature_flag_reference.html", null ],
-    [ "NuGetGallery.FeatureFlagServiceFacts", "dc/da7/class_nu_get_gallery_1_1_feature_flag_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.FeatureFlagsViewModel", "d6/d58/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_view_model.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Features.FeatureOptions", "d5/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_feature_options.html", null ],
-    [ "NuGetGallery.Controllers.FeaturesControllerFacts", "d7/d37/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts.html", null ],
     [ "FenixAlliance.ABP.Hub.Features.FeaturesViewModel", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model.html", null ],
-    [ "NuGetGallery.FeedServiceFacts", "d3/dd9/class_nu_get_gallery_1_1_feed_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.FieldAgentProfile", "db/dc1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_field_agent_profile.html", null ],
-    [ "FieldTemplateUserControl", null, [
-      [ "NuGetGallery.ManyToMany_EditField", "df/d22/class_nu_get_gallery_1_1_many_to_many___edit_field.html", null ]
-    ] ],
-    [ "System.Web.DynamicData.FieldTemplateUserControl", null, [
-      [ "NuGetGallery.BooleanField", "dd/db0/class_nu_get_gallery_1_1_boolean_field.html", null ],
-      [ "NuGetGallery.Boolean_EditField", "d8/d24/class_nu_get_gallery_1_1_boolean___edit_field.html", null ],
-      [ "NuGetGallery.ChildrenField", "d5/d91/class_nu_get_gallery_1_1_children_field.html", null ],
-      [ "NuGetGallery.Children_InsertField", "df/d8c/class_nu_get_gallery_1_1_children___insert_field.html", null ],
-      [ "NuGetGallery.DateTimeField", "dd/d91/class_nu_get_gallery_1_1_date_time_field.html", null ],
-      [ "NuGetGallery.DateTime_EditField", "de/dcb/class_nu_get_gallery_1_1_date_time___edit_field.html", null ],
-      [ "NuGetGallery.Decimal_EditField", "df/db3/class_nu_get_gallery_1_1_decimal___edit_field.html", null ],
-      [ "NuGetGallery.EmailAddressField", "db/dc2/class_nu_get_gallery_1_1_email_address_field.html", null ],
-      [ "NuGetGallery.EnumerationField", "d2/dcb/class_nu_get_gallery_1_1_enumeration_field.html", null ],
-      [ "NuGetGallery.Enumeration_EditField", "d6/de2/class_nu_get_gallery_1_1_enumeration___edit_field.html", null ],
-      [ "NuGetGallery.ForeignKeyField", "d3/d7b/class_nu_get_gallery_1_1_foreign_key_field.html", null ],
-      [ "NuGetGallery.ForeignKey_EditField", "df/df3/class_nu_get_gallery_1_1_foreign_key___edit_field.html", null ],
-      [ "NuGetGallery.Integer_EditField", "d4/d24/class_nu_get_gallery_1_1_integer___edit_field.html", null ],
-      [ "NuGetGallery.ManyToManyField", "d2/d63/class_nu_get_gallery_1_1_many_to_many_field.html", null ],
-      [ "NuGetGallery.MultilineText_EditField", "d8/d34/class_nu_get_gallery_1_1_multiline_text___edit_field.html", null ],
-      [ "NuGetGallery.TextField", "dd/d5a/class_nu_get_gallery_1_1_text_field.html", null ],
-      [ "NuGetGallery.Text_EditField", "d3/d09/class_nu_get_gallery_1_1_text___edit_field.html", null ],
-      [ "NuGetGallery.UrlField", "db/d92/class_nu_get_gallery_1_1_url_field.html", null ],
-      [ "NuGetGallery.Url_EditField", "d8/de0/class_nu_get_gallery_1_1_url___edit_field.html", null ]
-    ] ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Files.Files", "dc/d96/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_files.html", null ],
-    [ "NuGetGallery.Auditing.FileSystemAuditingServiceTests", "d9/dc2/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service_tests.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts", "d2/d8f/class_nu_get_gallery_1_1_file_system_file_storage_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Attachments.FileUpload", "d9/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_attachments_1_1_file_upload.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workplace.FileUploads.FileUpload", "d4/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workplace_1_1_file_uploads_1_1_file_upload.html", null ],
     [ "FenixAlliance.ABM.Models.Workplace.FileUploads.FileUpload", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html", [
@@ -1735,12 +1011,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.BusinessTeams.BusinessTeamResources.BusinessTeamFile", "d1/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_f5f5528aaf291ca07bddce6dd228f391.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Workplace.FileUploads.FileUploadMapper", "dc/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workplace_1_1_file_uploads_1_1_file_upload_mapper.html", null ],
-    [ "NuGetGallery.Services.FileUriPermissionsFacts", "dc/d4e/class_nu_get_gallery_1_1_services_1_1_file_uri_permissions_facts.html", null ],
-    [ "FilterAttribute", null, [
-      [ "NuGetGallery.Infrastructure.AntiForgeryErrorFilter", "da/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_anti_forgery_error_filter.html", null ],
-      [ "NuGetGallery.Infrastructure.RequestValidationExceptionFilter", "d6/ded/class_nu_get_gallery_1_1_infrastructure_1_1_request_validation_exception_filter.html", null ],
-      [ "NuGetGallery.Infrastructure.UserDeletedErrorFilter", "d8/dfe/class_nu_get_gallery_1_1_infrastructure_1_1_user_deleted_error_filter.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.FinancialAccountType", "dd/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_financial_account_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.FinancialBooks.FinancialBook", "d4/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_financial_books_1_1_financial_book.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.FinancialBooks.FinancialBook", "d4/d69/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_financial_books_1_1_financial_book.html", null ],
@@ -1763,8 +1033,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.FiscalYears.Records.FiscalYearRecord", "d9/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal_year_record.html", [
       [ "FenixAlliance.ABM.Models.Accounting.FiscalYears.Records.FiscalYearRecordScopes.ContactFiscalYearRecord", "d0/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal818c1c984d3377b94c4d3e21ceba0596.html", null ]
     ] ],
-    [ "NuGetGallery.FunctionalTests.WebPages.FluentLinkChecker", "de/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_fluent_link_checker.html", null ],
-    [ "NuGetGallery.Services.FolderNamesDataAttributeFacts", "d6/d5b/class_nu_get_gallery_1_1_services_1_1_folder_names_data_attribute_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.FollowRecord", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_follow_record.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Follows.FollowRecord", "d1/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_follows_1_1_follow_record.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Social.FollowRecordBinder", "d2/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_social_1_1_follow_record_binder.html", null ],
@@ -1779,13 +1047,10 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Internals.Relations.ForeignKey", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_relations_1_1_foreign_key.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies.ForexRates", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_currencies_1_1_forex_rates.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.ForgotPasswordViewModel", "da/d92/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_forgot_password_view_model.html", null ],
-    [ "NuGetGallery.ForgotPasswordViewModel", "dd/d8f/class_nu_get_gallery_1_1_forgot_password_view_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Controllers.FormData", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Forms.FormOptions", "d5/da8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_form_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Content.Forums.Forum", "d6/d69/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_forums_1_1_forum.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Forum.ForumOptions", "df/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum_1_1_forum_options.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheODataResponses.ForV1", "db/d92/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v1.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheODataResponses.ForV2", "da/d22/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v2.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ForwardingInstructionsType", "d8/d65/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forwarding_instructions_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.FrameworkAgreementType", "d0/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_framework_agreement_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.FrameworkAssemblies", "d8/db9/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_assemblies.html", null ],
@@ -1795,29 +1060,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.FreightInvoiceType", "df/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_freight_invoice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.FulfilmentCancellationType", "df/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fulfilment_cancellation_type.html", null ],
     [ "FenixAlliance.ABP.FileSystem.FullPath", "db/d90/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_full_path.html", null ],
-    [ "NuGetGallery.GalleryCloudBlobContainerInformationProviderFacts", "d2/d38/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.GalleryConfiguration", "df/d29/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration.html", null ],
-    [ "NuGetGallery.GalleryHomeViewModel", "d8/d64/class_nu_get_gallery_1_1_gallery_home_view_model.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.GallerySearchServiceFacts", "d3/d9c/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.GalleryTestBase", "d6/d22/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_base.html", [
-      [ "NuGetGallery.FunctionalTests.AtomFeed.AtomFeedTests", "da/d48/class_nu_get_gallery_1_1_functional_tests_1_1_atom_feed_1_1_atom_feed_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.Commandline.NuGetCoreTests", "dc/da5/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nu_get_core_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.Commandline.NugetCommandLineTests", "d7/d15/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nuget_command_line_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.DistIntegrationTests", "d7/dde/class_nu_get_gallery_1_1_functional_tests_1_1_dist_integration_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.ErrorHandling.ErrorHandlingTests", "d6/dfb/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_error_handling_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.License.LicenseTests", "dd/d0c/class_nu_get_gallery_1_1_functional_tests_1_1_license_1_1_license_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.ODataFeeds.CuratedFeedTest", "d8/d03/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_curated_feed_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.ODataFeeds.SearchTest", "db/d4c/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_search_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.ODataFeeds.V2FeedExtendedTests", "df/d5f/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_extended_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.ODataFeeds.V2FeedTests", "db/d70/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.PackageCreation.ApiPushTests", "d2/d85/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_api_push_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.PackageCreation.SecurityPolicyTests", "dd/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_security_policy_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.PackageRetrieval.LatestTests", "d1/dc9/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_latest_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.PackageRetrieval.PackageListTests", "dc/d33/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_package_list_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.ProfileTests", "db/d65/class_nu_get_gallery_1_1_functional_tests_1_1_profile_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.StaticAssets.StaticAssetsTests", "dc/db6/class_nu_get_gallery_1_1_functional_tests_1_1_static_assets_1_1_static_assets_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.TyposquattingCheck.TyposquattingCheckForUploadPackageTests", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Global.Options.GenericOption", "d1/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_generic_option.html", [
       [ "FenixAlliance.ABM.Models.Global.Options.Scopes.AccountHolderOption", "d4/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_account_holder_option.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Options.Scopes.BusinessApplicationOption", "de/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_application_option.html", null ],
@@ -1827,12 +1069,7 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.UBL.OtherTimeStampType", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_other_time_stamp_type.html", null ],
       [ "FenixAlliance.ABM.Models.UBL.XAdESTimeStampType", "d5/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_ad_e_s_time_stamp_type.html", null ]
     ] ],
-    [ "NuGetGallery.Services.CloudBlobClientWrapperFacts.GetBlobFromUri", "d7/de1/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts_1_1_get_blob_from_uri.html", null ],
-    [ "NuGetGallery.MarkdownServiceFacts.GetReadMeHtmlMethod", "d5/de3/class_nu_get_gallery_1_1_markdown_service_facts_1_1_get_read_me_html_method.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.GetResponseModel", "d6/d0e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_get_response_model.html", null ],
-    [ "NuGetGallery.GitHubUsageConfigurationFacts", "d8/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts.html", null ],
-    [ "GitHubVulnerabilities2Db.Facts.GitHubVersionRangeParserFacts", "d2/d16/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_git_hub_version_range_parser_facts.html", null ],
-    [ "GitHubVulnerabilities2Db.Configuration.GitHubVulnerabilities2DbConfiguration", "d0/d28/class_git_hub_vulnerabilities2_db_1_1_configuration_1_1_git_hub_vulnerabilities2_db_configuration.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemContainerType", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_container_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemItineraryType", "d5/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_itinerary_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemType", "d3/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_type.html", null ],
@@ -1845,62 +1082,21 @@ var hierarchy =
     [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQLRequest", "d9/d82/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_q_l_request.html", null ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.GraphQLRequest", "db/d26/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_graph_q_l_request.html", null ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.Settings.GraphQlSettings", "d1/d70/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_settings_1_1_graph_ql_settings.html", null ],
-    [ "NuGetGallery.GravatarProxyResult", "d7/dfb/class_nu_get_gallery_1_1_gravatar_proxy_result.html", null ],
-    [ "NuGetGallery.GravatarProxyServiceFacts", "d2/dbe/class_nu_get_gallery_1_1_gravatar_proxy_service_facts.html", null ],
     [ "Greeter.GreeterBase", null, [
       [ "FenixAlliance.ABP.API.gRPC.Services.GreeterService", "da/df6/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_services_1_1_greeter_service.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Grid.GridOptions", "d8/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_grid_1_1_grid_options.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Group", "d7/d2e/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_group.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GuaranteeCertificateType", "da/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_guarantee_certificate_type.html", null ],
-    [ "HandleErrorAttribute", null, [
-      [ "NuGetGallery.Diagnostics.ElmahHandleErrorAttribute", "d3/d19/class_nu_get_gallery_1_1_diagnostics_1_1_elmah_handle_error_attribute.html", [
-        [ "NuGetGallery.Diagnostics.SendErrorsToTelemetryAttribute", "df/d30/class_nu_get_gallery_1_1_diagnostics_1_1_send_errors_to_telemetry_attribute.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.HandleOrganizationMembershipRequestModel", "d4/d43/class_nu_get_gallery_1_1_handle_organization_membership_request_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.HardDeleteReflowBulkRequest", "d4/d3b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.HardDeleteReflowBulkRequestConfirmation", "d5/d3d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request_confirmation.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.HardDeleteReflowRequest", "d3/d32/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_request.html", null ],
-    [ "NuGetGallery.Helpers.ValidationHelperFacts.HasDuplicatedEntriesMethod", "d2/de9/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts_1_1_has_duplicated_entries_method.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.HazardousGoodsTransitType", "df/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_goods_transit_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.HazardousItemType", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Header.HeaderOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_header_1_1_header_options.html", null ],
-    [ "NuGetGallery.FunctionalTests.HelperBase", "d7/df6/class_nu_get_gallery_1_1_functional_tests_1_1_helper_base.html", [
-      [ "NuGetGallery.FunctionalTests.ClientSdkHelper", "d2/d44/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper.html", null ],
-      [ "NuGetGallery.FunctionalTests.CommandlineHelper", "dc/d25/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper.html", null ],
-      [ "NuGetGallery.FunctionalTests.NuspecHelper", "d5/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_nuspec_helper.html", null ],
-      [ "NuGetGallery.FunctionalTests.ODataHelper", "d2/da5/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_helper.html", null ],
-      [ "NuGetGallery.FunctionalTests.PackageCreationHelper", "d8/d1c/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_helper.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.HelperFacts", "d0/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts.html", null ],
-    [ "NuGetGallery.OData.HijackableQueryParameters", "d3/d86/class_nu_get_gallery_1_1_o_data_1_1_hijackable_query_parameters.html", null ],
-    [ "NuGetGallery.Infrastructure.HijackSearchServiceFactoryFacts", "d1/d37/class_nu_get_gallery_1_1_infrastructure_1_1_hijack_search_service_factory_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Holders.Holder", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Holders.HolderBinder", "d8/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders_1_1_holder_binder.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.Holidays.Holiday", "d9/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holidays_1_1_holiday.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.HolidaySchedule", "d0/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holiday_schedule.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.HolidayScheduleRegistrations.HolidayScheduleRecord", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.HomeViewModel", "d3/db2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_home_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Cloud.Hosting.Servers.HostingServerMapper", "de/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_mapper.html", null ],
-    [ "NuGetGallery.Helpers.HtmlExtensionsFacts", "dc/dfe/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts.html", null ],
-    [ "NuGetGallery.HttpContextBaseExtensionsFacts", "d9/ddf/class_nu_get_gallery_1_1_http_context_base_extensions_facts.html", null ],
-    [ "HttpException", null, [
-      [ "NuGetGallery.CurrentUserDeletedException", "d2/d2f/class_nu_get_gallery_1_1_current_user_deleted_exception.html", null ]
-    ] ],
-    [ "HttpMessageHandler", null, [
-      [ "NuGetGallery.SearchClient.CorrelatingHttpClientHandlerFacts.TestHandler", "d3/dbb/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts_1_1_test_handler.html", null ]
-    ] ],
-    [ "HttpStatusCodeResult", null, [
-      [ "NuGetGallery.HttpStatusCodeWithBodyResult", "dd/d0f/class_nu_get_gallery_1_1_http_status_code_with_body_result.html", null ],
-      [ "NuGetGallery.HttpStatusCodeWithHeadersResult", "d9/db8/class_nu_get_gallery_1_1_http_status_code_with_headers_result.html", null ],
-      [ "NuGetGallery.HttpStatusCodeWithServerWarningResult", "d4/d92/class_nu_get_gallery_1_1_http_status_code_with_server_warning_result.html", null ]
-    ] ],
-    [ "NuGetGallery.HttpStatusCodeWithBodyResultFacts", "de/d44/class_nu_get_gallery_1_1_http_status_code_with_body_result_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.Security.HttpToHttpsRedirectTests", "d9/d7e/class_nu_get_gallery_1_1_functional_tests_1_1_security_1_1_http_to_https_redirect_tests.html", null ],
-    [ "HttpUnauthorizedResult", null, [
-      [ "NuGetGallery.ChallengeResult", "de/d78/class_nu_get_gallery_1_1_challenge_result.html", null ]
-    ] ],
     [ "Hub", null, [
       [ "FenixAlliance.ABP.SignalR.ChatHUB", "d3/d47/class_fenix_alliance_1_1_a_b_p_1_1_signal_r_1_1_chat_h_u_b.html", null ]
     ] ],
@@ -1910,59 +1106,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAADGraphService", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.AADGraphService", "da/d32/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_a_a_d_graph_service.html", null ]
     ] ],
-    [ "NuGetGallery.Services.IABTestConfiguration", "d3/da9/interface_nu_get_gallery_1_1_services_1_1_i_a_b_test_configuration.html", [
-      [ "NuGetGallery.Services.ABTestConfiguration", "de/da9/class_nu_get_gallery_1_1_services_1_1_a_b_test_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.IABTestEnrollmentFactory", "da/dbc/interface_nu_get_gallery_1_1_i_a_b_test_enrollment_factory.html", [
-      [ "NuGetGallery.ABTestEnrollmentFactory", "da/d21/class_nu_get_gallery_1_1_a_b_test_enrollment_factory.html", null ]
-    ] ],
-    [ "NuGetGallery.IABTestService", "d2/d24/interface_nu_get_gallery_1_1_i_a_b_test_service.html", [
-      [ "NuGetGallery.CookieBasedABTestService", "d4/da2/class_nu_get_gallery_1_1_cookie_based_a_b_test_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IAccessCondition", "d3/dfb/interface_nu_get_gallery_1_1_i_access_condition.html", [
-      [ "NuGetGallery.AccessConditionWrapper", "d5/d05/class_nu_get_gallery_1_1_access_condition_wrapper.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountDeleter.IAccountDeleteTelemetryService", "db/dcc/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_delete_telemetry_service.html", [
-      [ "NuGetGallery.AccountDeleter.AccountDeleteTelemetryService", "d1/d43/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_telemetry_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html", null ],
-    [ "NuGetGallery.AccountDeleter.IAccountManager", "d8/d3d/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_manager.html", [
-      [ "NuGetGallery.AccountDeleter.GalleryAccountManager", "d8/d18/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_account_manager.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Access.Helpers.IAccountOAuthHelpers", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IAccountUsersHelpers", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.AccountUsersHelpers", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Helpers.HolderHelpers", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_holder_helpers.html", null ]
-    ] ],
-    [ "IActionRequiringEntityPermissions", null, [
-      [ "NuGetGallery.IActionRequiringEntityPermissions< TEntity >", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html", [
-        [ "NuGetGallery.ActionRequiringEntityPermissions< TEntity >", "da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.IActionRequiringEntityPermissions< ActionOnNewPackageContext >", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html", [
-      [ "NuGetGallery.ActionRequiringReservedNamespacePermissions", "d0/d63/class_nu_get_gallery_1_1_action_requiring_reserved_namespace_permissions.html", null ]
-    ] ],
-    [ "NuGetGallery.IActionRequiringEntityPermissions< Package >", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html", [
-      [ "NuGetGallery.ActionRequiringPackagePermissions", "d0/d42/class_nu_get_gallery_1_1_action_requiring_package_permissions.html", null ]
-    ] ],
-    [ "NuGetGallery.IActionRequiringEntityPermissions< ReservedNamespace >", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html", [
-      [ "NuGetGallery.ActionRequiringReservedNamespacePermissions", "d0/d63/class_nu_get_gallery_1_1_action_requiring_reserved_namespace_permissions.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.Collector.IAdvisoryCollector", "dd/d1c/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_collector.html", [
-      [ "GitHubVulnerabilities2Db.Collector.AdvisoryCollector", "dc/d82/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_collector.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.Ingest.IAdvisoryIngestor", "d9/dd6/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_advisory_ingestor.html", [
-      [ "GitHubVulnerabilities2Db.Ingest.AdvisoryIngestor", "d4/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_advisory_ingestor.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.Collector.IAdvisoryQueryBuilder", "d2/d9f/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_builder.html", [
-      [ "GitHubVulnerabilities2Db.Collector.AdvisoryQueryBuilder", "d7/d52/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_builder.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.Collector.IAdvisoryQueryService", "da/d30/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_service.html", [
-      [ "GitHubVulnerabilities2Db.Collector.AdvisoryQueryService", "de/df0/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IAggregateStatsService", "d0/d80/interface_nu_get_gallery_1_1_i_aggregate_stats_service.html", [
-      [ "NuGetGallery.JsonAggregateStatsService", "d6/d4e/class_nu_get_gallery_1_1_json_aggregate_stats_service.html", null ],
-      [ "NuGetGallery.SqlAggregateStatsService", "de/dbe/class_nu_get_gallery_1_1_sql_aggregate_stats_service.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ACL.IAllianceCoreLibrariesOptions", "d1/d15/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_alliance_core_libraries_options.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ACL.AllianceCoreLibrariesOptions", "dc/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_alliance_core_libraries_options.html", null ]
@@ -1974,9 +1122,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Access.Helpers.IApiAuthorizationHelpers", "df/de7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.ApiAuthorizationHelpers", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers.html", null ]
     ] ],
-    [ "NuGetGallery.Authentication.IApiScopeEvaluator", "df/d30/interface_nu_get_gallery_1_1_authentication_1_1_i_api_scope_evaluator.html", [
-      [ "NuGetGallery.Authentication.ApiScopeEvaluator", "d9/d75/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAssetsService", "dc/d49/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assets_service.html", null ],
     [ "IAsyncDisposable", null, [
       [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", [
@@ -1984,44 +1129,13 @@ var hierarchy =
       ] ],
       [ "FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", null ]
     ] ],
-    [ "IAsyncLifetime", null, [
-      [ "NuGet.Services.DatabaseMigration.Facts.PendingMigrationsFacts", "dc/db7/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_pending_migrations_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.IAuditingService", "d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html", [
-      [ "GitHubVulnerabilities2Db.Gallery.ThrowingAuditingService", "de/d80/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_auditing_service.html", null ],
-      [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeAuditingService", "db/d75/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_auditing_service.html", null ],
-      [ "NuGetGallery.Auditing.AggregateAuditingService", "d3/d4e/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service.html", null ],
-      [ "NuGetGallery.Auditing.AuditingService", "d2/da5/class_nu_get_gallery_1_1_auditing_1_1_auditing_service.html", [
-        [ "NuGetGallery.Auditing.CloudAuditingService", "df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service.html", null ],
-        [ "NuGetGallery.Auditing.FileSystemAuditingService", "d5/da9/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service.html", null ]
-      ] ],
-      [ "NuGetGallery.Framework.TestAuditingService", "db/d84/class_nu_get_gallery_1_1_framework_1_1_test_auditing_service.html", null ],
-      [ "NuGetGallery.Services.DeleteAccountServiceFacts.DeleteAccountTestService.FakeAuditingService", "d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Authentication.IAuthenticationService", "d4/da1/interface_nu_get_gallery_1_1_authentication_1_1_i_authentication_service.html", [
-      [ "NuGetGallery.Authentication.AuthenticationService", "d3/dba/class_nu_get_gallery_1_1_authentication_1_1_authentication_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAuthService", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", null ]
     ] ],
-    [ "NuGetGallery.IAutocompletePackageIdsQuery", "d3/d7c/interface_nu_get_gallery_1_1_i_autocomplete_package_ids_query.html", [
-      [ "NuGetGallery.AutocompleteDatabasePackageIdsQuery", "da/d8c/class_nu_get_gallery_1_1_autocomplete_database_package_ids_query.html", null ],
-      [ "NuGetGallery.AutocompleteServicePackageIdsQuery", "dc/da6/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query.html", null ]
-    ] ],
-    [ "NuGetGallery.IAutocompletePackageVersionsQuery", "d9/ddc/interface_nu_get_gallery_1_1_i_autocomplete_package_versions_query.html", [
-      [ "NuGetGallery.AutocompleteDatabasePackageVersionsQuery", "dc/d4a/class_nu_get_gallery_1_1_autocomplete_database_package_versions_query.html", null ],
-      [ "NuGetGallery.AutocompleteServicePackageVersionsQuery", "d4/d3b/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query.html", null ]
-    ] ],
-    [ "IAutoFieldGenerator", null, [
-      [ "NuGetGallery.Areas.Admin.DynamicData.OrderedFieldGenerator", "df/d2b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_ordered_field_generator.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IBimService", "d1/de5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bim_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABS.SPAs.IBlazorFallbackPage", "d2/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor_fallback_page.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABS.SPAs.BlazorFallbackPage", "db/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_s_p_as_1_1_blazor_fallback_page.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.IBlobStorageConfiguration", "d5/db4/interface_nu_get_gallery_1_1_services_1_1_i_blob_storage_configuration.html", [
-      [ "NuGetGallery.Services.SimpleBlobStorageConfiguration", "d6/d47/class_nu_get_gallery_1_1_services_1_1_simple_blob_storage_configuration.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Storage.IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", [
       [ "FenixAlliance.ABM.Data.Access.Clients.BlobStorageDataAccessClient", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client.html", null ]
@@ -2031,49 +1145,12 @@ var hierarchy =
       [ "FenixAlliance.ABP.BotEngine.Core.Services.BotServices", "df/d6d/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_services_1_1_bot_services.html", null ]
     ] ],
     [ "FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage", "d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html", null ],
-    [ "IBrokeredMessageSerializer", null, [
-      [ "NuGetGallery.AccountDeleteMessageSerializer", "d0/da2/class_nu_get_gallery_1_1_account_delete_message_serializer.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IBusinessDataAccess", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access.html", [
       [ "FenixAlliance.ABM.Data.Access.Clients.TenantDataAccessClient", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_tenant_data_access_client.html", null ]
     ] ],
-    [ "NuGetGallery.Services.ICacheConfiguration", "d4/dcc/interface_nu_get_gallery_1_1_services_1_1_i_cache_configuration.html", [
-      [ "NuGetGallery.Services.CacheConfiguration", "de/d9f/class_nu_get_gallery_1_1_services_1_1_cache_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.ICacheService", "d5/dfb/interface_nu_get_gallery_1_1_i_cache_service.html", [
-      [ "NuGetGallery.HttpContextCacheService", "d0/de9/class_nu_get_gallery_1_1_http_context_cache_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.ICertificatesConfiguration", "d2/d81/interface_nu_get_gallery_1_1_services_1_1_i_certificates_configuration.html", [
-      [ "NuGetGallery.Services.CertificatesConfiguration", "dd/d79/class_nu_get_gallery_1_1_services_1_1_certificates_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.ICertificateService", "d9/d0a/interface_nu_get_gallery_1_1_i_certificate_service.html", [
-      [ "NuGetGallery.CertificateService", "dd/dfc/class_nu_get_gallery_1_1_certificate_service.html", null ]
-    ] ],
-    [ "NuGetGallery.ICertificateValidator", "d1/df3/interface_nu_get_gallery_1_1_i_certificate_validator.html", [
-      [ "NuGetGallery.CertificateValidator", "d4/daa/class_nu_get_gallery_1_1_certificate_validator.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IChainService", "d2/de6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_chain_service.html", null ],
     [ "FenixAlliance.ICX.Core.Services.ICheckoutService", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html", null ],
-    [ "IClassFixture", null, [
-      [ "NuGetGallery.FunctionalTests.GalleryTestCollection", "d6/dd9/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_collection.html", null ]
-    ] ],
-    [ "IClientValidatable", null, [
-      [ "NuGetGallery.Infrastructure.MandatoryAttribute", "dd/d25/class_nu_get_gallery_1_1_infrastructure_1_1_mandatory_attribute.html", null ],
-      [ "NuGetGallery.Infrastructure.NotEqualAttribute", "db/d8a/class_nu_get_gallery_1_1_infrastructure_1_1_not_equal_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.ICloudBlobClient", "d2/dfc/interface_nu_get_gallery_1_1_i_cloud_blob_client.html", [
-      [ "NuGetGallery.CloudBlobClientWrapper", "dd/d51/class_nu_get_gallery_1_1_cloud_blob_client_wrapper.html", null ]
-    ] ],
-    [ "NuGetGallery.ICloudBlobContainer", "db/d7f/interface_nu_get_gallery_1_1_i_cloud_blob_container.html", [
-      [ "NuGetGallery.CloudBlobContainerWrapper", "d1/da5/class_nu_get_gallery_1_1_cloud_blob_container_wrapper.html", null ]
-    ] ],
-    [ "NuGetGallery.ICloudBlobContainerInformationProvider", "da/d56/interface_nu_get_gallery_1_1_i_cloud_blob_container_information_provider.html", [
-      [ "NuGetGallery.GalleryCloudBlobContainerInformationProvider", "df/dbb/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICloudService", "d3/d8e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cloud_service.html", null ],
-    [ "NuGetGallery.ICloudStorageStatusDependency", "d8/db7/interface_nu_get_gallery_1_1_i_cloud_storage_status_dependency.html", [
-      [ "NuGetGallery.Auditing.CloudAuditingService", "df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICmsService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_service.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.ICodeCompilationService", "d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html", [
       [ "FenixAlliance.ABS.Core.Templating.Services.CodeCompilationService", "d1/d0e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_compilation_service.html", null ]
@@ -2082,122 +1159,19 @@ var hierarchy =
       [ "FenixAlliance.ABS.Core.Templating.Services.CodeGenerationService", "db/d4e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_generation_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICognitiveService", "d8/da9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cognitive_service.html", null ],
-    [ "ICollectionFixture", null, [
-      [ "NuGetGallery.BlobStorageCollection", "df/d8a/class_nu_get_gallery_1_1_blob_storage_collection.html", null ],
-      [ "NuGetGallery.FunctionalTests.GalleryTestCollection", "d6/dd9/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_collection.html", null ]
-    ] ],
-    [ "NuGetGallery.Backend.Monitoring.ICompletion< T >", "da/d2f/interface_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_i_completion.html", [
-      [ "NuGetGallery.Backend.Monitoring.Completion< T >", "d9/d70/class_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_completion.html", null ]
-    ] ],
-    [ "IConfigurationFactory", null, [
-      [ "NuGetGallery.Configuration.ConfigurationService", "db/d53/class_nu_get_gallery_1_1_configuration_1_1_configuration_service.html", [
-        [ "NuGetGallery.Framework.TestGalleryConfigurationService", "d7/d82/class_nu_get_gallery_1_1_framework_1_1_test_gallery_configuration_service.html", null ]
-      ] ]
-    ] ],
     [ "IConfigureNamedOptions", null, [
       [ "FenixAlliance.APS.Core.Extensions.AzureADB2CAuthenticationBuilderExtensions.ConfigureAzureOptions", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IContactDataAccess", "d1/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_contact_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IContainersService", "d3/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_containers_service.html", null ],
-    [ "NuGetGallery.IContentFileMetadataService", "d9/db8/interface_nu_get_gallery_1_1_i_content_file_metadata_service.html", [
-      [ "NuGetGallery.FlatContainerContentFileMetadataService", "dc/d03/class_nu_get_gallery_1_1_flat_container_content_file_metadata_service.html", null ],
-      [ "NuGetGallery.GalleryContentFileMetadataService", "da/d97/class_nu_get_gallery_1_1_gallery_content_file_metadata_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IContentObjectService", "d9/d39/interface_nu_get_gallery_1_1_i_content_object_service.html", [
-      [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeContentObjectService", "dc/dd3/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_content_object_service.html", null ],
-      [ "NuGetGallery.ContentObjectService", "d2/d07/class_nu_get_gallery_1_1_content_object_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IContentService", "d4/d36/interface_nu_get_gallery_1_1_i_content_service.html", [
-      [ "GitHubVulnerabilities2Db.FakeContentService", "df/d09/class_git_hub_vulnerabilities2_db_1_1_fake_content_service.html", null ],
-      [ "NuGetGallery.ContentService", "d8/d31/class_nu_get_gallery_1_1_content_service.html", [
-        [ "NuGetGallery.Services.ContentServiceFacts.TestableContentService", "d4/d23/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_testable_content_service.html", null ]
-      ] ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IContextDataAccess", "d3/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_context_data_access.html", [
       [ "FenixAlliance.ABM.Data.Access.Clients.ContextDataAccessClient", "db/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_context_data_access_client.html", null ]
     ] ],
-    [ "NuGetGallery.Services.IconUrlTemplateProcessorFacts", "d3/d8f/class_nu_get_gallery_1_1_services_1_1_icon_url_template_processor_facts.html", null ],
-    [ "NuGetGallery.Cookies.ICookieComplianceService", "dc/d0d/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_compliance_service.html", [
-      [ "NuGetGallery.Cookies.NullCookieComplianceService", "db/d0a/class_nu_get_gallery_1_1_cookies_1_1_null_cookie_compliance_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Cookies.ICookieExpirationService", "db/d8e/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_expiration_service.html", [
-      [ "NuGetGallery.Cookies.CookieExpirationService", "d3/d24/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service.html", null ]
-    ] ],
-    [ "NuGetGallery.ICoreFileStorageService", "dc/db7/interface_nu_get_gallery_1_1_i_core_file_storage_service.html", [
-      [ "NuGetGallery.CloudBlobCoreFileStorageService", "d6/d4d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service.html", [
-        [ "NuGetGallery.CloudBlobFileStorageService", "d6/d63/class_nu_get_gallery_1_1_cloud_blob_file_storage_service.html", null ]
-      ] ],
-      [ "NuGetGallery.IFileStorageService", "db/d91/interface_nu_get_gallery_1_1_i_file_storage_service.html", [
-        [ "NuGetGallery.CloudBlobFileStorageService", "d6/d63/class_nu_get_gallery_1_1_cloud_blob_file_storage_service.html", null ],
-        [ "NuGetGallery.FileSystemFileStorageService", "d1/ded/class_nu_get_gallery_1_1_file_system_file_storage_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.ICoreLicenseFileService", "da/d4f/interface_nu_get_gallery_1_1_i_core_license_file_service.html", [
-      [ "NuGetGallery.CoreLicenseFileService", "db/d4b/class_nu_get_gallery_1_1_core_license_file_service.html", null ]
-    ] ],
-    [ "NuGetGallery.ICorePackageFileService", "d7/d25/interface_nu_get_gallery_1_1_i_core_package_file_service.html", [
-      [ "NuGetGallery.CorePackageFileService", "dc/dcf/class_nu_get_gallery_1_1_core_package_file_service.html", [
-        [ "NuGetGallery.PackageFileService", "dc/d2e/class_nu_get_gallery_1_1_package_file_service.html", null ],
-        [ "NuGetGallery.SymbolPackageFileService", "d6/dc5/class_nu_get_gallery_1_1_symbol_package_file_service.html", null ]
-      ] ],
-      [ "NuGetGallery.IPackageFileService", "d2/d5a/interface_nu_get_gallery_1_1_i_package_file_service.html", [
-        [ "NuGetGallery.PackageFileService", "dc/d2e/class_nu_get_gallery_1_1_package_file_service.html", null ]
-      ] ],
-      [ "NuGetGallery.ISymbolPackageFileService", "d5/db3/interface_nu_get_gallery_1_1_i_symbol_package_file_service.html", [
-        [ "NuGetGallery.SymbolPackageFileService", "d6/dc5/class_nu_get_gallery_1_1_symbol_package_file_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.ICorePackageService", "d7/dd5/interface_nu_get_gallery_1_1_i_core_package_service.html", [
-      [ "NuGetGallery.CorePackageService", "db/ddf/class_nu_get_gallery_1_1_core_package_service.html", [
-        [ "NuGetGallery.PackageService", "de/d5c/class_nu_get_gallery_1_1_package_service.html", null ]
-      ] ],
-      [ "NuGetGallery.IPackageService", "d8/d29/interface_nu_get_gallery_1_1_i_package_service.html", [
-        [ "NuGetGallery.PackageService", "de/d5c/class_nu_get_gallery_1_1_package_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.ICoreReadmeFileService", "d0/d30/interface_nu_get_gallery_1_1_i_core_readme_file_service.html", [
-      [ "NuGetGallery.CoreReadmeFileService", "d2/d01/class_nu_get_gallery_1_1_core_readme_file_service.html", null ]
-    ] ],
-    [ "NuGetGallery.ICoreSymbolPackageService", "df/d7a/interface_nu_get_gallery_1_1_i_core_symbol_package_service.html", [
-      [ "NuGetGallery.CoreSymbolPackageService", "d9/d8d/class_nu_get_gallery_1_1_core_symbol_package_service.html", [
-        [ "NuGetGallery.SymbolPackageService", "df/d6e/class_nu_get_gallery_1_1_symbol_package_service.html", null ]
-      ] ],
-      [ "NuGetGallery.ISymbolPackageService", "d5/db6/interface_nu_get_gallery_1_1_i_symbol_package_service.html", [
-        [ "NuGetGallery.SymbolPackageService", "df/d6e/class_nu_get_gallery_1_1_symbol_package_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.Authentication.ICredentialBuilder", "d0/de8/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_builder.html", [
-      [ "NuGetGallery.Infrastructure.Authentication.CredentialBuilder", "d7/dd2/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_builder.html", null ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.Authentication.ICredentialValidator", "dc/db7/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_validator.html", [
-      [ "NuGetGallery.Infrastructure.Authentication.CredentialValidator", "d1/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_validator.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICrmService", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service.html", null ],
-    [ "NuGetGallery.IDatabase", "d0/d1f/interface_nu_get_gallery_1_1_i_database.html", [
-      [ "NuGetGallery.DatabaseWrapper", "d3/d5a/class_nu_get_gallery_1_1_database_wrapper.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IDataRepoService< T >", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IDataRepository< T >", "d8/def/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_data_repository.html", null ],
-    [ "NuGetGallery.IDateTimeProvider", "d1/d96/interface_nu_get_gallery_1_1_i_date_time_provider.html", [
-      [ "NuGetGallery.DateTimeProvider", "d8/daa/class_nu_get_gallery_1_1_date_time_provider.html", null ]
-    ] ],
-    [ "IDbContextFactory", null, [
-      [ "NuGetGallery.Areas.Admin.Models.SupportRequestDbContextFactory", "d1/d56/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context_factory.html", null ],
-      [ "NuGetGallery.GalleryDbContextFactory", "dc/d6a/class_nu_get_gallery_1_1_gallery_db_context_factory.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IDbFactoryService< TContext >", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.DbContextFactoryService< TContext >", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IDeleteAccountService", "d5/d89/interface_nu_get_gallery_1_1_i_delete_account_service.html", [
-      [ "NuGetGallery.AccountDeleter.EmptyDeleteAccountService", "da/da2/class_nu_get_gallery_1_1_account_deleter_1_1_empty_delete_account_service.html", null ],
-      [ "NuGetGallery.AsynchronousDeleteAccountService", "db/d4e/class_nu_get_gallery_1_1_asynchronous_delete_account_service.html", null ],
-      [ "NuGetGallery.DeleteAccountService", "d7/d31/class_nu_get_gallery_1_1_delete_account_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IDeleteAccountViewModel", "da/d38/interface_nu_get_gallery_1_1_i_delete_account_view_model.html", [
-      [ "NuGetGallery.DeleteAccountViewModel", "d8/dc2/class_nu_get_gallery_1_1_delete_account_view_model.html", [
-        [ "NuGetGallery.DeleteOrganizationViewModel", "d3/d05/class_nu_get_gallery_1_1_delete_organization_view_model.html", null ],
-        [ "NuGetGallery.DeleteUserViewModel", "d0/df9/class_nu_get_gallery_1_1_delete_user_view_model.html", null ]
-      ] ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.IdentifierType", "df/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_identifier_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.IdentifierType1", "d8/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_identifier_type1.html", [
@@ -2321,310 +1295,17 @@ var hierarchy =
     [ "IdentityDbContext", null, [
       [ "FenixAlliance.ABM.Data.DataContext", "da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html", null ]
     ] ],
-    [ "NuGetGallery.Authentication.Providers.IdentityInformation", "de/d62/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_identity_information.html", null ],
     [ "IdentityUser", null, [
       [ "FenixAlliance.ABM.Models.Holders.AccountHolder", "d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders_1_1_account_holder.html", null ]
-    ] ],
-    [ "IDependencyResolver", null, [
-      [ "NuGetGallery.TestUtils.Infrastructure.TestDependencyResolver", "d4/dc5/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_test_dependency_resolver.html", null ]
-    ] ],
-    [ "IDependencyScope", null, [
-      [ "NuGetGallery.TestUtils.Infrastructure.TestDependencyResolver", "d4/dc5/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_test_dependency_resolver.html", null ]
-    ] ],
-    [ "NuGetGallery.Diagnostics.IDiagnosticsService", "d9/d94/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_service.html", [
-      [ "NuGetGallery.Diagnostics.DiagnosticsService", "dc/d91/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service.html", null ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.Drivers.IDirectory", "d0/d39/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_directory.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDirectory", "d6/dac/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_directory.html", null ]
     ] ],
     [ "IDisposable", null, [
-      [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", null ],
-      [ "GitHubVulnerabilities2Db.Job", "d3/d84/class_git_hub_vulnerabilities2_db_1_1_job.html", null ],
-      [ "NuGet.Services.DatabaseMigration.IMigrationContext", "de/d97/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context.html", [
-        [ "NuGet.Services.DatabaseMigration.BaseDbMigrationContext", "d8/d71/class_nu_get_1_1_services_1_1_database_migration_1_1_base_db_migration_context.html", [
-          [ "NuGetGallery.DatabaseMigrationTools.GalleryDbMigrationContext", "d3/d76/class_nu_get_gallery_1_1_database_migration_tools_1_1_gallery_db_migration_context.html", null ],
-          [ "NuGetGallery.DatabaseMigrationTools.SupportRequestDbMigrationContext", "db/d35/class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context.html", null ],
-          [ "NuGetGallery.DatabaseMigrationTools.ValidationDbMigrationContext", "df/dad/class_nu_get_gallery_1_1_database_migration_tools_1_1_validation_db_migration_context.html", null ]
-        ] ]
-      ] ],
-      [ "NuGet.VerifyMicrosoftPackage.Facts.ProgramFacts", "da/da3/class_nu_get_1_1_verify_microsoft_package_1_1_facts_1_1_program_facts.html", null ],
-      [ "NuGetGallery.BlobStorageFixture", "d9/dd4/class_nu_get_gallery_1_1_blob_storage_fixture.html", null ],
-      [ "NuGetGallery.CertificateFile", "d9/d38/class_nu_get_gallery_1_1_certificate_file.html", null ],
-      [ "NuGetGallery.DisposableAction", "d1/d4e/class_nu_get_gallery_1_1_disposable_action.html", null ],
-      [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheCopyFileAsyncMethod", "d3/dd5/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_copy_file_async_method.html", null ],
-      [ "NuGetGallery.Framework.TestContainer", "d6/d44/class_nu_get_gallery_1_1_framework_1_1_test_container.html", [
-        [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.AccountsControllerTestContainer", "d5/deb/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_accounts_controller_test_container.html", [
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheAccountBaseAction", "dd/d32/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_account_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheCancelChangeEmailBaseAction", "da/d8f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_cancel_change_email_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheChangeEmailBaseAction", "d6/d71/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheChangeEmailSubscriptionBaseAction", "d9/d93/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_subscription_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheConfirmBaseAction", "d0/dab/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirm_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheConfirmationRequiredBaseAction", "d4/d41/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheConfirmationRequiredPostBaseAction", "d8/d0f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_post_base_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheDeleteAccountAction", "df/d1c/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_action.html", null ],
-          [ "NuGetGallery.AccountsControllerFacts< TAccountsController, TUser, TAccountViewModel >.TheDeleteAccountPostAction", "d9/d9a/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_post_action.html", null ]
-        ] ],
-        [ "NuGetGallery.ApiControllerFacts.PackageVerificationKeyContainer", "d8/d89/class_nu_get_gallery_1_1_api_controller_facts_1_1_package_verification_key_container.html", [
-          [ "NuGetGallery.ApiControllerFacts.TheCreatePackageVerificationKeyAsyncAction", "de/de7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_verification_key_async_action.html", null ],
-          [ "NuGetGallery.ApiControllerFacts.TheVerifyPackageKeyAsyncAction", "d0/dcb/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_verify_package_key_async_action.html", null ]
-        ] ],
-        [ "NuGetGallery.ApiControllerFacts.TheCreatePackageAction", "de/d05/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheCreatePackageAction.CalledByUserWithMicrosoftTeamSubscription", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheCreateSymbolPackageAction", "db/dee/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_symbol_package_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheDeletePackageAction", "d3/da1/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_delete_package_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheDeprecatePackageAction", "da/dd7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_deprecate_package_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheGetNuGetExeAction", "d0/d24/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_nu_get_exe_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheGetPackageAction", "d1/de4/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_package_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.TheGetStatsDownloadsAction", "d8/dfd/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_stats_downloads_action.html", null ],
-        [ "NuGetGallery.ApiControllerFacts.ThePublishPackageAction", "d5/dce/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_publish_package_action.html", null ],
-        [ "NuGetGallery.Areas.Admin.Controllers.ApiKeysControllerFacts.TheRevokeMethod", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html", null ],
-        [ "NuGetGallery.Areas.Admin.Controllers.ApiKeysControllerFacts.TheVerifyMethod", "d3/d5a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_verify_method.html", null ],
-        [ "NuGetGallery.Areas.Admin.Controllers.DeleteControllerFacts.FactsBase", "db/d24/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_facts_base.html", [
-          [ "NuGetGallery.Areas.Admin.Controllers.DeleteControllerFacts.TheSearchMethod", "db/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_the_search_method.html", null ]
-        ] ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheAddCredentialMethod", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheAuthenticateApiKeyMethod", "df/d4a/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_api_key_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheAuthenticateExternalLoginMethod", "d7/d27/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_external_login_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheAuthenticateMethod", "dc/dfd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheAuthenticatePasswordMethod", "db/d77/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_password_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheChallengeMethod", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheChangePasswordMethod", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheCreateSessionAsyncMethod", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheDescribeCredentialMethod", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheEditCredentialMethod", "d5/d46/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheExtractExternalLoginCredentialsMethod", "d8/dc8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_extract_external_login_credentials_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheGeneratePasswordResetTokenMethod", "da/d6e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_generate_password_reset_token_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheGetApiKeyCredentialMethod", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheIsActiveApiKeyCredentialMethod", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_is_active_api_key_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheRegisterMethod", "df/df8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_register_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheRemoveCredentialMethod", "d9/d7e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheReplaceCredentialMethod", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheResetPasswordWithTokenMethod", "db/db3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_reset_password_with_token_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheRevokeApiKeyCredentialMethod", "da/d02/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_revoke_api_key_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticationServiceFacts.TheTryReplaceCredentialMethod", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html", null ],
-        [ "NuGetGallery.Authentication.AuthenticatorFacts.TheStartupMethod", "d0/da1/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_startup_method.html", null ],
-        [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationHandlerFacts.TheAuthenticateCoreAsyncMethod", "db/dcc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han86980dfa9dde4ee972916c1fe9591720.html", null ],
-        [ "NuGetGallery.Configuration.ConfigurationServiceFacts.TheExternalBrandingMessage", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message.html", null ],
-        [ "NuGetGallery.Controllers.AppControllerFacts.TheJsonMethod", "d7/d62/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_json_method.html", null ],
-        [ "NuGetGallery.Controllers.AppControllerFacts.TheOnActionExecutedMethod", "dd/d89/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_on_action_executed_method.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheAuthenticateAction", "d2/d60/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheAuthenticateExternalAction", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheLinkExternalAccountAction", "d7/d61/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_external_account_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheLinkOrChangeExternalCredentialAction", "d3/d41/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_or_change_external_credential_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheLogOffAction", "d1/d48/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_off_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheLogOnAction", "d6/d0f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_on_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheRegisterAction", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheShouldChallengeEnforcedProviderMethod", "db/dfe/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_challenge_enforced_provider_method.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheShouldEnforceMultiFactorAuthenticationMethod", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheSignInAction", "d2/d2f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_sign_in_action.html", null ],
-        [ "NuGetGallery.Controllers.AuthenticationControllerFacts.TheSigninAssistanceAction", "d7/d8c/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_signin_assistance_action.html", null ],
-        [ "NuGetGallery.Controllers.ExperimentsControllerFacts.Facts", "d2/dd8/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_facts.html", [
-          [ "NuGetGallery.Controllers.ExperimentsControllerFacts.GetSearchSideBySide", "d2/d8c/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_get_search_side_by_side.html", null ],
-          [ "NuGetGallery.Controllers.ExperimentsControllerFacts.PostSearchSideBySide", "dc/d3a/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_post_search_side_by_side.html", null ]
-        ] ],
-        [ "NuGetGallery.Controllers.FeaturesControllerFacts.FeaturesControllerFactsBase", "de/da9/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_features_controller_facts_base.html", [
-          [ "NuGetGallery.Controllers.FeaturesControllerFacts.ModifyMethodBase", "d1/dfc/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_modify_method_base.html", [
-            [ "NuGetGallery.Controllers.FeaturesControllerFacts.FeatureBase", "d1/d5c/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_feature_base.html", [
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheAddFeatureMethod", "d6/d3b/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_feature_method.html", null ],
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheDeleteFeatureMethod", "d9/d6d/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_feature_method.html", null ],
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheEditFeatureMethod", "d6/d63/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_feature_method.html", null ]
-            ] ],
-            [ "NuGetGallery.Controllers.FeaturesControllerFacts.FlightBase", "df/d98/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_flight_base.html", [
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheAddFlightMethod", "dd/dd5/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_flight_method.html", null ],
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheDeleteFlightMethod", "db/daa/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_flight_method.html", null ],
-              [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheEditFlightMethod", "d3/da0/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_flight_method.html", null ]
-            ] ]
-          ] ],
-          [ "NuGetGallery.Controllers.FeaturesControllerFacts.TheIndexMethod", "d1/dd4/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_index_method.html", null ]
-        ] ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods", "d3/db0/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods.html", null ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods.TheGetPackageOwnersMethod", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html", null ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods.ThePackageOwnerModificationMethods", "db/dcb/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods973aa6adf81c75ad20eaacf48753283f.html", null ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods.ThePackageOwnerModificationMethods.TheAddPackageOwnerMethods", "d8/db8/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods0ebcce73ec8b0335478f82732e23b5f3.html", null ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods.ThePackageOwnerModificationMethods.TheAddPackageOwnerMethods.TheAddPackageOwnerMethod", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html", null ],
-        [ "NuGetGallery.Controllers.JsonApiControllerFacts.ThePackageOwnerMethods.ThePackageOwnerModificationMethods.TheRemovePackageOwnerMethod", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html", null ],
-        [ "NuGetGallery.Controllers.ManageDeprecationJsonApiControllerFacts.TheDeprecateMethod", "d1/da9/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_deprecate_method.html", null ],
-        [ "NuGetGallery.Controllers.ManageDeprecationJsonApiControllerFacts.TheGetAlternatePackageVersionsMethod", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae.html", null ],
-        [ "NuGetGallery.Controllers.SupportControllerFacts.TheIndexMethod", "d3/d62/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts_1_1_the_index_method.html", null ],
-        [ "NuGetGallery.Filters.RequiresAccountConfirmationAttributeFacts", "df/d5f/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute_facts.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheAccountDeleteNoticeMessage", "db/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_account_delete_notice_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheContactOwnersMessage", "d8/d69/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_contact_owners_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheCredentialAddedMessage", "da/d5b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_added_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheCredentialRemovedMessage", "d5/d0c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_removed_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheEmailChangeConfirmationMessage", "d0/d4b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_confirmation_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheEmailChangeNoticeToPreviousEmailAddressMessage", "d1/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_notice_to_previous_email_address_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheNewAccountMessage", "d4/de9/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_new_account_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMemberRemovedMessage", "d5/d9e/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_removed_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMemberUpdatedMessage", "de/dcd/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_updated_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMembershipRequestCanceledMessage", "dd/dce/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMembershipRequestDeclinedMessage", "d5/d08/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_declined_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMembershipRequestInitiatedMessage", "d4/d9b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_initiated_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationMembershipRequestMessage", "d2/d84/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationTransformAcceptedMessage", "d2/d2c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationTransformInitiatedMessage", "d2/d55/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_initiated_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationTransformRejectedMessage", "d9/d7f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_rejected_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheOrganizationTransformRequestMessage", "d5/dba/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_request_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageAddedMessage", "db/d7a/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_added_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageDeletedNoticeMessage", "d1/d77/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_deleted_notice_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnerAddedMessage", "dc/d45/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_added_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnerRemovedMessage", "d7/dc1/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_removed_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnershipRequestCanceledMessage", "de/d97/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnershipRequestDeclinedMessage", "d8/d5f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnershipRequestInitiatedMessage", "d6/d82/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageOwnershipRequestMessage", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageValidationFailedMessage", "d2/d42/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_failed_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePackageValidationTakingTooLongMessage", "d9/db5/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_taking_too_long_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.ThePasswordResetInstructionsMessage", "d4/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_password_reset_instructions_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheReportPackageRequestMessage", "d5/df8/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_report_package_request_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheSymbolPackageAddedMessage", "de/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_added_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheSymbolPackageValidationFailedMessage", "db/d0d/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_failed_message.html", null ],
-        [ "NuGetGallery.MarkdownMessageServiceFacts.TheSymbolPackageValidationTakingTooLongMessage", "d8/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_taking_too_long_message.html", null ],
-        [ "NuGetGallery.OrganizationsControllerFacts.TheAddAction", "df/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_action.html", null ],
-        [ "NuGetGallery.OrganizationsControllerFacts.TheDeleteOrganizationAccountAction", "d7/d8d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_account_action.html", null ],
-        [ "NuGetGallery.OrganizationsControllerFacts.TheDeleteOrganizationBaseAction", "d7/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_base_action.html", [
-          [ "NuGetGallery.OrganizationsControllerFacts.TheDeleteAccountRequestAction", "d4/d16/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_account_request_action.html", null ],
-          [ "NuGetGallery.OrganizationsControllerFacts.TheRequestAccountDeletionMethod", "d1/da3/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_request_account_deletion_method.html", null ]
-        ] ],
-        [ "NuGetGallery.PackageDeprecationManagementServiceFacts.TheDeprecateMethod", "dd/d70/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_deprecate_method.html", null ],
-        [ "NuGetGallery.PackageDeprecationManagementServiceFacts.TheGetPossibleAlternatePackageVersionsMethod", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method.html", null ],
-        [ "NuGetGallery.PackageServiceFacts.TheFindPackagesByOwnersMethodsBase", "d1/dcc/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base.html", [
-          [ "NuGetGallery.PackageServiceFacts.TheFindPackagesByAnyMatchingOwnerMethod", "de/d30/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_any_matching_owner_method.html", null ],
-          [ "NuGetGallery.PackageServiceFacts.TheFindPackagesByOwnerMethod", "d8/dcf/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owner_method.html", null ]
-        ] ],
-        [ "NuGetGallery.PackageServiceFacts.TheSetRequiredSignerAsyncMethodOneParameter", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html", null ],
-        [ "NuGetGallery.PackageServiceFacts.TheSetRequiredSignerAsyncMethodTwoParameters", "df/dc4/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_two_parameters.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts", "db/db7/class_nu_get_gallery_1_1_packages_controller_facts.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.LicenseMethod", "d7/dff/class_nu_get_gallery_1_1_packages_controller_facts_1_1_license_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheAtomFeedPackageMethod", "d2/d44/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_atom_feed_package_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheCancelVerifyPackageAction", "d3/db5/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_cancel_verify_package_action.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheContactOwnersMethod", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_contact_owners_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheDeleteMethod", "d3/df4/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsMethod", "d9/d4c/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method.html", [
-          [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsMethodThatFilters", "dd/d66/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_that_filters.html", [
-            [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsMethodWithMissingVersion", "d8/dbc/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_missing_version.html", null ],
-            [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsMethodWithNullVersion", "d7/d57/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_null_version.html", null ]
-          ] ],
-          [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsMethodWithExactVersion", "d7/d53/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_exact_version.html", null ]
-        ] ],
-        [ "NuGetGallery.PackagesControllerFacts.TheDeleteSymbolsPackageMethod", "d7/d4a/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_package_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheDisplayPackageMethod", "d8/d09/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_display_package_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheEditMethod", "d5/d7f/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheEditPostMethod", "de/de7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_post_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheGetReadMeMethod", "d9/d28/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_get_read_me_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheListPackagesMethod", "d1/dc1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_list_packages_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheManageMethod", "d7/df2/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method.html", [
-          [ "NuGetGallery.PackagesControllerFacts.TheManageMethodWithExactVersion", "d2/da7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_exact_version.html", null ],
-          [ "NuGetGallery.PackagesControllerFacts.TheManageMethodWithLatestVersion", "de/d68/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_latest_version.html", [
-            [ "NuGetGallery.PackagesControllerFacts.TheManageMethodWithMissingVersion", "d0/d12/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_missing_version.html", null ],
-            [ "NuGetGallery.PackagesControllerFacts.TheManageMethodWithNullVersion", "d3/d96/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_null_version.html", null ]
-          ] ]
-        ] ],
-        [ "NuGetGallery.PackagesControllerFacts.TheManagePackageOwnersMethod", "d7/d27/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_package_owners_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheOwnershipRequestMethods", "d5/d49/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheOwnershipRequestMethods.TheCancelPendingOwnershipRequestMethod", "d4/d94/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods_1_1_the_canab13a54d55174b699d32ec9ac0348a3f.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.ThePreviewReadMeMethod", "d3/db7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_preview_read_me_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheReportAbuseMethod", "d2/dce/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_abuse_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheReportMyPackageMethod", "da/d4b/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_my_package_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheRevalidateMethod", "d0/d78/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheRevalidateSymbolsMethod", "dd/d85/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_symbols_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheSetLicenseReportVisibilityMethod", "d2/d63/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_license_report_visibility_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheSetRequiredSignerMethod", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_required_signer_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheUpdateListedMethod", "dc/df1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_update_listed_method.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheUploadFileActionForGetRequests", "dd/df3/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_get_requests.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheUploadFileActionForPostRequests", "dc/d71/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_post_requests.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheUploadProgressAction", "df/dc6/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_progress_action.html", null ],
-        [ "NuGetGallery.PackagesControllerFacts.TheVerifyPackageActionForPostRequests", "d8/dda/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_verify_package_action_for_post_requests.html", null ],
-        [ "NuGetGallery.PagesControllerFacts.TheContactAction", "d1/d9f/class_nu_get_gallery_1_1_pages_controller_facts_1_1_the_contact_action.html", null ],
-        [ "NuGetGallery.PasswordValidationRegexTests", "d2/dd2/class_nu_get_gallery_1_1_password_validation_regex_tests.html", null ],
-        [ "NuGetGallery.Services.ContentObjectServiceFacts.TheConstructor", "d5/d7d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_constructor.html", null ],
-        [ "NuGetGallery.Services.ContentObjectServiceFacts.TheRefreshMethod", "d5/d3d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_refresh_method.html", null ],
-        [ "NuGetGallery.Services.PackageDeprecationServiceFacts.TheGetDeprecationByPackageMethod", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method.html", null ],
-        [ "NuGetGallery.Services.PackageDeprecationServiceFacts.TheUpdateDeprecationMethod", "d1/d3b/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_update_deprecation_method.html", null ],
-        [ "NuGetGallery.Services.PackageRenameServiceFacts.TheGetDeprecationByPackageMethod", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method.html", null ],
-        [ "NuGetGallery.Services.PackageUpdateServiceFacts.TheMarkPackageListedMethod", "d4/d7a/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_listed_method.html", null ],
-        [ "NuGetGallery.Services.PackageUpdateServiceFacts.TheMarkPackageUnlistedMethod", "d2/db8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_unlisted_method.html", null ],
-        [ "NuGetGallery.Services.PackageUpdateServiceFacts.TheUpdatePackagesAsyncMethod", "d8/ddc/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_update_packages_async_method.html", null ],
-        [ "NuGetGallery.Services.PackageVulnerabilitiesManagementServiceFacts.MethodFacts", "d9/d29/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_method_facts.html", [
-          [ "NuGetGallery.Services.PackageVulnerabilitiesManagementServiceFacts.TheApplyExistingVulnerabilitiesToPackageMethod", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b.html", null ],
-          [ "NuGetGallery.Services.PackageVulnerabilitiesManagementServiceFacts.TheUpdateVulnerabilityMethod", "dc/db2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_update_vulnerability_method.html", null ]
-        ] ],
-        [ "NuGetGallery.Services.PackageVulnerabilitiesServiceFacts", "d7/dc2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_service_facts.html", null ],
-        [ "NuGetGallery.StatisticsControllerFacts", "d7/d59/class_nu_get_gallery_1_1_statistics_controller_facts.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheDeleteOrganizationCertificateTemplateMethod", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheDeleteUserCertificateTemplateMethod", "dd/d88/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_user_certificate_template_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheGetActionLinkMethod", "dd/df5/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_action_link_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheLicenseMethod", "d3/d99/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_license_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.ThePackageBaseHelperMethod", "d1/df8/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_base_helper_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.ThePackageHelperMethod", "d5/d54/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_helper_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.ThePackageRegistrationTemplateHelperMethod", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.ThePackageVersionActionTemplate", "d0/dd1/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_version_action_template.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheSetRequiredSignerTemplateMethod", "d0/df2/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_set_required_signer_template_method.html", null ],
-        [ "NuGetGallery.UrlHelperExtensionsFacts.TheUserTemplateHelperMethod", "d5/de4/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_user_template_helper_method.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheAddCertificateAction", "dc/d0c/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_add_certificate_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheApiKeysAction", "da/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_api_keys_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheCancelTransformToOrganizationAction", "d8/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheCancelTransformToOrganizationRedirectAction", "d3/d7a/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_redirect_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheChangeMultiFactorAuthenticationAction", "d6/dd0/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_multi_factor_authentication_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheChangePasswordAction", "d0/df1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_password_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheConfirmTransformToOrganizationAction", "d3/d26/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheConfirmTransformToOrganizationRedirectAction", "db/dd9/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_redirect_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheDeleteAccountRequestAction", "d0/d69/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_account_request_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheDeleteCertificateAction", "dd/daa/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_certificate_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheDeleteUserAccountAction", "d1/db1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_user_account_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheEditCredentialAction", "d0/de4/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_edit_credential_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheForgotPasswordAction", "d6/d28/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_forgot_password_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheGenerateApiKeyAction", "df/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_generate_api_key_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheGetAvatarAction", "d9/dfc/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_avatar_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheGetCertificateAction", "dc/dd1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificate_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheGetCertificatesAction", "d3/df7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificates_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheLinkOrChangeCredentialAction", "df/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_link_or_change_credential_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.ThePackagesAction", "df/d34/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_packages_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheProfilesAction", "d8/d0f/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_profiles_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRegenerateCredentialAction", "d9/d46/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_regenerate_credential_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRejectTransformToOrganizationAction", "db/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRejectTransformToOrganizationRedirectAction", "d5/dcb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_redirect_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRemoveCredentialAction", "dc/dde/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_credential_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRemovePasswordAction", "de/d23/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_password_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheRequestAccountDeletionAction", "d8/de1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_request_account_deletion_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheResetPasswordAction", "de/d10/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reset_password_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheThanksAction", "d4/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_thanks_action.html", null ],
-        [ "NuGetGallery.UsersControllerFacts.TheTransformToOrganizationActionBase", "dd/dee/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_transform_to_organization_action_base.html", [
-          [ "NuGetGallery.UsersControllerFacts.TheGetTransformToOrganizationAction", "db/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_transform_to_organization_action.html", null ],
-          [ "NuGetGallery.UsersControllerFacts.ThePostTransformToOrganizationAction", "d6/d21/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_post_transform_to_organization_action.html", null ]
-        ] ],
-        [ "NuGetGallery.ViewModels.UserProfileModelFacts.TheTotalDownloadCountProperty", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html", null ]
-      ] ],
-      [ "NuGetGallery.FunctionalTests.ClearMachineCacheFixture", "d7/d99/class_nu_get_gallery_1_1_functional_tests_1_1_clear_machine_cache_fixture.html", [
-        [ "NuGetGallery.FunctionalTests.GalleryTestFixture", "d6/db2/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_fixture.html", null ]
-      ] ],
-      [ "NuGetGallery.FunctionalTests.ErrorHandling.ErrorHandlingTests", "d6/dfb/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_error_handling_tests.html", null ],
-      [ "NuGetGallery.FunctionalTests.StaticAssets.StaticAssetsTests", "dc/db6/class_nu_get_gallery_1_1_functional_tests_1_1_static_assets_1_1_static_assets_tests.html", null ],
-      [ "NuGetGallery.Helpers.TruncatedStream", "d4/d6c/class_nu_get_gallery_1_1_helpers_1_1_truncated_stream.html", null ],
-      [ "NuGetGallery.IDbContextTransaction", "d6/d2b/interface_nu_get_gallery_1_1_i_db_context_transaction.html", [
-        [ "NuGetGallery.DbContextTransactionWrapper", "d1/da8/class_nu_get_gallery_1_1_db_context_transaction_wrapper.html", null ]
-      ] ],
-      [ "NuGetGallery.IReadOnlyEntitiesContext", "d8/da0/interface_nu_get_gallery_1_1_i_read_only_entities_context.html", [
-        [ "NuGetGallery.IEntitiesContext", "d4/d52/interface_nu_get_gallery_1_1_i_entities_context.html", [
-          [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeEntitiesContext", "d7/d90/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entities_context.html", null ],
-          [ "NuGetGallery.EntitiesContext", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html", null ],
-          [ "NuGetGallery.FakeEntitiesContext", "d7/d2b/class_nu_get_gallery_1_1_fake_entities_context.html", null ]
-        ] ],
-        [ "NuGetGallery.ReadOnlyEntitiesContext", "d2/d5d/class_nu_get_gallery_1_1_read_only_entities_context.html", null ]
-      ] ],
-      [ "NuGetGallery.PackagesControllerFacts.TheDisplayPackageMethod", "d8/d09/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_display_package_method.html", null ],
-      [ "NuGetGallery.RuntimeServiceProvider", "dd/db1/class_nu_get_gallery_1_1_runtime_service_provider.html", null ],
-      [ "NuGetGallery.SearchClient.CorrelatingHttpClientHandlerFacts", "d7/d94/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts.html", null ],
-      [ "NuGetGallery.SuspendDbExecutionStrategy", "d7/d76/class_nu_get_gallery_1_1_suspend_db_execution_strategy.html", null ],
-      [ "NuGetGallery.TestUtils.Infrastructure.TestDependencyResolver", "d4/dc5/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_test_dependency_resolver.html", null ],
-      [ "NuGetGallery.Utilities.TestDirectory", "d0/d25/class_nu_get_gallery_1_1_utilities_1_1_test_directory.html", null ]
+      [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IDnsLookupService", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.DnsLookupService", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IDownloadCountService", "d8/de3/interface_nu_get_gallery_1_1_i_download_count_service.html", [
-      [ "NuGetGallery.CloudDownloadCountService", "df/d17/class_nu_get_gallery_1_1_cloud_download_count_service.html", [
-        [ "NuGetGallery.CloudDownloadCountServiceFacts.TestableCloudDownloadCountService", "d9/db6/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_testable_cloud_download_count_service.html", null ]
-      ] ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.IDriver", "d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver", "d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html", null ]
@@ -2633,129 +1314,10 @@ var hierarchy =
       [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html", null ],
       [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", null ]
     ] ],
-    [ "IEmailBuilder", null, [
-      [ "NuGetGallery.AccountDeleter.AccountDeleteEmailBuilder", "d7/d21/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_email_builder.html", null ],
-      [ "NuGetGallery.AccountDeleter.DisposableEmailBuilder", "d6/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_disposable_email_builder.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountDeleter.IEmailBuilderFactory", "d9/d28/interface_nu_get_gallery_1_1_account_deleter_1_1_i_email_builder_factory.html", [
-      [ "NuGetGallery.AccountDeleter.EmailBuilderFactory", "d3/dda/class_nu_get_gallery_1_1_account_deleter_1_1_email_builder_factory.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", null ],
-    [ "NuGet.Services.Entities.IEntity", "d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html", [
-      [ "NuGet.Services.Entities.AccountDelete", "d0/dd8/class_nu_get_1_1_services_1_1_entities_1_1_account_delete.html", null ],
-      [ "NuGet.Services.Entities.Certificate", "de/dcf/class_nu_get_1_1_services_1_1_entities_1_1_certificate.html", null ],
-      [ "NuGet.Services.Entities.Credential", "d7/d29/class_nu_get_1_1_services_1_1_entities_1_1_credential.html", null ],
-      [ "NuGet.Services.Entities.EmailMessage", "de/d54/class_nu_get_1_1_services_1_1_entities_1_1_email_message.html", null ],
-      [ "NuGet.Services.Entities.IPackageEntity", "de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html", [
-        [ "NuGet.Services.Entities.Package", "d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html", null ],
-        [ "NuGet.Services.Entities.SymbolPackage", "d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package.html", null ]
-      ] ],
-      [ "NuGet.Services.Entities.PackageAuthor", "d4/d0b/class_nu_get_1_1_services_1_1_entities_1_1_package_author.html", null ],
-      [ "NuGet.Services.Entities.PackageDelete", "d1/daa/class_nu_get_1_1_services_1_1_entities_1_1_package_delete.html", null ],
-      [ "NuGet.Services.Entities.PackageDependency", "db/dc4/class_nu_get_1_1_services_1_1_entities_1_1_package_dependency.html", null ],
-      [ "NuGet.Services.Entities.PackageDeprecation", "d6/d08/class_nu_get_1_1_services_1_1_entities_1_1_package_deprecation.html", null ],
-      [ "NuGet.Services.Entities.PackageFramework", "d8/de5/class_nu_get_1_1_services_1_1_entities_1_1_package_framework.html", null ],
-      [ "NuGet.Services.Entities.PackageHistory", "dd/d5a/class_nu_get_1_1_services_1_1_entities_1_1_package_history.html", null ],
-      [ "NuGet.Services.Entities.PackageLicense", "d6/d15/class_nu_get_1_1_services_1_1_entities_1_1_package_license.html", null ],
-      [ "NuGet.Services.Entities.PackageLicenseReport", "d7/d83/class_nu_get_1_1_services_1_1_entities_1_1_package_license_report.html", null ],
-      [ "NuGet.Services.Entities.PackageOwnerRequest", "d1/d32/class_nu_get_1_1_services_1_1_entities_1_1_package_owner_request.html", null ],
-      [ "NuGet.Services.Entities.PackageRegistration", "d2/dc6/class_nu_get_1_1_services_1_1_entities_1_1_package_registration.html", null ],
-      [ "NuGet.Services.Entities.PackageRename", "d2/dd0/class_nu_get_1_1_services_1_1_entities_1_1_package_rename.html", null ],
-      [ "NuGet.Services.Entities.PackageType", "d1/d21/class_nu_get_1_1_services_1_1_entities_1_1_package_type.html", null ],
-      [ "NuGet.Services.Entities.PackageVulnerability", "d8/d35/class_nu_get_1_1_services_1_1_entities_1_1_package_vulnerability.html", null ],
-      [ "NuGet.Services.Entities.ReservedNamespace", "d6/dd3/class_nu_get_1_1_services_1_1_entities_1_1_reserved_namespace.html", null ],
-      [ "NuGet.Services.Entities.Role", "d5/d64/class_nu_get_1_1_services_1_1_entities_1_1_role.html", null ],
-      [ "NuGet.Services.Entities.Scope", "d3/dd9/class_nu_get_1_1_services_1_1_entities_1_1_scope.html", null ],
-      [ "NuGet.Services.Entities.User", "de/def/class_nu_get_1_1_services_1_1_entities_1_1_user.html", [
-        [ "NuGet.Services.Entities.Organization", "dd/d9f/class_nu_get_1_1_services_1_1_entities_1_1_organization.html", null ]
-      ] ],
-      [ "NuGet.Services.Entities.UserCertificate", "d2/da6/class_nu_get_1_1_services_1_1_entities_1_1_user_certificate.html", null ],
-      [ "NuGet.Services.Entities.UserSecurityPolicy", "db/d01/class_nu_get_1_1_services_1_1_entities_1_1_user_security_policy.html", null ],
-      [ "NuGet.Services.Entities.VulnerablePackageVersionRange", "dc/d08/class_nu_get_1_1_services_1_1_entities_1_1_vulnerable_package_version_range.html", null ],
-      [ "NuGetGallery.Areas.Admin.Models.Admin", "db/d7f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_admin.html", null ],
-      [ "NuGetGallery.Areas.Admin.Models.History", "d5/d0c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_history.html", null ],
-      [ "NuGetGallery.Areas.Admin.Models.Issue", "d6/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue.html", null ],
-      [ "NuGetGallery.Areas.Admin.Models.IssueStatus", "de/df1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status.html", null ],
-      [ "NuGetGallery.GallerySetting", "d4/dae/class_nu_get_gallery_1_1_gallery_setting.html", null ]
-    ] ],
-    [ "NuGetGallery.IEntityRepository< AccountDelete >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< Certificate >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< Package >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageDelete >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageDeprecation >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageOwnerRequest >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageRegistration >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageRename >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageRevalidation >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageValidation >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< PackageValidationSet >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< Scope >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< SymbolPackage >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "NuGetGallery.IEntityRepository< User >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", null ],
-    [ "IEnumerable", null, [
-      [ "NuGetGallery.Helpers.LargeTestGenerator", "da/dbb/class_nu_get_gallery_1_1_helpers_1_1_large_test_generator.html", null ],
-      [ "NuGetGallery.Infrastructure.AzureEntityList< T >", "de/dea/class_nu_get_gallery_1_1_infrastructure_1_1_azure_entity_list.html", null ]
-    ] ],
-    [ "IEqualityComparer", null, [
-      [ "NuGetGallery.AccountDeleter.UserEvaluatorComparer", "d3/da4/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_comparer.html", null ]
-    ] ],
-    [ "IEquatable", null, [
-      [ "NuGet.Services.Entities.PackageFramework", "d8/de5/class_nu_get_1_1_services_1_1_entities_1_1_package_framework.html", null ],
-      [ "NuGet.Services.Entities.SymbolPackage", "d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package.html", null ],
-      [ "NuGet.Services.Entities.User", "de/def/class_nu_get_1_1_services_1_1_entities_1_1_user.html", null ],
-      [ "NuGet.Services.Entities.UserSecurityPolicy", "db/d01/class_nu_get_1_1_services_1_1_entities_1_1_user_security_policy.html", null ],
-      [ "NuGetGallery.FunctionalTests.ErrorHandling.SimulatedErrorRequest", "d0/d98/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_simulated_error_request.html", null ],
-      [ "NuGetGallery.OrganizationTenantPair", "d8/d3a/class_nu_get_gallery_1_1_organization_tenant_pair.html", null ],
-      [ "System.Unit", "df/d29/class_system_1_1_unit.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IErpService", "d5/d4b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_erp_service.html", null ],
-    [ "IExceptionFilter", null, [
-      [ "NuGetGallery.Infrastructure.AntiForgeryErrorFilter", "da/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_anti_forgery_error_filter.html", null ],
-      [ "NuGetGallery.Infrastructure.RequestValidationExceptionFilter", "d6/ded/class_nu_get_gallery_1_1_infrastructure_1_1_request_validation_exception_filter.html", null ],
-      [ "NuGetGallery.Infrastructure.UserDeletedErrorFilter", "d8/dfe/class_nu_get_gallery_1_1_infrastructure_1_1_user_deleted_error_filter.html", null ]
-    ] ],
-    [ "NuGetGallery.IFeatureFlagService", "d9/de8/interface_nu_get_gallery_1_1_i_feature_flag_service.html", [
-      [ "NuGetGallery.FeatureFlagService", "d7/d4c/class_nu_get_gallery_1_1_feature_flag_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.IFeatureFlagsObjectViewModel", "d0/dec/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_feature_flags_object_view_model.html", [
-      [ "NuGetGallery.Areas.Admin.ViewModels.IModifyFeatureFlagsViewModel< FeatureFlagsFlightViewModel >", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model.html", [
-        [ "NuGetGallery.Areas.Admin.ViewModels.ModifyFeatureFlagsFlightViewModel", "d0/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_flight_view_model.html", null ]
-      ] ],
-      [ "NuGetGallery.Areas.Admin.ViewModels.IModifyFeatureFlagsViewModel< FeatureFlagsFeatureViewModel >", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model.html", [
-        [ "NuGetGallery.Areas.Admin.ViewModels.ModifyFeatureFlagsFeatureViewModel", "d2/ddf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_feature_view_model.html", null ]
-      ] ],
-      [ "NuGetGallery.Areas.Admin.ViewModels.FeatureFlagsFeatureViewModel", "da/d59/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_feature_view_model.html", [
-        [ "NuGetGallery.Areas.Admin.ViewModels.ModifyFeatureFlagsFeatureViewModel", "d2/ddf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_feature_view_model.html", null ]
-      ] ],
-      [ "NuGetGallery.Areas.Admin.ViewModels.FeatureFlagsFlightViewModel", "dd/d94/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_flight_view_model.html", [
-        [ "NuGetGallery.Areas.Admin.ViewModels.ModifyFeatureFlagsFlightViewModel", "d0/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_flight_view_model.html", null ]
-      ] ],
-      [ "NuGetGallery.Areas.Admin.ViewModels.IModifyFeatureFlagsViewModel< TBase >", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model.html", null ]
-    ] ],
-    [ "IFeatureFlagStorageService", null, [
-      [ "NuGetGallery.Features.FeatureFlagFileStorageService", "d0/dbd/class_nu_get_gallery_1_1_features_1_1_feature_flag_file_storage_service.html", [
-        [ "NuGetGallery.Features.EditableFeatureFlagFileStorageService", "d1/dba/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service.html", null ]
-      ] ],
-      [ "NuGetGallery.Features.IEditableFeatureFlagStorageService", "d0/da9/interface_nu_get_gallery_1_1_features_1_1_i_editable_feature_flag_storage_service.html", [
-        [ "NuGetGallery.Features.EditableFeatureFlagFileStorageService", "d1/dba/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service.html", null ]
-      ] ]
-    ] ],
-    [ "IFeatureFlagTelemetryService", null, [
-      [ "NuGetGallery.TelemetryService", "da/d90/class_nu_get_gallery_1_1_telemetry_service.html", [
-        [ "NuGetGallery.TelemetryServiceFacts.BaseFacts.TelemetryServiceWrapper", "d1/d81/class_nu_get_gallery_1_1_telemetry_service_facts_1_1_base_facts_1_1_telemetry_service_wrapper.html", null ]
-      ] ]
-    ] ],
     [ "FenixAlliance.ABP.FileSystem.Drivers.IFile", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemFile", "d4/d08/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_file.html", null ]
-    ] ],
-    [ "NuGetGallery.IFileMetadataService", "d6/d45/interface_nu_get_gallery_1_1_i_file_metadata_service.html", [
-      [ "NuGetGallery.PackageFileMetadataService", "dc/d0a/class_nu_get_gallery_1_1_package_file_metadata_service.html", null ],
-      [ "NuGetGallery.SymbolPackageFileMetadataService", "de/d5b/class_nu_get_gallery_1_1_symbol_package_file_metadata_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IFileReference", "de/d61/interface_nu_get_gallery_1_1_i_file_reference.html", [
-      [ "NuGetGallery.CloudFileReference", "dd/d6a/class_nu_get_gallery_1_1_cloud_file_reference.html", null ],
-      [ "NuGetGallery.LocalFileReference", "d9/dda/class_nu_get_gallery_1_1_local_file_reference.html", null ],
-      [ "NuGetGallery.Services.TestFileReference", "db/dd7/class_nu_get_gallery_1_1_services_1_1_test_file_reference.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.FileSystem.IFileSystem", "d9/dd7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_file_system.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.FileSystem.FileSystemOptions", "d5/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_file_system_options.html", null ]
@@ -2763,67 +1325,19 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IFileSystemService", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.FileSystemService", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service.html", null ]
     ] ],
-    [ "NuGetGallery.IFileSystemService", "d1/d92/interface_nu_get_gallery_1_1_i_file_system_service.html", [
-      [ "NuGetGallery.FileSystemService", "db/db1/class_nu_get_gallery_1_1_file_system_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IForexService", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html", [
       [ "FenixAlliance.ABM.Data.Clients.CurrencyExchange.ForexService", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service.html", null ]
     ] ],
-    [ "NuGetGallery.IFormsAuthenticationService", "d1/d7a/interface_nu_get_gallery_1_1_i_forms_authentication_service.html", [
-      [ "NuGetGallery.FormsAuthenticationService", "d9/df0/class_nu_get_gallery_1_1_forms_authentication_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Configuration.IGalleryConfigurationService", "d6/d44/interface_nu_get_gallery_1_1_configuration_1_1_i_gallery_configuration_service.html", [
-      [ "NuGetGallery.Configuration.ConfigurationService", "db/d53/class_nu_get_gallery_1_1_configuration_1_1_configuration_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IGitHubUsageConfiguration", "d3/db2/interface_nu_get_gallery_1_1_i_git_hub_usage_configuration.html", [
-      [ "NuGetGallery.GitHubUsageConfiguration", "d9/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.Ingest.IGitHubVersionRangeParser", "d5/d18/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_git_hub_version_range_parser.html", [
-      [ "GitHubVulnerabilities2Db.Ingest.GitHubVersionRangeParser", "d8/d58/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parser.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IGlobalDataAccess", "db/db1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_global_data_access.html", null ],
-    [ "NuGetGallery.IGravatarProxyService", "d9/d92/interface_nu_get_gallery_1_1_i_gravatar_proxy_service.html", [
-      [ "NuGetGallery.GravatarProxyService", "dd/d76/class_nu_get_gallery_1_1_gravatar_proxy_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IHealthcareService", "d8/dde/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_healthcare_service.html", null ],
     [ "IHealthCheck", null, [
       [ "FenixAlliance.ABP.HealthChecks.Core.Checks.CMSHealthCheck", "da/d35/class_fenix_alliance_1_1_a_b_p_1_1_health_checks_1_1_core_1_1_checks_1_1_c_m_s_health_check.html", null ]
-    ] ],
-    [ "NuGetGallery.IHijackSearchServiceFactory", "dd/dd8/interface_nu_get_gallery_1_1_i_hijack_search_service_factory.html", [
-      [ "NuGetGallery.HijackSearchServiceFactory", "d9/d5f/class_nu_get_gallery_1_1_hijack_search_service_factory.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IHolderDataAccess", "d2/d95/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_holder_data_access.html", [
       [ "FenixAlliance.ABM.Data.Access.Clients.HolderDataAccessClient", "d6/d20/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_holder_data_access_client.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IHolderService", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html", null ]
-    ] ],
-    [ "IHtmlString", null, [
-      [ "NuGetGallery.Helpers.TreeView< T >", "d9/d50/class_nu_get_gallery_1_1_helpers_1_1_tree_view.html", null ]
-    ] ],
-    [ "IHttpActionResult", null, [
-      [ "NuGetGallery.WebApi.PlainTextResult", "d2/de5/class_nu_get_gallery_1_1_web_api_1_1_plain_text_result.html", null ],
-      [ "NuGetGallery.WebApi.QueryResult< TModel >", "d5/db8/class_nu_get_gallery_1_1_web_api_1_1_query_result.html", null ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.IHttpClientWrapper", "d5/db5/interface_nu_get_gallery_1_1_infrastructure_1_1_i_http_client_wrapper.html", [
-      [ "NuGetGallery.Infrastructure.HttpClientWrapper", "d8/d7b/class_nu_get_gallery_1_1_infrastructure_1_1_http_client_wrapper.html", null ]
-    ] ],
-    [ "IHttpModule", null, [
-      [ "NuGetGallery.AsyncFileUpload.AsyncFileUploadModule", "d5/d6d/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_module.html", null ],
-      [ "NuGetGallery.Modules.CookieComplianceHttpModule", "d6/d11/class_nu_get_gallery_1_1_modules_1_1_cookie_compliance_http_module.html", null ]
-    ] ],
-    [ "NuGetGallery.IIconUrlProvider", "dd/d62/interface_nu_get_gallery_1_1_i_icon_url_provider.html", [
-      [ "NuGetGallery.ConfigurationIconFileProvider", "d4/dba/class_nu_get_gallery_1_1_configuration_icon_file_provider.html", null ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.Lucene.IIndexingJobFactory", "dd/d10/interface_nu_get_gallery_1_1_infrastructure_1_1_lucene_1_1_i_indexing_job_factory.html", [
-      [ "NuGetGallery.Infrastructure.Search.ExternalSearchService", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html", null ],
-      [ "NuGetGallery.LuceneIndexingService", "da/d80/class_nu_get_gallery_1_1_lucene_indexing_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IIndexingService", "de/d49/interface_nu_get_gallery_1_1_i_indexing_service.html", [
-      [ "GitHubVulnerabilities2Db.Gallery.ThrowingIndexingService", "dc/d41/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_indexing_service.html", null ],
-      [ "NuGetGallery.AccountDeleter.EmptyIndexingService", "d0/db0/class_nu_get_gallery_1_1_account_deleter_1_1_empty_indexing_service.html", null ],
-      [ "NuGetGallery.Infrastructure.Search.ExternalSearchService", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html", null ],
-      [ "NuGetGallery.LuceneIndexingService", "da/d80/class_nu_get_gallery_1_1_lucene_indexing_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IInstallerService", "d3/dd3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_installer_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.InstallerService", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service.html", null ]
@@ -2853,207 +1367,27 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ILmsService", "d2/d1e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_service.html", null ],
     [ "ILogger", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLogger", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_ha515997276f13d94ba5322ef8952b863f.html", null ],
-      [ "Microsoft.Extensions.Logging.XunitLogger", "d7/d35/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger.html", null ],
-      [ "NuGetGallery.Diagnostics.IDiagnosticsSource", "dc/d0f/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_source.html", [
-        [ "NuGetGallery.Diagnostics.NullDiagnosticsSource", "d7/d28/class_nu_get_gallery_1_1_diagnostics_1_1_null_diagnostics_source.html", null ],
-        [ "NuGetGallery.Diagnostics.TraceDiagnosticsSource", "d2/dc1/class_nu_get_gallery_1_1_diagnostics_1_1_trace_diagnostics_source.html", null ]
-      ] ]
+      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLogger", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_ha515997276f13d94ba5322ef8952b863f.html", null ]
     ] ],
     [ "ILoggerProvider", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLoggerProvider", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa.html", null ],
-      [ "Microsoft.Extensions.Logging.XunitLoggerProvider", "d8/def/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger_provider.html", null ]
+      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLoggerProvider", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Logging.ILoggerService< T >", "d2/d1d/interface_fenix_alliance_1_1_a_c_l_1_1_logging_1_1_i_logger_service.html", null ],
-    [ "NuGetGallery.ILoginDiscontinuationConfiguration", "d6/d89/interface_nu_get_gallery_1_1_i_login_discontinuation_configuration.html", [
-      [ "NuGetGallery.LoginDiscontinuationConfiguration", "de/dd3/class_nu_get_gallery_1_1_login_discontinuation_configuration.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ILogisticsService", "db/d88/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logistics_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.ILogLevel", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.LogLevel", "d6/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_log_level.html", null ]
     ] ],
-    [ "NuGetGallery.ILuceneDocumentFactory", "d3/d03/interface_nu_get_gallery_1_1_i_lucene_document_factory.html", [
-      [ "NuGetGallery.LuceneDocumentFactory", "de/d36/class_nu_get_gallery_1_1_lucene_document_factory.html", null ]
-    ] ],
-    [ "IMailSender", null, [
-      [ "NuGetGallery.TestMailSender", "d6/da7/class_nu_get_gallery_1_1_test_mail_sender.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IManufacturingService", "dc/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_manufacturing_service.html", null ],
-    [ "NuGetGallery.IMarkdownService", "d2/db7/interface_nu_get_gallery_1_1_i_markdown_service.html", [
-      [ "NuGetGallery.MarkdownService", "d4/d1f/class_nu_get_gallery_1_1_markdown_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMarketingService", "d6/da1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketing_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMediaService", "d8/dac/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_media_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMenusService", "df/d39/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_menus_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.MenusService", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service.html", null ]
     ] ],
-    [ "IMessageHandler", null, [
-      [ "NuGetGallery.AccountDeleter.AccountDeleteMessageHandler", "d9/d25/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_message_handler.html", null ]
-    ] ],
-    [ "IMessageService", null, [
-      [ "NuGetGallery.AccountDeleter.DebugMessageService", "d7/d06/class_nu_get_gallery_1_1_account_deleter_1_1_debug_message_service.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.MarkdownMessageService", "d9/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_markdown_message_service.html", null ]
-    ] ],
-    [ "IMessageServiceConfiguration", null, [
-      [ "NuGetGallery.AccountDeleter.CoreMessageServiceConfiguration", "d0/d4a/class_nu_get_gallery_1_1_account_deleter_1_1_core_message_service_configuration.html", null ],
-      [ "NuGetGallery.Configuration.IAppConfiguration", "d6/d7c/interface_nu_get_gallery_1_1_configuration_1_1_i_app_configuration.html", [
-        [ "NuGetGallery.AccountDeleter.GalleryConfiguration", "d4/d7d/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_configuration.html", null ],
-        [ "NuGetGallery.Configuration.AppConfiguration", "d0/d08/class_nu_get_gallery_1_1_configuration_1_1_app_configuration.html", null ]
-      ] ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.TestMessageServiceConfiguration", "d2/d27/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_test_message_service_configuration.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.TestMessageServiceConfiguration", "d9/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_test_message_service_configuration.html", null ]
-    ] ],
-    [ "IMetadataAware", null, [
-      [ "NuGetGallery.HintAttribute", "dd/dea/class_nu_get_gallery_1_1_hint_attribute.html", null ],
-      [ "NuGetGallery.SubtextAttribute", "d4/d8f/class_nu_get_gallery_1_1_subtext_attribute.html", null ]
-    ] ],
-    [ "NuGet.Services.DatabaseMigration.IMigrationContextFactory", "dd/d7e/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context_factory.html", [
-      [ "NuGetGallery.DatabaseMigrationTools.MigrationContextFactory", "d1/d78/class_nu_get_gallery_1_1_database_migration_tools_1_1_migration_context_factory.html", null ]
-    ] ],
-    [ "IMigrationMetadata", null, [
-      [ "NuGetGallery.Areas.Admin.DropPagerDutyColumn", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column.html", null ],
-      [ "NuGetGallery.Areas.Admin.PackageInfoIsOptional", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional.html", null ],
-      [ "NuGetGallery.Areas.Admin.SupportRequestDbModel", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model.html", null ],
-      [ "NuGetGallery.Migrations.AccountDeleteSignatureNotRequired", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required.html", null ],
-      [ "NuGetGallery.Migrations.AddAccountDelete", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete.html", null ],
-      [ "NuGetGallery.Migrations.AddAdditionalIndexForPackageDeletes", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificate", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificateDetails", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details.html", null ],
-      [ "NuGetGallery.Migrations.AddCertificateRegistration", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration.html", null ],
-      [ "NuGetGallery.Migrations.AddCredentialDescriptionColumn", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column.html", null ],
-      [ "NuGetGallery.Migrations.AddCredentialRevocationSourceKeyColumn", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column.html", null ],
-      [ "NuGetGallery.Migrations.AddDeprecationEntities", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities.html", null ],
-      [ "NuGetGallery.Migrations.AddEmbeddedReadmeTypeColumn", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column.html", null ],
-      [ "NuGetGallery.Migrations.AddEnableMultiFactorAuthentication", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication.html", null ],
-      [ "NuGetGallery.Migrations.AddExpirationColumn", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexCredentialExpires", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForCredentialsUserKey", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForPackageDeletes", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForPackageLicenseReportsPackageKey", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexForUserEmailAddress", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexIsLatestSemVer2", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexPackageRegistrationKeySemVer", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexSemVerLevelKey", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexSemVerLevelKeyPackageRegistrationKey", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexToPackageDependencies", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexToUserSecurityPolicy", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy.html", null ],
-      [ "NuGetGallery.Migrations.AddIndexUsersEmail", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email.html", null ],
-      [ "NuGetGallery.Migrations.AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table.html", null ],
-      [ "NuGetGallery.Migrations.AddMinRequiredVerisonColumn", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column.html", null ],
-      [ "NuGetGallery.Migrations.AddNuGetOperation", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageEditLastErrorColumn", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageIdLocking", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageLicenseReport2Sproc", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageLicenseReportSproc", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageOwnershipRequestsPage", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageRename", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageStatusKey", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageTypes", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types.html", null ],
-      [ "NuGetGallery.Migrations.AddPackageVulnerabilities", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities.html", null ],
-      [ "NuGetGallery.Migrations.AddPasswordHash", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash.html", null ],
-      [ "NuGetGallery.Migrations.AddRepositoryType", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type.html", null ],
-      [ "NuGetGallery.Migrations.AddRepositoryURL_ReadMe", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me.html", null ],
-      [ "NuGetGallery.Migrations.AddScopeCredentialKey", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key.html", null ],
-      [ "NuGetGallery.Migrations.AddSemVer2LatestVersionColumns", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns.html", null ],
-      [ "NuGetGallery.Migrations.AddSemVerLevelKeyColumn", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column.html", null ],
-      [ "NuGetGallery.Migrations.AddShortCertificateNames", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names.html", null ],
-      [ "NuGetGallery.Migrations.AddSmtpPassword", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password.html", null ],
-      [ "NuGetGallery.Migrations.AddTargetFxToDependencies", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies.html", null ],
-      [ "NuGetGallery.Migrations.AddTriggerForPackagesLastEdited", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited.html", null ],
-      [ "NuGetGallery.Migrations.AddUserCertificatesIndex", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index.html", null ],
-      [ "NuGetGallery.Migrations.AddUserFailedLogin", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerabilityEntities", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerablePackageVersionRangeFirstPatchedVersion", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version.html", null ],
-      [ "NuGetGallery.Migrations.AddVulnerablePackageVersionRangeIdIndex", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index.html", null ],
-      [ "NuGetGallery.Migrations.AdditionalIndexesForPerformance", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance.html", null ],
-      [ "NuGetGallery.Migrations.AggregateStatistics_TotalDownloadCount", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count.html", null ],
-      [ "NuGetGallery.Migrations.AggregateStatsSp_ReduxLastUpdate", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update.html", null ],
-      [ "NuGetGallery.Migrations.ApiKeyDescription", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description.html", null ],
-      [ "NuGetGallery.Migrations.ApiKeyOwnerScope", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope.html", null ],
-      [ "NuGetGallery.Migrations.ChangeCuratedFeedIdToName", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name.html", null ],
-      [ "NuGetGallery.Migrations.ColumnLengthOfPackageTable", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table.html", null ],
-      [ "NuGetGallery.Migrations.Contract_UniqueCuratedPackages", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages.html", null ],
-      [ "NuGetGallery.Migrations.CreateAggregateStatisticsSP", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p.html", null ],
-      [ "NuGetGallery.Migrations.CredentialDoesNotExpire", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire.html", null ],
-      [ "NuGetGallery.Migrations.CredentialExpires", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires.html", null ],
-      [ "NuGetGallery.Migrations.CredentialLastUsed", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used.html", null ],
-      [ "NuGetGallery.Migrations.CredentialsTable", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table.html", null ],
-      [ "NuGetGallery.Migrations.CuratedFeeds", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds.html", null ],
-      [ "NuGetGallery.Migrations.CuratedPackages", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages.html", null ],
-      [ "NuGetGallery.Migrations.CvesCanBeEmpty", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty.html", null ],
-      [ "NuGetGallery.Migrations.DeletedByOptional", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional.html", null ],
-      [ "NuGetGallery.Migrations.DevelopmentDependencyMetadata", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata.html", null ],
-      [ "NuGetGallery.Migrations.DisplayPackageIndexes", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes.html", null ],
-      [ "NuGetGallery.Migrations.EditableMetadata", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata.html", null ],
-      [ "NuGetGallery.Migrations.EmbeddedIconFlag", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag.html", null ],
-      [ "NuGetGallery.Migrations.EntityFramework6", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6.html", null ],
-      [ "NuGetGallery.Migrations.ExecuteELMAHSql", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql.html", null ],
-      [ "NuGetGallery.Migrations.FixSymbolCreatedColumnEFIssue", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue.html", null ],
-      [ "NuGetGallery.Migrations.FrameworkName", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name.html", null ],
-      [ "NuGetGallery.Migrations.GalleryOwnerEmailSettings", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings.html", null ],
-      [ "NuGetGallery.Migrations.GallerySettings", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings.html", null ],
-      [ "NuGetGallery.Migrations.GallerySettings_TotalDownloadCount", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count.html", null ],
-      [ "NuGetGallery.Migrations.IndexPackagesLastUpdatedWithIsListed", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed.html", null ],
-      [ "NuGetGallery.Migrations.Initial", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial.html", null ],
-      [ "NuGetGallery.Migrations.Language", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language.html", null ],
-      [ "NuGetGallery.Migrations.LicenseChanges", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes.html", null ],
-      [ "NuGetGallery.Migrations.LicenseReports", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports.html", null ],
-      [ "NuGetGallery.Migrations.ListPackagesIndexes", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes.html", null ],
-      [ "NuGetGallery.Migrations.MakeCertificatesSha1ThumbprintRequired", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required.html", null ],
-      [ "NuGetGallery.Migrations.MembershipRequests", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests.html", null ],
-      [ "NuGetGallery.Migrations.MovingGallerySettingsToConfiguration", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration.html", null ],
-      [ "NuGetGallery.Migrations.MyPackagesIndexes", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes.html", null ],
-      [ "NuGetGallery.Migrations.NormalizedVersionColumn", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column.html", null ],
-      [ "NuGetGallery.Migrations.NotifyPackagePushed", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed.html", null ],
-      [ "NuGetGallery.Migrations.NullifyOldColumns", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns.html", null ],
-      [ "NuGetGallery.Migrations.Organizations", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations.html", null ],
-      [ "NuGetGallery.Migrations.PackageDelete", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete.html", null ],
-      [ "NuGetGallery.Migrations.PackageDependencyVersionSpec", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec.html", null ],
-      [ "NuGetGallery.Migrations.PackageIndexes", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes.html", null ],
-      [ "NuGetGallery.Migrations.PackageLastEditedTimestamp", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp.html", null ],
-      [ "NuGetGallery.Migrations.PackageOwnerRequests", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests.html", null ],
-      [ "NuGetGallery.Migrations.PackageReleaseNotes", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes.html", null ],
-      [ "NuGetGallery.Migrations.PackageSortingIndexes", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes.html", null ],
-      [ "NuGetGallery.Migrations.PackageStatistics", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics.html", null ],
-      [ "NuGetGallery.Migrations.PackageVulnerabilityAdvisoryUrlRenameAndRequired", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required.html", null ],
-      [ "NuGetGallery.Migrations.PackagesCreatedDateDefaultValue", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value.html", null ],
-      [ "NuGetGallery.Migrations.PrefixReservation", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation.html", null ],
-      [ "NuGetGallery.Migrations.PrereleaseChanges", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes.html", null ],
-      [ "NuGetGallery.Migrations.RemoveCuratedFeedEntities", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities.html", null ],
-      [ "NuGetGallery.Migrations.RemoveOldCredentialColumns", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns.html", null ],
-      [ "NuGetGallery.Migrations.RemoveOldCredentialColumnsFromUsersTable", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table.html", null ],
-      [ "NuGetGallery.Migrations.RemovePackageEdits", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits.html", null ],
-      [ "NuGetGallery.Migrations.RemovePackageStatistics", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics.html", null ],
-      [ "NuGetGallery.Migrations.RemoveSqlDownloadStatsAggregation", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation.html", null ],
-      [ "NuGetGallery.Migrations.RemoveUserCertificateIsActive", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active.html", null ],
-      [ "NuGetGallery.Migrations.RemoveVulnerabilityDataFromPackageDeprecationModel", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model.html", null ],
-      [ "NuGetGallery.Migrations.RemoveWorkItems", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items.html", null ],
-      [ "NuGetGallery.Migrations.ScopedCredential", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential.html", null ],
-      [ "NuGetGallery.Migrations.SecurityPolicies", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies.html", null ],
-      [ "NuGetGallery.Migrations.SecurityPoliciesFix", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix.html", null ],
-      [ "NuGetGallery.Migrations.SupportNewClientHeaders", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers.html", null ],
-      [ "NuGetGallery.Migrations.SymbolPackages", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages.html", null ],
-      [ "NuGetGallery.Migrations.UniquePackageRegistration", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration.html", null ],
-      [ "NuGetGallery.Migrations.UserCreatedDate", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date.html", null ],
-      [ "NuGetGallery.Migrations.UserLookupOptimization", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization.html", null ],
-      [ "NuGetGallery.Migrations.UserSecurityPolicies_SubscriptionColumn", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column.html", null ],
-      [ "NuGetGallery.Migrations.WidenStatisticsOperationColumn", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column.html", null ]
-    ] ],
-    [ "NuGetGallery.ImmediatePackageValidatorFacts", "da/d29/class_nu_get_gallery_1_1_immediate_package_validator_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ImmobilizedSecurityType", "d0/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilized_security_type.html", null ],
-    [ "IModelBinder", null, [
-      [ "NuGetGallery.ArrayModelBinder< T >", "d6/db1/class_nu_get_gallery_1_1_array_model_binder.html", null ]
-    ] ],
-    [ "IModifyFeatureFlagsViewModel", null, [
-      [ "NuGetGallery.Areas.Admin.ViewModels.IModifyFeatureFlagsViewModel< TBase >", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IMongoHelpers", "da/d4b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_mongo_helpers.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMongoService", "df/d7c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_mongo_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.MongoHelpers", "d6/d47/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_mongo_helpers.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Services.MongoService", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html", null ]
-    ] ],
-    [ "INamingContainer", null, [
-      [ "NuGetGallery.DefaultEntityTemplate._NamingContainer", "da/d34/class_nu_get_gallery_1_1_default_entity_template_1_1___naming_container.html", null ]
     ] ],
     [ "FenixAlliance.ABS.Core.Navigation.INavigationManager", "df/dd4/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_i_navigation_manager.html", [
       [ "FenixAlliance.ABS.Core.Navigation.NavigationManager", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html", null ]
@@ -3122,10 +1456,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.UBL.UnknownPriceIndicatorType", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unknown_price_indicator_type.html", null ],
       [ "FenixAlliance.ABM.Models.UBL.VariantConstraintIndicatorType", "d7/dc9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_variant_constraint_indicator_type.html", null ]
     ] ],
-    [ "GitHubVulnerabilities2Db.GraphQL.INode", "db/d72/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_node.html", [
-      [ "GitHubVulnerabilities2Db.GraphQL.SecurityAdvisory", "d0/d7b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_advisory.html", null ],
-      [ "GitHubVulnerabilities2Db.GraphQL.SecurityVulnerability", "da/d3d/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability.html", null ]
-    ] ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.ValidationRules.InputValidationRule", "dc/d4b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_validation_rules_1_1_input_validation_rule.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.InquiryRequest", "d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html", [
       [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.Types.BusinessTeamInquiryRequest", "d4/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request.html", null ],
@@ -3165,87 +1495,7 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRelations.Scopes.ProjectInvoice", "d4/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re001c99d2c89e694f563c8ade6595394b.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.InvoiceType", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_invoice_type.html", null ],
-    [ "NuGetGallery.IObjectMaterializedInterceptor", "dd/d58/interface_nu_get_gallery_1_1_i_object_materialized_interceptor.html", [
-      [ "NuGetGallery.DownloadCountObjectMaterializedInterceptor", "df/d91/class_nu_get_gallery_1_1_download_count_object_materialized_interceptor.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.IODataCacheConfiguration", "d8/d2d/interface_nu_get_gallery_1_1_services_1_1_i_o_data_cache_configuration.html", [
-      [ "NuGetGallery.Services.ODataCacheConfiguration", "d5/da7/class_nu_get_gallery_1_1_services_1_1_o_data_cache_configuration.html", null ]
-    ] ],
-    [ "IODataRoutingConvention", null, [
-      [ "NuGetGallery.OData.Conventions.ActionCountRoutingConvention", "d5/d13/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_action_count_routing_convention.html", null ],
-      [ "NuGetGallery.OData.Conventions.ControllerAliasingODataRoutingConvention", "dd/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_controller_aliasing_o_data_routing_convention.html", null ],
-      [ "NuGetGallery.OData.Conventions.EntitySetPropertyRoutingConvention", "da/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_property_routing_convention.html", null ],
-      [ "NuGetGallery.OData.Conventions.MethodNameActionRoutingConvention", "de/db0/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_method_name_action_routing_convention.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IOrganizationDataAccess", "dc/d28/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_organization_data_access.html", null ],
-    [ "NuGetGallery.Configuration.IPackageDeleteConfiguration", "de/d14/interface_nu_get_gallery_1_1_configuration_1_1_i_package_delete_configuration.html", [
-      [ "NuGetGallery.Configuration.PackageDeleteConfiguration", "d1/df3/class_nu_get_gallery_1_1_configuration_1_1_package_delete_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageDeleteService", "d7/daa/interface_nu_get_gallery_1_1_i_package_delete_service.html", [
-      [ "NuGetGallery.PackageDeleteService", "d4/d2c/class_nu_get_gallery_1_1_package_delete_service.html", [
-        [ "NuGetGallery.PackageDeleteServiceFacts.TestPackageDeleteService", "d9/de3/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_test_package_delete_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.IPackageDeprecationManagementService", "dd/d61/interface_nu_get_gallery_1_1_i_package_deprecation_management_service.html", [
-      [ "NuGetGallery.PackageDeprecationManagementService", "dc/d0c/class_nu_get_gallery_1_1_package_deprecation_management_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageDeprecationService", "da/dc3/interface_nu_get_gallery_1_1_i_package_deprecation_service.html", [
-      [ "NuGetGallery.PackageDeprecationService", "d3/d5f/class_nu_get_gallery_1_1_package_deprecation_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.IPackageFilter", "d6/db5/interface_nu_get_gallery_1_1_services_1_1_i_package_filter.html", [
-      [ "NuGetGallery.Services.PackageFilter", "d7/d68/class_nu_get_gallery_1_1_services_1_1_package_filter.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageMetadataValidationService", "db/d97/interface_nu_get_gallery_1_1_i_package_metadata_validation_service.html", [
-      [ "NuGetGallery.PackageMetadataValidationService", "da/d3a/class_nu_get_gallery_1_1_package_metadata_validation_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageOwnerRequestService", "d3/db8/interface_nu_get_gallery_1_1_i_package_owner_request_service.html", [
-      [ "NuGetGallery.PackageOwnerRequestService", "db/d0f/class_nu_get_gallery_1_1_package_owner_request_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageOwnershipManagementService", "db/dc4/interface_nu_get_gallery_1_1_i_package_ownership_management_service.html", [
-      [ "NuGetGallery.PackageOwnershipManagementService", "db/dc4/class_nu_get_gallery_1_1_package_ownership_management_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageRenameService", "dc/dd4/interface_nu_get_gallery_1_1_i_package_rename_service.html", [
-      [ "NuGetGallery.PackageRenameService", "d0/d9e/class_nu_get_gallery_1_1_package_rename_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageUpdateService", "d4/d22/interface_nu_get_gallery_1_1_i_package_update_service.html", [
-      [ "NuGetGallery.PackageUpdateService", "d7/d2b/class_nu_get_gallery_1_1_package_update_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageUploadService", "dd/dcd/interface_nu_get_gallery_1_1_i_package_upload_service.html", [
-      [ "NuGetGallery.PackageUploadService", "d3/df5/class_nu_get_gallery_1_1_package_upload_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageValidationInitiator< TPackageEntity >", "d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html", [
-      [ "NuGetGallery.AsynchronousPackageValidationInitiator< TPackageEntity >", "d9/df6/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator.html", null ],
-      [ "NuGetGallery.ImmediatePackageValidator< TPackageEntity >", "dc/dd2/class_nu_get_gallery_1_1_immediate_package_validator.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageValidationInitiator< Package >", "d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html", null ],
-    [ "NuGetGallery.IPackageValidationInitiator< SymbolPackage >", "d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html", null ],
-    [ "NuGetGallery.IPackageVersionModel", "d6/d2a/interface_nu_get_gallery_1_1_i_package_version_model.html", [
-      [ "NuGetGallery.Areas.Admin.ViewModels.NuGetPackageValidationViewModel", "d4/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_nu_get_package_validation_view_model.html", null ],
-      [ "NuGetGallery.PackageViewModel", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html", [
-        [ "NuGetGallery.DisplayLicenseViewModel", "d2/dd5/class_nu_get_gallery_1_1_display_license_view_model.html", null ],
-        [ "NuGetGallery.ListPackageItemViewModel", "df/d36/class_nu_get_gallery_1_1_list_package_item_view_model.html", [
-          [ "NuGetGallery.DeleteAccountListPackageItemViewModel", "dd/df0/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model.html", null ],
-          [ "NuGetGallery.DisplayPackageViewModel", "d5/d5f/class_nu_get_gallery_1_1_display_package_view_model.html", [
-            [ "NuGetGallery.DeletePackageViewModel", "d4/db2/class_nu_get_gallery_1_1_delete_package_view_model.html", null ]
-          ] ],
-          [ "NuGetGallery.ListPackageItemRequiredSignerViewModel", "de/d9f/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model.html", null ],
-          [ "NuGetGallery.ManagePackageViewModel", "d0/df4/class_nu_get_gallery_1_1_manage_package_view_model.html", null ]
-        ] ]
-      ] ],
-      [ "NuGetGallery.ReportViewModel", "d4/dfd/class_nu_get_gallery_1_1_report_view_model.html", [
-        [ "NuGetGallery.ReportAbuseViewModel", "d8/d5e/class_nu_get_gallery_1_1_report_abuse_view_model.html", null ],
-        [ "NuGetGallery.ReportMyPackageViewModel", "d0/d0a/class_nu_get_gallery_1_1_report_my_package_view_model.html", null ]
-      ] ],
-      [ "NuGetGallery.TrivialPackageVersionModel", "db/dd7/class_nu_get_gallery_1_1_trivial_package_version_model.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageVulnerabilitiesManagementService", "d2/d23/interface_nu_get_gallery_1_1_i_package_vulnerabilities_management_service.html", [
-      [ "NuGetGallery.PackageVulnerabilitiesManagementService", "d1/d90/class_nu_get_gallery_1_1_package_vulnerabilities_management_service.html", null ],
-      [ "VerifyGitHubVulnerabilities.Verify.PackageVulnerabilitiesVerifier", "d9/d65/class_verify_git_hub_vulnerabilities_1_1_verify_1_1_package_vulnerabilities_verifier.html", null ]
-    ] ],
-    [ "NuGetGallery.IPackageVulnerabilitiesService", "d1/d8c/interface_nu_get_gallery_1_1_i_package_vulnerabilities_service.html", [
-      [ "NuGetGallery.PackageVulnerabilitiesService", "d9/daf/class_nu_get_gallery_1_1_package_vulnerabilities_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IPageableEnumerable< out out T >", "d3/def/interface_nu_get_gallery_1_1_i_pageable_enumerable.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.IPictureEditor", "d4/d20/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_i_picture_editor.html", [
       [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.DefaultPictureEditor", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor.html", null ]
     ] ],
@@ -3265,23 +1515,10 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IPortalService", "db/d5f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_portal_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.PortalService", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service.html", null ]
     ] ],
-    [ "NuGetGallery.IPreviousNextPager", "d8/df0/interface_nu_get_gallery_1_1_i_previous_next_pager.html", [
-      [ "NuGetGallery.PreviousNextPagerViewModel< T >", "d8/dc6/class_nu_get_gallery_1_1_previous_next_pager_view_model.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IProcurementService", "df/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_procurement_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IProjectService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_project_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IQualityService", "dc/d9b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quality_service.html", null ],
-    [ "NuGetGallery.Services.IQueryHintConfiguration", "d9/d03/interface_nu_get_gallery_1_1_services_1_1_i_query_hint_configuration.html", [
-      [ "NuGetGallery.Services.QueryHintConfiguration", "d1/db5/class_nu_get_gallery_1_1_services_1_1_query_hint_configuration.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.GraphQL.IQueryService", "d3/dfb/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_query_service.html", [
-      [ "GitHubVulnerabilities2Db.GraphQL.QueryService", "d6/d7f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_service.html", null ],
-      [ "VerifyGitHubVulnerabilities.GraphQL.QueryService", "dd/df8/class_verify_git_hub_vulnerabilities_1_1_graph_q_l_1_1_query_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IRawSearchService", "d6/d76/interface_nu_get_gallery_1_1_i_raw_search_service.html", [
-      [ "NuGetGallery.Infrastructure.Search.ExternalSearchService", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.IRazorCompilationService", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service.html", [
       [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.RazorCompilationService", "dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html", null ]
     ] ],
@@ -3289,25 +1526,11 @@ var hierarchy =
       [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html", null ],
       [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", null ]
     ] ],
-    [ "NuGetGallery.IReadMeService", "db/dee/interface_nu_get_gallery_1_1_i_read_me_service.html", null ],
-    [ "NuGetGallery.IReadOnlyEntityRepository< T >", "db/d80/interface_nu_get_gallery_1_1_i_read_only_entity_repository.html", [
-      [ "NuGetGallery.IEntityRepository< T >", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", [
-        [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeEntityRepository< T >", "da/d84/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entity_repository.html", null ],
-        [ "NuGetGallery.Areas.Admin.Services.ValidationEntityRepository< T >", "dd/d67/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_entity_repository.html", null ],
-        [ "NuGetGallery.EntityRepository< T >", "d1/d24/class_nu_get_gallery_1_1_entity_repository.html", null ]
-      ] ],
-      [ "NuGetGallery.ReadOnlyEntityRepository< T >", "d4/d5a/class_nu_get_gallery_1_1_read_only_entity_repository.html", null ]
-    ] ],
-    [ "NuGetGallery.IReadOnlyEntityRepository< Package >", "db/d80/interface_nu_get_gallery_1_1_i_read_only_entity_repository.html", null ],
     [ "IRecognizer", null, [
       [ "FenixAlliance.ABP.BotEngine.Core.LUIS.BotLUISRecognizer", "d1/df3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_l_u_i_s_1_1_bot_l_u_i_s_recognizer.html", null ]
     ] ],
     [ "IRemoteDependencyProvider", null, [
       [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.NuGetRemoteDependencyProvider", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4.html", null ]
-    ] ],
-    [ "NuGetGallery.IReportService", "df/d64/interface_nu_get_gallery_1_1_i_report_service.html", [
-      [ "NuGetGallery.CloudReportService", "dd/d51/class_nu_get_gallery_1_1_cloud_report_service.html", null ],
-      [ "NuGetGallery.NullReportService", "df/d11/class_nu_get_gallery_1_1_null_report_service.html", null ]
     ] ],
     [ "IRequestHandler", null, [
       [ "FenixAlliance.ABM.Data.Access.CQRS.Handlers.GetAccountHolderHander", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_get_account_holder_hander.html", null ]
@@ -3315,51 +1538,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IRequestService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.RequestService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html", null ]
     ] ],
-    [ "NuGetGallery.IReservedNamespaceService", "d5/dc9/interface_nu_get_gallery_1_1_i_reserved_namespace_service.html", [
-      [ "NuGetGallery.ReservedNamespaceService", "dc/d56/class_nu_get_gallery_1_1_reserved_namespace_service.html", [
-        [ "NuGetGallery.TestUtils.TestableReservedNamespaceService", "de/dad/class_nu_get_gallery_1_1_test_utils_1_1_testable_reserved_namespace_service.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.Search.IResilientSearchClient", "dd/d46/interface_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_i_resilient_search_client.html", [
-      [ "NuGetGallery.Infrastructure.Search.GallerySearchServiceFacts.ResilientClientForTest", "d7/dad/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts_1_1_resilient_client_for_test.html", null ],
-      [ "NuGetGallery.Infrastructure.Search.ResilientSearchHttpClient", "d4/da5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_resilient_search_http_client.html", null ]
-    ] ],
     [ "IResourceFilter", null, [
       [ "FenixAlliance.ABP.FileSystem.Filters.DisableFormValueModelBindingAttribute", "db/d25/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters_1_1_disable_form_value_model_binding_attribute.html", null ]
     ] ],
-    [ "NuGetGallery.IRevalidationStateService", "de/d92/interface_nu_get_gallery_1_1_i_revalidation_state_service.html", [
-      [ "NuGetGallery.RevalidationStateService", "d1/dde/class_nu_get_gallery_1_1_revalidation_state_service.html", null ]
-    ] ],
-    [ "IRouteConstraint", null, [
-      [ "NuGetGallery.LatestVersionRouteConstraint", "db/dbb/class_nu_get_gallery_1_1_latest_version_route_constraint.html", null ],
-      [ "NuGetGallery.VersionRouteConstraint", "d2/db5/class_nu_get_gallery_1_1_version_route_constraint.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISalesService", "da/d38/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sales_service.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.ISearchClient", "d2/d49/interface_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_i_search_client.html", [
-      [ "NuGetGallery.Infrastructure.Search.GallerySearchClient", "d9/dc9/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_client.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISearchService", "da/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_search_service.html", null ],
-    [ "NuGetGallery.ISearchService", "d7/dde/interface_nu_get_gallery_1_1_i_search_service.html", [
-      [ "NuGetGallery.Infrastructure.Search.ExternalSearchService", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html", null ],
-      [ "NuGetGallery.LuceneSearchService", "dc/d71/class_nu_get_gallery_1_1_lucene_search_service.html", null ]
-    ] ],
-    [ "NuGetGallery.ISearchServiceFactory", "d4/d8a/interface_nu_get_gallery_1_1_i_search_service_factory.html", [
-      [ "NuGetGallery.SearchServiceFactory", "d6/df5/class_nu_get_gallery_1_1_search_service_factory.html", null ]
-    ] ],
-    [ "NuGetGallery.ISearchSideBySideService", "d6/d85/interface_nu_get_gallery_1_1_i_search_side_by_side_service.html", [
-      [ "NuGetGallery.SearchSideBySideService", "d1/d4b/class_nu_get_gallery_1_1_search_side_by_side_service.html", null ]
-    ] ],
-    [ "ISecretReaderFactory", null, [
-      [ "NuGetGallery.Configuration.SecretReader.EmptySecretReaderFactory", "de/d94/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_empty_secret_reader_factory.html", null ],
-      [ "NuGetGallery.Configuration.SecretReader.SecretReaderFactory", "d2/df8/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_secret_reader_factory.html", null ]
-    ] ],
-    [ "NuGetGallery.Security.ISecurityPolicyService", "dc/d94/interface_nu_get_gallery_1_1_security_1_1_i_security_policy_service.html", [
-      [ "GitHubVulnerabilities2Db.Gallery.ThrowingSecurityPolicyService", "d8/d89/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_security_policy_service.html", null ],
-      [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeSecurityPolicyService", "d4/dbf/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_security_policy_service.html", null ],
-      [ "NuGetGallery.Security.SecurityPolicyService", "d6/d1f/class_nu_get_gallery_1_1_security_1_1_security_policy_service.html", [
-        [ "NuGetGallery.Security.TestSecurityPolicyService", "d5/d26/class_nu_get_gallery_1_1_security_1_1_test_security_policy_service.html", null ]
-      ] ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISecurityService", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.SecurityService", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service.html", null ]
     ] ],
@@ -3382,23 +1565,11 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogWriteTo", "db/daa/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_write_to.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.Serilog.SerilogWriteTo", "d3/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_write_to.html", null ]
     ] ],
-    [ "NuGetGallery.Configuration.IServiceBusConfiguration", "de/d7d/interface_nu_get_gallery_1_1_configuration_1_1_i_service_bus_configuration.html", [
-      [ "NuGetGallery.Configuration.ServiceBusConfiguration", "d2/d0e/class_nu_get_gallery_1_1_configuration_1_1_service_bus_configuration.html", null ]
-    ] ],
-    [ "IServiceProvider", null, [
-      [ "NuGetGallery.Infrastructure.DependencyResolverServiceProviderAdapter", "de/d1a/class_nu_get_gallery_1_1_infrastructure_1_1_dependency_resolver_service_provider_adapter.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IShellService", "d3/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shell_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.ShellService", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_shell_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISignatorService", "db/d93/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_signator_service.html", null ],
-    [ "NuGetGallery.ISimpleBlobResultSegment", "d4/d42/interface_nu_get_gallery_1_1_i_simple_blob_result_segment.html", [
-      [ "NuGetGallery.BlobResultSegmentWrapper", "d8/dcc/class_nu_get_gallery_1_1_blob_result_segment_wrapper.html", null ]
-    ] ],
-    [ "NuGetGallery.ISimpleCloudBlob", "dc/d5b/interface_nu_get_gallery_1_1_i_simple_cloud_blob.html", [
-      [ "NuGetGallery.CloudBlobWrapper", "d9/d35/class_nu_get_gallery_1_1_cloud_blob_wrapper.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISmtpService", "dc/db2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_smtp_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.EmailHelpers", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Services.SmtpService", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service.html", null ]
@@ -3415,26 +1586,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISocialService", "de/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.SocialService", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_service.html", null ]
     ] ],
-    [ "NuGetGallery.ISourceDestinationRedirectPolicy", "d6/de2/interface_nu_get_gallery_1_1_i_source_destination_redirect_policy.html", [
-      [ "NuGetGallery.AllowLocalHttpRedirectPolicy", "d4/dfc/class_nu_get_gallery_1_1_allow_local_http_redirect_policy.html", null ],
-      [ "NuGetGallery.NoLessSecureDestinationRedirectPolicy", "d3/daf/class_nu_get_gallery_1_1_no_less_secure_destination_redirect_policy.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISpaService", "dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.SpaService", "d6/d2f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_spa_service.html", null ]
     ] ],
-    [ "NuGetGallery.Areas.Admin.Models.IssueStatusKeys", "db/d97/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status_keys.html", null ],
-    [ "IStartup", null, [
-      [ "FenixAlliance.ABS.MAUI.Startup", "d1/d9b/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_startup.html", null ]
-    ] ],
     [ "IStatePropertyAccessor", null, [
       [ "FenixAlliance.ABP.BotEngine.Core.State.DialogStateAdapter.RefAccessor< T >", "df/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_ref_accessor.html", null ]
-    ] ],
-    [ "NuGetGallery.IStatisticsService", "d4/d2f/interface_nu_get_gallery_1_1_i_statistics_service.html", [
-      [ "NuGetGallery.JsonStatisticsService", "dd/d38/class_nu_get_gallery_1_1_json_statistics_service.html", null ],
-      [ "NuGetGallery.NullStatisticsService", "d0/dae/class_nu_get_gallery_1_1_null_statistics_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IStatusService", "df/d9b/interface_nu_get_gallery_1_1_i_status_service.html", [
-      [ "NuGetGallery.StatusService", "dd/def/class_nu_get_gallery_1_1_status_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IStockDataAccess", "dd/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_stock_data_access.html", [
       [ "FenixAlliance.ABM.Data.Access.Clients.StockDataAccessClient", "dc/dfc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_stock_data_access_client.html", null ],
@@ -3455,17 +1611,6 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IStoreService", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.StoreService", "d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service.html", null ]
-    ] ],
-    [ "NuGetGallery.IStringTemplateProcessor< TInput >", "d9/dc8/interface_nu_get_gallery_1_1_i_string_template_processor.html", [
-      [ "NuGetGallery.StringReplaceTemplateProcessor< TInput >", "d6/d4b/class_nu_get_gallery_1_1_string_replace_template_processor.html", null ]
-    ] ],
-    [ "NuGetGallery.IStringTemplateProcessor< Package >", "d9/dc8/interface_nu_get_gallery_1_1_i_string_template_processor.html", [
-      [ "NuGetGallery.IIconUrlTemplateProcessor", "d3/d2e/interface_nu_get_gallery_1_1_i_icon_url_template_processor.html", [
-        [ "NuGetGallery.IconUrlTemplateProcessor", "d4/d25/class_nu_get_gallery_1_1_icon_url_template_processor.html", null ]
-      ] ]
-    ] ],
-    [ "ISubscriptionProcessorTelemetryService", null, [
-      [ "NuGetGallery.AccountDeleter.AccountDeleteTelemetryService", "d1/d43/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_telemetry_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISubscriptionService", "d3/de0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscription_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ISuiteOption", "dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html", [
@@ -3798,12 +1943,6 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Interfaces.ISuiteStatus", "d7/d2a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_status.html", [
       [ "FenixAlliance.ACL.Configuration.Types.SuiteStatus", "d5/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_status.html", null ]
     ] ],
-    [ "NuGetGallery.Areas.Admin.Models.ISupportRequestDbContext", "d4/d03/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_i_support_request_db_context.html", [
-      [ "NuGetGallery.Areas.Admin.Models.SupportRequestDbContext", "d1/d47/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context.html", null ]
-    ] ],
-    [ "NuGetGallery.Areas.Admin.ISupportRequestService", "df/d55/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_i_support_request_service.html", [
-      [ "NuGetGallery.Areas.Admin.SupportRequestService", "d7/db5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISupportService", "da/dc2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_support_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISustainabilityService", "d4/de9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sustainability_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.REST.Swagger.ISwaggerContact", "d2/db2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_ea805fa5c8e26c7e9acc16737da68fb40.html", [
@@ -3815,32 +1954,7 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.REST.Swagger.ISwaggerOAuthAdditionalQueryStringParam", "d1/d1e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e4f75af4beaad303aca88ba8c31f2c912.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerOAuthAdditionalQueryStringParam", "d2/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_176bc0df164b8315afdd203b6b1f5c4cf.html", null ]
     ] ],
-    [ "NuGetGallery.ISymbolPackageUploadService", "d9/daa/interface_nu_get_gallery_1_1_i_symbol_package_upload_service.html", [
-      [ "NuGetGallery.SymbolPackageUploadService", "db/d36/class_nu_get_gallery_1_1_symbol_package_upload_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.ISymbolsConfiguration", "d0/dfc/interface_nu_get_gallery_1_1_services_1_1_i_symbols_configuration.html", [
-      [ "NuGetGallery.Services.SymbolsConfiguration", "da/d40/class_nu_get_gallery_1_1_services_1_1_symbols_configuration.html", null ]
-    ] ],
-    [ "ITableEntity", null, [
-      [ "NuGetGallery.Infrastructure.ErrorEntity", "dd/ddd/class_nu_get_gallery_1_1_infrastructure_1_1_error_entity.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ITalentService", "dd/df4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_talent_service.html", null ],
-    [ "NuGetGallery.ITelemetryClient", "d6/dd8/interface_nu_get_gallery_1_1_i_telemetry_client.html", [
-      [ "NuGetGallery.TelemetryClientWrapper", "d2/d08/class_nu_get_gallery_1_1_telemetry_client_wrapper.html", null ]
-    ] ],
-    [ "ITelemetryInitializer", null, [
-      [ "NuGetGallery.ClientInformationTelemetryEnricher", "de/d31/class_nu_get_gallery_1_1_client_information_telemetry_enricher.html", null ],
-      [ "NuGetGallery.CustomerResourceIdEnricher", "d2/d79/class_nu_get_gallery_1_1_customer_resource_id_enricher.html", null ],
-      [ "NuGetGallery.KnownOperationNameEnricher", "d2/df3/class_nu_get_gallery_1_1_known_operation_name_enricher.html", null ]
-    ] ],
-    [ "ITelemetryProcessor", null, [
-      [ "NuGetGallery.ClientTelemetryPIIProcessor", "d0/d6b/class_nu_get_gallery_1_1_client_telemetry_p_i_i_processor.html", null ]
-    ] ],
-    [ "NuGetGallery.ITelemetryService", "db/d55/interface_nu_get_gallery_1_1_i_telemetry_service.html", [
-      [ "GitHubVulnerabilities2Db.Gallery.ThrowingTelemetryService", "db/d99/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_telemetry_service.html", null ],
-      [ "NuGet.VerifyMicrosoftPackage.Fakes.FakeTelemetryService", "d5/d7a/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_telemetry_service.html", null ],
-      [ "NuGetGallery.TelemetryService", "da/d90/class_nu_get_gallery_1_1_telemetry_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.Item", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html", [
       [ "FenixAlliance.ABM.Models.Education.Courses.Course", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Suites.Tiers.LicenseType", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type.html", null ],
@@ -3878,9 +1992,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ItemManagementProfileType", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_management_profile_type.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPackingSlips.ItemPackingSlip", "dc/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_packing_slips_1_1_item_packing_slip.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPackingSlips.ItemPackingSlipEntry", "d1/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_packing_slips_1_1_item_packing_slip_entry.html", null ],
-    [ "ITempDataProvider", null, [
-      [ "NuGetGallery.CookieTempDataProvider", "db/dff/class_nu_get_gallery_1_1_cookie_temp_data_provider.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPickLists.ItemPickList", "d6/d37/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_pick_lists_1_1_item_pick_list.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPickLists.ItemPickListEntry", "d7/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_pick_lists_1_1_item_pick_list_entry.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Selling.ItemPriceListMapper", "d8/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_selling_1_1_item_price_list_mapper.html", null ],
@@ -3917,86 +2028,12 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ITenantService", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.TenantService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html", null ]
     ] ],
-    [ "ITestCaseOrderer", null, [
-      [ "NuGetGallery.FunctionalTests.TestPriorityOrderer", "d6/deb/class_nu_get_gallery_1_1_functional_tests_1_1_test_priority_orderer.html", null ]
-    ] ],
-    [ "ITestOutputHelper", null, [
-      [ "NuGetGallery.FunctionalTests.ConsoleTestOutputHelper", "dc/dd2/class_nu_get_gallery_1_1_functional_tests_1_1_console_test_output_helper.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IThemingService", "da/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_theming_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.ThemingService", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service.html", null ]
     ] ],
-    [ "ITopicClient", null, [
-      [ "NuGetGallery.Services.AsynchronousDeleteAccountServiceFacts.TestTopicClient", "d3/d2b/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_topic_client.html", null ]
-    ] ],
-    [ "ITraitAttribute", null, [
-      [ "NuGetGallery.FunctionalTests.CategoryAttribute", "d3/d27/class_nu_get_gallery_1_1_functional_tests_1_1_category_attribute.html", null ]
-    ] ],
-    [ "ITraitDiscoverer", null, [
-      [ "NuGetGallery.FunctionalTests.CategoryDiscoverer", "d4/d2a/class_nu_get_gallery_1_1_functional_tests_1_1_category_discoverer.html", null ]
-    ] ],
-    [ "NuGetGallery.ITyposquattingCheckListCacheService", "d1/dd9/interface_nu_get_gallery_1_1_i_typosquatting_check_list_cache_service.html", [
-      [ "NuGetGallery.TyposquattingCheckListCacheService", "d5/dac/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.ITyposquattingConfiguration", "d2/dcb/interface_nu_get_gallery_1_1_services_1_1_i_typosquatting_configuration.html", [
-      [ "NuGetGallery.Services.TyposquattingConfiguration", "d7/da9/class_nu_get_gallery_1_1_services_1_1_typosquatting_configuration.html", null ]
-    ] ],
-    [ "NuGetGallery.ITyposquattingService", "d6/deb/interface_nu_get_gallery_1_1_i_typosquatting_service.html", [
-      [ "NuGetGallery.TyposquattingService", "d1/d6e/class_nu_get_gallery_1_1_typosquatting_service.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IUpdateService", "de/d6b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_update_service.html", null ],
-    [ "NuGetGallery.IUploadFileService", "d8/dbb/interface_nu_get_gallery_1_1_i_upload_file_service.html", [
-      [ "NuGetGallery.UploadFileService", "df/d73/class_nu_get_gallery_1_1_upload_file_service.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.HTTP.IUrlRewriteOptions", "da/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_rewrite_options.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.UrlRewriteOptions", "d5/d67/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_rewrite_options.html", null ]
-    ] ],
-    [ "NuGetGallery.AccountDeleter.IUserEvaluator", "d0/d8c/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator.html", [
-      [ "NuGetGallery.AccountDeleter.BaseUserEvaluator", "d9/db5/class_nu_get_gallery_1_1_account_deleter_1_1_base_user_evaluator.html", [
-        [ "NuGetGallery.AccountDeleter.AccountConfirmedEvaluator", "d4/d1e/class_nu_get_gallery_1_1_account_deleter_1_1_account_confirmed_evaluator.html", null ],
-        [ "NuGetGallery.AccountDeleter.AggregateEvaluator", "de/d34/class_nu_get_gallery_1_1_account_deleter_1_1_aggregate_evaluator.html", null ],
-        [ "NuGetGallery.AccountDeleter.AlwaysAllowEvaluator", "d0/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_always_allow_evaluator.html", null ],
-        [ "NuGetGallery.AccountDeleter.AlwaysRejectEvaluator", "dc/df4/class_nu_get_gallery_1_1_account_deleter_1_1_always_reject_evaluator.html", null ],
-        [ "NuGetGallery.AccountDeleter.NuGetDeleteEvaluator", "d5/d81/class_nu_get_gallery_1_1_account_deleter_1_1_nu_get_delete_evaluator.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.AccountDeleter.IUserEvaluatorFactory", "d3/dbb/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator_factory.html", [
-      [ "NuGetGallery.AccountDeleter.UserEvaluatorFactory", "df/d35/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_factory.html", null ]
-    ] ],
-    [ "NuGetGallery.IUserSafeException", "d7/db3/interface_nu_get_gallery_1_1_i_user_safe_exception.html", [
-      [ "NuGetGallery.UserSafeException", "d7/d13/class_nu_get_gallery_1_1_user_safe_exception.html", null ]
-    ] ],
-    [ "NuGetGallery.Security.IUserSecurityPolicySubscription", "db/d8c/interface_nu_get_gallery_1_1_security_1_1_i_user_security_policy_subscription.html", [
-      [ "NuGetGallery.Security.DefaultSubscription", "dd/dbd/class_nu_get_gallery_1_1_security_1_1_default_subscription.html", null ],
-      [ "NuGetGallery.Security.MicrosoftTeamSubscription", "d6/dcd/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription.html", null ],
-      [ "NuGetGallery.Security.RequireOrganizationTenantPolicy", "dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy.html", null ],
-      [ "NuGetGallery.Security.RequiredSignerPolicy", "d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html", [
-        [ "NuGetGallery.Security.AutomaticallyOverwriteRequiredSignerPolicy", "d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy.html", null ],
-        [ "NuGetGallery.Security.ControlRequiredSignerPolicy", "db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.IUserService", "de/d30/interface_nu_get_gallery_1_1_i_user_service.html", [
-      [ "NuGetGallery.AccountDeleter.AccountDeleteUserService", "d1/d79/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_user_service.html", null ],
-      [ "NuGetGallery.AccountDeleter.EmptyUserService", "da/d07/class_nu_get_gallery_1_1_account_deleter_1_1_empty_user_service.html", null ],
-      [ "NuGetGallery.UserService", "d4/d79/class_nu_get_gallery_1_1_user_service.html", [
-        [ "NuGetGallery.TestUtils.TestableUserService", "db/ddd/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service.html", null ],
-        [ "NuGetGallery.TestUtils.TestableUserServiceWithDBFaking", "df/d2c/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service_with_d_b_faking.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.IValidationMessage", "df/d38/interface_nu_get_gallery_1_1_i_validation_message.html", [
-      [ "NuGetGallery.IconUrlDeprecationValidationMessage", "db/d83/class_nu_get_gallery_1_1_icon_url_deprecation_validation_message.html", null ],
-      [ "NuGetGallery.InvalidLicenseUrlValidationMessage", "d2/db2/class_nu_get_gallery_1_1_invalid_license_url_validation_message.html", null ],
-      [ "NuGetGallery.InvalidUrlEncodingForLicenseUrlValidationMessage", "db/d27/class_nu_get_gallery_1_1_invalid_url_encoding_for_license_url_validation_message.html", null ],
-      [ "NuGetGallery.LicenseUrlDeprecationValidationMessage", "da/d79/class_nu_get_gallery_1_1_license_url_deprecation_validation_message.html", null ],
-      [ "NuGetGallery.OwnerlessNamespaceIdConflictMessage", "d8/d64/class_nu_get_gallery_1_1_ownerless_namespace_id_conflict_message.html", null ],
-      [ "NuGetGallery.PackageShouldNotBeSignedUserFixableValidationMessage", "d2/d79/class_nu_get_gallery_1_1_package_should_not_be_signed_user_fixable_validation_message.html", null ],
-      [ "NuGetGallery.PlainTextOnlyValidationMessage", "d1/dc5/class_nu_get_gallery_1_1_plain_text_only_validation_message.html", null ]
-    ] ],
-    [ "NuGetGallery.IValidationService", "d0/d58/interface_nu_get_gallery_1_1_i_validation_service.html", [
-      [ "NuGetGallery.ValidationService", "dc/d32/class_nu_get_gallery_1_1_validation_service.html", null ]
-    ] ],
-    [ "IValueProvider", null, [
-      [ "NuGetGallery.HttpHeaderValueProvider", "de/d87/class_nu_get_gallery_1_1_http_header_value_provider.html", null ]
     ] ],
     [ "FenixAlliance.ABS.Core.Templating.Helpers.IViewBufferScope", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Wrappers.IViewComponent", "db/dd1/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_wrappers_1_1_i_view_component.html", null ],
@@ -4012,10 +2049,6 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IWorkflowsService", "d3/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workflows_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IWorkforceService", "d5/d5a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workforce_service.html", null ],
-    [ "Job", null, [
-      [ "NuGetGallery.CloudDownloadCountServiceRefreshJob", "d0/dfa/class_nu_get_gallery_1_1_cloud_download_count_service_refresh_job.html", null ],
-      [ "NuGetGallery.LuceneIndexingJob", "dc/d43/class_nu_get_gallery_1_1_lucene_indexing_job.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Workforce.Jobs.JobApplications.JobApplicationMapper", "df/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_application_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.JobFields.JobField", "da/d55/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_job_fields_1_1_job_field.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Jobs.JobFields.JobField", "dd/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_fields_1_1_job_field.html", null ],
@@ -4031,17 +2064,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Journals.JournalEntries.JournalEntry", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Journals.JournalMapper", "d2/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_journals_1_1_journal_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Journals.JournalTypes.JournalType", "da/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_types_1_1_journal_type.html", null ],
-    [ "NuGetGallery.Controllers.JsonApiControllerFacts", "d5/d5f/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts.html", null ],
-    [ "JsonConfigurationJob", null, [
-      [ "GitHubVulnerabilities2Db.Job", "d3/d84/class_git_hub_vulnerabilities2_db_1_1_job.html", null ],
-      [ "NuGet.Services.DatabaseMigration.Job", "db/d55/class_nu_get_1_1_services_1_1_database_migration_1_1_job.html", null ],
-      [ "VerifyGitHubVulnerabilities.Job", "dc/db0/class_verify_git_hub_vulnerabilities_1_1_job.html", null ]
-    ] ],
-    [ "JsonConverter", null, [
-      [ "NuGetGallery.Auditing.Obfuscation.ObfuscatorJsonConverter", "db/d73/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscator_json_converter.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.JsonStatisticsServiceFacts", "d3/d9e/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts.html", null ],
-    [ "NuGetGallery.JsonValidationMessage", "d9/da4/class_nu_get_gallery_1_1_json_validation_message.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.JsonWebKey", "d7/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.JsonWebKeySet", "d4/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key_set.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.JsonWebToken", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_token.html", null ],
@@ -4073,31 +2095,10 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.LineItemType", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LineReferenceType", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_reference_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LineResponseType", "d6/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_response_type.html", null ],
-    [ "NuGetGallery.FunctionalTests.WebPages.LinksTests", "de/d71/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_links_tests.html", null ],
-    [ "NuGetGallery.List< AccountDelete >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< AuditRecord >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< byte >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< Issue >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< NuGetGallery.ICloudStorageStatusDependency >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< NuGetGallery.StatisticsNuGetUsageItem >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< NuGetGallery.StatisticsPackagesItemViewModel >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< NuGetGallery.StatisticsWeeklyUsageItem >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< Package >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< PackageOwnerRequest >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< string >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.List< T >", "da/d9b/class_nu_get_gallery_1_1_list.html", [
+    [ "List", null, [
       [ "FenixAlliance.ABM.SDK.Helpers.ListPaggingHelpers< T >", "d6/da5/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_list_pagging_helpers.html", null ]
     ] ],
-    [ "NuGetGallery.List< User >", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-    [ "NuGetGallery.ListCertificateItemViewModel", "d7/dbb/class_nu_get_gallery_1_1_list_certificate_item_view_model.html", null ],
-    [ "NuGetGallery.ViewModels.ListCertificateItemViewModelFacts", "dd/d71/class_nu_get_gallery_1_1_view_models_1_1_list_certificate_item_view_model_facts.html", null ],
-    [ "NuGetGallery.ListPackageItemRequiredSignerViewModelFactory", "df/dc8/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model_factory.html", null ],
-    [ "NuGetGallery.ViewModels.ListPackageItemRequiredSignerViewModelFactoryFacts", "de/d06/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_required_signer_view_model_factory_facts.html", null ],
-    [ "NuGetGallery.ListPackageItemViewModelFactory", "d1/d86/class_nu_get_gallery_1_1_list_package_item_view_model_factory.html", null ],
-    [ "NuGetGallery.ViewModels.ListPackageItemViewModelFacts", "dd/d37/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts.html", null ],
-    [ "NuGetGallery.ListPackageOwnerViewModel", "db/dbd/class_nu_get_gallery_1_1_list_package_owner_view_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.ListResponseModel", "da/d47/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_list_response_model.html", null ],
-    [ "NuGetGallery.LoadTests.LoadTests", "db/def/class_nu_get_gallery_1_1_load_tests_1_1_load_tests.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Loans.Loan", "d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_loan.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Loans.Loan", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_loans_1_1_loan.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Loans.LoanApplications.LoanApplication", "d9/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans_1_1_loan_applications_1_1_loan_application.html", null ],
@@ -4119,124 +2120,18 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.LocationCoordinateType", "d4/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_location_coordinate_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LocationType1", "d1/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_location_type1.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.LockPackageControllerFacts", "dd/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.LockPackageViewModel", "dd/dce/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_lock_package_view_model.html", null ],
-    [ "NuGetGallery.Services.LoginDiscontinuationConfigurationFacts", "db/d22/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts.html", null ],
-    [ "NuGetGallery.Authentication.LoginUserDetails", "d7/d08/class_nu_get_gallery_1_1_authentication_1_1_login_user_details.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.LoginViewModel", "da/d43/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_login_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.LoginWith2faViewModel", "d6/d47/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_login_with2fa_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.LoginWithRecoveryCodeViewModel", "d8/d7b/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_login_with_recovery_code_view_model.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Logos.Logo", "da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo.html", null ],
-    [ "NuGetGallery.LogOnViewModel", "d3/d9b/class_nu_get_gallery_1_1_log_on_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LotIdentificationType", "d7/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_lot_identification_type.html", null ],
     [ "FenixAlliance.ABM.Models.Selling.Loyalty.LoyaltyProgram", "d6/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_loyalty_1_1_loyalty_program.html", null ],
-    [ "NuGetGallery.Areas.Admin.Models.LuceneInfoModel", "d6/ddc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_lucene_info_model.html", null ],
-    [ "NuGetGallery.Infrastructure.LuceneSearchServiceFacts", "d1/d19/class_nu_get_gallery_1_1_infrastructure_1_1_lucene_search_service_facts.html", null ],
-    [ "NuGetGallery.AccountDeleter.MailTemplateConfiguration", "d2/dfb/class_nu_get_gallery_1_1_account_deleter_1_1_mail_template_configuration.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.MaintenanceVisits.MaintenanceSchedule", "d8/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_maintenance_visits_1_1_maintenance_schedule.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.MaintenanceVisits.MaintenanceVisit", "df/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_maintenance_visits_1_1_maintenance_visit.html", null ],
-    [ "NuGetGallery.Controllers.ManageDeprecationJsonApiControllerFacts", "d5/d6d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts.html", null ],
-    [ "NuGetGallery.ManageOrganizationsItemViewModel", "db/de6/class_nu_get_gallery_1_1_manage_organizations_item_view_model.html", null ],
-    [ "NuGetGallery.ManageOrganizationsViewModel", "da/d73/class_nu_get_gallery_1_1_manage_organizations_view_model.html", null ],
-    [ "NuGetGallery.ManagePackagesViewModel", "d3/d8e/class_nu_get_gallery_1_1_manage_packages_view_model.html", null ],
-    [ "NuGetGallery.ManagePackageViewModelFactory", "d7/d04/class_nu_get_gallery_1_1_manage_package_view_model_factory.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ManifestType", "d4/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_manifest_type.html", null ],
-    [ "NuGetGallery.Packaging.ManifestValidator", "db/db2/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator.html", null ],
-    [ "NuGetGallery.Packaging.ManifestValidatorFacts", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Mansory.MansoryOptions", "d5/d6c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_mansory_1_1_mansory_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Margin", "d3/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_margin.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MaritimeTransportType", "de/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_maritime_transport_type.html", null ],
-    [ "MarkdownEmailBuilder", null, [
-      [ "NuGetGallery.Infrastructure.Mail.ConfirmationEmailBuilder", "d2/d3d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_confirmation_email_builder.html", [
-        [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeConfirmationMessage", "d1/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message.html", null ],
-        [ "NuGetGallery.Infrastructure.Mail.Messages.NewAccountMessage", "de/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message.html", null ]
-      ] ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.AccountDeleteNoticeMessage", "d3/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ContactOwnersMessage", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ContactSupportMessage", "d4/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialAddedMessage", "da/da0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRemovedMessage", "d3/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessage", "d2/d98/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeNoticeToPreviousEmailAddressMessage", "da/d88/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberRemovedMessage", "dc/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberUpdatedMessage", "d1/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestCanceledMessage", "dc/dc6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestDeclinedMessage", "d2/d9b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestInitiatedMessage", "d0/d3f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestMessage", "dd/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformAcceptedMessage", "da/d58/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformInitiatedMessage", "dd/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRejectedMessage", "d9/dbb/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRequestMessage", "d0/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedMessage", "d3/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedWithWarningsMessage", "de/dfc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageDeletedNoticeMessage", "d0/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerAddedMessage", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerRemovedMessage", "d4/db7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestCanceledMessage", "db/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestDeclinedMessage", "db/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestInitiatedMessage", "d4/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestMessage", "d3/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationFailedMessage", "d4/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationTakingTooLongMessage", "d7/d9a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PasswordResetInstructionsMessage", "db/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_password_reset_instructions_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ReportPackageMessageBase", "d1/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_package_message_base.html", [
-        [ "NuGetGallery.Infrastructure.Mail.Messages.ReportAbuseMessage", "d6/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message.html", null ],
-        [ "NuGetGallery.Infrastructure.Mail.Messages.ReportMyPackageMessage", "da/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message.html", null ]
-      ] ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessage", "db/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SigninAssistanceMessage", "dc/d5a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageAddedMessage", "de/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationFailedMessage", "d0/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationTakingTooLongMessage", "db/d31/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.TwoFactorFeedbackMessage", "d5/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_two_factor_feedback_message.html", null ]
-    ] ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.MarkdownMessageBuilderFacts", "d4/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts.html", [
-      [ "NuGetGallery.Infrastructure.Mail.Messages.AccountDeleteNoticeMessageFacts", "d4/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ContactOwnersMessageFacts", "de/d48/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ContactSupportMessageFacts", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialAddedMessageFacts", "dc/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRemovedMessageFacts", "d9/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessageFacts", "db/d2b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeConfirmationMessageFacts", "d9/d6e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeNoticeToPreviousEmailAddressMessageFacts", "d2/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.NewAccountMessageFacts", "dc/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberRemovedMessageFacts", "d2/d57/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberUpdatedMessageFacts", "d6/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestCanceledMessageFacts", "d8/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestDeclinedMessageFacts", "d3/d12/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestInitiatedMessageFacts", "d8/d17/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestMessageFacts", "d4/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformAcceptedMessageFacts", "db/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformInitiatedMessageFacts", "df/d0d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRejectedMessageFacts", "d2/d55/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRequestMessageFacts", "d1/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedMessageFacts", "d2/d11/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedWithWarningsMessageFacts", "d4/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageDeletedNoticeMessageFacts", "d1/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerAddedMessageFacts", "d1/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerRemovedMessageFacts", "d6/da5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestCanceledMessageFacts", "db/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestDeclinedMessageFacts", "d0/d51/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestInitiatedMessageFacts", "db/d83/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestMessageFacts", "d3/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationFailedMessageFacts", "d5/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationTakingTooLongMessageFacts", "d3/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ReportAbuseMessageFacts", "dd/d46/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.ReportMyPackageMessageFacts", "dc/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.Facts", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_facts.html", [
-        [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.GetMarkdownBody", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html", null ],
-        [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.GetRecipients", "dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients.html", null ],
-        [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.GetSubject", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject.html", null ],
-        [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.Sender", "d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender.html", null ]
-      ] ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SigninAssistanceMessageFacts", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageAddedMessageFacts", "d0/d41/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationFailedMessageFacts", "de/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message_facts.html", null ],
-      [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationTakingTooLongMessageFacts", "d3/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.MarkdownMessageServiceFacts", "d9/d22/class_nu_get_gallery_1_1_markdown_message_service_facts.html", null ],
-    [ "NuGetGallery.MarkdownServiceFacts", "d2/db4/class_nu_get_gallery_1_1_markdown_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaignResponse", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign_response.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead", "d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html", null ],
@@ -4244,22 +2139,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadType", "d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Lists.MarketingList", "d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Lists.MarketingListMembership", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list_membership.html", null ],
-    [ "MasterPage", null, [
-      [ "NuGetGallery.Areas.Admin.DynamicData.Site", "d5/db6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_site.html", null ]
-    ] ],
-    [ "MauiAppCompatActivity", null, [
-      [ "FenixAlliance.ABS.MAUI.MainActivity", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_activity.html", null ]
-    ] ],
-    [ "MauiApplication", null, [
-      [ "FenixAlliance.ABS.MAUI.MainApplication", "dd/d04/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_application.html", null ]
-    ] ],
-    [ "MauiUIApplicationDelegate", null, [
-      [ "FenixAlliance.ABS.MAUI.AppDelegate", "d2/df4/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_app_delegate.html", null ],
-      [ "FenixAlliance.ABS.MAUI.AppDelegate", "d2/df4/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_app_delegate.html", null ]
-    ] ],
-    [ "MauiWinUIApplication", null, [
-      [ "FenixAlliance.ABS.MAUI.WinUI.App", "db/d7d/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_win_u_i_1_1_app.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Measurements.MeasurementOptions", "de/d3e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements_1_1_measurement_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MeasureType", "d5/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_measure_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.MeasureType1", "d0/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_measure_type1.html", [
@@ -4293,20 +2172,13 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Access.CQRS.MediatREntryPoint", "db/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_mediat_r_entry_point.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AAD.MemberOf", "d4/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_member_of.html", null ],
-    [ "NuGet.Services.Entities.Membership", "d7/d17/class_nu_get_1_1_services_1_1_entities_1_1_membership.html", null ],
-    [ "NuGet.Services.Entities.MembershipRequest", "db/d97/class_nu_get_1_1_services_1_1_entities_1_1_membership_request.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Menus.MenuContext", "dc/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_menus_1_1_menu_context.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Menus.MenuContextItem", "d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_menus_1_1_menu_context_item.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Menu.MenuOptions", "d2/db6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_menu_1_1_menu_options.html", null ],
-    [ "NuGetGallery.MessageQueue", "d9/d8c/class_nu_get_gallery_1_1_message_queue.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Metadata", "d3/d27/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_metadata.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MeterPropertyType", "d1/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_property_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MeterReadingType", "d3/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_reading_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MeterType", "d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_type.html", null ],
-    [ "GitHubVulnerabilities2Db.Facts.AdvisoryIngestorFacts.MethodFacts", "d6/d30/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_method_facts.html", [
-      [ "GitHubVulnerabilities2Db.Facts.AdvisoryIngestorFacts.TheIngestMethodFacts", "de/d81/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_the_ingest_method_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.Security.MicrosoftTeamSubscriptionFacts", "d4/d55/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription_facts.html", null ],
     [ "Migration", null, [
       [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddAmmountsToInvoiceAdjustments", "d2/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments.html", null ],
       [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddMultiplePortalDomains", "d6/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains.html", null ],
@@ -4387,18 +2259,12 @@ var hierarchy =
       [ "FenixAlliance.ABM.Data.MSSQL.Migrations.DataContextModelSnapshot", "d8/df9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ],
       [ "FenixAlliance.ABM.Data.MySQL.Migrations.DataContextModelSnapshot", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ]
     ] ],
-    [ "Module", null, [
-      [ "NuGetGallery.Authentication.AuthDependenciesModule", "d0/dbc/class_nu_get_gallery_1_1_authentication_1_1_auth_dependencies_module.html", null ],
-      [ "NuGetGallery.DefaultDependenciesModule", "d8/d67/class_nu_get_gallery_1_1_default_dependencies_module.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.MonetaryTotalType", "d9/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_monetary_total_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Favicons.MSAppTile", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Helpers.MultiPartRequestHelper", "d6/d6d/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_helpers_1_1_multi_part_request_helper.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.NewGuestCartRequest", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_new_guest_cart_request.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterSubscription", "db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.NewWishListRequest", "d3/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_new_wish_list_request.html", null ],
-    [ "NuGetGallery.Services.NoLessSecureDestinationRedirectPolicyFacts", "da/dd1/class_nu_get_gallery_1_1_services_1_1_no_less_secure_destination_redirect_policy_facts.html", null ],
-    [ "NuGetGallery.OData.Interceptors.NormalizeVersionInterceptorFacts", "d6/d6a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_normalize_version_interceptor_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Notes.Note", "d3/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_notes_1_1_note.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Notes.NoteMapper", "de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_notes_1_1_note_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.NoticeReferenceType", "df/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_notice_reference_type.html", null ],
@@ -4406,14 +2272,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Social.Notifications.Notification", "d1/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_notifications_1_1_notification.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Social.NotificationBinder", "de/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_social_1_1_notification_binder.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.NotificationRequirementType", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_notification_requirement_type.html", null ],
-    [ "NuGetGallery.NuGetContext", "d3/dc3/class_nu_get_gallery_1_1_nu_get_context.html", null ],
-    [ "NuGetGallery.NuGetPackageGitHubInformation", "d2/db2/class_nu_get_gallery_1_1_nu_get_package_git_hub_information.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.NuGetPackageManagementService", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f.html", null ],
-    [ "NuGetGallery.NuGetQueryParser", "da/d7f/class_nu_get_gallery_1_1_nu_get_query_parser.html", null ],
-    [ "NuGetGallery.Infrastructure.NuGetQueryParserFacts", "d0/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_nu_get_query_parser_facts.html", null ],
-    [ "NuGetGallery.NuGetSearchTerm", "db/d15/class_nu_get_gallery_1_1_nu_get_search_term.html", null ],
-    [ "NuGetGallery.NuGetVersionExtensionsFacts", "d7/d97/class_nu_get_gallery_1_1_nu_get_version_extensions_facts.html", null ],
-    [ "NuGetGallery.Extensions.NumberExtensionsFacts", "d1/dfc/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.NumericType", "d5/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.NumericType1", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type1.html", [
         [ "FenixAlliance.ABM.Models.UBL.BudgetYearNumericType", "d9/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_budget_year_numeric_type.html", null ],
@@ -4460,13 +2319,6 @@ var hierarchy =
       ] ],
       [ "FenixAlliance.ABM.Models.UBL.ValueType1", "dd/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_value_type1.html", null ]
     ] ],
-    [ "NuGetGallery.RouteExtensions.ObfuscatedPathMetadata", "da/dea/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_path_metadata.html", null ],
-    [ "NuGetGallery.RouteExtensions.ObfuscatedQueryMetadata", "db/d43/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_query_metadata.html", null ],
-    [ "NuGetGallery.Helpers.ObfuscationHelper", "df/df5/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper.html", null ],
-    [ "NuGetGallery.Helpers.ObfuscationHelperFacts", "d4/d78/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts.html", null ],
-    [ "NuGetGallery.Auditing.ObfuscatorFacts", "d2/de7/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_facts.html", null ],
-    [ "NuGetGallery.Telemetry.ObfuscatorFacts", "dc/d4a/class_nu_get_gallery_1_1_telemetry_1_1_obfuscator_facts.html", null ],
-    [ "NuGetGallery.Auditing.ObfuscatorJsonConverterTests", "da/db4/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests.html", null ],
     [ "ObjectGraphType", null, [
       [ "FenixAlliance.ABP.API.GraphQl.Core.Queries.AllianceIDQuery", "dd/d5c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_alliance_i_d_query.html", null ],
       [ "FenixAlliance.ABP.API.GraphQl.Core.Types.AllianceIDType", "da/db5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_alliance_i_d_type.html", null ]
@@ -4475,35 +2327,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ObjectType", "d3/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OCSPIdentifierType", "dc/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_identifier_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OCSPRefType", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_ref_type.html", null ],
-    [ "NuGetGallery.ODataCacheOutputAttributeFacts", "dc/d91/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts.html", null ],
-    [ "ODataController", null, [
-      [ "NuGetGallery.OData.NuGetODataController", "d2/d81/class_nu_get_gallery_1_1_o_data_1_1_nu_get_o_data_controller.html", [
-        [ "NuGetGallery.Controllers.ODataV1FeedController", "de/d2c/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller.html", [
-          [ "NuGetGallery.TestUtils.Infrastructure.TestableV1Feed", "d6/dc2/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v1_feed.html", null ]
-        ] ],
-        [ "NuGetGallery.Controllers.ODataV2FeedController", "d9/dc5/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller.html", [
-          [ "NuGetGallery.TestUtils.Infrastructure.TestableV2Feed", "d4/d0b/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v2_feed.html", null ]
-        ] ]
-      ] ]
-    ] ],
-    [ "ODataEntityTypeSerializer", null, [
-      [ "NuGetGallery.OData.Serializers.NuGetEntityTypeSerializer", "d1/dd3/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_nu_get_entity_type_serializer.html", null ]
-    ] ],
-    [ "NuGetGallery.Controllers.ODataFeedControllerFactsBase< TController >", "d7/d86/class_nu_get_gallery_1_1_controllers_1_1_o_data_feed_controller_facts_base.html", null ],
-    [ "NuGetGallery.Controllers.ODataFeedControllerFactsBase< ODataV1FeedController >", "d7/d86/class_nu_get_gallery_1_1_controllers_1_1_o_data_feed_controller_facts_base.html", [
-      [ "NuGetGallery.Controllers.ODataV1FeedControllerFacts", "db/de9/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.Controllers.ODataFeedControllerFactsBase< ODataV2FeedController >", "d7/d86/class_nu_get_gallery_1_1_controllers_1_1_o_data_feed_controller_facts_base.html", [
-      [ "NuGetGallery.Controllers.ODataV2FeedControllerFacts", "d6/d66/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller_facts.html", null ]
-    ] ],
-    [ "NuGetGallery.OData.Filter.ODataFilterFacts", "df/de0/class_nu_get_gallery_1_1_o_data_1_1_filter_1_1_o_data_filter_facts.html", null ],
-    [ "ODataPathSegment", null, [
-      [ "NuGetGallery.OData.Routing.CountPathSegment", "db/dae/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_path_segment.html", null ]
-    ] ],
-    [ "NuGetGallery.OData.QueryFilter.ODataQueryFilter", "d3/d83/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_filter.html", null ],
-    [ "NuGetGallery.OData.QueryFilter.ODataQueryRequest", "d7/dd1/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_request.html", null ],
-    [ "NuGetGallery.OData.QueryFilter.ODataQueryVerifier", "dd/d5b/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_verifier.html", null ],
-    [ "NuGetGallery.ODataRemoveSorterFacts", "de/d53/class_nu_get_gallery_1_1_o_data_remove_sorter_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OnAccountPaymentType", "d0/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_on_account_payment_type.html", null ],
     [ "FenixAlliance.ABM.Data.Clients.OpenCurrencyExchange.OpenExchangeRatesClient", "dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange_1_1_open_exchange_rates_client.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.OpenIdConfiguration", "d3/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_id_configuration.html", null ],
@@ -4534,94 +2357,22 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.OrderResponseType", "d1/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_response_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderType", "d7/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.Organization", "d7/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_organization.html", null ],
-    [ "NuGetGallery.FunctionalTests.GalleryConfiguration.OrganizationConfiguration", "dc/d98/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_organization_configuration.html", [
-      [ "NuGetGallery.FunctionalTests.GalleryConfiguration.AccountConfiguration", "dc/d8f/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_account_configuration.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.Departments.OrganizationDepartment", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department.html", null ],
-    [ "NuGetGallery.OrganizationMemberViewModel", "dd/d7e/class_nu_get_gallery_1_1_organization_member_view_model.html", null ],
-    [ "NuGet.Services.Entities.OrganizationMigrationRequest", "d1/d35/class_nu_get_1_1_services_1_1_entities_1_1_organization_migration_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.OrganizationProfile", "dd/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_organization_profile.html", null ],
-    [ "NuGetGallery.OwinStartup", "df/d1b/class_nu_get_gallery_1_1_owin_startup.html", null ],
-    [ "NuGetGallery.OwnerRequestsListItemViewModel", "d1/d50/class_nu_get_gallery_1_1_owner_requests_list_item_view_model.html", null ],
-    [ "NuGetGallery.OwnerRequestsListViewModel", "d4/d39/class_nu_get_gallery_1_1_owner_requests_list_view_model.html", null ],
-    [ "NuGetGallery.OwnerRequestsViewModel", "dc/d96/class_nu_get_gallery_1_1_owner_requests_view_model.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Package", "d9/dd3/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_package.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.Package", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package.html", null ],
-    [ "PackageArchiveReader", null, [
-      [ "NuGetGallery.TestPackageReader", "dc/d1c/class_nu_get_gallery_1_1_test_package_reader.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.PackageAuditRecordTests", "d9/d61/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record_tests.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts", "d4/db3/class_nu_get_gallery_1_1_package_delete_service_facts.html", null ],
-    [ "NuGetGallery.PackageDependent", "d3/d4e/class_nu_get_gallery_1_1_package_dependent.html", null ],
-    [ "NuGetGallery.PackageDependents", "d0/df6/class_nu_get_gallery_1_1_package_dependents.html", null ],
-    [ "NuGetGallery.PackageDeprecationManagementServiceFacts", "d5/d4e/class_nu_get_gallery_1_1_package_deprecation_management_service_facts.html", null ],
-    [ "NuGetGallery.Services.PackageDeprecationServiceFacts", "dd/dec/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageDeprecationStatusFacts", "da/d5c/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_deprecation_status_facts.html", null ],
-    [ "NuGetGallery.OData.Interceptors.PackageExtensionsFacts", "da/d3a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageFacts", "d7/dc6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_facts.html", null ],
-    [ "NuGetGallery.Entities.PackageFacts", "d7/d98/class_nu_get_gallery_1_1_entities_1_1_package_facts.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Files.PackageFile", "dc/db2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_package_file.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts", "d8/daa/class_nu_get_gallery_1_1_package_file_service_facts.html", null ],
-    [ "NuGetGallery.PackageFileServiceMetadataFacts", "dc/d81/class_nu_get_gallery_1_1_package_file_service_metadata_facts.html", null ],
-    [ "NuGetGallery.Services.PackageFilterContext", "d8/d13/class_nu_get_gallery_1_1_services_1_1_package_filter_context.html", null ],
-    [ "NuGetGallery.PackageHeadingModel", "db/dd0/class_nu_get_gallery_1_1_package_heading_model.html", null ],
-    [ "NuGetGallery.Helpers.PackageHelperTests", "d8/dcc/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests.html", null ],
-    [ "NuGetGallery.Packaging.PackageIdValidatorTest", "d1/d5c/class_nu_get_gallery_1_1_packaging_1_1_package_id_validator_test.html", null ],
-    [ "NuGetGallery.Infrastructure.PackageIndexEntityFacts", "df/dc9/class_nu_get_gallery_1_1_infrastructure_1_1_package_index_entity_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.ClientSdkHelper.PackageInfo", "df/d5b/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper_1_1_package_info.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PackageLicenseInfo", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info.html", null ],
-    [ "NuGetGallery.PackageListSearchViewModel", "de/d02/class_nu_get_gallery_1_1_package_list_search_view_model.html", null ],
-    [ "NuGetGallery.PackageListViewModel", "d6/d6b/class_nu_get_gallery_1_1_package_list_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.PackageLockState", "d4/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_package_lock_state.html", null ],
-    [ "NuGetGallery.PackageManagerViewModel", "de/d53/class_nu_get_gallery_1_1_package_manager_view_model.html", [
-      [ "NuGetGallery.ThirdPartyPackageManagerViewModel", "d3/d37/class_nu_get_gallery_1_1_third_party_package_manager_view_model.html", null ]
-    ] ],
-    [ "GalleryTools.Commands.BackfillCommand< TMetadata >.PackageMetadata", "d3/d80/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata.html", null ],
-    [ "NuGetGallery.Packaging.PackageMetadata", "d4/dbf/class_nu_get_gallery_1_1_packaging_1_1_package_metadata.html", null ],
-    [ "NuGetGallery.Packaging.PackageMetadataFacts", "df/d71/class_nu_get_gallery_1_1_packaging_1_1_package_metadata_facts.html", null ],
-    [ "NuGetGallery.PackageMetadataValidationServiceFacts", "da/da9/class_nu_get_gallery_1_1_package_metadata_validation_service_facts.html", null ],
-    [ "NuGetGallery.PackageOwnerConfirmationModel", "d6/d6a/class_nu_get_gallery_1_1_package_owner_confirmation_model.html", null ],
-    [ "NuGetGallery.Services.PackageOwnerRequestServiceFacts", "d0/d34/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts.html", null ],
-    [ "NuGetGallery.PackageOwnershipManagementServiceFacts", "d2/d1a/class_nu_get_gallery_1_1_package_ownership_management_service_facts.html", null ],
-    [ "NuGetGallery.PackageOwnersResultViewModel", "d8/d5a/class_nu_get_gallery_1_1_package_owners_result_view_model.html", null ],
-    [ "NuGetGallery.Auditing.PackageRegistrationAuditRecordTests", "d8/d0d/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageRegistrationExtensionsFacts", "dd/d28/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts.html", null ],
-    [ "NuGetGallery.Services.PackageRenameServiceFacts", "d8/d65/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PackagesContentsResult", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637.html", null ],
-    [ "NuGetGallery.PackageSearchResults", "d2/d8d/class_nu_get_gallery_1_1_package_search_results.html", null ],
-    [ "NuGetGallery.PackageServiceFacts", "dd/d6c/class_nu_get_gallery_1_1_package_service_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.Statistics.PackageStatisticsTests", "d4/dc7/class_nu_get_gallery_1_1_functional_tests_1_1_statistics_1_1_package_statistics_tests.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageStatusFacts", "d7/d79/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_status_facts.html", null ],
-    [ "NuGetGallery.Packaging.PackageStreamMetadata", "d0/d53/class_nu_get_gallery_1_1_packaging_1_1_package_stream_metadata.html", null ],
-    [ "NuGetGallery.FunctionalTests.Helpers.UploadHelper.PackageToUpload", "d9/d66/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload.html", [
-      [ "NuGetGallery.FunctionalTests.Helpers.UploadHelper.PackageToUploadInternal", "de/df1/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload_internal.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.PackageType", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_package_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.PackageType", "d9/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.PackageTypes", "df/d84/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_types.html", null ],
-    [ "NuGetGallery.Services.PackageUpdateServiceFacts", "d1/df8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts.html", null ],
-    [ "NuGetGallery.PackageUploadServiceFacts", "dc/d03/class_nu_get_gallery_1_1_package_upload_service_facts.html", null ],
-    [ "NuGetGallery.PackageValidationResult", "df/d58/class_nu_get_gallery_1_1_package_validation_result.html", null ],
-    [ "NuGetGallery.PackageViewModelFactory", "df/dd3/class_nu_get_gallery_1_1_package_view_model_factory.html", null ],
-    [ "NuGetGallery.ViewModels.PackageViewModelFacts", "de/dab/class_nu_get_gallery_1_1_view_models_1_1_package_view_model_facts.html", null ],
-    [ "NuGetGallery.Services.PackageVulnerabilitiesManagementServiceFacts", "d2/d7a/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PackingListType", "dc/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_packing_list_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Padding", "dd/da2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_padding.html", null ],
-    [ "Page", null, [
-      [ "NuGetGallery.Areas.Admin.DynamicData._Default", "d6/d62/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1___default.html", null ]
-    ] ],
-    [ "System.Web.UI.Page", null, [
-      [ "NuGetGallery.Details", "de/d24/class_nu_get_gallery_1_1_details.html", null ],
-      [ "NuGetGallery.Edit", "dc/d91/class_nu_get_gallery_1_1_edit.html", null ],
-      [ "NuGetGallery.Insert", "d8/d0b/class_nu_get_gallery_1_1_insert.html", null ],
-      [ "NuGetGallery.List", "da/d9b/class_nu_get_gallery_1_1_list.html", null ],
-      [ "NuGetGallery.ListDetails", "d6/d25/class_nu_get_gallery_1_1_list_details.html", null ]
-    ] ],
     [ "PageModel", null, [
       [ "FenixAlliance.ABS.Installer.Pages.ErrorModel", "de/dbd/class_fenix_alliance_1_1_a_b_s_1_1_installer_1_1_pages_1_1_error_model.html", null ]
     ] ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.PageNotification", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification.html", null ],
-    [ "NuGetGallery.PagesControllerFacts", "d0/dd8/class_nu_get_gallery_1_1_pages_controller_facts.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Pagination.PaginationOptions", "d7/d7d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_pagination_1_1_pagination_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.PartnerProfile", "da/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_partner_profile.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Partners.PartnerProfile", "da/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_partners_1_1_partner_profile.html", null ],
@@ -4631,9 +2382,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.PartyNameType", "d7/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_name_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyTaxSchemeType", "d9/de3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_tax_scheme_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyType", "df/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_type.html", null ],
-    [ "NuGetGallery.Authentication.PasswordAuthenticationResult", "de/dd8/class_nu_get_gallery_1_1_authentication_1_1_password_authentication_result.html", null ],
-    [ "NuGetGallery.Authentication.PasswordResetResult", "d2/d06/class_nu_get_gallery_1_1_authentication_1_1_password_reset_result.html", null ],
-    [ "NuGetGallery.PasswordResetViewModel", "d3/d4f/class_nu_get_gallery_1_1_password_reset_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.PatientProfile", "d0/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_patient_profile.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Payment", "de/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment.html", null ],
@@ -4655,16 +2403,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.Payroll.Payroll", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_payroll_1_1_payroll.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Payroll.Payroll", "d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Payroll.PayrollEntries.PayrollEntry", "d7/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll_entries_1_1_payroll_entry.html", null ],
-    [ "NuGetGallery.PendingOrganizationMigrationRequestViewModel", "da/de1/class_nu_get_gallery_1_1_pending_organization_migration_request_view_model.html", null ],
-    [ "PerFieldAnalyzerWrapper", null, [
-      [ "NuGetGallery.PerFieldAnalyzer", "db/d5e/class_nu_get_gallery_1_1_per_field_analyzer.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.PerformanceDataLineType", "d9/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_performance_data_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Performance.Goals.PerformanceGoal", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_goals_1_1_performance_goal.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Performance.Metrics.PerformanceMetric", "d7/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_metrics_1_1_performance_metric.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Performance.PerformanceOptions", "d9/d7a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_performance_1_1_performance_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PeriodType", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_period_type.html", null ],
-    [ "NuGetGallery.Services.PermissionsHelpersFacts", "da/d90/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PersonType", "d9/da2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_person_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PGPDataType", "d7/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_p_g_p_data_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.Base.PhotoResponse", "dd/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_base_1_1_photo_response.html", null ],
@@ -4689,7 +2432,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemReturns.ReturnPolicy", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_return_policy.html", null ],
       [ "FenixAlliance.ABM.Models.Selling.SellingMargins.ItemSellingMarginPolicy", "d7/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy.html", null ]
     ] ],
-    [ "NuGetGallery.PolicyFacts", "dd/df8/class_nu_get_gallery_1_1_policy_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Analytics.Polls.Poll", "de/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_polls_1_1_poll.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.PortalContext", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html", [
       [ "FenixAlliance.ABS.Core.Contexts.StudioContext", "df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html", [
@@ -4699,7 +2441,6 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Portfolio.PortfolioOptions", "da/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portfolio_1_1_portfolio_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PowerOfAttorneyType", "db/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_power_of_attorney_type.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PreparePackageInstallationResult", "d5/d59/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat854752791f9cb9929706e973fa849bad.html", null ],
-    [ "NuGetGallery.ViewModels.PreviousNextPagerViewModelFacts", "d1/d04/class_nu_get_gallery_1_1_view_models_1_1_previous_next_pager_view_model_facts.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Prices.PriceCalculationOptions", "d7/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices_1_1_price_calculation_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PriceExtensionType", "dc/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_price_extension_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Pricing.PriceLists.PriceList", "df/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list.html", [
@@ -4719,14 +2460,12 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.PricingRuleListRecord", "d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule_list_record.html", [
       [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.ItemPricingRuleRecord", "d5/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_item_pricing_rule_record.html", null ]
     ] ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts", "dd/db6/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PriorInformationNoticeType", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Privacy.PrivacyOptions", "db/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy_1_1_privacy_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.PrivateMessage", "d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_private_message.html", null ],
     [ "FenixAlliance.ABM.Models.Social.PrivateMessages.PrivateMessage", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Social.PrivateMessageBinder", "d8/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_social_1_1_private_message_binder.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ProcessJustificationType", "d0/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_process_justification_type.html", null ],
-    [ "NuGetGallery.FunctionalTests.CommandlineHelper.ProcessResult", "de/d03/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper_1_1_process_result.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ProcurementProjectLotType", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_procurement_project_lot_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ProcurementProjectType", "da/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_procurement_project_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product", "dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html", null ],
@@ -4749,19 +2488,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductView", "d7/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_view.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Proficiency.ProficiencyRatingModel", "dd/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_model.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Proficiency.ProficiencyRatingValue", "dd/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_value.html", null ],
-    [ "AzureSqlConnectionTest.Program", "db/df2/class_azure_sql_connection_test_1_1_program.html", null ],
     [ "FenixAlliance.ABP.API.gRPC.Program", "d6/deb/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_program.html", null ],
     [ "FenixAlliance.ABP.BotEngine.Web.Program", "de/de3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_web_1_1_program.html", null ],
     [ "FenixAlliance.ABP.HealthChecks.Web.Program", "d9/d24/class_fenix_alliance_1_1_a_b_p_1_1_health_checks_1_1_web_1_1_program.html", null ],
     [ "FenixAlliance.ABP.Web.Program", "d6/d85/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_program.html", null ],
-    [ "FenixAlliance.ABS.MAUI.Program", "dc/dbd/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_program.html", null ],
     [ "FenixAlliance.ABS.Portal.Program", "d3/db0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_program.html", null ],
-    [ "GalleryTools.Program", "d3/d50/class_gallery_tools_1_1_program.html", null ],
-    [ "GitHubVulnerabilities2Db.Program", "d9/dbf/class_git_hub_vulnerabilities2_db_1_1_program.html", null ],
-    [ "NuGet.VerifyMicrosoftPackage.Program", "d1/d0a/class_nu_get_1_1_verify_microsoft_package_1_1_program.html", null ],
-    [ "NuGetGallery.AccountDeleter.Program", "d2/d1d/class_nu_get_gallery_1_1_account_deleter_1_1_program.html", null ],
-    [ "NuGetGallery.DatabaseMigrationTools.Program", "dc/d7f/class_nu_get_gallery_1_1_database_migration_tools_1_1_program.html", null ],
-    [ "VerifyGitHubVulnerabilities.Program", "d9/da1/class_verify_git_hub_vulnerabilities_1_1_program.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Projects.Project", "d8/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_projects_1_1_project.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Project", "d8/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_project.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Billing.ProjectBacklog", "d8/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_billing_1_1_project_backlog.html", [
@@ -4801,9 +2532,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.PromotionalEventLineItemType", "d6/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_promotional_event_line_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PromotionalEventType", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_promotional_event_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PromotionalSpecificationType", "d9/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_promotional_specification_type.html", null ],
-    [ "ProtectedConfigurationProvider", null, [
-      [ "NuGetGallery.GalleryMachineKeyConfigurationProvider", "d5/d4b/class_nu_get_gallery_1_1_gallery_machine_key_configuration_provider.html", null ]
-    ] ],
     [ "FenixAlliance.ABP.Proxy.ProxyOptions", "d7/d17/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_options.html", null ],
     [ "FenixAlliance.ABM.Models.Procurement.PurchaseRequests.PurchaseRequest", "d3/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_purchase_requests_1_1_purchase_request.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.PutResponseModel", "dc/dd6/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_put_response_model.html", null ],
@@ -4889,16 +2617,7 @@ var hierarchy =
         [ "FenixAlliance.ABM.Models.UBL.VarianceQuantityType", "d2/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_variance_quantity_type.html", null ]
       ] ]
     ] ],
-    [ "QueryableFilterUserControl", null, [
-      [ "NuGetGallery.Areas.Admin.DynamicData.BooleanFilter", "db/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_boolean_filter.html", null ],
-      [ "NuGetGallery.Areas.Admin.DynamicData.EnumerationFilter", "d3/da2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_enumeration_filter.html", null ],
-      [ "NuGetGallery.Areas.Admin.DynamicData.ForeignKeyFilter", "dd/dec/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_foreign_key_filter.html", null ]
-    ] ],
-    [ "GitHubVulnerabilities2Db.GraphQL.QueryResponse", "df/d23/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response.html", null ],
-    [ "GitHubVulnerabilities2Db.GraphQL.QueryResponseData", "d5/de8/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response_data.html", null ],
-    [ "GitHubVulnerabilities2Db.Facts.QueryServiceFacts", "d0/d9d/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_query_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.Question", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_question.html", null ],
-    [ "NuGetGallery.Telemetry.QuietLogFacts", "d9/db1/class_nu_get_gallery_1_1_telemetry_1_1_quiet_log_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.QuotationLineType", "d0/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.QuotationType", "da/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Selling.Quote", "da/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_quote.html", null ],
@@ -4911,9 +2630,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Selling.Quotes.QuoteRequests.QuoteRequest", "d1/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_requests_1_1_quote_request.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RailTransportType", "de/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_rail_transport_type.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.RawIndustryModel", "d2/d41/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_raw_industry_model.html", null ],
-    [ "NuGetGallery.ReadMeRequest", "d8/dfe/class_nu_get_gallery_1_1_read_me_request.html", null ],
-    [ "NuGetGallery.ReadMeServiceFacts", "d9/db2/class_nu_get_gallery_1_1_read_me_service_facts.html", null ],
-    [ "NuGetGallery.Filters.ValidateRecaptchaResponseAttribute.RecaptchaState", "d5/daf/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute_1_1_recaptcha_state.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Receipts.Receipt", "d3/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Receipts.ReceiptTypes.PurchaseReceipt", "dc/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_purchase_receipt.html", null ],
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Receipts.ReceiptTypes.SalesReceipt", "d6/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_sales_receipt.html", null ]
@@ -4928,14 +2644,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ReferenceInfoType", "dc/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reference_info_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.References", "df/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_references.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReferenceType1", "d5/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reference_type1.html", null ],
-    [ "NuGetGallery.ReflowPackageService", "d6/df1/class_nu_get_gallery_1_1_reflow_package_service.html", null ],
-    [ "NuGetGallery.ReflowPackageServiceFacts", "d3/d67/class_nu_get_gallery_1_1_reflow_package_service_facts.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.RegionalBloc", "d2/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_regional_bloc.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Globe.RegionalBlocks.RegionalBlock", "d4/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_regional_blocks_1_1_regional_block.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Globe.RegionalBlocks.RegionalBlockAlternativeAcronym", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_regional_blocks_1_1_regional_block_alternative_acronym.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Globe.RegionalBlocks.RegionalBlockAlternativeName", "d1/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_regional_blocks_1_1_regional_block_alternative_name.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.RegisterViewModel", "df/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_register_view_model.html", null ],
-    [ "NuGetGallery.RegisterViewModel", "da/d5e/class_nu_get_gallery_1_1_register_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RegulationType", "d3/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_regulation_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Others.RelatedContent.RelatedContentOptions", "d4/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_others_1_1_r879ef68174e35c15ef3336132510c7e3.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RelatedItemType", "de/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_related_item_type.html", null ],
@@ -4945,39 +2658,18 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.RemittanceAdviceType", "dd/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_remittance_advice_type.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.RemoveLoginViewModel", "d8/d9e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_remove_login_view_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.RemoveResponseModel", "db/df1/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_remove_response_model.html", null ],
-    [ "NuGetGallery.RenderedMarkdownResult", "d2/d9e/class_nu_get_gallery_1_1_rendered_markdown_result.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RenewalType", "d1/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_renewal_type.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.ReplaceResponseModel", "d9/d43/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_replace_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.Analytics.Reports.Report", "da/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_reports_1_1_report.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Analytics.Reports.ReportMapper", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_analytics_1_1_reports_1_1_report_mapper.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Requests.ReportPackageRequest", "d5/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_requests_1_1_report_package_request.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Repository", "db/d6b/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_repository.html", null ],
-    [ "NuGetGallery.RepositoryInformation", "d3/d51/class_nu_get_gallery_1_1_repository_information.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Priorities.RequerimentPriority", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities_1_1_requeriment_priority.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RequestedTenderTotalType", "d7/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_requested_tender_total_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RequestForQuotationLineType", "d6/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_request_for_quotation_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RequestForQuotationType", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_request_for_quotation_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RequestForTenderLineType", "db/d8c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_request_for_tender_line_type.html", null ],
-    [ "RequiredAttribute", null, [
-      [ "NuGetGallery.Infrastructure.MandatoryAttribute", "dd/d25/class_nu_get_gallery_1_1_infrastructure_1_1_mandatory_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.Auditing.PackageRegistrationAuditRecordTests.RequiredSignerTest", "d7/d1e/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests_1_1_required_signer_test.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Jobs.RequiredSkillset.RequiredSkillRecord", "d1/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset_1_1_required_skill_record.html", null ],
-    [ "NuGetGallery.Security.RequireMinProtocolVersionForPushPolicyFacts", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html", null ],
-    [ "NuGetGallery.Security.RequireOrganizationTenantPolicyFacts", "db/d1c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts.html", null ],
-    [ "NuGetGallery.Security.RequirePackageMetadataCompliancePolicyFacts", "d5/dca/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy_facts.html", null ],
-    [ "NuGetGallery.Security.RequirePackageMetadataState", "d4/dec/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_state.html", null ],
-    [ "NuGetGallery.Security.RequirePackageVerifyScopePolicyFacts", "dc/d7d/class_nu_get_gallery_1_1_security_1_1_require_package_verify_scope_policy_facts.html", null ],
-    [ "NuGetGallery.Auditing.ReservedNamespaceAuditRecordTests", "d3/d15/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record_tests.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.ReservedNamespaceControllerFacts", "da/d69/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller_facts.html", null ],
-    [ "NuGetGallery.ReservedNamespaceListItemViewModel", "dd/dfa/class_nu_get_gallery_1_1_reserved_namespace_list_item_view_model.html", null ],
-    [ "NuGetGallery.ReservedNamespaceListViewModel", "dd/d8f/class_nu_get_gallery_1_1_reserved_namespace_list_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.ReservedNamespaceResultModel", "d8/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_result_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.ReservedNamespaceSearchResult", "d0/db0/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_search_result.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts", "db/d3a/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.ReservedNamespaceViewModel", "d7/d18/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_view_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.ResetPasswordViewModel", "d1/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_reset_password_view_model.html", null ],
-    [ "NuGet.Services.Search.Client.ResilientSearchServiceFacts", "d6/d1a/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ResponderIDType", "dd/d85/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_responder_i_d_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.ResponsePagination", "d4/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_response_pagination.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.ResponseStatus", "d9/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_response_status.html", null ],
@@ -4993,12 +2685,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.RetailPlannedImpactType", "dc/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_retail_planned_impact_type.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.RetentionBonuses.RetentionBonus", "d0/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses_1_1_retention_bonus.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RetrievalMethodType", "d5/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_retrieval_method_type.html", null ],
-    [ "NuGetGallery.Areas.Admin.Services.RevalidationAdminService", "dc/d8a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service.html", null ],
-    [ "NuGetGallery.Areas.Admin.Services.RevalidationAdminServiceFacts", "d5/d5e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.RevalidationPageViewModel", "dd/d4e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_revalidation_page_view_model.html", null ],
-    [ "NuGetGallery.RevalidationState", "dd/d10/class_nu_get_gallery_1_1_revalidation_state.html", null ],
-    [ "NuGetGallery.Services.RevalidationStateServiceFacts", "d7/d9d/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.Services.RevalidationAdminService.RevalidationStatistics", "d2/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_1_1_revalidation_statistics.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Reviews.Review", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review.html", [
       [ "FenixAlliance.ABM.Models.Procurement.SupplierReviews.SupplierReview", "d2/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_reviews_1_1_supplier_review.html", null ],
       [ "FenixAlliance.ABM.Models.Services.ServiceReviews.ServiceReview", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review.html", null ],
@@ -5011,22 +2697,15 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ICX.Reviews.ReviewsOptions", "d3/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_c_x_1_1_reviews_1_1_reviews_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RevocationValuesType", "d1/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_revocation_values_type.html", null ],
-    [ "NuGetGallery.Areas.Admin.Models.RevokeApiKeysRequest", "d9/d03/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_revoke_api_keys_request.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RoadTransportType", "d7/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_road_transport_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Security.Role", "d4/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_role.html", null ],
-    [ "RoleEntryPoint", null, [
-      [ "NuGetGallery.WebRole", "d4/d51/class_nu_get_gallery_1_1_web_role.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Security.RoleMapper", "dd/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security_1_1_role_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Pricing.PriceLists.RolePriceMarkups.RolePriceMarkup", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_pr38a0f168c6df61bb6eff59b7b673b415.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Performance.Rollups.RollupFields.RollupField", "d5/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_rollups_1_1_rollup_fields_1_1_rollup_field.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Performance.Rollups.RollupQueries.RollupQuery", "d8/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_performance_1_1_rollups_1_1_rollup_queries_1_1_rollup_query.html", null ],
     [ "FenixAlliance.ABP.FileSystem.RootVolume", "d5/d10/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_root_volume.html", null ],
-    [ "NuGetGallery.Extensions.RouteExtensionsFacts", "d3/d63/class_nu_get_gallery_1_1_extensions_1_1_route_extensions_facts.html", null ],
-    [ "NuGetGallery.Helpers.RouteUrlTemplate< T >", "d7/df3/class_nu_get_gallery_1_1_helpers_1_1_route_url_template.html", null ],
     [ "FenixAlliance.ABM.Models.Internals.Rows.Row", "d2/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_rows_1_1_row.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RSAKeyValueType", "de/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_r_s_a_key_value_type.html", null ],
-    [ "NuGetGallery.App_Start.RuntimeServiceProviderTests", "d7/d68/class_nu_get_gallery_1_1_app___start_1_1_runtime_service_provider_tests.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.Salaries.Salary", "d0/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_salaries_1_1_salary.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.Salary", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.SalaryDeductions.SalaryDeduction", "d6/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary_deductions_1_1_salary_deduction.html", null ],
@@ -5054,55 +2733,17 @@ var hierarchy =
       [ "FenixAlliance.ABP.API.GraphQl.Core.Schema.GraphQlSchema", "dc/d50/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_graph_ql_schema.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Manager.SchemaManager", "df/daf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_manager_1_1_schema_manager.html", null ],
-    [ "NuGetGallery.Auditing.ScopeAuditRecord", "db/d58/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record.html", null ],
-    [ "NuGetGallery.Auditing.ScopeAuditRecordTests", "d9/d5f/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record_tests.html", null ],
-    [ "NuGetGallery.Extensions.ScopeExtensionsFacts", "d0/d2e/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts.html", null ],
-    [ "NuGetGallery.ScopeViewModel", "d3/de2/class_nu_get_gallery_1_1_scope_view_model.html", null ],
-    [ "NuGetGallery.SearchAdaptorFacts", "df/d9c/class_nu_get_gallery_1_1_search_adaptor_facts.html", null ],
-    [ "NuGetGallery.OData.SearchAdaptorResult", "d7/db3/class_nu_get_gallery_1_1_o_data_1_1_search_adaptor_result.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.SearchClientPolicies", "d2/db3/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_search_client_policies.html", null ],
-    [ "NuGetGallery.SearchFilter", "d6/da3/class_nu_get_gallery_1_1_search_filter.html", null ],
-    [ "NuGetGallery.OData.SearchHijacker", "d5/dd1/class_nu_get_gallery_1_1_o_data_1_1_search_hijacker.html", null ],
-    [ "NuGetGallery.SearchHijackerFacts", "d1/d7d/class_nu_get_gallery_1_1_search_hijacker_facts.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Search.SearchOptions", "d7/dba/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_search_1_1_search_options.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.SearchPolicyFacts", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_search_policy_facts.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.SearchResponseModel", "da/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_search_response_model.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.Models.SearchResults", "df/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_models_1_1_search_results.html", null ],
-    [ "NuGetGallery.SearchResults", "db/d69/class_nu_get_gallery_1_1_search_results.html", null ],
-    [ "NuGetGallery.SearchServiceFactoryFacts", "d4/d58/class_nu_get_gallery_1_1_search_service_factory_facts.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts", "df/d18/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts.html", null ],
-    [ "NuGetGallery.SearchSideBySideServiceFacts", "d9/d69/class_nu_get_gallery_1_1_search_side_by_side_service_facts.html", null ],
-    [ "NuGetGallery.SearchSideBySideViewModel", "d6/df2/class_nu_get_gallery_1_1_search_side_by_side_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SecondaryHazardType", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_secondary_hazard_type.html", null ],
     [ "FenixAlliance.ABM.SDK.Helpers.SecurityHelpers", "d1/d83/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_security_helpers.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.SecurityPolicyControllerFacts", "de/d96/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller_facts.html", null ],
-    [ "NuGetGallery.Security.SecurityPolicyHandler< TContext >", "d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html", null ],
-    [ "NuGetGallery.Security.SecurityPolicyHandler< PackageSecurityPolicyEvaluationContext >", "d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html", [
-      [ "NuGetGallery.Security.PackageSecurityPolicyHandler", "d3/d1e/class_nu_get_gallery_1_1_security_1_1_package_security_policy_handler.html", [
-        [ "NuGetGallery.Security.RequirePackageMetadataCompliancePolicy", "d3/d18/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.Security.SecurityPolicyHandler< UserSecurityPolicyEvaluationContext >", "d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html", [
-      [ "NuGetGallery.Security.UserSecurityPolicyHandler", "d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html", [
-        [ "NuGetGallery.Security.RequireMinProtocolVersionForPushPolicy", "d3/d38/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy.html", null ],
-        [ "NuGetGallery.Security.RequireOrganizationTenantPolicy", "dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy.html", null ],
-        [ "NuGetGallery.Security.RequirePackageVerifyScopePolicy", "d0/d8d/class_nu_get_gallery_1_1_security_1_1_require_package_verify_scope_policy.html", null ],
-        [ "NuGetGallery.Security.RequiredSignerPolicy", "d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html", null ]
-      ] ]
-    ] ],
-    [ "NuGetGallery.Security.SecurityPolicyResult", "d7/d11/class_nu_get_gallery_1_1_security_1_1_security_policy_result.html", null ],
-    [ "NuGetGallery.Security.SecurityPolicyServiceFacts", "d4/d96/class_nu_get_gallery_1_1_security_1_1_security_policy_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SecurityPolicyViewModel", "d8/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_security_policy_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRoleGrants.SecurityRoleGrant", "dd/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_4847c2df72bb3b5cd20b389dedb8b542.html", [
       [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRoleGrants.BusinessSecurityRoleGrantScopes.BusinessApplicationSecurityRoleGrant", "de/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_3b204fe178bb4fddf552ebaec9404d90.html", null ],
       [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRoleGrants.BusinessSecurityRoleGrantScopes.BusinessProfileSecurityRoleGrant", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_8fc2ceca426d49c812ce648cf1c07c1f.html", null ]
     ] ],
-    [ "GitHubVulnerabilities2Db.GraphQL.SecurityVulnerabilityPackage", "da/dda/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package.html", null ],
-    [ "GitHubVulnerabilities2Db.GraphQL.SecurityVulnerabilityPackageVersion", "dd/d4f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package_version.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Static.Technologies.SeedTechnologies", "d5/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_static_1_1_technologies_1_1_seed_technologies.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SelfBilledCreditNoteType", "d9/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_self_billed_credit_note_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SelfBilledInvoiceType", "d6/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_self_billed_invoice_type.html", null ],
-    [ "NuGetGallery.SemVerLevelKeyFacts", "df/deb/class_nu_get_gallery_1_1_sem_ver_level_key_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Content.SEO.SEOKeyWord", "df/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_s_e_o_1_1_s_e_o_key_word.html", null ],
     [ "FenixAlliance.ABM.Models.Content.SEO.SEOKeyWordRecord", "d7/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_s_e_o_1_1_s_e_o_key_word_record.html", [
       [ "FenixAlliance.ABM.Models.Content.SEO.SEOKeyWordBlogPostRecord", "d1/d40/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_s_e_o_1_1_s_e_o_key_word_blog_post_record.html", null ],
@@ -5113,7 +2754,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.CartRecords.ServiceCartRecord", "d5/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart28384e24a9a50fe2480d37e1233ecc0e.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceCases.ServiceCase", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceCaseSubjects.ServiceCaseSubject", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject.html", null ],
-    [ "GalleryTools.Utils.ServiceDiscoveryClient", "d0/de7/class_gallery_tools_1_1_utils_1_1_service_discovery_client.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ServiceFrequencyType", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_frequency_type.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceFulfillmentPreferences.ServiceFulfillmentPreference", "d9/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fulfillment_preferences_1_1_service_fulfillment_preference.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentType", "de/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_incident_type.html", null ],
@@ -5130,9 +2770,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Services.ServiceQueues.ServiceQueue", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceQueues.ServiceQueueRecords.ServiceQueueRecord", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records_1_1_service_queue_record.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceResourceRequirements.ServiceResourceRequirement", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.ServiceResponse< T >", "dd/dc1/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_service_response.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Services.ServicesOptions", "db/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services_1_1_services_options.html", null ],
-    [ "NuGetGallery.ServicesStrings", "d0/d99/class_nu_get_gallery_1_1_services_strings.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.ServiceToWishListRequest", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_service_to_wish_list_request.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.SetPasswordViewModel", "d4/d76/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_set_password_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Shares.ShareClasses.ShareClass", "d6/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_classes_1_1_share_class.html", null ],
@@ -5186,19 +2824,13 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.SignedInfoType", "d3/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signed_info_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SignedPropertiesType", "d1/dc9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signed_properties_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SignedSignaturePropertiesType", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signed_signature_properties_type.html", null ],
-    [ "NuGetGallery.ViewModels.ListPackageItemViewModelFacts.SignerInformation", "d5/dcf/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts_1_1_signer_information.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SignerRoleType", "d2/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signer_role_type.html", null ],
-    [ "NuGetGallery.SignerViewModel", "d1/de3/class_nu_get_gallery_1_1_signer_view_model.html", null ],
-    [ "NuGetGallery.ViewModels.SignerViewModelFacts", "d8/d4b/class_nu_get_gallery_1_1_view_models_1_1_signer_view_model_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Signator.Certificates.SigningCertificate", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html", null ],
-    [ "NuGetGallery.SignInViewModel", "df/d3b/class_nu_get_gallery_1_1_sign_in_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SiteAdminsViewModel", "d7/de4/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_site_admins_view_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.SizeResponseModel", "d1/db7/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_size_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Workforce.Skills.SkillMapper", "d9/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_skills_1_1_skill_mapper.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Sliders.SliderOptions", "da/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_sliders_1_1_slider_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Slideshows.SlideshowOptions", "d8/d68/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_slideshows_1_1_slideshow_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SlidingBar.SlidingBarOptions", "d9/d79/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_sliding_bar_1_1_sliding_bar_options.html", null ],
-    [ "NuGetGallery.Configuration.SmtpUri", "df/dce/class_nu_get_gallery_1_1_configuration_1_1_smtp_uri.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.SnippetResponse", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.SnippetsOptions", "d1/d3e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippets_options.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Badges.SocialBadge", "de/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_badges_1_1_social_badge.html", null ],
@@ -5236,7 +2868,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Social.Reactions.Scopes.SocialCommentReaction", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_comment_reaction.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Reactions.Scopes.SocialPostReaction", "db/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reactions_1_1_scopes_1_1_social_post_reaction.html", null ]
     ] ],
-    [ "NuGetGallery.AccountDeleter.SourceConfiguration", "d4/dcf/class_nu_get_gallery_1_1_account_deleter_1_1_source_configuration.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SPKIDataType", "d0/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_s_p_k_i_data_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SPUserNoticeType", "dc/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_s_p_user_notice_type.html", null ],
     [ "FenixAlliance.ABP.API.GraphQl.Startup", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_startup.html", null ],
@@ -5248,41 +2879,19 @@ var hierarchy =
     [ "FenixAlliance.ABS.Portal.Startup", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup.html", null ],
     [ "FenixAlliance.ABS.Studio.Web.Startup", "d3/d2f/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_web_1_1_startup.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Startups.StartupProfile", "d8/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_startups_1_1_startup_profile.html", null ],
-    [ "NuGetGallery.Security.RequireMinProtocolVersionForPushPolicy.State", "dc/d36/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_1_1_state.html", null ],
-    [ "NuGetGallery.Security.RequireOrganizationTenantPolicy.State", "de/d02/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_1_1_state.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatementLineType", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatementType", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_type.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.StaticAsset", "dc/d0a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_asset.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.StaticAssets", "dd/d69/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_assets.html", null ],
-    [ "NuGetGallery.StatisticsDimension", "dc/d23/class_nu_get_gallery_1_1_statistics_dimension.html", null ],
-    [ "NuGetGallery.StatisticsFact", "d0/d4e/class_nu_get_gallery_1_1_statistics_fact.html", null ],
-    [ "NuGetGallery.StatisticsNuGetUsageItem", "d8/d9c/class_nu_get_gallery_1_1_statistics_nu_get_usage_item.html", null ],
-    [ "NuGetGallery.StatisticsPackagesItemViewModel", "d9/d9f/class_nu_get_gallery_1_1_statistics_packages_item_view_model.html", null ],
-    [ "NuGetGallery.StatisticsPackagesReport", "d0/d92/class_nu_get_gallery_1_1_statistics_packages_report.html", null ],
-    [ "NuGetGallery.StatisticsPackagesViewModel", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html", null ],
-    [ "NuGetGallery.ViewModels.StatisticsPackagesViewModelFacts", "d7/db6/class_nu_get_gallery_1_1_view_models_1_1_statistics_packages_view_model_facts.html", null ],
-    [ "NuGetGallery.StatisticsPivot", "df/d3b/class_nu_get_gallery_1_1_statistics_pivot.html", null ],
-    [ "NuGetGallery.StatisticsReport", "dc/dea/class_nu_get_gallery_1_1_statistics_report.html", null ],
-    [ "NuGetGallery.StatisticsReportResult", "de/d36/class_nu_get_gallery_1_1_statistics_report_result.html", null ],
-    [ "NuGetGallery.StatisticsWeeklyUsageItem", "d4/df7/class_nu_get_gallery_1_1_statistics_weekly_usage_item.html", null ],
-    [ "NuGetGallery.Services.StatusServiceFacts", "d1/d32/class_nu_get_gallery_1_1_services_1_1_status_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatusType", "d6/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StockAvailabilityReportLineType", "d9/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stock_availability_report_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StockAvailabilityReportType", "d4/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stock_availability_report_type.html", null ],
-    [ "NuGetGallery.StorageDependentFacts", "d8/d15/class_nu_get_gallery_1_1_storage_dependent_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Stores.Store", "d5/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.IdentityAndPrivacy.StoreDataRetentionPolicy", "d9/d96/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_store_data_retention_policy.html", null ],
     [ "FenixAlliance.ABM.Models.Stores.StoreProductStockAvailability", "d7/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store_product_stock_availability.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StowageType", "d0/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stowage_type.html", null ],
-    [ "NuGetGallery.Helpers.StreamHelperFacts", "dc/d43/class_nu_get_gallery_1_1_helpers_1_1_stream_helper_facts.html", null ],
     [ "FenixAlliance.ABM.SDK.Helpers.StringHelpers", "da/d08/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_string_helpers.html", null ],
-    [ "NuGetGallery.StringReplaceTemplateProcessor< Package >", "d6/d4b/class_nu_get_gallery_1_1_string_replace_template_processor.html", [
-      [ "NuGetGallery.IconUrlTemplateProcessor", "d4/d25/class_nu_get_gallery_1_1_icon_url_template_processor.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.StringReplaceTemplateProcessorFacts", "d3/d5b/class_nu_get_gallery_1_1_services_1_1_string_replace_template_processor_facts.html", null ],
-    [ "NuGetGallery.Strings", "d1/d1c/class_nu_get_gallery_1_1_strings.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SubcontractTermsType", "dc/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subcontract_terms_type.html", null ],
-    [ "NuGetGallery.SubmitPackageRequest", "d5/db6/class_nu_get_gallery_1_1_submit_package_request.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SubscriberConsumptionType", "df/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subscriber_consumption_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Subscriptions.Subscription", "dd/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.Subscriptions.Subscription", "d9/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription.html", null ],
@@ -5290,9 +2899,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Subscriptions.SubscriptionPlan", "dd/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription_plan.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.CartRecords.SubscriptionPlanCartRecord", "db/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart5ec82556478699bc43ba3efbe72557c5.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.SubscriptionPlanReview", "dd/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_subscription_plan_review.html", null ],
-    [ "SubscriptionProcessorJob", null, [
-      [ "NuGetGallery.AccountDeleter.Job", "d4/de2/class_nu_get_gallery_1_1_account_deleter_1_1_job.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Subscriptions.SubscriptionsOptions", "d8/dd2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_subscriptions_1_1_subscriptions_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.SubscriptionToWishListRequest", "d3/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_s4f4441672e4988d57e9262bcb8caa103.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.SuiteOption", "d1/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_option.html", [
@@ -5418,17 +3024,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Mappers.Procurement.SupplierMapper", "d4/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_procurement_1_1_supplier_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SupplierPartyType", "d3/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_supplier_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.Procurement.SupplierQuotes.SupplierQuoteRequest", "d9/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_quotes_1_1_supplier_quote_request.html", null ],
-    [ "NuGetGallery.Controllers.SupportControllerFacts", "d2/d43/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportRequests.SupportRequest", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html", [
       [ "FenixAlliance.ABM.Models.Helpdesk.RefundRequests.RefundRequest", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.ReturnRequest.ReturnRequest", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.WarrantyRequests.WarrantyRequest", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request.html", null ]
     ] ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SupportRequestAdminsViewModel", "db/d55/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admins_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SupportRequestAdminViewModel", "d6/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admin_view_model.html", null ],
-    [ "NuGetGallery.Services.SupportRequestServiceFacts", "db/da9/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SupportRequestsViewModel", "d7/d57/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_requests_view_model.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.SupportRequestViewModel", "d5/d36/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicket", "d9/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Helpdesk.SupportTicketMapper", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicketPriorities.SupportTicketPriority", "dd/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_prbc27499fb925d93f853a684ed1673588.html", null ],
@@ -5439,13 +3039,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Sustainability.SustainabilityProfile", "df/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_sustainability_1_1_sustainability_profile.html", null ],
     [ "FenixAlliance.ABM.Models.Sustainability.SustainabilityProfile", "db/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sustainability_1_1_sustainability_profile.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Sustainability.SustainabilityProfileMapper", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_sustainability_1_1_sustainability_profile_mapper.html", null ],
-    [ "NuGetGallery.SymbolPackageServiceFacts", "df/d2b/class_nu_get_gallery_1_1_symbol_package_service_facts.html", null ],
-    [ "NuGetGallery.SymbolPackageUploadServiceFacts", "d7/de0/class_nu_get_gallery_1_1_symbol_package_upload_service_facts.html", null ],
-    [ "NuGetGallery.SymbolPackageValidationResult", "d8/d32/class_nu_get_gallery_1_1_symbol_package_validation_result.html", null ],
-    [ "NuGetGallery.StatisticsPivot.TableEntry", "d5/d05/class_nu_get_gallery_1_1_statistics_pivot_1_1_table_entry.html", null ],
-    [ "Microsoft.Build.Utilities.Task", null, [
-      [ "NuGet.Services.Build.FindDuplicateFiles", "dc/d73/class_nu_get_1_1_services_1_1_build_1_1_find_duplicate_files.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Taxes.Tax", "df/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_taxes_1_1_tax.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Taxes.TaxCalculationOptions", "d7/d8b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_taxes_1_1_tax_calculation_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TaxCategoryType", "de/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tax_category_type.html", null ],
@@ -5476,7 +3069,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.TelecommunicationsServiceType", "d6/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_telecommunications_service_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TelecommunicationsSupplyLineType", "dc/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_telecommunications_supply_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TelecommunicationsSupplyType", "de/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_telecommunications_supply_type.html", null ],
-    [ "NuGetGallery.TelemetryServiceFacts", "d7/deb/class_nu_get_gallery_1_1_telemetry_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TemperatureType", "d1/dbe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_temperature_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Tenants.Tenant", "d0/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_tenants_1_1_tenant.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TenderedProjectType", "d1/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendered_project_type.html", null ],
@@ -5495,13 +3087,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.TenderType", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.Territories.Territory", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.Territories.TerritoryRelationships.TerritoryRelationship", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_11f81246055adf4b33c5e2172eaabae4a.html", null ],
-    [ "NuGetGallery.TestablePermissionsEntity", "de/dc5/class_nu_get_gallery_1_1_testable_permissions_entity.html", null ],
-    [ "NuGetGallery.Services.AsynchronousDeleteAccountServiceFacts.TestAsynchronousDeleteAccountService", "d1/d6e/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_asynchronous_delete_account_service.html", null ],
-    [ "NuGetGallery.FunctionalTests.ErrorHandling.TestResponse", "d5/db6/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_test_response.html", null ],
-    [ "AzureSqlConnectionTest.TestRunner", "d0/d33/class_azure_sql_connection_test_1_1_test_runner.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheFindPackagesByOwnersMethodsBase.TestUserRoles", "df/d66/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base_1_1_test_user_roles.html", null ],
-    [ "NuGetGallery.Security.TestUserSecurityPolicyData", "df/db7/class_nu_get_gallery_1_1_security_1_1_test_user_security_policy_data.html", null ],
-    [ "NuGetGallery.Helpers.TextHelperFacts", "de/d57/class_nu_get_gallery_1_1_helpers_1_1_text_helper_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TextType", "dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_text_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.NameType", "d4/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_name_type.html", [
         [ "FenixAlliance.ABM.Models.UBL.AdditionalStreetNameType", "d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_additional_street_name_type.html", null ],
@@ -5720,355 +3305,7 @@ var hierarchy =
         [ "FenixAlliance.ABM.Models.UBL.XPathType", "df/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_path_type.html", null ]
       ] ]
     ] ],
-    [ "TheAccountBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheAccountAction", "dd/dbe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_account_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheAccountAction", "d2/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_account_action.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheAddMemberAsyncMethod", "d0/dca/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_member_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheAddMembershipRequestAsyncMethod", "de/d1c/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_membership_request_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheAddOrganizationAccountMethod", "d9/dd1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_organization_account_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheAddOwnerToReservedNamespaceAsyncMethod", "d5/d28/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_owner_to_reserved_namespace_async_method.html", null ],
-    [ "NuGetGallery.PackageOwnershipManagementServiceFacts.TheAddPackageOwnerAsyncMethod", "de/d9f/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheAddPackageOwnerMethod", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method.html", null ],
-    [ "NuGetGallery.PackageOwnershipManagementServiceFacts.TheAddPackageOwnershipRequestAsyncMethod", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method.html", null ],
-    [ "NuGetGallery.Services.PackageOwnerRequestServiceFacts.TheAddPackageOwnershipRequestMethod", "dc/de6/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_add_package_ownership_request_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheAddPackageRegistrationToNamespaceMethod", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheAddReservedNamespaceAsyncMethod", "da/db4/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_reserved_namespace_async_method.html", null ],
-    [ "NuGetGallery.Extensions.ScopeExtensionsFacts.TheAllowsActionMethod", "db/df0/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_action_method.html", null ],
-    [ "NuGetGallery.Extensions.ScopeExtensionsFacts.TheAllowsSubjectMethod", "de/db5/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_subject_method.html", null ],
-    [ "NuGetGallery.UriExtensionsFacts.TheAppendQueryStringToRelativeUriMethod", "d1/d2b/class_nu_get_gallery_1_1_uri_extensions_facts_1_1_the_append_query_string_to_relative_uri_method.html", null ],
-    [ "NuGetGallery.Authentication.Providers.ApiKey.ApiKeyAuthenticationHandlerFacts.TheApplyResponseChallengeAsyncMethod", "db/dfc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han799635a1f183197dbae1d02d117010cc.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticatorFacts.TheAuthenticatorOfTCreateConfigObjectOverride", "d1/def/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_authenticator_of_t_create_config_object_override.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheCancelChangeEmailAddressMethod", "d1/d40/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_change_email_address_method.html", null ],
-    [ "TheCancelChangeEmailBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheCancelChangeEmailAction", "d7/d09/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_change_email_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheCancelChangeEmailAction", "d4/d0c/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_change_email_action.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheCancelMembershipRequestAsyncMethod", "d1/d7b/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_membership_request_async_method.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts.TheCanPackageBeDeletedByUserAsyncMethod", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheCanTransformToOrganizationBaseMethod", "d6/db6/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_base_method.html", [
-      [ "NuGetGallery.UserServiceFacts.TheCanTransformToOrganizationMethod", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method.html", null ],
-      [ "NuGetGallery.UserServiceFacts.TheCanTransformToOrganizationWithAdminMethod", "dc/d8f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_with_admin_method.html", null ]
-    ] ],
-    [ "TheChangeEmailBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheChangeEmailAction", "d8/d42/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheChangeEmailAction", "d2/d27/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_email_action.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheChangeEmailMethod", "de/da3/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_email_method.html", null ],
-    [ "TheChangeEmailSubscriptionBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheChangeEmailSubscriptionAction", "de/d4d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_subscription_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheChangeEmailSubscriptionAction", "d3/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_email_subscription_action.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheChangeMultiFactorAuthenticationMethod", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method.html", null ],
-    [ "NuGetGallery.ActionRequiringEntityPermissionsFacts.TheCheckPermissionsMethod", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method.html", null ],
-    [ "NuGetGallery.ActionRequiringEntityPermissionsFacts.TheCheckPermissionsOnBehalfOfAnyAccountMethod", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html", null ],
-    [ "NuGetGallery.App_Start.DefaultDependenciesModuleFacts.TheConfigureApplicationInsightsMethod", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html", null ],
-    [ "TheConfirmationRequiredBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheConfirmationRequiredAction", "d3/d9a/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheConfirmationRequiredAction", "d9/def/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirmation_required_action.html", null ]
-    ] ],
-    [ "TheConfirmationRequiredPostBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheConfirmationRequiredPostAction", "d2/d9d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_post_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheConfirmationRequiredPostAction", "d8/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirmation_required_post_action.html", null ]
-    ] ],
-    [ "TheConfirmBaseAction", null, [
-      [ "NuGetGallery.OrganizationsControllerFacts.TheConfirmAction", "d4/d48/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_action.html", null ],
-      [ "NuGetGallery.UsersControllerFacts.TheConfirmAction", "d4/db8/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_action.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheConfirmEmailAddressMethod", "dc/d9d/class_nu_get_gallery_1_1_user_service_facts_1_1_the_confirm_email_address_method.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticatorFacts.TheConstructor", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheConstructor", "df/db0/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.CoreSymbolPackageServiceFacts.TheConstructor", "d2/d2b/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.GitHubUsageConfigurationFacts.TheConstructor", "d2/d37/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.AccountDeleteNoticeMessageFacts.TheConstructor", "dc/d49/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactOwnersMessageFacts.TheConstructor", "d1/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactSupportMessageFacts.TheConstructor", "d5/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialAddedMessageFacts.TheConstructor", "d7/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRemovedMessageFacts.TheConstructor", "dc/db2/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessageFacts.TheConstructor", "d0/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeConfirmationMessageFacts.TheConstructor", "da/df4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeNoticeToPreviousEmailAddressMessageFacts.TheConstructor", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previoucae341e4d1de3a26e981bb9c77965957.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.NewAccountMessageFacts.TheConstructor", "d2/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberRemovedMessageFacts.TheConstructor", "d5/dba/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestCanceledMessageFacts.TheConstructor", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques8539c4111ed920f30eaa72a39ab10057.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestDeclinedMessageFacts.TheConstructor", "d5/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques1f0289422985b024f679386a4562fc7d.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestInitiatedMessageFacts.TheConstructor", "df/d0b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesdd53614142cf3d50ee4cfab735d3acbf.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestMessageFacts.TheConstructor", "dc/ddc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques49773990994e0d90725c1098a537bc63.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberUpdatedMessageFacts.TheConstructor", "df/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformAcceptedMessageFacts.TheConstructor", "d8/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_acceptedad6f690f7cd559009e18a1e889f1052.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformInitiatedMessageFacts.TheConstructor", "d6/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatd6cce6b4c961a54a11dfc88bd193e042.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRejectedMessageFacts.TheConstructor", "db/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte05c925635e827cdb9ff9bfa9f9ffa9bc.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRequestMessageFacts.TheConstructor", "de/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request9e627de7f219bed4e878b9585bda466b.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedMessageFacts.TheConstructor", "d2/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedWithWarningsMessageFacts.TheConstructor", "d1/d60/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageDeletedNoticeMessageFacts.TheConstructor", "db/d53/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerAddedMessageFacts.TheConstructor", "d0/d42/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerRemovedMessageFacts.TheConstructor", "d4/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestCanceledMessageFacts.TheConstructor", "d4/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canc34c764143197db45d2b50fcd2ae25cc7.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestDeclinedMessageFacts.TheConstructor", "d9/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl1ba3a094b79192c75e8c45e458bebb94.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestInitiatedMessageFacts.TheConstructor", "d7/d47/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init565af5c8edeea5934701c87727156ee2.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestMessageFacts.TheConstructor", "dc/d76/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationFailedMessageFacts.TheConstructor", "db/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationTakingTooLongMessageFacts.TheConstructor", "d4/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_2e59ab69061aecf94110d2c63864c172.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportAbuseMessageFacts.TheConstructor", "d9/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportMyPackageMessageFacts.TheConstructor", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SigninAssistanceMessageFacts.TheConstructor", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageAddedMessageFacts.TheConstructor", "dc/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationFailedMessageFacts.TheConstructor", "d3/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail3c2fb20590e7bd163a4629741b84f1ac.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationTakingTooLongMessageFacts.TheConstructor", "d9/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taki5e32673880253a92166b099075a1f87f.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts.TheConstructor", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.Services.ContentServiceFacts.TheConstructor", "df/d72/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.TelemetryServiceFacts.TheConstructor", "db/d96/class_nu_get_gallery_1_1_telemetry_service_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.ViewModels.DependencySetsViewModelFacts.TheConstructor", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheCopyFileAsyncMethod", "db/d2d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_copy_file_async_method.html", null ],
-    [ "NuGetGallery.SymbolPackageUploadServiceFacts.TheCreateAndUploadSymbolsPackageMethod", "dd/dcf/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_create_and_upload_symbols_package_method.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheCreateDownloadFileActionResultMethod", "d3/db0/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_create_download_file_action_result_method.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts.TheCreateDownloadPackageActionResultMethod", "d7/d4b/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_create_download_package_action_result_method.html", null ],
-    [ "NuGetGallery.CloudBlobFileStorageServiceFacts.TheCreateDownloadPackageResultMethod", "da/d21/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts_1_1_the_create_download_package_result_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheCreatePackageMethod", "d4/dc9/class_nu_get_gallery_1_1_package_service_facts_1_1_the_create_package_method.html", null ],
-    [ "NuGetGallery.SymbolPackageServiceFacts.TheCreateSymbolPackageMethod", "dd/df1/class_nu_get_gallery_1_1_symbol_package_service_facts_1_1_the_create_symbol_package_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheCtor", "df/d71/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_ctor.html", null ],
-    [ "NuGetGallery.Entities.PackageFacts.TheDefaultConstructor", "d1/d99/class_nu_get_gallery_1_1_entities_1_1_package_facts_1_1_the_default_constructor.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheDeleteFileMethod", "db/d42/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_delete_file_method.html", null ],
-    [ "NuGetGallery.Services.AsynchronousDeleteAccountServiceFacts.TheDeleteGalleryUserAccountAsyncMethod", "d9/df6/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_the_delete_g403ff65fd26ae0ea180b063841fcd5b7.html", null ],
-    [ "NuGetGallery.Services.DeleteAccountServiceFacts.TheDeleteGalleryUserAccountAsyncMethod", "dc/d26/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_the_delete_gallery_user_account_async_method.html", null ],
-    [ "NuGetGallery.Services.CoreLicenseFileServiceFacts.TheDeleteLicenseFileAsyncMethod", "d9/d82/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_delete_license_file_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheDeleteMemberAsyncMethod", "d2/df8/class_nu_get_gallery_1_1_user_service_facts_1_1_the_delete_member_async_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheDeleteOwnerFromReservedNamespaceAsyncMethod", "d5/d77/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_owner_from12efff2f031f49d93ea1a5378ff9ca34.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheDeletePackageFileMethod", "de/d7d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_delete_package_file_method.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts.TheDeletePackageFileMethod", "d2/deb/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_package_file_method.html", null ],
-    [ "NuGetGallery.PackageOwnershipManagementServiceFacts.TheDeletePackageOwnershipRequestAsyncMethod", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html", null ],
-    [ "NuGetGallery.Services.CoreReadmeFileServiceFacts.TheDeleteReadmeFileAsyncMethod", "dd/d59/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_delete_readme_file_async_method.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts.TheDeleteReadMeMdFileAsync", "d1/df2/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_read_me_md_file_async.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheDeleteReservedNamespaceAsyncMethod", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html", null ],
-    [ "NuGetGallery.Services.SupportRequestServiceFacts.TheDeleteSupportRequestsAsync", "d8/d84/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts_1_1_the_delete_support_requests_async.html", null ],
-    [ "NuGetGallery.SymbolPackageUploadServiceFacts.TheDeleteSymbolsPackageAsyncMethod", "d6/d41/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_delete_symbols_package_async_method.html", null ],
-    [ "NuGetGallery.UploadFileServiceFacts.TheDeleteUploadFileMethod", "d7/df7/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_delete_upload_file_method.html", null ],
-    [ "NuGetGallery.Services.CoreLicenseFileServiceFacts.TheDownloadLicenseFileAsyncMethod", "d9/da5/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_download_license_file_async_method.html", null ],
-    [ "NuGetGallery.Services.CoreReadmeFileServiceFacts.TheDownloadReadmeFileAsyncMethod", "d1/d9e/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_download_readme_file_async_method.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts.TheDownloadReadMeMdFileAsyncMethod", "dd/da7/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_download_read_me_md_file_async_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheEnrichPackageFromNuGetPackageMethod", "dc/d80/class_nu_get_gallery_1_1_package_service_facts_1_1_the_enrich_package_from_nu_get_package_method.html", null ],
-    [ "NuGetGallery.UrlHelperExtensionsFacts.TheEnsureTrailingSlashHelperMethod", "db/d93/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_ensure_trailing_slash_helper_method.html", null ],
-    [ "NuGetGallery.SymbolPackageServiceFacts.TheEnsureValidAsyncMethod", "dd/d62/class_nu_get_gallery_1_1_symbol_package_service_facts_1_1_the_ensure_valid_async_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheEnsureValidMethod", "de/dda/class_nu_get_gallery_1_1_package_service_facts_1_1_the_ensure_valid_method.html", null ],
-    [ "NuGetGallery.Authentication.ApiScopeEvaluatorFacts.TheEvaluateMethod", "d6/d06/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts_1_1_the_evaluate_method.html", null ],
-    [ "NuGetGallery.Security.RequireOrganizationTenantPolicyFacts.TheEvaluateMethod", "dd/d2c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts_1_1_the_evaluate_method.html", null ],
-    [ "NuGetGallery.Cookies.CookieExpirationServiceFacts.TheExpireAnalyticsCookiesMethod", "df/d7b/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_analytics_cookies_method.html", null ],
-    [ "NuGetGallery.Cookies.CookieExpirationServiceFacts.TheExpireCookieByNameMethod", "dc/d34/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_cookie_by_name_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheFilterExactPackageMethod", "db/d84/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_exact_package_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheFilterLatestPackageMethod", "db/dac/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_latest_package_method.html", [
-      [ "NuGetGallery.PackageServiceFacts.TheFindPackageByIdAndVersionMethod", "dd/d11/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_id_and_version_method.html", null ]
-    ] ],
-    [ "NuGetGallery.UserServiceFacts.TheFindByEmailAddressMethod", "d5/d7f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_email_address_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheFindByKeyMethod", "d8/dae/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_key_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheFindByUsernameMethod", "d7/df1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_username_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheFindPackageBySuffixMethod", "d0/d32/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_suffix_method.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheFindPackageRegistrationByIdMethod", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV1Feed.TheFindPackagesByIdMethod", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed.TheFindPackagesByIdMethod", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html", null ],
-    [ "NuGetGallery.SemVerLevelKeyFacts.TheForPackageMethod", "d6/dfb/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_package_method.html", null ],
-    [ "NuGetGallery.SemVerLevelKeyFacts.TheForSemVerLevelMethod", "dc/db8/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_sem_ver_level_method.html", null ],
-    [ "NuGetGallery.PackageUploadServiceFacts.TheGeneratePackageAsyncMethod", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method.html", null ],
-    [ "NuGetGallery.UrlHelperExtensionsFacts.TheGetAbsoluteReturnUrlMethod", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticatorFacts.TheGetAllAvailableMethod", "d8/d6a/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_get_all_available_method.html", null ],
-    [ "NuGet.Services.Search.Client.ResilientSearchServiceFacts.TheGetAsyncMethod", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheGetAuthenticationTypeMethod", "d4/d3b/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_authentication_type_method.html", null ],
-    [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2AuthenticatorFacts.TheGetAuthInformaitonMethod", "db/df1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac72bb70828b9760a61967c3e9e197db9f.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.AccountDeleteNoticeMessageFacts.TheGetBodyMethod", "da/dea/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactOwnersMessageFacts.TheGetBodyMethod", "df/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactSupportMessageFacts.TheGetBodyMethod", "dd/d0c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialAddedMessageFacts.TheGetBodyMethod", "de/df7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRemovedMessageFacts.TheGetBodyMethod", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessageFacts.TheGetBodyMethod", "db/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeConfirmationMessageFacts.TheGetBodyMethod", "df/dc4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeNoticeToPreviousEmailAddressMessageFacts.TheGetBodyMethod", "d2/db8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou271d6d7cc46baed6499de649339c3459.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.NewAccountMessageFacts.TheGetBodyMethod", "db/d06/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberRemovedMessageFacts.TheGetBodyMethod", "d4/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me77ac744d1fc6137b6ed3c7b9b6a82e44.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestCanceledMessageFacts.TheGetBodyMethod", "db/df6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesfb5f88b7124b073919a89bf4308b9767.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestDeclinedMessageFacts.TheGetBodyMethod", "d8/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques52c45e3f5e87fa40f329e2722bb7f799.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestInitiatedMessageFacts.TheGetBodyMethod", "d6/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestMessageFacts.TheGetBodyMethod", "dd/de8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques163e3868112fe9200c8a1175786fcf67.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberUpdatedMessageFacts.TheGetBodyMethod", "d2/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_me8efe66d20cca99e74d215cea84ffb6c4.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformAcceptedMessageFacts.TheGetBodyMethod", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte28aa63273b3a655847c1855da6ca73e8.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformInitiatedMessageFacts.TheGetBodyMethod", "d5/d92/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatda61370eee356d2f00572428f5ec32aa.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRejectedMessageFacts.TheGetBodyMethod", "d2/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte1bc0eeaffc96b85aebf7110d66c4b2b0.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRequestMessageFacts.TheGetBodyMethod", "dd/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request1cca24d273f027f6f800ad266d978763.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedMessageFacts.TheGetBodyMethod", "de/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedWithWarningsMessageFacts.TheGetBodyMethod", "df/d08/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_mecfe7bc268afcf5680158ae333598953e.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageDeletedNoticeMessageFacts.TheGetBodyMethod", "d9/d56/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerAddedMessageFacts.TheGetBodyMethod", "dc/d6b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerRemovedMessageFacts.TheGetBodyMethod", "d4/d32/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestCanceledMessageFacts.TheGetBodyMethod", "d2/d4e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancaf784ed7e154e3d1c69d5f833803830f.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestDeclinedMessageFacts.TheGetBodyMethod", "d6/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl196273f54ad38ec49bd4d8e5a6199369.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestInitiatedMessageFacts.TheGetBodyMethod", "d6/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initaf34fa46576f4da9c4e028acdfd3415d.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestMessageFacts.TheGetBodyMethod", "d2/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messb88e996f1b939c82f2e9c9ba4f4441ba.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationFailedMessageFacts.TheGetBodyMethod", "d6/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messffe126da4b5212263962a0d3b25f4170.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationTakingTooLongMessageFacts.TheGetBodyMethod", "dc/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_72324709a6e398c1a088b4bc45594c86.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportAbuseMessageFacts.TheGetBodyMethod", "dd/db0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportMyPackageMessageFacts.TheGetBodyMethod", "d8/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SigninAssistanceMessageFacts.TheGetBodyMethod", "d9/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageAddedMessageFacts.TheGetBodyMethod", "d6/d9e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_get_body_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationFailedMessageFacts.TheGetBodyMethod", "df/d3e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failb0f2e0ae9e784e6d0fe6a3e6b98f4c6e.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationTakingTooLongMessageFacts.TheGetBodyMethod", "d4/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takid395468c1d14862430ad82670b691e46.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheGetClaimOrDefaultMethod", "d9/d44/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_claim_or_default_method.html", null ],
-    [ "NuGetGallery.Services.ContentServiceFacts.TheGetContentItemMethod", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html", null ],
-    [ "NuGetGallery.Extensions.UserExtensionsFacts.TheGetCurrentApiKeyCredentialMethod", "d6/d00/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_get_current_api_key_credential_method.html", null ],
-    [ "NuGetGallery.Controllers.AppControllerFacts.TheGetCurrentUserMethod", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method.html", null ],
-    [ "NuGetGallery.ExtensionMethodsFacts.TheGetCurrentUserMethod", "d8/d92/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_get_current_user_method.html", null ],
-    [ "NuGetGallery.Helpers.EnumHelperFacts.TheGetDescriptionMethod", "d5/d47/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts_1_1_the_get_description_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheGetETagMethod", "d5/dbe/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_e_tag_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheGetFileMethod", "d0/dfb/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_method.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheGetFileMethod", "da/de4/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_get_file_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheGetFileReadUriAsyncMethod", "da/d0b/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_read_uri_async_method.html", null ],
-    [ "NuGetGallery.SearchAdaptorFacts.TheGetNextLinkMethod", "d6/d66/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_next_link_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheGetPackageDependentsMethod", "d3/df3/class_nu_get_gallery_1_1_package_service_facts_1_1_the_get_package_dependents_method.html", null ],
-    [ "NuGetGallery.GitHubUsageConfigurationFacts.TheGetPackageInformationMethod", "d4/dc5/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_get_package_information_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheGetPriviledgedFileUriAsyncMethod", "df/dc0/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_priviledged_file_uri_async_method.html", null ],
-    [ "NuGetGallery.ReadMeServiceFacts.TheGetReadMeHtmlAsyncMethod", "d8/d79/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_html_async_method.html", null ],
-    [ "NuGetGallery.ReadMeServiceFacts.TheGetReadMeMdAsyncMethod", "d9/d40/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_md_async_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.AccountDeleteNoticeMessageFacts.TheGetRecipientsMethod", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactOwnersMessageFacts.TheGetRecipientsMethod", "d2/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ContactSupportMessageFacts.TheGetRecipientsMethod", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialAddedMessageFacts.TheGetRecipientsMethod", "db/da9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRemovedMessageFacts.TheGetRecipientsMethod", "dc/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_fac2ff2bc71367f33056db5679781b8fb8d.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessageFacts.TheGetRecipientsMethod", "d3/db3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_fac6c0119f307318be717eaa537c29349e1.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeConfirmationMessageFacts.TheGetRecipientsMethod", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.EmailChangeNoticeToPreviousEmailAddressMessageFacts.TheGetRecipientsMethod", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.NewAccountMessageFacts.TheGetRecipientsMethod", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberRemovedMessageFacts.TheGetRecipientsMethod", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestCanceledMessageFacts.TheGetRecipientsMethod", "d7/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques6184d70a209904bbff02ab3066abc98b.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestDeclinedMessageFacts.TheGetRecipientsMethod", "d7/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques818f0ddb95869361f8e44f4de11b8d1f.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestInitiatedMessageFacts.TheGetRecipientsMethod", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques91b9b9329312201ea3ed8b867b471f81.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMembershipRequestMessageFacts.TheGetRecipientsMethod", "d4/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques5cabccffd2aa2b6e8295236a7a9240eb.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationMemberUpdatedMessageFacts.TheGetRecipientsMethod", "d4/d0f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_meb9138729a9e98cc00de5bae58fd944c4.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformAcceptedMessageFacts.TheGetRecipientsMethod", "d1/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte789d013e2d3a8b119751d81962c56eb3.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformInitiatedMessageFacts.TheGetRecipientsMethod", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRejectedMessageFacts.TheGetRecipientsMethod", "d0/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte4d9b5a7a53da23218366766011dcc0c7.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.OrganizationTransformRequestMessageFacts.TheGetRecipientsMethod", "de/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_requestf46d10094dc17c67e1fcd63060a4cddd.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedMessageFacts.TheGetRecipientsMethod", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageAddedWithWarningsMessageFacts.TheGetRecipientsMethod", "d4/d99/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_meeb26e43dacb51f6b6b2b0312feab6dd9.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageDeletedNoticeMessageFacts.TheGetRecipientsMethod", "d2/d62/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_messaged28ab8f03090240882e7772019b45f70.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerAddedMessageFacts.TheGetRecipientsMethod", "d7/d93/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_fa7c33fe170e348afbd88beb95bb579f1f.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnerRemovedMessageFacts.TheGetRecipientsMethod", "d6/de3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_11a804cfc6612172669540c45074b84e.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestCanceledMessageFacts.TheGetRecipientsMethod", "da/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancc86d0226bfe19769f8316c07fab30aaf.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestDeclinedMessageFacts.TheGetRecipientsMethod", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestInitiatedMessageFacts.TheGetRecipientsMethod", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageOwnershipRequestMessageFacts.TheGetRecipientsMethod", "d3/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messfb72d6907e107162ddb5234839843eff.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationFailedMessageFacts.TheGetRecipientsMethod", "d1/d04/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messd11ab422f814485d9460a55b422499b0.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.PackageValidationTakingTooLongMessageFacts.TheGetRecipientsMethod", "db/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_a6be8f727bbdfa53178c1a80a3792c1d.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportAbuseMessageFacts.TheGetRecipientsMethod", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.ReportMyPackageMessageFacts.TheGetRecipientsMethod", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SigninAssistanceMessageFacts.TheGetRecipientsMethod", "dc/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_recipients_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageAddedMessageFacts.TheGetRecipientsMethod", "d5/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_faf8b0d87a41f3655d9a7943b06c901a1.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationFailedMessageFacts.TheGetRecipientsMethod", "d2/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail29d389a1d6e68b8d505bea5e442c55e7.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.SymbolPackageValidationTakingTooLongMessageFacts.TheGetRecipientsMethod", "db/d07/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takiaf155217e1dc2328d4b53cd902876f06.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheGetScopesFromClaimMethod", "dd/da0/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_scopes_from_claim_method.html", null ],
-    [ "NuGetGallery.SearchAdaptorFacts.TheGetSearchFilterFunction", "d0/de8/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_search_filter_function.html", null ],
-    [ "NuGetGallery.Helpers.PackageHelperTests.TheGetSelectListTextMethod", "df/d10/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_get_select_list_text_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheGetSiteAdminsMethod", "d3/d57/class_nu_get_gallery_1_1_user_service_facts_1_1_the_get_site_admins_method.html", null ],
-    [ "NuGetGallery.App_Start.ConfigurationServiceFacts.TheGetSiteRootMethod", "d3/d07/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_get_site_root_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheGetSiteRootMethod", "d2/dad/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_get_site_root_method.html", null ],
-    [ "NuGetGallery.Diagnostics.DiagnosticsServiceFacts.TheGetSourceMethod", "d6/d94/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts_1_1_the_get_source_method.html", null ],
-    [ "NuGetGallery.Infrastructure.Mail.Messages.CredentialRevokedMessageFacts.TheGetSubjectMethod", "dd/d80/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_subject_method.html", null ],
-    [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2AuthenticatorFacts.TheGetUIMethod", "de/d5e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_aca8f07d62eb28e24eaabcebd101132e6c.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed.TheGetUpdatesMethod", "df/d36/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_get_updates_method.html", null ],
-    [ "NuGetGallery.UploadFileServiceFacts.TheGetUploadFileMethod", "d5/ddf/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_get_upload_file_method.html", null ],
-    [ "NuGetGallery.Helpers.UploadHelperFacts.TheGetUploadTracingKeyMethod", "dc/d06/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts_1_1_the_get_upload_tracing_key_method.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts.TheHardDeletePackagesAsyncMethod", "d9/d33/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_hard_delete_packages_async_method.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheHasExplicitScopeActionMethod", "dd/d97/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_explicit_scope_action_method.html", null ],
-    [ "NuGetGallery.Extensions.ScopeExtensionsFacts.TheHasOwnerScopeMethod", "dc/dc6/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_has_owner_scope_method.html", null ],
-    [ "NuGetGallery.ReadMeServiceFacts.TheHasReadMeSourceMethod", "d4/db2/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_has_read_me_source_method.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheHasScopeThatAllowsActionsMethod", "dc/df3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageRegistrationExtensionsFacts.TheIsAcceptableSigningCertificateMethod", "d3/d43/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_t28dc1403ef388492a99b69661bfc178c.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheIsAdministratorMethod", "d5/dc5/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_administrator_method.html", null ],
-    [ "NuGetGallery.Authentication.Providers.AzureActiveDirectoryV2.AzureActiveDirectoryV2AuthenticatorFacts.TheIsAuthorityForIdentityMethod", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html", null ],
-    [ "NuGetGallery.Services.StatusServiceFacts.TheIsAzureStorageAvailable", "db/d5e/class_nu_get_gallery_1_1_services_1_1_status_service_facts_1_1_the_is_azure_storage_available.html", null ],
-    [ "NuGetGallery.SemVerLevelKeyFacts.TheIsCompliantWithSemVerLevelPredicateMethod", "dc/dcf/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_compliant_with_sem_ver_level_predicate_method.html", null ],
-    [ "NuGetGallery.SearchHijackerFacts.TheIsHijackableMethod", "d3/dbc/class_nu_get_gallery_1_1_search_hijacker_facts_1_1_the_is_hijackable_method.html", null ],
-    [ "NuGetGallery.Services.LoginDiscontinuationConfigurationFacts.TheIsLoginDiscontinuedMethod", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method.html", null ],
-    [ "NuGetGallery.FeatureFlagServiceFacts.TheIsManageDeprecationEnabledMethod", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html", null ],
-    [ "NuGetGallery.Extensions.UserExtensionsFacts.TheIsOwnerOrMemberOfOrganizationOwnerMethod", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html", null ],
-    [ "NuGetGallery.Services.PermissionsHelpersFacts.TheIsRequirementSatisfiedMethod", "dd/d5c/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts_1_1_the_is_requirement_satisfied_method.html", null ],
-    [ "NuGetGallery.Extensions.PrincipalExtensionsFacts.TheIsScopedAuthenticationMethod", "d3/db3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_scoped_authentication_method.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageRegistrationExtensionsFacts.TheIsSigningAllowedMethod", "da/de6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_allowed_method.html", null ],
-    [ "NuGet.Services.Entities.Tests.PackageRegistrationExtensionsFacts.TheIsSigningRequiredMethod", "d5/dac/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_required_method.html", null ],
-    [ "NuGetGallery.Authentication.ApiScopeEvaluationResultFacts.TheIsSuccessfulMethod", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method.html", null ],
-    [ "NuGetGallery.SemVerLevelKeyFacts.TheIsUnknownPredicateMethod", "dc/df3/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_unknown_predicate_method.html", null ],
-    [ "NuGetGallery.Services.PackageOwnerRequestServiceFacts.TheIsValidPackageOwnerRequestMethod", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html", null ],
-    [ "NuGetGallery.Infrastructure.CookieTempDataProviderFacts.TheLoadTempDataMethod", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html", null ],
-    [ "NuGetGallery.Routing.VersionRouteConstraintFacts.TheMatchMethod", "dc/d3c/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts_1_1_the_match_method.html", null ],
-    [ "NuGetGallery.Extensions.UserExtensionsFacts.TheMemberMatchesOwnerScopeMethod", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Theming.ThemingOptions", "d9/d91/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_theming_1_1_theming_options.html", null ],
-    [ "NuGetGallery.Authentication.AuthenticatorFacts.TheNameProperty", "d6/d51/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_name_property.html", null ],
-    [ "NuGetGallery.Helpers.ObfuscationHelperFacts.TheObfuscateCurrentRequestUrlFacts", "df/dab/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts_1_1_the_obfuscate_current_request_url_facts.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV1Feed.TheODataFilter", "d2/d46/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_o_data_filter.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed.TheODataFilter", "d0/d5d/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_o_data_filter.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheODataResponses", "de/d50/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses.html", null ],
-    [ "NuGetGallery.Filters.ApiAuthorizeAttributeFacts.TheOnAuthorizationMethod", "d3/dca/class_nu_get_gallery_1_1_filters_1_1_api_authorize_attribute_facts_1_1_the_on_authorization_method.html", null ],
-    [ "NuGetGallery.Filters.UIAuthorizeAttributeFacts.TheOnAuthorizationMethod", "de/d4f/class_nu_get_gallery_1_1_filters_1_1_u_i_authorize_attribute_facts_1_1_the_on_authorization_method.html", null ],
-    [ "TheoryAttribute", null, [
-      [ "NuGetGallery.FunctionalTests.XunitExtensions.DefaultSecurityPoliciesEnforcedTheoryAttribute", "d3/db4/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_theory_attribute.html", null ]
-    ] ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed.ThePackagesCollection", "dc/d63/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_packages_collection.html", null ],
-    [ "NuGetGallery.Areas.Admin.HelperFacts.TheParseQueryToLinesMethod", "d9/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts_1_1_the_parse_query_to_lines_method.html", null ],
-    [ "NuGetGallery.Helpers.HtmlExtensionsFacts.ThePreFormattedTextMethod", "db/d5f/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts_1_1_the_pre_formatted_text_method.html", null ],
-    [ "NuGetGallery.OData.Interceptors.PackageExtensionsFacts.TheProjectV2FeedPackageMethod", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.ThePublishPackageMethod", "d8/d7a/class_nu_get_gallery_1_1_package_service_facts_1_1_the_publish_package_method.html", null ],
-    [ "NuGetGallery.ViewModels.DisplayPackageViewModelFacts.ThePushedByField", "d1/ddf/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts_1_1_the_pushed_by_field.html", null ],
-    [ "NuGetGallery.Infrastructure.Search.ExternalSearchServiceFacts.TheReadPackageMethod", "d3/d5e/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts_1_1_the_read_package_method.html", null ],
-    [ "NuGetGallery.App_Start.ConfigurationServiceFacts.TheReadSettingMethod", "d4/ddf/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_read_setting_method.html", null ],
-    [ "NuGetGallery.ReflowPackageServiceFacts.TheReflowAsyncMethod", "dc/dea/class_nu_get_gallery_1_1_reflow_package_service_facts_1_1_the_reflow_async_method.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts.TheReflowHardDeletedPackagesAsyncMethod", "d1/d34/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_reflow_hard_deleted_packages_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheRejectMembershipRequestAsyncMethod", "d8/d21/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_membership_request_async_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheRejectTransformUserToOrganizationRequestMethod", "d6/d9a/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_transform_user_to_organization_request_method.html", null ],
-    [ "NuGetGallery.PackageOwnershipManagementServiceFacts.TheRemovePackageOwnerAsyncMethod", "d3/d29/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheRemovePackageOwnerMethod", "d5/dec/class_nu_get_gallery_1_1_package_service_facts_1_1_the_remove_package_owner_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheRemovePackageRegistrationFromNamespaceMethod", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheRequestTransformToOrganizationAccountMethod", "d2/d81/class_nu_get_gallery_1_1_user_service_facts_1_1_the_request_transform_to_organization_account_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheSaveFileMethod", "de/dd7/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_method.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheSaveFileMethod", "d7/da8/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_save_file_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheSaveFileWithAccessConditionMethod", "db/dc5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_with_access_condition_method.html", null ],
-    [ "NuGetGallery.Services.CoreLicenseFileServiceFacts.TheSaveLicenseFileAsyncMethod", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html", null ],
-    [ "NuGetGallery.CorePackageFileServiceFacts.TheSavePackageFileMethod", "dd/d65/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_package_file_method.html", null ],
-    [ "NuGetGallery.PackageFileServiceFacts.TheSaveReadMeMdFileAsyncMethod", "db/dc5/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_save_read_me_md_file_async_method.html", null ],
-    [ "NuGetGallery.ReadMeServiceFacts.TheSaveReadMeMdIfChangedMethod", "d5/dc7/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_save_read_me_md_if_changed_method.html", null ],
-    [ "NuGetGallery.Infrastructure.CookieTempDataProviderFacts.TheSaveTempDataMethod", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html", null ],
-    [ "NuGetGallery.UploadFileServiceFacts.TheSaveUploadFileMethod", "dc/d3c/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_save_upload_file_method.html", null ],
-    [ "NuGetGallery.Filters.ApiScopeRequiredAttributeFacts.TheScopeActionsProperty", "d9/d09/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts_1_1_the_scope_actions_property.html", null ],
-    [ "NuGetGallery.Areas.Admin.Controllers.DeleteAccountControllerFacts.TheSearchMethod", "d7/d10/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts_1_1_the_search_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV1Feed.TheSearchMethod", "dc/da2/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_search_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed.TheSearchMethod", "d0/d7b/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_search_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheSetIsAdministratorMethod", "d5/dda/class_nu_get_gallery_1_1_user_service_facts_1_1_the_set_is_administrator_method.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheSetLicenseReportVisibilityMethod", "d9/db6/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_license_report_visibility_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheSetMetadataAsyncMethod", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheSetMetadataAsyncMethod", "d5/d4d/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_metadata_async_method.html", null ],
-    [ "NuGetGallery.CloudBlobCoreFileStorageServiceFacts.TheSetPropertiesAsyncMethod", "d0/d83/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_properties_async_method.html", null ],
-    [ "NuGetGallery.FileSystemFileStorageServiceFacts.TheSetPropertiesAsyncMethod", "df/d77/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_properties_async_method.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.TheShouldMarkNewPackageVerifiedMethod", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html", null ],
-    [ "NuGetGallery.PackageDeleteServiceFacts.TheSoftDeletePackagesAsyncMethod", "d8/df8/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_soft_delete_packages_async_method.html", null ],
-    [ "NuGetGallery.ImmediatePackageValidatorFacts.TheStartValidationAsyncMethod", "d0/d34/class_nu_get_gallery_1_1_immediate_package_validator_facts_1_1_the_start_validation_async_method.html", null ],
-    [ "NuGetGallery.CorePackageFileServiceFacts.TheStorePackageFileInBackupLocationAsyncMethod", "df/d40/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_store_package_file_in_backup_location_async_method.html", null ],
-    [ "NuGetGallery.ExtensionMethodsFacts.TheToFriendlyNameMethod", "d6/d74/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_to_friendly_name_method.html", null ],
-    [ "NuGetGallery.Extensions.NumberExtensionsFacts.TheToKiloFormatMethod", "dd/d68/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_kilo_format_method.html", null ],
-    [ "NuGetGallery.Extensions.UserExtensionsCoreFacts.TheToMailAddressMethod", "d1/ddb/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts_1_1_the_to_mail_address_method.html", null ],
-    [ "NuGetGallery.NuGetVersionExtensionsFacts.TheToNormalizedStringMethod", "d6/d6e/class_nu_get_gallery_1_1_nu_get_version_extensions_facts_1_1_the_to_normalized_string_method.html", null ],
-    [ "NuGetGallery.StatisticsControllerFacts.TheTotalsAllAction", "d0/da8/class_nu_get_gallery_1_1_statistics_controller_facts_1_1_the_totals_all_action.html", null ],
-    [ "NuGetGallery.Extensions.NumberExtensionsFacts.TheToUserFriendlyBytesLabelMethod", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheTransformToOrganizationAccountMethod", "db/db7/class_nu_get_gallery_1_1_user_service_facts_1_1_the_transform_to_organization_account_method.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheUpdateIsLatestMethod", "da/da3/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_is_latest_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheUpdateMemberAsyncMethod", "dc/dfd/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_member_async_method.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheUpdatePackageSigningCertificateAsyncMethod", "d3/dbf/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_signing_certificate_async_method.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheUpdatePackageStatusMethod", "da/d1a/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_status_method.html", null ],
-    [ "NuGetGallery.CoreSymbolPackageServiceFacts.TheUpdatePackageStatusMethod", "de/d7c/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_update_package_status_method.html", null ],
-    [ "NuGetGallery.CorePackageServiceFacts.TheUpdatePackageStreamMetadataMethod", "db/d7b/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_stream_metadata_method.html", null ],
-    [ "NuGetGallery.UserServiceFacts.TheUpdateProfileMethod", "de/dd0/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_profile_method.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV1Feed", "d8/d57/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed.html", null ],
-    [ "NuGetGallery.FeedServiceFacts.TheV2Feed", "dc/dde/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed.html", null ],
-    [ "NuGetGallery.Helpers.PackageHelperTests.TheValidateNuGetPackageMetadataMethod", "d2/dc2/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_validate_nu_get_package_metadata_method.html", null ],
-    [ "NuGetGallery.SymbolPackageUploadServiceFacts.TheValidateUploadedSymbolsPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html", null ],
-    [ "NuGetGallery.Services.LoginDiscontinuationConfigurationFacts.TheWhiteListMethods", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods.html", null ],
-    [ "NuGetGallery.PackageServiceFacts.TheWillOrphanPackageIfOwnerRemovedMethod", "de/df5/class_nu_get_gallery_1_1_package_service_facts_1_1_the_will_orphan_package_if_owner_removed_method.html", null ],
-    [ "NuGetGallery.ThresholdInfo", "de/d36/class_nu_get_gallery_1_1_threshold_info.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.ThumbsResponseModel", "db/d27/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_thumbs_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.TimeIntervals.TimeInterval", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html", [
       [ "FenixAlliance.ABM.Models.Workforce.Leaves.LeaveBlockedIntervals.LeaveBlockedInterval", "d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_intervals_1_1_leave_blocked_interval.html", null ],
@@ -6132,8 +3369,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Transactions.TransactionCategory", "d5/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction_category.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TransactionConditionsType", "d2/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transaction_conditions_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Transform", "dc/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_transform.html", null ],
-    [ "NuGetGallery.TransformAccountFailedViewModel", "de/d6c/class_nu_get_gallery_1_1_transform_account_failed_view_model.html", null ],
-    [ "NuGetGallery.TransformAccountViewModel", "d6/df8/class_nu_get_gallery_1_1_transform_account_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TransformsType", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transforms_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TransformType", "d3/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transform_type.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.Translations", "d4/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_translations.html", null ],
@@ -6155,17 +3390,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.TransportServiceDescriptionType", "d4/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transport_service_description_type.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.TreeResponseModel", "d0/d74/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_tree_response_model.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.TwoFactorAuthenticationViewModel", "d1/d42/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_two_factor_authentication_view_model.html", null ],
-    [ "TypeConverter", null, [
-      [ "NuGetGallery.Configuration.MailAddressConverter", "d3/d6f/class_nu_get_gallery_1_1_configuration_1_1_mail_address_converter.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Typography", "d2/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_typography.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Typography.TypographyOptions", "d1/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_typography_options.html", null ],
-    [ "NuGetGallery.TyposquattingCheckListCacheServiceFacts", "dc/de1/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service_facts.html", null ],
-    [ "NuGetGallery.TyposquattingServiceFacts", "df/d56/class_nu_get_gallery_1_1_typosquatting_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UBLDocumentSignaturesType", "d9/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_document_signatures_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UBLExtensionsType", "d5/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_extensions_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UBLExtensionType", "dd/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_extension_type.html", null ],
-    [ "NuGetGallery.Filters.UIAuthorizeAttributeFacts", "d4/da2/class_nu_get_gallery_1_1_filters_1_1_u_i_authorize_attribute_facts.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UnawardedNotificationType", "d2/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unawarded_notification_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Units.Unit", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Units.UnitGroup", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit_group.html", null ],
@@ -6174,71 +3403,12 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.UnsignedPropertiesType", "d3/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unsigned_properties_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UnsignedSignaturePropertiesType", "dc/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unsigned_signature_properties_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UnstructuredPriceType", "d1/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unstructured_price_type.html", null ],
-    [ "NuGetGallery.UpdateDeprecationError", "d2/db1/class_nu_get_gallery_1_1_update_deprecation_error.html", null ],
-    [ "NuGetGallery.UploadFileServiceFacts", "dc/d8b/class_nu_get_gallery_1_1_upload_file_service_facts.html", null ],
-    [ "NuGetGallery.Helpers.UploadHelperFacts", "d9/d4b/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts.html", null ],
-    [ "NuGetGallery.UriExtensionsFacts", "d4/d74/class_nu_get_gallery_1_1_uri_extensions_facts.html", null ],
-    [ "NuGetGallery.FunctionalTests.UrlHelper", "d7/def/class_nu_get_gallery_1_1_functional_tests_1_1_url_helper.html", null ],
-    [ "NuGetGallery.UrlHelperExtensionsFacts", "da/d38/class_nu_get_gallery_1_1_url_helper_extensions_facts.html", null ],
-    [ "NuGetGallery.Views.UrlHelperFacts", "d7/d54/class_nu_get_gallery_1_1_views_1_1_url_helper_facts.html", null ],
-    [ "NuGetGallery.Infrastructure.UserAuditRecordFacts", "df/d96/class_nu_get_gallery_1_1_infrastructure_1_1_user_audit_record_facts.html", null ],
-    [ "NuGetGallery.Auditing.UserAuditRecordTests", "da/d2e/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record_tests.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.UserContext", "d8/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_user_context.html", null ],
-    [ "UserControl", null, [
-      [ "NuGetGallery.Areas.Admin.DynamicData.GridViewPager", "d8/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_grid_view_pager.html", null ]
-    ] ],
-    [ "NuGetGallery.Extensions.UserExtensionsCoreFacts", "d3/d6c/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts.html", null ],
-    [ "NuGetGallery.Extensions.UserExtensionsFacts", "d8/d1e/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts.html", null ],
-    [ "NuGet.Services.Entities.Tests.UserFacts", "dc/d7d/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_facts.html", null ],
-    [ "NuGetGallery.UsernameValidationRegex", "d3/d59/class_nu_get_gallery_1_1_username_validation_regex.html", null ],
-    [ "NuGetGallery.UserPackageDeleteEvent", "d2/d1c/class_nu_get_gallery_1_1_user_package_delete_event.html", null ],
-    [ "NuGetGallery.UserProfileModel", "d9/d70/class_nu_get_gallery_1_1_user_profile_model.html", null ],
-    [ "NuGetGallery.ViewModels.UserProfileModelFacts", "d3/d56/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts.html", null ],
-    [ "NuGetGallery.Auditing.UserSecurityPolicyAuditRecordFacts", "dc/d8a/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record_facts.html", null ],
-    [ "NuGetGallery.Security.UserSecurityPolicyEvaluationContext", "d7/d0e/class_nu_get_gallery_1_1_security_1_1_user_security_policy_evaluation_context.html", [
-      [ "NuGetGallery.Security.PackageSecurityPolicyEvaluationContext", "dd/d07/class_nu_get_gallery_1_1_security_1_1_package_security_policy_evaluation_context.html", null ]
-    ] ],
-    [ "NuGet.Services.Entities.Tests.UserSecurityPolicyFacts", "de/dff/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_security_policy_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.UserSecurityPolicySearchResult", "db/d0b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_search_result.html", null ],
-    [ "NuGetGallery.Security.UserSecurityPolicySubscriptionContext", "d6/da3/class_nu_get_gallery_1_1_security_1_1_user_security_policy_subscription_context.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.UserSecurityPolicySubscriptions", "d4/d49/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_subscriptions.html", null ],
-    [ "NuGetGallery.UserServiceFacts", "d1/d02/class_nu_get_gallery_1_1_user_service_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.UserViewModel", "d0/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UtilityItemType", "d4/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.UtilityStatementType", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html", null ],
-    [ "NuGetGallery.OData.V1FeedPackage", "d3/d81/class_nu_get_gallery_1_1_o_data_1_1_v1_feed_package.html", null ],
-    [ "NuGetGallery.OData.Serializers.V1FeedPackageAnnotationStrategyFacts", "d0/daf/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v1_feed_package_annotation_strategy_facts.html", null ],
-    [ "NuGetGallery.OData.V2FeedPackage", "d7/db8/class_nu_get_gallery_1_1_o_data_1_1_v2_feed_package.html", null ],
-    [ "NuGetGallery.OData.Serializers.V2FeedPackageAnnotationStrategyFacts", "de/ded/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v2_feed_package_annotation_strategy_facts.html", null ],
-    [ "NuGetGallery.Authentication.V3HasherTests", "de/d9c/class_nu_get_gallery_1_1_authentication_1_1_v3_hasher_tests.html", null ],
-    [ "NuGet.Services.DatabaseMigration.Facts.ValidateMigrationsFacts", "da/dea/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_validate_migrations_facts.html", null ],
-    [ "NuGetGallery.Services.ReservedNamespaceServiceFacts.ValidateNamespaceMethod", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method.html", null ],
-    [ "NuGetGallery.Areas.Admin.Services.ValidationAdminService", "d0/d73/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service.html", null ],
-    [ "NuGetGallery.Areas.Admin.Services.ValidationAdminServiceFacts", "dd/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts.html", null ],
-    [ "ValidationAttribute", null, [
-      [ "NuGetGallery.Infrastructure.NotEqualAttribute", "db/d8a/class_nu_get_gallery_1_1_infrastructure_1_1_not_equal_attribute.html", null ],
-      [ "NuGetGallery.Infrastructure.PasswordValidationAttribute", "de/d6a/class_nu_get_gallery_1_1_infrastructure_1_1_password_validation_attribute.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ValidationDataType", "d8/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_data_type.html", null ],
-    [ "NuGetGallery.Helpers.ValidationHelper", "d0/dc7/class_nu_get_gallery_1_1_helpers_1_1_validation_helper.html", null ],
-    [ "NuGetGallery.Helpers.ValidationHelperFacts", "dd/dab/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts.html", null ],
-    [ "NuGetGallery.Views.Packages.ValidationIssueFacts", "d2/d1e/class_nu_get_gallery_1_1_views_1_1_packages_1_1_validation_issue_facts.html", null ],
-    [ "NuGetGallery.Areas.Admin.ViewModels.ValidationPageViewModel", "dd/dcc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_validation_page_view_model.html", null ],
-    [ "ValidationRule", null, [
-      [ "NuGetGallery.FunctionalTests.Helpers.ValidationRuleFindHeaderText", "d1/dca/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_validation_rule_find_header_text.html", null ]
-    ] ],
-    [ "NuGetGallery.ValidationServiceFacts", "d8/d94/class_nu_get_gallery_1_1_validation_service_facts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AAD.Value", "da/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_value.html", null ],
-    [ "ValueProviderFactory", null, [
-      [ "NuGetGallery.HttpHeaderValueProviderFactory", "d0/d91/class_nu_get_gallery_1_1_http_header_value_provider_factory.html", null ]
-    ] ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Verification.VerificationOptions", "db/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_veebf61a08d456e3eb203e63e16013621e.html", null ],
-    [ "VerifyGitHubVulnerabilities.Configuration.VerifyGitHubVulnerabilitiesConfiguration", "df/d27/class_verify_git_hub_vulnerabilities_1_1_configuration_1_1_verify_git_hub_vulnerabilities_configuration.html", null ],
-    [ "NuGetGallery.VerifyPackageRequest", "dc/d7b/class_nu_get_gallery_1_1_verify_package_request.html", null ],
-    [ "NuGetGallery.ManagePackageViewModel.VersionDeprecationState", "d3/dba/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_deprecation_state.html", null ],
-    [ "NuGetGallery.ManagePackageViewModel.VersionListedState", "df/d9b/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_listed_state.html", null ],
-    [ "NuGetGallery.ManagePackageViewModel.VersionReadMeState", "d0/ddc/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_read_me_state.html", null ],
-    [ "NuGetGallery.Routing.VersionRouteConstraintFacts", "d4/d9a/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Internals.Views.View", "da/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_views_1_1_view.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.Helpers.ViewBufferValue", "d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value.html", null ],
     [ "ViewComponent", null, [
@@ -6307,7 +3477,6 @@ var hierarchy =
       [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.TabsShowcaseViewComponent", "da/d3f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_view_component.html", null ],
       [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.TagsCloudViewComponent", "d7/dc1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tags_cloud_view_component.html", null ]
     ] ],
-    [ "NuGetGallery.AccountsController< TUser, TAccountViewModel >.ViewMessages", "d2/dd2/class_nu_get_gallery_1_1_accounts_controller_1_1_view_messages.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Wallet", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Wallets.WalletAccount", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html", [
       [ "FenixAlliance.ABM.Models.Global.Wallets.WalletAccountScopes.AccountHolderWallet", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet.html", null ],
@@ -6318,7 +3487,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Warehousing.Warehouse", "db/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_warehouse.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Warehouses.WarehouseMapper", "de/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_warehouses_1_1_warehouse_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.WaybillType", "d8/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_waybill_type.html", null ],
-    [ "NuGetGallery.SearchClient.WebApiCorrelationHandlerFacts", "da/dad/class_nu_get_gallery_1_1_search_client_1_1_web_api_correlation_handler_facts.html", null ],
     [ "FenixAlliance.ABM.Models.Content.WebContent", "d1/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_web_content.html", [
       [ "FenixAlliance.ABM.Models.Content.Components.WebComponent", "dc/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_components_1_1_web_component.html", [
         [ "FenixAlliance.ABM.Models.Education.Courses.Components.CourseAssignmentComponent", "d1/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_components_1_1_course_assignment_component.html", null ]
@@ -6356,28 +3524,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.WebSiteAccessType", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_web_site_access_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Content.Sites.WebSiteSettings", "d6/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_sites_1_1_web_site_settings.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Themes.WebsiteTheme", "d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_themes_1_1_website_theme.html", null ],
-    [ "WebTest", null, [
-      [ "NuGetGallery.FunctionalTests.UploadPackageFromUI", "d4/dc4/class_nu_get_gallery_1_1_functional_tests_1_1_upload_package_from_u_i.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.AccountManagement.LogonTest", "d9/d26/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_logon_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.AccountManagement.RegisterNewUserTest", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.BasicPages.BrandingValidationTest", "df/df1/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_branding_validation_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.BasicPages.HomePageValidationTest", "d1/d08/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_home_page_validation_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.BasicPages.PackagesPageTest", "d1/d65/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_packages_page_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.BasicPages.SecurityHeaderTest", "d7/dc3/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_security_header_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.BasicPages.StatisticsPageTest", "d7/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_statistics_page_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.ReadOnlyMode.LogonTest", "d7/d89/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_logon_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.ReadOnlyMode.RegisterNewUserInReadOnlyModeTest", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test.html", null ],
-      [ "NuGetGallery.FunctionalTests.WebUITests.UploadAndDownload.UploadPackageFromUI", "dc/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_from_u_i.html", [
-        [ "NuGetGallery.FunctionalTests.WebUITests.UploadAndDownload.UploadPackageToOrganizationAsAdminFromUI", "d7/d0f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p9b99b3737d64dcbc9d92c7515e927898.html", null ],
-        [ "NuGetGallery.FunctionalTests.WebUITests.UploadAndDownload.UploadPackageToOrganizationAsCollaboratorFromUI", "d0/df0/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p26e75d31438df68cf1e3b9b4fa66ec1f.html", null ],
-        [ "NuGetGallery.FunctionalTests.WebUITests.UploadAndDownload.UploadPackageToSelfFromUI", "d3/d3e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_to_self_from_u_i.html", null ]
-      ] ]
-    ] ],
-    [ "WebViewPage", null, [
-      [ "NuGetGallery.Views.NuGetViewBase< T >", "df/d8c/class_nu_get_gallery_1_1_views_1_1_nu_get_view_base.html", null ],
-      [ "NuGetGallery.Views.NuGetViewBase< T >", "df/d8c/class_nu_get_gallery_1_1_views_1_1_nu_get_view_base.html", null ]
-    ] ],
-    [ "NuGetGallery.Services.LoginDiscontinuationConfigurationFacts.WhitelistMethodData", "d1/d60/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_whitelist_method_data.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.WinningPartyType", "d6/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_winning_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.WishLists.WishList", "d8/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_wish_lists_1_1_wish_list.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Carts.WishLists.WishList", "df/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists_1_1_wish_list.html", null ],

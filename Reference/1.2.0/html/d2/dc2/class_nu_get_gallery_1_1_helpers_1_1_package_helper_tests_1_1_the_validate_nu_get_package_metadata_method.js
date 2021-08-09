@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_validate_nu_get_package_metadata_method =
-[
-    [ "ChecksIdVersionCombinedLength", "d2/dc2/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_validate_nu_get_package_metadata_method.html#a4f9f398ec081d3cfbdf1a17fda24a9a8", null ]
-];

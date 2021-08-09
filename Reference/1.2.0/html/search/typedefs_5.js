@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['loglevel_38576',['LogLevel',['../dc/dd8/_cloud_blob_core_file_storage_service_8cs.html#adf9bf686191b3d4a9e027159c7f74afe',1,'CloudBlobCoreFileStorageService.cs']]]
+  ['timezone_20314',['Timezone',['../dd/dac/_seeding_helpers_8cs.html#abcbec81c98782c0d308d2c8cc86f8e5b',1,'SeedingHelpers.cs']]]
 ];

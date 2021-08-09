@@ -1,4 +1,0 @@
-<map id="NuGetGallery.OwnerlessNamespaceIdConflictMessage" name="NuGetGallery.OwnerlessNamespaceIdConflictMessage">
-<area shape="rect" id="node1" title="Represents a package ID reservation conflict, but all of the namespaces that prevented the upload hav..." alt="" coords="5,80,240,121"/>
-<area shape="rect" id="node2" href="$df/d38/interface_nu_get_gallery_1_1_i_validation_message.html" title="Represents a validation message that may include a raw HTML message (if we want to present some links..." alt="" coords="55,5,191,32"/>
-</map>

@@ -1,6 +1,0 @@
-var class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method =
-[
-    [ "GetAsyncReturnsFirstClientResponseIfAvailable", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html#a661c4f3b682918a8186370b1e78911ea", null ],
-    [ "GetAsyncReturnsNotAvailableWhenServicesAreNotAvailable", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html#a3c41d90bd9f0b8b729bf8df375cfa639", null ],
-    [ "GetAsyncReturnsSecondClientResponseIfFirstIsNotAvailable", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html#afcd48d5721f18785d27a50046ca9f487", null ]
-];

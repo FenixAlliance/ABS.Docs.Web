@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,141,105"/>
-<area shape="rect" id="node2" href="$de/d31/class_nu_get_gallery_1_1_client_information_telemetry_enricher.html" title=" " alt="" coords="195,5,398,47"/>
-<area shape="rect" id="node3" href="$d2/d79/class_nu_get_gallery_1_1_customer_resource_id_enricher.html" title=" " alt="" coords="189,71,404,112"/>
-<area shape="rect" id="node4" href="$d2/df3/class_nu_get_gallery_1_1_known_operation_name_enricher.html" title="Because we have web.config based redirects and other steps in the pipeline that act before ASP...." alt="" coords="197,136,396,177"/>
-</map>

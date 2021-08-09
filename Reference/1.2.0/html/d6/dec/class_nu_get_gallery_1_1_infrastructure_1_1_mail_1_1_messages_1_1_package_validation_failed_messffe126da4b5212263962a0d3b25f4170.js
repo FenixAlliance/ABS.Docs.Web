@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messffe126da4b5212263962a0d3b25f4170 =
-[
-    [ "ReturnsExpectedBody", "d6/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messffe126da4b5212263962a0d3b25f4170.html#a10e0381d59850f3a28ea72bd6cee5e88", null ]
-];

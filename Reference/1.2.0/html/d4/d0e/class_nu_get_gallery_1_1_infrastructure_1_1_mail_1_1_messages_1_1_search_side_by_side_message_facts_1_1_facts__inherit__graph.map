@@ -1,8 +1,0 @@
-<map id="NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.Facts" name="NuGetGallery.Infrastructure.Mail.Messages.SearchSideBySideMessageFacts.Facts">
-<area shape="rect" id="node1" title=" " alt="" coords="260,125,536,181"/>
-<area shape="rect" id="node3" href="$db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html" title=" " alt="" coords="584,5,860,61"/>
-<area shape="rect" id="node4" href="$dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients.html" title=" " alt="" coords="584,85,860,141"/>
-<area shape="rect" id="node5" href="$d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject.html" title=" " alt="" coords="584,165,860,221"/>
-<area shape="rect" id="node6" href="$d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender.html" title=" " alt="" coords="584,245,860,301"/>
-<area shape="rect" id="node2" href="$d4/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts.html" title=" " alt="" coords="5,140,212,167"/>
-</map>

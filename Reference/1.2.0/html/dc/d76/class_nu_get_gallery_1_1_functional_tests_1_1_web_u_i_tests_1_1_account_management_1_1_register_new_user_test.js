@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test =
-[
-    [ "RegisterNewUserTest", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test.html#a9df1b5bd22fd26f1e8f8bcdefef451cf", null ],
-    [ "GetRequestEnumerator", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test.html#a1985307b9a7af42c64e2cd8073eaf4c6", null ]
-];

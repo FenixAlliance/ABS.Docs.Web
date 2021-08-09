@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method =
-[
-    [ "ResolvePathIsCorrect", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method.html#ad1fd1e816339fcfc217b2314cd1503fa", null ]
-];

@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method =
-[
-    [ "TheFindPackageRegistrationByIdMethod", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html#afab11397fb46cd8cd5587916136cfe43", null ],
-    [ "FindPackageRegistrationById_WhenPackageIdFound_ReturnsPackageRegistration", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html#acf7e3179d09dab3318dc7bff60f8d5cd", null ],
-    [ "FindPackageRegistrationById_WhenPackageIdIsInvalid_Throws", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html#aa80c786f1949b80c28ed7cc36a377d1c", null ],
-    [ "FindPackageRegistrationById_WhenPackageIdNotFound_ReturnsNull", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html#a041cb9d748144d4e8e0b32acae4f482e", null ]
-];

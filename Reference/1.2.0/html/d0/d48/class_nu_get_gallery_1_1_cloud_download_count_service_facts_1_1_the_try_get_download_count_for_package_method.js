@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method =
-[
-    [ "ReturnsCountWhenVersionExists", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html#a1d6ae195e38c77161b22fa8849c77b20", null ],
-    [ "ReturnsZeroWhenVersionDoesNotExist", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html#aac52e09d7e2b88cd6e8c1a39e4fc2207", null ]
-];

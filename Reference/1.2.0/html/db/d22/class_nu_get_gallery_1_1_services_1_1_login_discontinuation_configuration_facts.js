@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts =
-[
-    [ "TheIsLoginDiscontinuedMethod", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method.html", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method" ],
-    [ "TheWhiteListMethods", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods.html", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods" ],
-    [ "WhitelistMethodData", "d1/d60/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_whitelist_method_data.html", "d1/d60/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_whitelist_method_data" ]
-];

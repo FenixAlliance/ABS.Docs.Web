@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_typosquatting_test_fact_attribute =
-[
-    [ "TyposquattingTestFactAttribute", "d1/d3a/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_typosquatting_test_fact_attribute.html#acc9537e0d0ceff56fb451c33f68175dd", null ]
-];

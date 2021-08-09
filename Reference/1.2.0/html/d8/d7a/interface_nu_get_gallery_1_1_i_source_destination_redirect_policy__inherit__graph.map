@@ -1,5 +1,0 @@
-<map id="NuGetGallery.ISourceDestinationRedirectPolicy" name="NuGetGallery.ISourceDestinationRedirectPolicy">
-<area shape="rect" id="node1" title="Represents the policy services might use to allow or not allow redirects from and to certain URLs." alt="" coords="5,39,220,80"/>
-<area shape="rect" id="node2" href="$d4/dfc/class_nu_get_gallery_1_1_allow_local_http_redirect_policy.html" title="Redirect policy that allows potentially unsafe redirects to localhost URLs (for debugging purposes on..." alt="" coords="268,5,459,47"/>
-<area shape="rect" id="node3" href="$d3/daf/class_nu_get_gallery_1_1_no_less_secure_destination_redirect_policy.html" title="Redirect policy that only allows same or higher security level for destination URL compared to source..." alt="" coords="269,71,458,112"/>
-</map>

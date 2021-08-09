@@ -1,6 +1,0 @@
-<map id="NuGetGallery.ICoreSymbolPackageService" name="NuGetGallery.ICoreSymbolPackageService">
-<area shape="rect" id="node1" title="Symbol Package business logic that is needed in multiple components (not just the Gallery process)." alt="" coords="148,5,327,47"/>
-<area shape="rect" id="node2" href="$d9/d8d/class_nu_get_gallery_1_1_core_symbol_package_service.html" title=" " alt="" coords="5,95,232,136"/>
-<area shape="rect" id="node4" href="$d5/db6/interface_nu_get_gallery_1_1_i_symbol_package_service.html" title="Business logic related to SymbolPackage. This logic is only used by the NuGet Gallery,..." alt="" coords="256,95,459,136"/>
-<area shape="rect" id="node3" href="$df/d6e/class_nu_get_gallery_1_1_symbol_package_service.html" title=" " alt="" coords="138,184,337,225"/>
-</map>

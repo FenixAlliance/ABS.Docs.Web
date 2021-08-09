@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_authentication_type_method =
-[
-    [ "ReturnsAuthenticationType", "d4/d3b/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_authentication_type_method.html#af513eeaa45c5efc239067c7f4709caa7", null ],
-    [ "WhenNotClaimsIdentity_ReturnsEmpty", "d4/d3b/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_authentication_type_method.html#a4c65e19aa168c94ad3605156b78670bb", null ],
-    [ "WhenSelfIsNull_ThrowsArgumentNullException", "d4/d3b/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_get_authentication_type_method.html#ad5d4ec1f19a5c704765525f4faf170a6", null ]
-];

@@ -1,767 +1,5 @@
 var files_dup =
 [
-    [ "201110060711357_Initial.cs", "dd/df3/201110060711357___initial_8cs.html", [
-      [ "Initial", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial.html", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial" ]
-    ] ],
-    [ "201110060711357_Initial.Designer.cs", "d0/d39/201110060711357___initial_8_designer_8cs.html", [
-      [ "Initial", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial.html", "df/d3b/class_nu_get_gallery_1_1_migrations_1_1_initial" ]
-    ] ],
-    [ "201110102157002_PrereleaseChanges.cs", "d9/d77/201110102157002___prerelease_changes_8cs.html", [
-      [ "PrereleaseChanges", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes.html", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes" ]
-    ] ],
-    [ "201110102157002_PrereleaseChanges.Designer.cs", "db/da8/201110102157002___prerelease_changes_8_designer_8cs.html", [
-      [ "PrereleaseChanges", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes.html", "db/d01/class_nu_get_gallery_1_1_migrations_1_1_prerelease_changes" ]
-    ] ],
-    [ "201110180052097_GallerySettings.cs", "d3/d7f/201110180052097___gallery_settings_8cs.html", [
-      [ "GallerySettings", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings.html", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings" ]
-    ] ],
-    [ "201110180052097_GallerySettings.Designer.cs", "dc/d5b/201110180052097___gallery_settings_8_designer_8cs.html", [
-      [ "GallerySettings", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings.html", "d3/dea/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings" ]
-    ] ],
-    [ "201110230649210_PackageOwnerRequests.cs", "d1/d66/201110230649210___package_owner_requests_8cs.html", [
-      [ "PackageOwnerRequests", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests.html", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests" ]
-    ] ],
-    [ "201110230649210_PackageOwnerRequests.Designer.cs", "d0/dbf/201110230649210___package_owner_requests_8_designer_8cs.html", [
-      [ "PackageOwnerRequests", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests.html", "da/d04/class_nu_get_gallery_1_1_migrations_1_1_package_owner_requests" ]
-    ] ],
-    [ "201111022024584_PackageDependencyVersionSpec.cs", "dc/d73/201111022024584___package_dependency_version_spec_8cs.html", [
-      [ "PackageDependencyVersionSpec", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec.html", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec" ]
-    ] ],
-    [ "201111022024584_PackageDependencyVersionSpec.Designer.cs", "db/d81/201111022024584___package_dependency_version_spec_8_designer_8cs.html", [
-      [ "PackageDependencyVersionSpec", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec.html", "d5/d82/class_nu_get_gallery_1_1_migrations_1_1_package_dependency_version_spec" ]
-    ] ],
-    [ "201111022051010_PackageReleaseNotes.cs", "dc/d12/201111022051010___package_release_notes_8cs.html", [
-      [ "PackageReleaseNotes", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes.html", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes" ]
-    ] ],
-    [ "201111022051010_PackageReleaseNotes.Designer.cs", "d9/df4/201111022051010___package_release_notes_8_designer_8cs.html", [
-      [ "PackageReleaseNotes", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes.html", "de/d3a/class_nu_get_gallery_1_1_migrations_1_1_package_release_notes" ]
-    ] ],
-    [ "201111080239544_ListPackagesIndexes.cs", "d7/d26/201111080239544___list_packages_indexes_8cs.html", [
-      [ "ListPackagesIndexes", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes.html", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes" ]
-    ] ],
-    [ "201111080239544_ListPackagesIndexes.Designer.cs", "d6/dd4/201111080239544___list_packages_indexes_8_designer_8cs.html", [
-      [ "ListPackagesIndexes", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes.html", "d5/de5/class_nu_get_gallery_1_1_migrations_1_1_list_packages_indexes" ]
-    ] ],
-    [ "201111080816426_DisplayPackageIndexes.cs", "d9/d14/201111080816426___display_package_indexes_8cs.html", [
-      [ "DisplayPackageIndexes", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes.html", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes" ]
-    ] ],
-    [ "201111080816426_DisplayPackageIndexes.Designer.cs", "d4/da9/201111080816426___display_package_indexes_8_designer_8cs.html", [
-      [ "DisplayPackageIndexes", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes.html", "d3/d26/class_nu_get_gallery_1_1_migrations_1_1_display_package_indexes" ]
-    ] ],
-    [ "201111081908453_MyPackagesIndexes.cs", "d7/d4a/201111081908453___my_packages_indexes_8cs.html", [
-      [ "MyPackagesIndexes", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes.html", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes" ]
-    ] ],
-    [ "201111081908453_MyPackagesIndexes.Designer.cs", "d2/d69/201111081908453___my_packages_indexes_8_designer_8cs.html", [
-      [ "MyPackagesIndexes", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes.html", "d5/d93/class_nu_get_gallery_1_1_migrations_1_1_my_packages_indexes" ]
-    ] ],
-    [ "201111150729167_AddSmtpPassword.cs", "d5/d78/201111150729167___add_smtp_password_8cs.html", [
-      [ "AddSmtpPassword", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password.html", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password" ]
-    ] ],
-    [ "201111150729167_AddSmtpPassword.Designer.cs", "dc/d4e/201111150729167___add_smtp_password_8_designer_8cs.html", [
-      [ "AddSmtpPassword", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password.html", "d7/d0f/class_nu_get_gallery_1_1_migrations_1_1_add_smtp_password" ]
-    ] ],
-    [ "201111222338036_GalleryOwnerEmailSettings.cs", "d4/d4a/201111222338036___gallery_owner_email_settings_8cs.html", [
-      [ "GalleryOwnerEmailSettings", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings.html", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings" ]
-    ] ],
-    [ "201111222338036_GalleryOwnerEmailSettings.Designer.cs", "dd/d75/201111222338036___gallery_owner_email_settings_8_designer_8cs.html", [
-      [ "GalleryOwnerEmailSettings", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings.html", "dc/d80/class_nu_get_gallery_1_1_migrations_1_1_gallery_owner_email_settings" ]
-    ] ],
-    [ "201201031925005_AddPasswordHash.cs", "db/d43/201201031925005___add_password_hash_8cs.html", [
-      [ "AddPasswordHash", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash.html", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash" ]
-    ] ],
-    [ "201201031925005_AddPasswordHash.Designer.cs", "df/d35/201201031925005___add_password_hash_8_designer_8cs.html", [
-      [ "AddPasswordHash", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash.html", "d0/dbc/class_nu_get_gallery_1_1_migrations_1_1_add_password_hash" ]
-    ] ],
-    [ "201203180016174_CuratedFeeds.cs", "d7/d98/201203180016174___curated_feeds_8cs.html", [
-      [ "CuratedFeeds", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds.html", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds" ]
-    ] ],
-    [ "201203180016174_CuratedFeeds.Designer.cs", "dd/dfd/201203180016174___curated_feeds_8_designer_8cs.html", [
-      [ "CuratedFeeds", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds.html", "df/d6c/class_nu_get_gallery_1_1_migrations_1_1_curated_feeds" ]
-    ] ],
-    [ "201203180320147_ChangeCuratedFeedIdToName.cs", "d9/ddc/201203180320147___change_curated_feed_id_to_name_8cs.html", [
-      [ "ChangeCuratedFeedIdToName", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name.html", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name" ]
-    ] ],
-    [ "201203180320147_ChangeCuratedFeedIdToName.Designer.cs", "d7/d8f/201203180320147___change_curated_feed_id_to_name_8_designer_8cs.html", [
-      [ "ChangeCuratedFeedIdToName", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name.html", "d9/d15/class_nu_get_gallery_1_1_migrations_1_1_change_curated_feed_id_to_name" ]
-    ] ],
-    [ "201203182132476_CuratedPackages.cs", "d6/dc7/201203182132476___curated_packages_8cs.html", [
-      [ "CuratedPackages", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages.html", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages" ]
-    ] ],
-    [ "201203182132476_CuratedPackages.Designer.cs", "d0/da4/201203182132476___curated_packages_8_designer_8cs.html", [
-      [ "CuratedPackages", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages.html", "d4/d8a/class_nu_get_gallery_1_1_migrations_1_1_curated_packages" ]
-    ] ],
-    [ "201205172325056_FrameworkName.cs", "d1/d3b/201205172325056___framework_name_8cs.html", [
-      [ "FrameworkName", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name.html", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name" ]
-    ] ],
-    [ "201205172325056_FrameworkName.Designer.cs", "db/d93/201205172325056___framework_name_8_designer_8cs.html", [
-      [ "FrameworkName", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name.html", "d2/de8/class_nu_get_gallery_1_1_migrations_1_1_framework_name" ]
-    ] ],
-    [ "201206131919241_AddTargetFxToDependencies.cs", "d0/d61/201206131919241___add_target_fx_to_dependencies_8cs.html", [
-      [ "AddTargetFxToDependencies", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies.html", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies" ]
-    ] ],
-    [ "201206131919241_AddTargetFxToDependencies.Designer.cs", "d7/d9b/201206131919241___add_target_fx_to_dependencies_8_designer_8cs.html", [
-      [ "AddTargetFxToDependencies", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies.html", "dd/d7c/class_nu_get_gallery_1_1_migrations_1_1_add_target_fx_to_dependencies" ]
-    ] ],
-    [ "201206250141447_ExecuteELMAHSql.cs", "da/db0/201206250141447___execute_e_l_m_a_h_sql_8cs.html", [
-      [ "ExecuteELMAHSql", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql.html", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql" ]
-    ] ],
-    [ "201206250141447_ExecuteELMAHSql.Designer.cs", "de/d3e/201206250141447___execute_e_l_m_a_h_sql_8_designer_8cs.html", [
-      [ "ExecuteELMAHSql", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql.html", "df/dcb/class_nu_get_gallery_1_1_migrations_1_1_execute_e_l_m_a_h_sql" ]
-    ] ],
-    [ "201208171904586_Language.cs", "d0/d07/201208171904586___language_8cs.html", [
-      [ "Language", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language.html", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language" ]
-    ] ],
-    [ "201208171904586_Language.Designer.cs", "dc/d88/201208171904586___language_8_designer_8cs.html", [
-      [ "Language", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language.html", "d2/d52/class_nu_get_gallery_1_1_migrations_1_1_language" ]
-    ] ],
-    [ "201208222206329_ColumnLengthOfPackageTable.cs", "db/d3c/201208222206329___column_length_of_package_table_8cs.html", [
-      [ "ColumnLengthOfPackageTable", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table.html", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table" ]
-    ] ],
-    [ "201208222206329_ColumnLengthOfPackageTable.Designer.cs", "d2/da6/201208222206329___column_length_of_package_table_8_designer_8cs.html", [
-      [ "ColumnLengthOfPackageTable", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table.html", "d8/dc6/class_nu_get_gallery_1_1_migrations_1_1_column_length_of_package_table" ]
-    ] ],
-    [ "201208222227425_PackageIndexes.cs", "d8/dc4/201208222227425___package_indexes_8cs.html", [
-      [ "PackageIndexes", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes.html", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes" ]
-    ] ],
-    [ "201208222227425_PackageIndexes.Designer.cs", "da/dbb/201208222227425___package_indexes_8_designer_8cs.html", [
-      [ "PackageIndexes", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes.html", "de/d26/class_nu_get_gallery_1_1_migrations_1_1_package_indexes" ]
-    ] ],
-    [ "201208230640333_PackageSortingIndexes.cs", "d0/d60/201208230640333___package_sorting_indexes_8cs.html", [
-      [ "PackageSortingIndexes", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes.html", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes" ]
-    ] ],
-    [ "201208230640333_PackageSortingIndexes.Designer.cs", "d8/d3a/201208230640333___package_sorting_indexes_8_designer_8cs.html", [
-      [ "PackageSortingIndexes", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes.html", "d1/dbc/class_nu_get_gallery_1_1_migrations_1_1_package_sorting_indexes" ]
-    ] ],
-    [ "201208302051344_CreateAggregateStatisticsSP.cs", "d9/dbd/201208302051344___create_aggregate_statistics_s_p_8cs.html", [
-      [ "CreateAggregateStatisticsSP", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p.html", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p" ]
-    ] ],
-    [ "201208302051344_CreateAggregateStatisticsSP.Designer.cs", "d3/d06/201208302051344___create_aggregate_statistics_s_p_8_designer_8cs.html", [
-      [ "CreateAggregateStatisticsSP", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p.html", "dc/d7a/class_nu_get_gallery_1_1_migrations_1_1_create_aggregate_statistics_s_p" ]
-    ] ],
-    [ "201209181743161_AggregateStatsSp_ReduxLastUpdate.cs", "d8/d38/201209181743161___aggregate_stats_sp___redux_last_update_8cs.html", [
-      [ "AggregateStatsSp_ReduxLastUpdate", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update.html", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update" ]
-    ] ],
-    [ "201209181743161_AggregateStatsSp_ReduxLastUpdate.Designer.cs", "da/d46/201209181743161___aggregate_stats_sp___redux_last_update_8_designer_8cs.html", [
-      [ "AggregateStatsSp_ReduxLastUpdate", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update.html", "d5/d7a/class_nu_get_gallery_1_1_migrations_1_1_aggregate_stats_sp___redux_last_update" ]
-    ] ],
-    [ "201210312146585_GallerySettings_TotalDownloadCount.cs", "d6/d34/201210312146585___gallery_settings___total_download_count_8cs.html", [
-      [ "GallerySettings_TotalDownloadCount", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count.html", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count" ]
-    ] ],
-    [ "201210312146585_GallerySettings_TotalDownloadCount.Designer.cs", "d8/dc4/201210312146585___gallery_settings___total_download_count_8_designer_8cs.html", [
-      [ "GallerySettings_TotalDownloadCount", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count.html", "d4/da4/class_nu_get_gallery_1_1_migrations_1_1_gallery_settings___total_download_count" ]
-    ] ],
-    [ "201210312150156_AggregateStatistics_TotalDownloadCount.cs", "d8/d35/201210312150156___aggregate_statistics___total_download_count_8cs.html", [
-      [ "AggregateStatistics_TotalDownloadCount", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count.html", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count" ]
-    ] ],
-    [ "201210312150156_AggregateStatistics_TotalDownloadCount.Designer.cs", "dd/d87/201210312150156___aggregate_statistics___total_download_count_8_designer_8cs.html", [
-      [ "AggregateStatistics_TotalDownloadCount", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count.html", "d2/d30/class_nu_get_gallery_1_1_migrations_1_1_aggregate_statistics___total_download_count" ]
-    ] ],
-    [ "201211271813001_AddNuGetOperation.cs", "d7/def/201211271813001___add_nu_get_operation_8cs.html", [
-      [ "AddNuGetOperation", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation.html", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation" ]
-    ] ],
-    [ "201211271813001_AddNuGetOperation.Designer.cs", "df/d76/201211271813001___add_nu_get_operation_8_designer_8cs.html", [
-      [ "AddNuGetOperation", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation.html", "d9/d64/class_nu_get_gallery_1_1_migrations_1_1_add_nu_get_operation" ]
-    ] ],
-    [ "201301180132053_RemoveWorkItems.cs", "da/db0/201301180132053___remove_work_items_8cs.html", [
-      [ "RemoveWorkItems", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items.html", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items" ]
-    ] ],
-    [ "201301180132053_RemoveWorkItems.Designer.cs", "db/d4d/201301180132053___remove_work_items_8_designer_8cs.html", [
-      [ "RemoveWorkItems", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items.html", "da/dc5/class_nu_get_gallery_1_1_migrations_1_1_remove_work_items" ]
-    ] ],
-    [ "201302072118537_MovingGallerySettingsToConfiguration.cs", "dc/db3/201302072118537___moving_gallery_settings_to_configuration_8cs.html", [
-      [ "MovingGallerySettingsToConfiguration", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration.html", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration" ]
-    ] ],
-    [ "201302072118537_MovingGallerySettingsToConfiguration.Designer.cs", "d6/d0a/201302072118537___moving_gallery_settings_to_configuration_8_designer_8cs.html", [
-      [ "MovingGallerySettingsToConfiguration", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration.html", "d1/d0c/class_nu_get_gallery_1_1_migrations_1_1_moving_gallery_settings_to_configuration" ]
-    ] ],
-    [ "201302282115583_AddMinRequiredVerisonColumn.cs", "d6/d9d/201302282115583___add_min_required_verison_column_8cs.html", [
-      [ "AddMinRequiredVerisonColumn", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column.html", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column" ]
-    ] ],
-    [ "201302282115583_AddMinRequiredVerisonColumn.Designer.cs", "d1/dfa/201302282115583___add_min_required_verison_column_8_designer_8cs.html", [
-      [ "AddMinRequiredVerisonColumn", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column.html", "dc/dca/class_nu_get_gallery_1_1_migrations_1_1_add_min_required_verison_column" ]
-    ] ],
-    [ "201304020006512_UserLookupOptimization.cs", "d9/d51/201304020006512___user_lookup_optimization_8cs.html", [
-      [ "UserLookupOptimization", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization.html", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization" ]
-    ] ],
-    [ "201304020006512_UserLookupOptimization.Designer.cs", "da/d97/201304020006512___user_lookup_optimization_8_designer_8cs.html", [
-      [ "UserLookupOptimization", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization.html", "de/dc9/class_nu_get_gallery_1_1_migrations_1_1_user_lookup_optimization" ]
-    ] ],
-    [ "201304091828587_Contract_UniqueCuratedPackages.cs", "d7/d90/201304091828587___contract___unique_curated_packages_8cs.html", [
-      [ "Contract_UniqueCuratedPackages", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages.html", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages" ]
-    ] ],
-    [ "201304091828587_Contract_UniqueCuratedPackages.Designer.cs", "df/d24/201304091828587___contract___unique_curated_packages_8_designer_8cs.html", [
-      [ "Contract_UniqueCuratedPackages", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages.html", "d4/dca/class_nu_get_gallery_1_1_migrations_1_1_contract___unique_curated_packages" ]
-    ] ],
-    [ "201304251927587_UserCreatedDate.cs", "d8/d09/201304251927587___user_created_date_8cs.html", [
-      [ "UserCreatedDate", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date.html", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date" ]
-    ] ],
-    [ "201304251927587_UserCreatedDate.Designer.cs", "db/de0/201304251927587___user_created_date_8_designer_8cs.html", [
-      [ "UserCreatedDate", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date.html", "db/d1c/class_nu_get_gallery_1_1_migrations_1_1_user_created_date" ]
-    ] ],
-    [ "201306031734581_WidenStatisticsOperationColumn.cs", "dc/dc2/201306031734581___widen_statistics_operation_column_8cs.html", [
-      [ "WidenStatisticsOperationColumn", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column.html", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column" ]
-    ] ],
-    [ "201306031734581_WidenStatisticsOperationColumn.Designer.cs", "d3/d46/201306031734581___widen_statistics_operation_column_8_designer_8cs.html", [
-      [ "WidenStatisticsOperationColumn", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column.html", "d9/d6d/class_nu_get_gallery_1_1_migrations_1_1_widen_statistics_operation_column" ]
-    ] ],
-    [ "201306031754328_SupportNewClientHeaders.cs", "d1/d95/201306031754328___support_new_client_headers_8cs.html", [
-      [ "SupportNewClientHeaders", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers.html", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers" ]
-    ] ],
-    [ "201306031754328_SupportNewClientHeaders.Designer.cs", "df/d82/201306031754328___support_new_client_headers_8_designer_8cs.html", [
-      [ "SupportNewClientHeaders", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers.html", "d1/d53/class_nu_get_gallery_1_1_migrations_1_1_support_new_client_headers" ]
-    ] ],
-    [ "201308051913351_EditableMetadata.cs", "d9/deb/201308051913351___editable_metadata_8cs.html", [
-      [ "EditableMetadata", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata.html", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata" ]
-    ] ],
-    [ "201308051913351_EditableMetadata.Designer.cs", "d6/dbb/201308051913351___editable_metadata_8_designer_8cs.html", [
-      [ "EditableMetadata", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata.html", "d0/d94/class_nu_get_gallery_1_1_migrations_1_1_editable_metadata" ]
-    ] ],
-    [ "201308292200027_PackageLastEditedTimestamp.cs", "d8/d37/201308292200027___package_last_edited_timestamp_8cs.html", [
-      [ "PackageLastEditedTimestamp", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp.html", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp" ]
-    ] ],
-    [ "201308292200027_PackageLastEditedTimestamp.Designer.cs", "d2/d23/201308292200027___package_last_edited_timestamp_8_designer_8cs.html", [
-      [ "PackageLastEditedTimestamp", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp.html", "d0/d1d/class_nu_get_gallery_1_1_migrations_1_1_package_last_edited_timestamp" ]
-    ] ],
-    [ "201308302258388_AddPackageEditLastErrorColumn.cs", "dd/de4/201308302258388___add_package_edit_last_error_column_8cs.html", [
-      [ "AddPackageEditLastErrorColumn", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column.html", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column" ]
-    ] ],
-    [ "201308302258388_AddPackageEditLastErrorColumn.Designer.cs", "d7/d39/201308302258388___add_package_edit_last_error_column_8_designer_8cs.html", [
-      [ "AddPackageEditLastErrorColumn", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column.html", "d1/d01/class_nu_get_gallery_1_1_migrations_1_1_add_package_edit_last_error_column" ]
-    ] ],
-    [ "201309092040124_LicenseReports.cs", "d2/d96/201309092040124___license_reports_8cs.html", [
-      [ "LicenseReports", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports.html", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports" ]
-    ] ],
-    [ "201309092040124_LicenseReports.Designer.cs", "d5/d55/201309092040124___license_reports_8_designer_8cs.html", [
-      [ "LicenseReports", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports.html", "d7/d72/class_nu_get_gallery_1_1_migrations_1_1_license_reports" ]
-    ] ],
-    [ "201309092041546_AddPackageLicenseReportSproc.cs", "d4/deb/201309092041546___add_package_license_report_sproc_8cs.html", [
-      [ "AddPackageLicenseReportSproc", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc.html", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc" ]
-    ] ],
-    [ "201309092041546_AddPackageLicenseReportSproc.Designer.cs", "db/dad/201309092041546___add_package_license_report_sproc_8_designer_8cs.html", [
-      [ "AddPackageLicenseReportSproc", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc.html", "d6/d89/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report_sproc" ]
-    ] ],
-    [ "201309101922464_NormalizedVersionColumn.cs", "d0/d3a/201309101922464___normalized_version_column_8cs.html", [
-      [ "NormalizedVersionColumn", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column.html", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column" ]
-    ] ],
-    [ "201309101922464_NormalizedVersionColumn.Designer.cs", "d8/da9/201309101922464___normalized_version_column_8_designer_8cs.html", [
-      [ "NormalizedVersionColumn", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column.html", "d5/d2f/class_nu_get_gallery_1_1_migrations_1_1_normalized_version_column" ]
-    ] ],
-    [ "201309172217450_CredentialsTable.cs", "d7/dca/201309172217450___credentials_table_8cs.html", [
-      [ "CredentialsTable", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table.html", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table" ]
-    ] ],
-    [ "201309172217450_CredentialsTable.Designer.cs", "d9/de9/201309172217450___credentials_table_8_designer_8cs.html", [
-      [ "CredentialsTable", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table.html", "d3/d84/class_nu_get_gallery_1_1_migrations_1_1_credentials_table" ]
-    ] ],
-    [ "201310281909048_PackageStatistics.cs", "da/d5b/201310281909048___package_statistics_8cs.html", [
-      [ "PackageStatistics", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics.html", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics" ]
-    ] ],
-    [ "201310281909048_PackageStatistics.Designer.cs", "d5/dc8/201310281909048___package_statistics_8_designer_8cs.html", [
-      [ "PackageStatistics", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics.html", "d4/d99/class_nu_get_gallery_1_1_migrations_1_1_package_statistics" ]
-    ] ],
-    [ "201310301757446_RemoveOldCredentialColumns.cs", "d1/df7/201310301757446___remove_old_credential_columns_8cs.html", [
-      [ "RemoveOldCredentialColumns", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns.html", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns" ]
-    ] ],
-    [ "201310301757446_RemoveOldCredentialColumns.Designer.cs", "de/d96/201310301757446___remove_old_credential_columns_8_designer_8cs.html", [
-      [ "RemoveOldCredentialColumns", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns.html", "d0/d5a/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns" ]
-    ] ],
-    [ "201310301947399_AddCredentialDescriptionColumn.cs", "d5/df3/201310301947399___add_credential_description_column_8cs.html", [
-      [ "AddCredentialDescriptionColumn", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column.html", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column" ]
-    ] ],
-    [ "201310301947399_AddCredentialDescriptionColumn.Designer.cs", "de/d4b/201310301947399___add_credential_description_column_8_designer_8cs.html", [
-      [ "AddCredentialDescriptionColumn", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column.html", "d4/db1/class_nu_get_gallery_1_1_migrations_1_1_add_credential_description_column" ]
-    ] ],
-    [ "201311261928187_NullifyOldColumns.cs", "da/d41/201311261928187___nullify_old_columns_8cs.html", [
-      [ "NullifyOldColumns", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns.html", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns" ]
-    ] ],
-    [ "201311261928187_NullifyOldColumns.Designer.cs", "d3/dc0/201311261928187___nullify_old_columns_8_designer_8cs.html", [
-      [ "NullifyOldColumns", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns.html", "da/dcf/class_nu_get_gallery_1_1_migrations_1_1_nullify_old_columns" ]
-    ] ],
-    [ "201505261416326_UniquePackageRegistration.cs", "d6/d7b/201505261416326___unique_package_registration_8cs.html", [
-      [ "UniquePackageRegistration", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration.html", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration" ]
-    ] ],
-    [ "201505261416326_UniquePackageRegistration.Designer.cs", "d5/d5d/201505261416326___unique_package_registration_8_designer_8cs.html", [
-      [ "UniquePackageRegistration", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration.html", "df/d86/class_nu_get_gallery_1_1_migrations_1_1_unique_package_registration" ]
-    ] ],
-    [ "201507171324501_AdditionalIndexesForPerformance.cs", "d5/d7b/201507171324501___additional_indexes_for_performance_8cs.html", [
-      [ "AdditionalIndexesForPerformance", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance.html", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance" ]
-    ] ],
-    [ "201507171324501_AdditionalIndexesForPerformance.Designer.cs", "dd/d37/201507171324501___additional_indexes_for_performance_8_designer_8cs.html", [
-      [ "AdditionalIndexesForPerformance", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance.html", "d1/d81/class_nu_get_gallery_1_1_migrations_1_1_additional_indexes_for_performance" ]
-    ] ],
-    [ "201508031046581_IndexPackagesLastUpdatedWithIsListed.cs", "dd/d98/201508031046581___index_packages_last_updated_with_is_listed_8cs.html", [
-      [ "IndexPackagesLastUpdatedWithIsListed", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed.html", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed" ]
-    ] ],
-    [ "201508031046581_IndexPackagesLastUpdatedWithIsListed.Designer.cs", "d1/d46/201508031046581___index_packages_last_updated_with_is_listed_8_designer_8cs.html", [
-      [ "IndexPackagesLastUpdatedWithIsListed", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed.html", "d5/dda/class_nu_get_gallery_1_1_migrations_1_1_index_packages_last_updated_with_is_listed" ]
-    ] ],
-    [ "201510010732458_EntityFramework6.cs", "de/d3f/201510010732458___entity_framework6_8cs.html", [
-      [ "EntityFramework6", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6.html", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6" ]
-    ] ],
-    [ "201510010732458_EntityFramework6.Designer.cs", "d6/d11/201510010732458___entity_framework6_8_designer_8cs.html", [
-      [ "EntityFramework6", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6.html", "da/d2d/class_nu_get_gallery_1_1_migrations_1_1_entity_framework6" ]
-    ] ],
-    [ "201510011319560_PackageDelete.cs", "d8/da4/201510011319560___package_delete_8cs.html", [
-      [ "PackageDelete", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete.html", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete" ]
-    ] ],
-    [ "201510011319560_PackageDelete.Designer.cs", "d3/d7b/201510011319560___package_delete_8_designer_8cs.html", [
-      [ "PackageDelete", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete.html", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_package_delete" ]
-    ] ],
-    [ "201511050008198_PackagesCreatedDateDefaultValue.cs", "de/d39/201511050008198___packages_created_date_default_value_8cs.html", [
-      [ "PackagesCreatedDateDefaultValue", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value.html", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value" ]
-    ] ],
-    [ "201511050008198_PackagesCreatedDateDefaultValue.Designer.cs", "d0/d45/201511050008198___packages_created_date_default_value_8_designer_8cs.html", [
-      [ "PackagesCreatedDateDefaultValue", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value.html", "df/d5c/class_nu_get_gallery_1_1_migrations_1_1_packages_created_date_default_value" ]
-    ] ],
-    [ "201602111647053_SupportRequestDbModel.cs", "d7/d87/201602111647053___support_request_db_model_8cs.html", [
-      [ "SupportRequestDbModel", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model.html", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model" ]
-    ] ],
-    [ "201602111647053_SupportRequestDbModel.Designer.cs", "d7/dc6/201602111647053___support_request_db_model_8_designer_8cs.html", [
-      [ "SupportRequestDbModel", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model.html", "d2/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_db_model" ]
-    ] ],
-    [ "201602181939424_RemovePackageStatistics.cs", "db/db6/201602181939424___remove_package_statistics_8cs.html", [
-      [ "RemovePackageStatistics", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics.html", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics" ]
-    ] ],
-    [ "201602181939424_RemovePackageStatistics.Designer.cs", "d9/d40/201602181939424___remove_package_statistics_8_designer_8cs.html", [
-      [ "RemovePackageStatistics", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics.html", "d7/d96/class_nu_get_gallery_1_1_migrations_1_1_remove_package_statistics" ]
-    ] ],
-    [ "201602191039005_PackageInfoIsOptional.cs", "d6/d01/201602191039005___package_info_is_optional_8cs.html", [
-      [ "PackageInfoIsOptional", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional.html", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional" ]
-    ] ],
-    [ "201602191039005_PackageInfoIsOptional.Designer.cs", "d2/d7b/201602191039005___package_info_is_optional_8_designer_8cs.html", [
-      [ "PackageInfoIsOptional", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional.html", "d2/de2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_package_info_is_optional" ]
-    ] ],
-    [ "201603111230347_RemoveSqlDownloadStatsAggregation.cs", "dc/d40/201603111230347___remove_sql_download_stats_aggregation_8cs.html", [
-      [ "RemoveSqlDownloadStatsAggregation", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation.html", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation" ]
-    ] ],
-    [ "201603111230347_RemoveSqlDownloadStatsAggregation.Designer.cs", "d6/dbd/201603111230347___remove_sql_download_stats_aggregation_8_designer_8cs.html", [
-      [ "RemoveSqlDownloadStatsAggregation", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation.html", "db/da0/class_nu_get_gallery_1_1_migrations_1_1_remove_sql_download_stats_aggregation" ]
-    ] ],
-    [ "201603151731262_AddIndexForPackageDeletes.cs", "d5/da4/201603151731262___add_index_for_package_deletes_8cs.html", [
-      [ "AddIndexForPackageDeletes", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes.html", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes" ]
-    ] ],
-    [ "201603151731262_AddIndexForPackageDeletes.Designer.cs", "d5/d61/201603151731262___add_index_for_package_deletes_8_designer_8cs.html", [
-      [ "AddIndexForPackageDeletes", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes.html", "d7/d41/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_deletes" ]
-    ] ],
-    [ "201604061724388_NotifyPackagePushed.cs", "d8/dde/201604061724388___notify_package_pushed_8cs.html", [
-      [ "NotifyPackagePushed", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed.html", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed" ]
-    ] ],
-    [ "201604061724388_NotifyPackagePushed.Designer.cs", "dd/d6b/201604061724388___notify_package_pushed_8_designer_8cs.html", [
-      [ "NotifyPackagePushed", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed.html", "d6/da0/class_nu_get_gallery_1_1_migrations_1_1_notify_package_pushed" ]
-    ] ],
-    [ "201605250728584_AddAdditionalIndexForPackageDeletes.cs", "dd/de0/201605250728584___add_additional_index_for_package_deletes_8cs.html", [
-      [ "AddAdditionalIndexForPackageDeletes", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes.html", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes" ]
-    ] ],
-    [ "201605250728584_AddAdditionalIndexForPackageDeletes.Designer.cs", "de/db7/201605250728584___add_additional_index_for_package_deletes_8_designer_8cs.html", [
-      [ "AddAdditionalIndexForPackageDeletes", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes.html", "d6/d79/class_nu_get_gallery_1_1_migrations_1_1_add_additional_index_for_package_deletes" ]
-    ] ],
-    [ "201605250755294_AddIndexForUserEmailAddress.cs", "d7/d79/201605250755294___add_index_for_user_email_address_8cs.html", [
-      [ "AddIndexForUserEmailAddress", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address.html", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address" ]
-    ] ],
-    [ "201605250755294_AddIndexForUserEmailAddress.Designer.cs", "d9/d43/201605250755294___add_index_for_user_email_address_8_designer_8cs.html", [
-      [ "AddIndexForUserEmailAddress", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address.html", "df/d4c/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_user_email_address" ]
-    ] ],
-    [ "201605310704169_RemoveOldCredentialColumnsFromUsersTable.cs", "de/d2c/201605310704169___remove_old_credential_columns_from_users_table_8cs.html", [
-      [ "RemoveOldCredentialColumnsFromUsersTable", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table.html", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table" ]
-    ] ],
-    [ "201605310704169_RemoveOldCredentialColumnsFromUsersTable.Designer.cs", "d7/d37/201605310704169___remove_old_credential_columns_from_users_table_8_designer_8cs.html", [
-      [ "RemoveOldCredentialColumnsFromUsersTable", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table.html", "de/d8c/class_nu_get_gallery_1_1_migrations_1_1_remove_old_credential_columns_from_users_table" ]
-    ] ],
-    [ "201606012049351_AddIndexForCredentialsUserKey.cs", "d2/d3a/201606012049351___add_index_for_credentials_user_key_8cs.html", [
-      [ "AddIndexForCredentialsUserKey", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key.html", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key" ]
-    ] ],
-    [ "201606012049351_AddIndexForCredentialsUserKey.Designer.cs", "d1/da3/201606012049351___add_index_for_credentials_user_key_8_designer_8cs.html", [
-      [ "AddIndexForCredentialsUserKey", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key.html", "d9/d4d/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_credentials_user_key" ]
-    ] ],
-    [ "201606012058492_AddIndexForPackageLicenseReportsPackageKey.cs", "d8/d04/201606012058492___add_index_for_package_license_reports_package_key_8cs.html", [
-      [ "AddIndexForPackageLicenseReportsPackageKey", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key.html", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key" ]
-    ] ],
-    [ "201606012058492_AddIndexForPackageLicenseReportsPackageKey.Designer.cs", "d0/dc8/201606012058492___add_index_for_package_license_reports_package_key_8_designer_8cs.html", [
-      [ "AddIndexForPackageLicenseReportsPackageKey", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key.html", "d2/d42/class_nu_get_gallery_1_1_migrations_1_1_add_index_for_package_license_reports_package_key" ]
-    ] ],
-    [ "201606020741056_CredentialExpires.cs", "d1/d7a/201606020741056___credential_expires_8cs.html", [
-      [ "CredentialExpires", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires.html", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires" ]
-    ] ],
-    [ "201606020741056_CredentialExpires.Designer.cs", "d8/d96/201606020741056___credential_expires_8_designer_8cs.html", [
-      [ "CredentialExpires", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires.html", "d6/d1e/class_nu_get_gallery_1_1_migrations_1_1_credential_expires" ]
-    ] ],
-    [ "201607190813558_CredentialDoesNotExpire.cs", "da/d55/201607190813558___credential_does_not_expire_8cs.html", [
-      [ "CredentialDoesNotExpire", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire.html", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire" ]
-    ] ],
-    [ "201607190813558_CredentialDoesNotExpire.Designer.cs", "d0/d50/201607190813558___credential_does_not_expire_8_designer_8cs.html", [
-      [ "CredentialDoesNotExpire", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire.html", "da/d90/class_nu_get_gallery_1_1_migrations_1_1_credential_does_not_expire" ]
-    ] ],
-    [ "201607190842411_CredentialLastUsed.cs", "d5/dbd/201607190842411___credential_last_used_8cs.html", [
-      [ "CredentialLastUsed", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used.html", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used" ]
-    ] ],
-    [ "201607190842411_CredentialLastUsed.Designer.cs", "da/d5e/201607190842411___credential_last_used_8_designer_8cs.html", [
-      [ "CredentialLastUsed", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used.html", "d7/dc2/class_nu_get_gallery_1_1_migrations_1_1_credential_last_used" ]
-    ] ],
-    [ "201608251939567_AddPackageTypes.cs", "d8/d89/201608251939567___add_package_types_8cs.html", [
-      [ "AddPackageTypes", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types.html", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types" ]
-    ] ],
-    [ "201608251939567_AddPackageTypes.Designer.cs", "d1/dc8/201608251939567___add_package_types_8_designer_8cs.html", [
-      [ "AddPackageTypes", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types.html", "d3/dd7/class_nu_get_gallery_1_1_migrations_1_1_add_package_types" ]
-    ] ],
-    [ "201609092252096_AddIndexCredentialExpires.cs", "df/dfc/201609092252096___add_index_credential_expires_8cs.html", [
-      [ "AddIndexCredentialExpires", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires.html", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires" ]
-    ] ],
-    [ "201609092252096_AddIndexCredentialExpires.Designer.cs", "d9/dfd/201609092252096___add_index_credential_expires_8_designer_8cs.html", [
-      [ "AddIndexCredentialExpires", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires.html", "de/d80/class_nu_get_gallery_1_1_migrations_1_1_add_index_credential_expires" ]
-    ] ],
-    [ "201609092255576_AddIndexUsersEmail.cs", "df/d32/201609092255576___add_index_users_email_8cs.html", [
-      [ "AddIndexUsersEmail", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email.html", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email" ]
-    ] ],
-    [ "201609092255576_AddIndexUsersEmail.Designer.cs", "d8/d8d/201609092255576___add_index_users_email_8_designer_8cs.html", [
-      [ "AddIndexUsersEmail", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email.html", "da/d17/class_nu_get_gallery_1_1_migrations_1_1_add_index_users_email" ]
-    ] ],
-    [ "201609211206577_ApiKeyDescription.cs", "da/dbf/201609211206577___api_key_description_8cs.html", [
-      [ "ApiKeyDescription", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description.html", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description" ]
-    ] ],
-    [ "201609211206577_ApiKeyDescription.Designer.cs", "d0/dc1/201609211206577___api_key_description_8_designer_8cs.html", [
-      [ "ApiKeyDescription", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description.html", "d5/de4/class_nu_get_gallery_1_1_migrations_1_1_api_key_description" ]
-    ] ],
-    [ "201609260823310_ScopedCredential.cs", "d4/d5a/201609260823310___scoped_credential_8cs.html", [
-      [ "ScopedCredential", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential.html", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential" ]
-    ] ],
-    [ "201609260823310_ScopedCredential.Designer.cs", "d1/dee/201609260823310___scoped_credential_8_designer_8cs.html", [
-      [ "ScopedCredential", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential.html", "d7/d84/class_nu_get_gallery_1_1_migrations_1_1_scoped_credential" ]
-    ] ],
-    [ "201609270831462_AddExpirationColumn.cs", "db/d9e/201609270831462___add_expiration_column_8cs.html", [
-      [ "AddExpirationColumn", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column.html", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column" ]
-    ] ],
-    [ "201609270831462_AddExpirationColumn.Designer.cs", "d8/de2/201609270831462___add_expiration_column_8_designer_8cs.html", [
-      [ "AddExpirationColumn", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column.html", "d0/d68/class_nu_get_gallery_1_1_migrations_1_1_add_expiration_column" ]
-    ] ],
-    [ "201610042351343_AddUserFailedLogin.cs", "d0/d6b/201610042351343___add_user_failed_login_8cs.html", [
-      [ "AddUserFailedLogin", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login.html", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login" ]
-    ] ],
-    [ "201610042351343_AddUserFailedLogin.Designer.cs", "db/dc1/201610042351343___add_user_failed_login_8_designer_8cs.html", [
-      [ "AddUserFailedLogin", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login.html", "da/dfa/class_nu_get_gallery_1_1_migrations_1_1_add_user_failed_login" ]
-    ] ],
-    [ "201611240011320_AddTriggerForPackagesLastEdited.cs", "db/d60/201611240011320___add_trigger_for_packages_last_edited_8cs.html", [
-      [ "AddTriggerForPackagesLastEdited", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited.html", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited" ]
-    ] ],
-    [ "201611240011320_AddTriggerForPackagesLastEdited.Designer.cs", "d3/dbe/201611240011320___add_trigger_for_packages_last_edited_8_designer_8cs.html", [
-      [ "AddTriggerForPackagesLastEdited", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited.html", "d3/d75/class_nu_get_gallery_1_1_migrations_1_1_add_trigger_for_packages_last_edited" ]
-    ] ],
-    [ "201701120413341_AddScopeCredentialKey.cs", "da/d0f/201701120413341___add_scope_credential_key_8cs.html", [
-      [ "AddScopeCredentialKey", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key.html", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key" ]
-    ] ],
-    [ "201701120413341_AddScopeCredentialKey.Designer.cs", "d5/dc7/201701120413341___add_scope_credential_key_8_designer_8cs.html", [
-      [ "AddScopeCredentialKey", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key.html", "dd/d7f/class_nu_get_gallery_1_1_migrations_1_1_add_scope_credential_key" ]
-    ] ],
-    [ "201703221228170_AddSemVerLevelKeyColumn.cs", "d2/d76/201703221228170___add_sem_ver_level_key_column_8cs.html", [
-      [ "AddSemVerLevelKeyColumn", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column.html", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column" ]
-    ] ],
-    [ "201703221228170_AddSemVerLevelKeyColumn.Designer.cs", "d9/dc2/201703221228170___add_sem_ver_level_key_column_8_designer_8cs.html", [
-      [ "AddSemVerLevelKeyColumn", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column.html", "d0/de3/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver_level_key_column" ]
-    ] ],
-    [ "201704191802404_AddIndexPackageRegistrationKeySemVer.cs", "db/df8/201704191802404___add_index_package_registration_key_sem_ver_8cs.html", [
-      [ "AddIndexPackageRegistrationKeySemVer", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver.html", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver" ]
-    ] ],
-    [ "201704191802404_AddIndexPackageRegistrationKeySemVer.Designer.cs", "d6/de7/201704191802404___add_index_package_registration_key_sem_ver_8_designer_8cs.html", [
-      [ "AddIndexPackageRegistrationKeySemVer", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver.html", "d3/d6d/class_nu_get_gallery_1_1_migrations_1_1_add_index_package_registration_key_sem_ver" ]
-    ] ],
-    [ "201704211454424_SecurityPolicies.cs", "d4/d9b/201704211454424___security_policies_8cs.html", [
-      [ "SecurityPolicies", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies.html", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies" ]
-    ] ],
-    [ "201704211454424_SecurityPolicies.Designer.cs", "de/d24/201704211454424___security_policies_8_designer_8cs.html", [
-      [ "SecurityPolicies", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies.html", "de/d4d/class_nu_get_gallery_1_1_migrations_1_1_security_policies" ]
-    ] ],
-    [ "201705031714183_AddIndexSemVerLevelKey.cs", "da/d5b/201705031714183___add_index_sem_ver_level_key_8cs.html", [
-      [ "AddIndexSemVerLevelKey", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key.html", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key" ]
-    ] ],
-    [ "201705031714183_AddIndexSemVerLevelKey.Designer.cs", "db/d9b/201705031714183___add_index_sem_ver_level_key_8_designer_8cs.html", [
-      [ "AddIndexSemVerLevelKey", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key.html", "d0/d4e/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key" ]
-    ] ],
-    [ "201705032101231_SecurityPoliciesFix.cs", "d6/de9/201705032101231___security_policies_fix_8cs.html", [
-      [ "SecurityPoliciesFix", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix.html", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix" ]
-    ] ],
-    [ "201705032101231_SecurityPoliciesFix.Designer.cs", "d0/dd0/201705032101231___security_policies_fix_8_designer_8cs.html", [
-      [ "SecurityPoliciesFix", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix.html", "d3/d8c/class_nu_get_gallery_1_1_migrations_1_1_security_policies_fix" ]
-    ] ],
-    [ "201705041614287_UserSecurityPolicies_SubscriptionColumn.cs", "d8/dd9/201705041614287___user_security_policies___subscription_column_8cs.html", [
-      [ "UserSecurityPolicies_SubscriptionColumn", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column.html", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column" ]
-    ] ],
-    [ "201705041614287_UserSecurityPolicies_SubscriptionColumn.Designer.cs", "d4/d2a/201705041614287___user_security_policies___subscription_column_8_designer_8cs.html", [
-      [ "UserSecurityPolicies_SubscriptionColumn", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column.html", "d1/dd9/class_nu_get_gallery_1_1_migrations_1_1_user_security_policies___subscription_column" ]
-    ] ],
-    [ "201706061829243_AddSemVer2LatestVersionColumns.cs", "d5/d67/201706061829243___add_sem_ver2_latest_version_columns_8cs.html", [
-      [ "AddSemVer2LatestVersionColumns", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns.html", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns" ]
-    ] ],
-    [ "201706061829243_AddSemVer2LatestVersionColumns.Designer.cs", "de/dfa/201706061829243___add_sem_ver2_latest_version_columns_8_designer_8cs.html", [
-      [ "AddSemVer2LatestVersionColumns", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns.html", "d1/de6/class_nu_get_gallery_1_1_migrations_1_1_add_sem_ver2_latest_version_columns" ]
-    ] ],
-    [ "201706080632469_AddIndexIsLatestSemVer2.cs", "d6/d81/201706080632469___add_index_is_latest_sem_ver2_8cs.html", [
-      [ "AddIndexIsLatestSemVer2", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2.html", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2" ]
-    ] ],
-    [ "201706080632469_AddIndexIsLatestSemVer2.Designer.cs", "de/d31/201706080632469___add_index_is_latest_sem_ver2_8_designer_8cs.html", [
-      [ "AddIndexIsLatestSemVer2", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2.html", "d7/de8/class_nu_get_gallery_1_1_migrations_1_1_add_index_is_latest_sem_ver2" ]
-    ] ],
-    [ "201706080930506_AddIndexSemVerLevelKeyPackageRegistrationKey.cs", "d8/d63/201706080930506___add_index_sem_ver_level_key_package_registration_key_8cs.html", [
-      [ "AddIndexSemVerLevelKeyPackageRegistrationKey", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key.html", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key" ]
-    ] ],
-    [ "201706080930506_AddIndexSemVerLevelKeyPackageRegistrationKey.Designer.cs", "d1/d57/201706080930506___add_index_sem_ver_level_key_package_registration_key_8_designer_8cs.html", [
-      [ "AddIndexSemVerLevelKeyPackageRegistrationKey", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key.html", "d1/d07/class_nu_get_gallery_1_1_migrations_1_1_add_index_sem_ver_level_key_package_registration_key" ]
-    ] ],
-    [ "201706262349176_AddRepositoryURL_ReadMe.cs", "d5/d19/201706262349176___add_repository_u_r_l___read_me_8cs.html", [
-      [ "AddRepositoryURL_ReadMe", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me.html", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me" ]
-    ] ],
-    [ "201706262349176_AddRepositoryURL_ReadMe.Designer.cs", "de/d98/201706262349176___add_repository_u_r_l___read_me_8_designer_8cs.html", [
-      [ "AddRepositoryURL_ReadMe", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me.html", "db/ddc/class_nu_get_gallery_1_1_migrations_1_1_add_repository_u_r_l___read_me" ]
-    ] ],
-    [ "201708241907124_PrefixReservation.cs", "d6/ded/201708241907124___prefix_reservation_8cs.html", [
-      [ "PrefixReservation", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation.html", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation" ]
-    ] ],
-    [ "201708241907124_PrefixReservation.Designer.cs", "de/dbd/201708241907124___prefix_reservation_8_designer_8cs.html", [
-      [ "PrefixReservation", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation.html", "d0/d4f/class_nu_get_gallery_1_1_migrations_1_1_prefix_reservation" ]
-    ] ],
-    [ "201709072246362_AddPackageLicenseReport2Sproc.cs", "d6/d42/201709072246362___add_package_license_report2_sproc_8cs.html", [
-      [ "AddPackageLicenseReport2Sproc", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc.html", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc" ]
-    ] ],
-    [ "201709072246362_AddPackageLicenseReport2Sproc.Designer.cs", "d9/da3/201709072246362___add_package_license_report2_sproc_8_designer_8cs.html", [
-      [ "AddPackageLicenseReport2Sproc", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc.html", "de/d82/class_nu_get_gallery_1_1_migrations_1_1_add_package_license_report2_sproc" ]
-    ] ],
-    [ "201709111714021_AddPackageStatusKey.cs", "d0/d33/201709111714021___add_package_status_key_8cs.html", [
-      [ "AddPackageStatusKey", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key.html", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key" ]
-    ] ],
-    [ "201709111714021_AddPackageStatusKey.Designer.cs", "d1/d90/201709111714021___add_package_status_key_8_designer_8cs.html", [
-      [ "AddPackageStatusKey", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key.html", "d8/dd3/class_nu_get_gallery_1_1_migrations_1_1_add_package_status_key" ]
-    ] ],
-    [ "201709202249402_AddPackageOwnershipRequestsPage.cs", "de/dd3/201709202249402___add_package_ownership_requests_page_8cs.html", [
-      [ "AddPackageOwnershipRequestsPage", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page.html", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page" ]
-    ] ],
-    [ "201709202249402_AddPackageOwnershipRequestsPage.Designer.cs", "dc/dd9/201709202249402___add_package_ownership_requests_page_8_designer_8cs.html", [
-      [ "AddPackageOwnershipRequestsPage", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page.html", "de/d69/class_nu_get_gallery_1_1_migrations_1_1_add_package_ownership_requests_page" ]
-    ] ],
-    [ "201710301857232_Organizations.cs", "dd/d8b/201710301857232___organizations_8cs.html", [
-      [ "Organizations", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations.html", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations" ]
-    ] ],
-    [ "201710301857232_Organizations.Designer.cs", "d1/df3/201710301857232___organizations_8_designer_8cs.html", [
-      [ "Organizations", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations.html", "d7/d40/class_nu_get_gallery_1_1_migrations_1_1_organizations" ]
-    ] ],
-    [ "201711021733062_ApiKeyOwnerScope.cs", "d6/d58/201711021733062___api_key_owner_scope_8cs.html", [
-      [ "ApiKeyOwnerScope", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope.html", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope" ]
-    ] ],
-    [ "201711021733062_ApiKeyOwnerScope.Designer.cs", "d7/df3/201711021733062___api_key_owner_scope_8_designer_8cs.html", [
-      [ "ApiKeyOwnerScope", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope.html", "de/d9a/class_nu_get_gallery_1_1_migrations_1_1_api_key_owner_scope" ]
-    ] ],
-    [ "201711082145351_AddAccountDelete.cs", "d7/df8/201711082145351___add_account_delete_8cs.html", [
-      [ "AddAccountDelete", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete.html", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete" ]
-    ] ],
-    [ "201711082145351_AddAccountDelete.Designer.cs", "d2/db3/201711082145351___add_account_delete_8_designer_8cs.html", [
-      [ "AddAccountDelete", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete.html", "dd/dab/class_nu_get_gallery_1_1_migrations_1_1_add_account_delete" ]
-    ] ],
-    [ "201711291842225_AddCertificate.cs", "d7/d2f/201711291842225___add_certificate_8cs.html", [
-      [ "AddCertificate", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate.html", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate" ]
-    ] ],
-    [ "201711291842225_AddCertificate.Designer.cs", "d7/dbf/201711291842225___add_certificate_8_designer_8cs.html", [
-      [ "AddCertificate", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate.html", "d5/d37/class_nu_get_gallery_1_1_migrations_1_1_add_certificate" ]
-    ] ],
-    [ "201712052213307_AddPackageIdLocking.cs", "d7/de7/201712052213307___add_package_id_locking_8cs.html", [
-      [ "AddPackageIdLocking", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking.html", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking" ]
-    ] ],
-    [ "201712052213307_AddPackageIdLocking.Designer.cs", "d1/dfd/201712052213307___add_package_id_locking_8_designer_8cs.html", [
-      [ "AddPackageIdLocking", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking.html", "d0/dc3/class_nu_get_gallery_1_1_migrations_1_1_add_package_id_locking" ]
-    ] ],
-    [ "201712211850074_MembershipRequests.cs", "d4/d42/201712211850074___membership_requests_8cs.html", [
-      [ "MembershipRequests", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests.html", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests" ]
-    ] ],
-    [ "201712211850074_MembershipRequests.Designer.cs", "da/da4/201712211850074___membership_requests_8_designer_8cs.html", [
-      [ "MembershipRequests", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests.html", "dd/d9f/class_nu_get_gallery_1_1_migrations_1_1_membership_requests" ]
-    ] ],
-    [ "201801101337052_RemovePackageEdits.cs", "d5/d1d/201801101337052___remove_package_edits_8cs.html", [
-      [ "RemovePackageEdits", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits.html", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits" ]
-    ] ],
-    [ "201801101337052_RemovePackageEdits.Designer.cs", "df/dd7/201801101337052___remove_package_edits_8_designer_8cs.html", [
-      [ "RemovePackageEdits", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits.html", "d5/d48/class_nu_get_gallery_1_1_migrations_1_1_remove_package_edits" ]
-    ] ],
-    [ "201803202317063_AddEnableMultiFactorAuthentication.cs", "d1/d05/201803202317063___add_enable_multi_factor_authentication_8cs.html", [
-      [ "AddEnableMultiFactorAuthentication", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication.html", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication" ]
-    ] ],
-    [ "201803202317063_AddEnableMultiFactorAuthentication.Designer.cs", "da/d6f/201803202317063___add_enable_multi_factor_authentication_8_designer_8cs.html", [
-      [ "AddEnableMultiFactorAuthentication", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication.html", "d3/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_enable_multi_factor_authentication" ]
-    ] ],
-    [ "201804171613337_AddCertificateRegistration.cs", "d7/d4c/201804171613337___add_certificate_registration_8cs.html", [
-      [ "AddCertificateRegistration", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration.html", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration" ]
-    ] ],
-    [ "201804171613337_AddCertificateRegistration.Designer.cs", "d3/d48/201804171613337___add_certificate_registration_8_designer_8cs.html", [
-      [ "AddCertificateRegistration", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration.html", "d8/d26/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_registration" ]
-    ] ],
-    [ "201804241507196_RemoveUserCertificateIsActive.cs", "d2/d1b/201804241507196___remove_user_certificate_is_active_8cs.html", [
-      [ "RemoveUserCertificateIsActive", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active.html", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active" ]
-    ] ],
-    [ "201804241507196_RemoveUserCertificateIsActive.Designer.cs", "de/dcc/201804241507196___remove_user_certificate_is_active_8_designer_8cs.html", [
-      [ "RemoveUserCertificateIsActive", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active.html", "d9/d2f/class_nu_get_gallery_1_1_migrations_1_1_remove_user_certificate_is_active" ]
-    ] ],
-    [ "201805012001354_AddUserCertificatesIndex.cs", "d1/d10/201805012001354___add_user_certificates_index_8cs.html", [
-      [ "AddUserCertificatesIndex", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index.html", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index" ]
-    ] ],
-    [ "201805012001354_AddUserCertificatesIndex.Designer.cs", "db/de8/201805012001354___add_user_certificates_index_8_designer_8cs.html", [
-      [ "AddUserCertificatesIndex", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index.html", "d4/d23/class_nu_get_gallery_1_1_migrations_1_1_add_user_certificates_index" ]
-    ] ],
-    [ "201805091846502_MakeCertificatesSha1ThumbprintRequired.cs", "d5/d85/201805091846502___make_certificates_sha1_thumbprint_required_8cs.html", [
-      [ "MakeCertificatesSha1ThumbprintRequired", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required.html", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required" ]
-    ] ],
-    [ "201805091846502_MakeCertificatesSha1ThumbprintRequired.Designer.cs", "d3/df5/201805091846502___make_certificates_sha1_thumbprint_required_8_designer_8cs.html", [
-      [ "MakeCertificatesSha1ThumbprintRequired", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required.html", "da/d67/class_nu_get_gallery_1_1_migrations_1_1_make_certificates_sha1_thumbprint_required" ]
-    ] ],
-    [ "201805221605033_DropPagerDutyColumn.cs", "dd/d79/201805221605033___drop_pager_duty_column_8cs.html", [
-      [ "DropPagerDutyColumn", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column.html", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column" ]
-    ] ],
-    [ "201805221605033_DropPagerDutyColumn.Designer.cs", "d4/dfa/201805221605033___drop_pager_duty_column_8_designer_8cs.html", [
-      [ "DropPagerDutyColumn", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column.html", "d6/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_drop_pager_duty_column" ]
-    ] ],
-    [ "201807031816101_AccountDeleteSignatureNotRequired.cs", "d6/d0d/201807031816101___account_delete_signature_not_required_8cs.html", [
-      [ "AccountDeleteSignatureNotRequired", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required.html", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required" ]
-    ] ],
-    [ "201807031816101_AccountDeleteSignatureNotRequired.Designer.cs", "d2/daf/201807031816101___account_delete_signature_not_required_8_designer_8cs.html", [
-      [ "AccountDeleteSignatureNotRequired", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required.html", "d5/dc9/class_nu_get_gallery_1_1_migrations_1_1_account_delete_signature_not_required" ]
-    ] ],
-    [ "201807181816293_SymbolPackages.cs", "d4/d66/201807181816293___symbol_packages_8cs.html", [
-      [ "SymbolPackages", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages.html", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages" ]
-    ] ],
-    [ "201807181816293_SymbolPackages.Designer.cs", "d4/d77/201807181816293___symbol_packages_8_designer_8cs.html", [
-      [ "SymbolPackages", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages.html", "d1/ddc/class_nu_get_gallery_1_1_migrations_1_1_symbol_packages" ]
-    ] ],
-    [ "201807261747084_AddCertificateDetails.cs", "df/def/201807261747084___add_certificate_details_8cs.html", [
-      [ "AddCertificateDetails", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details.html", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details" ]
-    ] ],
-    [ "201807261747084_AddCertificateDetails.Designer.cs", "d6/da8/201807261747084___add_certificate_details_8_designer_8cs.html", [
-      [ "AddCertificateDetails", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details.html", "d8/dda/class_nu_get_gallery_1_1_migrations_1_1_add_certificate_details" ]
-    ] ],
-    [ "201807302212501_AddShortCertificateNames.cs", "da/d6b/201807302212501___add_short_certificate_names_8cs.html", [
-      [ "AddShortCertificateNames", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names.html", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names" ]
-    ] ],
-    [ "201807302212501_AddShortCertificateNames.Designer.cs", "df/dfe/201807302212501___add_short_certificate_names_8_designer_8cs.html", [
-      [ "AddShortCertificateNames", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names.html", "d0/daf/class_nu_get_gallery_1_1_migrations_1_1_add_short_certificate_names" ]
-    ] ],
-    [ "201808010014291_AddRepositoryType.cs", "d6/db3/201808010014291___add_repository_type_8cs.html", [
-      [ "AddRepositoryType", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type.html", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type" ]
-    ] ],
-    [ "201808010014291_AddRepositoryType.Designer.cs", "d1/d17/201808010014291___add_repository_type_8_designer_8cs.html", [
-      [ "AddRepositoryType", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type.html", "db/df6/class_nu_get_gallery_1_1_migrations_1_1_add_repository_type" ]
-    ] ],
-    [ "201808032317064_FixSymbolCreatedColumnEFIssue.cs", "d8/d27/201808032317064___fix_symbol_created_column_e_f_issue_8cs.html", [
-      [ "FixSymbolCreatedColumnEFIssue", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue.html", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue" ]
-    ] ],
-    [ "201808032317064_FixSymbolCreatedColumnEFIssue.Designer.cs", "d5/da2/201808032317064___fix_symbol_created_column_e_f_issue_8_designer_8cs.html", [
-      [ "FixSymbolCreatedColumnEFIssue", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue.html", "dd/de9/class_nu_get_gallery_1_1_migrations_1_1_fix_symbol_created_column_e_f_issue" ]
-    ] ],
-    [ "201808312302101_AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable.cs", "de/d64/201808312302101___add_is_verified_download_count_id_index_for_package_registrations_table_8cs.html", [
-      [ "AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table.html", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table" ]
-    ] ],
-    [ "201808312302101_AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable.Designer.cs", "d3/d24/201808312302101___add_is_verified_download_count_id_index_for_package_registrations_table_8_designer_8cs.html", [
-      [ "AddIsVerifiedDownloadCountIdIndexForPackageRegistrationsTable", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table.html", "d6/db3/class_nu_get_gallery_1_1_migrations_1_1_add_is_verified_download_count_id_index_for_package_registrations_table" ]
-    ] ],
-    [ "201811011725146_LicenseChanges.cs", "d1/dca/201811011725146___license_changes_8cs.html", [
-      [ "LicenseChanges", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes.html", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes" ]
-    ] ],
-    [ "201811011725146_LicenseChanges.Designer.cs", "de/d3d/201811011725146___license_changes_8_designer_8cs.html", [
-      [ "LicenseChanges", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes.html", "dc/dc5/class_nu_get_gallery_1_1_migrations_1_1_license_changes" ]
-    ] ],
-    [ "201811291758016_RemoveCuratedFeedEntities.cs", "d5/d6c/201811291758016___remove_curated_feed_entities_8cs.html", [
-      [ "RemoveCuratedFeedEntities", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities.html", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities" ]
-    ] ],
-    [ "201811291758016_RemoveCuratedFeedEntities.Designer.cs", "da/d7e/201811291758016___remove_curated_feed_entities_8_designer_8cs.html", [
-      [ "RemoveCuratedFeedEntities", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities.html", "d2/d02/class_nu_get_gallery_1_1_migrations_1_1_remove_curated_feed_entities" ]
-    ] ],
-    [ "201901142143060_AddDeprecationEntities.cs", "d2/db7/201901142143060___add_deprecation_entities_8cs.html", [
-      [ "AddDeprecationEntities", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities.html", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities" ]
-    ] ],
-    [ "201901142143060_AddDeprecationEntities.Designer.cs", "db/d97/201901142143060___add_deprecation_entities_8_designer_8cs.html", [
-      [ "AddDeprecationEntities", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities.html", "d7/d00/class_nu_get_gallery_1_1_migrations_1_1_add_deprecation_entities" ]
-    ] ],
-    [ "201902061444243_AddVulnerabilityEntities.cs", "d2/d11/201902061444243___add_vulnerability_entities_8cs.html", [
-      [ "AddVulnerabilityEntities", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities.html", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities" ]
-    ] ],
-    [ "201902061444243_AddVulnerabilityEntities.Designer.cs", "d7/dc4/201902061444243___add_vulnerability_entities_8_designer_8cs.html", [
-      [ "AddVulnerabilityEntities", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities.html", "d0/db3/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerability_entities" ]
-    ] ],
-    [ "201903020136235_CvesCanBeEmpty.cs", "d4/d41/201903020136235___cves_can_be_empty_8cs.html", [
-      [ "CvesCanBeEmpty", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty.html", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty" ]
-    ] ],
-    [ "201903020136235_CvesCanBeEmpty.Designer.cs", "d1/d91/201903020136235___cves_can_be_empty_8_designer_8cs.html", [
-      [ "CvesCanBeEmpty", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty.html", "dc/dc9/class_nu_get_gallery_1_1_migrations_1_1_cves_can_be_empty" ]
-    ] ],
-    [ "201904081230004_AddIndexToUserSecurityPolicy.cs", "d9/d5b/201904081230004___add_index_to_user_security_policy_8cs.html", [
-      [ "AddIndexToUserSecurityPolicy", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy.html", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy" ]
-    ] ],
-    [ "201904081230004_AddIndexToUserSecurityPolicy.Designer.cs", "dc/d06/201904081230004___add_index_to_user_security_policy_8_designer_8cs.html", [
-      [ "AddIndexToUserSecurityPolicy", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy.html", "d4/d0c/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_user_security_policy" ]
-    ] ],
-    [ "201904252152567_DeletedByOptional.cs", "da/dea/201904252152567___deleted_by_optional_8cs.html", [
-      [ "DeletedByOptional", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional.html", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional" ]
-    ] ],
-    [ "201904252152567_DeletedByOptional.Designer.cs", "d8/d8e/201904252152567___deleted_by_optional_8_designer_8cs.html", [
-      [ "DeletedByOptional", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional.html", "da/dd9/class_nu_get_gallery_1_1_migrations_1_1_deleted_by_optional" ]
-    ] ],
-    [ "201904292139301_RemoveVulnerabilityDataFromPackageDeprecationModel.cs", "db/df5/201904292139301___remove_vulnerability_data_from_package_deprecation_model_8cs.html", [
-      [ "RemoveVulnerabilityDataFromPackageDeprecationModel", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model.html", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model" ]
-    ] ],
-    [ "201904292139301_RemoveVulnerabilityDataFromPackageDeprecationModel.Designer.cs", "d5/dbf/201904292139301___remove_vulnerability_data_from_package_deprecation_model_8_designer_8cs.html", [
-      [ "RemoveVulnerabilityDataFromPackageDeprecationModel", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model.html", "d1/dde/class_nu_get_gallery_1_1_migrations_1_1_remove_vulnerability_data_from_package_deprecation_model" ]
-    ] ],
-    [ "201905071526573_DevelopmentDependencyMetadata.cs", "d7/df5/201905071526573___development_dependency_metadata_8cs.html", [
-      [ "DevelopmentDependencyMetadata", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata.html", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata" ]
-    ] ],
-    [ "201905071526573_DevelopmentDependencyMetadata.Designer.cs", "d6/da6/201905071526573___development_dependency_metadata_8_designer_8cs.html", [
-      [ "DevelopmentDependencyMetadata", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata.html", "d2/d9c/class_nu_get_gallery_1_1_migrations_1_1_development_dependency_metadata" ]
-    ] ],
-    [ "201906262145129_EmbeddedIconFlag.cs", "d4/df9/201906262145129___embedded_icon_flag_8cs.html", [
-      [ "EmbeddedIconFlag", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag.html", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag" ]
-    ] ],
-    [ "201906262145129_EmbeddedIconFlag.Designer.cs", "dd/d82/201906262145129___embedded_icon_flag_8_designer_8cs.html", [
-      [ "EmbeddedIconFlag", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag.html", "db/dd9/class_nu_get_gallery_1_1_migrations_1_1_embedded_icon_flag" ]
-    ] ],
-    [ "201910291956170_AddPackageVulnerabilities.cs", "d1/d93/201910291956170___add_package_vulnerabilities_8cs.html", [
-      [ "AddPackageVulnerabilities", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities.html", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities" ]
-    ] ],
-    [ "201910291956170_AddPackageVulnerabilities.Designer.cs", "d9/d39/201910291956170___add_package_vulnerabilities_8_designer_8cs.html", [
-      [ "AddPackageVulnerabilities", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities.html", "d2/d16/class_nu_get_gallery_1_1_migrations_1_1_add_package_vulnerabilities" ]
-    ] ],
-    [ "201911072143480_AddVulnerablePackageVersionRangeIdIndex.cs", "d2/db2/201911072143480___add_vulnerable_package_version_range_id_index_8cs.html", [
-      [ "AddVulnerablePackageVersionRangeIdIndex", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index.html", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index" ]
-    ] ],
-    [ "201911072143480_AddVulnerablePackageVersionRangeIdIndex.Designer.cs", "df/df5/201911072143480___add_vulnerable_package_version_range_id_index_8_designer_8cs.html", [
-      [ "AddVulnerablePackageVersionRangeIdIndex", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index.html", "da/d39/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_id_index" ]
-    ] ],
-    [ "201911132341290_AddVulnerablePackageVersionRangeFirstPatchedVersion.cs", "d9/d21/201911132341290___add_vulnerable_package_version_range_first_patched_version_8cs.html", [
-      [ "AddVulnerablePackageVersionRangeFirstPatchedVersion", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version.html", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version" ]
-    ] ],
-    [ "201911132341290_AddVulnerablePackageVersionRangeFirstPatchedVersion.Designer.cs", "d9/da0/201911132341290___add_vulnerable_package_version_range_first_patched_version_8_designer_8cs.html", [
-      [ "AddVulnerablePackageVersionRangeFirstPatchedVersion", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version.html", "d1/d26/class_nu_get_gallery_1_1_migrations_1_1_add_vulnerable_package_version_range_first_patched_version" ]
-    ] ],
-    [ "201911160032363_AddCredentialRevocationSourceKeyColumn.cs", "dd/d69/201911160032363___add_credential_revocation_source_key_column_8cs.html", [
-      [ "AddCredentialRevocationSourceKeyColumn", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column.html", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column" ]
-    ] ],
-    [ "201911160032363_AddCredentialRevocationSourceKeyColumn.Designer.cs", "d2/d30/201911160032363___add_credential_revocation_source_key_column_8_designer_8cs.html", [
-      [ "AddCredentialRevocationSourceKeyColumn", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column.html", "dc/d8c/class_nu_get_gallery_1_1_migrations_1_1_add_credential_revocation_source_key_column" ]
-    ] ],
-    [ "201912051135094_PackageVulnerabilityAdvisoryUrlRenameAndRequired.cs", "d2/d8a/201912051135094___package_vulnerability_advisory_url_rename_and_required_8cs.html", [
-      [ "PackageVulnerabilityAdvisoryUrlRenameAndRequired", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required.html", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required" ]
-    ] ],
-    [ "201912051135094_PackageVulnerabilityAdvisoryUrlRenameAndRequired.Designer.cs", "dd/d74/201912051135094___package_vulnerability_advisory_url_rename_and_required_8_designer_8cs.html", [
-      [ "PackageVulnerabilityAdvisoryUrlRenameAndRequired", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required.html", "d7/d60/class_nu_get_gallery_1_1_migrations_1_1_package_vulnerability_advisory_url_rename_and_required" ]
-    ] ],
-    [ "202004030548285_AddPackageRename.cs", "d6/de2/202004030548285___add_package_rename_8cs.html", [
-      [ "AddPackageRename", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename.html", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename" ]
-    ] ],
-    [ "202004030548285_AddPackageRename.Designer.cs", "d6/d75/202004030548285___add_package_rename_8_designer_8cs.html", [
-      [ "AddPackageRename", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename.html", "db/dc8/class_nu_get_gallery_1_1_migrations_1_1_add_package_rename" ]
-    ] ],
-    [ "202006011927336_AddIndexToPackageDependencies.cs", "db/d59/202006011927336___add_index_to_package_dependencies_8cs.html", [
-      [ "AddIndexToPackageDependencies", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies.html", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies" ]
-    ] ],
-    [ "202006011927336_AddIndexToPackageDependencies.Designer.cs", "d6/d9b/202006011927336___add_index_to_package_dependencies_8_designer_8cs.html", [
-      [ "AddIndexToPackageDependencies", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies.html", "d4/dd8/class_nu_get_gallery_1_1_migrations_1_1_add_index_to_package_dependencies" ]
-    ] ],
-    [ "202007220027197_AddEmbeddedReadmeTypeColumn.cs", "d7/dbd/202007220027197___add_embedded_readme_type_column_8cs.html", [
-      [ "AddEmbeddedReadmeTypeColumn", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column.html", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column" ]
-    ] ],
-    [ "202007220027197_AddEmbeddedReadmeTypeColumn.Designer.cs", "d9/dfa/202007220027197___add_embedded_readme_type_column_8_designer_8cs.html", [
-      [ "AddEmbeddedReadmeTypeColumn", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column.html", "db/d82/class_nu_get_gallery_1_1_migrations_1_1_add_embedded_readme_type_column" ]
-    ] ],
     [ "20210701125609_Initial.cs", "df/d9c/20210701125609___initial_8cs.html", [
       [ "Initial", "d2/da1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial.html", "d2/da1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial" ]
     ] ],
@@ -1196,28 +434,6 @@ var files_dup =
     [ "AboutController.cs", "d4/df2/_about_controller_8cs.html", [
       [ "AboutController", "d2/dc2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_about_controller.html", "d2/dc2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_about_controller" ]
     ] ],
-    [ "ABTestConfiguration.cs", "d4/d81/_a_b_test_configuration_8cs.html", [
-      [ "ABTestConfiguration", "de/da9/class_nu_get_gallery_1_1_services_1_1_a_b_test_configuration.html", "de/da9/class_nu_get_gallery_1_1_services_1_1_a_b_test_configuration" ]
-    ] ],
-    [ "ABTestEnrollment.cs", "d5/db9/_a_b_test_enrollment_8cs.html", [
-      [ "ABTestEnrollment", "d0/dca/class_nu_get_gallery_1_1_a_b_test_enrollment.html", "d0/dca/class_nu_get_gallery_1_1_a_b_test_enrollment" ]
-    ] ],
-    [ "ABTestEnrollmentFactory.cs", "d8/dd4/_a_b_test_enrollment_factory_8cs.html", [
-      [ "ABTestEnrollmentFactory", "da/d21/class_nu_get_gallery_1_1_a_b_test_enrollment_factory.html", "da/d21/class_nu_get_gallery_1_1_a_b_test_enrollment_factory" ]
-    ] ],
-    [ "ABTestEnrollmentFactoryFacts.cs", "dd/d0c/_a_b_test_enrollment_factory_facts_8cs.html", [
-      [ "ABTestEnrollmentFactoryFacts", "d3/d97/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts.html", [
-        [ "Deserialize", "d9/d43/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_deserialize.html", "d9/d43/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_deserialize" ],
-        [ "Facts", "da/d93/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_facts.html", "da/d93/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_facts" ],
-        [ "Initialize", "dc/d30/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_initialize.html", "dc/d30/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_initialize" ],
-        [ "Serialize", "d9/d12/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_serialize.html", "d9/d12/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_serialize" ]
-      ] ],
-      [ "Initialize", "dc/d30/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_initialize.html", "dc/d30/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_initialize" ],
-      [ "Serialize", "d9/d12/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_serialize.html", "d9/d12/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_serialize" ],
-      [ "Deserialize", "d9/d43/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_deserialize.html", "d9/d43/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_deserialize" ],
-      [ "Facts", "da/d93/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_facts.html", "da/d93/class_nu_get_gallery_1_1_a_b_test_enrollment_factory_facts_1_1_facts" ]
-    ] ],
-    [ "ABTestEnrollmentState.cs", "d2/d97/_a_b_test_enrollment_state_8cs.html", "d2/d97/_a_b_test_enrollment_state_8cs" ],
     [ "AcademicInstitution.cs", "dd/d60/_academic_institution_8cs.html", [
       [ "AcademicInstitution", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution.html", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution" ]
     ] ],
@@ -1227,65 +443,16 @@ var files_dup =
     [ "AcceptedVariantsDescriptionType.cs", "dc/d1b/_accepted_variants_description_type_8cs.html", [
       [ "AcceptedVariantsDescriptionType", "d8/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_accepted_variants_description_type.html", null ]
     ] ],
-    [ "AccessConditionWrapper.cs", "d7/ddc/_access_condition_wrapper_8cs.html", [
-      [ "AccessConditionWrapper", "d5/d05/class_nu_get_gallery_1_1_access_condition_wrapper.html", "d5/d05/class_nu_get_gallery_1_1_access_condition_wrapper" ]
-    ] ],
-    [ "AccessConditionWrapperFacts.cs", "d9/d79/_access_condition_wrapper_facts_8cs.html", [
-      [ "AccessConditionWrapperFacts", "d5/dc2/class_nu_get_gallery_1_1_services_1_1_access_condition_wrapper_facts.html", "d5/dc2/class_nu_get_gallery_1_1_services_1_1_access_condition_wrapper_facts" ]
-    ] ],
     [ "AccessKeyPair.cs", "db/ddc/_access_key_pair_8cs.html", [
       [ "AccessKeyPair", "d1/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_access_keys_1_1_access_key_pair.html", "d1/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_access_keys_1_1_access_key_pair" ]
-    ] ],
-    [ "AccordeonHelper.cs", "d8/d61/_accordeon_helper_8cs.html", [
-      [ "AccordionHelper", "d5/dfd/class_nu_get_gallery_1_1_helpers_1_1_accordion_helper.html", "d5/dfd/class_nu_get_gallery_1_1_helpers_1_1_accordion_helper" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Accounting/Accounts/Account.cs", "d7/de4/_fenix_alliance_8_a_b_m_8_models_2_accounting_2_accounts_2_account_8cs.html", "d7/de4/_fenix_alliance_8_a_b_m_8_models_2_accounting_2_accounts_2_account_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Accounting/Accounts/Account.cs", "d5/dda/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_accounting_2_accounts_2_account_8cs.html", [
       [ "Account", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_accounts_1_1_account.html", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_accounts_1_1_account" ]
     ] ],
-    [ "AccountConfirmedEvaluator.cs", "df/d87/_account_confirmed_evaluator_8cs.html", [
-      [ "AccountConfirmedEvaluator", "d4/d1e/class_nu_get_gallery_1_1_account_deleter_1_1_account_confirmed_evaluator.html", "d4/d1e/class_nu_get_gallery_1_1_account_deleter_1_1_account_confirmed_evaluator" ]
-    ] ],
     [ "AccountController.cs", "de/d5d/_account_controller_8cs.html", [
       [ "AccountController", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller" ]
     ] ],
-    [ "AccountDelete.cs", "d4/d1f/_account_delete_8cs.html", [
-      [ "AccountDelete", "d0/dd8/class_nu_get_1_1_services_1_1_entities_1_1_account_delete.html", "d0/dd8/class_nu_get_1_1_services_1_1_entities_1_1_account_delete" ]
-    ] ],
-    [ "AccountDeleteConfiguration.cs", "d1/db8/_account_delete_configuration_8cs.html", [
-      [ "AccountDeleteConfiguration", "d1/dbe/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_configuration.html", "d1/dbe/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_configuration" ]
-    ] ],
-    [ "AccountDeleteEmailBuilder.cs", "dd/df4/_account_delete_email_builder_8cs.html", [
-      [ "AccountDeleteEmailBuilder", "d7/d21/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_email_builder.html", "d7/d21/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_email_builder" ]
-    ] ],
-    [ "AccountDeleteMessage.cs", "dd/d57/_account_delete_message_8cs.html", [
-      [ "AccountDeleteMessage", "d3/d45/class_nu_get_gallery_1_1_account_delete_message.html", "d3/d45/class_nu_get_gallery_1_1_account_delete_message" ]
-    ] ],
-    [ "AccountDeleteMessageHandler.cs", "d8/de5/_account_delete_message_handler_8cs.html", [
-      [ "AccountDeleteMessageHandler", "d9/d25/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_message_handler.html", "d9/d25/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_message_handler" ]
-    ] ],
-    [ "AccountDeleteMessageHandlerFacts.cs", "dc/da9/_account_delete_message_handler_facts_8cs.html", [
-      [ "AccountDeleteMessageHandlerFacts", "dd/d02/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_account_delete_message_handler_facts.html", "dd/d02/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_account_delete_message_handler_facts" ]
-    ] ],
-    [ "AccountDeleteMessageSerializer.cs", "d1/d1a/_account_delete_message_serializer_8cs.html", [
-      [ "AccountDeleteMessageSerializer", "d0/da2/class_nu_get_gallery_1_1_account_delete_message_serializer.html", "d0/da2/class_nu_get_gallery_1_1_account_delete_message_serializer" ]
-    ] ],
-    [ "AccountDeleteNoticeMessage.cs", "d7/d64/_account_delete_notice_message_8cs.html", [
-      [ "AccountDeleteNoticeMessage", "d3/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message.html", "d3/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message" ]
-    ] ],
-    [ "AccountDeleteNoticeMessageFacts.cs", "d0/d7e/_account_delete_notice_message_facts_8cs.html", [
-      [ "AccountDeleteNoticeMessageFacts", "d4/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts.html", "d4/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts" ],
-      [ "TheConstructor", "dc/d49/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_constructor.html", "dc/d49/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947" ],
-      [ "TheGetBodyMethod", "da/dea/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_get_body_method.html", "da/dea/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "AccountDeleteTelemetryService.cs", "d4/dc4/_account_delete_telemetry_service_8cs.html", [
-      [ "AccountDeleteTelemetryService", "d1/d43/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_telemetry_service.html", "d1/d43/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_telemetry_service" ]
-    ] ],
-    [ "AccountDeleteUserService.cs", "de/d24/_account_delete_user_service_8cs.html", [
-      [ "AccountDeleteUserService", "d1/d79/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_user_service.html", "d1/d79/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_user_service" ]
-    ] ],
-    [ "AccountDeletionOrphanPackagePolicy.cs", "d8/d87/_account_deletion_orphan_package_policy_8cs.html", "d8/d87/_account_deletion_orphan_package_policy_8cs" ],
     [ "AccountDropdownViewComponent.cs", "db/d38/_account_dropdown_view_component_8cs.html", [
       [ "AccountDropdownViewComponent", "d2/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_dropdown_view_component.html", "d2/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_dropdown_view_component" ]
     ] ],
@@ -1353,23 +520,6 @@ var files_dup =
     [ "AccountRelation.cs", "df/dfb/_account_relation_8cs.html", [
       [ "AccountRelation", "d3/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_account_relation.html", "d3/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_account_relation" ]
     ] ],
-    [ "AccountsController.cs", "d5/d91/_accounts_controller_8cs.html", [
-      [ "AccountsController", "d2/d7a/class_nu_get_gallery_1_1_accounts_controller.html", "d2/d7a/class_nu_get_gallery_1_1_accounts_controller" ],
-      [ "ViewMessages", "d2/dd2/class_nu_get_gallery_1_1_accounts_controller_1_1_view_messages.html", "d2/dd2/class_nu_get_gallery_1_1_accounts_controller_1_1_view_messages" ]
-    ] ],
-    [ "AccountsControllerFacts.cs", "df/d29/_accounts_controller_facts_8cs.html", [
-      [ "AccountsControllerFacts", "da/d19/class_nu_get_gallery_1_1_accounts_controller_facts.html", "da/d19/class_nu_get_gallery_1_1_accounts_controller_facts" ],
-      [ "AccountsControllerTestContainer", "d5/deb/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_accounts_controller_test_container.html", "d5/deb/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_accounts_controller_test_container" ],
-      [ "TheAccountBaseAction", "dd/d32/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_account_base_action.html", "dd/d32/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_account_base_action" ],
-      [ "TheCancelChangeEmailBaseAction", "da/d8f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_cancel_change_email_base_action.html", "da/d8f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_cancel_change_email_base_action" ],
-      [ "TheChangeEmailBaseAction", "d6/d71/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_base_action.html", "d6/d71/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_base_action" ],
-      [ "TheChangeEmailSubscriptionBaseAction", "d9/d93/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_subscription_base_action.html", "d9/d93/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_change_email_subscription_base_action" ],
-      [ "TheConfirmationRequiredBaseAction", "d4/d41/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_base_action.html", "d4/d41/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_base_action" ],
-      [ "TheConfirmationRequiredPostBaseAction", "d8/d0f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_post_base_action.html", "d8/d0f/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirmation_required_post_base_action" ],
-      [ "TheConfirmBaseAction", "d0/dab/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirm_base_action.html", "d0/dab/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_confirm_base_action" ],
-      [ "TheDeleteAccountAction", "df/d1c/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_action.html", "df/d1c/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_action" ],
-      [ "TheDeleteAccountPostAction", "d9/d9a/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_post_action.html", "d9/d9a/class_nu_get_gallery_1_1_accounts_controller_facts_1_1_the_delete_account_post_action" ]
-    ] ],
     [ "AccountType.cs", "dd/d20/_account_type_8cs.html", [
       [ "AccountType", "de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_types_1_1_account_type.html", "de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_types_1_1_account_type" ]
     ] ],
@@ -1379,40 +529,9 @@ var files_dup =
     [ "AccountUsersHelpers.cs", "d9/dd2/_account_users_helpers_8cs.html", [
       [ "AccountUsersHelpers", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers.html", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers" ]
     ] ],
-    [ "AccountViewModel.cs", "d5/def/_account_view_model_8cs.html", [
-      [ "AccountViewModel", "da/d0d/class_nu_get_gallery_1_1_account_view_model.html", "da/d0d/class_nu_get_gallery_1_1_account_view_model" ]
-    ] ],
     [ "ActionCodeType.cs", "d5/d22/_action_code_type_8cs.html", [
       [ "ActionCodeType", "da/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_action_code_type.html", null ]
     ] ],
-    [ "ActionCountRoutingConvention.cs", "d6/dd4/_action_count_routing_convention_8cs.html", [
-      [ "ActionCountRoutingConvention", "d5/d13/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_action_count_routing_convention.html", "d5/d13/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_action_count_routing_convention" ]
-    ] ],
-    [ "ActionName.cs", "d6/d31/_action_name_8cs.html", null ],
-    [ "ActionOnNewPackageContext.cs", "dd/d69/_action_on_new_package_context_8cs.html", [
-      [ "ActionOnNewPackageContext", "de/d83/class_nu_get_gallery_1_1_action_on_new_package_context.html", "de/d83/class_nu_get_gallery_1_1_action_on_new_package_context" ]
-    ] ],
-    [ "ActionRequiringAccountPermissions.cs", "d4/df4/_action_requiring_account_permissions_8cs.html", [
-      [ "ActionRequiringAccountPermissions", "d4/d4a/class_nu_get_gallery_1_1_action_requiring_account_permissions.html", "d4/d4a/class_nu_get_gallery_1_1_action_requiring_account_permissions" ]
-    ] ],
-    [ "ActionRequiringEntityPermissions.cs", "dc/dfd/_action_requiring_entity_permissions_8cs.html", [
-      [ "ActionRequiringEntityPermissions", "da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions.html", "da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions" ]
-    ] ],
-    [ "ActionRequiringEntityPermissionsFacts.cs", "da/dd0/_action_requiring_entity_permissions_facts_8cs.html", [
-      [ "ActionRequiringEntityPermissionsFacts", "dd/d52/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts.html", [
-        [ "TheCheckPermissionsMethod", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method.html", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method" ],
-        [ "TheCheckPermissionsOnBehalfOfAnyAccountMethod", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method" ]
-      ] ],
-      [ "TheCheckPermissionsMethod", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method.html", "dc/d74/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_method" ],
-      [ "TheCheckPermissionsOnBehalfOfAnyAccountMethod", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method" ]
-    ] ],
-    [ "ActionRequiringPackagePermissions.cs", "d9/de5/_action_requiring_package_permissions_8cs.html", [
-      [ "ActionRequiringPackagePermissions", "d0/d42/class_nu_get_gallery_1_1_action_requiring_package_permissions.html", "d0/d42/class_nu_get_gallery_1_1_action_requiring_package_permissions" ]
-    ] ],
-    [ "ActionRequiringReservedNamespacePermissions.cs", "d4/df4/_action_requiring_reserved_namespace_permissions_8cs.html", [
-      [ "ActionRequiringReservedNamespacePermissions", "d0/d63/class_nu_get_gallery_1_1_action_requiring_reserved_namespace_permissions.html", "d0/d63/class_nu_get_gallery_1_1_action_requiring_reserved_namespace_permissions" ]
-    ] ],
-    [ "ActionsRequiringPermissions.cs", "d6/daa/_actions_requiring_permissions_8cs.html", null ],
     [ "ActivityDataLineType.cs", "d3/da7/_activity_data_line_type_8cs.html", [
       [ "ActivityDataLineType", "d3/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_activity_data_line_type.html", "d3/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_activity_data_line_type" ]
     ] ],
@@ -1470,12 +589,6 @@ var files_dup =
     [ "AdditionalStreetNameType.cs", "d0/d76/_additional_street_name_type_8cs.html", [
       [ "AdditionalStreetNameType", "d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_additional_street_name_type.html", null ]
     ] ],
-    [ "AddOrganizationViewModel.cs", "dc/d13/_add_organization_view_model_8cs.html", [
-      [ "AddOrganizationViewModel", "dc/d5e/class_nu_get_gallery_1_1_add_organization_view_model.html", "dc/d5e/class_nu_get_gallery_1_1_add_organization_view_model" ]
-    ] ],
-    [ "AddPackageOwnerViewModel.cs", "d8/dc9/_add_package_owner_view_model_8cs.html", [
-      [ "AddPackageOwnerViewModel", "df/dbf/class_nu_get_gallery_1_1_add_package_owner_view_model.html", "df/dbf/class_nu_get_gallery_1_1_add_package_owner_view_model" ]
-    ] ],
     [ "AddProductToCartRequest.cs", "da/df6/_add_product_to_cart_request_8cs.html", [
       [ "AddProductToCartRequest", "d5/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_cart_1_1_add_product_to_cart_request.html", "d5/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_cart_1_1_add_product_to_cart_request" ]
     ] ],
@@ -1521,15 +634,6 @@ var files_dup =
     [ "AdjustmentReasonCodeType.cs", "d7/d83/_adjustment_reason_code_type_8cs.html", [
       [ "AdjustmentReasonCodeType", "de/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_adjustment_reason_code_type.html", null ]
     ] ],
-    [ "Admin.cs", "dc/d90/_admin_8cs.html", [
-      [ "Admin", "db/d7f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_admin.html", "db/d7f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_admin" ]
-    ] ],
-    [ "AdminAreaRegistration.cs", "db/d1e/_admin_area_registration_8cs.html", [
-      [ "AdminAreaRegistration", "d5/d8e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_admin_area_registration.html", "d5/d8e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_admin_area_registration" ]
-    ] ],
-    [ "AdminControllerBase.cs", "d4/d1e/_admin_controller_base_8cs.html", [
-      [ "AdminControllerBase", "dd/dd1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_admin_controller_base.html", null ]
-    ] ],
     [ "AdminTopBarViewComponent.cs", "d3/d03/_admin_top_bar_view_component_8cs.html", [
       [ "AdminTopBarViewComponent", "d2/dfb/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_admin_top_bar_view_component.html", "d2/dfb/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_admin_top_bar_view_component" ]
     ] ],
@@ -1545,46 +649,11 @@ var files_dup =
     [ "AdvertisementAmountType.cs", "d6/d3e/_advertisement_amount_type_8cs.html", [
       [ "AdvertisementAmountType", "d0/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_advertisement_amount_type.html", null ]
     ] ],
-    [ "AdvisoryCollector.cs", "d9/d6a/_advisory_collector_8cs.html", [
-      [ "AdvisoryCollector", "dc/d82/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_collector.html", "dc/d82/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_collector" ]
-    ] ],
-    [ "AdvisoryIngestor.cs", "de/dca/_advisory_ingestor_8cs.html", [
-      [ "AdvisoryIngestor", "d4/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_advisory_ingestor.html", "d4/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_advisory_ingestor" ]
-    ] ],
-    [ "AdvisoryIngestorFacts.cs", "dc/da7/_advisory_ingestor_facts_8cs.html", [
-      [ "AdvisoryIngestorFacts", "d2/d07/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts.html", [
-        [ "MethodFacts", "d6/d30/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_method_facts.html", "d6/d30/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_method_facts" ],
-        [ "TheIngestMethodFacts", "de/d81/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_the_ingest_method_facts.html", "de/d81/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_the_ingest_method_facts" ]
-      ] ],
-      [ "TheIngestMethodFacts", "de/d81/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_the_ingest_method_facts.html", "de/d81/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_the_ingest_method_facts" ],
-      [ "MethodFacts", "d6/d30/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_method_facts.html", "d6/d30/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_ingestor_facts_1_1_method_facts" ]
-    ] ],
-    [ "AdvisoryQueryBuilder.cs", "d5/d73/_advisory_query_builder_8cs.html", [
-      [ "AdvisoryQueryBuilder", "d7/d52/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_builder.html", "d7/d52/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_builder" ]
-    ] ],
-    [ "AdvisoryQueryService.cs", "da/d07/_advisory_query_service_8cs.html", [
-      [ "AdvisoryQueryService", "de/df0/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_service.html", "de/df0/class_git_hub_vulnerabilities2_db_1_1_collector_1_1_advisory_query_service" ]
-    ] ],
-    [ "AdvisoryQueryServiceFacts.cs", "d5/dd2/_advisory_query_service_facts_8cs.html", [
-      [ "AdvisoryQueryServiceFacts", "db/df9/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_query_service_facts.html", "db/df9/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_advisory_query_service_facts" ]
-    ] ],
     [ "AgencyIDType.cs", "dd/da1/_agency_i_d_type_8cs.html", [
       [ "AgencyIDType", "dd/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_agency_i_d_type.html", null ]
     ] ],
     [ "AgencyNameType.cs", "d0/d67/_agency_name_type_8cs.html", [
       [ "AgencyNameType", "dd/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_agency_name_type.html", null ]
-    ] ],
-    [ "AggregateAuditingService.cs", "d0/d10/_aggregate_auditing_service_8cs.html", [
-      [ "AggregateAuditingService", "d3/d4e/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service.html", "d3/d4e/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service" ]
-    ] ],
-    [ "AggregateAuditingServiceTests.cs", "d3/d27/_aggregate_auditing_service_tests_8cs.html", [
-      [ "AggregateAuditingServiceTests", "d4/dba/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service_tests.html", "d4/dba/class_nu_get_gallery_1_1_auditing_1_1_aggregate_auditing_service_tests" ]
-    ] ],
-    [ "AggregateEvaluator.cs", "d2/dfe/_aggregate_evaluator_8cs.html", [
-      [ "AggregateEvaluator", "de/d34/class_nu_get_gallery_1_1_account_deleter_1_1_aggregate_evaluator.html", "de/d34/class_nu_get_gallery_1_1_account_deleter_1_1_aggregate_evaluator" ]
-    ] ],
-    [ "AggregateStats.cs", "d2/db3/_aggregate_stats_8cs.html", [
-      [ "AggregateStats", "d6/d28/class_nu_get_gallery_1_1_aggregate_stats.html", "d6/d28/class_nu_get_gallery_1_1_aggregate_stats" ]
     ] ],
     [ "Agreement.cs", "d2/dc3/_agreement_8cs.html", [
       [ "Agreement", "dc/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement.html", "dc/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement" ]
@@ -1678,20 +747,8 @@ var files_dup =
     [ "AllowanceTotalAmountType.cs", "da/dc2/_allowance_total_amount_type_8cs.html", [
       [ "AllowanceTotalAmountType", "d3/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_allowance_total_amount_type.html", null ]
     ] ],
-    [ "AllowLocalHttpRedirectPolicy.cs", "d2/d09/_allow_local_http_redirect_policy_8cs.html", [
-      [ "AllowLocalHttpRedirectPolicy", "d4/dfc/class_nu_get_gallery_1_1_allow_local_http_redirect_policy.html", "d4/dfc/class_nu_get_gallery_1_1_allow_local_http_redirect_policy" ]
-    ] ],
-    [ "AllowLocalHttpRedirectPolicyFacts.cs", "d0/d25/_allow_local_http_redirect_policy_facts_8cs.html", [
-      [ "AllowLocalHttpRedirectPolicyFacts", "d1/d60/class_nu_get_gallery_1_1_services_1_1_allow_local_http_redirect_policy_facts.html", "d1/d60/class_nu_get_gallery_1_1_services_1_1_allow_local_http_redirect_policy_facts" ]
-    ] ],
     [ "AltitudeMeasureType.cs", "de/d7a/_altitude_measure_type_8cs.html", [
       [ "AltitudeMeasureType", "db/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_altitude_measure_type.html", null ]
-    ] ],
-    [ "AlwaysAllowEvaluator.cs", "d0/dde/_always_allow_evaluator_8cs.html", [
-      [ "AlwaysAllowEvaluator", "d0/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_always_allow_evaluator.html", "d0/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_always_allow_evaluator" ]
-    ] ],
-    [ "AlwaysRejectEvaluator.cs", "de/da2/_always_reject_evaluator_8cs.html", [
-      [ "AlwaysRejectEvaluator", "dc/df4/class_nu_get_gallery_1_1_account_deleter_1_1_always_reject_evaluator.html", "dc/df4/class_nu_get_gallery_1_1_account_deleter_1_1_always_reject_evaluator" ]
     ] ],
     [ "AmountRateType.cs", "d9/dac/_amount_rate_type_8cs.html", [
       [ "AmountRateType", "d4/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_rate_type.html", null ]
@@ -1704,10 +761,6 @@ var files_dup =
     ] ],
     [ "AmountType2.cs", "d8/d84/_amount_type2_8cs.html", [
       [ "AmountType2", "da/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_type2.html", null ]
-    ] ],
-    [ "AnalysisHelper.cs", "d0/dbe/_analysis_helper_8cs.html", null ],
-    [ "AnalysisHelperFacts.cs", "d7/dd8/_analysis_helper_facts_8cs.html", [
-      [ "AnalysisHelperFacts", "db/d38/class_nu_get_gallery_1_1_infrastructure_1_1_analysis_helper_facts.html", "db/d38/class_nu_get_gallery_1_1_infrastructure_1_1_analysis_helper_facts" ]
     ] ],
     [ "AnimalFoodApprovedIndicatorType.cs", "d2/dc7/_animal_food_approved_indicator_type_8cs.html", [
       [ "AnimalFoodApprovedIndicatorType", "d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_animal_food_approved_indicator_type.html", null ]
@@ -1724,97 +777,11 @@ var files_dup =
     [ "Answer.cs", "d0/d36/_answer_8cs.html", [
       [ "Answer", "d3/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_answer.html", "d3/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_answer" ]
     ] ],
-    [ "AntiForgeryErrorFilter.cs", "d8/df4/_anti_forgery_error_filter_8cs.html", [
-      [ "AntiForgeryErrorFilter", "da/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_anti_forgery_error_filter.html", "da/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_anti_forgery_error_filter" ]
-    ] ],
     [ "AnyType.cs", "d9/d8b/_any_type_8cs.html", [
       [ "AnyType", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_any_type.html", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_any_type" ]
     ] ],
     [ "ApiAuthorizationHelpers.cs", "de/d8c/_api_authorization_helpers_8cs.html", [
       [ "ApiAuthorizationHelpers", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers.html", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers" ]
-    ] ],
-    [ "ApiAuthorizeAttribute.cs", "df/d3f/_api_authorize_attribute_8cs.html", "df/d3f/_api_authorize_attribute_8cs" ],
-    [ "ApiAuthorizeAttributeFacts.cs", "d9/de2/_api_authorize_attribute_facts_8cs.html", "d9/de2/_api_authorize_attribute_facts_8cs" ],
-    [ "ApiController.cs", "d6/d9d/_api_controller_8cs.html", "d6/d9d/_api_controller_8cs" ],
-    [ "ApiControllerFacts.cs", "d9/d4a/_api_controller_facts_8cs.html", [
-      [ "ApiControllerFacts", "db/d2e/class_nu_get_gallery_1_1_api_controller_facts.html", "db/d2e/class_nu_get_gallery_1_1_api_controller_facts" ],
-      [ "TheCreateSymbolPackageAction", "db/dee/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_symbol_package_action.html", "db/dee/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_symbol_package_action" ],
-      [ "TheCreatePackageAction", "de/d05/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action.html", "de/d05/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action" ],
-      [ "CalledByUserWithMicrosoftTeamSubscription", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription.html", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription" ],
-      [ "TheDeletePackageAction", "d3/da1/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_delete_package_action.html", "d3/da1/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_delete_package_action" ],
-      [ "TheGetPackageAction", "d1/de4/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_package_action.html", "d1/de4/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_package_action" ],
-      [ "ThePublishPackageAction", "d5/dce/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_publish_package_action.html", "d5/dce/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_publish_package_action" ],
-      [ "TheDeprecatePackageAction", "da/dd7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_deprecate_package_action.html", "da/dd7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_deprecate_package_action" ],
-      [ "PackageVerificationKeyContainer", "d8/d89/class_nu_get_gallery_1_1_api_controller_facts_1_1_package_verification_key_container.html", null ],
-      [ "TheCreatePackageVerificationKeyAsyncAction", "de/de7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_verification_key_async_action.html", "de/de7/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_verification_key_async_action" ],
-      [ "TheVerifyPackageKeyAsyncAction", "d0/dcb/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_verify_package_key_async_action.html", "d0/dcb/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_verify_package_key_async_action" ],
-      [ "TheGetStatsDownloadsAction", "d8/dfd/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_stats_downloads_action.html", "d8/dfd/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_stats_downloads_action" ],
-      [ "TheGetNuGetExeAction", "d0/d24/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_nu_get_exe_action.html", "d0/d24/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_get_nu_get_exe_action" ],
-      [ "SymbolsTestException", "dd/d42/class_nu_get_gallery_1_1_api_controller_facts_1_1_symbols_test_exception.html", "dd/d42/class_nu_get_gallery_1_1_api_controller_facts_1_1_symbols_test_exception" ]
-    ] ],
-    [ "ApiKeyAuthenticationExtensions.cs", "db/df6/_api_key_authentication_extensions_8cs.html", null ],
-    [ "ApiKeyAuthenticationHandler.cs", "de/d2d/_api_key_authentication_handler_8cs.html", [
-      [ "ApiKeyAuthenticationHandler", "d8/d0e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_handler.html", "d8/d0e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_handler" ]
-    ] ],
-    [ "ApiKeyAuthenticationHandlerFacts.cs", "d3/dc8/_api_key_authentication_handler_facts_8cs.html", [
-      [ "ApiKeyAuthenticationHandlerFacts", "d3/dc7/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_handler_facts.html", [
-        [ "TestableApiKeyAuthenticationHandler", "d5/db9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han50fc52a1f450e659c8b66599b5ee0aa7.html", "d5/db9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han50fc52a1f450e659c8b66599b5ee0aa7" ],
-        [ "TheApplyResponseChallengeAsyncMethod", "db/dfc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han799635a1f183197dbae1d02d117010cc.html", "db/dfc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han799635a1f183197dbae1d02d117010cc" ],
-        [ "TheAuthenticateCoreAsyncMethod", "db/dcc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han86980dfa9dde4ee972916c1fe9591720.html", "db/dcc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han86980dfa9dde4ee972916c1fe9591720" ]
-      ] ],
-      [ "TheApplyResponseChallengeAsyncMethod", "db/dfc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han799635a1f183197dbae1d02d117010cc.html", "db/dfc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han799635a1f183197dbae1d02d117010cc" ],
-      [ "TheAuthenticateCoreAsyncMethod", "db/dcc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han86980dfa9dde4ee972916c1fe9591720.html", "db/dcc/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han86980dfa9dde4ee972916c1fe9591720" ],
-      [ "TestableApiKeyAuthenticationHandler", "d5/db9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han50fc52a1f450e659c8b66599b5ee0aa7.html", "d5/db9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_han50fc52a1f450e659c8b66599b5ee0aa7" ]
-    ] ],
-    [ "ApiKeyAuthenticationMiddleware.cs", "df/dcf/_api_key_authentication_middleware_8cs.html", [
-      [ "ApiKeyAuthenticationMiddleware", "d2/d60/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_middleware.html", "d2/d60/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_middleware" ]
-    ] ],
-    [ "ApiKeyAuthenticationOptions.cs", "de/dd1/_api_key_authentication_options_8cs.html", [
-      [ "ApiKeyAuthenticationOptions", "df/de5/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_options.html", "df/de5/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authentication_options" ]
-    ] ],
-    [ "ApiKeyAuthenticator.cs", "de/d2d/_api_key_authenticator_8cs.html", [
-      [ "ApiKeyAuthenticator", "da/d41/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator.html", "da/d41/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator" ]
-    ] ],
-    [ "ApiKeyAuthenticatorConfiguration.cs", "d6/d08/_api_key_authenticator_configuration_8cs.html", [
-      [ "ApiKeyAuthenticatorConfiguration", "d1/d7b/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator_configuration.html", "d1/d7b/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_api_key_1_1_api_key_authenticator_configuration" ]
-    ] ],
-    [ "ApiKeyListViewModel.cs", "d5/dcd/_api_key_list_view_model_8cs.html", [
-      [ "ApiKeyListViewModel", "db/d4a/class_nu_get_gallery_1_1_api_key_list_view_model.html", "db/d4a/class_nu_get_gallery_1_1_api_key_list_view_model" ]
-    ] ],
-    [ "ApiKeyOwnerViewModel.cs", "dc/d92/_api_key_owner_view_model_8cs.html", [
-      [ "ApiKeyOwnerViewModel", "d5/da8/class_nu_get_gallery_1_1_api_key_owner_view_model.html", "d5/da8/class_nu_get_gallery_1_1_api_key_owner_view_model" ]
-    ] ],
-    [ "ApiKeyRevokeViewModel.cs", "d2/dff/_api_key_revoke_view_model_8cs.html", [
-      [ "ApiKeyRevokeViewModel", "d3/dff/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_api_key_revoke_view_model.html", "d3/dff/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_api_key_revoke_view_model" ]
-    ] ],
-    [ "ApiKeysController.cs", "db/d64/_api_keys_controller_8cs.html", [
-      [ "ApiKeysController", "db/d8b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller.html", "db/d8b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller" ]
-    ] ],
-    [ "ApiKeysControllerFacts.cs", "d8/deb/_api_keys_controller_facts_8cs.html", [
-      [ "ApiKeysControllerFacts", "d4/daa/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts.html", [
-        [ "TheRevokeMethod", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method" ],
-        [ "TheVerifyMethod", "d3/d5a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_verify_method.html", "d3/d5a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_verify_method" ]
-      ] ],
-      [ "TheVerifyMethod", "d3/d5a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_verify_method.html", "d3/d5a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_verify_method" ],
-      [ "TheRevokeMethod", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method" ]
-    ] ],
-    [ "ApiKeyV3.cs", "d6/d5d/_api_key_v3_8cs.html", [
-      [ "ApiKeyV3", "da/d99/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3.html", "da/d99/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3" ]
-    ] ],
-    [ "ApiKeyV3Facts.cs", "d9/d6b/_api_key_v3_facts_8cs.html", [
-      [ "ApiKeyV3Facts", "d9/d18/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3_facts.html", "d9/d18/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v3_facts" ]
-    ] ],
-    [ "ApiKeyV4.cs", "da/d40/_api_key_v4_8cs.html", [
-      [ "ApiKeyV4", "d4/d14/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4.html", "d4/d14/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4" ]
-    ] ],
-    [ "ApiKeyV4Facts.cs", "dd/d3e/_api_key_v4_facts_8cs.html", [
-      [ "ApiKeyV4Facts", "d3/d83/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4_facts.html", "d3/d83/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_api_key_v4_facts" ]
-    ] ],
-    [ "ApiKeyViewModel.cs", "d9/dc1/_api_key_view_model_8cs.html", [
-      [ "ApiKeyViewModel", "da/d7e/class_nu_get_gallery_1_1_api_key_view_model.html", "da/d7e/class_nu_get_gallery_1_1_api_key_view_model" ]
-    ] ],
-    [ "ApiPushTests.cs", "d1/d71/_api_push_tests_8cs.html", [
-      [ "ApiPushTests", "d2/d85/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_api_push_tests.html", "d2/d85/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_api_push_tests" ]
     ] ],
     [ "APIResponse.cs", "db/d84/_a_p_i_response_8cs.html", [
       [ "ClientApplication", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_client_application.html", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_client_application" ],
@@ -1824,78 +791,14 @@ var files_dup =
       [ "ResponsePagination", "d4/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_response_pagination.html", "d4/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_response_pagination" ],
       [ "APIResponse", "db/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_a_p_i_response.html", "db/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_a_p_i_response" ]
     ] ],
-    [ "ApiScopeEvaluationResult.cs", "d1/d9e/_api_scope_evaluation_result_8cs.html", [
-      [ "ApiScopeEvaluationResult", "d4/d80/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result.html", "d4/d80/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result" ]
-    ] ],
-    [ "ApiScopeEvaluationResultFacts.cs", "d4/dbe/_api_scope_evaluation_result_facts_8cs.html", [
-      [ "ApiScopeEvaluationResultFacts", "d3/d09/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts.html", [
-        [ "TheIsSuccessfulMethod", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method.html", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method" ]
-      ] ],
-      [ "TheIsSuccessfulMethod", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method.html", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method" ]
-    ] ],
-    [ "ApiScopeEvaluator.cs", "d0/dbc/_api_scope_evaluator_8cs.html", [
-      [ "ApiScopeEvaluator", "d9/d75/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator.html", "d9/d75/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator" ]
-    ] ],
-    [ "ApiScopeEvaluatorFacts.cs", "d9/da5/_api_scope_evaluator_facts_8cs.html", [
-      [ "ApiScopeEvaluatorFacts", "d4/d5e/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts.html", [
-        [ "TheEvaluateMethod", "d6/d06/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts_1_1_the_evaluate_method.html", "d6/d06/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts_1_1_the_evaluate_method" ]
-      ] ],
-      [ "TheEvaluateMethod", "d6/d06/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts_1_1_the_evaluate_method.html", "d6/d06/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluator_facts_1_1_the_evaluate_method" ]
-    ] ],
-    [ "ApiScopeRequiredAttribute.cs", "d1/d6e/_api_scope_required_attribute_8cs.html", "d1/d6e/_api_scope_required_attribute_8cs" ],
-    [ "ApiScopeRequiredAttributeFacts.cs", "d0/dc0/_api_scope_required_attribute_facts_8cs.html", [
-      [ "ApiScopeRequiredAttributeFacts", "d0/d56/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts.html", [
-        [ "TheScopeActionsProperty", "d9/d09/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts_1_1_the_scope_actions_property.html", "d9/d09/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts_1_1_the_scope_actions_property" ]
-      ] ],
-      [ "TheScopeActionsProperty", "d9/d09/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts_1_1_the_scope_actions_property.html", "d9/d09/class_nu_get_gallery_1_1_filters_1_1_api_scope_required_attribute_facts_1_1_the_scope_actions_property" ]
-    ] ],
     [ "ApisOptions.cs", "de/d83/_apis_options_8cs.html", [
       [ "ApisOptions", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options.html", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options" ]
-    ] ],
-    [ "FenixAlliance.ABS.MAUI/App.xaml.cs", "d8/ded/_fenix_alliance_8_a_b_s_8_m_a_u_i_2_app_8xaml_8cs.html", "d8/ded/_fenix_alliance_8_a_b_s_8_m_a_u_i_2_app_8xaml_8cs" ],
-    [ "FenixAlliance.ABS.MAUI.WinUI/Platforms/Windows/App.xaml.cs", "d8/d57/_fenix_alliance_8_a_b_s_8_m_a_u_i_8_win_u_i_2_platforms_2_windows_2_app_8xaml_8cs.html", [
-      [ "App", "db/d7d/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_win_u_i_1_1_app.html", "db/d7d/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_win_u_i_1_1_app" ]
-    ] ],
-    [ "AppActivator.cs", "d8/dd7/_app_activator_8cs.html", null ],
-    [ "AppActivatorException.cs", "d4/da4/_app_activator_exception_8cs.html", [
-      [ "AppActivatorException", "dc/d9d/class_nu_get_gallery_1_1_app_activator_exception.html", "dc/d9d/class_nu_get_gallery_1_1_app_activator_exception" ]
-    ] ],
-    [ "AppConfigIsCorrectlyApplied.cs", "d0/d33/_app_config_is_correctly_applied_8cs.html", [
-      [ "AppConfigIsCorrectlyApplied", "d1/dc3/class_nu_get_gallery_1_1_app_config_is_correctly_applied.html", "d1/dc3/class_nu_get_gallery_1_1_app_config_is_correctly_applied" ]
-    ] ],
-    [ "AppConfiguration.cs", "d0/d50/_app_configuration_8cs.html", [
-      [ "AppConfiguration", "d0/d08/class_nu_get_gallery_1_1_configuration_1_1_app_configuration.html", "d0/d08/class_nu_get_gallery_1_1_configuration_1_1_app_configuration" ]
-    ] ],
-    [ "AppController.cs", "df/da8/_app_controller_8cs.html", [
-      [ "AppController", "d8/d76/class_nu_get_gallery_1_1_app_controller.html", "d8/d76/class_nu_get_gallery_1_1_app_controller" ]
-    ] ],
-    [ "AppControllerFacts.cs", "d0/dfd/_app_controller_facts_8cs.html", [
-      [ "AppControllerFacts", "db/db1/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts.html", [
-        [ "TestableAppController", "d0/d02/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_testable_app_controller.html", "d0/d02/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_testable_app_controller" ],
-        [ "TheGetCurrentUserMethod", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method.html", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method" ],
-        [ "TheJsonMethod", "d7/d62/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_json_method.html", "d7/d62/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_json_method" ],
-        [ "TheOnActionExecutedMethod", "dd/d89/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_on_action_executed_method.html", "dd/d89/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_on_action_executed_method" ]
-      ] ],
-      [ "TheGetCurrentUserMethod", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method.html", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method" ],
-      [ "TheJsonMethod", "d7/d62/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_json_method.html", "d7/d62/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_json_method" ],
-      [ "TheOnActionExecutedMethod", "dd/d89/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_on_action_executed_method.html", "dd/d89/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_on_action_executed_method" ],
-      [ "TestableAppController", "d0/d02/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_testable_app_controller.html", "d0/d02/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_testable_app_controller" ]
-    ] ],
-    [ "iOS/AppDelegate.cs", "df/d8f/i_o_s_2_app_delegate_8cs.html", [
-      [ "AppDelegate", "d2/df4/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_app_delegate.html", null ]
-    ] ],
-    [ "MacCatalyst/AppDelegate.cs", "db/d88/_mac_catalyst_2_app_delegate_8cs.html", [
-      [ "AppDelegate", "d2/df4/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_app_delegate.html", null ]
     ] ],
     [ "AppealTermsType.cs", "db/dcf/_appeal_terms_type_8cs.html", [
       [ "AppealTermsType", "de/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_appeal_terms_type.html", "de/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_appeal_terms_type" ]
     ] ],
-    [ "AppInsightsHealthIndicatorLogger.cs", "dc/dcc/_app_insights_health_indicator_logger_8cs.html", null ],
     [ "AppleIcons.cs", "dc/d59/_apple_icons_8cs.html", [
       [ "AppleIcons", "db/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_apple_icons.html", "db/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_apple_icons" ]
-    ] ],
-    [ "Application.cs", "d6/d5c/_application_8cs.html", [
-      [ "Application", "d4/d4a/class_nu_get_1_1_verify_microsoft_package_1_1_application.html", "d4/d4a/class_nu_get_1_1_verify_microsoft_package_1_1_application" ]
     ] ],
     [ "ApplicationResponseType.cs", "df/dbb/_application_response_type_8cs.html", [
       [ "ApplicationResponseType", "dc/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_application_response_type.html", "dc/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_application_response_type" ]
@@ -1909,10 +812,6 @@ var files_dup =
     [ "ApplicationStatusCodeType.cs", "d8/d44/_application_status_code_type_8cs.html", [
       [ "ApplicationStatusCodeType", "d5/d65/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_application_status_code_type.html", null ]
     ] ],
-    [ "ApplicationVersionHelper.cs", "df/d52/_application_version_helper_8cs.html", [
-      [ "ApplicationVersion", "dd/d56/class_nu_get_gallery_1_1_application_version.html", "dd/d56/class_nu_get_gallery_1_1_application_version" ]
-    ] ],
-    [ "ApplyTenantPolicyCommand.cs", "d5/db8/_apply_tenant_policy_command_8cs.html", null ],
     [ "Appraisal.cs", "d5/d52/_appraisal_8cs.html", [
       [ "Appraisal", "d9/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_appraisals_1_1_appraisal.html", null ]
     ] ],
@@ -1941,44 +840,6 @@ var files_dup =
     [ "AreaControllerRoute.cs", "db/d41/_area_controller_route_8cs.html", [
       [ "AreaControllerRoute", "dc/d07/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_area_controller_route.html", "dc/d07/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_area_controller_route" ]
     ] ],
-    [ "ArrayModelBinder.cs", "de/d3c/_array_model_binder_8cs.html", [
-      [ "ArrayModelBinder", "d6/db1/class_nu_get_gallery_1_1_array_model_binder.html", "d6/db1/class_nu_get_gallery_1_1_array_model_binder" ]
-    ] ],
-    [ "src/AccountDeleter/Properties/AssemblyInfo.cs", "d3/d21/src_2_account_deleter_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/DatabaseMigrationTools/Properties/AssemblyInfo.cs", "d7/de1/src_2_database_migration_tools_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/GalleryTools/Properties/AssemblyInfo.cs", "da/d7d/src_2_gallery_tools_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/GitHubVulnerabilities2Db/Properties/AssemblyInfo.cs", "df/de3/src_2_git_hub_vulnerabilities2_db_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/NuGet.Services.DatabaseMigration/Properties/AssemblyInfo.cs", "d1/d26/src_2_nu_get_8_services_8_database_migration_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/NuGetGallery/Properties/AssemblyInfo.cs", "dc/d15/src_2_nu_get_gallery_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/NuGetGallery.Services/Properties/AssemblyInfo.cs", "dc/d37/src_2_nu_get_gallery_8_services_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/VerifyGitHubVulnerabilities/Properties/AssemblyInfo.cs", "d5/d48/src_2_verify_git_hub_vulnerabilities_2_properties_2_assembly_info_8cs.html", null ],
-    [ "src/VerifyMicrosoftPackage/Properties/AssemblyInfo.cs", "d9/d43/src_2_verify_microsoft_package_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/AccountDeleter.Facts/Properties/AssemblyInfo.cs", "d1/dc5/tests_2_account_deleter_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/GitHubVulnerabilities2Db.Facts/Properties/AssemblyInfo.cs", "d6/dcb/tests_2_git_hub_vulnerabilities2_db_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGet.Services.DatabaseMigration.Facts/Properties/AssemblyInfo.cs", "de/dd8/tests_2_nu_get_8_services_8_database_migration_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGet.Services.Entities.Tests/Properties/AssemblyInfo.cs", "df/d9e/tests_2_nu_get_8_services_8_entities_8_tests_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.Core.Facts/Properties/AssemblyInfo.cs", "d0/d1c/tests_2_nu_get_gallery_8_core_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.Facts/Properties/AssemblyInfo.cs", "d1/d9a/tests_2_nu_get_gallery_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.FunctionalTests/Properties/AssemblyInfo.cs", "d8/db7/tests_2_nu_get_gallery_8_functional_tests_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.FunctionalTests.Core/Properties/AssemblyInfo.cs", "d0/d20/tests_2_nu_get_gallery_8_functional_tests_8_core_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.LoadTests/Properties/AssemblyInfo.cs", "df/d4e/tests_2_nu_get_gallery_8_load_tests_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.WebUITests.P0/Properties/AssemblyInfo.cs", "d3/d60/tests_2_nu_get_gallery_8_web_u_i_tests_8_p0_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.WebUITests.P1/Properties/AssemblyInfo.cs", "d1/d02/tests_2_nu_get_gallery_8_web_u_i_tests_8_p1_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.WebUITests.P2/Properties/AssemblyInfo.cs", "d3/d72/tests_2_nu_get_gallery_8_web_u_i_tests_8_p2_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/NuGetGallery.WebUITests.ReadOnlyMode/Properties/AssemblyInfo.cs", "de/d86/tests_2_nu_get_gallery_8_web_u_i_tests_8_read_only_mode_2_properties_2_assembly_info_8cs.html", null ],
-    [ "tests/VerifyMicrosoftPackage.Facts/Properties/AssemblyInfo.cs", "d0/dc0/tests_2_verify_microsoft_package_8_facts_2_properties_2_assembly_info_8cs.html", null ],
-    [ "AccountDeleter/Properties/AssemblyInfo.g.cs", "d8/d40/_account_deleter_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "DatabaseMigrationTools/Properties/AssemblyInfo.g.cs", "d3/dd1/_database_migration_tools_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "GalleryTools/Properties/AssemblyInfo.g.cs", "d1/d15/_gallery_tools_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "GitHubVulnerabilities2Db/Properties/AssemblyInfo.g.cs", "d5/dc9/_git_hub_vulnerabilities2_db_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "NuGet.Services.DatabaseMigration/Properties/AssemblyInfo.g.cs", "de/d65/_nu_get_8_services_8_database_migration_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "NuGet.Services.Entities/Properties/AssemblyInfo.g.cs", "db/dde/_nu_get_8_services_8_entities_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "NuGetGallery/Properties/AssemblyInfo.g.cs", "d1/dcb/_nu_get_gallery_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "NuGetGallery.Core/Properties/AssemblyInfo.g.cs", "d4/dcf/_nu_get_gallery_8_core_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "NuGetGallery.Services/Properties/AssemblyInfo.g.cs", "de/dff/_nu_get_gallery_8_services_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "VerifyMicrosoftPackage/Properties/AssemblyInfo.g.cs", "d2/d1f/_verify_microsoft_package_2_properties_2_assembly_info_8g_8cs.html", null ],
-    [ "AssertAndValidationHelper.cs", "df/dea/_assert_and_validation_helper_8cs.html", null ],
-    [ "AssertEx.cs", "d2/d9a/_assert_ex_8cs.html", null ],
     [ "FenixAlliance.ABM.Models/Assets/Asset.cs", "d1/d8d/_fenix_alliance_8_a_b_m_8_models_2_assets_2_asset_8cs.html", "d1/d8d/_fenix_alliance_8_a_b_m_8_models_2_assets_2_asset_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Assets/Asset.cs", "df/d10/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_assets_2_asset_8cs.html", [
       [ "Asset", "dd/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_assets_1_1_asset.html", null ]
@@ -2024,39 +885,6 @@ var files_dup =
     [ "AssetValueAmend.cs", "d9/d11/_asset_value_amend_8cs.html", [
       [ "AssetValueAmend", "d3/d68/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_value_amends_1_1_asset_value_amend.html", "d3/d68/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_value_amends_1_1_asset_value_amend" ]
     ] ],
-    [ "AsyncFileUploadExtensions.cs", "da/dbb/_async_file_upload_extensions_8cs.html", null ],
-    [ "AsyncFileUploadModule.cs", "d0/d7e/_async_file_upload_module_8cs.html", [
-      [ "AsyncFileUploadModule", "d5/d6d/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_module.html", "d5/d6d/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_module" ]
-    ] ],
-    [ "AsyncFileUploadProgress.cs", "d7/d7e/_async_file_upload_progress_8cs.html", [
-      [ "AsyncFileUploadProgress", "d5/dde/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_progress.html", "d5/dde/class_nu_get_gallery_1_1_async_file_upload_1_1_async_file_upload_progress" ]
-    ] ],
-    [ "AsyncFileUploadRequestParser.cs", "d6/dd7/_async_file_upload_request_parser_8cs.html", null ],
-    [ "AsynchronousDeleteAccountService.cs", "d5/d70/_asynchronous_delete_account_service_8cs.html", [
-      [ "AsynchronousDeleteAccountService", "db/d4e/class_nu_get_gallery_1_1_asynchronous_delete_account_service.html", "db/d4e/class_nu_get_gallery_1_1_asynchronous_delete_account_service" ]
-    ] ],
-    [ "AsynchronousDeleteAccountServiceFacts.cs", "d8/d6e/_asynchronous_delete_account_service_facts_8cs.html", [
-      [ "AsynchronousDeleteAccountServiceFacts", "d9/d68/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts.html", "d9/d68/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts" ],
-      [ "TheDeleteGalleryUserAccountAsyncMethod", "d9/df6/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_the_delete_g403ff65fd26ae0ea180b063841fcd5b7.html", "d9/df6/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_the_delete_g403ff65fd26ae0ea180b063841fcd5b7" ],
-      [ "TestAsynchronousDeleteAccountService", "d1/d6e/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_asynchronous_delete_account_service.html", "d1/d6e/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_asynchronous_delete_account_service" ],
-      [ "TestTopicClient", "d3/d2b/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_topic_client.html", "d3/d2b/class_nu_get_gallery_1_1_services_1_1_asynchronous_delete_account_service_facts_1_1_test_topic_client" ]
-    ] ],
-    [ "AsynchronousPackageValidationInitiator.cs", "dd/dc8/_asynchronous_package_validation_initiator_8cs.html", [
-      [ "AsynchronousPackageValidationInitiator", "d9/df6/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator.html", "d9/df6/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator" ]
-    ] ],
-    [ "AsynchronousPackageValidationInitiatorFacts.cs", "d5/d2f/_asynchronous_package_validation_initiator_facts_8cs.html", [
-      [ "AsynchronousPackageValidationInitiatorFacts", "d6/d2a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts.html", [
-        [ "FactsBase", "d3/dcf/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_facts_base.html", "d3/dcf/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_facts_base" ],
-        [ "TheStartSymbolsPackageValidationAsyncMethod", "da/dfb/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_symbols_package_validation_async_method.html", "da/dfb/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_symbols_package_validation_async_method" ],
-        [ "TheStartValidationAsyncMethod", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method" ]
-      ] ],
-      [ "TheStartValidationAsyncMethod", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method" ],
-      [ "TheStartSymbolsPackageValidationAsyncMethod", "da/dfb/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_symbols_package_validation_async_method.html", "da/dfb/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_symbols_package_validation_async_method" ],
-      [ "FactsBase", "d3/dcf/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_facts_base.html", "d3/dcf/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_facts_base" ]
-    ] ],
-    [ "AtomFeedTests.cs", "d7/d29/_atom_feed_tests_8cs.html", [
-      [ "AtomFeedTests", "da/d48/class_nu_get_gallery_1_1_functional_tests_1_1_atom_feed_1_1_atom_feed_tests.html", "da/d48/class_nu_get_gallery_1_1_functional_tests_1_1_atom_feed_1_1_atom_feed_tests" ]
-    ] ],
     [ "AttachedDocumentType.cs", "d8/df2/_attached_document_type_8cs.html", [
       [ "AttachedDocumentType", "df/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_attached_document_type.html", "df/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_attached_document_type" ]
     ] ],
@@ -2081,222 +909,11 @@ var files_dup =
     [ "AuctionURIType.cs", "d2/d4d/_auction_u_r_i_type_8cs.html", [
       [ "AuctionURIType", "db/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_auction_u_r_i_type.html", null ]
     ] ],
-    [ "AuditActor.cs", "da/d7c/_audit_actor_8cs.html", [
-      [ "AuditActor", "d7/dd3/class_nu_get_gallery_1_1_auditing_1_1_audit_actor.html", "d7/dd3/class_nu_get_gallery_1_1_auditing_1_1_audit_actor" ]
-    ] ],
-    [ "AuditActorTests.cs", "d8/d12/_audit_actor_tests_8cs.html", [
-      [ "AuditActorTests", "de/d82/class_nu_get_gallery_1_1_auditing_1_1_audit_actor_tests.html", "de/d82/class_nu_get_gallery_1_1_auditing_1_1_audit_actor_tests" ]
-    ] ],
-    [ "AuditedAuthenticatedOperationAction.cs", "d8/d2e/_audited_authenticated_operation_action_8cs.html", "d8/d2e/_audited_authenticated_operation_action_8cs" ],
-    [ "AuditedAuthenticatedOperationActionTests.cs", "dc/d0c/_audited_authenticated_operation_action_tests_8cs.html", [
-      [ "AuditedAuthenticatedOperationActionTests", "db/d9b/class_nu_get_gallery_1_1_auditing_1_1_audited_authenticated_operation_action_tests.html", "db/d9b/class_nu_get_gallery_1_1_auditing_1_1_audited_authenticated_operation_action_tests" ]
-    ] ],
-    [ "AuditedCertificateAction.cs", "d8/ded/_audited_certificate_action_8cs.html", "d8/ded/_audited_certificate_action_8cs" ],
-    [ "AuditedCertificateActionTests.cs", "db/d85/_audited_certificate_action_tests_8cs.html", [
-      [ "AuditedCertificateActionTests", "d5/d9d/class_nu_get_gallery_1_1_auditing_1_1_audited_certificate_action_tests.html", "d5/d9d/class_nu_get_gallery_1_1_auditing_1_1_audited_certificate_action_tests" ]
-    ] ],
-    [ "AuditedDeleteAccountAction.cs", "db/df8/_audited_delete_account_action_8cs.html", "db/df8/_audited_delete_account_action_8cs" ],
-    [ "AuditedFeatureFlagFeature.cs", "d5/dc0/_audited_feature_flag_feature_8cs.html", [
-      [ "AuditedFeatureFlagFeature", "dd/d17/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_feature.html", "dd/d17/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_feature" ]
-    ] ],
-    [ "AuditedFeatureFlagFlight.cs", "dc/dd7/_audited_feature_flag_flight_8cs.html", [
-      [ "AuditedFeatureFlagFlight", "db/dd0/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_flight.html", "db/dd0/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_feature_flag_flight" ]
-    ] ],
-    [ "AuditedFeatureFlagsAction.cs", "da/d53/_audited_feature_flags_action_8cs.html", "da/d53/_audited_feature_flags_action_8cs" ],
-    [ "AuditedPackage.cs", "d3/d0f/_audited_package_8cs.html", [
-      [ "AuditedPackage", "d6/d07/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package.html", "d6/d07/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package" ]
-    ] ],
-    [ "AuditedPackageAction.cs", "d7/d8c/_audited_package_action_8cs.html", "d7/d8c/_audited_package_action_8cs" ],
-    [ "AuditedPackageActionTests.cs", "dd/d76/_audited_package_action_tests_8cs.html", [
-      [ "AuditedPackageActionTests", "df/d76/class_nu_get_gallery_1_1_auditing_1_1_audited_package_action_tests.html", "df/d76/class_nu_get_gallery_1_1_auditing_1_1_audited_package_action_tests" ]
-    ] ],
-    [ "AuditedPackageDeprecation.cs", "d7/dfa/_audited_package_deprecation_8cs.html", [
-      [ "AuditedPackageDeprecation", "d7/d4b/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_deprecation.html", "d7/d4b/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_deprecation" ]
-    ] ],
-    [ "AuditedPackageFacts.cs", "da/d3f/_audited_package_facts_8cs.html", [
-      [ "AuditedPackageFacts", "d4/d37/class_nu_get_gallery_1_1_auditing_1_1_audited_package_facts.html", "d4/d37/class_nu_get_gallery_1_1_auditing_1_1_audited_package_facts" ]
-    ] ],
-    [ "AuditedPackageIdentifier.cs", "dd/dbe/_audited_package_identifier_8cs.html", [
-      [ "AuditedPackageIdentifier", "d3/dc7/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_identifier.html", "d3/dc7/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_identifier" ]
-    ] ],
-    [ "AuditedPackageRegistration.cs", "d8/df4/_audited_package_registration_8cs.html", [
-      [ "AuditedPackageRegistration", "db/d86/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_registration.html", "db/d86/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_package_registration" ]
-    ] ],
-    [ "AuditedPackageRegistrationAction.cs", "da/da4/_audited_package_registration_action_8cs.html", "da/da4/_audited_package_registration_action_8cs" ],
-    [ "AuditedPackageRegistrationActionTests.cs", "dd/db5/_audited_package_registration_action_tests_8cs.html", [
-      [ "AuditedPackageRegistrationActionTests", "d3/de6/class_nu_get_gallery_1_1_auditing_1_1_audited_package_registration_action_tests.html", "d3/de6/class_nu_get_gallery_1_1_auditing_1_1_audited_package_registration_action_tests" ]
-    ] ],
-    [ "AuditedReservedNamespace.cs", "d3/dd2/_audited_reserved_namespace_8cs.html", [
-      [ "AuditedReservedNamespace", "d5/d29/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_reserved_namespace.html", "d5/d29/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_reserved_namespace" ]
-    ] ],
-    [ "AuditedReservedNamespaceAction.cs", "d9/d11/_audited_reserved_namespace_action_8cs.html", "d9/d11/_audited_reserved_namespace_action_8cs" ],
-    [ "AuditedSecurityPolicyAction.cs", "db/dcf/_audited_security_policy_action_8cs.html", "db/dcf/_audited_security_policy_action_8cs" ],
-    [ "AuditedUserAction.cs", "d7/d3a/_audited_user_action_8cs.html", "d7/d3a/_audited_user_action_8cs" ],
-    [ "AuditedUserActionTests.cs", "d2/de2/_audited_user_action_tests_8cs.html", [
-      [ "AuditedUserActionTests", "d2/d0a/class_nu_get_gallery_1_1_auditing_1_1_audited_user_action_tests.html", "d2/d0a/class_nu_get_gallery_1_1_auditing_1_1_audited_user_action_tests" ]
-    ] ],
-    [ "AuditedUserSecurityPolicy.cs", "db/d4e/_audited_user_security_policy_8cs.html", [
-      [ "AuditedUserSecurityPolicy", "d0/dce/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_user_security_policy.html", "d0/dce/class_nu_get_gallery_1_1_auditing_1_1_audited_entities_1_1_audited_user_security_policy" ]
-    ] ],
-    [ "AuditEntry.cs", "d5/d66/_audit_entry_8cs.html", [
-      [ "AuditEntry", "d2/df1/class_nu_get_gallery_1_1_auditing_1_1_audit_entry.html", "d2/df1/class_nu_get_gallery_1_1_auditing_1_1_audit_entry" ]
-    ] ],
-    [ "AuditEntryTests.cs", "d0/dff/_audit_entry_tests_8cs.html", [
-      [ "AuditEntryTests", "d9/db5/class_nu_get_gallery_1_1_auditing_1_1_audit_entry_tests.html", "d9/db5/class_nu_get_gallery_1_1_auditing_1_1_audit_entry_tests" ]
-    ] ],
-    [ "AuditingService.cs", "dc/d2f/_auditing_service_8cs.html", [
-      [ "AuditingService", "d2/da5/class_nu_get_gallery_1_1_auditing_1_1_auditing_service.html", "d2/da5/class_nu_get_gallery_1_1_auditing_1_1_auditing_service" ]
-    ] ],
-    [ "AuditingServiceTests.cs", "d8/dee/_auditing_service_tests_8cs.html", [
-      [ "AuditingServiceTests", "d2/dfd/class_nu_get_gallery_1_1_auditing_1_1_auditing_service_tests.html", "d2/dfd/class_nu_get_gallery_1_1_auditing_1_1_auditing_service_tests" ]
-    ] ],
-    [ "AuditRecord.cs", "dd/dd2/_audit_record_8cs.html", [
-      [ "AuditRecord", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record.html", "da/d54/class_nu_get_gallery_1_1_auditing_1_1_audit_record" ]
-    ] ],
-    [ "AuditRecordTests.cs", "d9/d3a/_audit_record_tests_8cs.html", [
-      [ "AuditRecordTests", "df/d02/class_nu_get_gallery_1_1_auditing_1_1_audit_record_tests.html", "df/d02/class_nu_get_gallery_1_1_auditing_1_1_audit_record_tests" ]
-    ] ],
-    [ "AuthDependenciesModule.cs", "de/d70/_auth_dependencies_module_8cs.html", [
-      [ "AuthDependenciesModule", "d0/dbc/class_nu_get_gallery_1_1_authentication_1_1_auth_dependencies_module.html", "d0/dbc/class_nu_get_gallery_1_1_authentication_1_1_auth_dependencies_module" ]
-    ] ],
-    [ "AuthenticatedUser.cs", "de/d28/_authenticated_user_8cs.html", [
-      [ "LoginUserDetails", "d7/d08/class_nu_get_gallery_1_1_authentication_1_1_login_user_details.html", "d7/d08/class_nu_get_gallery_1_1_authentication_1_1_login_user_details" ],
-      [ "AuthenticatedUser", "d9/d4c/class_nu_get_gallery_1_1_authentication_1_1_authenticated_user.html", "d9/d4c/class_nu_get_gallery_1_1_authentication_1_1_authenticated_user" ]
-    ] ],
-    [ "AuthenticateExternalLoginResult.cs", "d0/d9d/_authenticate_external_login_result_8cs.html", [
-      [ "AuthenticateExternalLoginResult", "d4/dd7/class_nu_get_gallery_1_1_authentication_1_1_authenticate_external_login_result.html", "d4/dd7/class_nu_get_gallery_1_1_authentication_1_1_authenticate_external_login_result" ],
-      [ "ExternalLoginSessionDetails", "d8/d7a/class_nu_get_gallery_1_1_authentication_1_1_external_login_session_details.html", "d8/d7a/class_nu_get_gallery_1_1_authentication_1_1_external_login_session_details" ]
-    ] ],
-    [ "AuthenticationController.cs", "d5/da7/_authentication_controller_8cs.html", [
-      [ "AuthenticationController", "d8/d8f/class_nu_get_gallery_1_1_authentication_controller.html", "d8/d8f/class_nu_get_gallery_1_1_authentication_controller" ]
-    ] ],
-    [ "AuthenticationControllerFacts.cs", "d5/d7a/_authentication_controller_facts_8cs.html", [
-      [ "AuthenticationControllerFacts", "da/d73/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts.html", "da/d73/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts" ],
-      [ "TheLogOnAction", "d6/d0f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_on_action.html", "d6/d0f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_on_action" ],
-      [ "TheLogOffAction", "d1/d48/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_off_action.html", "d1/d48/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_log_off_action" ],
-      [ "TheSigninAssistanceAction", "d7/d8c/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_signin_assistance_action.html", "d7/d8c/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_signin_assistance_action" ],
-      [ "TheSignInAction", "d2/d2f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_sign_in_action.html", "d2/d2f/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_sign_in_action" ],
-      [ "TheRegisterAction", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action" ],
-      [ "TheAuthenticateAction", "d2/d60/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_action.html", "d2/d60/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_action" ],
-      [ "TheLinkOrChangeExternalCredentialAction", "d3/d41/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_or_change_external_credential_action.html", "d3/d41/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_or_change_external_credential_action" ],
-      [ "TheAuthenticateExternalAction", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action" ],
-      [ "TheLinkExternalAccountAction", "d7/d61/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_external_account_action.html", "d7/d61/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_link_external_account_action" ],
-      [ "TheShouldEnforceMultiFactorAuthenticationMethod", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50" ],
-      [ "TheShouldChallengeEnforcedProviderMethod", "db/dfe/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_challenge_enforced_provider_method.html", "db/dfe/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_challenge_enforced_provider_method" ]
-    ] ],
-    [ "AuthenticationExtensions.cs", "d6/d10/_authentication_extensions_8cs.html", null ],
-    [ "AuthenticationPolicy.cs", "d9/d4c/_authentication_policy_8cs.html", [
-      [ "AuthenticationPolicy", "dd/dae/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authentication_policy.html", "dd/dae/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authentication_policy" ]
-    ] ],
     [ "AuthenticationProvider.cs", "dc/d8d/_authentication_provider_8cs.html", "dc/d8d/_authentication_provider_8cs" ],
     [ "AuthenticationQueries.cs", "d5/db5/_authentication_queries_8cs.html", null ],
-    [ "AuthenticationService.cs", "d6/d59/_authentication_service_8cs.html", [
-      [ "AuthenticationService", "d3/dba/class_nu_get_gallery_1_1_authentication_1_1_authentication_service.html", "d3/dba/class_nu_get_gallery_1_1_authentication_1_1_authentication_service" ]
-    ] ],
-    [ "AuthenticationServiceFacts.cs", "d6/d06/_authentication_service_facts_8cs.html", [
-      [ "AuthenticationServiceFacts", "d0/d45/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts.html", "d0/d45/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts" ],
-      [ "TheAuthenticatePasswordMethod", "db/d77/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_password_method.html", "db/d77/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_password_method" ],
-      [ "TheGetApiKeyCredentialMethod", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method.html", "dc/d26/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_get_api_key_credential_method" ],
-      [ "TheRevokeApiKeyCredentialMethod", "da/d02/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_revoke_api_key_credential_method.html", "da/d02/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_revoke_api_key_credential_method" ],
-      [ "TheIsActiveApiKeyCredentialMethod", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_is_active_api_key_credential_method.html", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_is_active_api_key_credential_method" ],
-      [ "TheAuthenticateApiKeyMethod", "df/d4a/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_api_key_method.html", "df/d4a/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_api_key_method" ],
-      [ "TheAuthenticateMethod", "dc/dfd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_method.html", "dc/dfd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_method" ],
-      [ "TheCreateSessionAsyncMethod", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method.html", "df/df5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_create_session_async_method" ],
-      [ "TheRegisterMethod", "df/df8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_register_method.html", "df/df8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_register_method" ],
-      [ "TheTryReplaceCredentialMethod", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method" ],
-      [ "TheReplaceCredentialMethod", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method" ],
-      [ "TheResetPasswordWithTokenMethod", "db/db3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_reset_password_with_token_method.html", "db/db3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_reset_password_with_token_method" ],
-      [ "TheGeneratePasswordResetTokenMethod", "da/d6e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_generate_password_reset_token_method.html", "da/d6e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_generate_password_reset_token_method" ],
-      [ "TheChangePasswordMethod", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method.html", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method" ],
-      [ "TheChallengeMethod", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method.html", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method" ],
-      [ "TheAddCredentialMethod", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method.html", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method" ],
-      [ "TheDescribeCredentialMethod", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method" ],
-      [ "TheRemoveCredentialMethod", "d9/d7e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method.html", "d9/d7e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_remove_credential_method" ],
-      [ "TheEditCredentialMethod", "d5/d46/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method.html", "d5/d46/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method" ],
-      [ "TheExtractExternalLoginCredentialsMethod", "d8/dc8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_extract_external_login_credentials_method.html", "d8/dc8/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_extract_external_login_credentials_method" ],
-      [ "TheAuthenticateExternalLoginMethod", "d7/d27/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_external_login_method.html", "d7/d27/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_authenticate_external_login_method" ]
-    ] ],
-    [ "AuthenticationTypes.cs", "d3/d23/_authentication_types_8cs.html", null ],
-    [ "Authenticator.cs", "d1/d0c/_authenticator_8cs.html", [
-      [ "Authenticator", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator" ]
-    ] ],
-    [ "AuthenticatorConfiguration.cs", "d8/d27/_authenticator_configuration_8cs.html", [
-      [ "AuthenticatorConfiguration", "d7/d83/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_configuration.html", "d7/d83/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_configuration" ]
-    ] ],
-    [ "AuthenticatorFacts.cs", "d5/d09/_authenticator_facts_8cs.html", [
-      [ "AuthenticatorFacts", "d2/d85/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts.html", [
-        [ "TheAuthenticatorOfTCreateConfigObjectOverride", "d1/def/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_authenticator_of_t_create_config_object_override.html", "d1/def/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_authenticator_of_t_create_config_object_override" ],
-        [ "TheConstructor", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_constructor.html", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_constructor" ],
-        [ "TheGetAllAvailableMethod", "d8/d6a/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_get_all_available_method.html", "d8/d6a/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_get_all_available_method" ],
-        [ "TheNameProperty", "d6/d51/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_name_property.html", "d6/d51/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_name_property" ],
-        [ "TheStartupMethod", "d0/da1/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_startup_method.html", "d0/da1/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_startup_method" ]
-      ] ],
-      [ "TheNameProperty", "d6/d51/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_name_property.html", "d6/d51/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_name_property" ],
-      [ "TheConstructor", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_constructor.html", "dc/d6d/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_constructor" ],
-      [ "TheStartupMethod", "d0/da1/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_startup_method.html", "d0/da1/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_startup_method" ],
-      [ "TheGetAllAvailableMethod", "d8/d6a/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_get_all_available_method.html", "d8/d6a/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_get_all_available_method" ],
-      [ "TheAuthenticatorOfTCreateConfigObjectOverride", "d1/def/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_authenticator_of_t_create_config_object_override.html", "d1/def/class_nu_get_gallery_1_1_authentication_1_1_authenticator_facts_1_1_the_authenticator_of_t_create_config_object_override" ]
-    ] ],
-    [ "AuthenticatorT.cs", "d4/db3/_authenticator_t_8cs.html", [
-      [ "Authenticator", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator.html", "d9/d20/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator" ]
-    ] ],
-    [ "AuthenticatorUI.cs", "d4/d89/_authenticator_u_i_8cs.html", [
-      [ "AuthenticatorUI", "dd/dc1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_u_i.html", "dd/dc1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_authenticator_u_i" ]
-    ] ],
     [ "AuthorizationQueries.cs", "d3/d28/_authorization_queries_8cs.html", null ],
     [ "AuthService.cs", "de/d12/_auth_service_8cs.html", [
       [ "AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service" ]
-    ] ],
-    [ "AutocompleteDatabasePackageIdsQuery.cs", "d9/ddb/_autocomplete_database_package_ids_query_8cs.html", [
-      [ "AutocompleteDatabasePackageIdsQuery", "da/d8c/class_nu_get_gallery_1_1_autocomplete_database_package_ids_query.html", "da/d8c/class_nu_get_gallery_1_1_autocomplete_database_package_ids_query" ]
-    ] ],
-    [ "AutocompleteDatabasePackageIdsQueryFacts.cs", "d4/dff/_autocomplete_database_package_ids_query_facts_8cs.html", [
-      [ "AutocompleteDatabasePackageIdsQueryFacts", "d2/df0/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts.html", [
-        [ "Constructor", "da/d40/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_constructor.html", "da/d40/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_constructor" ],
-        [ "Execute", "db/d6a/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_execute.html", "db/d6a/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_execute" ],
-        [ "FactBase", "dc/d7e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_fact_base.html", "dc/d7e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_fact_base" ]
-      ] ],
-      [ "Constructor", "da/d40/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_constructor.html", "da/d40/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_constructor" ],
-      [ "Execute", "db/d6a/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_execute.html", "db/d6a/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_execute" ],
-      [ "FactBase", "dc/d7e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_fact_base.html", "dc/d7e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_ids_query_facts_1_1_fact_base" ]
-    ] ],
-    [ "AutocompleteDatabasePackageVersionsQuery.cs", "d3/d0c/_autocomplete_database_package_versions_query_8cs.html", [
-      [ "AutocompleteDatabasePackageVersionsQuery", "dc/d4a/class_nu_get_gallery_1_1_autocomplete_database_package_versions_query.html", "dc/d4a/class_nu_get_gallery_1_1_autocomplete_database_package_versions_query" ]
-    ] ],
-    [ "AutocompleteDatabasePackageVersionsQueryFacts.cs", "d1/db2/_autocomplete_database_package_versions_query_facts_8cs.html", [
-      [ "AutocompleteDatabasePackageVersionsQueryFacts", "de/d54/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts.html", [
-        [ "Constructor", "db/dfb/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_constructor.html", "db/dfb/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_constructor" ],
-        [ "Execute", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute" ],
-        [ "FactBase", "de/d4e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_fact_base.html", "de/d4e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_fact_base" ]
-      ] ],
-      [ "Constructor", "db/dfb/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_constructor.html", "db/dfb/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_constructor" ],
-      [ "Execute", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute" ],
-      [ "FactBase", "de/d4e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_fact_base.html", "de/d4e/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_fact_base" ]
-    ] ],
-    [ "AutocompleteServicePackageIdsQuery.cs", "dc/dc5/_autocomplete_service_package_ids_query_8cs.html", [
-      [ "AutocompleteServicePackageIdsQuery", "dc/da6/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query.html", "dc/da6/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query" ]
-    ] ],
-    [ "AutocompleteServicePackageIdsQueryFacts.cs", "dd/db6/_autocomplete_service_package_ids_query_facts_8cs.html", [
-      [ "AutocompleteServicePackageIdsQueryFacts", "d7/d37/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query_facts.html", "d7/d37/class_nu_get_gallery_1_1_autocomplete_service_package_ids_query_facts" ]
-    ] ],
-    [ "AutocompleteServicePackageVersionsQuery.cs", "d8/db0/_autocomplete_service_package_versions_query_8cs.html", [
-      [ "AutocompleteServicePackageVersionsQuery", "d4/d3b/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query.html", "d4/d3b/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query" ]
-    ] ],
-    [ "AutocompleteServicePackageVersionsQueryFacts.cs", "df/d34/_autocomplete_service_package_versions_query_facts_8cs.html", [
-      [ "AutocompleteServicePackageVersionsQueryFacts", "d5/dd5/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query_facts.html", "d5/dd5/class_nu_get_gallery_1_1_autocomplete_service_package_versions_query_facts" ]
-    ] ],
-    [ "AutocompleteServiceQuery.cs", "da/d1c/_autocomplete_service_query_8cs.html", [
-      [ "AutocompleteServiceQuery", "d8/d16/class_nu_get_gallery_1_1_autocomplete_service_query.html", "d8/d16/class_nu_get_gallery_1_1_autocomplete_service_query" ]
-    ] ],
-    [ "AutocompleteServiceQueryFacts.cs", "dc/dcb/_autocomplete_service_query_facts_8cs.html", [
-      [ "AutocompleteServiceQueryFacts", "d5/d6e/class_nu_get_gallery_1_1_autocomplete_service_query_facts.html", "d5/d6e/class_nu_get_gallery_1_1_autocomplete_service_query_facts" ]
-    ] ],
-    [ "AutofacConfig.cs", "df/dd3/_autofac_config_8cs.html", null ],
-    [ "AutomaticallyOverwriteRequiredSignerPolicyFacts.cs", "db/d45/_automatically_overwrite_required_signer_policy_facts_8cs.html", [
-      [ "AutomaticallyOverwriteRequiredSignerPolicyFacts", "d8/db4/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy_facts.html", "d8/db4/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy_facts" ]
-    ] ],
-    [ "AutomaticOverwriteRequiredSignerPolicy.cs", "df/de4/_automatic_overwrite_required_signer_policy_8cs.html", [
-      [ "AutomaticallyOverwriteRequiredSignerPolicy", "d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy.html", "d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy" ]
     ] ],
     [ "AvailabilityDateType.cs", "db/dfc/_availability_date_type_8cs.html", [
       [ "AvailabilityDateType", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_availability_date_type.html", null ]
@@ -2340,28 +957,6 @@ var files_dup =
     [ "AwardTimeType.cs", "d5/d21/_award_time_type_8cs.html", [
       [ "AwardTimeType", "d3/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_award_time_type.html", null ]
     ] ],
-    [ "AzureActiveDirectoryAuthenticator.cs", "de/d6c/_azure_active_directory_authenticator_8cs.html", [
-      [ "AzureActiveDirectoryAuthenticator", "d3/de9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_active_directory_authenticator.html", "d3/de9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_active_directory_authenticator" ]
-    ] ],
-    [ "AzureActiveDirectoryAuthenticatorConfiguration.cs", "d8/dee/_azure_active_directory_authenticator_configuration_8cs.html", [
-      [ "AzureActiveDirectoryAuthenticatorConfiguration", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483.html", "dc/d55/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_1_1_azure_activa31af27366a60032f151a09219944483" ]
-    ] ],
-    [ "AzureActiveDirectoryV2Authenticator.cs", "d1/d7e/_azure_active_directory_v2_authenticator_8cs.html", [
-      [ "AzureActiveDirectoryV2Authenticator", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator.html", "d1/d8e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_active_directory_v2_authenticator" ]
-    ] ],
-    [ "AzureActiveDirectoryV2AuthenticatorConfiguration.cs", "de/dc9/_azure_active_directory_v2_authenticator_configuration_8cs.html", [
-      [ "AzureActiveDirectoryV2AuthenticatorConfiguration", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec.html", "d5/dd9/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac45ae45709253468af3bbc736005ba2ec" ]
-    ] ],
-    [ "AzureActiveDirectoryV2AuthenticatorFacts.cs", "d5/daa/_azure_active_directory_v2_authenticator_facts_8cs.html", [
-      [ "AzureActiveDirectoryV2AuthenticatorFacts", "d6/dff/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acf61760758d02cd1ca4b96caad7799bd2.html", [
-        [ "TheGetAuthInformaitonMethod", "db/df1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac72bb70828b9760a61967c3e9e197db9f.html", "db/df1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac72bb70828b9760a61967c3e9e197db9f" ],
-        [ "TheGetUIMethod", "de/d5e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_aca8f07d62eb28e24eaabcebd101132e6c.html", "de/d5e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_aca8f07d62eb28e24eaabcebd101132e6c" ],
-        [ "TheIsAuthorityForIdentityMethod", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1" ]
-      ] ],
-      [ "TheGetUIMethod", "de/d5e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_aca8f07d62eb28e24eaabcebd101132e6c.html", "de/d5e/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_aca8f07d62eb28e24eaabcebd101132e6c" ],
-      [ "TheIsAuthorityForIdentityMethod", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1" ],
-      [ "TheGetAuthInformaitonMethod", "db/df1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac72bb70828b9760a61967c3e9e197db9f.html", "db/df1/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_ac72bb70828b9760a61967c3e9e197db9f" ]
-    ] ],
     [ "AzureAd.cs", "d0/d25/_azure_ad_8cs.html", [
       [ "AzureAd", "d6/d19/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_1_1_azure_ad.html", "d6/d19/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_1_1_azure_ad" ]
     ] ],
@@ -2374,31 +969,14 @@ var files_dup =
     [ "AzureAppInsightIntegrationOptions.cs", "dc/dea/_azure_app_insight_integration_options_8cs.html", [
       [ "AzureAppInsightIntegrationOptions", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651" ]
     ] ],
-    [ "AzureEntityList.cs", "d4/d03/_azure_entity_list_8cs.html", [
-      [ "AzureEntityList", "de/dea/class_nu_get_gallery_1_1_infrastructure_1_1_azure_entity_list.html", "de/dea/class_nu_get_gallery_1_1_infrastructure_1_1_azure_entity_list" ]
-    ] ],
     [ "AzureStorageIntegrationOptions.cs", "de/dc2/_azure_storage_integration_options_8cs.html", [
       [ "AzureStorageIntegrationOptions", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9.html", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9" ]
     ] ],
     [ "B2CDecodedToken.cs", "d3/de9/_b2_c_decoded_token_8cs.html", [
       [ "B2CDecodedToken", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_b2_c_decoded_token.html", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_b2_c_decoded_token" ]
     ] ],
-    [ "BackfillCommand.cs", "dd/d54/_backfill_command_8cs.html", [
-      [ "BackfillCommand", "d9/d3f/class_gallery_tools_1_1_commands_1_1_backfill_command.html", "d9/d3f/class_gallery_tools_1_1_commands_1_1_backfill_command" ],
-      [ "PackageMetadata", "d3/d80/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata.html", "d3/d80/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata" ],
-      [ "PackageMetadataClassMap", "d9/de4/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata_class_map.html", "d9/de4/class_gallery_tools_1_1_commands_1_1_backfill_command_1_1_package_metadata_class_map" ]
-    ] ],
-    [ "BackfillDevelopmentDependencyMetadataCommand.cs", "d3/d46/_backfill_development_dependency_metadata_command_8cs.html", [
-      [ "BackfillDevelopmentDependencyCommand", "d2/d95/class_gallery_tools_1_1_commands_1_1_backfill_development_dependency_command.html", "d2/d95/class_gallery_tools_1_1_commands_1_1_backfill_development_dependency_command" ]
-    ] ],
-    [ "BackfillRepositoryMetadataCommand.cs", "d0/d95/_backfill_repository_metadata_command_8cs.html", [
-      [ "BackfillRepositoryMetadataCommand", "da/df0/class_gallery_tools_1_1_commands_1_1_backfill_repository_metadata_command.html", "da/df0/class_gallery_tools_1_1_commands_1_1_backfill_repository_metadata_command" ]
-    ] ],
     [ "Background.cs", "d8/dcb/_background_8cs.html", [
       [ "Background", "d5/d92/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_background.html", "d5/d92/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_background" ]
-    ] ],
-    [ "BackgroundMarkdownMessageService.cs", "d6/dc8/_background_markdown_message_service_8cs.html", [
-      [ "BackgroundMarkdownMessageService", "d6/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_background_markdown_message_service.html", "d6/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_background_markdown_message_service" ]
     ] ],
     [ "BackgroundOptions.cs", "d5/d16/_background_options_8cs.html", [
       [ "BackgroundOptions", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options.html", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options" ]
@@ -2440,15 +1018,8 @@ var files_dup =
     [ "BarcodeSymbologyIDType.cs", "dd/d41/_barcode_symbology_i_d_type_8cs.html", [
       [ "BarcodeSymbologyIDType", "d5/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_barcode_symbology_i_d_type.html", null ]
     ] ],
-    [ "Base32Encoder.cs", "d3/d70/_base32_encoder_8cs.html", null ],
-    [ "Base32EncoderTests.cs", "d8/d8b/_base32_encoder_tests_8cs.html", [
-      [ "Base32EncoderTests", "da/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_base32_encoder_tests.html", "da/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_base32_encoder_tests" ]
-    ] ],
     [ "BaseAmountType.cs", "df/d91/_base_amount_type_8cs.html", [
       [ "BaseAmountType", "d1/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_base_amount_type.html", null ]
-    ] ],
-    [ "BaseDbMigrationContext.cs", "d2/d0a/_base_db_migration_context_8cs.html", [
-      [ "BaseDbMigrationContext", "d8/d71/class_nu_get_1_1_services_1_1_database_migration_1_1_base_db_migration_context.html", "d8/d71/class_nu_get_1_1_services_1_1_database_migration_1_1_base_db_migration_context" ]
     ] ],
     [ "BasedOnConsensusIndicatorType.cs", "de/dec/_based_on_consensus_indicator_type_8cs.html", [
       [ "BasedOnConsensusIndicatorType", "da/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_based_on_consensus_indicator_type.html", null ]
@@ -2468,14 +1039,8 @@ var files_dup =
     [ "BaseUnitMeasureType.cs", "df/ddb/_base_unit_measure_type_8cs.html", [
       [ "BaseUnitMeasureType", "d7/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_base_unit_measure_type.html", null ]
     ] ],
-    [ "BaseUserEvaluator.cs", "df/d91/_base_user_evaluator_8cs.html", [
-      [ "BaseUserEvaluator", "d9/db5/class_nu_get_gallery_1_1_account_deleter_1_1_base_user_evaluator.html", "d9/db5/class_nu_get_gallery_1_1_account_deleter_1_1_base_user_evaluator" ]
-    ] ],
     [ "BasicConsumedQuantityType.cs", "dd/ddc/_basic_consumed_quantity_type_8cs.html", [
       [ "BasicConsumedQuantityType", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_basic_consumed_quantity_type.html", null ]
-    ] ],
-    [ "BasicUserViewModel.cs", "d1/d72/_basic_user_view_model_8cs.html", [
-      [ "BasicUserViewModel", "db/d65/class_nu_get_gallery_1_1_basic_user_view_model.html", "db/d65/class_nu_get_gallery_1_1_basic_user_view_model" ]
     ] ],
     [ "BatchQuantityType.cs", "d1/ddb/_batch_quantity_type_8cs.html", [
       [ "BatchQuantityType", "dd/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_batch_quantity_type.html", null ]
@@ -2529,21 +1094,9 @@ var files_dup =
     [ "BlazorOptions.cs", "df/d3e/_blazor_options_8cs.html", [
       [ "BlazorOptions", "dd/d14/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_s_p_as_1_1_blazor_options.html", "dd/d14/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_s_p_as_1_1_blazor_options" ]
     ] ],
-    [ "BlobResultSegmentWrapper.cs", "d1/d29/_blob_result_segment_wrapper_8cs.html", [
-      [ "BlobResultSegmentWrapper", "d8/dcc/class_nu_get_gallery_1_1_blob_result_segment_wrapper.html", "d8/dcc/class_nu_get_gallery_1_1_blob_result_segment_wrapper" ]
-    ] ],
     [ "BlobStorage.cs", "d4/d77/_blob_storage_8cs.html", null ],
-    [ "BlobStorageCollection.cs", "d7/dc0/_blob_storage_collection_8cs.html", [
-      [ "BlobStorageCollection", "df/d8a/class_nu_get_gallery_1_1_blob_storage_collection.html", null ]
-    ] ],
     [ "BlobStorageDataAccessClient.cs", "d3/d5e/_blob_storage_data_access_client_8cs.html", [
       [ "BlobStorageDataAccessClient", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client.html", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client" ]
-    ] ],
-    [ "BlobStorageFact.cs", "d8/d3b/_blob_storage_fact_8cs.html", [
-      [ "BlobStorageFact", "d9/d65/class_nu_get_gallery_1_1_blob_storage_fact.html", "d9/d65/class_nu_get_gallery_1_1_blob_storage_fact" ]
-    ] ],
-    [ "BlobStorageFixture.cs", "d3/d3f/_blob_storage_fixture_8cs.html", [
-      [ "BlobStorageFixture", "d9/dd4/class_nu_get_gallery_1_1_blob_storage_fixture.html", "d9/dd4/class_nu_get_gallery_1_1_blob_storage_fixture" ]
     ] ],
     [ "BlockNameType.cs", "d6/dd3/_block_name_type_8cs.html", [
       [ "BlockNameType", "d1/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_block_name_type.html", null ]
@@ -2583,24 +1136,6 @@ var files_dup =
       [ "BlogPostTag", "d7/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_posts_1_1_tags_1_1_blog_post_tag.html", null ],
       [ "BlogPostTagRecord", "d0/d85/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_posts_1_1_tags_1_1_blog_post_tag_record.html", "d0/d85/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_posts_1_1_tags_1_1_blog_post_tag_record" ]
     ] ],
-    [ "FieldTemplates/Boolean.ascx.cs", "dc/d6e/_field_templates_2_boolean_8ascx_8cs.html", [
-      [ "BooleanField", "dd/db0/class_nu_get_gallery_1_1_boolean_field.html", "dd/db0/class_nu_get_gallery_1_1_boolean_field" ]
-    ] ],
-    [ "Filters/Boolean.ascx.cs", "de/dd9/_filters_2_boolean_8ascx_8cs.html", [
-      [ "BooleanFilter", "db/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_boolean_filter.html", "db/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_boolean_filter" ]
-    ] ],
-    [ "FieldTemplates/Boolean.ascx.designer.cs", "d3/d2a/_field_templates_2_boolean_8ascx_8designer_8cs.html", [
-      [ "BooleanField", "dd/db0/class_nu_get_gallery_1_1_boolean_field.html", "dd/db0/class_nu_get_gallery_1_1_boolean_field" ]
-    ] ],
-    [ "Filters/Boolean.ascx.designer.cs", "d4/d71/_filters_2_boolean_8ascx_8designer_8cs.html", [
-      [ "BooleanFilter", "db/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_boolean_filter.html", "db/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_boolean_filter" ]
-    ] ],
-    [ "Boolean_Edit.ascx.cs", "d6/dc6/_boolean___edit_8ascx_8cs.html", [
-      [ "Boolean_EditField", "d8/d24/class_nu_get_gallery_1_1_boolean___edit_field.html", "d8/d24/class_nu_get_gallery_1_1_boolean___edit_field" ]
-    ] ],
-    [ "Boolean_Edit.ascx.designer.cs", "d7/d76/_boolean___edit_8ascx_8designer_8cs.html", [
-      [ "Boolean_EditField", "d8/d24/class_nu_get_gallery_1_1_boolean___edit_field.html", "d8/d24/class_nu_get_gallery_1_1_boolean___edit_field" ]
-    ] ],
     [ "BotAdapterWithErrorHandler.cs", "d2/d86/_bot_adapter_with_error_handler_8cs.html", [
       [ "BotAdapterWithErrorHandler", "da/d65/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler.html", "da/d65/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler" ]
     ] ],
@@ -2637,9 +1172,6 @@ var files_dup =
     ] ],
     [ "BrandingOptions.cs", "d1/dd5/_branding_options_8cs.html", [
       [ "BrandingOptions", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options.html", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options" ]
-    ] ],
-    [ "BrandingValidationTest.cs", "d2/dc9/_branding_validation_test_8cs.html", [
-      [ "BrandingValidationTest", "df/df1/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_branding_validation_test.html", "df/df1/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_branding_validation_test" ]
     ] ],
     [ "BrandNameType.cs", "db/d8e/_brand_name_type_8cs.html", [
       [ "BrandNameType", "d3/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_brand_name_type.html", null ]
@@ -2872,17 +1404,8 @@ var files_dup =
     [ "BuyerReferenceType.cs", "db/d9d/_buyer_reference_type_8cs.html", [
       [ "BuyerReferenceType", "d5/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_buyer_reference_type.html", null ]
     ] ],
-    [ "CacheConfiguration.cs", "d9/db1/_cache_configuration_8cs.html", [
-      [ "CacheConfiguration", "de/d9f/class_nu_get_gallery_1_1_services_1_1_cache_configuration.html", "de/d9f/class_nu_get_gallery_1_1_services_1_1_cache_configuration" ]
-    ] ],
-    [ "CacheFilter.cs", "d7/da6/_cache_filter_8cs.html", [
-      [ "CacheFilterAttribute", "d5/d1a/class_nu_get_gallery_1_1_filters_1_1_cache_filter_attribute.html", "d5/d1a/class_nu_get_gallery_1_1_filters_1_1_cache_filter_attribute" ]
-    ] ],
     [ "CachingOptions.cs", "de/d60/_caching_options_8cs.html", [
       [ "CachingOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options.html", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options" ]
-    ] ],
-    [ "CachingTests.cs", "d9/db0/_caching_tests_8cs.html", [
-      [ "CachingTests", "db/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_api_management_1_1_caching_tests.html", "db/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_api_management_1_1_caching_tests" ]
     ] ],
     [ "CalculationExpressionCodeType.cs", "d8/d95/_calculation_expression_code_type_8cs.html", [
       [ "CalculationExpressionCodeType", "d1/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_calculation_expression_code_type.html", null ]
@@ -3030,12 +1553,6 @@ var files_dup =
     [ "CategoriesShowcaseViewComponent.cs", "d5/d46/_categories_showcase_view_component_8cs.html", [
       [ "CategoriesShowcaseViewComponent", "df/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_categories_showcase_view_component.html", "df/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_categories_showcase_view_component" ]
     ] ],
-    [ "CategoryAttribute.cs", "d3/d45/_category_attribute_8cs.html", [
-      [ "CategoryAttribute", "d3/d27/class_nu_get_gallery_1_1_functional_tests_1_1_category_attribute.html", "d3/d27/class_nu_get_gallery_1_1_functional_tests_1_1_category_attribute" ]
-    ] ],
-    [ "CategoryDiscoverer.cs", "d7/de3/_category_discoverer_8cs.html", [
-      [ "CategoryDiscoverer", "d4/d2a/class_nu_get_gallery_1_1_functional_tests_1_1_category_discoverer.html", "d4/d2a/class_nu_get_gallery_1_1_functional_tests_1_1_category_discoverer" ]
-    ] ],
     [ "CategoryNameType.cs", "d9/df7/_category_name_type_8cs.html", [
       [ "CategoryNameType", "d3/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_category_name_type.html", null ]
     ] ],
@@ -3048,38 +1565,11 @@ var files_dup =
     [ "CertIDType.cs", "db/d3a/_cert_i_d_type_8cs.html", [
       [ "CertIDType", "d2/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_cert_i_d_type.html", "d2/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_cert_i_d_type" ]
     ] ],
-    [ "Certificate.cs", "d2/d47/_certificate_8cs.html", [
-      [ "Certificate", "de/dcf/class_nu_get_1_1_services_1_1_entities_1_1_certificate.html", "de/dcf/class_nu_get_1_1_services_1_1_entities_1_1_certificate" ]
-    ] ],
-    [ "CertificateAuditRecord.cs", "d4/d01/_certificate_audit_record_8cs.html", [
-      [ "CertificateAuditRecord", "d6/d50/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record.html", "d6/d50/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record" ]
-    ] ],
-    [ "CertificateAuditRecordFacts.cs", "d1/dfd/_certificate_audit_record_facts_8cs.html", [
-      [ "CertificateAuditRecordFacts", "d2/d57/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record_facts.html", "d2/d57/class_nu_get_gallery_1_1_auditing_1_1_certificate_audit_record_facts" ]
-    ] ],
-    [ "CertificateFile.cs", "d0/de3/_certificate_file_8cs.html", [
-      [ "CertificateFile", "d9/d38/class_nu_get_gallery_1_1_certificate_file.html", "d9/d38/class_nu_get_gallery_1_1_certificate_file" ]
-    ] ],
-    [ "CertificateFileFacts.cs", "d4/d5d/_certificate_file_facts_8cs.html", [
-      [ "CertificateFileFacts", "db/ddf/class_nu_get_gallery_1_1_certificates_1_1_certificate_file_facts.html", "db/ddf/class_nu_get_gallery_1_1_certificates_1_1_certificate_file_facts" ]
-    ] ],
     [ "CertificateOfOriginApplicationType.cs", "da/d68/_certificate_of_origin_application_type_8cs.html", [
       [ "CertificateOfOriginApplicationType", "de/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_application_type.html", "de/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_application_type" ]
     ] ],
     [ "CertificateOfOriginType.cs", "d8/d41/_certificate_of_origin_type_8cs.html", [
       [ "CertificateOfOriginType", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_type.html", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_of_origin_type" ]
-    ] ],
-    [ "CertificatesConfiguration.cs", "dc/d30/_certificates_configuration_8cs.html", [
-      [ "CertificatesConfiguration", "dd/d79/class_nu_get_gallery_1_1_services_1_1_certificates_configuration.html", "dd/d79/class_nu_get_gallery_1_1_services_1_1_certificates_configuration" ]
-    ] ],
-    [ "CertificatesConfigurationFacts.cs", "d3/d25/_certificates_configuration_facts_8cs.html", [
-      [ "CertificatesConfigurationFacts", "df/d0d/class_nu_get_gallery_1_1_services_1_1_certificates_configuration_facts.html", "df/d0d/class_nu_get_gallery_1_1_services_1_1_certificates_configuration_facts" ]
-    ] ],
-    [ "CertificateService.cs", "d4/da8/_certificate_service_8cs.html", [
-      [ "CertificateService", "dd/dfc/class_nu_get_gallery_1_1_certificate_service.html", "dd/dfc/class_nu_get_gallery_1_1_certificate_service" ]
-    ] ],
-    [ "CertificateServiceFacts.cs", "dc/d33/_certificate_service_facts_8cs.html", [
-      [ "CertificateServiceFacts", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts" ]
     ] ],
     [ "CertificateType.cs", "d2/dc4/_certificate_type_8cs.html", [
       [ "CertificateType", "d3/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_type.html", "d3/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_type" ]
@@ -3090,17 +1580,8 @@ var files_dup =
     [ "CertificateTypeType.cs", "d9/da4/_certificate_type_type_8cs.html", [
       [ "CertificateTypeType", "d0/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_type_type.html", null ]
     ] ],
-    [ "CertificateValidator.cs", "d6/d6e/_certificate_validator_8cs.html", [
-      [ "CertificateValidator", "d4/daa/class_nu_get_gallery_1_1_certificate_validator.html", "d4/daa/class_nu_get_gallery_1_1_certificate_validator" ]
-    ] ],
-    [ "CertificateValidatorFacts.cs", "db/da4/_certificate_validator_facts_8cs.html", [
-      [ "CertificateValidatorFacts", "d9/d14/class_nu_get_gallery_1_1_services_1_1_certificate_validator_facts.html", "d9/d14/class_nu_get_gallery_1_1_services_1_1_certificate_validator_facts" ]
-    ] ],
     [ "CertificateValuesType.cs", "d6/d29/_certificate_values_type_8cs.html", [
       [ "CertificateValuesType", "d7/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_values_type.html", "d7/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_certificate_values_type" ]
-    ] ],
-    [ "ChallengeResult.cs", "d7/d80/_challenge_result_8cs.html", [
-      [ "ChallengeResult", "de/d78/class_nu_get_gallery_1_1_challenge_result.html", "de/d78/class_nu_get_gallery_1_1_challenge_result" ]
     ] ],
     [ "ChangeConditionsType.cs", "d0/d25/_change_conditions_type_8cs.html", [
       [ "ChangeConditionsType", "d7/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_change_conditions_type.html", null ]
@@ -3108,16 +1589,7 @@ var files_dup =
     [ "ChangedResponseModel.cs", "dd/d15/_changed_response_model_8cs.html", [
       [ "ChangedResponseModel", "d2/d5e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_changed_response_model.html", "d2/d5e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_changed_response_model" ]
     ] ],
-    [ "ChangeEmailViewModel.cs", "d1/d7e/_change_email_view_model_8cs.html", [
-      [ "ChangeEmailViewModel", "d4/d79/class_nu_get_gallery_1_1_change_email_view_model.html", "d4/d79/class_nu_get_gallery_1_1_change_email_view_model" ]
-    ] ],
-    [ "ChangeNotificationsViewModel.cs", "db/d7d/_change_notifications_view_model_8cs.html", [
-      [ "ChangeNotificationsViewModel", "d7/d2e/class_nu_get_gallery_1_1_change_notifications_view_model.html", "d7/d2e/class_nu_get_gallery_1_1_change_notifications_view_model" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/ViewModels/ChangePasswordViewModel.cs", "df/d2c/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_view_m0a03c53115da2033dd47ee450af4628f.html", [
-      [ "ChangePasswordViewModel", "d5/d8c/class_nu_get_gallery_1_1_change_password_view_model.html", "d5/d8c/class_nu_get_gallery_1_1_change_password_view_model" ]
-    ] ],
-    [ "FenixAlliance.APS/FenixAlliance.APS.Core/ViewModels/ManageViewModels/ChangePasswordViewModel.cs", "d1/d2a/_fenix_alliance_8_a_p_s_2_fenix_alliance_8_a_p_s_8_core_2_view_models_2_manage_view_models_2_change_password_view_model_8cs.html", [
+    [ "ChangePasswordViewModel.cs", "df/dc4/_change_password_view_model_8cs.html", [
       [ "ChangePasswordViewModel", "dd/d5e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_change_password_view_model.html", "dd/d5e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_change_password_view_model" ]
     ] ],
     [ "ChannelCodeType.cs", "dd/ded/_channel_code_type_8cs.html", [
@@ -3172,18 +1644,6 @@ var files_dup =
     [ "ChildConsignmentQuantityType.cs", "d7/dbe/_child_consignment_quantity_type_8cs.html", [
       [ "ChildConsignmentQuantityType", "d0/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_child_consignment_quantity_type.html", null ]
     ] ],
-    [ "Children.ascx.cs", "d2/db0/_children_8ascx_8cs.html", [
-      [ "ChildrenField", "d5/d91/class_nu_get_gallery_1_1_children_field.html", "d5/d91/class_nu_get_gallery_1_1_children_field" ]
-    ] ],
-    [ "Children.ascx.designer.cs", "d5/d33/_children_8ascx_8designer_8cs.html", [
-      [ "ChildrenField", "d5/d91/class_nu_get_gallery_1_1_children_field.html", "d5/d91/class_nu_get_gallery_1_1_children_field" ]
-    ] ],
-    [ "Children_Insert.ascx.cs", "da/d93/_children___insert_8ascx_8cs.html", [
-      [ "Children_InsertField", "df/d8c/class_nu_get_gallery_1_1_children___insert_field.html", null ]
-    ] ],
-    [ "Children_Insert.ascx.designer.cs", "d3/d2f/_children___insert_8ascx_8designer_8cs.html", [
-      [ "Children_InsertField", "df/d8c/class_nu_get_gallery_1_1_children___insert_field.html", null ]
-    ] ],
     [ "ChipApplicationIDType.cs", "de/d7a/_chip_application_i_d_type_8cs.html", [
       [ "ChipApplicationIDType", "d0/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_chip_application_i_d_type.html", null ]
     ] ],
@@ -3199,10 +1659,6 @@ var files_dup =
     [ "CitySubdivisionNameType.cs", "d0/d8b/_city_subdivision_name_type_8cs.html", [
       [ "CitySubdivisionNameType", "da/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_city_subdivision_name_type.html", null ]
     ] ],
-    [ "ClaimsExtensions.cs", "d9/d6b/_claims_extensions_8cs.html", null ],
-    [ "Class1.cs", "de/de6/_class1_8cs.html", [
-      [ "Class1", "dd/dcd/class_fenix_alliance_1_1_a_p_s_1_1_s_d_k_1_1_class1.html", null ]
-    ] ],
     [ "ClassificationCategoryType.cs", "d6/db5/_classification_category_type_8cs.html", [
       [ "ClassificationCategoryType", "dc/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_classification_category_type.html", "dc/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_classification_category_type" ]
     ] ],
@@ -3211,95 +1667,6 @@ var files_dup =
     ] ],
     [ "ClauseType.cs", "dd/d36/_clause_type_8cs.html", [
       [ "ClauseType", "d7/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_clause_type.html", "d7/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_clause_type" ]
-    ] ],
-    [ "ClearMachineCacheFixture.cs", "da/d84/_clear_machine_cache_fixture_8cs.html", [
-      [ "ClearMachineCacheFixture", "d7/d99/class_nu_get_gallery_1_1_functional_tests_1_1_clear_machine_cache_fixture.html", "d7/d99/class_nu_get_gallery_1_1_functional_tests_1_1_clear_machine_cache_fixture" ]
-    ] ],
-    [ "ClientInformationTelemetryEnricher.cs", "d1/dc9/_client_information_telemetry_enricher_8cs.html", [
-      [ "ClientInformationTelemetryEnricher", "de/d31/class_nu_get_gallery_1_1_client_information_telemetry_enricher.html", "de/d31/class_nu_get_gallery_1_1_client_information_telemetry_enricher" ]
-    ] ],
-    [ "ClientInformationTelemetryEnricherTests.cs", "d4/db5/_client_information_telemetry_enricher_tests_8cs.html", [
-      [ "ClientInformationTelemetryEnricherTests", "d2/da9/class_nu_get_gallery_1_1_telemetry_1_1_client_information_telemetry_enricher_tests.html", "d2/da9/class_nu_get_gallery_1_1_telemetry_1_1_client_information_telemetry_enricher_tests" ]
-    ] ],
-    [ "ClientSdkHelper.cs", "dd/d67/_client_sdk_helper_8cs.html", [
-      [ "ClientSdkHelper", "d2/d44/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper.html", "d2/d44/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper" ],
-      [ "PackageInfo", "df/d5b/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper_1_1_package_info.html", "df/d5b/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper_1_1_package_info" ]
-    ] ],
-    [ "ClientTelemetryPIIProcessor.cs", "dc/dc6/_client_telemetry_p_i_i_processor_8cs.html", [
-      [ "ClientTelemetryPIIProcessor", "d0/d6b/class_nu_get_gallery_1_1_client_telemetry_p_i_i_processor.html", "d0/d6b/class_nu_get_gallery_1_1_client_telemetry_p_i_i_processor" ]
-    ] ],
-    [ "ClientTelemetryPIIProcessorTests.cs", "de/d27/_client_telemetry_p_i_i_processor_tests_8cs.html", [
-      [ "ClientTelemetryPIIProcessorTests", "dd/d55/class_nu_get_gallery_1_1_telemetry_1_1_client_telemetry_p_i_i_processor_tests.html", "dd/d55/class_nu_get_gallery_1_1_telemetry_1_1_client_telemetry_p_i_i_processor_tests" ]
-    ] ],
-    [ "CloudAuditingService.cs", "dc/d1f/_cloud_auditing_service_8cs.html", [
-      [ "CloudAuditingService", "df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service.html", "df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service" ]
-    ] ],
-    [ "CloudAuditingServiceTests.cs", "dd/d45/_cloud_auditing_service_tests_8cs.html", [
-      [ "CloudAuditingServiceTests", "df/d05/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service_tests.html", "df/d05/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service_tests" ]
-    ] ],
-    [ "CloudBlobClientWrapper.cs", "d9/d54/_cloud_blob_client_wrapper_8cs.html", [
-      [ "CloudBlobClientWrapper", "dd/d51/class_nu_get_gallery_1_1_cloud_blob_client_wrapper.html", "dd/d51/class_nu_get_gallery_1_1_cloud_blob_client_wrapper" ]
-    ] ],
-    [ "CloudBlobClientWrapperFacts.cs", "d2/d49/_cloud_blob_client_wrapper_facts_8cs.html", [
-      [ "CloudBlobClientWrapperFacts", "dc/d6d/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts.html", [
-        [ "GetBlobFromUri", "d7/de1/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts_1_1_get_blob_from_uri.html", "d7/de1/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts_1_1_get_blob_from_uri" ]
-      ] ],
-      [ "GetBlobFromUri", "d7/de1/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts_1_1_get_blob_from_uri.html", "d7/de1/class_nu_get_gallery_1_1_services_1_1_cloud_blob_client_wrapper_facts_1_1_get_blob_from_uri" ]
-    ] ],
-    [ "CloudBlobContainerWrapper.cs", "d0/da4/_cloud_blob_container_wrapper_8cs.html", [
-      [ "CloudBlobContainerWrapper", "d1/da5/class_nu_get_gallery_1_1_cloud_blob_container_wrapper.html", "d1/da5/class_nu_get_gallery_1_1_cloud_blob_container_wrapper" ]
-    ] ],
-    [ "CloudBlobCoreFileStorageService.cs", "dc/dd8/_cloud_blob_core_file_storage_service_8cs.html", "dc/dd8/_cloud_blob_core_file_storage_service_8cs" ],
-    [ "CloudBlobCoreFileStorageServiceFacts.cs", "dc/d83/_cloud_blob_core_file_storage_service_facts_8cs.html", [
-      [ "CloudBlobCoreFileStorageServiceFacts", "dc/de5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts.html", "dc/de5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts" ],
-      [ "TheCtor", "df/d71/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_ctor.html", "df/d71/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_ctor" ],
-      [ "TheDeletePackageFileMethod", "de/d7d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_delete_package_file_method.html", "de/d7d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_delete_package_file_method" ],
-      [ "TheGetFileMethod", "d0/dfb/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_method.html", "d0/dfb/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_method" ],
-      [ "TheSaveFileMethod", "de/dd7/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_method.html", "de/dd7/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_method" ],
-      [ "TheSaveFileWithAccessConditionMethod", "db/dc5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_with_access_condition_method.html", "db/dc5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_with_access_condition_method" ],
-      [ "TheGetPriviledgedFileUriAsyncMethod", "df/dc0/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_priviledged_file_uri_async_method.html", "df/dc0/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_priviledged_file_uri_async_method" ],
-      [ "TheGetFileReadUriAsyncMethod", "da/d0b/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_read_uri_async_method.html", "da/d0b/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_read_uri_async_method" ],
-      [ "TheCopyFileAsyncMethod", "db/d2d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_copy_file_async_method.html", "db/d2d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_copy_file_async_method" ],
-      [ "TheSetMetadataAsyncMethod", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method" ],
-      [ "TheSetPropertiesAsyncMethod", "d0/d83/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_properties_async_method.html", "d0/d83/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_properties_async_method" ],
-      [ "TheGetETagMethod", "d5/dbe/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_e_tag_method.html", "d5/dbe/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_e_tag_method" ]
-    ] ],
-    [ "CloudBlobCoreFileStorageServiceIntegrationTests.cs", "d1/d45/_cloud_blob_core_file_storage_service_integration_tests_8cs.html", [
-      [ "CloudBlobCoreFileStorageServiceIntegrationTests", "d5/dea/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_integration_tests.html", "d5/dea/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_integration_tests" ]
-    ] ],
-    [ "CloudBlobFileStorageService.cs", "d8/d5a/_cloud_blob_file_storage_service_8cs.html", [
-      [ "CloudBlobFileStorageService", "d6/d63/class_nu_get_gallery_1_1_cloud_blob_file_storage_service.html", "d6/d63/class_nu_get_gallery_1_1_cloud_blob_file_storage_service" ]
-    ] ],
-    [ "CloudBlobFileStorageServiceFacts.cs", "d7/d4f/_cloud_blob_file_storage_service_facts_8cs.html", [
-      [ "CloudBlobFileStorageServiceFacts", "dc/dd8/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts.html", "dc/dd8/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts" ],
-      [ "TheCreateDownloadPackageResultMethod", "da/d21/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts_1_1_the_create_download_package_result_method.html", "da/d21/class_nu_get_gallery_1_1_cloud_blob_file_storage_service_facts_1_1_the_create_download_package_result_method" ]
-    ] ],
-    [ "CloudBlobWrapper.cs", "d7/dae/_cloud_blob_wrapper_8cs.html", [
-      [ "CloudBlobWrapper", "d9/d35/class_nu_get_gallery_1_1_cloud_blob_wrapper.html", "d9/d35/class_nu_get_gallery_1_1_cloud_blob_wrapper" ]
-    ] ],
-    [ "CloudDownloadCountService.cs", "da/da2/_cloud_download_count_service_8cs.html", [
-      [ "CloudDownloadCountService", "df/d17/class_nu_get_gallery_1_1_cloud_download_count_service.html", "df/d17/class_nu_get_gallery_1_1_cloud_download_count_service" ]
-    ] ],
-    [ "CloudDownloadCountServiceFacts.cs", "d9/d02/_cloud_download_count_service_facts_8cs.html", [
-      [ "CloudDownloadCountServiceFacts", "d5/d1e/class_nu_get_gallery_1_1_cloud_download_count_service_facts.html", [
-        [ "BaseFacts", "d5/da2/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_base_facts.html", "d5/da2/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_base_facts" ],
-        [ "TestableCloudDownloadCountService", "d9/db6/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_testable_cloud_download_count_service.html", "d9/db6/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_testable_cloud_download_count_service" ],
-        [ "TheTryGetDownloadCountForPackageMethod", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method" ],
-        [ "TheTryGetDownloadCountForPackageRegistrationMethod", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method" ]
-      ] ],
-      [ "TheTryGetDownloadCountForPackageRegistrationMethod", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method" ],
-      [ "TheTryGetDownloadCountForPackageMethod", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method" ],
-      [ "BaseFacts", "d5/da2/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_base_facts.html", "d5/da2/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_base_facts" ],
-      [ "TestableCloudDownloadCountService", "d9/db6/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_testable_cloud_download_count_service.html", "d9/db6/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_testable_cloud_download_count_service" ]
-    ] ],
-    [ "CloudDownloadCountServiceRefreshJob.cs", "d5/d19/_cloud_download_count_service_refresh_job_8cs.html", [
-      [ "CloudDownloadCountServiceRefreshJob", "d0/dfa/class_nu_get_gallery_1_1_cloud_download_count_service_refresh_job.html", "d0/dfa/class_nu_get_gallery_1_1_cloud_download_count_service_refresh_job" ]
-    ] ],
-    [ "CloudFileReference.cs", "dc/df5/_cloud_file_reference_8cs.html", [
-      [ "CloudFileReference", "dd/d6a/class_nu_get_gallery_1_1_cloud_file_reference.html", "dd/d6a/class_nu_get_gallery_1_1_cloud_file_reference" ]
-    ] ],
-    [ "CloudReportService.cs", "de/dbe/_cloud_report_service_8cs.html", [
-      [ "CloudReportService", "dd/d51/class_nu_get_gallery_1_1_cloud_report_service.html", "dd/d51/class_nu_get_gallery_1_1_cloud_report_service" ]
     ] ],
     [ "CloudSubscription.cs", "dc/d6e/_cloud_subscription_8cs.html", [
       [ "CloudSubscription", "d6/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_cloud_1_1_subscriptions_1_1_cloud_subscription.html", null ]
@@ -3342,10 +1709,6 @@ var files_dup =
       [ "ColorScheme", "d8/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_scheme.html", "d8/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_scheme" ]
     ] ],
     [ "Column.cs", "d3/daa/_column_8cs.html", "d3/daa/_column_8cs" ],
-    [ "CommandlineHelper.cs", "d6/d6c/_commandline_helper_8cs.html", [
-      [ "CommandlineHelper", "dc/d25/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper.html", "dc/d25/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper" ],
-      [ "ProcessResult", "de/d03/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper_1_1_process_result.html", "de/d03/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper_1_1_process_result" ]
-    ] ],
     [ "CommentType.cs", "da/da0/_comment_type_8cs.html", [
       [ "CommentType", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_comment_type.html", null ]
     ] ],
@@ -3361,7 +1724,6 @@ var files_dup =
     [ "CommodityCodeType.cs", "dc/dad/_commodity_code_type_8cs.html", [
       [ "CommodityCodeType", "d7/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_commodity_code_type.html", null ]
     ] ],
-    [ "CommonAssemblyInfo.cs", "de/d81/_common_assembly_info_8cs.html", null ],
     [ "CommunicationType.cs", "d8/d08/_communication_type_8cs.html", [
       [ "CommunicationType", "da/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_communication_type.html", "da/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_communication_type" ]
     ] ],
@@ -3418,22 +1780,8 @@ var files_dup =
     [ "CompleteRevocationRefsType.cs", "dd/dc8/_complete_revocation_refs_type_8cs.html", [
       [ "CompleteRevocationRefsType", "d8/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_complete_revocation_refs_type.html", "d8/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_complete_revocation_refs_type" ]
     ] ],
-    [ "Completion.cs", "d2/deb/_completion_8cs.html", [
-      [ "ICompletion", "da/d2f/interface_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_i_completion.html", "da/d2f/interface_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_i_completion" ],
-      [ "Completion", "d9/d70/class_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_completion.html", "d9/d70/class_nu_get_gallery_1_1_backend_1_1_monitoring_1_1_completion" ]
-    ] ],
     [ "CompletionIndicatorType.cs", "dd/d24/_completion_indicator_type_8cs.html", [
       [ "CompletionIndicatorType", "d5/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_completion_indicator_type.html", null ]
-    ] ],
-    [ "CompositeKeyRoutingConvention.cs", "d3/d21/_composite_key_routing_convention_8cs.html", [
-      [ "CompositeKeyRoutingConvention", "d8/ddc/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_composite_key_routing_convention.html", "d8/ddc/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_composite_key_routing_convention" ]
-    ] ],
-    [ "CompositeLicenseExpressionSegmentViewModel.cs", "d8/db7/_composite_license_expression_segment_view_model_8cs.html", [
-      [ "CompositeLicenseExpressionSegmentViewModel", "dd/d0b/class_nu_get_gallery_1_1_view_models_1_1_composite_license_expression_segment_view_model.html", "dd/d0b/class_nu_get_gallery_1_1_view_models_1_1_composite_license_expression_segment_view_model" ]
-    ] ],
-    [ "CompositeODataKeyHelper.cs", "da/dc7/_composite_o_data_key_helper_8cs.html", null ],
-    [ "CompressFilter.cs", "d1/d21/_compress_filter_8cs.html", [
-      [ "CompressFilter", "d4/dfc/class_nu_get_gallery_1_1_filters_1_1_compress_filter.html", "d4/dfc/class_nu_get_gallery_1_1_filters_1_1_compress_filter" ]
     ] ],
     [ "ConditionCodeType.cs", "d1/d8b/_condition_code_type_8cs.html", [
       [ "ConditionCodeType", "d1/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_condition_code_type.html", null ]
@@ -3450,41 +1798,7 @@ var files_dup =
     [ "ConditionType1.cs", "d1/d2b/_condition_type1_8cs.html", [
       [ "ConditionType1", "d0/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_condition_type1.html", "d0/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_condition_type1" ]
     ] ],
-    [ "ConfigurationIconFileProvider.cs", "de/d20/_configuration_icon_file_provider_8cs.html", [
-      [ "ConfigurationIconFileProvider", "d4/dba/class_nu_get_gallery_1_1_configuration_icon_file_provider.html", "d4/dba/class_nu_get_gallery_1_1_configuration_icon_file_provider" ]
-    ] ],
-    [ "ConfigurationIconFileProviderFacts.cs", "dd/d84/_configuration_icon_file_provider_facts_8cs.html", [
-      [ "ConfigurationIconFileProviderFacts", "d5/dad/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts.html", "d5/dad/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts" ],
-      [ "TheGetIconUrlStringMethod", "d4/d0a/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_string_method.html", "d4/d0a/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_string_method" ],
-      [ "TheGetIconUrlMethod", "da/dc0/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_method.html", "da/dc0/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_method" ],
-      [ "ConfigurationIconFileProviderFactsBase", "d8/d1c/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_configuration_icon_file_provider_facts_base.html", "d8/d1c/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_configuration_icon_file_provider_facts_base" ],
-      [ "TheGetIconUrlMethodsBase", "dd/d9b/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_methods_base.html", "dd/d9b/class_nu_get_gallery_1_1_configuration_icon_file_provider_facts_1_1_the_get_icon_url_methods_base" ]
-    ] ],
     [ "ConfigurationManager.cs", "d3/d91/_configuration_manager_8cs.html", null ],
-    [ "ConfigurationService.cs", "dd/d24/_configuration_service_8cs.html", [
-      [ "ConfigurationService", "db/d53/class_nu_get_gallery_1_1_configuration_1_1_configuration_service.html", "db/d53/class_nu_get_gallery_1_1_configuration_1_1_configuration_service" ]
-    ] ],
-    [ "App_Start/ConfigurationServiceFacts.cs", "df/de9/_app___start_2_configuration_service_facts_8cs.html", [
-      [ "ConfigurationServiceFacts", "d4/dd0/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts.html", [
-        [ "TheGetSiteRootMethod", "d3/d07/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_get_site_root_method.html", "d3/d07/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_get_site_root_method" ],
-        [ "TheReadSettingMethod", "d4/ddf/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_read_setting_method.html", "d4/ddf/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_read_setting_method" ]
-      ] ],
-      [ "TheGetSiteRootMethod", "d3/d07/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_get_site_root_method.html", "d3/d07/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_get_site_root_method" ],
-      [ "TheReadSettingMethod", "d4/ddf/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_read_setting_method.html", "d4/ddf/class_nu_get_gallery_1_1_app___start_1_1_configuration_service_facts_1_1_the_read_setting_method" ]
-    ] ],
-    [ "Configuration/ConfigurationServiceFacts.cs", "d3/d9b/_configuration_2_configuration_service_facts_8cs.html", [
-      [ "ConfigurationServiceFacts", "d6/d78/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts.html", [
-        [ "TheExternalBrandingMessage", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message.html", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message" ]
-      ] ],
-      [ "TheExternalBrandingMessage", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message.html", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message" ]
-    ] ],
-    [ "ConfirmationEmailBuilder.cs", "d6/d00/_confirmation_email_builder_8cs.html", [
-      [ "ConfirmationEmailBuilder", "d2/d3d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_confirmation_email_builder.html", "d2/d3d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_confirmation_email_builder" ]
-    ] ],
-    [ "ConfirmationViewModel.cs", "d2/dc6/_confirmation_view_model_8cs.html", [
-      [ "ConfirmationViewModel", "d6/dd1/class_nu_get_gallery_1_1_confirmation_view_model.html", "d6/dd1/class_nu_get_gallery_1_1_confirmation_view_model" ]
-    ] ],
-    [ "ConfirmOwnershipResult.cs", "d0/d60/_confirm_ownership_result_8cs.html", "d0/d60/_confirm_ownership_result_8cs" ],
     [ "Connector.cs", "d4/d60/_connector_8cs.html", "d4/d60/_connector_8cs" ],
     [ "ConsigneeAssignedIDType.cs", "da/d29/_consignee_assigned_i_d_type_8cs.html", [
       [ "ConsigneeAssignedIDType", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consignee_assigned_i_d_type.html", null ]
@@ -3498,14 +1812,9 @@ var files_dup =
     [ "ConsignorAssignedIDType.cs", "da/d6a/_consignor_assigned_i_d_type_8cs.html", [
       [ "ConsignorAssignedIDType", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consignor_assigned_i_d_type.html", null ]
     ] ],
-    [ "ConsoleTestOutputHelper.cs", "d2/dd7/_console_test_output_helper_8cs.html", [
-      [ "ConsoleTestOutputHelper", "dc/dd2/class_nu_get_gallery_1_1_functional_tests_1_1_console_test_output_helper.html", "dc/dd2/class_nu_get_gallery_1_1_functional_tests_1_1_console_test_output_helper" ]
-    ] ],
     [ "ConsolidatableIndicatorType.cs", "db/d5f/_consolidatable_indicator_type_8cs.html", [
       [ "ConsolidatableIndicatorType", "dc/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_consolidatable_indicator_type.html", null ]
     ] ],
-    [ "src/NuGet.Services.Entities/Constants.cs", "da/d95/src_2_nu_get_8_services_8_entities_2_constants_8cs.html", null ],
-    [ "tests/NuGetGallery.FunctionalTests.Core/Constants.cs", "d5/d4b/tests_2_nu_get_gallery_8_functional_tests_8_core_2_constants_8cs.html", null ],
     [ "ConstitutionCodeType.cs", "d5/de4/_constitution_code_type_8cs.html", [
       [ "ConstitutionCodeType", "d2/dce/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_constitution_code_type.html", null ]
     ] ],
@@ -3607,18 +1916,6 @@ var files_dup =
     [ "ContactOptions.cs", "dd/dbc/_contact_options_8cs.html", [
       [ "ContactOptions", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options.html", null ]
     ] ],
-    [ "ContactOwnersMessage.cs", "d4/d3a/_contact_owners_message_8cs.html", [
-      [ "ContactOwnersMessage", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message.html", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message" ]
-    ] ],
-    [ "ContactOwnersMessageFacts.cs", "d8/d0e/_contact_owners_message_facts_8cs.html", [
-      [ "ContactOwnersMessageFacts", "de/d48/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts.html", "de/d48/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts" ],
-      [ "TheConstructor", "d1/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_constructor.html", "d1/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d2/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_recipients_method.html", "d2/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "df/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_body_method.html", "df/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "ContactOwnersViewModel.cs", "d2/d53/_contact_owners_view_model_8cs.html", [
-      [ "ContactOwnersViewModel", "db/d27/class_nu_get_gallery_1_1_contact_owners_view_model.html", "db/d27/class_nu_get_gallery_1_1_contact_owners_view_model" ]
-    ] ],
     [ "ContactPoint.cs", "d9/d34/_contact_point_8cs.html", [
       [ "ContactPoint", "d5/d6f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_contact_point.html", "d5/d6f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_contact_point" ]
     ] ],
@@ -3646,18 +1943,6 @@ var files_dup =
     [ "ContactSource.cs", "d7/d53/_contact_source_8cs.html", [
       [ "ContactSource", "d3/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_sources_1_1_contact_source.html", "d3/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_sources_1_1_contact_source" ]
     ] ],
-    [ "ContactSupportMessage.cs", "db/d4b/_contact_support_message_8cs.html", [
-      [ "ContactSupportMessage", "d4/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message.html", "d4/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message" ]
-    ] ],
-    [ "ContactSupportMessageFacts.cs", "d0/dfd/_contact_support_message_facts_8cs.html", [
-      [ "ContactSupportMessageFacts", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts.html", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts" ],
-      [ "TheConstructor", "d5/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_constructor.html", "d5/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "dd/d0c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_body_method.html", "dd/d0c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "ContactSupportViewModel.cs", "d0/d49/_contact_support_view_model_8cs.html", [
-      [ "ContactSupportViewModel", "dc/dd6/class_nu_get_gallery_1_1_view_models_1_1_contact_support_view_model.html", "dc/dd6/class_nu_get_gallery_1_1_view_models_1_1_contact_support_view_model" ]
-    ] ],
     [ "ContactType.cs", "d4/d2f/_contact_type_8cs.html", [
       [ "ContactType", "df/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contact_type.html", "df/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contact_type" ]
     ] ],
@@ -3672,27 +1957,6 @@ var files_dup =
     ] ],
     [ "ContentFiles.cs", "d6/da4/_content_files_8cs.html", [
       [ "ContentFiles", "d4/d72/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_content_files.html", "d4/d72/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_content_files" ]
-    ] ],
-    [ "ContentObjectService.cs", "d8/d66/_content_object_service_8cs.html", [
-      [ "ContentObjectService", "d2/d07/class_nu_get_gallery_1_1_content_object_service.html", "d2/d07/class_nu_get_gallery_1_1_content_object_service" ]
-    ] ],
-    [ "ContentObjectServiceFacts.cs", "d1/d49/_content_object_service_facts_8cs.html", [
-      [ "ContentObjectServiceFacts", "dd/d63/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts.html", [
-        [ "TheConstructor", "d5/d7d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_constructor.html", "d5/d7d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_constructor" ],
-        [ "TheRefreshMethod", "d5/d3d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_refresh_method.html", "d5/d3d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_refresh_method" ]
-      ] ],
-      [ "TheConstructor", "d5/d7d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_constructor.html", "d5/d7d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_constructor" ],
-      [ "TheRefreshMethod", "d5/d3d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_refresh_method.html", "d5/d3d/class_nu_get_gallery_1_1_services_1_1_content_object_service_facts_1_1_the_refresh_method" ]
-    ] ],
-    [ "ContentService.cs", "d5/d64/_content_service_8cs.html", [
-      [ "ContentService", "d8/d31/class_nu_get_gallery_1_1_content_service.html", "d8/d31/class_nu_get_gallery_1_1_content_service" ],
-      [ "ContentItem", "d3/de0/class_nu_get_gallery_1_1_content_service_1_1_content_item.html", "d3/de0/class_nu_get_gallery_1_1_content_service_1_1_content_item" ]
-    ] ],
-    [ "ContentServiceFacts.cs", "dc/d8b/_content_service_facts_8cs.html", [
-      [ "ContentServiceFacts", "d9/dc1/class_nu_get_gallery_1_1_services_1_1_content_service_facts.html", "d9/dc1/class_nu_get_gallery_1_1_services_1_1_content_service_facts" ],
-      [ "TheConstructor", "df/d72/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_constructor.html", "df/d72/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_constructor" ],
-      [ "TheGetContentItemMethod", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method" ],
-      [ "TestableContentService", "d4/d23/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_testable_content_service.html", "d4/d23/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_testable_content_service" ]
     ] ],
     [ "ContentType.cs", "de/d0e/_content_type_8cs.html", [
       [ "ContentType", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_content_type.html", null ]
@@ -3784,7 +2048,6 @@ var files_dup =
     [ "FenixAlliance.ICX/FenixAlliance.ICX.Core/ContextualTopMenu.cs", "d5/d52/_fenix_alliance_8_i_c_x_2_fenix_alliance_8_i_c_x_8_core_2_contextual_top_menu_8cs.html", [
       [ "ContextualTopMenu", "dd/df8/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_top_menu.html", null ]
     ] ],
-    [ "ContractAssert.cs", "db/daf/_contract_assert_8cs.html", null ],
     [ "ContractAwardNoticeType.cs", "d8/dfd/_contract_award_notice_type_8cs.html", [
       [ "ContractAwardNoticeType", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type" ]
     ] ],
@@ -3830,9 +2093,6 @@ var files_dup =
     [ "ContractTypeType.cs", "db/d6a/_contract_type_type_8cs.html", [
       [ "ContractTypeType", "dd/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_type_type.html", null ]
     ] ],
-    [ "ControllerAliasingODataRoutingConvention.cs", "d9/dc9/_controller_aliasing_o_data_routing_convention_8cs.html", [
-      [ "ControllerAliasingODataRoutingConvention", "dd/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_controller_aliasing_o_data_routing_convention.html", "dd/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_controller_aliasing_o_data_routing_convention" ]
-    ] ],
     [ "ControllerRoute.cs", "d1/d7e/_controller_route_8cs.html", [
       [ "ControllerRoute", "dc/d40/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_controller_route.html", "dc/d40/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_controller_route" ]
     ] ],
@@ -3842,48 +2102,11 @@ var files_dup =
     [ "ControllersWithViewsOptions.cs", "d9/d1e/_controllers_with_views_options_8cs.html", [
       [ "ControllersWithViewsOptions", "d9/de9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_c_1_1_controllers_with_views_options.html", "d9/de9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_c_1_1_controllers_with_views_options" ]
     ] ],
-    [ "ControllerTests.cs", "d9/db5/_controller_tests_8cs.html", [
-      [ "ControllerTests", "d7/dad/class_nu_get_gallery_1_1_controllers_1_1_controller_tests.html", "d7/dad/class_nu_get_gallery_1_1_controllers_1_1_controller_tests" ]
-    ] ],
-    [ "ControlRequiredSignerPolicy.cs", "dc/d6a/_control_required_signer_policy_8cs.html", [
-      [ "ControlRequiredSignerPolicy", "db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy.html", "db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy" ]
-    ] ],
-    [ "ControlRequiredSignerPolicyFacts.cs", "d4/d15/_control_required_signer_policy_facts_8cs.html", [
-      [ "ControlRequiredSignerPolicyFacts", "da/d1a/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy_facts.html", "da/d1a/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy_facts" ]
-    ] ],
     [ "CookieAuthenticationOptions.cs", "d3/d70/_cookie_authentication_options_8cs.html", [
       [ "CookieAuthenticationOptions", "d0/d01/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i689c1c02beb21d471b059daef27ed8b4.html", "d0/d01/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i689c1c02beb21d471b059daef27ed8b4" ]
     ] ],
-    [ "CookieBasedABTestService.cs", "d6/d86/_cookie_based_a_b_test_service_8cs.html", [
-      [ "CookieBasedABTestService", "d4/da2/class_nu_get_gallery_1_1_cookie_based_a_b_test_service.html", "d4/da2/class_nu_get_gallery_1_1_cookie_based_a_b_test_service" ]
-    ] ],
-    [ "CookieBasedABTestServiceFacts.cs", "dc/dc2/_cookie_based_a_b_test_service_facts_8cs.html", [
-      [ "CookieBasedABTestServiceFacts", "d4/daf/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts.html", [
-        [ "BaseSerializationFacts", "d1/d7a/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_base_serialization_facts.html", "d1/d7a/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_base_serialization_facts" ],
-        [ "Facts", "dd/d51/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_facts.html", "dd/d51/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_facts" ],
-        [ "IsPreviewSearchEnabled", "d4/d6c/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_is_preview_search_enabled.html", "d4/d6c/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_is_preview_search_enabled" ]
-      ] ],
-      [ "IsPreviewSearchEnabled", "d4/d6c/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_is_preview_search_enabled.html", "d4/d6c/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_is_preview_search_enabled" ],
-      [ "BaseSerializationFacts", "d1/d7a/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_base_serialization_facts.html", "d1/d7a/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_base_serialization_facts" ],
-      [ "Facts", "dd/d51/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_facts.html", "dd/d51/class_nu_get_gallery_1_1_cookie_based_a_b_test_service_facts_1_1_facts" ]
-    ] ],
     [ "CookieBuilder.cs", "db/d43/_cookie_builder_8cs.html", [
       [ "CookieBuilder", "d6/ded/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookie_builder.html", "d6/ded/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookie_builder" ]
-    ] ],
-    [ "CookieComplianceHttpModule.cs", "dc/de8/_cookie_compliance_http_module_8cs.html", [
-      [ "CookieComplianceHttpModule", "d6/d11/class_nu_get_gallery_1_1_modules_1_1_cookie_compliance_http_module.html", "d6/d11/class_nu_get_gallery_1_1_modules_1_1_cookie_compliance_http_module" ]
-    ] ],
-    [ "CookieComplianceService.cs", "d5/dc1/_cookie_compliance_service_8cs.html", null ],
-    [ "CookieComplianceServiceFacts.cs", "d9/d66/_cookie_compliance_service_facts_8cs.html", [
-      [ "CookieComplianceServiceFacts", "dc/de0/class_nu_get_gallery_1_1_cookies_1_1_cookie_compliance_service_facts.html", "dc/de0/class_nu_get_gallery_1_1_cookies_1_1_cookie_compliance_service_facts" ]
-    ] ],
-    [ "CookieExpirationService.cs", "d2/d7a/_cookie_expiration_service_8cs.html", [
-      [ "CookieExpirationService", "d3/d24/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service.html", "d3/d24/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service" ]
-    ] ],
-    [ "CookieExpirationServiceFacts.cs", "d4/dcb/_cookie_expiration_service_facts_8cs.html", [
-      [ "CookieExpirationServiceFacts", "d2/de2/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts.html", "d2/de2/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts" ],
-      [ "TheExpireAnalyticsCookiesMethod", "df/d7b/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_analytics_cookies_method.html", "df/d7b/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_analytics_cookies_method" ],
-      [ "TheExpireCookieByNameMethod", "dc/d34/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_cookie_by_name_method.html", "dc/d34/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_cookie_by_name_method" ]
     ] ],
     [ "CookiePolicy.cs", "d9/d8a/_cookie_policy_8cs.html", [
       [ "CookiePolicy", "d9/dbe/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookie_policy.html", "d9/dbe/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookie_policy" ]
@@ -3892,88 +2115,13 @@ var files_dup =
     [ "CookiesOptions.cs", "d0/d66/_cookies_options_8cs.html", [
       [ "CookiesOptions", "d3/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookies_options.html", "d3/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookies_options" ]
     ] ],
-    [ "CookieTempDataProvider.cs", "d7/d6d/_cookie_temp_data_provider_8cs.html", [
-      [ "CookieTempDataProvider", "db/dff/class_nu_get_gallery_1_1_cookie_temp_data_provider.html", "db/dff/class_nu_get_gallery_1_1_cookie_temp_data_provider" ]
-    ] ],
-    [ "CookieTempDataProviderFacts.cs", "d2/d1f/_cookie_temp_data_provider_facts_8cs.html", [
-      [ "CookieTempDataProviderFacts", "da/d88/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts.html", [
-        [ "TheLoadTempDataMethod", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method" ],
-        [ "TheSaveTempDataMethod", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method" ]
-      ] ],
-      [ "TheLoadTempDataMethod", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method" ],
-      [ "TheSaveTempDataMethod", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method" ]
-    ] ],
     [ "CoordinateSystemCodeType.cs", "dc/dd9/_coordinate_system_code_type_8cs.html", [
       [ "CoordinateSystemCodeType", "df/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_coordinate_system_code_type.html", null ]
     ] ],
     [ "CopyIndicatorType.cs", "dc/d5f/_copy_indicator_type_8cs.html", [
       [ "CopyIndicatorType", "d5/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_copy_indicator_type.html", null ]
     ] ],
-    [ "FenixAlliance.ABS.Core/Templating/Blazor/Models/CoreConstants.cs", "dd/d76/_fenix_alliance_8_a_b_s_8_core_2_templating_2_blazor_2_models_2_core_constants_8cs.html", null ],
-    [ "FenixAlliance.ABS.NuGetGallery/src/NuGetGallery.Core/CoreConstants.cs", "d7/df3/_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_8_core_2_core_constants_8cs.html", null ],
-    [ "CoreLicenseFileService.cs", "d8/d1f/_core_license_file_service_8cs.html", [
-      [ "CoreLicenseFileService", "db/d4b/class_nu_get_gallery_1_1_core_license_file_service.html", "db/d4b/class_nu_get_gallery_1_1_core_license_file_service" ]
-    ] ],
-    [ "CoreLicenseFileServiceFacts.cs", "d4/d73/_core_license_file_service_facts_8cs.html", [
-      [ "CoreLicenseFileServiceFacts", "de/d84/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts.html", "de/d84/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts" ],
-      [ "TheSaveLicenseFileAsyncMethod", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method" ],
-      [ "ExtractAndSaveLicenseFileAsync", "d4/dc7/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_extract_and_save_license_file_async.html", "d4/dc7/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_extract_and_save_license_file_async" ],
-      [ "TheDownloadLicenseFileAsyncMethod", "d9/da5/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_download_license_file_async_method.html", "d9/da5/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_download_license_file_async_method" ],
-      [ "TheDeleteLicenseFileAsyncMethod", "d9/d82/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_delete_license_file_async_method.html", "d9/d82/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_delete_license_file_async_method" ]
-    ] ],
-    [ "CoreMessageServiceConfiguration.cs", "d4/d2e/_core_message_service_configuration_8cs.html", [
-      [ "CoreMessageServiceConfiguration", "d0/d4a/class_nu_get_gallery_1_1_account_deleter_1_1_core_message_service_configuration.html", "d0/d4a/class_nu_get_gallery_1_1_account_deleter_1_1_core_message_service_configuration" ]
-    ] ],
-    [ "CoreMockExtensions.cs", "d1/d25/_core_mock_extensions_8cs.html", null ],
-    [ "CorePackageFileService.cs", "d1/dbd/_core_package_file_service_8cs.html", [
-      [ "CorePackageFileService", "dc/dcf/class_nu_get_gallery_1_1_core_package_file_service.html", "dc/dcf/class_nu_get_gallery_1_1_core_package_file_service" ]
-    ] ],
-    [ "CorePackageFileServiceFacts.cs", "d3/d46/_core_package_file_service_facts_8cs.html", [
-      [ "CorePackageFileServiceFacts", "dd/dbc/class_nu_get_gallery_1_1_core_package_file_service_facts.html", "dd/dbc/class_nu_get_gallery_1_1_core_package_file_service_facts" ],
-      [ "TheSavePackageFileMethod", "dd/d65/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_package_file_method.html", "dd/d65/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_package_file_method" ],
-      [ "TheSaveValidationPackageFileMethod", "d5/da8/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_validation_package_file_method.html", "d5/da8/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_save_validation_package_file_method" ],
-      [ "TheDownloadValidationPackageFileMethod", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method" ],
-      [ "TheDeleteValidationPackageFileMethod", "d0/d54/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_validation_package_file_method.html", "d0/d54/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_validation_package_file_method" ],
-      [ "TheDeletePackageFileMethod", "d6/d8b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_package_file_method.html", "d6/d8b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_delete_package_file_method" ],
-      [ "TheGetValidationPackageReadUriAsyncMethod", "d9/d1b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_validation_package_read_uri_async_method.html", "d9/d1b/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_validation_package_read_uri_async_method" ],
-      [ "TheGetPackageReadUriMethod", "d9/d7e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_package_read_uri_method.html", "d9/d7e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_get_package_read_uri_method" ],
-      [ "TheDoesPackageFileExistMethod", "da/d36/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_package_file_exist_method.html", "da/d36/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_package_file_exist_method" ],
-      [ "TheDoesValidationPackageFileExistMethod", "dc/dfd/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_validation_package_file_exist_method.html", "dc/dfd/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_does_validation_package_file_exist_method" ],
-      [ "TheStorePackageFileInBackupLocationAsyncMethod", "df/d40/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_store_package_file_in_backup_location_async_method.html", "df/d40/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_store_package_file_in_backup_location_async_method" ],
-      [ "FactsBase", "d8/da0/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_facts_base.html", "d8/da0/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "CorePackageService.cs", "dd/d13/_core_package_service_8cs.html", [
-      [ "CorePackageService", "db/ddf/class_nu_get_gallery_1_1_core_package_service.html", "db/ddf/class_nu_get_gallery_1_1_core_package_service" ]
-    ] ],
-    [ "CorePackageServiceFacts.cs", "d5/db9/_core_package_service_facts_8cs.html", [
-      [ "CorePackageServiceFacts", "d0/d62/class_nu_get_gallery_1_1_core_package_service_facts.html", "d0/d62/class_nu_get_gallery_1_1_core_package_service_facts" ],
-      [ "TheConstructor", "df/db0/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_constructor.html", "df/db0/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_constructor" ],
-      [ "TheUpdatePackageStreamMetadataMethod", "db/d7b/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_stream_metadata_method.html", "db/d7b/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_stream_metadata_method" ],
-      [ "TheUpdatePackageStatusMethod", "da/d1a/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_status_method.html", "da/d1a/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_status_method" ],
-      [ "TheUpdateIsLatestMethod", "da/da3/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_is_latest_method.html", "da/da3/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_is_latest_method" ],
-      [ "TheFindPackageRegistrationByIdMethod", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method.html", "d6/d13/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_find_package_registration_by_id_method" ],
-      [ "TheUpdatePackageSigningCertificateAsyncMethod", "d3/dbf/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_signing_certificate_async_method.html", "d3/dbf/class_nu_get_gallery_1_1_core_package_service_facts_1_1_the_update_package_signing_certificate_async_method" ]
-    ] ],
-    [ "CoreReadmeFileService.cs", "df/d53/_core_readme_file_service_8cs.html", [
-      [ "CoreReadmeFileService", "d2/d01/class_nu_get_gallery_1_1_core_readme_file_service.html", "d2/d01/class_nu_get_gallery_1_1_core_readme_file_service" ]
-    ] ],
-    [ "CoreReadmeFileServiceFacts.cs", "d2/d76/_core_readme_file_service_facts_8cs.html", [
-      [ "CoreReadmeFileServiceFacts", "d1/d9d/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts.html", "d1/d9d/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts" ],
-      [ "ExtractAndSaveReadmeFileAsyncMethod", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method" ],
-      [ "TheDownloadReadmeFileAsyncMethod", "d1/d9e/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_download_readme_file_async_method.html", "d1/d9e/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_download_readme_file_async_method" ],
-      [ "TheDeleteReadmeFileAsyncMethod", "dd/d59/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_delete_readme_file_async_method.html", "dd/d59/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_delete_readme_file_async_method" ]
-    ] ],
-    [ "CoreStrings.Designer.cs", "d4/df7/_core_strings_8_designer_8cs.html", [
-      [ "CoreStrings", "d8/d13/class_nu_get_gallery_1_1_core_strings.html", null ]
-    ] ],
-    [ "CoreSymbolPackageService.cs", "d4/d89/_core_symbol_package_service_8cs.html", [
-      [ "CoreSymbolPackageService", "d9/d8d/class_nu_get_gallery_1_1_core_symbol_package_service.html", "d9/d8d/class_nu_get_gallery_1_1_core_symbol_package_service" ]
-    ] ],
-    [ "CoreSymbolPackageServiceFacts.cs", "d5/dec/_core_symbol_package_service_facts_8cs.html", [
-      [ "CoreSymbolPackageServiceFacts", "d7/d62/class_nu_get_gallery_1_1_core_symbol_package_service_facts.html", "d7/d62/class_nu_get_gallery_1_1_core_symbol_package_service_facts" ],
-      [ "TheConstructor", "d2/d2b/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_constructor.html", "d2/d2b/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_constructor" ],
-      [ "TheUpdatePackageStatusMethod", "de/d7c/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_update_package_status_method.html", "de/d7c/class_nu_get_gallery_1_1_core_symbol_package_service_facts_1_1_the_update_package_status_method" ]
-    ] ],
+    [ "CoreConstants.cs", "de/d21/_core_constants_8cs.html", null ],
     [ "CorporateRegistrationSchemeType.cs", "de/dd8/_corporate_registration_scheme_type_8cs.html", [
       [ "CorporateRegistrationSchemeType", "d7/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_corporate_registration_scheme_type.html", "d7/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_corporate_registration_scheme_type" ]
     ] ],
@@ -3994,13 +2142,6 @@ var files_dup =
     ] ],
     [ "CorrectionUnitAmountType.cs", "d9/da9/_correction_unit_amount_type_8cs.html", [
       [ "CorrectionUnitAmountType", "d0/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_correction_unit_amount_type.html", null ]
-    ] ],
-    [ "CorrelatingHttpClientHandler.cs", "db/d51/_correlating_http_client_handler_8cs.html", [
-      [ "CorrelatingHttpClientHandler", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler.html", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler" ]
-    ] ],
-    [ "CorrelatingHttpClientHandlerFacts.cs", "d5/d99/_correlating_http_client_handler_facts_8cs.html", [
-      [ "CorrelatingHttpClientHandlerFacts", "d7/d94/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts.html", "d7/d94/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts" ],
-      [ "TestHandler", "d3/dbb/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts_1_1_test_handler.html", "d3/dbb/class_nu_get_gallery_1_1_search_client_1_1_correlating_http_client_handler_facts_1_1_test_handler" ]
     ] ],
     [ "CorsOptions.cs", "d3/d23/_cors_options_8cs.html", [
       [ "CorsOptions", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options.html", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options" ]
@@ -4026,15 +2167,6 @@ var files_dup =
     ] ],
     [ "CounterSignatureType.cs", "df/dc5/_counter_signature_type_8cs.html", [
       [ "CounterSignatureType", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_counter_signature_type.html", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_counter_signature_type" ]
-    ] ],
-    [ "CountInterceptor.cs", "dc/d6f/_count_interceptor_8cs.html", [
-      [ "CountInterceptor", "de/d42/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_count_interceptor.html", "de/d42/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_count_interceptor" ]
-    ] ],
-    [ "CountODataPathHandler.cs", "df/dca/_count_o_data_path_handler_8cs.html", [
-      [ "CountODataPathHandler", "d6/d71/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_o_data_path_handler.html", "d6/d71/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_o_data_path_handler" ]
-    ] ],
-    [ "CountPathSegment.cs", "d5/dd2/_count_path_segment_8cs.html", [
-      [ "CountPathSegment", "db/dae/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_path_segment.html", "db/dae/class_nu_get_gallery_1_1_o_data_1_1_routing_1_1_count_path_segment" ]
     ] ],
     [ "CountriesController.cs", "d1/d44/_countries_controller_8cs.html", "d1/d44/_countries_controller_8cs" ],
     [ "CountriesResponse.cs", "db/d53/_countries_response_8cs.html", [
@@ -4212,61 +2344,8 @@ var files_dup =
     [ "Creator.cs", "d5/d16/_creator_8cs.html", [
       [ "Creator", "d3/d4b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_creator.html", "d3/d4b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_creator" ]
     ] ],
-    [ "Credential.cs", "d7/dde/_credential_8cs.html", [
-      [ "Credential", "d7/d29/class_nu_get_1_1_services_1_1_entities_1_1_credential.html", "d7/d29/class_nu_get_1_1_services_1_1_entities_1_1_credential" ]
-    ] ],
-    [ "CredentialAddedMessage.cs", "d0/d27/_credential_added_message_8cs.html", [
-      [ "CredentialAddedMessage", "da/da0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message.html", "da/da0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message" ]
-    ] ],
-    [ "CredentialAddedMessageFacts.cs", "dc/d44/_credential_added_message_facts_8cs.html", [
-      [ "CredentialAddedMessageFacts", "dc/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts.html", "dc/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts" ],
-      [ "TheConstructor", "d7/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_constructor.html", "d7/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "db/da9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_recipients_method.html", "db/da9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "de/df7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method.html", "de/df7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "CredentialAuditRecord.cs", "d1/d32/_credential_audit_record_8cs.html", [
-      [ "CredentialAuditRecord", "d9/d3b/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record.html", "d9/d3b/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record" ]
-    ] ],
-    [ "CredentialAuditRecordTests.cs", "db/df7/_credential_audit_record_tests_8cs.html", [
-      [ "CredentialAuditRecordTests", "df/d40/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record_tests.html", "df/d40/class_nu_get_gallery_1_1_auditing_1_1_credential_audit_record_tests" ]
-    ] ],
-    [ "CredentialBuilder.cs", "dc/de5/_credential_builder_8cs.html", [
-      [ "CredentialBuilder", "d7/dd2/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_builder.html", "d7/dd2/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_builder" ]
-    ] ],
-    [ "CredentialExtensions.cs", "df/d06/_credential_extensions_8cs.html", null ],
-    [ "CredentialKind.cs", "da/d13/_credential_kind_8cs.html", "da/d13/_credential_kind_8cs" ],
-    [ "CredentialRemovedMessage.cs", "d3/d37/_credential_removed_message_8cs.html", [
-      [ "CredentialRemovedMessage", "d3/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message.html", "d3/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message" ]
-    ] ],
-    [ "CredentialRemovedMessageFacts.cs", "df/db7/_credential_removed_message_facts_8cs.html", [
-      [ "CredentialRemovedMessageFacts", "d9/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts.html", "d9/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts" ],
-      [ "TheConstructor", "dc/db2/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_constructor.html", "dc/db2/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "dc/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_fac2ff2bc71367f33056db5679781b8fb8d.html", "dc/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_fac2ff2bc71367f33056db5679781b8fb8d" ],
-      [ "TheGetBodyMethod", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method.html", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "CredentialRevocationSource.cs", "df/d40/_credential_revocation_source_8cs.html", "df/d40/_credential_revocation_source_8cs" ],
-    [ "CredentialRevokedMessage.cs", "da/d7c/_credential_revoked_message_8cs.html", [
-      [ "CredentialRevokedMessage", "d2/d98/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message.html", "d2/d98/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message" ]
-    ] ],
-    [ "CredentialRevokedMessageFacts.cs", "de/d68/_credential_revoked_message_facts_8cs.html", [
-      [ "CredentialRevokedMessageFacts", "db/d2b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts.html", "db/d2b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts" ],
-      [ "TheConstructor", "d0/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_constructor.html", "d0/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d3/db3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_fac6c0119f307318be717eaa537c29349e1.html", "d3/db3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_fac6c0119f307318be717eaa537c29349e1" ],
-      [ "TheGetSubjectMethod", "dd/d80/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_subject_method.html", "dd/d80/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_subject_method" ],
-      [ "TheGetBodyMethod", "db/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method.html", "db/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method" ]
-    ] ],
     [ "Credentials.cs", "d5/d48/_credentials_8cs.html", [
       [ "Credentials", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_credentials.html", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_credentials" ]
-    ] ],
-    [ "CredentialTypeInfo.cs", "dc/dca/_credential_type_info_8cs.html", [
-      [ "CredentialTypeInfo", "dd/d8d/class_nu_get_gallery_1_1_authentication_1_1_credential_type_info.html", "dd/d8d/class_nu_get_gallery_1_1_authentication_1_1_credential_type_info" ]
-    ] ],
-    [ "CredentialTypes.cs", "d1/d15/_credential_types_8cs.html", null ],
-    [ "CredentialValidator.cs", "d5/da9/_credential_validator_8cs.html", [
-      [ "CredentialValidator", "d1/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_validator.html", "d1/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_credential_validator" ]
-    ] ],
-    [ "CredentialViewModel.cs", "d1/d02/_credential_view_model_8cs.html", [
-      [ "CredentialViewModel", "dc/d11/class_nu_get_gallery_1_1_credential_view_model.html", "dc/d11/class_nu_get_gallery_1_1_credential_view_model" ]
     ] ],
     [ "CreditAccountType.cs", "d4/d87/_credit_account_type_8cs.html", [
       [ "CreditAccountType", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_credit_account_type.html", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_credit_account_type" ]
@@ -4304,10 +2383,6 @@ var files_dup =
     [ "CRLRefType.cs", "de/d03/_c_r_l_ref_type_8cs.html", [
       [ "CRLRefType", "d3/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_c_r_l_ref_type.html", "d3/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_c_r_l_ref_type" ]
     ] ],
-    [ "CryptographyService.cs", "d4/dbd/_cryptography_service_8cs.html", null ],
-    [ "CuratedFeedTest.cs", "db/d27/_curated_feed_test_8cs.html", [
-      [ "CuratedFeedTest", "d8/d03/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_curated_feed_test.html", "d8/d03/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_curated_feed_test" ]
-    ] ],
     [ "FenixAlliance.ABP/FenixAlliance.ABP.API.REST/FenixAlliance.ABP.API.REST.Core/Controllers/Global/Currencies/CurrenciesController.cs", "d1/de4/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_a_p_i_8_r_e_s_t_2_fenix_alliance_8_a_b_p_8_a_aeec6f833e5259e5e0e929b69bd92766.html", [
       [ "CurrenciesController", "d2/d8c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_cur669951735d9d1b18db872f8a217f70b9.html", "d2/d8c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_cur669951735d9d1b18db872f8a217f70b9" ]
     ] ],
@@ -4341,9 +2416,6 @@ var files_dup =
     [ "CurrentController.cs", "d7/d3e/_current_controller_8cs.html", [
       [ "CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller" ]
     ] ],
-    [ "CurrentUserDeletedException.cs", "d4/d45/_current_user_deleted_exception_8cs.html", [
-      [ "CurrentUserDeletedException", "d2/d2f/class_nu_get_gallery_1_1_current_user_deleted_exception.html", "d2/d2f/class_nu_get_gallery_1_1_current_user_deleted_exception" ]
-    ] ],
     [ "FenixAlliance.ABM.Models/Social/Curriculums/Curriculum.cs", "d9/d70/_fenix_alliance_8_a_b_m_8_models_2_social_2_curriculums_2_curriculum_8cs.html", [
       [ "Curriculum", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum" ]
     ] ],
@@ -4372,12 +2444,6 @@ var files_dup =
     [ "CustomerReferenceType.cs", "d1/d75/_customer_reference_type_8cs.html", [
       [ "CustomerReferenceType", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customer_reference_type.html", null ]
     ] ],
-    [ "CustomerResourceIdEnricher.cs", "d1/d41/_customer_resource_id_enricher_8cs.html", [
-      [ "CustomerResourceIdEnricher", "d2/d79/class_nu_get_gallery_1_1_customer_resource_id_enricher.html", "d2/d79/class_nu_get_gallery_1_1_customer_resource_id_enricher" ]
-    ] ],
-    [ "CustomerResourceIdEnricherFacts.cs", "dd/de2/_customer_resource_id_enricher_facts_8cs.html", [
-      [ "CustomerResourceIdEnricherFacts", "d8/d0c/class_nu_get_gallery_1_1_telemetry_1_1_customer_resource_id_enricher_facts.html", "d8/d0c/class_nu_get_gallery_1_1_telemetry_1_1_customer_resource_id_enricher_facts" ]
-    ] ],
     [ "CustomFont.cs", "d9/d41/_custom_font_8cs.html", [
       [ "CustomFont", "d7/d23/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_custom_font.html", "d7/d23/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_custom_font" ]
     ] ],
@@ -4395,9 +2461,6 @@ var files_dup =
     ] ],
     [ "CustomsDeclarationType.cs", "df/da9/_customs_declaration_type_8cs.html", [
       [ "CustomsDeclarationType", "d7/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customs_declaration_type.html", "d7/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customs_declaration_type" ]
-    ] ],
-    [ "CustomSerializerProvider.cs", "dc/ddf/_custom_serializer_provider_8cs.html", [
-      [ "CustomSerializerProvider", "d1/dc2/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_custom_serializer_provider.html", "d1/dc2/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_custom_serializer_provider" ]
     ] ],
     [ "CustomsImportClassifiedIndicatorType.cs", "d8/dec/_customs_import_classified_indicator_type_8cs.html", [
       [ "CustomsImportClassifiedIndicatorType", "d2/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customs_import_classified_indicator_type.html", null ]
@@ -4423,9 +2486,6 @@ var files_dup =
     [ "DashboardOptions.cs", "db/d68/_dashboard_options_8cs.html", [
       [ "DashboardOptions", "dc/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard_1_1_dashboard_options.html", "dc/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard_1_1_dashboard_options" ]
     ] ],
-    [ "DatabaseWrapper.cs", "da/d3d/_database_wrapper_8cs.html", [
-      [ "DatabaseWrapper", "d3/d5a/class_nu_get_gallery_1_1_database_wrapper.html", "d3/d5a/class_nu_get_gallery_1_1_database_wrapper" ]
-    ] ],
     [ "DataContext.cs", "da/dcd/_data_context_8cs.html", [
       [ "DataContext", "da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html", "da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context" ]
     ] ],
@@ -4444,22 +2504,6 @@ var files_dup =
     [ "DataSourceCodeType.cs", "df/dbe/_data_source_code_type_8cs.html", [
       [ "DataSourceCodeType", "dc/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_data_source_code_type.html", null ]
     ] ],
-    [ "DateTime.ascx.cs", "db/dfe/_date_time_8ascx_8cs.html", [
-      [ "DateTimeField", "dd/d91/class_nu_get_gallery_1_1_date_time_field.html", "dd/d91/class_nu_get_gallery_1_1_date_time_field" ]
-    ] ],
-    [ "DateTime.ascx.designer.cs", "d0/dfb/_date_time_8ascx_8designer_8cs.html", [
-      [ "DateTimeField", "dd/d91/class_nu_get_gallery_1_1_date_time_field.html", "dd/d91/class_nu_get_gallery_1_1_date_time_field" ]
-    ] ],
-    [ "DateTime_Edit.ascx.cs", "d7/d30/_date_time___edit_8ascx_8cs.html", [
-      [ "DateTime_EditField", "de/dcb/class_nu_get_gallery_1_1_date_time___edit_field.html", "de/dcb/class_nu_get_gallery_1_1_date_time___edit_field" ]
-    ] ],
-    [ "DateTime_Edit.ascx.designer.cs", "d9/d93/_date_time___edit_8ascx_8designer_8cs.html", [
-      [ "DateTime_EditField", "de/dcb/class_nu_get_gallery_1_1_date_time___edit_field.html", "de/dcb/class_nu_get_gallery_1_1_date_time___edit_field" ]
-    ] ],
-    [ "DateTimeExtensions.cs", "d6/dd9/_date_time_extensions_8cs.html", null ],
-    [ "DateTimeProvider.cs", "d4/d69/_date_time_provider_8cs.html", [
-      [ "DateTimeProvider", "d8/daa/class_nu_get_gallery_1_1_date_time_provider.html", "d8/daa/class_nu_get_gallery_1_1_date_time_provider" ]
-    ] ],
     [ "DateType.cs", "d1/d10/_date_type_8cs.html", [
       [ "DateType", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_date_type.html", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_date_type" ]
     ] ],
@@ -4469,9 +2513,6 @@ var files_dup =
     [ "DBConfigurations.cs", "d2/dfc/_d_b_configurations_8cs.html", null ],
     [ "DbContextFactoryService.cs", "d7/d2d/_db_context_factory_service_8cs.html", [
       [ "DbContextFactoryService", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service.html", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service" ]
-    ] ],
-    [ "DbContextTransactionWrapper.cs", "d7/dd1/_db_context_transaction_wrapper_8cs.html", [
-      [ "DbContextTransactionWrapper", "d1/da8/class_nu_get_gallery_1_1_db_context_transaction_wrapper.html", "d1/da8/class_nu_get_gallery_1_1_db_context_transaction_wrapper" ]
     ] ],
     [ "DBSeeding.cs", "d1/d9e/_d_b_seeding_8cs.html", [
       [ "DBSeeding", "d7/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_d_b_seeding.html", null ]
@@ -4513,17 +2554,8 @@ var files_dup =
     [ "DebitNoteType.cs", "d9/d7a/_debit_note_type_8cs.html", [
       [ "DebitNoteType", "d4/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_debit_note_type.html", "d4/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_debit_note_type" ]
     ] ],
-    [ "DebugMessageService.cs", "d1/d93/_debug_message_service_8cs.html", [
-      [ "DebugMessageService", "d7/d06/class_nu_get_gallery_1_1_account_deleter_1_1_debug_message_service.html", "d7/d06/class_nu_get_gallery_1_1_account_deleter_1_1_debug_message_service" ]
-    ] ],
     [ "DebugResponseModel.cs", "d9/d74/_debug_response_model_8cs.html", [
       [ "DebugResponseModel", "de/de9/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_debug_response_model.html", "de/de9/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_debug_response_model" ]
-    ] ],
-    [ "Decimal_Edit.ascx.cs", "dc/d8f/_decimal___edit_8ascx_8cs.html", [
-      [ "Decimal_EditField", "df/db3/class_nu_get_gallery_1_1_decimal___edit_field.html", "df/db3/class_nu_get_gallery_1_1_decimal___edit_field" ]
-    ] ],
-    [ "Decimal_Edit.ascx.designer.cs", "d0/d94/_decimal___edit_8ascx_8designer_8cs.html", [
-      [ "Decimal_EditField", "df/db3/class_nu_get_gallery_1_1_decimal___edit_field.html", "df/db3/class_nu_get_gallery_1_1_decimal___edit_field" ]
     ] ],
     [ "DeclarationType.cs", "da/d1e/_declaration_type_8cs.html", [
       [ "DeclarationType", "df/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_declaration_type.html", "df/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_declaration_type" ]
@@ -4543,131 +2575,11 @@ var files_dup =
     [ "DeclaredStatisticsValueAmountType.cs", "df/da4/_declared_statistics_value_amount_type_8cs.html", [
       [ "DeclaredStatisticsValueAmountType", "d4/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_declared_statistics_value_amount_type.html", null ]
     ] ],
-    [ "Default.ascx.cs", "d7/df0/_default_8ascx_8cs.html", [
-      [ "DefaultEntityTemplate", "d3/d7a/class_nu_get_gallery_1_1_default_entity_template.html", "d3/d7a/class_nu_get_gallery_1_1_default_entity_template" ],
-      [ "_NamingContainer", "da/d34/class_nu_get_gallery_1_1_default_entity_template_1_1___naming_container.html", null ]
-    ] ],
-    [ "Default.ascx.designer.cs", "d2/d41/_default_8ascx_8designer_8cs.html", [
-      [ "DefaultEntityTemplate", "d3/d7a/class_nu_get_gallery_1_1_default_entity_template.html", "d3/d7a/class_nu_get_gallery_1_1_default_entity_template" ]
-    ] ],
-    [ "Default.aspx.cs", "da/d1d/_default_8aspx_8cs.html", [
-      [ "_Default", "d6/d62/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1___default.html", "d6/d62/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1___default" ]
-    ] ],
-    [ "Default.aspx.designer.cs", "d2/d89/_default_8aspx_8designer_8cs.html", [
-      [ "_Default", "d6/d62/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1___default.html", "d6/d62/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1___default" ]
-    ] ],
-    [ "Default_Edit.ascx.cs", "d9/daf/_default___edit_8ascx_8cs.html", [
-      [ "Default_EditEntityTemplate", "d0/d75/class_nu_get_gallery_1_1_default___edit_entity_template.html", "d0/d75/class_nu_get_gallery_1_1_default___edit_entity_template" ]
-    ] ],
-    [ "Default_Edit.ascx.designer.cs", "d0/d30/_default___edit_8ascx_8designer_8cs.html", [
-      [ "Default_EditEntityTemplate", "d0/d75/class_nu_get_gallery_1_1_default___edit_entity_template.html", "d0/d75/class_nu_get_gallery_1_1_default___edit_entity_template" ]
-    ] ],
-    [ "Default_Insert.ascx.cs", "d8/d4d/_default___insert_8ascx_8cs.html", [
-      [ "Default_InsertEntityTemplate", "dc/ded/class_nu_get_gallery_1_1_default___insert_entity_template.html", "dc/ded/class_nu_get_gallery_1_1_default___insert_entity_template" ]
-    ] ],
-    [ "Default_Insert.ascx.designer.cs", "da/d31/_default___insert_8ascx_8designer_8cs.html", [
-      [ "Default_InsertEntityTemplate", "dc/ded/class_nu_get_gallery_1_1_default___insert_entity_template.html", "dc/ded/class_nu_get_gallery_1_1_default___insert_entity_template" ]
-    ] ],
-    [ "DefaultDependenciesModule.cs", "d7/d7c/_default_dependencies_module_8cs.html", "d7/d7c/_default_dependencies_module_8cs" ],
-    [ "DefaultDependenciesModuleFacts.cs", "d7/d29/_default_dependencies_module_facts_8cs.html", [
-      [ "DefaultDependenciesModuleFacts", "d5/de8/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts.html", [
-        [ "TheConfigureApplicationInsightsMethod", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method" ]
-      ] ],
-      [ "TheConfigureApplicationInsightsMethod", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method" ]
-    ] ],
     [ "DefaultIdentity.cs", "d4/d4d/_default_identity_8cs.html", [
       [ "DefaultIdentity", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity" ]
     ] ],
     [ "DefaultPictureEditor.cs", "d1/d94/_default_picture_editor_8cs.html", [
       [ "DefaultPictureEditor", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor.html", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor" ]
-    ] ],
-    [ "DefaultSecurityPoliciesEnforcedDataAttribute.cs", "d5/d13/_default_security_policies_enforced_data_attribute_8cs.html", [
-      [ "DefaultSecurityPoliciesEnforcedDataAttribute", "d9/dd6/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute.html", "d9/dd6/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute" ]
-    ] ],
-    [ "DefaultSecurityPoliciesEnforcedFactAttribute.cs", "db/d8c/_default_security_policies_enforced_fact_attribute_8cs.html", [
-      [ "DefaultSecurityPoliciesEnforcedFactAttribute", "db/d51/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_fact_attribute.html", "db/d51/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_fact_attribute" ]
-    ] ],
-    [ "DefaultSecurityPoliciesEnforcedTheoryAttribute.cs", "d7/dde/_default_security_policies_enforced_theory_attribute_8cs.html", [
-      [ "DefaultSecurityPoliciesEnforcedTheoryAttribute", "d3/db4/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_theory_attribute.html", "d3/db4/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_theory_attribute" ]
-    ] ],
-    [ "DefaultSubscription.cs", "d7/dcf/_default_subscription_8cs.html", [
-      [ "DefaultSubscription", "dd/dbd/class_nu_get_gallery_1_1_security_1_1_default_subscription.html", "dd/dbd/class_nu_get_gallery_1_1_security_1_1_default_subscription" ]
-    ] ],
-    [ "DefaultSubscriptionFacts.cs", "d4/d8e/_default_subscription_facts_8cs.html", [
-      [ "DefaultSubscriptionFacts", "dd/dc2/class_nu_get_gallery_1_1_security_1_1_default_subscription_facts.html", "dd/dc2/class_nu_get_gallery_1_1_security_1_1_default_subscription_facts" ]
-    ] ],
-    [ "DeleteAccountAsAdminViewModel.cs", "dc/d73/_delete_account_as_admin_view_model_8cs.html", [
-      [ "DeleteAccountAsAdminViewModel", "dd/dd1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_as_admin_view_model.html", "dd/dd1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_as_admin_view_model" ]
-    ] ],
-    [ "DeleteAccountAuditRecord.cs", "da/d33/_delete_account_audit_record_8cs.html", [
-      [ "DeleteAccountAuditRecord", "d7/d62/class_nu_get_gallery_1_1_auditing_1_1_delete_account_audit_record.html", "d7/d62/class_nu_get_gallery_1_1_auditing_1_1_delete_account_audit_record" ]
-    ] ],
-    [ "DeleteAccountController.cs", "d2/d75/_delete_account_controller_8cs.html", [
-      [ "DeleteAccountController", "d3/d2c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller.html", "d3/d2c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller" ]
-    ] ],
-    [ "DeleteAccountControllerFacts.cs", "df/d01/_delete_account_controller_facts_8cs.html", [
-      [ "DeleteAccountControllerFacts", "d6/d4d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts.html", "d6/d4d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts" ],
-      [ "TheSearchMethod", "d7/d10/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts_1_1_the_search_method.html", "d7/d10/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_account_controller_facts_1_1_the_search_method" ]
-    ] ],
-    [ "DeleteAccountListPackageItemViewModelFactory.cs", "d6/d46/_delete_account_list_package_item_view_model_factory_8cs.html", [
-      [ "DeleteAccountListPackageItemViewModelFactory", "d0/dd1/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model_factory.html", "d0/dd1/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model_factory" ]
-    ] ],
-    [ "DeleteAccountRequest.cs", "d7/d51/_delete_account_request_8cs.html", [
-      [ "DeleteAccountRequest", "d9/df1/class_nu_get_gallery_1_1_delete_account_request.html", "d9/df1/class_nu_get_gallery_1_1_delete_account_request" ]
-    ] ],
-    [ "DeleteAccountSearchResult.cs", "d0/d56/_delete_account_search_result_8cs.html", [
-      [ "DeleteAccountSearchResult", "db/dbe/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_search_result.html", "db/dbe/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_search_result" ]
-    ] ],
-    [ "DeleteAccountService.cs", "d8/d6b/_delete_account_service_8cs.html", [
-      [ "DeleteAccountService", "d7/d31/class_nu_get_gallery_1_1_delete_account_service.html", "d7/d31/class_nu_get_gallery_1_1_delete_account_service" ]
-    ] ],
-    [ "DeleteAccountServiceFacts.cs", "d0/d7b/_delete_account_service_facts_8cs.html", [
-      [ "DeleteAccountServiceFacts", "d5/d2a/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts.html", [
-        [ "DeleteAccountTestService", "d7/d54/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service.html", "d7/d54/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service" ],
-        [ "TheDeleteGalleryUserAccountAsyncMethod", "dc/d26/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_the_delete_gallery_user_account_async_method.html", "dc/d26/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_the_delete_gallery_user_account_async_method" ]
-      ] ],
-      [ "TheDeleteGalleryUserAccountAsyncMethod", "dc/d26/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_the_delete_gallery_user_account_async_method.html", "dc/d26/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_the_delete_gallery_user_account_async_method" ],
-      [ "DeleteAccountTestService", "d7/d54/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service.html", "d7/d54/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service" ],
-      [ "FakeAuditingService", "d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service.html", "d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service" ]
-    ] ],
-    [ "DeleteAccountStatus.cs", "d7/da4/_delete_account_status_8cs.html", [
-      [ "DeleteAccountStatus", "de/d3c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_status.html", "de/d3c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_account_status" ]
-    ] ],
-    [ "DeleteAccountViewModel.cs", "d4/d28/_delete_account_view_model_8cs.html", [
-      [ "DeleteAccountViewModel", "d8/dc2/class_nu_get_gallery_1_1_delete_account_view_model.html", "d8/dc2/class_nu_get_gallery_1_1_delete_account_view_model" ],
-      [ "DeleteAccountListPackageItemViewModel", "dd/df0/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model.html", "dd/df0/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model" ],
-      [ "IDeleteAccountViewModel", "da/d38/interface_nu_get_gallery_1_1_i_delete_account_view_model.html", "da/d38/interface_nu_get_gallery_1_1_i_delete_account_view_model" ]
-    ] ],
-    [ "DeleteController.cs", "d8/dd7/_delete_controller_8cs.html", [
-      [ "DeleteController", "df/d4a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller.html", "df/d4a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller" ]
-    ] ],
-    [ "DeleteControllerFacts.cs", "d5/da2/_delete_controller_facts_8cs.html", [
-      [ "DeleteControllerFacts", "dc/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts.html", [
-        [ "FactsBase", "db/d24/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_facts_base.html", "db/d24/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_facts_base" ],
-        [ "TheSearchMethod", "db/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_the_search_method.html", "db/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_the_search_method" ]
-      ] ],
-      [ "TheSearchMethod", "db/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_the_search_method.html", "db/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_the_search_method" ],
-      [ "FactsBase", "db/d24/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_facts_base.html", "db/d24/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_delete_controller_facts_1_1_facts_base" ]
-    ] ],
-    [ "DeletedStatus.cs", "d1/d93/_deleted_status_8cs.html", "d1/d93/_deleted_status_8cs" ],
-    [ "DeleteOrganizationViewModel.cs", "de/db9/_delete_organization_view_model_8cs.html", [
-      [ "DeleteOrganizationViewModel", "d3/d05/class_nu_get_gallery_1_1_delete_organization_view_model.html", "d3/d05/class_nu_get_gallery_1_1_delete_organization_view_model" ]
-    ] ],
-    [ "DeletePackagesApiRequest.cs", "dd/d05/_delete_packages_api_request_8cs.html", "dd/d05/_delete_packages_api_request_8cs" ],
-    [ "DeletePackagesRequest.cs", "da/d67/_delete_packages_request_8cs.html", [
-      [ "DeletePackagesRequest", "dd/dda/class_nu_get_gallery_1_1_delete_packages_request.html", "dd/dda/class_nu_get_gallery_1_1_delete_packages_request" ]
-    ] ],
-    [ "DeletePackageViewModel.cs", "d3/d96/_delete_package_view_model_8cs.html", [
-      [ "DeletePackageViewModel", "d4/db2/class_nu_get_gallery_1_1_delete_package_view_model.html", "d4/db2/class_nu_get_gallery_1_1_delete_package_view_model" ]
-    ] ],
-    [ "DeletePackageViewModelFactory.cs", "dd/dc6/_delete_package_view_model_factory_8cs.html", [
-      [ "DeletePackageViewModelFactory", "de/de5/class_nu_get_gallery_1_1_delete_package_view_model_factory.html", "de/de5/class_nu_get_gallery_1_1_delete_package_view_model_factory" ]
-    ] ],
-    [ "DeleteSearchResult.cs", "dc/d5b/_delete_search_result_8cs.html", [
-      [ "DeleteSearchResult", "d8/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_search_result.html", "d8/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_delete_search_result" ]
-    ] ],
-    [ "DeleteUserViewModel.cs", "d7/d96/_delete_user_view_model_8cs.html", [
-      [ "DeleteUserViewModel", "d0/df9/class_nu_get_gallery_1_1_delete_user_view_model.html", "d0/df9/class_nu_get_gallery_1_1_delete_user_view_model" ]
     ] ],
     [ "DeliveredQuantityType.cs", "df/d33/_delivered_quantity_type_8cs.html", [
       [ "DeliveredQuantityType", "d8/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivered_quantity_type.html", null ]
@@ -4703,24 +2615,8 @@ var files_dup =
     [ "Dependency.cs", "db/d81/_dependency_8cs.html", [
       [ "Dependency", "d5/d62/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_dependency.html", "d5/d62/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_dependency" ]
     ] ],
-    [ "DependencyResolverServiceProviderAdapter.cs", "dc/d57/_dependency_resolver_service_provider_adapter_8cs.html", [
-      [ "DependencyResolverServiceProviderAdapter", "de/d1a/class_nu_get_gallery_1_1_infrastructure_1_1_dependency_resolver_service_provider_adapter.html", "de/d1a/class_nu_get_gallery_1_1_infrastructure_1_1_dependency_resolver_service_provider_adapter" ]
-    ] ],
-    [ "DependencySetsViewModel.cs", "d9/d52/_dependency_sets_view_model_8cs.html", [
-      [ "DependencySetsViewModel", "d2/dca/class_nu_get_gallery_1_1_dependency_sets_view_model.html", "d2/dca/class_nu_get_gallery_1_1_dependency_sets_view_model" ],
-      [ "DependencyViewModel", "df/d77/class_nu_get_gallery_1_1_dependency_sets_view_model_1_1_dependency_view_model.html", "df/d77/class_nu_get_gallery_1_1_dependency_sets_view_model_1_1_dependency_view_model" ]
-    ] ],
-    [ "DependencySetsViewModelFacts.cs", "d6/d69/_dependency_sets_view_model_facts_8cs.html", [
-      [ "DependencySetsViewModelFacts", "dd/d91/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts.html", [
-        [ "TheConstructor", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor" ]
-      ] ],
-      [ "TheConstructor", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor.html", "d8/d4d/class_nu_get_gallery_1_1_view_models_1_1_dependency_sets_view_model_facts_1_1_the_constructor" ]
-    ] ],
     [ "DependentPriceReferenceType.cs", "db/d3e/_dependent_price_reference_type_8cs.html", [
       [ "DependentPriceReferenceType", "d0/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_dependent_price_reference_type.html", "d0/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_dependent_price_reference_type" ]
-    ] ],
-    [ "DeprecatePackageRequest.cs", "d0/da5/_deprecate_package_request_8cs.html", [
-      [ "DeprecatePackageRequest", "d8/da5/class_nu_get_gallery_1_1_request_models_1_1_deprecate_package_request.html", "d8/da5/class_nu_get_gallery_1_1_request_models_1_1_deprecate_package_request" ]
     ] ],
     [ "DescriptionCodeType.cs", "d5/df7/_description_code_type_8cs.html", [
       [ "DescriptionCodeType", "d8/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_description_code_type.html", null ]
@@ -4740,26 +2636,9 @@ var files_dup =
     [ "DespatchType.cs", "d4/dab/_despatch_type_8cs.html", [
       [ "DespatchType", "dd/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_despatch_type.html", "dd/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_despatch_type" ]
     ] ],
-    [ "Details.aspx.cs", "da/d5f/_details_8aspx_8cs.html", [
-      [ "Details", "de/d24/class_nu_get_gallery_1_1_details.html", "de/d24/class_nu_get_gallery_1_1_details" ]
-    ] ],
-    [ "Details.aspx.designer.cs", "d7/d4d/_details_8aspx_8designer_8cs.html", [
-      [ "Details", "de/d24/class_nu_get_gallery_1_1_details.html", "de/d24/class_nu_get_gallery_1_1_details" ]
-    ] ],
     [ "DevMode.cs", "d4/d76/_dev_mode_8cs.html", [
       [ "DevMode", "dc/d33/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_dev_mode.html", "dc/d33/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_dev_mode" ]
     ] ],
-    [ "DiagnosticsService.cs", "d3/d91/_diagnostics_service_8cs.html", [
-      [ "DiagnosticsService", "dc/d91/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service.html", "dc/d91/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service" ]
-    ] ],
-    [ "DiagnosticsServiceExtensions.cs", "dd/d06/_diagnostics_service_extensions_8cs.html", null ],
-    [ "DiagnosticsServiceFacts.cs", "d0/d36/_diagnostics_service_facts_8cs.html", [
-      [ "DiagnosticsServiceFacts", "de/d9a/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts.html", [
-        [ "TheGetSourceMethod", "d6/d94/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts_1_1_the_get_source_method.html", "d6/d94/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts_1_1_the_get_source_method" ]
-      ] ],
-      [ "TheGetSourceMethod", "d6/d94/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts_1_1_the_get_source_method.html", "d6/d94/class_nu_get_gallery_1_1_diagnostics_1_1_diagnostics_service_facts_1_1_the_get_source_method" ]
-    ] ],
-    [ "DiagnosticsSourceExtensions.cs", "d8/d00/_diagnostics_source_extensions_8cs.html", null ],
     [ "DialogHost.cs", "d7/dbf/_dialog_host_8cs.html", null ],
     [ "DialogHostAdapter.cs", "dc/d74/_dialog_host_adapter_8cs.html", [
       [ "DialogHostAdapter", "d9/d53/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_dialog_host_adapter.html", "d9/d53/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_dialog_host_adapter" ]
@@ -4792,45 +2671,11 @@ var files_dup =
       [ "Discount", "de/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_discount_lists_1_1_discounts_1_1_discount.html", "de/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_discount_lists_1_1_discounts_1_1_discount" ]
     ] ],
     [ "DiscountList.cs", "df/d08/_discount_list_8cs.html", "df/d08/_discount_list_8cs" ],
-    [ "DisplayLicenseViewModel.cs", "d2/dd9/_display_license_view_model_8cs.html", [
-      [ "DisplayLicenseViewModel", "d2/dd5/class_nu_get_gallery_1_1_display_license_view_model.html", "d2/dd5/class_nu_get_gallery_1_1_display_license_view_model" ]
-    ] ],
-    [ "DisplayLicenseViewModelFactory.cs", "d3/de6/_display_license_view_model_factory_8cs.html", [
-      [ "DisplayLicenseViewModelFactory", "dd/dec/class_nu_get_gallery_1_1_display_license_view_model_factory.html", "dd/dec/class_nu_get_gallery_1_1_display_license_view_model_factory" ]
-    ] ],
-    [ "DisplayLicenseViewModelFacts.cs", "dd/de3/_display_license_view_model_facts_8cs.html", [
-      [ "DisplayLicenseViewModelFactoryFacts", "d8/de2/class_nu_get_gallery_1_1_view_models_1_1_display_license_view_model_factory_facts.html", "d8/de2/class_nu_get_gallery_1_1_view_models_1_1_display_license_view_model_factory_facts" ]
-    ] ],
-    [ "DisplayPackageRequest.cs", "d9/d53/_display_package_request_8cs.html", [
-      [ "DisplayPackageRequest", "d3/de3/class_nu_get_gallery_1_1_display_package_request.html", "d3/de3/class_nu_get_gallery_1_1_display_package_request" ]
-    ] ],
-    [ "DisplayPackageViewModel.cs", "d7/db7/_display_package_view_model_8cs.html", [
-      [ "DisplayPackageViewModel", "d5/d5f/class_nu_get_gallery_1_1_display_package_view_model.html", "d5/d5f/class_nu_get_gallery_1_1_display_package_view_model" ]
-    ] ],
-    [ "DisplayPackageViewModelFactory.cs", "d9/d6f/_display_package_view_model_factory_8cs.html", [
-      [ "DisplayPackageViewModelFactory", "d9/d73/class_nu_get_gallery_1_1_display_package_view_model_factory.html", "d9/d73/class_nu_get_gallery_1_1_display_package_view_model_factory" ]
-    ] ],
-    [ "DisplayPackageViewModelFacts.cs", "d7/dde/_display_package_view_model_facts_8cs.html", [
-      [ "DisplayPackageViewModelFacts", "d9/db2/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts.html", "d9/db2/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts" ],
-      [ "ThePushedByField", "d1/ddf/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts_1_1_the_pushed_by_field.html", "d1/ddf/class_nu_get_gallery_1_1_view_models_1_1_display_package_view_model_facts_1_1_the_pushed_by_field" ]
-    ] ],
     [ "DisplayTacticTypeCodeType.cs", "d1/d90/_display_tactic_type_code_type_8cs.html", [
       [ "DisplayTacticTypeCodeType", "dd/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_display_tactic_type_code_type.html", null ]
     ] ],
-    [ "DisposableAction.cs", "d3/d37/_disposable_action_8cs.html", [
-      [ "DisposableAction", "d1/d4e/class_nu_get_gallery_1_1_disposable_action.html", "d1/d4e/class_nu_get_gallery_1_1_disposable_action" ]
-    ] ],
-    [ "DisposableEmailBuilder.cs", "d1/de3/_disposable_email_builder_8cs.html", [
-      [ "DisposableEmailBuilder", "d6/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_disposable_email_builder.html", "d6/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_disposable_email_builder" ]
-    ] ],
     [ "DispositionCodeType.cs", "db/d53/_disposition_code_type_8cs.html", [
       [ "DispositionCodeType", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_disposition_code_type.html", null ]
-    ] ],
-    [ "DisregardODataInterceptor.cs", "dc/d3c/_disregard_o_data_interceptor_8cs.html", [
-      [ "DisregardODataInterceptor", "d8/d0f/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_disregard_o_data_interceptor.html", "d8/d0f/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_disregard_o_data_interceptor" ]
-    ] ],
-    [ "DistIntegrationTests.cs", "d1/d80/_dist_integration_tests_8cs.html", [
-      [ "DistIntegrationTests", "d7/dde/class_nu_get_gallery_1_1_functional_tests_1_1_dist_integration_tests.html", "d7/dde/class_nu_get_gallery_1_1_functional_tests_1_1_dist_integration_tests" ]
     ] ],
     [ "DistributedCache.cs", "db/d07/_distributed_cache_8cs.html", [
       [ "DistributedCache", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache.html", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache" ]
@@ -4908,9 +2753,6 @@ var files_dup =
     [ "DownloadablesOptions.cs", "dd/d8e/_downloadables_options_8cs.html", [
       [ "DownloadablesOptions", "da/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables_1_1_downloadables_options.html", "da/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables_1_1_downloadables_options" ]
     ] ],
-    [ "DownloadCountObjectMaterializedInterceptor.cs", "d0/d8a/_download_count_object_materialized_interceptor_8cs.html", [
-      [ "DownloadCountObjectMaterializedInterceptor", "df/d91/class_nu_get_gallery_1_1_download_count_object_materialized_interceptor.html", "df/d91/class_nu_get_gallery_1_1_download_count_object_materialized_interceptor" ]
-    ] ],
     [ "DSAKeyValueType.cs", "d2/d64/_d_s_a_key_value_type_8cs.html", [
       [ "DSAKeyValueType", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_d_s_a_key_value_type.html", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_d_s_a_key_value_type" ]
     ] ],
@@ -4933,9 +2775,6 @@ var files_dup =
     [ "DynamicComponentBaseV1.cs", "df/dee/_dynamic_component_base_v1_8cs.html", [
       [ "DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1" ]
     ] ],
-    [ "DynamicDataManager.cs", "db/d3d/_dynamic_data_manager_8cs.html", [
-      [ "DynamicDataManager", "d7/d12/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_dynamic_data_manager.html", null ]
-    ] ],
     [ "EarliestPickupDateType.cs", "d1/dee/_earliest_pickup_date_type_8cs.html", [
       [ "EarliestPickupDateType", "dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_earliest_pickup_date_type.html", null ]
     ] ],
@@ -4951,29 +2790,6 @@ var files_dup =
     [ "EconomicOperatorShortListType.cs", "d1/d0f/_economic_operator_short_list_type_8cs.html", [
       [ "EconomicOperatorShortListType", "db/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_short_list_type.html", "db/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_short_list_type" ]
     ] ],
-    [ "Edge.cs", "d2/dec/_edge_8cs.html", [
-      [ "Edge", "d2/d5b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_edge.html", "d2/d5b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_edge" ]
-    ] ],
-    [ "Edit.aspx.cs", "d3/d31/_edit_8aspx_8cs.html", [
-      [ "Edit", "dc/d91/class_nu_get_gallery_1_1_edit.html", "dc/d91/class_nu_get_gallery_1_1_edit" ]
-    ] ],
-    [ "Edit.aspx.designer.cs", "db/ded/_edit_8aspx_8designer_8cs.html", [
-      [ "Edit", "dc/d91/class_nu_get_gallery_1_1_edit.html", "dc/d91/class_nu_get_gallery_1_1_edit" ]
-    ] ],
-    [ "EditableFeatureFlagFileStorageService.cs", "d3/d6b/_editable_feature_flag_file_storage_service_8cs.html", [
-      [ "EditableFeatureFlagFileStorageService", "d1/dba/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service.html", "d1/dba/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service" ]
-    ] ],
-    [ "EditableFeatureFlagFileStorageServiceFacts.cs", "d6/d7d/_editable_feature_flag_file_storage_service_facts_8cs.html", [
-      [ "EditableFeatureFlagFileStorageServiceFacts", "d5/dd7/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts.html", "d5/dd7/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts" ],
-      [ "GetAsync", "d3/d2d/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_async.html", "d3/d2d/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_async" ],
-      [ "GetReferenceAsync", "d9/d59/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_reference_async.html", "d9/d59/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_get_reference_async" ],
-      [ "TrySaveAsync", "d2/d6f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_save_async.html", "d2/d6f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_save_async" ],
-      [ "TryRemoveUserAsync", "d7/dfe/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_remove_user_async.html", "d7/dfe/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_try_remove_user_async" ],
-      [ "FactsBase", "dc/d4f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_facts_base.html", "dc/d4f/class_nu_get_gallery_1_1_features_1_1_editable_feature_flag_file_storage_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "EditPackageVersionRequest.cs", "df/d42/_edit_package_version_request_8cs.html", [
-      [ "EditPackageVersionReadMeRequest", "d1/d10/class_nu_get_gallery_1_1_edit_package_version_read_me_request.html", "d1/d10/class_nu_get_gallery_1_1_edit_package_version_read_me_request" ]
-    ] ],
     [ "EffectiveDateType.cs", "d3/da7/_effective_date_type_8cs.html", [
       [ "EffectiveDateType", "d4/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_effective_date_type.html", null ]
     ] ],
@@ -4986,48 +2802,6 @@ var files_dup =
     [ "ElectronicMailType.cs", "d3/da2/_electronic_mail_type_8cs.html", [
       [ "ElectronicMailType", "d7/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_electronic_mail_type.html", null ]
     ] ],
-    [ "ElmahException.cs", "d2/d13/_elmah_exception_8cs.html", [
-      [ "ElmahException", "dc/d73/class_nu_get_gallery_1_1_elmah_exception.html", "dc/d73/class_nu_get_gallery_1_1_elmah_exception" ]
-    ] ],
-    [ "ElmahExceptionFacts.cs", "da/db7/_elmah_exception_facts_8cs.html", [
-      [ "ElmahExceptionFacts", "db/dd7/class_nu_get_gallery_1_1_infrastructure_1_1_elmah_exception_facts.html", "db/dd7/class_nu_get_gallery_1_1_infrastructure_1_1_elmah_exception_facts" ]
-    ] ],
-    [ "ElmahHandleErrorAttribute.cs", "d1/d43/_elmah_handle_error_attribute_8cs.html", [
-      [ "ElmahHandleErrorAttribute", "d3/d19/class_nu_get_gallery_1_1_diagnostics_1_1_elmah_handle_error_attribute.html", "d3/d19/class_nu_get_gallery_1_1_diagnostics_1_1_elmah_handle_error_attribute" ]
-    ] ],
-    [ "EmailAddress.ascx.cs", "de/d27/_email_address_8ascx_8cs.html", [
-      [ "EmailAddressField", "db/dc2/class_nu_get_gallery_1_1_email_address_field.html", "db/dc2/class_nu_get_gallery_1_1_email_address_field" ]
-    ] ],
-    [ "EmailAddress.ascx.designer.cs", "df/d02/_email_address_8ascx_8designer_8cs.html", [
-      [ "EmailAddressField", "db/dc2/class_nu_get_gallery_1_1_email_address_field.html", "db/dc2/class_nu_get_gallery_1_1_email_address_field" ]
-    ] ],
-    [ "EmailBuilderFactory.cs", "dc/d52/_email_builder_factory_8cs.html", [
-      [ "EmailBuilderFactory", "d3/dda/class_nu_get_gallery_1_1_account_deleter_1_1_email_builder_factory.html", "d3/dda/class_nu_get_gallery_1_1_account_deleter_1_1_email_builder_factory" ]
-    ] ],
-    [ "EmailBuilderFacts.cs", "d5/d4c/_email_builder_facts_8cs.html", [
-      [ "EmailBuilderFacts", "d6/d3b/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_email_builder_facts.html", "d6/d3b/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_email_builder_facts" ]
-    ] ],
-    [ "EmailChangeConfirmationMessage.cs", "d5/dcb/_email_change_confirmation_message_8cs.html", [
-      [ "EmailChangeConfirmationMessage", "d1/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message.html", "d1/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message" ]
-    ] ],
-    [ "EmailChangeConfirmationMessageFacts.cs", "d4/da8/_email_change_confirmation_message_facts_8cs.html", [
-      [ "EmailChangeConfirmationMessageFacts", "d9/d6e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts.html", "d9/d6e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts" ],
-      [ "TheConstructor", "da/df4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts_1_1_the_constructor.html", "da/df4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0" ],
-      [ "TheGetBodyMethod", "df/dc4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57.html", "df/dc4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57" ]
-    ] ],
-    [ "EmailChangeNoticeToPreviousEmailAddressMessage.cs", "dc/d07/_email_change_notice_to_previous_email_address_message_8cs.html", [
-      [ "EmailChangeNoticeToPreviousEmailAddressMessage", "da/d88/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message.html", "da/d88/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message" ]
-    ] ],
-    [ "EmailChangeNoticeToPreviousEmailAddressMessageFacts.cs", "d5/dd9/_email_change_notice_to_previous_email_address_message_facts_8cs.html", [
-      [ "EmailChangeNoticeToPreviousEmailAddressMessageFacts", "d2/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message_facts.html", "d2/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previous_email_address_message_facts" ],
-      [ "TheConstructor", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previoucae341e4d1de3a26e981bb9c77965957.html", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previoucae341e4d1de3a26e981bb9c77965957" ],
-      [ "TheGetRecipientsMethod", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805" ],
-      [ "TheGetBodyMethod", "d2/db8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou271d6d7cc46baed6499de649339c3459.html", "d2/db8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou271d6d7cc46baed6499de649339c3459" ]
-    ] ],
-    [ "EmailConfiguration.cs", "db/da5/_email_configuration_8cs.html", [
-      [ "EmailConfiguration", "db/d51/class_nu_get_gallery_1_1_account_deleter_1_1_email_configuration.html", "db/d51/class_nu_get_gallery_1_1_account_deleter_1_1_email_configuration" ]
-    ] ],
     [ "EmailGroup.cs", "d1/d47/_email_group_8cs.html", [
       [ "EmailGroup", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group.html", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group" ]
     ] ],
@@ -5037,28 +2811,18 @@ var files_dup =
     [ "EmailHelpers.cs", "dc/d88/_email_helpers_8cs.html", [
       [ "EmailHelpers", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers.html", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers" ]
     ] ],
-    [ "EmailMessage.cs", "d9/db2/_email_message_8cs.html", [
-      [ "EmailMessage", "de/d54/class_nu_get_1_1_services_1_1_entities_1_1_email_message.html", "de/d54/class_nu_get_1_1_services_1_1_entities_1_1_email_message" ]
-    ] ],
-    [ "EmailMessageFooter.cs", "d4/d82/_email_message_footer_8cs.html", null ],
     [ "EmailOptions.cs", "dd/d6e/_email_options_8cs.html", [
       [ "EmailOptions", "d1/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails_1_1_email_options.html", "d1/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails_1_1_email_options" ]
     ] ],
-    [ "EmailRecipientsHelper.cs", "dd/d6b/_email_recipients_helper_8cs.html", null ],
     [ "EmailSignature.cs", "d9/dca/_email_signature_8cs.html", [
       [ "EmailSignature", "d0/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures_1_1_email_signature.html", null ]
     ] ],
     [ "EmailTemplate.cs", "db/df1/_email_template_8cs.html", [
       [ "EmailTemplate", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template.html", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template" ]
     ] ],
-    [ "EmailValidationRegex.cs", "dc/d8e/_email_validation_regex_8cs.html", [
-      [ "EmailValidationRegex", "db/d09/class_nu_get_gallery_1_1_email_validation_regex.html", "db/d09/class_nu_get_gallery_1_1_email_validation_regex" ]
-    ] ],
     [ "EmbeddedDocumentBinaryObjectType.cs", "d1/d97/_embedded_document_binary_object_type_8cs.html", [
       [ "EmbeddedDocumentBinaryObjectType", "de/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_embedded_document_binary_object_type.html", null ]
     ] ],
-    [ "EmbeddedLicenseFileType.cs", "de/d26/_embedded_license_file_type_8cs.html", "de/d26/_embedded_license_file_type_8cs" ],
-    [ "EmbeddedReadmeFileType.cs", "de/dc0/_embedded_readme_file_type_8cs.html", "de/dc0/_embedded_readme_file_type_8cs" ],
     [ "EmergencyProceduresCodeType.cs", "d4/d4a/_emergency_procedures_code_type_8cs.html", [
       [ "EmergencyProceduresCodeType", "d2/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_emergency_procedures_code_type.html", null ]
     ] ],
@@ -5104,18 +2868,6 @@ var files_dup =
     [ "FenixAlliance.ABM.Models.DTOs/Components/Workforce/Employers/EmployerProfile.cs", "d3/d4a/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_workforce_2_employers_2_employer_profile_8cs.html", [
       [ "EmployerProfile", "df/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_employers_1_1_employer_profile.html", null ]
     ] ],
-    [ "EmptyDeleteAccountService.cs", "d6/dca/_empty_delete_account_service_8cs.html", [
-      [ "EmptyDeleteAccountService", "da/da2/class_nu_get_gallery_1_1_account_deleter_1_1_empty_delete_account_service.html", "da/da2/class_nu_get_gallery_1_1_account_deleter_1_1_empty_delete_account_service" ]
-    ] ],
-    [ "EmptyIndexingService.cs", "da/d67/_empty_indexing_service_8cs.html", [
-      [ "EmptyIndexingService", "d0/db0/class_nu_get_gallery_1_1_account_deleter_1_1_empty_indexing_service.html", "d0/db0/class_nu_get_gallery_1_1_account_deleter_1_1_empty_indexing_service" ]
-    ] ],
-    [ "EmptySecretReaderFactory.cs", "df/da7/_empty_secret_reader_factory_8cs.html", [
-      [ "EmptySecretReaderFactory", "de/d94/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_empty_secret_reader_factory.html", "de/d94/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_empty_secret_reader_factory" ]
-    ] ],
-    [ "EmptyUserService.cs", "d8/d16/_empty_user_service_8cs.html", [
-      [ "EmptyUserService", "da/d07/class_nu_get_gallery_1_1_account_deleter_1_1_empty_user_service.html", "da/d07/class_nu_get_gallery_1_1_account_deleter_1_1_empty_user_service" ]
-    ] ],
     [ "EnableAuthenticatorViewModel.cs", "dd/de5/_enable_authenticator_view_model_8cs.html", [
       [ "EnableAuthenticatorViewModel", "de/d08/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_enable_authenticator_view_model.html", "de/d08/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_enable_authenticator_view_model" ]
     ] ],
@@ -5137,7 +2889,6 @@ var files_dup =
     [ "EndpointIDType.cs", "df/d06/_endpoint_i_d_type_8cs.html", [
       [ "EndpointIDType", "da/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_endpoint_i_d_type.html", null ]
     ] ],
-    [ "EndpointType.cs", "de/dfb/_endpoint_type_8cs.html", "de/dfb/_endpoint_type_8cs" ],
     [ "EndTimeType.cs", "d0/d8a/_end_time_type_8cs.html", [
       [ "EndTimeType", "d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_end_time_type.html", null ]
     ] ],
@@ -5153,60 +2904,11 @@ var files_dup =
     [ "EnrollmentsController.cs", "d7/d01/_enrollments_controller_8cs.html", [
       [ "EnrollmentsController", "df/dcc/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_enrollments_controller.html", "df/dcc/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_enrollments_controller" ]
     ] ],
-    [ "EntitiesConfiguration.cs", "d7/d48/_entities_configuration_8cs.html", [
-      [ "EntitiesConfiguration", "d0/d40/class_nu_get_gallery_1_1_entities_configuration.html", "d0/d40/class_nu_get_gallery_1_1_entities_configuration" ]
-    ] ],
-    [ "EntitiesContext.cs", "dd/d63/_entities_context_8cs.html", [
-      [ "GalleryDbContextFactory", "dc/d6a/class_nu_get_gallery_1_1_gallery_db_context_factory.html", "dc/d6a/class_nu_get_gallery_1_1_gallery_db_context_factory" ],
-      [ "EntitiesContext", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html", "d4/d1d/class_nu_get_gallery_1_1_entities_context" ]
-    ] ],
-    [ "EntitiesContextExtensions.cs", "d9/d33/_entities_context_extensions_8cs.html", null ],
-    [ "EntitiesContextFacts.cs", "d0/d2d/_entities_context_facts_8cs.html", [
-      [ "EntitiesContextFacts", "d5/d0a/class_nu_get_gallery_1_1_entities_1_1_entities_context_facts.html", "d5/d0a/class_nu_get_gallery_1_1_entities_1_1_entities_context_facts" ]
-    ] ],
     [ "Entitlement.cs", "d7/d79/_entitlement_8cs.html", [
       [ "Entitlement", "d2/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement.html", "d2/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement" ]
     ] ],
     [ "Entity.cs", "de/db3/_entity_8cs.html", [
       [ "Entity", "d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_entities_1_1_entity.html", "d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_entities_1_1_entity" ]
-    ] ],
-    [ "EntityException.cs", "d9/d2c/_entity_exception_8cs.html", [
-      [ "EntityException", "d4/d6f/class_nu_get_1_1_services_1_1_entities_1_1_entity_exception.html", "d4/d6f/class_nu_get_1_1_services_1_1_entities_1_1_entity_exception" ]
-    ] ],
-    [ "EntityRepository.cs", "de/daa/_entity_repository_8cs.html", [
-      [ "EntityRepository", "d1/d24/class_nu_get_gallery_1_1_entity_repository.html", "d1/d24/class_nu_get_gallery_1_1_entity_repository" ]
-    ] ],
-    [ "EntitySetCountRoutingConvention.cs", "dd/db2/_entity_set_count_routing_convention_8cs.html", [
-      [ "EntitySetCountRoutingConvention", "de/d68/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_count_routing_convention.html", "de/d68/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_count_routing_convention" ]
-    ] ],
-    [ "EntitySetPropertyRoutingConvention.cs", "d7/d57/_entity_set_property_routing_convention_8cs.html", [
-      [ "EntitySetPropertyRoutingConvention", "da/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_property_routing_convention.html", "da/d08/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_entity_set_property_routing_convention" ]
-    ] ],
-    [ "FieldTemplates/Enumeration.ascx.cs", "df/d47/_field_templates_2_enumeration_8ascx_8cs.html", [
-      [ "EnumerationField", "d2/dcb/class_nu_get_gallery_1_1_enumeration_field.html", "d2/dcb/class_nu_get_gallery_1_1_enumeration_field" ]
-    ] ],
-    [ "Filters/Enumeration.ascx.cs", "d1/d2c/_filters_2_enumeration_8ascx_8cs.html", [
-      [ "EnumerationFilter", "d3/da2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_enumeration_filter.html", "d3/da2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_enumeration_filter" ]
-    ] ],
-    [ "FieldTemplates/Enumeration.ascx.designer.cs", "d1/df8/_field_templates_2_enumeration_8ascx_8designer_8cs.html", [
-      [ "EnumerationField", "d2/dcb/class_nu_get_gallery_1_1_enumeration_field.html", "d2/dcb/class_nu_get_gallery_1_1_enumeration_field" ]
-    ] ],
-    [ "Filters/Enumeration.ascx.designer.cs", "dc/dab/_filters_2_enumeration_8ascx_8designer_8cs.html", [
-      [ "EnumerationFilter", "d3/da2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_enumeration_filter.html", "d3/da2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_enumeration_filter" ]
-    ] ],
-    [ "Enumeration_Edit.ascx.cs", "df/d7e/_enumeration___edit_8ascx_8cs.html", [
-      [ "Enumeration_EditField", "d6/de2/class_nu_get_gallery_1_1_enumeration___edit_field.html", "d6/de2/class_nu_get_gallery_1_1_enumeration___edit_field" ]
-    ] ],
-    [ "Enumeration_Edit.ascx.designer.cs", "d7/d41/_enumeration___edit_8ascx_8designer_8cs.html", [
-      [ "Enumeration_EditField", "d6/de2/class_nu_get_gallery_1_1_enumeration___edit_field.html", "d6/de2/class_nu_get_gallery_1_1_enumeration___edit_field" ]
-    ] ],
-    [ "EnumHelper.cs", "df/db5/_enum_helper_8cs.html", null ],
-    [ "EnumHelperFacts.cs", "d4/d34/_enum_helper_facts_8cs.html", [
-      [ "EnumHelperFacts", "de/df2/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts.html", "de/df2/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts" ],
-      [ "TheGetDescriptionMethod", "d5/d47/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts_1_1_the_get_description_method.html", "d5/d47/class_nu_get_gallery_1_1_helpers_1_1_enum_helper_facts_1_1_the_get_description_method" ]
-    ] ],
-    [ "EnumTests.cs", "d4/dbd/_enum_tests_8cs.html", [
-      [ "EnumTests", "dd/d19/class_nu_get_gallery_1_1_auditing_1_1_enum_tests.html", "dd/d19/class_nu_get_gallery_1_1_auditing_1_1_enum_tests" ]
     ] ],
     [ "EnvironmentalEmissionType.cs", "dd/d00/_environmental_emission_type_8cs.html", [
       [ "EnvironmentalEmissionType", "dc/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_environmental_emission_type.html", "dc/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_environmental_emission_type" ]
@@ -5214,7 +2916,6 @@ var files_dup =
     [ "EnvironmentalEmissionTypeCodeType.cs", "d7/daf/_environmental_emission_type_code_type_8cs.html", [
       [ "EnvironmentalEmissionTypeCodeType", "df/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_environmental_emission_type_code_type.html", null ]
     ] ],
-    [ "EnvironmentSettings.cs", "d1/d75/_environment_settings_8cs.html", null ],
     [ "EPaycoCheckOut.cs", "df/df5/_e_payco_check_out_8cs.html", [
       [ "EPaycoCheckOut", "de/d6e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_e_payco_check_out.html", null ]
     ] ],
@@ -5227,12 +2928,6 @@ var files_dup =
     ] ],
     [ "ErrorController.cs", "d3/d2a/_error_controller_8cs.html", [
       [ "ErrorController", "d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller.html", "d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller" ]
-    ] ],
-    [ "ErrorHandlingTests.cs", "d8/d9c/_error_handling_tests_8cs.html", [
-      [ "ErrorHandlingTests", "d6/dfb/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_error_handling_tests.html", "d6/dfb/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_error_handling_tests" ]
-    ] ],
-    [ "ErrorsController.cs", "d8/dad/_errors_controller_8cs.html", [
-      [ "ErrorsController", "d5/de8/class_nu_get_gallery_1_1_errors_controller.html", "d5/de8/class_nu_get_gallery_1_1_errors_controller" ]
     ] ],
     [ "FenixAlliance.ABM/FenixAlliance.ABM.Models/ErrorViewModel.cs", "d7/db8/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_models_2_error_view_model_8cs.html", [
       [ "ErrorViewModel", "d3/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_error_view_model.html", "d3/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_error_view_model" ]
@@ -5270,10 +2965,6 @@ var files_dup =
     [ "EvaluationCriterionTypeCodeType.cs", "d4/d14/_evaluation_criterion_type_code_type_8cs.html", [
       [ "EvaluationCriterionTypeCodeType", "d0/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_evaluation_criterion_type_code_type.html", null ]
     ] ],
-    [ "EvaluatorFacts.cs", "d8/ddb/_evaluator_facts_8cs.html", [
-      [ "EvaluatorFacts", "db/d09/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_evaluator_facts.html", "db/d09/class_nu_get_gallery_1_1_account_deleter_1_1_facts_1_1_evaluator_facts" ]
-    ] ],
-    [ "EvaluatorKey.cs", "da/d1b/_evaluator_key_8cs.html", "da/d1b/_evaluator_key_8cs" ],
     [ "EventCommentType.cs", "d0/d82/_event_comment_type_8cs.html", [
       [ "EventCommentType", "d5/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_comment_type.html", "d5/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_event_comment_type" ]
     ] ],
@@ -5361,19 +3052,6 @@ var files_dup =
     [ "ExpenseType.cs", "d3/d7b/_expense_type_8cs.html", [
       [ "ExpenseType", "db/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types_1_1_expense_type.html", "db/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types_1_1_expense_type" ]
     ] ],
-    [ "ExperimentsController.cs", "d4/d91/_experiments_controller_8cs.html", [
-      [ "ExperimentsController", "d8/d70/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller.html", "d8/d70/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller" ]
-    ] ],
-    [ "ExperimentsControllerFacts.cs", "d2/d1a/_experiments_controller_facts_8cs.html", [
-      [ "ExperimentsControllerFacts", "d3/d7d/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts.html", [
-        [ "Facts", "d2/dd8/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_facts.html", "d2/dd8/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_facts" ],
-        [ "GetSearchSideBySide", "d2/d8c/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_get_search_side_by_side.html", "d2/d8c/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_get_search_side_by_side" ],
-        [ "PostSearchSideBySide", "dc/d3a/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_post_search_side_by_side.html", "dc/d3a/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_post_search_side_by_side" ]
-      ] ],
-      [ "GetSearchSideBySide", "d2/d8c/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_get_search_side_by_side.html", "d2/d8c/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_get_search_side_by_side" ],
-      [ "PostSearchSideBySide", "dc/d3a/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_post_search_side_by_side.html", "dc/d3a/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_post_search_side_by_side" ],
-      [ "Facts", "d2/dd8/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_facts.html", "d2/dd8/class_nu_get_gallery_1_1_controllers_1_1_experiments_controller_facts_1_1_facts" ]
-    ] ],
     [ "ExpiryDateType.cs", "dd/dcd/_expiry_date_type_8cs.html", [
       [ "ExpiryDateType", "df/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_expiry_date_type.html", null ]
     ] ],
@@ -5401,15 +3079,6 @@ var files_dup =
     [ "ExtensionAgencyURIType.cs", "de/dbd/_extension_agency_u_r_i_type_8cs.html", [
       [ "ExtensionAgencyURIType", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_extension_agency_u_r_i_type.html", null ]
     ] ],
-    [ "ExtensionMethods.cs", "d7/d00/_extension_methods_8cs.html", null ],
-    [ "ExtensionMethodsFacts.cs", "de/d17/_extension_methods_facts_8cs.html", [
-      [ "ExtensionMethodsFacts", "d6/d1d/class_nu_get_gallery_1_1_extension_methods_facts.html", [
-        [ "TheGetCurrentUserMethod", "d8/d92/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_get_current_user_method.html", "d8/d92/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_get_current_user_method" ],
-        [ "TheToFriendlyNameMethod", "d6/d74/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_to_friendly_name_method.html", "d6/d74/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_to_friendly_name_method" ]
-      ] ],
-      [ "TheToFriendlyNameMethod", "d6/d74/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_to_friendly_name_method.html", "d6/d74/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_to_friendly_name_method" ],
-      [ "TheGetCurrentUserMethod", "d8/d92/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_get_current_user_method.html", "d8/d92/class_nu_get_gallery_1_1_extension_methods_facts_1_1_the_get_current_user_method" ]
-    ] ],
     [ "ExtensionReasonCodeType.cs", "d2/d42/_extension_reason_code_type_8cs.html", [
       [ "ExtensionReasonCodeType", "dd/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_extension_reason_code_type.html", null ]
     ] ],
@@ -5435,15 +3104,6 @@ var files_dup =
     [ "ExternalReferenceType.cs", "d8/d21/_external_reference_type_8cs.html", [
       [ "ExternalReferenceType", "d5/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_external_reference_type.html", "d5/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_external_reference_type" ]
     ] ],
-    [ "ExternalSearchService.cs", "d4/d77/_external_search_service_8cs.html", [
-      [ "ExternalSearchService", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html", "d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service" ]
-    ] ],
-    [ "ExternalSearchServiceFacts.cs", "d0/d01/_external_search_service_facts_8cs.html", [
-      [ "ExternalSearchServiceFacts", "df/dc1/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts.html", [
-        [ "TheReadPackageMethod", "d3/d5e/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts_1_1_the_read_package_method.html", "d3/d5e/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts_1_1_the_read_package_method" ]
-      ] ],
-      [ "TheReadPackageMethod", "d3/d5e/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts_1_1_the_read_package_method.html", "d3/d5e/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service_facts_1_1_the_read_package_method" ]
-    ] ],
     [ "FacebookAuthenticationOptions.cs", "d1/d91/_facebook_authentication_options_8cs.html", [
       [ "FacebookAuthenticationOptions", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831" ]
     ] ],
@@ -5453,102 +3113,20 @@ var files_dup =
     [ "FaceValueAmountType.cs", "d2/d36/_face_value_amount_type_8cs.html", [
       [ "FaceValueAmountType", "d7/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_face_value_amount_type.html", null ]
     ] ],
-    [ "FailedAuthenticatedOperationAuditRecord.cs", "d4/dea/_failed_authenticated_operation_audit_record_8cs.html", [
-      [ "FailedAuthenticatedOperationAuditRecord", "da/d72/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record.html", "da/d72/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record" ]
-    ] ],
-    [ "FailedAuthenticatedOperationAuditRecordTests.cs", "d1/d2b/_failed_authenticated_operation_audit_record_tests_8cs.html", [
-      [ "FailedAuthenticatedOperationAuditRecordTests", "d8/d7e/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record_tests.html", "d8/d7e/class_nu_get_gallery_1_1_auditing_1_1_failed_authenticated_operation_audit_record_tests" ]
-    ] ],
-    [ "FakeAuditingService.cs", "dc/d73/_fake_auditing_service_8cs.html", [
-      [ "FakeAuditingService", "db/d75/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_auditing_service.html", "db/d75/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_auditing_service" ]
-    ] ],
-    [ "FakeContentObjectService.cs", "d4/d97/_fake_content_object_service_8cs.html", [
-      [ "FakeContentObjectService", "dc/dd3/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_content_object_service.html", "dc/dd3/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_content_object_service" ]
-    ] ],
-    [ "src/VerifyMicrosoftPackage/Fakes/FakeEntitiesContext.cs", "da/d06/src_2_verify_microsoft_package_2_fakes_2_fake_entities_context_8cs.html", [
-      [ "FakeEntitiesContext", "d7/d90/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entities_context.html", "d7/d90/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entities_context" ]
-    ] ],
-    [ "tests/NuGetGallery.Facts/TestUtils/FakeEntitiesContext.cs", "d2/dfc/tests_2_nu_get_gallery_8_facts_2_test_utils_2_fake_entities_context_8cs.html", [
-      [ "FakeEntitiesContext", "d7/d2b/class_nu_get_gallery_1_1_fake_entities_context.html", "d7/d2b/class_nu_get_gallery_1_1_fake_entities_context" ]
-    ] ],
-    [ "FakeEntityRepository.cs", "d0/dab/_fake_entity_repository_8cs.html", [
-      [ "FakeEntityRepository", "da/d84/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entity_repository.html", "da/d84/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_entity_repository" ]
-    ] ],
-    [ "Fakes.cs", "df/d89/_fakes_8cs.html", [
-      [ "Fakes", "d7/da4/class_nu_get_gallery_1_1_framework_1_1_fakes.html", "d7/da4/class_nu_get_gallery_1_1_framework_1_1_fakes" ]
-    ] ],
-    [ "FakeSecurityPolicyService.cs", "da/d88/_fake_security_policy_service_8cs.html", [
-      [ "FakeSecurityPolicyService", "d4/dbf/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_security_policy_service.html", "d4/dbf/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_security_policy_service" ]
-    ] ],
-    [ "FakeTelemetryService.cs", "d9/dd7/_fake_telemetry_service_8cs.html", [
-      [ "FakeTelemetryService", "d5/d7a/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_telemetry_service.html", "d5/d7a/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_telemetry_service" ]
-    ] ],
     [ "FamilyNameType.cs", "da/d2f/_family_name_type_8cs.html", [
       [ "FamilyNameType", "d8/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_family_name_type.html", null ]
     ] ],
     [ "Favicons.cs", "db/d0b/_favicons_8cs.html", [
       [ "Favicons", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons.html", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons" ]
     ] ],
-    [ "FeatureConfiguration.cs", "dd/d51/_feature_configuration_8cs.html", [
-      [ "FeatureConfiguration", "d6/d4d/class_nu_get_gallery_1_1_configuration_1_1_feature_configuration.html", "d6/d4d/class_nu_get_gallery_1_1_configuration_1_1_feature_configuration" ]
-    ] ],
     [ "FeaturedImageRolloverOptions.cs", "d3/d7f/_featured_image_rollover_options_8cs.html", [
       [ "FeaturedImageRolloverOptions", "dd/d87/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_others_1_1_feeb767d84d08f8cb7ec548e9b534e069.html", null ]
-    ] ],
-    [ "FeatureFlagClientExtensions.cs", "dc/d8d/_feature_flag_client_extensions_8cs.html", null ],
-    [ "FeatureFlagClientExtensionsFacts.cs", "d7/d49/_feature_flag_client_extensions_facts_8cs.html", [
-      [ "FeatureFlagClientExtensionsFacts", "d4/d65/class_nu_get_gallery_1_1_features_1_1_feature_flag_client_extensions_facts.html", "d4/d65/class_nu_get_gallery_1_1_features_1_1_feature_flag_client_extensions_facts" ]
-    ] ],
-    [ "FeatureFlagFileStorageService.cs", "df/dd8/_feature_flag_file_storage_service_8cs.html", [
-      [ "FeatureFlagFileStorageService", "d0/dbd/class_nu_get_gallery_1_1_features_1_1_feature_flag_file_storage_service.html", "d0/dbd/class_nu_get_gallery_1_1_features_1_1_feature_flag_file_storage_service" ]
-    ] ],
-    [ "FeatureFlagReference.cs", "dc/d6a/_feature_flag_reference_8cs.html", [
-      [ "FeatureFlagReference", "d0/d55/class_nu_get_gallery_1_1_features_1_1_feature_flag_reference.html", "d0/d55/class_nu_get_gallery_1_1_features_1_1_feature_flag_reference" ]
-    ] ],
-    [ "FeatureFlagsAuditRecord.cs", "d1/de5/_feature_flags_audit_record_8cs.html", [
-      [ "FeatureFlagsAuditRecord", "da/d1d/class_nu_get_gallery_1_1_auditing_1_1_feature_flags_audit_record.html", "da/d1d/class_nu_get_gallery_1_1_auditing_1_1_feature_flags_audit_record" ]
-    ] ],
-    [ "FeatureFlagSaveResult.cs", "d9/d50/_feature_flag_save_result_8cs.html", "d9/d50/_feature_flag_save_result_8cs" ],
-    [ "FeatureFlagService.cs", "de/df5/_feature_flag_service_8cs.html", [
-      [ "FeatureFlagService", "d7/d4c/class_nu_get_gallery_1_1_feature_flag_service.html", "d7/d4c/class_nu_get_gallery_1_1_feature_flag_service" ]
-    ] ],
-    [ "FeatureFlagServiceFacts.cs", "d4/d69/_feature_flag_service_facts_8cs.html", [
-      [ "FeatureFlagServiceFacts", "dc/da7/class_nu_get_gallery_1_1_feature_flag_service_facts.html", [
-        [ "TheIsManageDeprecationEnabledMethod", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method" ]
-      ] ],
-      [ "TheIsManageDeprecationEnabledMethod", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method" ]
-    ] ],
-    [ "FeatureFlagsFeatureViewModel.cs", "d7/db8/_feature_flags_feature_view_model_8cs.html", [
-      [ "FeatureFlagsFeatureViewModel", "da/d59/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_feature_view_model.html", "da/d59/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_feature_view_model" ]
-    ] ],
-    [ "FeatureFlagsFlightViewModel.cs", "dd/de6/_feature_flags_flight_view_model_8cs.html", [
-      [ "FeatureFlagsFlightViewModel", "dd/d94/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_flight_view_model.html", "dd/d94/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_flight_view_model" ]
-    ] ],
-    [ "FeatureFlagsViewModel.cs", "d0/dc4/_feature_flags_view_model_8cs.html", [
-      [ "FeatureFlagsViewModel", "d6/d58/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_view_model.html", "d6/d58/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_feature_flags_view_model" ]
     ] ],
     [ "FeatureOptions.cs", "d0/d3b/_feature_options_8cs.html", [
       [ "FeatureOptions", "d5/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_feature_options.html", null ]
     ] ],
-    [ "FenixAlliance.ABP/FenixAlliance.ABP.Hub/Controllers/FeaturesController.cs", "d5/db6/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_hub_2_controllers_2_features_controller_8cs.html", [
+    [ "FeaturesController.cs", "d4/d34/_features_controller_8cs.html", [
       [ "FeaturesController", "d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller.html", "d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Areas/Admin/Controllers/FeaturesController.cs", "de/d06/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_areas_08f5dd458557812ecdd997f5e77045ae.html", [
-      [ "FeaturesController", "dc/dc5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_features_controller.html", "dc/dc5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_features_controller" ]
-    ] ],
-    [ "FeaturesControllerFacts.cs", "d0/ddb/_features_controller_facts_8cs.html", [
-      [ "FeaturesControllerFacts", "d7/d37/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts.html", "d7/d37/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts" ],
-      [ "TheIndexMethod", "d1/dd4/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_index_method.html", "d1/dd4/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_index_method" ],
-      [ "TheAddFeatureMethod", "d6/d3b/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_feature_method.html", "d6/d3b/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_feature_method" ],
-      [ "TheEditFeatureMethod", "d6/d63/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_feature_method.html", "d6/d63/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_feature_method" ],
-      [ "TheDeleteFeatureMethod", "d9/d6d/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_feature_method.html", "d9/d6d/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_feature_method" ],
-      [ "FeatureBase", "d1/d5c/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_feature_base.html", "d1/d5c/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_feature_base" ],
-      [ "TheAddFlightMethod", "dd/dd5/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_flight_method.html", "dd/dd5/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_add_flight_method" ],
-      [ "TheEditFlightMethod", "d3/da0/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_flight_method.html", "d3/da0/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_edit_flight_method" ],
-      [ "TheDeleteFlightMethod", "db/daa/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_flight_method.html", "db/daa/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_the_delete_flight_method" ],
-      [ "FlightBase", "df/d98/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_flight_base.html", "df/d98/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_flight_base" ],
-      [ "ModifyMethodBase", "d1/dfc/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_modify_method_base.html", "d1/dfc/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_modify_method_base" ],
-      [ "FeaturesControllerFactsBase", "de/da9/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_features_controller_facts_base.html", "de/da9/class_nu_get_gallery_1_1_controllers_1_1_features_controller_facts_1_1_features_controller_facts_base" ]
     ] ],
     [ "FeaturesViewModel.cs", "de/d3a/_features_view_model_8cs.html", [
       [ "FeaturesViewModel", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model.html", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model" ]
@@ -5562,41 +3140,6 @@ var files_dup =
     [ "FeeDescriptionType.cs", "dd/daa/_fee_description_type_8cs.html", [
       [ "FeeDescriptionType", "dc/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_fee_description_type.html", null ]
     ] ],
-    [ "FeedOnlyModeException.cs", "d7/db9/_feed_only_mode_exception_8cs.html", [
-      [ "FeedOnlyModeException", "d5/dba/class_nu_get_gallery_1_1_authentication_1_1_feed_only_mode_exception.html", "d5/dba/class_nu_get_gallery_1_1_authentication_1_1_feed_only_mode_exception" ]
-    ] ],
-    [ "FeedPackageAnnotationStrategy.cs", "d1/d97/_feed_package_annotation_strategy_8cs.html", null ],
-    [ "FeedServiceFacts.cs", "d1/df6/_feed_service_facts_8cs.html", [
-      [ "FeedServiceFacts", "d3/dd9/class_nu_get_gallery_1_1_feed_service_facts.html", "d3/dd9/class_nu_get_gallery_1_1_feed_service_facts" ],
-      [ "TheODataResponses", "de/d50/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses.html", [
-        [ "ForV1", "db/d92/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v1.html", "db/d92/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v1" ],
-        [ "ForV2", "da/d22/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v2.html", "da/d22/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v2" ]
-      ] ],
-      [ "ForV1", "db/d92/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v1.html", "db/d92/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v1" ],
-      [ "ForV2", "da/d22/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v2.html", "da/d22/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_o_data_responses_1_1_for_v2" ],
-      [ "TheGetSiteRootMethod", "d2/dad/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_get_site_root_method.html", "d2/dad/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_get_site_root_method" ],
-      [ "TheV1Feed", "d8/d57/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed.html", [
-        [ "TheFindPackagesByIdMethod", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method.html", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method" ],
-        [ "TheODataFilter", "d2/d46/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_o_data_filter.html", "d2/d46/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_o_data_filter" ],
-        [ "TheSearchMethod", "dc/da2/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_search_method.html", "dc/da2/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_search_method" ]
-      ] ],
-      [ "TheSearchMethod", "dc/da2/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_search_method.html", "dc/da2/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_search_method" ],
-      [ "TheFindPackagesByIdMethod", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method.html", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method" ],
-      [ "TheODataFilter", "d2/d46/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_o_data_filter.html", "d2/d46/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_o_data_filter" ],
-      [ "TheV2Feed", "dc/dde/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed.html", [
-        [ "TheFindPackagesByIdMethod", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method" ],
-        [ "TheGetUpdatesMethod", "df/d36/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_get_updates_method.html", "df/d36/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_get_updates_method" ],
-        [ "TheODataFilter", "d0/d5d/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_o_data_filter.html", "d0/d5d/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_o_data_filter" ],
-        [ "ThePackagesCollection", "dc/d63/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_packages_collection.html", "dc/d63/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_packages_collection" ],
-        [ "TheSearchMethod", "d0/d7b/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_search_method.html", "d0/d7b/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_search_method" ]
-      ] ],
-      [ "ThePackagesCollection", "dc/d63/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_packages_collection.html", "dc/d63/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_packages_collection" ],
-      [ "TheFindPackagesByIdMethod", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method" ],
-      [ "TheSearchMethod", "d0/d7b/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_search_method.html", "d0/d7b/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_search_method" ],
-      [ "TheGetUpdatesMethod", "df/d36/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_get_updates_method.html", "df/d36/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_get_updates_method" ],
-      [ "TheODataFilter", "d0/d5d/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_o_data_filter.html", "d0/d5d/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_o_data_filter" ]
-    ] ],
-    [ "FeedServiceHelpers.cs", "d6/d38/_feed_service_helpers_8cs.html", null ],
     [ "FenixAllianceIntegrationsOptions.cs", "d8/d49/_fenix_alliance_integrations_options_8cs.html", [
       [ "FenixAllianceIntegrationsOptions", "d1/df5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_14c3fb4f57647cc9d71151cbe0d21728.html", "d1/df5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_14c3fb4f57647cc9d71151cbe0d21728" ]
     ] ],
@@ -5606,10 +3149,6 @@ var files_dup =
     [ "FenixAlliance.ABM.Models.DTOs/Components/Contacts/ContactProfiles/FieldAgentProfile.cs", "d4/d64/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_contacts_2_contact_profiles_2_field_agent_profile_8cs.html", [
       [ "FieldAgentProfile", "db/dc1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_field_agent_profile.html", null ]
     ] ],
-    [ "FileAlreadyExistsException.cs", "d8/d86/_file_already_exists_exception_8cs.html", [
-      [ "FileAlreadyExistsException", "d3/de1/class_nu_get_gallery_1_1_file_already_exists_exception.html", "d3/de1/class_nu_get_gallery_1_1_file_already_exists_exception" ]
-    ] ],
-    [ "FileHelper.cs", "dc/d00/_file_helper_8cs.html", null ],
     [ "FileHelpers.cs", "d9/d1a/_file_helpers_8cs.html", null ],
     [ "FileManagerController.cs", "da/df6/_file_manager_controller_8cs.html", [
       [ "FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller" ]
@@ -5617,18 +3156,11 @@ var files_dup =
     [ "FileModel.cs", "d4/d2c/_file_model_8cs.html", [
       [ "FileModel", "dd/d99/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_file_model.html", "dd/d99/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_file_model" ]
     ] ],
-    [ "FIleNameHelper.cs", "d3/d4d/_f_ile_name_helper_8cs.html", null ],
     [ "FileNameType.cs", "da/d0c/_file_name_type_8cs.html", [
       [ "FileNameType", "d1/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_file_name_type.html", null ]
     ] ],
     [ "Files.cs", "db/d7b/_files_8cs.html", [
       [ "Files", "dc/d96/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_files.html", "dc/d96/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_files" ]
-    ] ],
-    [ "FileSystemAuditingService.cs", "df/d6c/_file_system_auditing_service_8cs.html", [
-      [ "FileSystemAuditingService", "d5/da9/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service.html", "d5/da9/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service" ]
-    ] ],
-    [ "FileSystemAuditingServiceTests.cs", "d4/d98/_file_system_auditing_service_tests_8cs.html", [
-      [ "FileSystemAuditingServiceTests", "d9/dc2/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service_tests.html", "d9/dc2/class_nu_get_gallery_1_1_auditing_1_1_file_system_auditing_service_tests" ]
     ] ],
     [ "FileSystemDirectory.cs", "d8/d8b/_file_system_directory_8cs.html", [
       [ "FileSystemDirectory", "d6/dac/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_directory.html", "d6/dac/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_directory" ]
@@ -5639,27 +3171,11 @@ var files_dup =
     [ "FileSystemFile.cs", "dc/dab/_file_system_file_8cs.html", [
       [ "FileSystemFile", "d4/d08/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_file.html", "d4/d08/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_file" ]
     ] ],
-    [ "FileSystemFileStorageService.cs", "d4/d00/_file_system_file_storage_service_8cs.html", [
-      [ "FileSystemFileStorageService", "d1/ded/class_nu_get_gallery_1_1_file_system_file_storage_service.html", "d1/ded/class_nu_get_gallery_1_1_file_system_file_storage_service" ]
-    ] ],
-    [ "FileSystemFileStorageServiceFacts.cs", "d4/dcf/_file_system_file_storage_service_facts_8cs.html", [
-      [ "FileSystemFileStorageServiceFacts", "d2/d8f/class_nu_get_gallery_1_1_file_system_file_storage_service_facts.html", "d2/d8f/class_nu_get_gallery_1_1_file_system_file_storage_service_facts" ],
-      [ "TheCreateDownloadFileActionResultMethod", "d3/db0/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_create_download_file_action_result_method.html", "d3/db0/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_create_download_file_action_result_method" ],
-      [ "TheDeleteFileMethod", "db/d42/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_delete_file_method.html", "db/d42/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_delete_file_method" ],
-      [ "TheGetFileMethod", "da/de4/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_get_file_method.html", "da/de4/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_get_file_method" ],
-      [ "TheCopyFileAsyncMethod", "d3/dd5/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_copy_file_async_method.html", "d3/dd5/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_copy_file_async_method" ],
-      [ "TheSaveFileMethod", "d7/da8/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_save_file_method.html", "d7/da8/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_save_file_method" ],
-      [ "TheSetMetadataAsyncMethod", "d5/d4d/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_metadata_async_method.html", "d5/d4d/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_metadata_async_method" ],
-      [ "TheSetPropertiesAsyncMethod", "df/d77/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_properties_async_method.html", "df/d77/class_nu_get_gallery_1_1_file_system_file_storage_service_facts_1_1_the_set_properties_async_method" ]
-    ] ],
     [ "FileSystemOptions.cs", "d2/d29/_file_system_options_8cs.html", [
       [ "FileSystemOptions", "d5/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_file_system_options.html", "d5/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_file_system_options" ]
     ] ],
-    [ "FenixAlliance.ABM/FenixAlliance.ABM.Data.Access/Services/FileSystemService.cs", "d3/d21/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_data_8_access_2_services_2_file_system_service_8cs.html", [
+    [ "FileSystemService.cs", "d8/dfe/_file_system_service_8cs.html", [
       [ "FileSystemService", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service.html", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Services/FileSystemService.cs", "d0/de4/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_services_2_file_system_service_8cs.html", [
-      [ "FileSystemService", "db/db1/class_nu_get_gallery_1_1_file_system_service.html", "db/db1/class_nu_get_gallery_1_1_file_system_service" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Workplace/FileUploads/FileUpload.cs", "d8/d82/_fenix_alliance_8_a_b_m_8_models_2_workplace_2_file_uploads_2_file_upload_8cs.html", "d8/d82/_fenix_alliance_8_a_b_m_8_models_2_workplace_2_file_uploads_2_file_upload_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Global/Attachments/FileUpload.cs", "d6/d83/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_global_2_attachments_2_file_upload_8cs.html", [
@@ -5670,10 +3186,6 @@ var files_dup =
     ] ],
     [ "FileUploadMapper.cs", "db/dc6/_file_upload_mapper_8cs.html", [
       [ "FileUploadMapper", "dc/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workplace_1_1_file_uploads_1_1_file_upload_mapper.html", null ]
-    ] ],
-    [ "FileUriPermissions.cs", "d0/d27/_file_uri_permissions_8cs.html", "d0/d27/_file_uri_permissions_8cs" ],
-    [ "FileUriPermissionsFacts.cs", "d7/d16/_file_uri_permissions_facts_8cs.html", [
-      [ "FileUriPermissionsFacts", "dc/d4e/class_nu_get_gallery_1_1_services_1_1_file_uri_permissions_facts.html", "dc/d4e/class_nu_get_gallery_1_1_services_1_1_file_uri_permissions_facts" ]
     ] ],
     [ "FinancialAccountType.cs", "d0/d8d/_financial_account_type_8cs.html", [
       [ "FinancialAccountType", "dd/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_financial_account_type.html", "dd/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_financial_account_type" ]
@@ -5695,9 +3207,6 @@ var files_dup =
     ] ],
     [ "FinancingInstrumentCodeType.cs", "d0/dc4/_financing_instrument_code_type_8cs.html", [
       [ "FinancingInstrumentCodeType", "dd/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_financing_instrument_code_type.html", null ]
-    ] ],
-    [ "FindDuplicateFiles.cs", "d9/d54/_find_duplicate_files_8cs.html", [
-      [ "FindDuplicateFiles", "dc/d73/class_nu_get_1_1_services_1_1_build_1_1_find_duplicate_files.html", "dc/d73/class_nu_get_1_1_services_1_1_build_1_1_find_duplicate_files" ]
     ] ],
     [ "FirstNameType.cs", "d7/dd1/_first_name_type_8cs.html", [
       [ "FirstNameType", "df/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_first_name_type.html", null ]
@@ -5744,20 +3253,8 @@ var files_dup =
     [ "FixedPriceMilestone.cs", "d1/dc3/_fixed_price_milestone_8cs.html", [
       [ "FixedPriceMilestone", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_billing_1_1_milestones_1_1_fixed_price_milestone.html", null ]
     ] ],
-    [ "FlatContainerContentFileMetadataService.cs", "d0/dd1/_flat_container_content_file_metadata_service_8cs.html", [
-      [ "FlatContainerContentFileMetadataService", "dc/d03/class_nu_get_gallery_1_1_flat_container_content_file_metadata_service.html", "dc/d03/class_nu_get_gallery_1_1_flat_container_content_file_metadata_service" ]
-    ] ],
     [ "FloorType.cs", "d8/dea/_floor_type_8cs.html", [
       [ "FloorType", "de/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_floor_type.html", null ]
-    ] ],
-    [ "FluentLinkChecker.cs", "d9/da2/_fluent_link_checker_8cs.html", [
-      [ "FluentLinkChecker", "de/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_fluent_link_checker.html", "de/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_fluent_link_checker" ]
-    ] ],
-    [ "FolderNamesDataAttribute.cs", "de/d4a/_folder_names_data_attribute_8cs.html", [
-      [ "FolderNamesDataAttribute", "d3/d1f/class_nu_get_gallery_1_1_folder_names_data_attribute.html", "d3/d1f/class_nu_get_gallery_1_1_folder_names_data_attribute" ]
-    ] ],
-    [ "FolderNamesDataAttributeFacts.cs", "dc/dda/_folder_names_data_attribute_facts_8cs.html", [
-      [ "FolderNamesDataAttributeFacts", "d6/d5b/class_nu_get_gallery_1_1_services_1_1_folder_names_data_attribute_facts.html", "d6/d5b/class_nu_get_gallery_1_1_services_1_1_folder_names_data_attribute_facts" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Social/Follows/FollowRecord.cs", "dc/dea/_fenix_alliance_8_a_b_m_8_models_2_social_2_follows_2_follow_record_8cs.html", "dc/dea/_fenix_alliance_8_a_b_m_8_models_2_social_2_follows_2_follow_record_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Social/FollowRecord.cs", "d2/d59/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_social_2_follow_record_8cs.html", [
@@ -5803,26 +3300,8 @@ var files_dup =
     [ "ForeignExchangeSet.cs", "d4/d76/_foreign_exchange_set_8cs.html", [
       [ "ForeignExchangeSet", "dc/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies_1_1_foreign_exchange_set.html", "dc/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies_1_1_foreign_exchange_set" ]
     ] ],
-    [ "FieldTemplates/ForeignKey.ascx.cs", "d9/de3/_field_templates_2_foreign_key_8ascx_8cs.html", [
-      [ "ForeignKeyField", "d3/d7b/class_nu_get_gallery_1_1_foreign_key_field.html", "d3/d7b/class_nu_get_gallery_1_1_foreign_key_field" ]
-    ] ],
-    [ "Filters/ForeignKey.ascx.cs", "d3/d16/_filters_2_foreign_key_8ascx_8cs.html", [
-      [ "ForeignKeyFilter", "dd/dec/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_foreign_key_filter.html", "dd/dec/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_foreign_key_filter" ]
-    ] ],
-    [ "FieldTemplates/ForeignKey.ascx.designer.cs", "da/d1c/_field_templates_2_foreign_key_8ascx_8designer_8cs.html", [
-      [ "ForeignKeyField", "d3/d7b/class_nu_get_gallery_1_1_foreign_key_field.html", "d3/d7b/class_nu_get_gallery_1_1_foreign_key_field" ]
-    ] ],
-    [ "Filters/ForeignKey.ascx.designer.cs", "da/da5/_filters_2_foreign_key_8ascx_8designer_8cs.html", [
-      [ "ForeignKeyFilter", "dd/dec/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_foreign_key_filter.html", "dd/dec/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_foreign_key_filter" ]
-    ] ],
     [ "ForeignKey.cs", "d3/dae/_foreign_key_8cs.html", [
       [ "ForeignKey", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_relations_1_1_foreign_key.html", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_relations_1_1_foreign_key" ]
-    ] ],
-    [ "ForeignKey_Edit.ascx.cs", "de/dca/_foreign_key___edit_8ascx_8cs.html", [
-      [ "ForeignKey_EditField", "df/df3/class_nu_get_gallery_1_1_foreign_key___edit_field.html", "df/df3/class_nu_get_gallery_1_1_foreign_key___edit_field" ]
-    ] ],
-    [ "ForeignKey_Edit.ascx.designer.cs", "dc/d3a/_foreign_key___edit_8ascx_8designer_8cs.html", [
-      [ "ForeignKey_EditField", "df/df3/class_nu_get_gallery_1_1_foreign_key___edit_field.html", "df/df3/class_nu_get_gallery_1_1_foreign_key___edit_field" ]
     ] ],
     [ "ForexRates.cs", "d2/d6f/_forex_rates_8cs.html", [
       [ "ForexRates", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_currencies_1_1_forex_rates.html", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_currencies_1_1_forex_rates" ]
@@ -5841,9 +3320,6 @@ var files_dup =
     ] ],
     [ "FormOptions.cs", "db/d86/_form_options_8cs.html", [
       [ "FormOptions", "d5/da8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_form_options.html", null ]
-    ] ],
-    [ "FormsAuthenticationService.cs", "d8/db2/_forms_authentication_service_8cs.html", [
-      [ "FormsAuthenticationService", "d9/df0/class_nu_get_gallery_1_1_forms_authentication_service.html", "d9/df0/class_nu_get_gallery_1_1_forms_authentication_service" ]
     ] ],
     [ "Forum.cs", "d3/db3/_forum_8cs.html", [
       [ "Forum", "d6/d69/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_forums_1_1_forum.html", null ]
@@ -5926,55 +3402,6 @@ var files_dup =
     [ "FundingProgramType.cs", "d2/d79/_funding_program_type_8cs.html", [
       [ "FundingProgramType", "d0/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_funding_program_type.html", null ]
     ] ],
-    [ "GalleryAccountManager.cs", "db/dea/_gallery_account_manager_8cs.html", [
-      [ "GalleryAccountManager", "d8/d18/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_account_manager.html", "d8/d18/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_account_manager" ]
-    ] ],
-    [ "GalleryCloudBlobContainerInformationProvider.cs", "d5/d66/_gallery_cloud_blob_container_information_provider_8cs.html", [
-      [ "GalleryCloudBlobContainerInformationProvider", "df/dbb/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider.html", "df/dbb/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider" ]
-    ] ],
-    [ "GalleryCloudBlobContainerInformationProviderFacts.cs", "de/dea/_gallery_cloud_blob_container_information_provider_facts_8cs.html", [
-      [ "GalleryCloudBlobContainerInformationProviderFacts", "d2/d38/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider_facts.html", "d2/d38/class_nu_get_gallery_1_1_gallery_cloud_blob_container_information_provider_facts" ]
-    ] ],
-    [ "src/AccountDeleter/Configuration/GalleryConfiguration.cs", "dd/d61/src_2_account_deleter_2_configuration_2_gallery_configuration_8cs.html", [
-      [ "GalleryConfiguration", "d4/d7d/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_configuration.html", "d4/d7d/class_nu_get_gallery_1_1_account_deleter_1_1_gallery_configuration" ]
-    ] ],
-    [ "tests/NuGetGallery.FunctionalTests.Core/GalleryConfiguration.cs", "d2/dcc/tests_2_nu_get_gallery_8_functional_tests_8_core_2_gallery_configuration_8cs.html", [
-      [ "GalleryConfiguration", "df/d29/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration.html", "df/d29/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration" ],
-      [ "AccountConfiguration", "dc/d8f/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_account_configuration.html", "dc/d8f/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_account_configuration" ],
-      [ "OrganizationConfiguration", "dc/d98/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_organization_configuration.html", "dc/d98/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_organization_configuration" ],
-      [ "BrandingConfiguration", "de/d25/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_branding_configuration.html", "de/d25/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_configuration_1_1_branding_configuration" ]
-    ] ],
-    [ "GalleryConstants.cs", "d1/d96/_gallery_constants_8cs.html", null ],
-    [ "GalleryContentFileMetadataService.cs", "d2/dce/_gallery_content_file_metadata_service_8cs.html", [
-      [ "GalleryContentFileMetadataService", "da/d97/class_nu_get_gallery_1_1_gallery_content_file_metadata_service.html", "da/d97/class_nu_get_gallery_1_1_gallery_content_file_metadata_service" ]
-    ] ],
-    [ "GalleryDbMigrationContext.cs", "d0/d56/_gallery_db_migration_context_8cs.html", [
-      [ "GalleryDbMigrationContext", "d3/d76/class_nu_get_gallery_1_1_database_migration_tools_1_1_gallery_db_migration_context.html", "d3/d76/class_nu_get_gallery_1_1_database_migration_tools_1_1_gallery_db_migration_context" ]
-    ] ],
-    [ "GalleryEmailRecipientsUtility.cs", "df/d42/_gallery_email_recipients_utility_8cs.html", null ],
-    [ "GalleryHomeViewModel.cs", "d2/d2a/_gallery_home_view_model_8cs.html", [
-      [ "GalleryHomeViewModel", "d8/d64/class_nu_get_gallery_1_1_gallery_home_view_model.html", "d8/d64/class_nu_get_gallery_1_1_gallery_home_view_model" ]
-    ] ],
-    [ "GalleryMachineKeyConfigurationProvider.cs", "da/dbc/_gallery_machine_key_configuration_provider_8cs.html", [
-      [ "GalleryMachineKeyConfigurationProvider", "d5/d4b/class_nu_get_gallery_1_1_gallery_machine_key_configuration_provider.html", "d5/d4b/class_nu_get_gallery_1_1_gallery_machine_key_configuration_provider" ]
-    ] ],
-    [ "GallerySearchClient.cs", "d7/d93/_gallery_search_client_8cs.html", "d7/d93/_gallery_search_client_8cs" ],
-    [ "GallerySearchServiceFacts.cs", "d4/d7d/_gallery_search_service_facts_8cs.html", [
-      [ "GallerySearchServiceFacts", "d3/d9c/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts.html", "d3/d9c/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts" ],
-      [ "ResilientClientForTest", "d7/dad/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts_1_1_resilient_client_for_test.html", "d7/dad/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_gallery_search_service_facts_1_1_resilient_client_for_test" ]
-    ] ],
-    [ "GallerySetting.cs", "d0/d7c/_gallery_setting_8cs.html", [
-      [ "GallerySetting", "d4/dae/class_nu_get_gallery_1_1_gallery_setting.html", "d4/dae/class_nu_get_gallery_1_1_gallery_setting" ]
-    ] ],
-    [ "GalleryTestBase.cs", "dc/dd4/_gallery_test_base_8cs.html", [
-      [ "GalleryTestBase", "d6/d22/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_base.html", "d6/d22/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_base" ]
-    ] ],
-    [ "GalleryTestCollection.cs", "d4/d5d/_gallery_test_collection_8cs.html", [
-      [ "GalleryTestCollection", "d6/dd9/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_collection.html", null ]
-    ] ],
-    [ "GalleryTestFixture.cs", "d7/d6d/_gallery_test_fixture_8cs.html", [
-      [ "GalleryTestFixture", "d6/db2/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_fixture.html", "d6/db2/class_nu_get_gallery_1_1_functional_tests_1_1_gallery_test_fixture" ]
-    ] ],
     [ "GasPressureQuantityType.cs", "d2/d5e/_gas_pressure_quantity_type_8cs.html", [
       [ "GasPressureQuantityType", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_gas_pressure_quantity_type.html", null ]
     ] ],
@@ -6008,31 +3435,7 @@ var files_dup =
     [ "GetShippingEstimatesBoxViewComponent.cs", "d3/d88/_get_shipping_estimates_box_view_component_8cs.html", [
       [ "GetShippingEstimatesBoxViewComponent", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component" ]
     ] ],
-    [ "GitHubUsageConfiguration.cs", "d8/d4b/_git_hub_usage_configuration_8cs.html", [
-      [ "GitHubUsageConfiguration", "d9/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration.html", "d9/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration" ]
-    ] ],
-    [ "GitHubUsageConfigurationFacts.cs", "d0/d6c/_git_hub_usage_configuration_facts_8cs.html", [
-      [ "GitHubUsageConfigurationFacts", "d8/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts.html", "d8/dbc/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts" ],
-      [ "TheConstructor", "d2/d37/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_constructor.html", "d2/d37/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_constructor" ],
-      [ "TheGetPackageInformationMethod", "d4/dc5/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_get_package_information_method.html", "d4/dc5/class_nu_get_gallery_1_1_git_hub_usage_configuration_facts_1_1_the_get_package_information_method" ]
-    ] ],
-    [ "GitHubVersionRangeParser.cs", "dc/d9c/_git_hub_version_range_parser_8cs.html", [
-      [ "GitHubVersionRangeParser", "d8/d58/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parser.html", "d8/d58/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parser" ]
-    ] ],
-    [ "GitHubVersionRangeParserFacts.cs", "d9/dd8/_git_hub_version_range_parser_facts_8cs.html", [
-      [ "GitHubVersionRangeParserFacts", "d2/d16/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_git_hub_version_range_parser_facts.html", "d2/d16/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_git_hub_version_range_parser_facts" ]
-    ] ],
-    [ "GitHubVersionRangeParsingException.cs", "d3/da3/_git_hub_version_range_parsing_exception_8cs.html", [
-      [ "GitHubVersionRangeParsingException", "d3/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parsing_exception.html", "d3/d89/class_git_hub_vulnerabilities2_db_1_1_ingest_1_1_git_hub_version_range_parsing_exception" ]
-    ] ],
-    [ "GitHubVulnerabilities2DbConfiguration.cs", "db/d96/_git_hub_vulnerabilities2_db_configuration_8cs.html", [
-      [ "GitHubVulnerabilities2DbConfiguration", "d0/d28/class_git_hub_vulnerabilities2_db_1_1_configuration_1_1_git_hub_vulnerabilities2_db_configuration.html", "d0/d28/class_git_hub_vulnerabilities2_db_1_1_configuration_1_1_git_hub_vulnerabilities2_db_configuration" ]
-    ] ],
     [ "Globals.cs", "d1/d64/_globals_8cs.html", null ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/GlobalSuppressions.cs", "d7/d4b/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_global_suppressions_8cs.html", null ],
-    [ "GlobalSuppressions.cs", "d5/d0f/_global_suppressions_8cs.html", [
-      [ "Class1", "d9/d49/class_class1.html", "d9/d49/class_class1" ]
-    ] ],
     [ "GoodsItemContainerType.cs", "da/dd3/_goods_item_container_type_8cs.html", [
       [ "GoodsItemContainerType", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_container_type.html", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_container_type" ]
     ] ],
@@ -6110,27 +3513,11 @@ var files_dup =
     [ "GraphQLUserContext.cs", "de/d06/_graph_q_l_user_context_8cs.html", [
       [ "GraphQLUserContext", "de/da1/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_graph_q_l_user_context.html", "de/da1/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_graph_q_l_user_context" ]
     ] ],
-    [ "GravatarHelper.cs", "d4/d9c/_gravatar_helper_8cs.html", null ],
-    [ "GravatarProxyResult.cs", "d9/d2b/_gravatar_proxy_result_8cs.html", [
-      [ "GravatarProxyResult", "d7/dfb/class_nu_get_gallery_1_1_gravatar_proxy_result.html", "d7/dfb/class_nu_get_gallery_1_1_gravatar_proxy_result" ]
-    ] ],
-    [ "GravatarProxyService.cs", "d4/d11/_gravatar_proxy_service_8cs.html", [
-      [ "GravatarProxyService", "dd/d76/class_nu_get_gallery_1_1_gravatar_proxy_service.html", "dd/d76/class_nu_get_gallery_1_1_gravatar_proxy_service" ]
-    ] ],
-    [ "GravatarProxyServiceFacts.cs", "d2/d56/_gravatar_proxy_service_facts_8cs.html", [
-      [ "GravatarProxyServiceFacts", "d2/dbe/class_nu_get_gallery_1_1_gravatar_proxy_service_facts.html", "d2/dbe/class_nu_get_gallery_1_1_gravatar_proxy_service_facts" ]
-    ] ],
     [ "GreeterService.cs", "d9/d00/_greeter_service_8cs.html", [
       [ "GreeterService", "da/df6/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_services_1_1_greeter_service.html", "da/df6/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_services_1_1_greeter_service" ]
     ] ],
     [ "GridOptions.cs", "d1/d7f/_grid_options_8cs.html", [
       [ "GridOptions", "d8/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_grid_1_1_grid_options.html", null ]
-    ] ],
-    [ "GridViewPager.ascx.cs", "d4/df9/_grid_view_pager_8ascx_8cs.html", [
-      [ "GridViewPager", "d8/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_grid_view_pager.html", "d8/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_grid_view_pager" ]
-    ] ],
-    [ "GridViewPager.ascx.designer.cs", "d5/dec/_grid_view_pager_8ascx_8designer_8cs.html", [
-      [ "GridViewPager", "d8/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_grid_view_pager.html", "d8/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_grid_view_pager" ]
     ] ],
     [ "GrossTonnageMeasureType.cs", "d2/d6c/_gross_tonnage_measure_type_8cs.html", [
       [ "GrossTonnageMeasureType", "d1/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_gross_tonnage_measure_type.html", null ]
@@ -6165,29 +3552,15 @@ var files_dup =
     [ "HandleCriticalUserComponentExceptionsLoggerProvider.cs", "d2/d3a/_handle_critical_user_component_exceptions_logger_provider_8cs.html", [
       [ "HandleCriticalUserComponentExceptionsLoggerProvider", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa.html", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa" ]
     ] ],
-    [ "HandleOrganizationMembershipRequestModel.cs", "dc/d3d/_handle_organization_membership_request_model_8cs.html", [
-      [ "HandleOrganizationMembershipRequestModel", "d4/d43/class_nu_get_gallery_1_1_handle_organization_membership_request_model.html", "d4/d43/class_nu_get_gallery_1_1_handle_organization_membership_request_model" ]
-    ] ],
     [ "HandlingCodeType.cs", "d4/de1/_handling_code_type_8cs.html", [
       [ "HandlingCodeType", "d5/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_handling_code_type.html", null ]
     ] ],
     [ "HandlingInstructionsType.cs", "d2/df1/_handling_instructions_type_8cs.html", [
       [ "HandlingInstructionsType", "d1/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_handling_instructions_type.html", null ]
     ] ],
-    [ "HardDeleteReflowBulkRequest.cs", "d3/d80/_hard_delete_reflow_bulk_request_8cs.html", [
-      [ "HardDeleteReflowBulkRequest", "d4/d3b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request.html", "d4/d3b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request" ]
-    ] ],
-    [ "HardDeleteReflowBulkRequestConfirmation.cs", "dc/de9/_hard_delete_reflow_bulk_request_confirmation_8cs.html", [
-      [ "HardDeleteReflowBulkRequestConfirmation", "d5/d3d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request_confirmation.html", "d5/d3d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_bulk_request_confirmation" ]
-    ] ],
-    [ "HardDeleteReflowRequest.cs", "d1/d2a/_hard_delete_reflow_request_8cs.html", [
-      [ "HardDeleteReflowRequest", "d3/d32/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_request.html", "d3/d32/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_hard_delete_reflow_request" ]
-    ] ],
     [ "HashAlgorithmMethodType.cs", "d7/dc6/_hash_algorithm_method_type_8cs.html", [
       [ "HashAlgorithmMethodType", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hash_algorithm_method_type.html", null ]
     ] ],
-    [ "HashCodeCombiner.cs", "dd/d85/_hash_code_combiner_8cs.html", null ],
-    [ "HashCommand.cs", "d9/df1/_hash_command_8cs.html", null ],
     [ "HaulageInstructionsType.cs", "d8/d75/_haulage_instructions_type_8cs.html", [
       [ "HaulageInstructionsType", "dd/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_haulage_instructions_type.html", null ]
     ] ],
@@ -6228,31 +3601,9 @@ var files_dup =
     [ "HeatingTypeType.cs", "d6/db0/_heating_type_type_8cs.html", [
       [ "HeatingTypeType", "de/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_heating_type_type.html", null ]
     ] ],
-    [ "HelperBase.cs", "d1/d4f/_helper_base_8cs.html", [
-      [ "HelperBase", "d7/df6/class_nu_get_gallery_1_1_functional_tests_1_1_helper_base.html", "d7/df6/class_nu_get_gallery_1_1_functional_tests_1_1_helper_base" ]
-    ] ],
-    [ "HelperFacts.cs", "d1/dd1/_helper_facts_8cs.html", [
-      [ "HelperFacts", "d0/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts.html", [
-        [ "TheParseQueryToLinesMethod", "d9/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts_1_1_the_parse_query_to_lines_method.html", "d9/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts_1_1_the_parse_query_to_lines_method" ]
-      ] ],
-      [ "TheParseQueryToLinesMethod", "d9/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts_1_1_the_parse_query_to_lines_method.html", "d9/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_helper_facts_1_1_the_parse_query_to_lines_method" ]
-    ] ],
-    [ "FenixAlliance.ABP/FenixAlliance.ABP.Proxy/Helpers.cs", "d0/d18/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_proxy_2_helpers_8cs.html", null ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Areas/Admin/Helpers.cs", "d2/dde/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_areas_2_admin_2_helpers_8cs.html", null ],
+    [ "Helpers.cs", "df/d01/_helpers_8cs.html", null ],
     [ "HigherTenderAmountType.cs", "d1/d0c/_higher_tender_amount_type_8cs.html", [
       [ "HigherTenderAmountType", "d9/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_higher_tender_amount_type.html", null ]
-    ] ],
-    [ "HijackSearchServiceFactory.cs", "df/dfc/_hijack_search_service_factory_8cs.html", [
-      [ "HijackSearchServiceFactory", "d9/d5f/class_nu_get_gallery_1_1_hijack_search_service_factory.html", "d9/d5f/class_nu_get_gallery_1_1_hijack_search_service_factory" ]
-    ] ],
-    [ "HijackSearchServiceFactoryFacts.cs", "d5/dca/_hijack_search_service_factory_facts_8cs.html", [
-      [ "HijackSearchServiceFactoryFacts", "d1/d37/class_nu_get_gallery_1_1_infrastructure_1_1_hijack_search_service_factory_facts.html", "d1/d37/class_nu_get_gallery_1_1_infrastructure_1_1_hijack_search_service_factory_facts" ]
-    ] ],
-    [ "HintAttribute.cs", "d7/d48/_hint_attribute_8cs.html", [
-      [ "HintAttribute", "dd/dea/class_nu_get_gallery_1_1_hint_attribute.html", "dd/dea/class_nu_get_gallery_1_1_hint_attribute" ]
-    ] ],
-    [ "History.cs", "d9/d80/_history_8cs.html", [
-      [ "History", "d5/d0c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_history.html", "d5/d0c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_history" ]
     ] ],
     [ "Holder.cs", "d4/db3/_holder_8cs.html", [
       [ "Holder", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder.html", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder" ]
@@ -6293,9 +3644,6 @@ var files_dup =
     [ "HolidayScheduleRegistration.cs", "de/d89/_holiday_schedule_registration_8cs.html", [
       [ "HolidayScheduleRecord", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe.html", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe" ]
     ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Areas/Admin/Controllers/HomeController.cs", "d0/da0/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_areas_b791e4a185f7e676cddefcd50625209b.html", [
-      [ "HomeController", "d7/d41/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_home_controller.html", "d7/d41/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_home_controller" ]
-    ] ],
     [ "FenixAlliance.ABS/FenixAlliance.ABS.Portal/FenixAlliance.ABS.Portal.Core/Controllers/HomeController.cs", "d5/d75/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_portal_2_fenix_alliance_8_a_b_s_8_portal_8_co13cb057806ddb416e7c67521900c5955.html", [
       [ "HomeController", "db/daa/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_home_controller.html", "db/daa/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_home_controller" ]
     ] ],
@@ -6305,78 +3653,29 @@ var files_dup =
     [ "FenixAlliance.ICX/FenixAlliance.ICX.Core/Areas/Store/Controllers/HomeController.cs", "d9/de1/_fenix_alliance_8_i_c_x_2_fenix_alliance_8_i_c_x_8_core_2_areas_2_store_2_controllers_2_home_controller_8cs.html", [
       [ "HomeController", "d5/dc9/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_home_controller.html", "d5/dc9/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_home_controller" ]
     ] ],
-    [ "HomePageValidationTest.cs", "db/dc9/_home_page_validation_test_8cs.html", [
-      [ "HomePageValidationTest", "d1/d08/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_home_page_validation_test.html", "d1/d08/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_home_page_validation_test" ]
-    ] ],
-    [ "HomeViewModel.cs", "d9/d5d/_home_view_model_8cs.html", [
-      [ "HomeViewModel", "d3/db2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_home_view_model.html", "d3/db2/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_home_view_model" ]
-    ] ],
     [ "HostingServerMapper.cs", "d0/ded/_hosting_server_mapper_8cs.html", [
       [ "HostingServerMapper", "de/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_mapper.html", null ]
     ] ],
-    [ "HostMachine.cs", "d6/dd5/_host_machine_8cs.html", null ],
     [ "HstsOptions.cs", "de/df4/_hsts_options_8cs.html", [
       [ "HstsOptions", "de/d53/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_h_s_t_s_1_1_hsts_options.html", "de/d53/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_h_s_t_s_1_1_hsts_options" ]
     ] ],
-    [ "HtmlExtensions.cs", "da/d1b/_html_extensions_8cs.html", null ],
-    [ "HtmlExtensionsFacts.cs", "db/d12/_html_extensions_facts_8cs.html", [
-      [ "HtmlExtensionsFacts", "dc/dfe/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts.html", "dc/dfe/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts" ],
-      [ "ThePreFormattedTextMethod", "db/d5f/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts_1_1_the_pre_formatted_text_method.html", "db/d5f/class_nu_get_gallery_1_1_helpers_1_1_html_extensions_facts_1_1_the_pre_formatted_text_method" ]
-    ] ],
-    [ "HttpActionResultExtensions.cs", "d3/d58/_http_action_result_extensions_8cs.html", null ],
-    [ "HttpClientBuilderExtensions.cs", "d7/d35/_http_client_builder_extensions_8cs.html", null ],
     [ "HttpClientOptions.cs", "d9/d82/_http_client_options_8cs.html", [
       [ "HttpClientOptions", "d5/d70/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_client_options.html", "d5/d70/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_client_options" ]
     ] ],
-    [ "HttpClientWrapper.cs", "d3/db9/_http_client_wrapper_8cs.html", [
-      [ "HttpClientWrapper", "d8/d7b/class_nu_get_gallery_1_1_infrastructure_1_1_http_client_wrapper.html", "d8/d7b/class_nu_get_gallery_1_1_infrastructure_1_1_http_client_wrapper" ]
-    ] ],
-    [ "HttpContextBaseExtensions.cs", "da/dd6/_http_context_base_extensions_8cs.html", [
-      [ "ConfirmationContext", "d5/db4/class_nu_get_gallery_1_1_confirmation_context.html", "d5/db4/class_nu_get_gallery_1_1_confirmation_context" ]
-    ] ],
-    [ "HttpContextBaseExtensionsFacts.cs", "db/df4/_http_context_base_extensions_facts_8cs.html", [
-      [ "HttpContextBaseExtensionsFacts", "d9/ddf/class_nu_get_gallery_1_1_http_context_base_extensions_facts.html", "d9/ddf/class_nu_get_gallery_1_1_http_context_base_extensions_facts" ]
-    ] ],
-    [ "HttpContextCacheService.cs", "df/db4/_http_context_cache_service_8cs.html", [
-      [ "HttpContextCacheService", "d0/de9/class_nu_get_gallery_1_1_http_context_cache_service.html", "d0/de9/class_nu_get_gallery_1_1_http_context_cache_service" ]
-    ] ],
     [ "HttpEncoder.cs", "d4/d10/_http_encoder_8cs.html", null ],
-    [ "HttpExceptionExtensions.cs", "de/dd9/_http_exception_extensions_8cs.html", null ],
     [ "HttpExtensions.cs", "d2/d68/_http_extensions_8cs.html", null ],
     [ "HttpHeader.cs", "da/dcd/_http_header_8cs.html", [
       [ "HttpHeader", "dc/d52/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_header.html", "dc/d52/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_header" ]
-    ] ],
-    [ "HttpHeaderValueProvider.cs", "db/dfb/_http_header_value_provider_8cs.html", [
-      [ "HttpHeaderValueProvider", "de/d87/class_nu_get_gallery_1_1_http_header_value_provider.html", "de/d87/class_nu_get_gallery_1_1_http_header_value_provider" ]
-    ] ],
-    [ "HttpHeaderValueProviderFactory.cs", "df/d09/_http_header_value_provider_factory_8cs.html", [
-      [ "HttpHeaderValueProviderFactory", "d0/d91/class_nu_get_gallery_1_1_http_header_value_provider_factory.html", "d0/d91/class_nu_get_gallery_1_1_http_header_value_provider_factory" ]
     ] ],
     [ "HttpOnlyPolicy.cs", "df/dee/_http_only_policy_8cs.html", "df/dee/_http_only_policy_8cs" ],
     [ "HttpOptions.cs", "d5/d97/_http_options_8cs.html", [
       [ "HttpOptions", "dd/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_options.html", "dd/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_options" ]
     ] ],
-    [ "HttpRequestExtensions.cs", "da/da6/_http_request_extensions_8cs.html", null ],
     [ "HttpSessionOptions.cs", "d7/d48/_http_session_options_8cs.html", [
       [ "HttpSessionOptions", "d2/d17/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_session_options.html", "d2/d17/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_session_options" ]
     ] ],
     [ "HttpsRedirectionOptions.cs", "d2/d74/_https_redirection_options_8cs.html", [
       [ "HttpsRedirectionOptions", "d6/d3a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_https_redirection_options.html", "d6/d3a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_https_redirection_options" ]
-    ] ],
-    [ "HttpStatusCodeWithBodyResult.cs", "d2/ddc/_http_status_code_with_body_result_8cs.html", [
-      [ "HttpStatusCodeWithBodyResult", "dd/d0f/class_nu_get_gallery_1_1_http_status_code_with_body_result.html", "dd/d0f/class_nu_get_gallery_1_1_http_status_code_with_body_result" ]
-    ] ],
-    [ "HttpStatusCodeWithBodyResultFacts.cs", "d3/d48/_http_status_code_with_body_result_facts_8cs.html", [
-      [ "HttpStatusCodeWithBodyResultFacts", "de/d44/class_nu_get_gallery_1_1_http_status_code_with_body_result_facts.html", "de/d44/class_nu_get_gallery_1_1_http_status_code_with_body_result_facts" ]
-    ] ],
-    [ "HttpStatusCodeWithHeadersResult.cs", "db/de8/_http_status_code_with_headers_result_8cs.html", [
-      [ "HttpStatusCodeWithHeadersResult", "d9/db8/class_nu_get_gallery_1_1_http_status_code_with_headers_result.html", "d9/db8/class_nu_get_gallery_1_1_http_status_code_with_headers_result" ]
-    ] ],
-    [ "HttpStatusCodeWithServerWarningResult.cs", "d1/d37/_http_status_code_with_server_warning_result_8cs.html", [
-      [ "HttpStatusCodeWithServerWarningResult", "d4/d92/class_nu_get_gallery_1_1_http_status_code_with_server_warning_result.html", "d4/d92/class_nu_get_gallery_1_1_http_status_code_with_server_warning_result" ]
-    ] ],
-    [ "HttpToHttpsRedirectTests.cs", "dc/d28/_http_to_https_redirect_tests_8cs.html", [
-      [ "HttpToHttpsRedirectTests", "d9/d7e/class_nu_get_gallery_1_1_functional_tests_1_1_security_1_1_http_to_https_redirect_tests.html", "d9/d7e/class_nu_get_gallery_1_1_functional_tests_1_1_security_1_1_http_to_https_redirect_tests" ]
     ] ],
     [ "HumanFoodApprovedIndicatorType.cs", "d4/dbd/_human_food_approved_indicator_type_8cs.html", [
       [ "HumanFoodApprovedIndicatorType", "d3/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_human_food_approved_indicator_type.html", null ]
@@ -6393,50 +3692,14 @@ var files_dup =
     [ "IAADGraphService.cs", "db/dd2/_i_a_a_d_graph_service_8cs.html", [
       [ "IAADGraphService", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service.html", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service" ]
     ] ],
-    [ "IABTestConfiguration.cs", "d3/d79/_i_a_b_test_configuration_8cs.html", [
-      [ "IABTestConfiguration", "d3/da9/interface_nu_get_gallery_1_1_services_1_1_i_a_b_test_configuration.html", "d3/da9/interface_nu_get_gallery_1_1_services_1_1_i_a_b_test_configuration" ]
-    ] ],
-    [ "IABTestEnrollmentFactory.cs", "d8/d7a/_i_a_b_test_enrollment_factory_8cs.html", [
-      [ "IABTestEnrollmentFactory", "da/dbc/interface_nu_get_gallery_1_1_i_a_b_test_enrollment_factory.html", "da/dbc/interface_nu_get_gallery_1_1_i_a_b_test_enrollment_factory" ]
-    ] ],
-    [ "IABTestService.cs", "dd/d06/_i_a_b_test_service_8cs.html", [
-      [ "IABTestService", "d2/d24/interface_nu_get_gallery_1_1_i_a_b_test_service.html", "d2/d24/interface_nu_get_gallery_1_1_i_a_b_test_service" ]
-    ] ],
-    [ "IAccessCondition.cs", "da/d5c/_i_access_condition_8cs.html", [
-      [ "IAccessCondition", "d3/dfb/interface_nu_get_gallery_1_1_i_access_condition.html", "d3/dfb/interface_nu_get_gallery_1_1_i_access_condition" ]
-    ] ],
-    [ "IAccountDeleteTelemetryService.cs", "d9/d19/_i_account_delete_telemetry_service_8cs.html", [
-      [ "IAccountDeleteTelemetryService", "db/dcc/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_delete_telemetry_service.html", "db/dcc/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_delete_telemetry_service" ]
-    ] ],
     [ "IAccountingService.cs", "d3/dc4/_i_accounting_service_8cs.html", [
       [ "IAccountingService", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service" ]
-    ] ],
-    [ "IAccountManager.cs", "df/d09/_i_account_manager_8cs.html", [
-      [ "IAccountManager", "d8/d3d/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_manager.html", "d8/d3d/interface_nu_get_gallery_1_1_account_deleter_1_1_i_account_manager" ]
     ] ],
     [ "IAccountOAuthHelpers.cs", "d8/dc8/_i_account_o_auth_helpers_8cs.html", [
       [ "IAccountOAuthHelpers", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers.html", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers" ]
     ] ],
     [ "IAccountUsersHelpers.cs", "de/d76/_i_account_users_helpers_8cs.html", [
       [ "IAccountUsersHelpers", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers.html", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers" ]
-    ] ],
-    [ "IActionRequiringEntityPermissions.cs", "d3/d3e/_i_action_requiring_entity_permissions_8cs.html", [
-      [ "IActionRequiringEntityPermissions", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html", "d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions" ]
-    ] ],
-    [ "IAdvisoryCollector.cs", "dd/d7c/_i_advisory_collector_8cs.html", [
-      [ "IAdvisoryCollector", "dd/d1c/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_collector.html", "dd/d1c/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_collector" ]
-    ] ],
-    [ "IAdvisoryIngestor.cs", "de/d59/_i_advisory_ingestor_8cs.html", [
-      [ "IAdvisoryIngestor", "d9/dd6/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_advisory_ingestor.html", "d9/dd6/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_advisory_ingestor" ]
-    ] ],
-    [ "IAdvisoryQueryBuilder.cs", "d5/dbf/_i_advisory_query_builder_8cs.html", [
-      [ "IAdvisoryQueryBuilder", "d2/d9f/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_builder.html", "d2/d9f/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_builder" ]
-    ] ],
-    [ "IAdvisoryQueryService.cs", "da/d07/_i_advisory_query_service_8cs.html", [
-      [ "IAdvisoryQueryService", "da/d30/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_service.html", "da/d30/interface_git_hub_vulnerabilities2_db_1_1_collector_1_1_i_advisory_query_service" ]
-    ] ],
-    [ "IAggregateStatsService.cs", "d6/dfe/_i_aggregate_stats_service_8cs.html", [
-      [ "IAggregateStatsService", "d0/d80/interface_nu_get_gallery_1_1_i_aggregate_stats_service.html", "d0/d80/interface_nu_get_gallery_1_1_i_aggregate_stats_service" ]
     ] ],
     [ "IAllianceBusinessModelOptions.cs", "d3/d0a/_i_alliance_business_model_options_8cs.html", [
       [ "IAllianceBusinessModelOptions", "d0/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_options.html", "d0/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_options" ]
@@ -6469,32 +3732,14 @@ var files_dup =
     [ "IApis.cs", "d7/dfb/_i_apis_8cs.html", [
       [ "IApis", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis.html", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis" ]
     ] ],
-    [ "IApiScopeEvaluator.cs", "d8/d01/_i_api_scope_evaluator_8cs.html", [
-      [ "IApiScopeEvaluator", "df/d30/interface_nu_get_gallery_1_1_authentication_1_1_i_api_scope_evaluator.html", "df/d30/interface_nu_get_gallery_1_1_authentication_1_1_i_api_scope_evaluator" ]
-    ] ],
-    [ "IAppConfiguration.cs", "d3/d11/_i_app_configuration_8cs.html", [
-      [ "IAppConfiguration", "d6/d7c/interface_nu_get_gallery_1_1_configuration_1_1_i_app_configuration.html", "d6/d7c/interface_nu_get_gallery_1_1_configuration_1_1_i_app_configuration" ]
-    ] ],
     [ "IAreaControllerRoute.cs", "dc/d37/_i_area_controller_route_8cs.html", [
       [ "IAreaControllerRoute", "dd/d23/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_rod56d90cff95cbcda686148a38b920665.html", "dd/d23/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_rod56d90cff95cbcda686148a38b920665" ]
     ] ],
     [ "IAssetsService.cs", "db/d13/_i_assets_service_8cs.html", [
       [ "IAssetsService", "dc/d49/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assets_service.html", null ]
     ] ],
-    [ "IAuditingService.cs", "d6/d7e/_i_auditing_service_8cs.html", [
-      [ "IAuditingService", "d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html", "d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service" ]
-    ] ],
-    [ "IAuthenticationService.cs", "dd/d7e/_i_authentication_service_8cs.html", [
-      [ "IAuthenticationService", "d4/da1/interface_nu_get_gallery_1_1_authentication_1_1_i_authentication_service.html", "d4/da1/interface_nu_get_gallery_1_1_authentication_1_1_i_authentication_service" ]
-    ] ],
     [ "IAuthService.cs", "d5/dce/_i_auth_service_8cs.html", [
       [ "IAuthService", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service.html", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service" ]
-    ] ],
-    [ "IAutocompletePackageIdsQuery.cs", "d7/d52/_i_autocomplete_package_ids_query_8cs.html", [
-      [ "IAutocompletePackageIdsQuery", "d3/d7c/interface_nu_get_gallery_1_1_i_autocomplete_package_ids_query.html", "d3/d7c/interface_nu_get_gallery_1_1_i_autocomplete_package_ids_query" ]
-    ] ],
-    [ "IAutocompletePackageVersionsQuery.cs", "df/d2f/_i_autocomplete_package_versions_query_8cs.html", [
-      [ "IAutocompletePackageVersionsQuery", "d9/ddc/interface_nu_get_gallery_1_1_i_autocomplete_package_versions_query.html", "d9/ddc/interface_nu_get_gallery_1_1_i_autocomplete_package_versions_query" ]
     ] ],
     [ "IAzureAd.cs", "d9/d9e/_i_azure_ad_8cs.html", [
       [ "IAzureAd", "d1/d7b/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a_a_d_1_1_i_azure_ad.html", "d1/d7b/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a_a_d_1_1_i_azure_ad" ]
@@ -6520,9 +3765,6 @@ var files_dup =
     [ "IBlazorHubOptions.cs", "d0/da1/_i_blazor_hub_options_8cs.html", [
       [ "IBlazorHubOptions", "d7/dee/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor_hub_options.html", "d7/dee/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor_hub_options" ]
     ] ],
-    [ "IBlobStorageConfiguration.cs", "da/d54/_i_blob_storage_configuration_8cs.html", [
-      [ "IBlobStorageConfiguration", "d5/db4/interface_nu_get_gallery_1_1_services_1_1_i_blob_storage_configuration.html", "d5/db4/interface_nu_get_gallery_1_1_services_1_1_i_blob_storage_configuration" ]
-    ] ],
     [ "IBlobStorageDataAccessClient.cs", "d3/db9/_i_blob_storage_data_access_client_8cs.html", [
       [ "IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client" ]
     ] ],
@@ -6541,23 +3783,8 @@ var files_dup =
     [ "IBusinessDataAccess.cs", "dd/d19/_i_business_data_access_8cs.html", [
       [ "IBusinessDataAccess", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access.html", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access" ]
     ] ],
-    [ "ICacheConfiguration.cs", "d5/d05/_i_cache_configuration_8cs.html", [
-      [ "ICacheConfiguration", "d4/dcc/interface_nu_get_gallery_1_1_services_1_1_i_cache_configuration.html", "d4/dcc/interface_nu_get_gallery_1_1_services_1_1_i_cache_configuration" ]
-    ] ],
-    [ "ICacheService.cs", "dc/dc0/_i_cache_service_8cs.html", [
-      [ "ICacheService", "d5/dfb/interface_nu_get_gallery_1_1_i_cache_service.html", "d5/dfb/interface_nu_get_gallery_1_1_i_cache_service" ]
-    ] ],
     [ "ICaching.cs", "d1/d9b/_i_caching_8cs.html", [
       [ "ICaching", "d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching.html", "d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching" ]
-    ] ],
-    [ "ICertificatesConfiguration.cs", "d0/d09/_i_certificates_configuration_8cs.html", [
-      [ "ICertificatesConfiguration", "d2/d81/interface_nu_get_gallery_1_1_services_1_1_i_certificates_configuration.html", "d2/d81/interface_nu_get_gallery_1_1_services_1_1_i_certificates_configuration" ]
-    ] ],
-    [ "ICertificateService.cs", "d1/d11/_i_certificate_service_8cs.html", [
-      [ "ICertificateService", "d9/d0a/interface_nu_get_gallery_1_1_i_certificate_service.html", "d9/d0a/interface_nu_get_gallery_1_1_i_certificate_service" ]
-    ] ],
-    [ "ICertificateValidator.cs", "dc/dda/_i_certificate_validator_8cs.html", [
-      [ "ICertificateValidator", "d1/df3/interface_nu_get_gallery_1_1_i_certificate_validator.html", "d1/df3/interface_nu_get_gallery_1_1_i_certificate_validator" ]
     ] ],
     [ "IChainService.cs", "d7/d3a/_i_chain_service_8cs.html", [
       [ "IChainService", "d2/de6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_chain_service.html", null ]
@@ -6565,20 +3792,8 @@ var files_dup =
     [ "ICheckoutService.cs", "d9/dc7/_i_checkout_service_8cs.html", [
       [ "ICheckoutService", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service" ]
     ] ],
-    [ "ICloudBlobClient.cs", "d3/d88/_i_cloud_blob_client_8cs.html", [
-      [ "ICloudBlobClient", "d2/dfc/interface_nu_get_gallery_1_1_i_cloud_blob_client.html", "d2/dfc/interface_nu_get_gallery_1_1_i_cloud_blob_client" ]
-    ] ],
-    [ "ICloudBlobContainer.cs", "d5/d1f/_i_cloud_blob_container_8cs.html", [
-      [ "ICloudBlobContainer", "db/d7f/interface_nu_get_gallery_1_1_i_cloud_blob_container.html", "db/d7f/interface_nu_get_gallery_1_1_i_cloud_blob_container" ]
-    ] ],
-    [ "ICloudBlobContainerInformationProvider.cs", "d0/d26/_i_cloud_blob_container_information_provider_8cs.html", [
-      [ "ICloudBlobContainerInformationProvider", "da/d56/interface_nu_get_gallery_1_1_i_cloud_blob_container_information_provider.html", "da/d56/interface_nu_get_gallery_1_1_i_cloud_blob_container_information_provider" ]
-    ] ],
     [ "ICloudService.cs", "dd/d6c/_i_cloud_service_8cs.html", [
       [ "ICloudService", "d3/d8e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cloud_service.html", null ]
-    ] ],
-    [ "ICloudStorageStatusDependency.cs", "d4/d50/_i_cloud_storage_status_dependency_8cs.html", [
-      [ "ICloudStorageStatusDependency", "d8/db7/interface_nu_get_gallery_1_1_i_cloud_storage_status_dependency.html", "d8/db7/interface_nu_get_gallery_1_1_i_cloud_storage_status_dependency" ]
     ] ],
     [ "ICmsService.cs", "d6/da0/_i_cms_service_8cs.html", [
       [ "ICmsService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_service.html", null ]
@@ -6601,15 +3816,6 @@ var files_dup =
     [ "IContainersService.cs", "dc/db9/_i_containers_service_8cs.html", [
       [ "IContainersService", "d3/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_containers_service.html", null ]
     ] ],
-    [ "IContentFileMetadataService.cs", "d8/d98/_i_content_file_metadata_service_8cs.html", [
-      [ "IContentFileMetadataService", "d9/db8/interface_nu_get_gallery_1_1_i_content_file_metadata_service.html", "d9/db8/interface_nu_get_gallery_1_1_i_content_file_metadata_service" ]
-    ] ],
-    [ "IContentObjectService.cs", "db/ddb/_i_content_object_service_8cs.html", [
-      [ "IContentObjectService", "d9/d39/interface_nu_get_gallery_1_1_i_content_object_service.html", "d9/d39/interface_nu_get_gallery_1_1_i_content_object_service" ]
-    ] ],
-    [ "IContentService.cs", "de/d24/_i_content_service_8cs.html", [
-      [ "IContentService", "d4/d36/interface_nu_get_gallery_1_1_i_content_service.html", "d4/d36/interface_nu_get_gallery_1_1_i_content_service" ]
-    ] ],
     [ "IContextDataAccess.cs", "df/d12/_i_context_data_access_8cs.html", [
       [ "IContextDataAccess", "d3/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_context_data_access.html", "d3/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_context_data_access" ]
     ] ],
@@ -6619,23 +3825,8 @@ var files_dup =
     [ "IControllersWithViews.cs", "dd/d23/_i_controllers_with_views_8cs.html", [
       [ "IControllersWithViews", "d4/d92/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_controllers_with_views.html", "d4/d92/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_controllers_with_views" ]
     ] ],
-    [ "IconUrlDeprecationValidationMessage.cs", "d7/dfc/_icon_url_deprecation_validation_message_8cs.html", [
-      [ "IconUrlDeprecationValidationMessage", "db/d83/class_nu_get_gallery_1_1_icon_url_deprecation_validation_message.html", "db/d83/class_nu_get_gallery_1_1_icon_url_deprecation_validation_message" ]
-    ] ],
-    [ "IconUrlTemplateProcessor.cs", "d7/dee/_icon_url_template_processor_8cs.html", [
-      [ "IconUrlTemplateProcessor", "d4/d25/class_nu_get_gallery_1_1_icon_url_template_processor.html", "d4/d25/class_nu_get_gallery_1_1_icon_url_template_processor" ]
-    ] ],
-    [ "IconUrlTemplateProcessorFacts.cs", "dd/d87/_icon_url_template_processor_facts_8cs.html", [
-      [ "IconUrlTemplateProcessorFacts", "d3/d8f/class_nu_get_gallery_1_1_services_1_1_icon_url_template_processor_facts.html", "d3/d8f/class_nu_get_gallery_1_1_services_1_1_icon_url_template_processor_facts" ]
-    ] ],
     [ "ICookieBuilder.cs", "d7/dca/_i_cookie_builder_8cs.html", [
       [ "ICookieBuilder", "dd/d5a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookie_builder.html", "dd/d5a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookie_builder" ]
-    ] ],
-    [ "ICookieComplianceService.cs", "db/dee/_i_cookie_compliance_service_8cs.html", [
-      [ "ICookieComplianceService", "dc/d0d/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_compliance_service.html", "dc/d0d/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_compliance_service" ]
-    ] ],
-    [ "ICookieExpirationService.cs", "dc/d03/_i_cookie_expiration_service_8cs.html", [
-      [ "ICookieExpirationService", "db/d8e/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_expiration_service.html", "db/d8e/interface_nu_get_gallery_1_1_cookies_1_1_i_cookie_expiration_service" ]
     ] ],
     [ "ICookiePolicy.cs", "d6/db9/_i_cookie_policy_8cs.html", [
       [ "ICookiePolicy", "de/dc6/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookie_policy.html", "de/dc6/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookie_policy" ]
@@ -6643,53 +3834,20 @@ var files_dup =
     [ "ICookies.cs", "d9/d6d/_i_cookies_8cs.html", [
       [ "ICookies", "d4/d94/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookies.html", "d4/d94/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookies" ]
     ] ],
-    [ "ICoreFileStorageService.cs", "d4/dbf/_i_core_file_storage_service_8cs.html", [
-      [ "ICoreFileStorageService", "dc/db7/interface_nu_get_gallery_1_1_i_core_file_storage_service.html", "dc/db7/interface_nu_get_gallery_1_1_i_core_file_storage_service" ]
-    ] ],
-    [ "ICoreLicenseFileService.cs", "da/d30/_i_core_license_file_service_8cs.html", [
-      [ "ICoreLicenseFileService", "da/d4f/interface_nu_get_gallery_1_1_i_core_license_file_service.html", "da/d4f/interface_nu_get_gallery_1_1_i_core_license_file_service" ]
-    ] ],
-    [ "ICorePackageFileService.cs", "de/d39/_i_core_package_file_service_8cs.html", [
-      [ "ICorePackageFileService", "d7/d25/interface_nu_get_gallery_1_1_i_core_package_file_service.html", "d7/d25/interface_nu_get_gallery_1_1_i_core_package_file_service" ]
-    ] ],
-    [ "ICorePackageService.cs", "dc/d54/_i_core_package_service_8cs.html", [
-      [ "ICorePackageService", "d7/dd5/interface_nu_get_gallery_1_1_i_core_package_service.html", "d7/dd5/interface_nu_get_gallery_1_1_i_core_package_service" ]
-    ] ],
-    [ "ICoreReadmeFileService.cs", "d3/d0d/_i_core_readme_file_service_8cs.html", [
-      [ "ICoreReadmeFileService", "d0/d30/interface_nu_get_gallery_1_1_i_core_readme_file_service.html", "d0/d30/interface_nu_get_gallery_1_1_i_core_readme_file_service" ]
-    ] ],
-    [ "ICoreSymbolPackageService.cs", "d6/dd3/_i_core_symbol_package_service_8cs.html", [
-      [ "ICoreSymbolPackageService", "df/d7a/interface_nu_get_gallery_1_1_i_core_symbol_package_service.html", "df/d7a/interface_nu_get_gallery_1_1_i_core_symbol_package_service" ]
-    ] ],
     [ "ICors.cs", "d7/d5d/_i_cors_8cs.html", [
       [ "ICors", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_i_cors.html", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_i_cors" ]
     ] ],
     [ "ICorsPolicy.cs", "d8/d21/_i_cors_policy_8cs.html", [
       [ "ICorsPolicy", "d0/ddd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_i_cors_policy.html", "d0/ddd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_i_cors_policy" ]
     ] ],
-    [ "ICredentialBuilder.cs", "dd/dc2/_i_credential_builder_8cs.html", [
-      [ "ICredentialBuilder", "d0/de8/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_builder.html", "d0/de8/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_builder" ]
-    ] ],
-    [ "ICredentialValidator.cs", "da/dc9/_i_credential_validator_8cs.html", [
-      [ "ICredentialValidator", "dc/db7/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_validator.html", "dc/db7/interface_nu_get_gallery_1_1_infrastructure_1_1_authentication_1_1_i_credential_validator" ]
-    ] ],
     [ "ICrmService.cs", "db/d11/_i_crm_service_8cs.html", [
       [ "ICrmService", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service.html", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service" ]
-    ] ],
-    [ "IDatabase.cs", "d8/d0f/_i_database_8cs.html", [
-      [ "IDatabase", "d0/d1f/interface_nu_get_gallery_1_1_i_database.html", "d0/d1f/interface_nu_get_gallery_1_1_i_database" ]
     ] ],
     [ "IDataRepoService.cs", "df/d2f/_i_data_repo_service_8cs.html", [
       [ "IDataRepoService", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service.html", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service" ]
     ] ],
     [ "IDataRepository.cs", "dc/db0/_i_data_repository_8cs.html", [
       [ "IDataRepository", "d8/def/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_data_repository.html", "d8/def/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_data_repository" ]
-    ] ],
-    [ "IDateTimeProvider.cs", "db/d19/_i_date_time_provider_8cs.html", [
-      [ "IDateTimeProvider", "d1/d96/interface_nu_get_gallery_1_1_i_date_time_provider.html", "d1/d96/interface_nu_get_gallery_1_1_i_date_time_provider" ]
-    ] ],
-    [ "IDbContextTransaction.cs", "dd/d52/_i_db_context_transaction_8cs.html", [
-      [ "IDbContextTransaction", "d6/d2b/interface_nu_get_gallery_1_1_i_db_context_transaction.html", "d6/d2b/interface_nu_get_gallery_1_1_i_db_context_transaction" ]
     ] ],
     [ "IDbFactoryService.cs", "d9/d6d/_i_db_factory_service_8cs.html", [
       [ "IDbFactoryService", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service.html", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service" ]
@@ -6698,9 +3856,6 @@ var files_dup =
       [ "IDefaultIdentity", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca" ],
       [ "ICookieAuthenticationOptions", "dd/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_fca7405f91e1411ec35c285dec4c377f.html", "dd/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_fca7405f91e1411ec35c285dec4c377f" ],
       [ "IOpenIdConnectOptions", "db/d00/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a0baa996c813ec3fa03bc58bea56d67b.html", "db/d00/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a0baa996c813ec3fa03bc58bea56d67b" ]
-    ] ],
-    [ "IDeleteAccountService.cs", "d7/db4/_i_delete_account_service_8cs.html", [
-      [ "IDeleteAccountService", "d5/d89/interface_nu_get_gallery_1_1_i_delete_account_service.html", "d5/d89/interface_nu_get_gallery_1_1_i_delete_account_service" ]
     ] ],
     [ "IdentificationCodeType.cs", "d1/dfe/_identification_code_type_8cs.html", [
       [ "IdentificationCodeType", "d8/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_identification_code_type.html", null ]
@@ -6720,20 +3875,11 @@ var files_dup =
     [ "IdentityAndPrivacyOptions.cs", "db/dd1/_identity_and_privacy_options_8cs.html", [
       [ "IdentityAndPrivacyOptions", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options.html", "dc/d4d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_identity_and_privacy_options" ]
     ] ],
-    [ "IdentityInformation.cs", "d2/da8/_identity_information_8cs.html", [
-      [ "IdentityInformation", "de/d62/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_identity_information.html", "de/d62/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_identity_information" ]
-    ] ],
     [ "IdentityServer4.cs", "de/d20/_identity_server4_8cs.html", [
       [ "IdentityServer4", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4" ]
     ] ],
     [ "IDevMode.cs", "d9/d85/_i_dev_mode_8cs.html", [
       [ "IDevMode", "d5/d2f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_dev_mode_1_1_i_dev_mode.html", "d5/d2f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_dev_mode_1_1_i_dev_mode" ]
-    ] ],
-    [ "IDiagnosticsService.cs", "d7/d0f/_i_diagnostics_service_8cs.html", [
-      [ "IDiagnosticsService", "d9/d94/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_service.html", "d9/d94/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_service" ]
-    ] ],
-    [ "IDiagnosticsSource.cs", "d5/df2/_i_diagnostics_source_8cs.html", [
-      [ "IDiagnosticsSource", "dc/d0f/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_source.html", "dc/d0f/interface_nu_get_gallery_1_1_diagnostics_1_1_i_diagnostics_source" ]
     ] ],
     [ "IDirectory.cs", "d4/d11/_i_directory_8cs.html", [
       [ "IDirectory", "d0/d39/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_directory.html", "d0/d39/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_directory" ]
@@ -6750,9 +3896,6 @@ var files_dup =
     [ "IDnsLookupService.cs", "df/dd7/_i_dns_lookup_service_8cs.html", [
       [ "IDnsLookupService", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service.html", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service" ]
     ] ],
-    [ "IDownloadCountService.cs", "da/dc3/_i_download_count_service_8cs.html", [
-      [ "IDownloadCountService", "d8/de3/interface_nu_get_gallery_1_1_i_download_count_service.html", "d8/de3/interface_nu_get_gallery_1_1_i_download_count_service" ]
-    ] ],
     [ "IDriver.cs", "db/d7e/_i_driver_8cs.html", [
       [ "IDriver", "d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html", "d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver" ]
     ] ],
@@ -6762,28 +3905,12 @@ var files_dup =
     [ "IDynamicComponentBase.cs", "d9/db8/_i_dynamic_component_base_8cs.html", [
       [ "IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base" ]
     ] ],
-    [ "IEditableFeatureFlagStorageService.cs", "d5/da1/_i_editable_feature_flag_storage_service_8cs.html", [
-      [ "IEditableFeatureFlagStorageService", "d0/da9/interface_nu_get_gallery_1_1_features_1_1_i_editable_feature_flag_storage_service.html", "d0/da9/interface_nu_get_gallery_1_1_features_1_1_i_editable_feature_flag_storage_service" ]
-    ] ],
-    [ "IEmailBuilderFactory.cs", "d5/d28/_i_email_builder_factory_8cs.html", [
-      [ "IEmailBuilderFactory", "d9/d28/interface_nu_get_gallery_1_1_account_deleter_1_1_i_email_builder_factory.html", "d9/d28/interface_nu_get_gallery_1_1_account_deleter_1_1_i_email_builder_factory" ]
-    ] ],
     [ "IEmailService.cs", "da/d03/_i_email_service_8cs.html", [
       [ "IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", null ]
     ] ],
     [ "IEndpoints.cs", "d8/db9/_i_endpoints_8cs.html", [
       [ "IEndpoints", "de/d35/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_endpoints.html", "de/d35/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_c_1_1_i_endpoints" ]
     ] ],
-    [ "IEntitiesContext.cs", "d3/de1/_i_entities_context_8cs.html", [
-      [ "IEntitiesContext", "d4/d52/interface_nu_get_gallery_1_1_i_entities_context.html", "d4/d52/interface_nu_get_gallery_1_1_i_entities_context" ]
-    ] ],
-    [ "IEntity.cs", "d5/d13/_i_entity_8cs.html", [
-      [ "IEntity", "d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html", "d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity" ]
-    ] ],
-    [ "IEntityRepository.cs", "d7/db9/_i_entity_repository_8cs.html", [
-      [ "IEntityRepository", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html", "de/dcb/interface_nu_get_gallery_1_1_i_entity_repository" ]
-    ] ],
-    [ "IEnumerableExtensions.cs", "d7/d9c/_i_enumerable_extensions_8cs.html", null ],
     [ "IEPaycoIntegrationOptions.cs", "df/d7a/_i_e_payco_integration_options_8cs.html", [
       [ "IEPaycoIntegrationOptions", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24.html", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24" ]
     ] ],
@@ -6796,13 +3923,6 @@ var files_dup =
     [ "IFacebookIntegrationsOptions.cs", "d2/d19/_i_facebook_integrations_options_8cs.html", [
       [ "IFacebookIntegrationsOptions", "dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213.html", "dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213" ]
     ] ],
-    [ "IFeatureFlagService.cs", "db/d56/_i_feature_flag_service_8cs.html", [
-      [ "IFeatureFlagService", "d9/de8/interface_nu_get_gallery_1_1_i_feature_flag_service.html", "d9/de8/interface_nu_get_gallery_1_1_i_feature_flag_service" ]
-    ] ],
-    [ "IFeatureFlagsViewModel.cs", "dd/d9a/_i_feature_flags_view_model_8cs.html", [
-      [ "IFeatureFlagsObjectViewModel", "d0/dec/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_feature_flags_object_view_model.html", "d0/dec/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_feature_flags_object_view_model" ]
-    ] ],
-    [ "IFeedPackageAnnotationStrategy.cs", "df/d39/_i_feed_package_annotation_strategy_8cs.html", null ],
     [ "IFenixAllianceIntegrationsOptions.cs", "d8/d80/_i_fenix_alliance_integrations_options_8cs.html", [
       [ "IFenixAllianceIntegrationsOptions", "df/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dba9b87773ec171536f855692d51607e.html", "df/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dba9b87773ec171536f855692d51607e" ]
     ] ],
@@ -6810,44 +3930,20 @@ var files_dup =
       [ "IFile", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file" ]
     ] ],
     [ "IFileExtensions.cs", "dd/dc9/_i_file_extensions_8cs.html", null ],
-    [ "IFileMetadataService.cs", "d3/de8/_i_file_metadata_service_8cs.html", [
-      [ "IFileMetadataService", "d6/d45/interface_nu_get_gallery_1_1_i_file_metadata_service.html", "d6/d45/interface_nu_get_gallery_1_1_i_file_metadata_service" ]
-    ] ],
-    [ "IFileReference.cs", "d3/d28/_i_file_reference_8cs.html", [
-      [ "IFileReference", "de/d61/interface_nu_get_gallery_1_1_i_file_reference.html", "de/d61/interface_nu_get_gallery_1_1_i_file_reference" ]
-    ] ],
-    [ "IFileStorageService.cs", "dd/dee/_i_file_storage_service_8cs.html", [
-      [ "IFileStorageService", "db/d91/interface_nu_get_gallery_1_1_i_file_storage_service.html", "db/d91/interface_nu_get_gallery_1_1_i_file_storage_service" ]
-    ] ],
     [ "IFileSystem.cs", "da/daf/_i_file_system_8cs.html", [
       [ "IFileSystem", "d9/dd7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_file_system.html", "d9/dd7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_file_system" ]
     ] ],
-    [ "FenixAlliance.ABM/FenixAlliance.ABM.Data/Interfaces/Services/IFileSystemService.cs", "dd/d4d/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_data_2_interfaces_2_services_2_i_file_system_service_8cs.html", [
+    [ "IFileSystemService.cs", "d5/d11/_i_file_system_service_8cs.html", [
       [ "IFileSystemService", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service.html", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Services/IFileSystemService.cs", "da/dc6/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_services_2_i_file_system_service_8cs.html", [
-      [ "IFileSystemService", "d1/d92/interface_nu_get_gallery_1_1_i_file_system_service.html", "d1/d92/interface_nu_get_gallery_1_1_i_file_system_service" ]
     ] ],
     [ "IForexService.cs", "db/d9a/_i_forex_service_8cs.html", [
       [ "IForexService", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service" ]
-    ] ],
-    [ "IFormsAuthenticationService.cs", "db/dbe/_i_forms_authentication_service_8cs.html", [
-      [ "IFormsAuthenticationService", "d1/d7a/interface_nu_get_gallery_1_1_i_forms_authentication_service.html", "d1/d7a/interface_nu_get_gallery_1_1_i_forms_authentication_service" ]
-    ] ],
-    [ "IGalleryConfigurationService.cs", "d7/df4/_i_gallery_configuration_service_8cs.html", [
-      [ "IGalleryConfigurationService", "d6/d44/interface_nu_get_gallery_1_1_configuration_1_1_i_gallery_configuration_service.html", "d6/d44/interface_nu_get_gallery_1_1_configuration_1_1_i_gallery_configuration_service" ]
     ] ],
     [ "IGdpr.cs", "d9/d14/_i_gdpr_8cs.html", [
       [ "IGdpr", "dc/dde/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_privacy_1_1_g_d_p_r_1_1_i_gdpr.html", "dc/dde/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_privacy_1_1_g_d_p_r_1_1_i_gdpr" ]
     ] ],
     [ "IGeneralLimitingRule.cs", "d3/dc3/_i_general_limiting_rule_8cs.html", [
       [ "IGeneralLimitingRule", "d7/dfb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_limc070c6148df3adec0a230bad203567a7.html", "d7/dfb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_limc070c6148df3adec0a230bad203567a7" ]
-    ] ],
-    [ "IGitHubUsageConfiguration.cs", "dc/d73/_i_git_hub_usage_configuration_8cs.html", [
-      [ "IGitHubUsageConfiguration", "d3/db2/interface_nu_get_gallery_1_1_i_git_hub_usage_configuration.html", "d3/db2/interface_nu_get_gallery_1_1_i_git_hub_usage_configuration" ]
-    ] ],
-    [ "IGitHubVersionRangeParser.cs", "dc/d86/_i_git_hub_version_range_parser_8cs.html", [
-      [ "IGitHubVersionRangeParser", "d5/d18/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_git_hub_version_range_parser.html", "d5/d18/interface_git_hub_vulnerabilities2_db_1_1_ingest_1_1_i_git_hub_version_range_parser" ]
     ] ],
     [ "IGlobalDataAccess.cs", "d2/d4b/_i_global_data_access_8cs.html", [
       [ "IGlobalDataAccess", "db/db1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_global_data_access.html", null ]
@@ -6885,9 +3981,6 @@ var files_dup =
     [ "IGraphQlExtension.cs", "dc/d4e/_i_graph_ql_extension_8cs.html", [
       [ "IGraphQlExtension", "d7/de7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_extension.html", "d7/de7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_extension" ]
     ] ],
-    [ "IGravatarProxyService.cs", "dc/d51/_i_gravatar_proxy_service_8cs.html", [
-      [ "IGravatarProxyService", "d9/d92/interface_nu_get_gallery_1_1_i_gravatar_proxy_service.html", "d9/d92/interface_nu_get_gallery_1_1_i_gravatar_proxy_service" ]
-    ] ],
     [ "IHealthcareService.cs", "d2/dda/_i_healthcare_service_8cs.html", [
       [ "IHealthcareService", "d8/dde/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_healthcare_service.html", null ]
     ] ],
@@ -6896,9 +3989,6 @@ var files_dup =
     ] ],
     [ "IHealthChecksUi.cs", "d1/d5f/_i_health_checks_ui_8cs.html", [
       [ "IHealthChecksUi", "d5/db1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_health_1_1_i_health_checks_ui.html", "d5/db1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_health_1_1_i_health_checks_ui" ]
-    ] ],
-    [ "IHijackSearchServiceFactory.cs", "dc/d52/_i_hijack_search_service_factory_8cs.html", [
-      [ "IHijackSearchServiceFactory", "dd/dd8/interface_nu_get_gallery_1_1_i_hijack_search_service_factory.html", "dd/dd8/interface_nu_get_gallery_1_1_i_hijack_search_service_factory" ]
     ] ],
     [ "IHolderDataAccess.cs", "db/d49/_i_holder_data_access_8cs.html", [
       [ "IHolderDataAccess", "d2/d95/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_holder_data_access.html", "d2/d95/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_holder_data_access" ]
@@ -6915,9 +4005,6 @@ var files_dup =
     [ "IHttpClient.cs", "db/d67/_i_http_client_8cs.html", [
       [ "IHttpClient", "d9/df1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_client.html", "d9/df1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_client" ]
     ] ],
-    [ "IHttpClientWrapper.cs", "d2/dc8/_i_http_client_wrapper_8cs.html", [
-      [ "IHttpClientWrapper", "d5/db5/interface_nu_get_gallery_1_1_infrastructure_1_1_i_http_client_wrapper.html", "d5/db5/interface_nu_get_gallery_1_1_infrastructure_1_1_i_http_client_wrapper" ]
-    ] ],
     [ "IHttpHeader.cs", "d0/da3/_i_http_header_8cs.html", [
       [ "IHttpHeader", "de/d66/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_header.html", "de/d66/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_header" ]
     ] ],
@@ -6927,23 +4014,11 @@ var files_dup =
     [ "IHttpsRedirection.cs", "df/d5f/_i_https_redirection_8cs.html", [
       [ "IHttpsRedirection", "d0/d68/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_https_redirection.html", "d0/d68/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_https_redirection" ]
     ] ],
-    [ "IIconUrlProvider.cs", "d8/dce/_i_icon_url_provider_8cs.html", [
-      [ "IIconUrlProvider", "dd/d62/interface_nu_get_gallery_1_1_i_icon_url_provider.html", "dd/d62/interface_nu_get_gallery_1_1_i_icon_url_provider" ]
-    ] ],
-    [ "IIconUrlTemplateProcessor.cs", "d1/d06/_i_icon_url_template_processor_8cs.html", [
-      [ "IIconUrlTemplateProcessor", "d3/d2e/interface_nu_get_gallery_1_1_i_icon_url_template_processor.html", null ]
-    ] ],
     [ "IIdentityServer4.cs", "d8/d90/_i_identity_server4_8cs.html", [
       [ "IIdentityServer4", "da/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_521b0fbc7cb78532a9fb937571388bcf.html", "da/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_521b0fbc7cb78532a9fb937571388bcf" ]
     ] ],
     [ "IIisServerOptions.cs", "df/de5/_i_iis_server_options_8cs.html", [
       [ "IIisServerOptions", "db/d6c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options.html", "db/d6c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options" ]
-    ] ],
-    [ "IIndexingJobFactory.cs", "db/d58/_i_indexing_job_factory_8cs.html", [
-      [ "IIndexingJobFactory", "dd/d10/interface_nu_get_gallery_1_1_infrastructure_1_1_lucene_1_1_i_indexing_job_factory.html", "dd/d10/interface_nu_get_gallery_1_1_infrastructure_1_1_lucene_1_1_i_indexing_job_factory" ]
-    ] ],
-    [ "IIndexingService.cs", "d0/d6d/_i_indexing_service_8cs.html", [
-      [ "IIndexingService", "de/d49/interface_nu_get_gallery_1_1_i_indexing_service.html", "de/d49/interface_nu_get_gallery_1_1_i_indexing_service" ]
     ] ],
     [ "IInfinityComexIntegrationsOptions.cs", "df/db6/_i_infinity_comex_integrations_options_8cs.html", [
       [ "IInfinityComexIntegrationsOptions", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f5560acc24f7691509cfa1d95daee8ca.html", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f5560acc24f7691509cfa1d95daee8ca" ]
@@ -6995,31 +4070,18 @@ var files_dup =
     [ "ILogging.cs", "de/df8/_i_logging_8cs.html", [
       [ "ILogging", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging.html", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging" ]
     ] ],
-    [ "ILoginDiscontinuationConfiguration.cs", "d6/d1b/_i_login_discontinuation_configuration_8cs.html", [
-      [ "ILoginDiscontinuationConfiguration", "d6/d89/interface_nu_get_gallery_1_1_i_login_discontinuation_configuration.html", "d6/d89/interface_nu_get_gallery_1_1_i_login_discontinuation_configuration" ]
-    ] ],
     [ "ILogisticsService.cs", "dd/d86/_i_logistics_service_8cs.html", [
       [ "ILogisticsService", "db/d88/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logistics_service.html", null ]
     ] ],
     [ "ILogLevel.cs", "d2/d16/_i_log_level_8cs.html", [
       [ "ILogLevel", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level.html", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level" ]
     ] ],
-    [ "ILuceneDocumentFactory.cs", "d3/ded/_i_lucene_document_factory_8cs.html", [
-      [ "ILuceneDocumentFactory", "d3/d03/interface_nu_get_gallery_1_1_i_lucene_document_factory.html", "d3/d03/interface_nu_get_gallery_1_1_i_lucene_document_factory" ]
-    ] ],
-    [ "ImageExtensions.cs", "df/dd2/_image_extensions_8cs.html", null ],
     [ "ImageModel.cs", "d1/dba/_image_model_8cs.html", null ],
-    [ "ImageResult.cs", "d3/d47/_image_result_8cs.html", [
-      [ "ImageResult", "d5/d34/class_nu_get_gallery_1_1_image_result.html", "d5/d34/class_nu_get_gallery_1_1_image_result" ]
-    ] ],
     [ "ImageWithMimeType.cs", "d4/dbb/_image_with_mime_type_8cs.html", [
       [ "ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type" ]
     ] ],
     [ "IManufacturingService.cs", "d8/d84/_i_manufacturing_service_8cs.html", [
       [ "IManufacturingService", "dc/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_manufacturing_service.html", null ]
-    ] ],
-    [ "IMarkdownService.cs", "da/d03/_i_markdown_service_8cs.html", [
-      [ "IMarkdownService", "d2/db7/interface_nu_get_gallery_1_1_i_markdown_service.html", "d2/db7/interface_nu_get_gallery_1_1_i_markdown_service" ]
     ] ],
     [ "IMarketingService.cs", "d5/d9b/_i_marketing_service_8cs.html", [
       [ "IMarketingService", "d6/da1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketing_service.html", null ]
@@ -7039,29 +4101,11 @@ var files_dup =
     [ "IMicrosoftIntegrationOptions.cs", "dc/def/_i_microsoft_integration_options_8cs.html", [
       [ "IMicrosoftIntegrationOptions", "db/df5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dc89bb2a2afd387e0dfafb163e3c449d.html", "db/df5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dc89bb2a2afd387e0dfafb163e3c449d" ]
     ] ],
-    [ "IMigrationContext.cs", "de/db6/_i_migration_context_8cs.html", [
-      [ "IMigrationContext", "de/d97/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context.html", "de/d97/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context" ]
-    ] ],
-    [ "IMigrationContextFactory.cs", "dd/d3c/_i_migration_context_factory_8cs.html", [
-      [ "IMigrationContextFactory", "dd/d7e/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context_factory.html", "dd/d7e/interface_nu_get_1_1_services_1_1_database_migration_1_1_i_migration_context_factory" ]
-    ] ],
-    [ "ImmediatePackageValidator.cs", "d2/dd2/_immediate_package_validator_8cs.html", [
-      [ "ImmediatePackageValidator", "dc/dd2/class_nu_get_gallery_1_1_immediate_package_validator.html", "dc/dd2/class_nu_get_gallery_1_1_immediate_package_validator" ]
-    ] ],
-    [ "ImmediatePackageValidatorFacts.cs", "d4/d6d/_immediate_package_validator_facts_8cs.html", [
-      [ "ImmediatePackageValidatorFacts", "da/d29/class_nu_get_gallery_1_1_immediate_package_validator_facts.html", [
-        [ "TheStartValidationAsyncMethod", "d0/d34/class_nu_get_gallery_1_1_immediate_package_validator_facts_1_1_the_start_validation_async_method.html", "d0/d34/class_nu_get_gallery_1_1_immediate_package_validator_facts_1_1_the_start_validation_async_method" ]
-      ] ],
-      [ "TheStartValidationAsyncMethod", "d0/d34/class_nu_get_gallery_1_1_immediate_package_validator_facts_1_1_the_start_validation_async_method.html", "d0/d34/class_nu_get_gallery_1_1_immediate_package_validator_facts_1_1_the_start_validation_async_method" ]
-    ] ],
     [ "ImmobilizationCertificateIDType.cs", "d1/dc6/_immobilization_certificate_i_d_type_8cs.html", [
       [ "ImmobilizationCertificateIDType", "db/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilization_certificate_i_d_type.html", null ]
     ] ],
     [ "ImmobilizedSecurityType.cs", "d0/d92/_immobilized_security_type_8cs.html", [
       [ "ImmobilizedSecurityType", "d0/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilized_security_type.html", "d0/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilized_security_type" ]
-    ] ],
-    [ "IModifyFeatureFlagsViewModel.cs", "d9/db8/_i_modify_feature_flags_view_model_8cs.html", [
-      [ "IModifyFeatureFlagsViewModel", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model.html", "d7/da2/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_i_modify_feature_flags_view_model" ]
     ] ],
     [ "IModular.cs", "db/d90/_i_modular_8cs.html", [
       [ "IModular", "d7/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_modular.html", "d7/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_modular" ]
@@ -7141,9 +4185,6 @@ var files_dup =
     [ "InlineShowcaseViewComponent.cs", "dd/d19/_inline_showcase_view_component_8cs.html", [
       [ "InlineShowcaseViewComponent", "d7/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_view_component.html", "d7/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_view_component" ]
     ] ],
-    [ "INode.cs", "de/daa/_i_node_8cs.html", [
-      [ "INode", "db/d72/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_node.html", "db/d72/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_node" ]
-    ] ],
     [ "InputValidationRule.cs", "d2/d7f/_input_validation_rule_8cs.html", [
       [ "InputValidationRule", "dc/d4b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_validation_rules_1_1_input_validation_rule.html", null ]
     ] ],
@@ -7152,12 +4193,6 @@ var files_dup =
     ] ],
     [ "InquiryRequestAttachment.cs", "df/d26/_inquiry_request_attachment_8cs.html", [
       [ "InquiryRequestAttachment", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request_attachment.html", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request_attachment" ]
-    ] ],
-    [ "Insert.aspx.cs", "d0/d32/_insert_8aspx_8cs.html", [
-      [ "Insert", "d8/d0b/class_nu_get_gallery_1_1_insert.html", "d8/d0b/class_nu_get_gallery_1_1_insert" ]
-    ] ],
-    [ "Insert.aspx.designer.cs", "dd/dc7/_insert_8aspx_8designer_8cs.html", [
-      [ "Insert", "d8/d0b/class_nu_get_gallery_1_1_insert.html", "d8/d0b/class_nu_get_gallery_1_1_insert" ]
     ] ],
     [ "InspectionMethodCodeType.cs", "d5/d7e/_inspection_method_code_type_8cs.html", [
       [ "InspectionMethodCodeType", "d1/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_inspection_method_code_type.html", null ]
@@ -7198,27 +4233,12 @@ var files_dup =
     [ "InsuranceValueAmountType.cs", "df/d58/_insurance_value_amount_type_8cs.html", [
       [ "InsuranceValueAmountType", "d5/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_insurance_value_amount_type.html", null ]
     ] ],
-    [ "Integer_Edit.ascx.cs", "df/d85/_integer___edit_8ascx_8cs.html", [
-      [ "Integer_EditField", "d4/d24/class_nu_get_gallery_1_1_integer___edit_field.html", "d4/d24/class_nu_get_gallery_1_1_integer___edit_field" ]
-    ] ],
-    [ "Integer_Edit.ascx.designer.cs", "de/da8/_integer___edit_8ascx_8designer_8cs.html", [
-      [ "Integer_EditField", "d4/d24/class_nu_get_gallery_1_1_integer___edit_field.html", "d4/d24/class_nu_get_gallery_1_1_integer___edit_field" ]
-    ] ],
     [ "Integration.cs", "d4/d8b/_integration_8cs.html", "d4/d8b/_integration_8cs" ],
     [ "IntegrationOptions.cs", "d8/dc6/_integration_options_8cs.html", [
       [ "IntegrationOptions", "dc/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_integrations_1_1_integration_options.html", "dc/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_integrations_1_1_integration_options" ]
     ] ],
     [ "IntegrationsOptions.cs", "d6/dd5/_integrations_options_8cs.html", [
       [ "IntegrationsOptions", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options" ]
-    ] ],
-    [ "InvalidLicenseUrlValidationMessage.cs", "de/d66/_invalid_license_url_validation_message_8cs.html", [
-      [ "InvalidLicenseUrlValidationMessage", "d2/db2/class_nu_get_gallery_1_1_invalid_license_url_validation_message.html", "d2/db2/class_nu_get_gallery_1_1_invalid_license_url_validation_message" ]
-    ] ],
-    [ "InvalidPackageException.cs", "d0/d06/_invalid_package_exception_8cs.html", [
-      [ "InvalidPackageException", "d5/d55/class_nu_get_gallery_1_1_packaging_1_1_invalid_package_exception.html", "d5/d55/class_nu_get_gallery_1_1_packaging_1_1_invalid_package_exception" ]
-    ] ],
-    [ "InvalidUrlEncodingForLicenseUrlValidationMessage.cs", "d8/d92/_invalid_url_encoding_for_license_url_validation_message_8cs.html", [
-      [ "InvalidUrlEncodingForLicenseUrlValidationMessage", "db/d27/class_nu_get_gallery_1_1_invalid_url_encoding_for_license_url_validation_message.html", "db/d27/class_nu_get_gallery_1_1_invalid_url_encoding_for_license_url_validation_message" ]
     ] ],
     [ "InventoryOptions.cs", "df/d9f/_inventory_options_8cs.html", "df/d9f/_inventory_options_8cs" ],
     [ "InventoryReportLineType.cs", "d1/d35/_inventory_report_line_type_8cs.html", [
@@ -7277,75 +4297,11 @@ var files_dup =
     [ "InvoicingPartyReferenceType.cs", "d5/da1/_invoicing_party_reference_type_8cs.html", [
       [ "InvoicingPartyReferenceType", "d7/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_invoicing_party_reference_type.html", null ]
     ] ],
-    [ "IObjectMaterializedInterceptor.cs", "d2/dc6/_i_object_materialized_interceptor_8cs.html", [
-      [ "IObjectMaterializedInterceptor", "dd/d58/interface_nu_get_gallery_1_1_i_object_materialized_interceptor.html", "dd/d58/interface_nu_get_gallery_1_1_i_object_materialized_interceptor" ]
-    ] ],
-    [ "IODataCacheConfiguration.cs", "d9/d0c/_i_o_data_cache_configuration_8cs.html", [
-      [ "IODataCacheConfiguration", "d8/d2d/interface_nu_get_gallery_1_1_services_1_1_i_o_data_cache_configuration.html", "d8/d2d/interface_nu_get_gallery_1_1_services_1_1_i_o_data_cache_configuration" ]
-    ] ],
     [ "IOpenExchangeRatesIntegrationOptions.cs", "db/de7/_i_open_exchange_rates_integration_options_8cs.html", [
       [ "IOpenExchangeRatesIntegrationOptions", "d4/d34/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dbd1e2a82cd313a5d79a5aec3b02bbe8.html", "d4/d34/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dbd1e2a82cd313a5d79a5aec3b02bbe8" ]
     ] ],
     [ "IOrganizationDataAccess.cs", "dc/d5c/_i_organization_data_access_8cs.html", [
       [ "IOrganizationDataAccess", "dc/d28/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_organization_data_access.html", null ]
-    ] ],
-    [ "IOwinContextExtensions.cs", "d1/da3/_i_owin_context_extensions_8cs.html", null ],
-    [ "IPackageDeleteConfiguration.cs", "de/df0/_i_package_delete_configuration_8cs.html", [
-      [ "IPackageDeleteConfiguration", "de/d14/interface_nu_get_gallery_1_1_configuration_1_1_i_package_delete_configuration.html", "de/d14/interface_nu_get_gallery_1_1_configuration_1_1_i_package_delete_configuration" ]
-    ] ],
-    [ "IPackageDeleteService.cs", "d0/dc5/_i_package_delete_service_8cs.html", [
-      [ "IPackageDeleteService", "d7/daa/interface_nu_get_gallery_1_1_i_package_delete_service.html", "d7/daa/interface_nu_get_gallery_1_1_i_package_delete_service" ]
-    ] ],
-    [ "IPackageDeprecationManagementService.cs", "d8/dac/_i_package_deprecation_management_service_8cs.html", [
-      [ "IPackageDeprecationManagementService", "dd/d61/interface_nu_get_gallery_1_1_i_package_deprecation_management_service.html", "dd/d61/interface_nu_get_gallery_1_1_i_package_deprecation_management_service" ]
-    ] ],
-    [ "IPackageDeprecationService.cs", "dc/d16/_i_package_deprecation_service_8cs.html", [
-      [ "IPackageDeprecationService", "da/dc3/interface_nu_get_gallery_1_1_i_package_deprecation_service.html", "da/dc3/interface_nu_get_gallery_1_1_i_package_deprecation_service" ]
-    ] ],
-    [ "IPackageEntity.cs", "d9/d25/_i_package_entity_8cs.html", [
-      [ "IPackageEntity", "de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html", "de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity" ]
-    ] ],
-    [ "IPackageFileService.cs", "d4/d11/_i_package_file_service_8cs.html", [
-      [ "IPackageFileService", "d2/d5a/interface_nu_get_gallery_1_1_i_package_file_service.html", "d2/d5a/interface_nu_get_gallery_1_1_i_package_file_service" ]
-    ] ],
-    [ "IPackageFilter.cs", "de/da8/_i_package_filter_8cs.html", [
-      [ "IPackageFilter", "d6/db5/interface_nu_get_gallery_1_1_services_1_1_i_package_filter.html", "d6/db5/interface_nu_get_gallery_1_1_services_1_1_i_package_filter" ]
-    ] ],
-    [ "IPackageMetadataValidationService.cs", "df/d5f/_i_package_metadata_validation_service_8cs.html", [
-      [ "IPackageMetadataValidationService", "db/d97/interface_nu_get_gallery_1_1_i_package_metadata_validation_service.html", "db/d97/interface_nu_get_gallery_1_1_i_package_metadata_validation_service" ]
-    ] ],
-    [ "IPackageOwnerRequestService.cs", "db/db3/_i_package_owner_request_service_8cs.html", [
-      [ "IPackageOwnerRequestService", "d3/db8/interface_nu_get_gallery_1_1_i_package_owner_request_service.html", "d3/db8/interface_nu_get_gallery_1_1_i_package_owner_request_service" ]
-    ] ],
-    [ "IPackageOwnershipManagementService.cs", "df/d16/_i_package_ownership_management_service_8cs.html", [
-      [ "IPackageOwnershipManagementService", "db/dc4/interface_nu_get_gallery_1_1_i_package_ownership_management_service.html", "db/dc4/interface_nu_get_gallery_1_1_i_package_ownership_management_service" ]
-    ] ],
-    [ "IPackageRenameService.cs", "dc/d3a/_i_package_rename_service_8cs.html", [
-      [ "IPackageRenameService", "dc/dd4/interface_nu_get_gallery_1_1_i_package_rename_service.html", "dc/dd4/interface_nu_get_gallery_1_1_i_package_rename_service" ]
-    ] ],
-    [ "IPackageService.cs", "d8/d4d/_i_package_service_8cs.html", [
-      [ "IPackageService", "d8/d29/interface_nu_get_gallery_1_1_i_package_service.html", "d8/d29/interface_nu_get_gallery_1_1_i_package_service" ]
-    ] ],
-    [ "IPackageUpdateService.cs", "dd/dff/_i_package_update_service_8cs.html", [
-      [ "IPackageUpdateService", "d4/d22/interface_nu_get_gallery_1_1_i_package_update_service.html", "d4/d22/interface_nu_get_gallery_1_1_i_package_update_service" ]
-    ] ],
-    [ "IPackageUploadService.cs", "da/d35/_i_package_upload_service_8cs.html", [
-      [ "IPackageUploadService", "dd/dcd/interface_nu_get_gallery_1_1_i_package_upload_service.html", "dd/dcd/interface_nu_get_gallery_1_1_i_package_upload_service" ]
-    ] ],
-    [ "IPackageValidationInitiator.cs", "d5/d0c/_i_package_validation_initiator_8cs.html", [
-      [ "IPackageValidationInitiator", "d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html", "d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator" ]
-    ] ],
-    [ "IPackageVersionModel.cs", "d8/d59/_i_package_version_model_8cs.html", [
-      [ "IPackageVersionModel", "d6/d2a/interface_nu_get_gallery_1_1_i_package_version_model.html", "d6/d2a/interface_nu_get_gallery_1_1_i_package_version_model" ]
-    ] ],
-    [ "IPackageVulnerabilitiesManagementService.cs", "df/d27/_i_package_vulnerabilities_management_service_8cs.html", [
-      [ "IPackageVulnerabilitiesManagementService", "d2/d23/interface_nu_get_gallery_1_1_i_package_vulnerabilities_management_service.html", "d2/d23/interface_nu_get_gallery_1_1_i_package_vulnerabilities_management_service" ]
-    ] ],
-    [ "IPackageVulnerabilitiesService.cs", "dc/deb/_i_package_vulnerabilities_service_8cs.html", [
-      [ "IPackageVulnerabilitiesService", "d1/d8c/interface_nu_get_gallery_1_1_i_package_vulnerabilities_service.html", "d1/d8c/interface_nu_get_gallery_1_1_i_package_vulnerabilities_service" ]
-    ] ],
-    [ "IPageableEnumerable.cs", "d7/d3e/_i_pageable_enumerable_8cs.html", [
-      [ "IPageableEnumerable", "d3/def/interface_nu_get_gallery_1_1_i_pageable_enumerable.html", "d3/def/interface_nu_get_gallery_1_1_i_pageable_enumerable" ]
     ] ],
     [ "IPayPalIntegrationOptions.cs", "d6/d4e/_i_pay_pal_integration_options_8cs.html", [
       [ "IPayPalIntegrationOptions", "d1/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_10aa4195d25d5597bfe352424045d2af5.html", "d1/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_10aa4195d25d5597bfe352424045d2af5" ]
@@ -7377,9 +4333,6 @@ var files_dup =
     [ "IpRateLimitingOptions.cs", "dc/d62/_ip_rate_limiting_options_8cs.html", [
       [ "IpRateLimitingOptions", "df/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_ip_rate_limiting_options.html", "df/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_ip_rate_limiting_options" ]
     ] ],
-    [ "IPreviousNextPager.cs", "d5/d35/_i_previous_next_pager_8cs.html", [
-      [ "IPreviousNextPager", "d8/df0/interface_nu_get_gallery_1_1_i_previous_next_pager.html", "d8/df0/interface_nu_get_gallery_1_1_i_previous_next_pager" ]
-    ] ],
     [ "IPricingService.cs", "df/d99/_i_pricing_service_8cs.html", [
       [ "IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", null ]
     ] ],
@@ -7395,29 +4348,11 @@ var files_dup =
     [ "IQualityService.cs", "d7/d8e/_i_quality_service_8cs.html", [
       [ "IQualityService", "dc/d9b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quality_service.html", null ]
     ] ],
-    [ "IQueryHintConfiguration.cs", "d4/df7/_i_query_hint_configuration_8cs.html", [
-      [ "IQueryHintConfiguration", "d9/d03/interface_nu_get_gallery_1_1_services_1_1_i_query_hint_configuration.html", "d9/d03/interface_nu_get_gallery_1_1_services_1_1_i_query_hint_configuration" ]
-    ] ],
-    [ "IQueryService.cs", "d6/d1e/_i_query_service_8cs.html", [
-      [ "IQueryService", "d3/dfb/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_query_service.html", "d3/dfb/interface_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_i_query_service" ]
-    ] ],
-    [ "IRawSearchService.cs", "d0/d64/_i_raw_search_service_8cs.html", [
-      [ "IRawSearchService", "d6/d76/interface_nu_get_gallery_1_1_i_raw_search_service.html", "d6/d76/interface_nu_get_gallery_1_1_i_raw_search_service" ]
-    ] ],
     [ "IRazorCompilationService.cs", "d5/d14/_i_razor_compilation_service_8cs.html", [
       [ "IRazorCompilationService", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service.html", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service" ]
     ] ],
     [ "IRazorPages.cs", "d7/df8/_i_razor_pages_8cs.html", [
       [ "IRazorPages", "dc/dad/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_v_m_1_1_i_razor_pages.html", "dc/dad/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_v_m_1_1_i_razor_pages" ]
-    ] ],
-    [ "IReadMeService.cs", "db/d44/_i_read_me_service_8cs.html", [
-      [ "IReadMeService", "db/dee/interface_nu_get_gallery_1_1_i_read_me_service.html", "db/dee/interface_nu_get_gallery_1_1_i_read_me_service" ]
-    ] ],
-    [ "IReadOnlyEntitiesContext.cs", "d6/d04/_i_read_only_entities_context_8cs.html", [
-      [ "IReadOnlyEntitiesContext", "d8/da0/interface_nu_get_gallery_1_1_i_read_only_entities_context.html", "d8/da0/interface_nu_get_gallery_1_1_i_read_only_entities_context" ]
-    ] ],
-    [ "IReadOnlyEntityRepository.cs", "d3/d60/_i_read_only_entity_repository_8cs.html", [
-      [ "IReadOnlyEntityRepository", "db/d80/interface_nu_get_gallery_1_1_i_read_only_entity_repository.html", "db/d80/interface_nu_get_gallery_1_1_i_read_only_entity_repository" ]
     ] ],
     [ "IRedirection.cs", "db/d2e/_i_redirection_8cs.html", [
       [ "IRedirection", "d5/de8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirection.html", "d5/de8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirection" ]
@@ -7425,26 +4360,14 @@ var files_dup =
     [ "IRedirections.cs", "de/d47/_i_redirections_8cs.html", [
       [ "IRedirections", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirections.html", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirections" ]
     ] ],
-    [ "IReportService.cs", "db/dd0/_i_report_service_8cs.html", [
-      [ "IReportService", "df/d64/interface_nu_get_gallery_1_1_i_report_service.html", "df/d64/interface_nu_get_gallery_1_1_i_report_service" ]
-    ] ],
     [ "IRequestService.cs", "dd/d95/_i_request_service_8cs.html", [
       [ "IRequestService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service.html", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service" ]
-    ] ],
-    [ "IReservedNamespaceService.cs", "de/da9/_i_reserved_namespace_service_8cs.html", [
-      [ "IReservedNamespaceService", "d5/dc9/interface_nu_get_gallery_1_1_i_reserved_namespace_service.html", "d5/dc9/interface_nu_get_gallery_1_1_i_reserved_namespace_service" ]
-    ] ],
-    [ "IResilientSearchClient.cs", "d0/d6d/_i_resilient_search_client_8cs.html", [
-      [ "IResilientSearchClient", "dd/d46/interface_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_i_resilient_search_client.html", "dd/d46/interface_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_i_resilient_search_client" ]
     ] ],
     [ "IResponseCaching.cs", "d7/d2e/_i_response_caching_8cs.html", [
       [ "IResponseCaching", "d2/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_response_caching.html", "d2/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_response_caching" ]
     ] ],
     [ "IRestApi.cs", "da/d65/_i_rest_api_8cs.html", [
       [ "IRestApi", "d3/d4c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e_s_t_1_1_i_rest_api.html", "d3/d4c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e_s_t_1_1_i_rest_api" ]
-    ] ],
-    [ "IRevalidationStateService.cs", "d8/da7/_i_revalidation_state_service_8cs.html", [
-      [ "IRevalidationStateService", "de/d92/interface_nu_get_gallery_1_1_i_revalidation_state_service.html", "de/d92/interface_nu_get_gallery_1_1_i_revalidation_state_service" ]
     ] ],
     [ "IRewrittingOptions.cs", "d1/d1f/_i_rewritting_options_8cs.html", [
       [ "IRewrittingOptions", "d6/da1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_rewritting_options.html", "d6/da1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_rewritting_options" ]
@@ -7455,21 +4378,8 @@ var files_dup =
     [ "ISalesService.cs", "d7/d16/_i_sales_service_8cs.html", [
       [ "ISalesService", "da/d38/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sales_service.html", null ]
     ] ],
-    [ "ISearchClient.cs", "d3/d21/_i_search_client_8cs.html", "d3/d21/_i_search_client_8cs" ],
-    [ "FenixAlliance.ABM/FenixAlliance.ABM.Data/Interfaces/Services/ISearchService.cs", "d6/d76/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_data_2_interfaces_2_services_2_i_search_service_8cs.html", [
+    [ "ISearchService.cs", "d6/da9/_i_search_service_8cs.html", [
       [ "ISearchService", "da/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_search_service.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/Services/ISearchService.cs", "d6/dc7/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_services_2_i_search_service_8cs.html", [
-      [ "ISearchService", "d7/dde/interface_nu_get_gallery_1_1_i_search_service.html", "d7/dde/interface_nu_get_gallery_1_1_i_search_service" ]
-    ] ],
-    [ "ISearchServiceFactory.cs", "d5/dc4/_i_search_service_factory_8cs.html", [
-      [ "ISearchServiceFactory", "d4/d8a/interface_nu_get_gallery_1_1_i_search_service_factory.html", "d4/d8a/interface_nu_get_gallery_1_1_i_search_service_factory" ]
-    ] ],
-    [ "ISearchSideBySideService.cs", "df/deb/_i_search_side_by_side_service_8cs.html", [
-      [ "ISearchSideBySideService", "d6/d85/interface_nu_get_gallery_1_1_i_search_side_by_side_service.html", "d6/d85/interface_nu_get_gallery_1_1_i_search_side_by_side_service" ]
-    ] ],
-    [ "ISecurityPolicyService.cs", "de/da6/_i_security_policy_service_8cs.html", [
-      [ "ISecurityPolicyService", "dc/d94/interface_nu_get_gallery_1_1_security_1_1_i_security_policy_service.html", "dc/d94/interface_nu_get_gallery_1_1_security_1_1_i_security_policy_service" ]
     ] ],
     [ "ISecurityService.cs", "da/d76/_i_security_service_8cs.html", [
       [ "ISecurityService", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service.html", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service" ]
@@ -7504,9 +4414,6 @@ var files_dup =
     [ "IServer.cs", "dd/d6a/_i_server_8cs.html", [
       [ "IServer", "dd/d49/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_server.html", "dd/d49/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_server" ]
     ] ],
-    [ "IServiceBusConfiguration.cs", "d6/d35/_i_service_bus_configuration_8cs.html", [
-      [ "IServiceBusConfiguration", "de/d7d/interface_nu_get_gallery_1_1_configuration_1_1_i_service_bus_configuration.html", "de/d7d/interface_nu_get_gallery_1_1_configuration_1_1_i_service_bus_configuration" ]
-    ] ],
     [ "IServicesService.cs", "dd/d3b/_i_services_service_8cs.html", [
       [ "IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", null ]
     ] ],
@@ -7515,12 +4422,6 @@ var files_dup =
     ] ],
     [ "ISignatorService.cs", "d7/db7/_i_signator_service_8cs.html", [
       [ "ISignatorService", "db/d93/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_signator_service.html", null ]
-    ] ],
-    [ "ISimpleBlobResultSegment.cs", "d3/d7f/_i_simple_blob_result_segment_8cs.html", [
-      [ "ISimpleBlobResultSegment", "d4/d42/interface_nu_get_gallery_1_1_i_simple_blob_result_segment.html", "d4/d42/interface_nu_get_gallery_1_1_i_simple_blob_result_segment" ]
-    ] ],
-    [ "ISimpleCloudBlob.cs", "d1/d72/_i_simple_cloud_blob_8cs.html", [
-      [ "ISimpleCloudBlob", "dc/d5b/interface_nu_get_gallery_1_1_i_simple_cloud_blob.html", "dc/d5b/interface_nu_get_gallery_1_1_i_simple_cloud_blob" ]
     ] ],
     [ "ISmtp.cs", "d7/d4e/_i_smtp_8cs.html", [
       [ "ISmtp", "da/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_s_m_t_p_1_1_i_smtp.html", "da/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_s_m_t_p_1_1_i_smtp" ]
@@ -7540,17 +4441,11 @@ var files_dup =
     [ "ISocialService.cs", "d7/dc7/_i_social_service_8cs.html", [
       [ "ISocialService", "de/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_service.html", "de/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_service" ]
     ] ],
-    [ "ISourceDestinationRedirectPolicy.cs", "d8/dc1/_i_source_destination_redirect_policy_8cs.html", [
-      [ "ISourceDestinationRedirectPolicy", "d6/de2/interface_nu_get_gallery_1_1_i_source_destination_redirect_policy.html", "d6/de2/interface_nu_get_gallery_1_1_i_source_destination_redirect_policy" ]
-    ] ],
     [ "ISpaService.cs", "d4/d5e/_i_spa_service_8cs.html", [
       [ "ISpaService", "dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service.html", "dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service" ]
     ] ],
     [ "IssServerOptions.cs", "d5/d0d/_iss_server_options_8cs.html", [
       [ "IssServerOptions", "d6/db4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_iss_server_options.html", "d6/db4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_iss_server_options" ]
-    ] ],
-    [ "Issue.cs", "d0/d13/_issue_8cs.html", [
-      [ "Issue", "d6/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue.html", "d6/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue" ]
     ] ],
     [ "IssueDateType.cs", "d7/d9b/_issue_date_type_8cs.html", [
       [ "IssueDateType", "d6/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_issue_date_type.html", null ]
@@ -7561,12 +4456,6 @@ var files_dup =
     [ "IssuerIDType.cs", "db/d2d/_issuer_i_d_type_8cs.html", [
       [ "IssuerIDType", "d2/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_issuer_i_d_type.html", null ]
     ] ],
-    [ "IssueStatus.cs", "d8/d12/_issue_status_8cs.html", [
-      [ "IssueStatus", "de/df1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status.html", "de/df1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status" ]
-    ] ],
-    [ "IssueStatusKeys.cs", "dc/dff/_issue_status_keys_8cs.html", [
-      [ "IssueStatusKeys", "db/d97/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status_keys.html", null ]
-    ] ],
     [ "IssueTimeType.cs", "d3/d5c/_issue_time_type_8cs.html", [
       [ "IssueTimeType", "de/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_issue_time_type.html", null ]
     ] ],
@@ -7576,9 +4465,6 @@ var files_dup =
     [ "IStaticResource.cs", "d6/dab/_i_static_resource_8cs.html", [
       [ "IStaticResource", "d3/de9/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_static_1_1_i_static_resource.html", "d3/de9/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_static_1_1_i_static_resource" ]
     ] ],
-    [ "IStatisticsService.cs", "d2/d62/_i_statistics_service_8cs.html", [
-      [ "IStatisticsService", "d4/d2f/interface_nu_get_gallery_1_1_i_statistics_service.html", "d4/d2f/interface_nu_get_gallery_1_1_i_statistics_service" ]
-    ] ],
     [ "IStatusCodePages.cs", "db/ddd/_i_status_code_pages_8cs.html", [
       [ "IStatusCodePages", "d6/da5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_st0e1cc0ff0e7034f698fe5eb15448e1a8.html", "d6/da5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_st0e1cc0ff0e7034f698fe5eb15448e1a8" ]
     ] ],
@@ -7587,9 +4473,6 @@ var files_dup =
     ] ],
     [ "IStatusCodePagesWithReExecute.cs", "dd/d06/_i_status_code_pages_with_re_execute_8cs.html", [
       [ "IStatusCodePagesWithReExecute", "d0/da4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_ste49e6fd784c39e757636734288196060.html", "d0/da4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_ste49e6fd784c39e757636734288196060" ]
-    ] ],
-    [ "IStatusService.cs", "db/db7/_i_status_service_8cs.html", [
-      [ "IStatusService", "df/d9b/interface_nu_get_gallery_1_1_i_status_service.html", "df/d9b/interface_nu_get_gallery_1_1_i_status_service" ]
     ] ],
     [ "IStockDataAccess.cs", "db/dbd/_i_stock_data_access_8cs.html", [
       [ "IStockDataAccess", "dd/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_stock_data_access.html", "dd/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_stock_data_access" ]
@@ -7613,9 +4496,6 @@ var files_dup =
     [ "IStoreService.cs", "de/df1/_i_store_service_8cs.html", [
       [ "IStoreService", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service" ]
     ] ],
-    [ "IStringTemplateProcessor.cs", "da/d2f/_i_string_template_processor_8cs.html", [
-      [ "IStringTemplateProcessor", "d9/dc8/interface_nu_get_gallery_1_1_i_string_template_processor.html", "d9/dc8/interface_nu_get_gallery_1_1_i_string_template_processor" ]
-    ] ],
     [ "ISubscriptionService.cs", "d2/ddd/_i_subscription_service_8cs.html", [
       [ "ISubscriptionService", "d3/de0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscription_service.html", null ]
     ] ],
@@ -7630,12 +4510,6 @@ var files_dup =
     ] ],
     [ "ISuiteStatus.cs", "d0/dae/_i_suite_status_8cs.html", [
       [ "ISuiteStatus", "d7/d2a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_status.html", "d7/d2a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_status" ]
-    ] ],
-    [ "ISupportRequestDbContext.cs", "d9/d2f/_i_support_request_db_context_8cs.html", [
-      [ "ISupportRequestDbContext", "d4/d03/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_i_support_request_db_context.html", "d4/d03/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_i_support_request_db_context" ]
-    ] ],
-    [ "ISupportRequestService.cs", "d6/dfb/_i_support_request_service_8cs.html", [
-      [ "ISupportRequestService", "df/d55/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_i_support_request_service.html", "df/d55/interface_nu_get_gallery_1_1_areas_1_1_admin_1_1_i_support_request_service" ]
     ] ],
     [ "ISupportService.cs", "d9/db8/_i_support_service_8cs.html", [
       [ "ISupportService", "da/dc2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_support_service.html", null ]
@@ -7663,24 +4537,6 @@ var files_dup =
     ] ],
     [ "ISwaggerSpec.cs", "db/de8/_i_swagger_spec_8cs.html", [
       [ "ISwaggerSpec", "de/d96/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e61780334ebfd64c3aebd14815c7cd25b.html", "de/d96/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e61780334ebfd64c3aebd14815c7cd25b" ]
-    ] ],
-    [ "ISymbolPackageFileService.cs", "d4/dd6/_i_symbol_package_file_service_8cs.html", [
-      [ "ISymbolPackageFileService", "d5/db3/interface_nu_get_gallery_1_1_i_symbol_package_file_service.html", "d5/db3/interface_nu_get_gallery_1_1_i_symbol_package_file_service" ]
-    ] ],
-    [ "ISymbolPackageService.cs", "dc/d27/_i_symbol_package_service_8cs.html", [
-      [ "ISymbolPackageService", "d5/db6/interface_nu_get_gallery_1_1_i_symbol_package_service.html", "d5/db6/interface_nu_get_gallery_1_1_i_symbol_package_service" ]
-    ] ],
-    [ "ISymbolPackageUploadService.cs", "d8/d72/_i_symbol_package_upload_service_8cs.html", [
-      [ "ISymbolPackageUploadService", "d9/daa/interface_nu_get_gallery_1_1_i_symbol_package_upload_service.html", "d9/daa/interface_nu_get_gallery_1_1_i_symbol_package_upload_service" ]
-    ] ],
-    [ "ISymbolsConfiguration.cs", "d9/d59/_i_symbols_configuration_8cs.html", [
-      [ "ISymbolsConfiguration", "d0/dfc/interface_nu_get_gallery_1_1_services_1_1_i_symbols_configuration.html", "d0/dfc/interface_nu_get_gallery_1_1_services_1_1_i_symbols_configuration" ]
-    ] ],
-    [ "ITelemetryClient.cs", "db/d07/_i_telemetry_client_8cs.html", [
-      [ "ITelemetryClient", "d6/dd8/interface_nu_get_gallery_1_1_i_telemetry_client.html", "d6/dd8/interface_nu_get_gallery_1_1_i_telemetry_client" ]
-    ] ],
-    [ "ITelemetryService.cs", "d6/da2/_i_telemetry_service_8cs.html", [
-      [ "ITelemetryService", "db/d55/interface_nu_get_gallery_1_1_i_telemetry_service.html", "db/d55/interface_nu_get_gallery_1_1_i_telemetry_service" ]
     ] ],
     [ "Item.cs", "df/d01/_item_8cs.html", "df/d01/_item_8cs" ],
     [ "ItemAttachment.cs", "de/d2d/_item_attachment_8cs.html", [
@@ -7930,20 +4786,8 @@ var files_dup =
     [ "IThemingService.cs", "d2/d2b/_i_theming_service_8cs.html", [
       [ "IThemingService", "da/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_theming_service.html", "da/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_theming_service" ]
     ] ],
-    [ "ITyposquattingCheckListCacheService.cs", "d6/d85/_i_typosquatting_check_list_cache_service_8cs.html", [
-      [ "ITyposquattingCheckListCacheService", "d1/dd9/interface_nu_get_gallery_1_1_i_typosquatting_check_list_cache_service.html", "d1/dd9/interface_nu_get_gallery_1_1_i_typosquatting_check_list_cache_service" ]
-    ] ],
-    [ "ITyposquattingConfiguration.cs", "da/d48/_i_typosquatting_configuration_8cs.html", [
-      [ "ITyposquattingConfiguration", "d2/dcb/interface_nu_get_gallery_1_1_services_1_1_i_typosquatting_configuration.html", "d2/dcb/interface_nu_get_gallery_1_1_services_1_1_i_typosquatting_configuration" ]
-    ] ],
-    [ "ITyposquattingService.cs", "dd/d71/_i_typosquatting_service_8cs.html", [
-      [ "ITyposquattingService", "d6/deb/interface_nu_get_gallery_1_1_i_typosquatting_service.html", "d6/deb/interface_nu_get_gallery_1_1_i_typosquatting_service" ]
-    ] ],
     [ "IUpdateService.cs", "da/d9e/_i_update_service_8cs.html", [
       [ "IUpdateService", "de/d6b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_update_service.html", null ]
-    ] ],
-    [ "IUploadFileService.cs", "dd/d4d/_i_upload_file_service_8cs.html", [
-      [ "IUploadFileService", "d8/dbb/interface_nu_get_gallery_1_1_i_upload_file_service.html", "d8/dbb/interface_nu_get_gallery_1_1_i_upload_file_service" ]
     ] ],
     [ "IUrlRedirectOptions.cs", "d4/dc4/_i_url_redirect_options_8cs.html", [
       [ "IUrlRedirectOptions", "d0/d61/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_redirect_options.html", "d0/d61/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_redirect_options" ]
@@ -7956,24 +4800,6 @@ var files_dup =
     ] ],
     [ "IUrlRewriteRule.cs", "dc/da7/_i_url_rewrite_rule_8cs.html", [
       [ "IUrlRewriteRule", "de/dde/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_rewrite_rule.html", "de/dde/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_rewrite_rule" ]
-    ] ],
-    [ "IUserEvaluator.cs", "d2/d3a/_i_user_evaluator_8cs.html", [
-      [ "IUserEvaluator", "d0/d8c/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator.html", "d0/d8c/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator" ]
-    ] ],
-    [ "IUserEvaluatorFactory.cs", "db/dec/_i_user_evaluator_factory_8cs.html", [
-      [ "IUserEvaluatorFactory", "d3/dbb/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator_factory.html", "d3/dbb/interface_nu_get_gallery_1_1_account_deleter_1_1_i_user_evaluator_factory" ]
-    ] ],
-    [ "IUserSecurityPolicySubscription.cs", "db/d6d/_i_user_security_policy_subscription_8cs.html", [
-      [ "IUserSecurityPolicySubscription", "db/d8c/interface_nu_get_gallery_1_1_security_1_1_i_user_security_policy_subscription.html", "db/d8c/interface_nu_get_gallery_1_1_security_1_1_i_user_security_policy_subscription" ]
-    ] ],
-    [ "IUserService.cs", "dc/d90/_i_user_service_8cs.html", [
-      [ "IUserService", "de/d30/interface_nu_get_gallery_1_1_i_user_service.html", "de/d30/interface_nu_get_gallery_1_1_i_user_service" ]
-    ] ],
-    [ "IValidationMessage.cs", "da/d4e/_i_validation_message_8cs.html", [
-      [ "IValidationMessage", "df/d38/interface_nu_get_gallery_1_1_i_validation_message.html", "df/d38/interface_nu_get_gallery_1_1_i_validation_message" ]
-    ] ],
-    [ "IValidationService.cs", "d3/d6f/_i_validation_service_8cs.html", [
-      [ "IValidationService", "d0/d58/interface_nu_get_gallery_1_1_i_validation_service.html", "d0/d58/interface_nu_get_gallery_1_1_i_validation_service" ]
     ] ],
     [ "IViewBufferScope.cs", "d1/d1f/_i_view_buffer_scope_8cs.html", [
       [ "IViewBufferScope", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope.html", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope" ]
@@ -8013,19 +4839,6 @@ var files_dup =
     ] ],
     [ "Types/ABP/Integrations/ZiftAnalytics/IZiftAnalyticsOptions.cs", "dc/d7f/_types_2_a_b_p_2_integrations_2_zift_analytics_2_i_zift_analytics_options_8cs.html", [
       [ "ZiftAnalyticsOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9.html", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9" ]
-    ] ],
-    [ "AccountDeleter/Job.cs", "d1/d37/_account_deleter_2_job_8cs.html", [
-      [ "Job", "d4/de2/class_nu_get_gallery_1_1_account_deleter_1_1_job.html", "d4/de2/class_nu_get_gallery_1_1_account_deleter_1_1_job" ]
-    ] ],
-    [ "GitHubVulnerabilities2Db/Job.cs", "d2/d1a/_git_hub_vulnerabilities2_db_2_job_8cs.html", [
-      [ "Job", "d3/d84/class_git_hub_vulnerabilities2_db_1_1_job.html", "d3/d84/class_git_hub_vulnerabilities2_db_1_1_job" ],
-      [ "FakeContentService", "df/d09/class_git_hub_vulnerabilities2_db_1_1_fake_content_service.html", "df/d09/class_git_hub_vulnerabilities2_db_1_1_fake_content_service" ]
-    ] ],
-    [ "NuGet.Services.DatabaseMigration/Job.cs", "d9/d2b/_nu_get_8_services_8_database_migration_2_job_8cs.html", [
-      [ "Job", "db/d55/class_nu_get_1_1_services_1_1_database_migration_1_1_job.html", "db/d55/class_nu_get_1_1_services_1_1_database_migration_1_1_job" ]
-    ] ],
-    [ "VerifyGitHubVulnerabilities/Job.cs", "d2/dfd/_verify_git_hub_vulnerabilities_2_job_8cs.html", [
-      [ "Job", "dc/db0/class_verify_git_hub_vulnerabilities_1_1_job.html", "dc/db0/class_verify_git_hub_vulnerabilities_1_1_job" ]
     ] ],
     [ "JobApplicantProfile.cs", "d1/d5e/_job_applicant_profile_8cs.html", [
       [ "JobApplicantProfile", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile" ]
@@ -8080,37 +4893,6 @@ var files_dup =
     [ "JourneyIDType.cs", "d2/d13/_journey_i_d_type_8cs.html", [
       [ "JourneyIDType", "dd/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_journey_i_d_type.html", null ]
     ] ],
-    [ "JsonAggregateStatsService.cs", "d8/d21/_json_aggregate_stats_service_8cs.html", [
-      [ "JsonAggregateStatsService", "d6/d4e/class_nu_get_gallery_1_1_json_aggregate_stats_service.html", "d6/d4e/class_nu_get_gallery_1_1_json_aggregate_stats_service" ]
-    ] ],
-    [ "JsonApiController.cs", "d5/def/_json_api_controller_8cs.html", [
-      [ "JsonApiController", "d1/dc8/class_nu_get_gallery_1_1_json_api_controller.html", "d1/dc8/class_nu_get_gallery_1_1_json_api_controller" ]
-    ] ],
-    [ "JsonApiControllerFacts.cs", "d3/d2a/_json_api_controller_facts_8cs.html", [
-      [ "JsonApiControllerFacts", "d5/d5f/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts.html", [
-        [ "ThePackageOwnerMethods", "d3/db0/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods.html", "d3/db0/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods" ]
-      ] ],
-      [ "ThePackageOwnerMethods", "d3/db0/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods.html", "d3/db0/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods" ],
-      [ "ThePackageOwnerModificationMethods", "db/dcb/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods973aa6adf81c75ad20eaacf48753283f.html", "db/dcb/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods973aa6adf81c75ad20eaacf48753283f" ],
-      [ "TheAddPackageOwnerMethods", "d8/db8/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods0ebcce73ec8b0335478f82732e23b5f3.html", "d8/db8/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods0ebcce73ec8b0335478f82732e23b5f3" ],
-      [ "TheAddPackageOwnerMethod", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e" ],
-      [ "TheRemovePackageOwnerMethod", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301.html", "d8/dbd/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methodsf4e8831ddc9245e70f89d1f1efbb9301" ],
-      [ "TheGetPackageOwnersMethod", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df" ]
-    ] ],
-    [ "JsonStatisticsService.cs", "d7/d14/_json_statistics_service_8cs.html", [
-      [ "JsonStatisticsService", "dd/d38/class_nu_get_gallery_1_1_json_statistics_service.html", "dd/d38/class_nu_get_gallery_1_1_json_statistics_service" ]
-    ] ],
-    [ "JsonStatisticsServiceFacts.cs", "db/dc3/_json_statistics_service_facts_8cs.html", [
-      [ "JsonStatisticsServiceFacts", "d3/d9e/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts.html", [
-        [ "FactsBase", "d8/df0/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_facts_base.html", "d8/df0/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_facts_base" ],
-        [ "TheRefreshMethod", "d1/d75/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_the_refresh_method.html", "d1/d75/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_the_refresh_method" ]
-      ] ],
-      [ "TheRefreshMethod", "d1/d75/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_the_refresh_method.html", "d1/d75/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_the_refresh_method" ],
-      [ "FactsBase", "d8/df0/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_facts_base.html", "d8/df0/class_nu_get_gallery_1_1_services_1_1_json_statistics_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "JsonValidationMessage.cs", "df/dad/_json_validation_message_8cs.html", [
-      [ "JsonValidationMessage", "d9/da4/class_nu_get_gallery_1_1_json_validation_message.html", "d9/da4/class_nu_get_gallery_1_1_json_validation_message" ]
-    ] ],
     [ "JsonWebKeySet.cs", "df/de4/_json_web_key_set_8cs.html", [
       [ "JsonWebKeySet", "d4/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key_set.html", "d4/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key_set" ],
       [ "JsonWebKey", "d7/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key.html", "d7/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_json_web_key" ]
@@ -8158,9 +4940,6 @@ var files_dup =
       [ "KnowledgeArticleCategoryRecord", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352.html", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352" ],
       [ "KnowledgeArticleCategory", "d4/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_artid1467188d63eb0ecbb99c406a1d865e7.html", "d4/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_artid1467188d63eb0ecbb99c406a1d865e7" ]
     ] ],
-    [ "KnownOperationNameEnricher.cs", "d9/d59/_known_operation_name_enricher_8cs.html", [
-      [ "KnownOperationNameEnricher", "d2/df3/class_nu_get_gallery_1_1_known_operation_name_enricher.html", "d2/df3/class_nu_get_gallery_1_1_known_operation_name_enricher" ]
-    ] ],
     [ "LanguageController.cs", "d0/dbe/_language_controller_8cs.html", [
       [ "LanguageController", "d6/d7e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_language_controller.html", "d6/d7e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_language_controller" ]
     ] ],
@@ -8194,7 +4973,6 @@ var files_dup =
     [ "LatestMeterReadingMethodType.cs", "d8/d77/_latest_meter_reading_method_type_8cs.html", [
       [ "LatestMeterReadingMethodType", "d0/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_latest_meter_reading_method_type.html", null ]
     ] ],
-    [ "LatestPackageRouteVerifier.cs", "d8/d32/_latest_package_route_verifier_8cs.html", null ],
     [ "LatestPickupDateType.cs", "d5/dd9/_latest_pickup_date_type_8cs.html", [
       [ "LatestPickupDateType", "d5/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_latest_pickup_date_type.html", null ]
     ] ],
@@ -8209,12 +4987,6 @@ var files_dup =
     ] ],
     [ "LatestsReviewsViewComponent.cs", "d8/d71/_latests_reviews_view_component_8cs.html", [
       [ "LatestsReviewsViewComponent", "d1/db5/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_latests_reviews_view_component.html", "d1/db5/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_latests_reviews_view_component" ]
-    ] ],
-    [ "LatestTests.cs", "db/d82/_latest_tests_8cs.html", [
-      [ "LatestTests", "d1/dc9/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_latest_tests.html", "d1/dc9/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_latest_tests" ]
-    ] ],
-    [ "LatestVersionRouteConstraint.cs", "d3/d78/_latest_version_route_constraint_8cs.html", [
-      [ "LatestVersionRouteConstraint", "db/dbb/class_nu_get_gallery_1_1_latest_version_route_constraint.html", "db/dbb/class_nu_get_gallery_1_1_latest_version_route_constraint" ]
     ] ],
     [ "LatitudeDegreesMeasureType.cs", "da/d04/_latitude_degrees_measure_type_8cs.html", [
       [ "LatitudeDegreesMeasureType", "d6/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_latitude_degrees_measure_type.html", null ]
@@ -8269,7 +5041,6 @@ var files_dup =
       [ "LedgerMapper", "d8/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_ledgers_1_1_ledger_mapper.html", null ]
     ] ],
     [ "LedgerType.cs", "d9/d45/_ledger_type_8cs.html", "d9/d45/_ledger_type_8cs" ],
-    [ "LegacyHasher.cs", "d8/d7c/_legacy_hasher_8cs.html", null ],
     [ "LegalReferenceType.cs", "d3/d7a/_legal_reference_type_8cs.html", [
       [ "LegalReferenceType", "d0/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_legal_reference_type.html", null ]
     ] ],
@@ -8295,21 +5066,14 @@ var files_dup =
     [ "LicenseAttribute.cs", "df/d70/_license_attribute_8cs.html", [
       [ "LicenseAttribute", "d4/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes_1_1_license_attribute.html", "d4/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes_1_1_license_attribute" ]
     ] ],
-    [ "LicenseExpressionRedirectUrlHelper.cs", "d5/d7b/_license_expression_redirect_url_helper_8cs.html", null ],
     [ "LicenseFeature.cs", "db/deb/_license_feature_8cs.html", [
       [ "LicenseFeature", "d1/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules_1_1_license_feature.html", "d1/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules_1_1_license_feature" ]
     ] ],
     [ "LicensePlateIDType.cs", "d4/de9/_license_plate_i_d_type_8cs.html", [
       [ "LicensePlateIDType", "dc/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_license_plate_i_d_type.html", null ]
     ] ],
-    [ "LicenseTests.cs", "dd/d2d/_license_tests_8cs.html", [
-      [ "LicenseTests", "dd/d0c/class_nu_get_gallery_1_1_functional_tests_1_1_license_1_1_license_tests.html", "dd/d0c/class_nu_get_gallery_1_1_functional_tests_1_1_license_1_1_license_tests" ]
-    ] ],
     [ "LicenseType.cs", "df/d82/_license_type_8cs.html", [
       [ "LicenseType", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type.html", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type" ]
-    ] ],
-    [ "LicenseUrlDeprecationValidationMessage.cs", "d1/dd0/_license_url_deprecation_validation_message_8cs.html", [
-      [ "LicenseUrlDeprecationValidationMessage", "da/d79/class_nu_get_gallery_1_1_license_url_deprecation_validation_message.html", "da/d79/class_nu_get_gallery_1_1_license_url_deprecation_validation_message" ]
     ] ],
     [ "LicensingOptions.cs", "d8/dc5/_licensing_options_8cs.html", [
       [ "LicensingOptions", "db/dd2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_licensing_1_1_licensing_options.html", "db/dd2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_licensing_1_1_licensing_options" ]
@@ -8356,49 +5120,6 @@ var files_dup =
     [ "LineType.cs", "d6/d8f/_line_type_8cs.html", [
       [ "LineType", "d8/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_type.html", null ]
     ] ],
-    [ "LinksTests.cs", "df/da5/_links_tests_8cs.html", [
-      [ "LinksTests", "de/d71/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_links_tests.html", "de/d71/class_nu_get_gallery_1_1_functional_tests_1_1_web_pages_1_1_links_tests" ]
-    ] ],
-    [ "List.aspx.cs", "d7/d94/_list_8aspx_8cs.html", [
-      [ "List", "da/d9b/class_nu_get_gallery_1_1_list.html", "da/d9b/class_nu_get_gallery_1_1_list" ]
-    ] ],
-    [ "List.aspx.designer.cs", "da/d7e/_list_8aspx_8designer_8cs.html", [
-      [ "List", "da/d9b/class_nu_get_gallery_1_1_list.html", "da/d9b/class_nu_get_gallery_1_1_list" ]
-    ] ],
-    [ "ListCertificateItemViewModel.cs", "d5/d28/_list_certificate_item_view_model_8cs.html", [
-      [ "ListCertificateItemViewModel", "d7/dbb/class_nu_get_gallery_1_1_list_certificate_item_view_model.html", "d7/dbb/class_nu_get_gallery_1_1_list_certificate_item_view_model" ]
-    ] ],
-    [ "ListCertificateItemViewModelFacts.cs", "d1/d80/_list_certificate_item_view_model_facts_8cs.html", [
-      [ "ListCertificateItemViewModelFacts", "dd/d71/class_nu_get_gallery_1_1_view_models_1_1_list_certificate_item_view_model_facts.html", "dd/d71/class_nu_get_gallery_1_1_view_models_1_1_list_certificate_item_view_model_facts" ]
-    ] ],
-    [ "ListDetails.aspx.cs", "d8/ddd/_list_details_8aspx_8cs.html", [
-      [ "ListDetails", "d6/d25/class_nu_get_gallery_1_1_list_details.html", "d6/d25/class_nu_get_gallery_1_1_list_details" ]
-    ] ],
-    [ "ListDetails.aspx.designer.cs", "d4/dbb/_list_details_8aspx_8designer_8cs.html", [
-      [ "ListDetails", "d6/d25/class_nu_get_gallery_1_1_list_details.html", "d6/d25/class_nu_get_gallery_1_1_list_details" ]
-    ] ],
-    [ "ListPackageItemRequiredSignerViewModel.cs", "d9/d1c/_list_package_item_required_signer_view_model_8cs.html", [
-      [ "ListPackageItemRequiredSignerViewModel", "de/d9f/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model.html", "de/d9f/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model" ]
-    ] ],
-    [ "ListPackageItemRequiredSignerViewModelFactory.cs", "d7/dbf/_list_package_item_required_signer_view_model_factory_8cs.html", [
-      [ "ListPackageItemRequiredSignerViewModelFactory", "df/dc8/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model_factory.html", "df/dc8/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model_factory" ]
-    ] ],
-    [ "ListPackageItemRequiredSignerViewModelFacts.cs", "d9/da3/_list_package_item_required_signer_view_model_facts_8cs.html", [
-      [ "ListPackageItemRequiredSignerViewModelFactoryFacts", "de/d06/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_required_signer_view_model_factory_facts.html", "de/d06/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_required_signer_view_model_factory_facts" ]
-    ] ],
-    [ "ListPackageItemViewModel.cs", "d8/d32/_list_package_item_view_model_8cs.html", [
-      [ "ListPackageItemViewModel", "df/d36/class_nu_get_gallery_1_1_list_package_item_view_model.html", "df/d36/class_nu_get_gallery_1_1_list_package_item_view_model" ]
-    ] ],
-    [ "ListPackageItemViewModelFactory.cs", "d9/dc4/_list_package_item_view_model_factory_8cs.html", [
-      [ "ListPackageItemViewModelFactory", "d1/d86/class_nu_get_gallery_1_1_list_package_item_view_model_factory.html", "d1/d86/class_nu_get_gallery_1_1_list_package_item_view_model_factory" ]
-    ] ],
-    [ "ListPackageItemViewModelFacts.cs", "de/d7a/_list_package_item_view_model_facts_8cs.html", [
-      [ "ListPackageItemViewModelFacts", "dd/d37/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts.html", "dd/d37/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts" ],
-      [ "SignerInformation", "d5/dcf/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts_1_1_signer_information.html", "d5/dcf/class_nu_get_gallery_1_1_view_models_1_1_list_package_item_view_model_facts_1_1_signer_information" ]
-    ] ],
-    [ "ListPackageOwnerViewModel.cs", "dc/d64/_list_package_owner_view_model_8cs.html", [
-      [ "ListPackageOwnerViewModel", "db/dbd/class_nu_get_gallery_1_1_list_package_owner_view_model.html", "db/dbd/class_nu_get_gallery_1_1_list_package_owner_view_model" ]
-    ] ],
     [ "ListPaggingHelpers.cs", "d0/db7/_list_pagging_helpers_8cs.html", [
       [ "ListPaggingHelpers", "d6/da5/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_list_pagging_helpers.html", "d6/da5/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_list_pagging_helpers" ]
     ] ],
@@ -8416,9 +5137,6 @@ var files_dup =
     ] ],
     [ "LoadingSequenceIDType.cs", "de/d09/_loading_sequence_i_d_type_8cs.html", [
       [ "LoadingSequenceIDType", "d9/d6e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_loading_sequence_i_d_type.html", null ]
-    ] ],
-    [ "LoadTests.cs", "d8/d67/_load_tests_8cs.html", [
-      [ "LoadTests", "db/def/class_nu_get_gallery_1_1_load_tests_1_1_load_tests.html", "db/def/class_nu_get_gallery_1_1_load_tests_1_1_load_tests" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Accounting/Loans/Loan.cs", "de/d3a/_fenix_alliance_8_a_b_m_8_models_2_accounting_2_loans_2_loan_8cs.html", [
       [ "Loan", "d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_loan.html", "d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_loan" ]
@@ -8438,9 +5156,6 @@ var files_dup =
     [ "LocaleCodeType.cs", "d5/d59/_locale_code_type_8cs.html", [
       [ "LocaleCodeType", "dd/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_locale_code_type.html", null ]
     ] ],
-    [ "LocalFileReference.cs", "d6/db1/_local_file_reference_8cs.html", [
-      [ "LocalFileReference", "d9/dda/class_nu_get_gallery_1_1_local_file_reference.html", "d9/dda/class_nu_get_gallery_1_1_local_file_reference" ]
-    ] ],
     [ "LocalizationOptions.cs", "db/de0/_localization_options_8cs.html", [
       [ "LocalizationOptions", "d8/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1i18n_1_1_localization_options.html", "d8/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1i18n_1_1_localization_options" ]
     ] ],
@@ -8452,9 +5167,6 @@ var files_dup =
     ] ],
     [ "LocalizedString.cs", "d2/d54/_localized_string_8cs.html", [
       [ "LocalizedString", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_strings_1_1_localized_string.html", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_strings_1_1_localized_string" ]
-    ] ],
-    [ "LocalUserAuthenticator.cs", "dd/d0d/_local_user_authenticator_8cs.html", [
-      [ "LocalUserAuthenticator", "dd/df4/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie_1_1_local_user_authenticator.html", "dd/df4/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie_1_1_local_user_authenticator" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Global/Locations/Location.cs", "da/df4/_fenix_alliance_8_a_b_m_8_models_2_global_2_locations_2_location_8cs.html", [
       [ "Location", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location.html", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location" ]
@@ -8480,28 +5192,8 @@ var files_dup =
     [ "LocationTypeCodeType.cs", "dd/d1c/_location_type_code_type_8cs.html", [
       [ "LocationTypeCodeType", "da/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_location_type_code_type.html", null ]
     ] ],
-    [ "LockPackageController.cs", "d3/d6d/_lock_package_controller_8cs.html", [
-      [ "LockPackageController", "d3/da3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller.html", "d3/da3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller" ]
-    ] ],
-    [ "LockPackageControllerFacts.cs", "db/d63/_lock_package_controller_facts_8cs.html", [
-      [ "LockPackageControllerFacts", "dd/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller_facts.html", "dd/d8f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lock_package_controller_facts" ]
-    ] ],
-    [ "LockPackageViewModel.cs", "dc/dd0/_lock_package_view_model_8cs.html", [
-      [ "LockPackageViewModel", "dd/dce/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_lock_package_view_model.html", "dd/dce/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_lock_package_view_model" ],
-      [ "PackageLockState", "d4/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_package_lock_state.html", "d4/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_package_lock_state" ]
-    ] ],
     [ "LoggingOptions.cs", "dd/d44/_logging_options_8cs.html", [
       [ "LoggingOptions", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options.html", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options" ]
-    ] ],
-    [ "LoginDiscontinuationConfiguration.cs", "dc/d05/_login_discontinuation_configuration_8cs.html", [
-      [ "LoginDiscontinuationConfiguration", "de/dd3/class_nu_get_gallery_1_1_login_discontinuation_configuration.html", "de/dd3/class_nu_get_gallery_1_1_login_discontinuation_configuration" ],
-      [ "OrganizationTenantPair", "d8/d3a/class_nu_get_gallery_1_1_organization_tenant_pair.html", "d8/d3a/class_nu_get_gallery_1_1_organization_tenant_pair" ]
-    ] ],
-    [ "LoginDiscontinuationConfigurationFacts.cs", "df/d1b/_login_discontinuation_configuration_facts_8cs.html", [
-      [ "LoginDiscontinuationConfigurationFacts", "db/d22/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts.html", "db/d22/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts" ],
-      [ "TheIsLoginDiscontinuedMethod", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method.html", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method" ],
-      [ "WhitelistMethodData", "d1/d60/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_whitelist_method_data.html", "d1/d60/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_whitelist_method_data" ],
-      [ "TheWhiteListMethods", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods.html", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods" ]
     ] ],
     [ "LoginType.cs", "d1/d25/_login_type_8cs.html", [
       [ "LoginType", "dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_login_type.html", null ]
@@ -8524,19 +5216,6 @@ var files_dup =
     [ "Logo.cs", "d6/d89/_logo_8cs.html", [
       [ "Logo", "da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo.html", "da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo" ]
     ] ],
-    [ "LogonInReadOnlyModeTest.cs", "d1/d6e/_logon_in_read_only_mode_test_8cs.html", [
-      [ "LogonTest", "d7/d89/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_logon_test.html", "d7/d89/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_logon_test" ]
-    ] ],
-    [ "LogonTest.cs", "d1/d41/_logon_test_8cs.html", [
-      [ "LogonTest", "d9/d26/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_logon_test.html", "d9/d26/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_logon_test" ]
-    ] ],
-    [ "LogOnViewModel.cs", "da/d83/_log_on_view_model_8cs.html", [
-      [ "LogOnViewModel", "d3/d9b/class_nu_get_gallery_1_1_log_on_view_model.html", "d3/d9b/class_nu_get_gallery_1_1_log_on_view_model" ],
-      [ "AssociateExternalAccountViewModel", "d3/d1c/class_nu_get_gallery_1_1_associate_external_account_view_model.html", "d3/d1c/class_nu_get_gallery_1_1_associate_external_account_view_model" ],
-      [ "SignInViewModel", "df/d3b/class_nu_get_gallery_1_1_sign_in_view_model.html", "df/d3b/class_nu_get_gallery_1_1_sign_in_view_model" ],
-      [ "RegisterViewModel", "da/d5e/class_nu_get_gallery_1_1_register_view_model.html", "da/d5e/class_nu_get_gallery_1_1_register_view_model" ],
-      [ "AuthenticationProviderViewModel", "d3/dbc/class_nu_get_gallery_1_1_authentication_provider_view_model.html", "d3/dbc/class_nu_get_gallery_1_1_authentication_provider_view_model" ]
-    ] ],
     [ "LogoReferenceIDType.cs", "df/dbf/_logo_reference_i_d_type_8cs.html", [
       [ "LogoReferenceIDType", "dd/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_logo_reference_i_d_type.html", null ]
     ] ],
@@ -8549,7 +5228,6 @@ var files_dup =
     [ "LongitudeMinutesMeasureType.cs", "d6/d9f/_longitude_minutes_measure_type_8cs.html", [
       [ "LongitudeMinutesMeasureType", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_longitude_minutes_measure_type.html", null ]
     ] ],
-    [ "LooseMocksRegistrationSource.cs", "dd/d2a/_loose_mocks_registration_source_8cs.html", null ],
     [ "LossRiskResponsibilityCodeType.cs", "d2/dd6/_loss_risk_responsibility_code_type_8cs.html", [
       [ "LossRiskResponsibilityCodeType", "d1/d73/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_loss_risk_responsibility_code_type.html", null ]
     ] ],
@@ -8574,48 +5252,10 @@ var files_dup =
     [ "LoyaltyProgram.cs", "d6/de2/_loyalty_program_8cs.html", [
       [ "LoyaltyProgram", "d6/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_loyalty_1_1_loyalty_program.html", "d6/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_loyalty_1_1_loyalty_program" ]
     ] ],
-    [ "LuceneCommon.cs", "d4/d3f/_lucene_common_8cs.html", null ],
-    [ "LuceneController.cs", "d7/d0a/_lucene_controller_8cs.html", [
-      [ "LuceneController", "d5/d26/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lucene_controller.html", "d5/d26/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_lucene_controller" ]
-    ] ],
-    [ "LuceneDocumentFactory.cs", "d1/d17/_lucene_document_factory_8cs.html", [
-      [ "LuceneDocumentFactory", "de/d36/class_nu_get_gallery_1_1_lucene_document_factory.html", "de/d36/class_nu_get_gallery_1_1_lucene_document_factory" ]
-    ] ],
-    [ "LuceneIndexingJob.cs", "d6/dc4/_lucene_indexing_job_8cs.html", [
-      [ "LuceneIndexingJob", "dc/d43/class_nu_get_gallery_1_1_lucene_indexing_job.html", "dc/d43/class_nu_get_gallery_1_1_lucene_indexing_job" ]
-    ] ],
-    [ "LuceneIndexingService.cs", "d7/d91/_lucene_indexing_service_8cs.html", [
-      [ "LuceneIndexingService", "da/d80/class_nu_get_gallery_1_1_lucene_indexing_service.html", "da/d80/class_nu_get_gallery_1_1_lucene_indexing_service" ]
-    ] ],
-    [ "LuceneIndexLocation.cs", "d8/d95/_lucene_index_location_8cs.html", "d8/d95/_lucene_index_location_8cs" ],
-    [ "LuceneInfoModel.cs", "d4/d82/_lucene_info_model_8cs.html", [
-      [ "LuceneInfoModel", "d6/ddc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_lucene_info_model.html", "d6/ddc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_lucene_info_model" ]
-    ] ],
-    [ "LuceneSearchService.cs", "d1/d83/_lucene_search_service_8cs.html", [
-      [ "LuceneSearchService", "dc/d71/class_nu_get_gallery_1_1_lucene_search_service.html", "dc/d71/class_nu_get_gallery_1_1_lucene_search_service" ]
-    ] ],
-    [ "LuceneSearchServiceFacts.cs", "dd/da1/_lucene_search_service_facts_8cs.html", [
-      [ "LuceneSearchServiceFacts", "d1/d19/class_nu_get_gallery_1_1_infrastructure_1_1_lucene_search_service_facts.html", "d1/d19/class_nu_get_gallery_1_1_infrastructure_1_1_lucene_search_service_facts" ]
-    ] ],
-    [ "MailAddressConverter.cs", "d4/d66/_mail_address_converter_8cs.html", [
-      [ "MailAddressConverter", "d3/d6f/class_nu_get_gallery_1_1_configuration_1_1_mail_address_converter.html", "d3/d6f/class_nu_get_gallery_1_1_configuration_1_1_mail_address_converter" ]
-    ] ],
-    [ "MailTemplateConfiguration.cs", "d0/d21/_mail_template_configuration_8cs.html", [
-      [ "MailTemplateConfiguration", "d2/dfb/class_nu_get_gallery_1_1_account_deleter_1_1_mail_template_configuration.html", "d2/dfb/class_nu_get_gallery_1_1_account_deleter_1_1_mail_template_configuration" ]
-    ] ],
-    [ "MainActivity.cs", "db/da5/_main_activity_8cs.html", [
-      [ "MainActivity", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_activity.html", null ]
-    ] ],
-    [ "MainApplication.cs", "d2/d51/_main_application_8cs.html", [
-      [ "MainApplication", "dd/d04/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_application.html", "dd/d04/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_application" ]
-    ] ],
     [ "MainDialog.cs", "d3/d00/_main_dialog_8cs.html", [
       [ "MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog" ]
     ] ],
     [ "MainMenuSearchLayout.cs", "d8/d7c/_main_menu_search_layout_8cs.html", "d8/d7c/_main_menu_search_layout_8cs" ],
-    [ "MainPage.xaml.cs", "d6/dc6/_main_page_8xaml_8cs.html", [
-      [ "MainPage", "d6/d11/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_page.html", "d6/d11/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_main_page" ]
-    ] ],
     [ "MaintenanceSchedule.cs", "da/d47/_maintenance_schedule_8cs.html", [
       [ "MaintenanceSchedule", "d8/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_maintenance_visits_1_1_maintenance_schedule.html", "d8/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_maintenance_visits_1_1_maintenance_schedule" ]
     ] ],
@@ -8625,50 +5265,12 @@ var files_dup =
     [ "ManageController.cs", "de/df3/_manage_controller_8cs.html", [
       [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller" ]
     ] ],
-    [ "ManageDeprecationJsonApiController.cs", "dd/d2a/_manage_deprecation_json_api_controller_8cs.html", [
-      [ "ManageDeprecationJsonApiController", "d7/dbd/class_nu_get_gallery_1_1_manage_deprecation_json_api_controller.html", "d7/dbd/class_nu_get_gallery_1_1_manage_deprecation_json_api_controller" ]
-    ] ],
-    [ "ManageDeprecationJsonApiControllerFacts.cs", "d7/db9/_manage_deprecation_json_api_controller_facts_8cs.html", [
-      [ "ManageDeprecationJsonApiControllerFacts", "d5/d6d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts.html", [
-        [ "TheDeprecateMethod", "d1/da9/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_deprecate_method.html", "d1/da9/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_deprecate_method" ],
-        [ "TheGetAlternatePackageVersionsMethod", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae.html", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae" ]
-      ] ],
-      [ "TheGetAlternatePackageVersionsMethod", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae.html", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae" ],
-      [ "TheDeprecateMethod", "d1/da9/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_deprecate_method.html", "d1/da9/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_deprecate_method" ]
-    ] ],
     [ "ManageNavPages.cs", "db/d4d/_manage_nav_pages_8cs.html", null ],
-    [ "ManageOrganizationsItemViewModel.cs", "de/d65/_manage_organizations_item_view_model_8cs.html", [
-      [ "ManageOrganizationsItemViewModel", "db/de6/class_nu_get_gallery_1_1_manage_organizations_item_view_model.html", "db/de6/class_nu_get_gallery_1_1_manage_organizations_item_view_model" ]
-    ] ],
-    [ "ManageOrganizationsViewModel.cs", "dd/d61/_manage_organizations_view_model_8cs.html", [
-      [ "ManageOrganizationsViewModel", "da/d73/class_nu_get_gallery_1_1_manage_organizations_view_model.html", "da/d73/class_nu_get_gallery_1_1_manage_organizations_view_model" ]
-    ] ],
-    [ "ManagePackagesViewModel.cs", "dc/dd3/_manage_packages_view_model_8cs.html", [
-      [ "ManagePackagesViewModel", "d3/d8e/class_nu_get_gallery_1_1_manage_packages_view_model.html", "d3/d8e/class_nu_get_gallery_1_1_manage_packages_view_model" ]
-    ] ],
-    [ "ManagePackageViewModel.cs", "de/d46/_manage_package_view_model_8cs.html", [
-      [ "ManagePackageViewModel", "d0/df4/class_nu_get_gallery_1_1_manage_package_view_model.html", "d0/df4/class_nu_get_gallery_1_1_manage_package_view_model" ],
-      [ "VersionListedState", "df/d9b/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_listed_state.html", "df/d9b/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_listed_state" ],
-      [ "VersionReadMeState", "d0/ddc/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_read_me_state.html", "d0/ddc/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_read_me_state" ],
-      [ "VersionDeprecationState", "d3/dba/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_deprecation_state.html", "d3/dba/class_nu_get_gallery_1_1_manage_package_view_model_1_1_version_deprecation_state" ]
-    ] ],
-    [ "ManagePackageViewModelFactory.cs", "d9/d78/_manage_package_view_model_factory_8cs.html", [
-      [ "ManagePackageViewModelFactory", "d7/d04/class_nu_get_gallery_1_1_manage_package_view_model_factory.html", "d7/d04/class_nu_get_gallery_1_1_manage_package_view_model_factory" ]
-    ] ],
     [ "MandateTypeCodeType.cs", "d8/d14/_mandate_type_code_type_8cs.html", [
       [ "MandateTypeCodeType", "df/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_mandate_type_code_type.html", null ]
     ] ],
-    [ "MandatoryAttribute.cs", "d5/dc4/_mandatory_attribute_8cs.html", [
-      [ "MandatoryAttribute", "dd/d25/class_nu_get_gallery_1_1_infrastructure_1_1_mandatory_attribute.html", "dd/d25/class_nu_get_gallery_1_1_infrastructure_1_1_mandatory_attribute" ]
-    ] ],
     [ "ManifestType.cs", "df/df9/_manifest_type_8cs.html", [
       [ "ManifestType", "d4/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_manifest_type.html", "d4/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_manifest_type" ]
-    ] ],
-    [ "ManifestValidator.cs", "de/d54/_manifest_validator_8cs.html", [
-      [ "ManifestValidator", "db/db2/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator.html", null ]
-    ] ],
-    [ "ManifestValidatorFacts.cs", "d2/d81/_manifest_validator_facts_8cs.html", [
-      [ "ManifestValidatorFacts", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts" ]
     ] ],
     [ "MansoryOptions.cs", "dc/dca/_mansory_options_8cs.html", [
       [ "MansoryOptions", "d5/d6c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_mansory_1_1_mansory_options.html", null ]
@@ -8678,16 +5280,6 @@ var files_dup =
     ] ],
     [ "ManufactureTimeType.cs", "df/dd8/_manufacture_time_type_8cs.html", [
       [ "ManufactureTimeType", "dc/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_manufacture_time_type.html", null ]
-    ] ],
-    [ "ManyToMany.ascx.cs", "d2/d3b/_many_to_many_8ascx_8cs.html", [
-      [ "ManyToManyField", "d2/d63/class_nu_get_gallery_1_1_many_to_many_field.html", "d2/d63/class_nu_get_gallery_1_1_many_to_many_field" ]
-    ] ],
-    [ "ManyToMany.ascx.designer.cs", "dd/dad/_many_to_many_8ascx_8designer_8cs.html", [
-      [ "ManyToManyField", "d2/d63/class_nu_get_gallery_1_1_many_to_many_field.html", "d2/d63/class_nu_get_gallery_1_1_many_to_many_field" ]
-    ] ],
-    [ "ManyToMany_Edit.ascx.cs", "df/d0a/_many_to_many___edit_8ascx_8cs.html", "df/d0a/_many_to_many___edit_8ascx_8cs" ],
-    [ "ManyToMany_Edit.ascx.designer.cs", "df/d28/_many_to_many___edit_8ascx_8designer_8cs.html", [
-      [ "ManyToMany_EditField", "df/d22/class_nu_get_gallery_1_1_many_to_many___edit_field.html", "df/d22/class_nu_get_gallery_1_1_many_to_many___edit_field" ]
     ] ],
     [ "Margin.cs", "db/da3/_margin_8cs.html", [
       [ "Margin", "d3/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_margin.html", "d3/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_margin" ]
@@ -8706,57 +5298,6 @@ var files_dup =
     ] ],
     [ "MarkCareType.cs", "db/d27/_mark_care_type_8cs.html", [
       [ "MarkCareType", "d9/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_mark_care_type.html", null ]
-    ] ],
-    [ "MarkdownMessageBuilderFacts.cs", "d6/d7c/_markdown_message_builder_facts_8cs.html", [
-      [ "MarkdownMessageBuilderFacts", "d4/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts.html", "d4/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts" ],
-      [ "Fakes", "dc/d3d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_markdown_message_builder_facts_1_1_fakes.html", null ]
-    ] ],
-    [ "MarkdownMessageService.cs", "d5/d3e/_markdown_message_service_8cs.html", [
-      [ "MarkdownMessageService", "d9/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_markdown_message_service.html", "d9/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_markdown_message_service" ]
-    ] ],
-    [ "MarkdownMessageServiceFacts.cs", "d6/dbd/_markdown_message_service_facts_8cs.html", [
-      [ "MarkdownMessageServiceFacts", "d9/d22/class_nu_get_gallery_1_1_markdown_message_service_facts.html", "d9/d22/class_nu_get_gallery_1_1_markdown_message_service_facts" ],
-      [ "TheReportPackageRequestMessage", "d5/df8/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_report_package_request_message.html", "d5/df8/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_report_package_request_message" ],
-      [ "TheContactOwnersMessage", "d8/d69/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_contact_owners_message.html", "d8/d69/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_contact_owners_message" ],
-      [ "TheNewAccountMessage", "d4/de9/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_new_account_message.html", "d4/de9/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_new_account_message" ],
-      [ "TheEmailChangeConfirmationMessage", "d0/d4b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_confirmation_message.html", "d0/d4b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_confirmation_message" ],
-      [ "TheEmailChangeNoticeToPreviousEmailAddressMessage", "d1/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_notice_to_previous_email_address_message.html", "d1/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_email_change_notice_to_previous_email_address_message" ],
-      [ "ThePackageOwnershipRequestMessage", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message.html", "d5/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_message" ],
-      [ "ThePackageOwnershipRequestInitiatedMessage", "d6/d82/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message.html", "d6/d82/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_initiated_message" ],
-      [ "ThePackageOwnershipRequestDeclinedMessage", "d8/d5f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message.html", "d8/d5f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message" ],
-      [ "ThePackageOwnershipRequestCanceledMessage", "de/d97/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message.html", "de/d97/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message" ],
-      [ "ThePackageOwnerAddedMessage", "dc/d45/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_added_message.html", "dc/d45/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_added_message" ],
-      [ "ThePackageOwnerRemovedMessage", "d7/dc1/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_removed_message.html", "d7/dc1/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_owner_removed_message" ],
-      [ "ThePasswordResetInstructionsMessage", "d4/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_password_reset_instructions_message.html", "d4/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_password_reset_instructions_message" ],
-      [ "TheCredentialRemovedMessage", "d5/d0c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_removed_message.html", "d5/d0c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_removed_message" ],
-      [ "TheCredentialAddedMessage", "da/d5b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_added_message.html", "da/d5b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_credential_added_message" ],
-      [ "ThePackageAddedMessage", "db/d7a/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_added_message.html", "db/d7a/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_added_message" ],
-      [ "ThePackageValidationFailedMessage", "d2/d42/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_failed_message.html", "d2/d42/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_failed_message" ],
-      [ "ThePackageValidationTakingTooLongMessage", "d9/db5/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_taking_too_long_message.html", "d9/db5/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_taking_too_long_message" ],
-      [ "ThePackageDeletedNoticeMessage", "d1/d77/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_deleted_notice_message.html", "d1/d77/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_deleted_notice_message" ],
-      [ "TheOrganizationTransformRequestMessage", "d5/dba/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_request_message.html", "d5/dba/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_request_message" ],
-      [ "TheOrganizationTransformInitiatedMessage", "d2/d55/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_initiated_message.html", "d2/d55/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_initiated_message" ],
-      [ "TheOrganizationTransformAcceptedMessage", "d2/d2c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message.html", "d2/d2c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message" ],
-      [ "TheOrganizationTransformRejectedMessage", "d9/d7f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_rejected_message.html", "d9/d7f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_rejected_message" ],
-      [ "TheOrganizationMembershipRequestMessage", "d2/d84/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_message.html", "d2/d84/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_message" ],
-      [ "TheOrganizationMembershipRequestInitiatedMessage", "d4/d9b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_initiated_message.html", "d4/d9b/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_initiated_message" ],
-      [ "TheOrganizationMembershipRequestDeclinedMessage", "d5/d08/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_declined_message.html", "d5/d08/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_declined_message" ],
-      [ "TheOrganizationMembershipRequestCanceledMessage", "dd/dce/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message.html", "dd/dce/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_membership_request_canceled_message" ],
-      [ "TheOrganizationMemberUpdatedMessage", "de/dcd/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_updated_message.html", "de/dcd/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_updated_message" ],
-      [ "TheOrganizationMemberRemovedMessage", "d5/d9e/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_removed_message.html", "d5/d9e/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_member_removed_message" ],
-      [ "TheAccountDeleteNoticeMessage", "db/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_account_delete_notice_message.html", "db/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_account_delete_notice_message" ],
-      [ "TheSymbolPackageValidationTakingTooLongMessage", "d8/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_taking_too_long_message.html", "d8/dbb/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_taking_too_long_message" ],
-      [ "TheSymbolPackageValidationFailedMessage", "db/d0d/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_failed_message.html", "db/d0d/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_failed_message" ],
-      [ "TheSymbolPackageAddedMessage", "de/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_added_message.html", "de/d44/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_added_message" ]
-    ] ],
-    [ "MarkdownService.cs", "d4/d08/_markdown_service_8cs.html", [
-      [ "MarkdownService", "d4/d1f/class_nu_get_gallery_1_1_markdown_service.html", "d4/d1f/class_nu_get_gallery_1_1_markdown_service" ]
-    ] ],
-    [ "MarkdownServiceFacts.cs", "da/d89/_markdown_service_facts_8cs.html", [
-      [ "MarkdownServiceFacts", "d2/db4/class_nu_get_gallery_1_1_markdown_service_facts.html", [
-        [ "GetReadMeHtmlMethod", "d5/de3/class_nu_get_gallery_1_1_markdown_service_facts_1_1_get_read_me_html_method.html", "d5/de3/class_nu_get_gallery_1_1_markdown_service_facts_1_1_get_read_me_html_method" ]
-      ] ],
-      [ "GetReadMeHtmlMethod", "d5/de3/class_nu_get_gallery_1_1_markdown_service_facts_1_1_get_read_me_html_method.html", "d5/de3/class_nu_get_gallery_1_1_markdown_service_facts_1_1_get_read_me_html_method" ]
     ] ],
     [ "MarketingCampaign.cs", "d5/dad/_marketing_campaign_8cs.html", "d5/dad/_marketing_campaign_8cs" ],
     [ "MarketingCampaignActivityFeed.cs", "d7/ddb/_marketing_campaign_activity_feed_8cs.html", [
@@ -8852,15 +5393,8 @@ var files_dup =
     [ "MedicalFirstAidGuideCodeType.cs", "da/d7e/_medical_first_aid_guide_code_type_8cs.html", [
       [ "MedicalFirstAidGuideCodeType", "dc/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_medical_first_aid_guide_code_type.html", null ]
     ] ],
-    [ "MemberDataHelper.cs", "d4/d46/_member_data_helper_8cs.html", null ],
     [ "MemberOf.cs", "da/d82/_member_of_8cs.html", [
       [ "MemberOf", "d4/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_member_of.html", "d4/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_member_of" ]
-    ] ],
-    [ "Membership.cs", "d9/d85/_membership_8cs.html", [
-      [ "Membership", "d7/d17/class_nu_get_1_1_services_1_1_entities_1_1_membership.html", "d7/d17/class_nu_get_1_1_services_1_1_entities_1_1_membership" ]
-    ] ],
-    [ "MembershipRequest.cs", "dd/d2d/_membership_request_8cs.html", [
-      [ "MembershipRequest", "db/d97/class_nu_get_1_1_services_1_1_entities_1_1_membership_request.html", "db/d97/class_nu_get_1_1_services_1_1_entities_1_1_membership_request" ]
     ] ],
     [ "MemoryCache.cs", "d0/d01/_memory_cache_8cs.html", [
       [ "MemoryCache", "db/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_memory_cache.html", "db/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_memory_cache" ]
@@ -8882,9 +5416,6 @@ var files_dup =
     ] ],
     [ "MercadoPagoCheckout.cs", "da/d75/_mercado_pago_checkout_8cs.html", [
       [ "MercadoPagoCheckout", "df/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_mercado_pago_checkout.html", null ]
-    ] ],
-    [ "MessageQueue.cs", "df/ddc/_message_queue_8cs.html", [
-      [ "MessageQueue", "d9/d8c/class_nu_get_gallery_1_1_message_queue.html", null ]
     ] ],
     [ "Metadata.cs", "dd/d26/_metadata_8cs.html", [
       [ "Metadata", "d3/d27/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_metadata.html", "d3/d27/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_metadata" ]
@@ -8922,44 +5453,21 @@ var files_dup =
     [ "MeterType.cs", "d2/dc1/_meter_type_8cs.html", [
       [ "MeterType", "d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_type.html", "d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_type" ]
     ] ],
-    [ "MethodNameActionRoutingConvention.cs", "d1/d26/_method_name_action_routing_convention_8cs.html", [
-      [ "MethodNameActionRoutingConvention", "de/db0/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_method_name_action_routing_convention.html", "de/db0/class_nu_get_gallery_1_1_o_data_1_1_conventions_1_1_method_name_action_routing_convention" ]
-    ] ],
     [ "MethodsController.cs", "d4/d7d/_methods_controller_8cs.html", [
       [ "MethodsController", "db/dd2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods_1_1_methods_controller.html", "db/dd2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods_1_1_methods_controller" ]
-    ] ],
-    [ "MicrosoftAccountAuthenticator.cs", "d3/d46/_microsoft_account_authenticator_8cs.html", [
-      [ "MicrosoftAccountAuthenticator", "db/d6f/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator.html", "db/d6f/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator" ]
-    ] ],
-    [ "MicrosoftAccountAuthenticatorConfiguration.cs", "db/d10/_microsoft_account_authenticator_configuration_8cs.html", [
-      [ "MicrosoftAccountAuthenticatorConfiguration", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration" ]
     ] ],
     [ "MicrosoftAzureIntegrationOptions.cs", "de/da2/_microsoft_azure_integration_options_8cs.html", [
       [ "MicrosoftAzureIntegrationOptions", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438.html", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438" ]
     ] ],
-    [ "MicrosoftClaims.cs", "d8/d9d/_microsoft_claims_8cs.html", null ],
     [ "MicrosoftIdentityAuthenticationOptions.cs", "d9/dc9/_microsoft_identity_authentication_options_8cs.html", [
       [ "MicrosoftIdentityAuthenticationOptions", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9.html", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9" ]
     ] ],
     [ "MicrosoftIntegrationsOptions.cs", "dd/d14/_microsoft_integrations_options_8cs.html", [
       [ "MicrosoftIntegrationsOptions", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee.html", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee" ]
     ] ],
-    [ "MicrosoftTeamSubscription.cs", "d1/d2d/_microsoft_team_subscription_8cs.html", [
-      [ "MicrosoftTeamSubscription", "d6/dcd/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription.html", "d6/dcd/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription" ]
-    ] ],
-    [ "MicrosoftTeamSubscriptionFacts.cs", "d7/df8/_microsoft_team_subscription_facts_8cs.html", [
-      [ "MicrosoftTeamSubscriptionFacts", "d4/d55/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription_facts.html", "d4/d55/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription_facts" ]
-    ] ],
     [ "MiddleNameType.cs", "d4/d42/_middle_name_type_8cs.html", [
       [ "MiddleNameType", "d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_middle_name_type.html", null ]
     ] ],
-    [ "MigrationContextFactory.cs", "da/da6/_migration_context_factory_8cs.html", [
-      [ "MigrationContextFactory", "d1/d78/class_nu_get_gallery_1_1_database_migration_tools_1_1_migration_context_factory.html", "d1/d78/class_nu_get_gallery_1_1_database_migration_tools_1_1_migration_context_factory" ]
-    ] ],
-    [ "MigrationsConfiguration.cs", "d0/de5/_migrations_configuration_8cs.html", [
-      [ "MigrationsConfiguration", "dc/d72/class_nu_get_gallery_1_1_migrations_1_1_migrations_configuration.html", "dc/d72/class_nu_get_gallery_1_1_migrations_1_1_migrations_configuration" ]
-    ] ],
-    [ "MigrationTargetDatabaseArgumentNames.cs", "d9/d3c/_migration_target_database_argument_names_8cs.html", null ],
     [ "MimeCodeType.cs", "de/d67/_mime_code_type_8cs.html", [
       [ "MimeCodeType", "dc/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_mime_code_type.html", null ]
     ] ],
@@ -8968,9 +5476,6 @@ var files_dup =
       [ "MimeType", "d3/d6d/struct_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_mime_type.html", "d3/d6d/struct_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_mime_type" ]
     ] ],
     [ "MimeTypeMap.cs", "dd/d48/_mime_type_map_8cs.html", null ],
-    [ "MinClientVersionFromUI.cs", "d1/db3/_min_client_version_from_u_i_8cs.html", [
-      [ "UploadPackageFromUI", "d4/dc4/class_nu_get_gallery_1_1_functional_tests_1_1_upload_package_from_u_i.html", "d4/dc4/class_nu_get_gallery_1_1_functional_tests_1_1_upload_package_from_u_i" ]
-    ] ],
     [ "MinimumAmountType.cs", "d0/dcf/_minimum_amount_type_8cs.html", [
       [ "MinimumAmountType", "df/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_minimum_amount_type.html", null ]
     ] ],
@@ -9010,20 +5515,8 @@ var files_dup =
     [ "MiscellaneousOptions.cs", "dc/dba/_miscellaneous_options_8cs.html", [
       [ "MiscellaneousOptions", "dc/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_miscellaneous_1_1_miscellaneous_options.html", null ]
     ] ],
-    [ "MockExtensions.cs", "d7/d5b/_mock_extensions_8cs.html", null ],
-    [ "MockHandler.cs", "d8/dde/_mock_handler_8cs.html", [
-      [ "MockHandler", "d5/d38/class_nu_get_gallery_1_1_test_utils_1_1_mock_handler.html", "d5/d38/class_nu_get_gallery_1_1_test_utils_1_1_mock_handler" ]
-    ] ],
-    [ "MockWiringExtensions.cs", "d2/dd6/_mock_wiring_extensions_8cs.html", null ],
     [ "ModelNameType.cs", "da/dcc/_model_name_type_8cs.html", [
       [ "ModelNameType", "dc/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_model_name_type.html", null ]
-    ] ],
-    [ "ModelStateAssert.cs", "d1/dc2/_model_state_assert_8cs.html", null ],
-    [ "ModifyFeatureFlagsFeatureViewModel.cs", "d3/d7d/_modify_feature_flags_feature_view_model_8cs.html", [
-      [ "ModifyFeatureFlagsFeatureViewModel", "d2/ddf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_feature_view_model.html", "d2/ddf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_feature_view_model" ]
-    ] ],
-    [ "ModifyFeatureFlagsFlightViewModel.cs", "da/df0/_modify_feature_flags_flight_view_model_8cs.html", [
-      [ "ModifyFeatureFlagsFlightViewModel", "d0/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_flight_view_model.html", "d0/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_modify_feature_flags_flight_view_model" ]
     ] ],
     [ "ModularOptions.cs", "d2/d4f/_modular_options_8cs.html", [
       [ "ModularOptions", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options.html", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options" ]
@@ -9055,12 +5548,6 @@ var files_dup =
     ] ],
     [ "MSAppTile.cs", "d0/db7/_m_s_app_tile_8cs.html", [
       [ "MSAppTile", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile.html", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile" ]
-    ] ],
-    [ "MultilineText_Edit.ascx.cs", "dd/dff/_multiline_text___edit_8ascx_8cs.html", [
-      [ "MultilineText_EditField", "d8/d34/class_nu_get_gallery_1_1_multiline_text___edit_field.html", "d8/d34/class_nu_get_gallery_1_1_multiline_text___edit_field" ]
-    ] ],
-    [ "MultilineText_Edit.ascx.designer.cs", "db/dec/_multiline_text___edit_8ascx_8designer_8cs.html", [
-      [ "MultilineText_EditField", "d8/d34/class_nu_get_gallery_1_1_multiline_text___edit_field.html", "d8/d34/class_nu_get_gallery_1_1_multiline_text___edit_field" ]
     ] ],
     [ "MultiPartRequestHelper.cs", "df/dd5/_multi_part_request_helper_8cs.html", [
       [ "MultiPartRequestHelper", "d6/d6d/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_helpers_1_1_multi_part_request_helper.html", null ]
@@ -9110,15 +5597,6 @@ var files_dup =
     [ "NetworkIDType.cs", "d1/d2a/_network_i_d_type_8cs.html", [
       [ "NetworkIDType", "d9/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_network_i_d_type.html", null ]
     ] ],
-    [ "NewAccountMessage.cs", "dc/d89/_new_account_message_8cs.html", [
-      [ "NewAccountMessage", "de/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message.html", "de/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message" ]
-    ] ],
-    [ "NewAccountMessageFacts.cs", "de/d79/_new_account_message_facts_8cs.html", [
-      [ "NewAccountMessageFacts", "dc/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts.html", "dc/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts" ],
-      [ "TheConstructor", "d2/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_constructor.html", "d2/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "db/d06/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_body_method.html", "db/d06/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_body_method" ]
-    ] ],
     [ "NewGuestCartRequest.cs", "da/d83/_new_guest_cart_request_8cs.html", [
       [ "NewGuestCartRequest", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_new_guest_cart_request.html", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_new_guest_cart_request" ]
     ] ],
@@ -9133,12 +5611,6 @@ var files_dup =
     ] ],
     [ "NewWishlistRequest.cs", "d4/de4/_new_wishlist_request_8cs.html", [
       [ "NewWishListRequest", "d3/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_new_wish_list_request.html", "d3/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_new_wish_list_request" ]
-    ] ],
-    [ "NoLessSecureDestinationRedirectPolicy.cs", "d8/d85/_no_less_secure_destination_redirect_policy_8cs.html", [
-      [ "NoLessSecureDestinationRedirectPolicy", "d3/daf/class_nu_get_gallery_1_1_no_less_secure_destination_redirect_policy.html", "d3/daf/class_nu_get_gallery_1_1_no_less_secure_destination_redirect_policy" ]
-    ] ],
-    [ "NoLessSecureDestinationRedirectPolicyFacts.cs", "d7/dc8/_no_less_secure_destination_redirect_policy_facts_8cs.html", [
-      [ "NoLessSecureDestinationRedirectPolicyFacts", "da/dd1/class_nu_get_gallery_1_1_services_1_1_no_less_secure_destination_redirect_policy_facts.html", "da/dd1/class_nu_get_gallery_1_1_services_1_1_no_less_secure_destination_redirect_policy_facts" ]
     ] ],
     [ "NominationDateType.cs", "de/db1/_nomination_date_type_8cs.html", [
       [ "NominationDateType", "d1/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_nomination_date_type.html", null ]
@@ -9155,12 +5627,6 @@ var files_dup =
     [ "NonProfitVolunteerProfile.cs", "d9/d63/_non_profit_volunteer_profile_8cs.html", [
       [ "VolunteerProfile", "d0/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_volunteer_profile.html", null ]
     ] ],
-    [ "NormalizeVersionInterceptor.cs", "da/d5c/_normalize_version_interceptor_8cs.html", [
-      [ "NormalizeVersionInterceptor", "d5/d04/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_normalize_version_interceptor.html", "d5/d04/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_normalize_version_interceptor" ]
-    ] ],
-    [ "NormalizeVersionInterceptorFacts.cs", "dc/d57/_normalize_version_interceptor_facts_8cs.html", [
-      [ "NormalizeVersionInterceptorFacts", "d6/d6a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_normalize_version_interceptor_facts.html", "d6/d6a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_normalize_version_interceptor_facts" ]
-    ] ],
     [ "NormalTemperatureReductionQuantityType.cs", "db/d36/_normal_temperature_reduction_quantity_type_8cs.html", [
       [ "NormalTemperatureReductionQuantityType", "d9/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_normal_temperature_reduction_quantity_type.html", null ]
     ] ],
@@ -9169,9 +5635,6 @@ var files_dup =
     ] ],
     [ "NoteMapper.cs", "da/d7d/_note_mapper_8cs.html", [
       [ "NoteMapper", "de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_notes_1_1_note_mapper.html", null ]
-    ] ],
-    [ "NotEqualAttribute.cs", "dc/dd6/_not_equal_attribute_8cs.html", [
-      [ "NotEqualAttribute", "db/d8a/class_nu_get_gallery_1_1_infrastructure_1_1_not_equal_attribute.html", "db/d8a/class_nu_get_gallery_1_1_infrastructure_1_1_not_equal_attribute" ]
     ] ],
     [ "NoteType.cs", "d6/ddf/_note_type_8cs.html", [
       [ "NoteType", "d9/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_note_type.html", null ]
@@ -9200,80 +5663,13 @@ var files_dup =
     [ "NotificationTypeCodeType.cs", "d7/d2f/_notification_type_code_type_8cs.html", [
       [ "NotificationTypeCodeType", "d4/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_notification_type_code_type.html", null ]
     ] ],
-    [ "NuGetClaims.cs", "dc/d9a/_nu_get_claims_8cs.html", [
-      [ "ExternalLoginCredentialValues", "d8/d7f/class_nu_get_gallery_1_1_authentication_1_1_nu_get_claims_1_1_external_login_credential_values.html", null ]
-    ] ],
-    [ "NuGetCommandLineTests.cs", "dc/d8b/_nu_get_command_line_tests_8cs.html", [
-      [ "NugetCommandLineTests", "d7/d15/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nuget_command_line_tests.html", "d7/d15/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nuget_command_line_tests" ]
-    ] ],
-    [ "NuGetContext.cs", "d1/d7c/_nu_get_context_8cs.html", [
-      [ "NuGetContext", "d3/dc3/class_nu_get_gallery_1_1_nu_get_context.html", "d3/dc3/class_nu_get_gallery_1_1_nu_get_context" ]
-    ] ],
-    [ "NuGetCoreTests.cs", "d8/d50/_nu_get_core_tests_8cs.html", [
-      [ "NuGetCoreTests", "dc/da5/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nu_get_core_tests.html", "dc/da5/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_1_1_nu_get_core_tests" ]
-    ] ],
-    [ "NuGetDeleteEvaluator.cs", "d8/d7c/_nu_get_delete_evaluator_8cs.html", [
-      [ "NuGetDeleteEvaluator", "d5/d81/class_nu_get_gallery_1_1_account_deleter_1_1_nu_get_delete_evaluator.html", "d5/d81/class_nu_get_gallery_1_1_account_deleter_1_1_nu_get_delete_evaluator" ]
-    ] ],
-    [ "NuGetEntityTypeSerializer.cs", "d5/d2f/_nu_get_entity_type_serializer_8cs.html", [
-      [ "NuGetEntityTypeSerializer", "d1/dd3/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_nu_get_entity_type_serializer.html", "d1/dd3/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_nu_get_entity_type_serializer" ]
-    ] ],
-    [ "NuGetJobCoordinator.cs", "d9/de5/_nu_get_job_coordinator_8cs.html", null ],
-    [ "NuGetODataConfig.cs", "da/d11/_nu_get_o_data_config_8cs.html", null ],
-    [ "NuGetODataController.cs", "da/d67/_nu_get_o_data_controller_8cs.html", [
-      [ "NuGetODataController", "d2/d81/class_nu_get_gallery_1_1_o_data_1_1_nu_get_o_data_controller.html", "d2/d81/class_nu_get_gallery_1_1_o_data_1_1_nu_get_o_data_controller" ]
-    ] ],
-    [ "NuGetODataV1FeedConfig.cs", "d2/d9f/_nu_get_o_data_v1_feed_config_8cs.html", null ],
-    [ "NuGetODataV2FeedConfig.cs", "db/d51/_nu_get_o_data_v2_feed_config_8cs.html", null ],
-    [ "NuGetPackageGitHubInformation.cs", "d3/d7c/_nu_get_package_git_hub_information_8cs.html", [
-      [ "NuGetPackageGitHubInformation", "d2/db2/class_nu_get_gallery_1_1_nu_get_package_git_hub_information.html", "d2/db2/class_nu_get_gallery_1_1_nu_get_package_git_hub_information" ]
-    ] ],
     [ "NuGetPackageManagementService.cs", "d0/d87/_nu_get_package_management_service_8cs.html", [
       [ "NuGetPackageManagementService", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f.html", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f" ]
     ] ],
-    [ "NuGetPackagePattern.cs", "de/da4/_nu_get_package_pattern_8cs.html", null ],
     [ "NuGetPackagesSearchResponse.cs", "d8/dae/_nu_get_packages_search_response_8cs.html", null ],
-    [ "NuGetPackageValidationViewModel.cs", "d1/dcb/_nu_get_package_validation_view_model_8cs.html", [
-      [ "NuGetPackageValidationViewModel", "d4/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_nu_get_package_validation_view_model.html", "d4/d76/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_nu_get_package_validation_view_model" ]
-    ] ],
     [ "NuGetPackageVersionsResponse.cs", "db/da8/_nu_get_package_versions_response_8cs.html", null ],
-    [ "NuGetQueryParser.cs", "d3/d14/_nu_get_query_parser_8cs.html", [
-      [ "NuGetQueryParser", "da/d7f/class_nu_get_gallery_1_1_nu_get_query_parser.html", "da/d7f/class_nu_get_gallery_1_1_nu_get_query_parser" ]
-    ] ],
-    [ "NuGetQueryParserFacts.cs", "da/d66/_nu_get_query_parser_facts_8cs.html", [
-      [ "NuGetQueryParserFacts", "d0/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_nu_get_query_parser_facts.html", "d0/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_nu_get_query_parser_facts" ]
-    ] ],
     [ "NuGetRemoteDependencyProvider.cs", "d2/d2f/_nu_get_remote_dependency_provider_8cs.html", [
       [ "NuGetRemoteDependencyProvider", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4.html", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4" ]
-    ] ],
-    [ "NuGetScopes.cs", "df/d08/_nu_get_scopes_8cs.html", null ],
-    [ "NuGetSearchTerm.cs", "d1/d18/_nu_get_search_term_8cs.html", [
-      [ "NuGetSearchTerm", "db/d15/class_nu_get_gallery_1_1_nu_get_search_term.html", "db/d15/class_nu_get_gallery_1_1_nu_get_search_term" ]
-    ] ],
-    [ "NuGetVersionExtensions.cs", "db/d8d/_nu_get_version_extensions_8cs.html", null ],
-    [ "NuGetViewBase.cs", "dc/d63/_nu_get_view_base_8cs.html", [
-      [ "NuGetViewBase", "df/d8c/class_nu_get_gallery_1_1_views_1_1_nu_get_view_base.html", "df/d8c/class_nu_get_gallery_1_1_views_1_1_nu_get_view_base" ]
-    ] ],
-    [ "NullCookieComplianceService.cs", "d5/deb/_null_cookie_compliance_service_8cs.html", [
-      [ "NullCookieComplianceService", "db/d0a/class_nu_get_gallery_1_1_cookies_1_1_null_cookie_compliance_service.html", "db/d0a/class_nu_get_gallery_1_1_cookies_1_1_null_cookie_compliance_service" ]
-    ] ],
-    [ "NullDiagnosticsSource.cs", "dd/d6b/_null_diagnostics_source_8cs.html", [
-      [ "NullDiagnosticsSource", "d7/d28/class_nu_get_gallery_1_1_diagnostics_1_1_null_diagnostics_source.html", "d7/d28/class_nu_get_gallery_1_1_diagnostics_1_1_null_diagnostics_source" ]
-    ] ],
-    [ "NullReportService.cs", "d2/d79/_null_report_service_8cs.html", [
-      [ "NullReportService", "df/d11/class_nu_get_gallery_1_1_null_report_service.html", "df/d11/class_nu_get_gallery_1_1_null_report_service" ]
-    ] ],
-    [ "NullStatisticsService.cs", "d7/d82/_null_statistics_service_8cs.html", [
-      [ "NullStatisticsService", "d0/dae/class_nu_get_gallery_1_1_null_statistics_service.html", "d0/dae/class_nu_get_gallery_1_1_null_statistics_service" ]
-    ] ],
-    [ "NumberExtensions.cs", "d4/da0/_number_extensions_8cs.html", null ],
-    [ "NumberExtensionsFacts.cs", "dc/d5f/_number_extensions_facts_8cs.html", [
-      [ "NumberExtensionsFacts", "d1/dfc/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts.html", [
-        [ "TheToKiloFormatMethod", "dd/d68/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_kilo_format_method.html", "dd/d68/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_kilo_format_method" ],
-        [ "TheToUserFriendlyBytesLabelMethod", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method" ]
-      ] ],
-      [ "TheToUserFriendlyBytesLabelMethod", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method" ],
-      [ "TheToKiloFormatMethod", "dd/d68/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_kilo_format_method.html", "dd/d68/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_kilo_format_method" ]
     ] ],
     [ "NumericType.cs", "d8/d4f/_numeric_type_8cs.html", [
       [ "NumericType", "d5/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type.html", "d5/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type" ]
@@ -9281,49 +5677,13 @@ var files_dup =
     [ "NumericType1.cs", "dc/d3c/_numeric_type1_8cs.html", [
       [ "NumericType1", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type1.html", null ]
     ] ],
-    [ "NuspecHelper.cs", "d2/da1/_nuspec_helper_8cs.html", [
-      [ "NuspecHelper", "d5/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_nuspec_helper.html", "d5/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_nuspec_helper" ]
-    ] ],
     [ "OAuth2Controller.cs", "d4/d21/_o_auth2_controller_8cs.html", [
       [ "OAuth2Controller", "df/d93/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth2_controller.html", "df/d93/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth2_controller" ]
     ] ],
     [ "OAuthClient.cs", "d5/d86/_o_auth_client_8cs.html", "d5/d86/_o_auth_client_8cs" ],
-    [ "ObfuscateAttribute.cs", "dc/d86/_obfuscate_attribute_8cs.html", [
-      [ "ObfuscateAttribute", "d0/d33/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscate_attribute.html", "d0/d33/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscate_attribute" ]
-    ] ],
-    [ "ObfuscationHelper.cs", "d9/df5/_obfuscation_helper_8cs.html", [
-      [ "ObfuscationHelper", "df/df5/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper.html", null ]
-    ] ],
-    [ "ObfuscationHelperFacts.cs", "d5/d52/_obfuscation_helper_facts_8cs.html", [
-      [ "ObfuscationHelperFacts", "d4/d78/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts.html", [
-        [ "TheObfuscateCurrentRequestUrlFacts", "df/dab/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts_1_1_the_obfuscate_current_request_url_facts.html", "df/dab/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts_1_1_the_obfuscate_current_request_url_facts" ]
-      ] ],
-      [ "TheObfuscateCurrentRequestUrlFacts", "df/dab/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts_1_1_the_obfuscate_current_request_url_facts.html", "df/dab/class_nu_get_gallery_1_1_helpers_1_1_obfuscation_helper_facts_1_1_the_obfuscate_current_request_url_facts" ]
-    ] ],
-    [ "ObfuscationType.cs", "d8/dff/_obfuscation_type_8cs.html", "d8/dff/_obfuscation_type_8cs" ],
-    [ "NuGetGallery.Core/Auditing/Obfuscation/Obfuscator.cs", "d6/de9/_nu_get_gallery_8_core_2_auditing_2_obfuscation_2_obfuscator_8cs.html", null ],
-    [ "NuGetGallery.Services/Telemetry/Obfuscator.cs", "da/d0f/_nu_get_gallery_8_services_2_telemetry_2_obfuscator_8cs.html", null ],
-    [ "NuGetGallery.Core.Facts/Auditing/ObfuscatorFacts.cs", "d5/db5/_nu_get_gallery_8_core_8_facts_2_auditing_2_obfuscator_facts_8cs.html", [
-      [ "ObfuscatorFacts", "d2/de7/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_facts.html", "d2/de7/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_facts" ]
-    ] ],
-    [ "NuGetGallery.Facts/Telemetry/ObfuscatorFacts.cs", "dc/d93/_nu_get_gallery_8_facts_2_telemetry_2_obfuscator_facts_8cs.html", [
-      [ "ObfuscatorFacts", "dc/d4a/class_nu_get_gallery_1_1_telemetry_1_1_obfuscator_facts.html", "dc/d4a/class_nu_get_gallery_1_1_telemetry_1_1_obfuscator_facts" ]
-    ] ],
-    [ "ObfuscatorJsonConverter.cs", "d0/dd2/_obfuscator_json_converter_8cs.html", [
-      [ "ObfuscatorJsonConverter", "db/d73/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscator_json_converter.html", "db/d73/class_nu_get_gallery_1_1_auditing_1_1_obfuscation_1_1_obfuscator_json_converter" ]
-    ] ],
-    [ "ObfuscatorJsonConverterTests.cs", "d5/deb/_obfuscator_json_converter_tests_8cs.html", [
-      [ "ObfuscatorJsonConverterTests", "da/db4/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests.html", "da/db4/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests" ],
-      [ "Data", "de/df1/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests_1_1_data.html", "de/df1/class_nu_get_gallery_1_1_auditing_1_1_obfuscator_json_converter_tests_1_1_data" ]
-    ] ],
-    [ "ObjectExtensions.cs", "d3/d88/_object_extensions_8cs.html", null ],
     [ "ObjectIdentifierType.cs", "d2/dc8/_object_identifier_type_8cs.html", [
       [ "ObjectIdentifierType", "d0/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_identifier_type.html", "d0/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_identifier_type" ]
     ] ],
-    [ "ObjectMaterializedInterceptingDbContext.cs", "df/d07/_object_materialized_intercepting_db_context_8cs.html", [
-      [ "ObjectMaterializedInterceptingDbContext", "d2/d20/class_nu_get_gallery_1_1_object_materialized_intercepting_db_context.html", "d2/d20/class_nu_get_gallery_1_1_object_materialized_intercepting_db_context" ]
-    ] ],
-    [ "ObjectMaterializedInterception.cs", "da/dcc/_object_materialized_interception_8cs.html", null ],
     [ "ObjectType.cs", "d0/d91/_object_type_8cs.html", [
       [ "ObjectType", "d3/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_type.html", "d3/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_type" ]
     ] ],
@@ -9338,60 +5698,6 @@ var files_dup =
     ] ],
     [ "OCSPRefType.cs", "d5/d4a/_o_c_s_p_ref_type_8cs.html", [
       [ "OCSPRefType", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_ref_type.html", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_ref_type" ]
-    ] ],
-    [ "ODataCacheConfiguration.cs", "d6/d66/_o_data_cache_configuration_8cs.html", [
-      [ "ODataCacheConfiguration", "d5/da7/class_nu_get_gallery_1_1_services_1_1_o_data_cache_configuration.html", "d5/da7/class_nu_get_gallery_1_1_services_1_1_o_data_cache_configuration" ]
-    ] ],
-    [ "ODataCachedEndpoint.cs", "df/dbf/_o_data_cached_endpoint_8cs.html", "df/dbf/_o_data_cached_endpoint_8cs" ],
-    [ "ODataCacheOutputAttribute.cs", "d4/d09/_o_data_cache_output_attribute_8cs.html", [
-      [ "ODataCacheOutputAttribute", "d3/db8/class_nu_get_gallery_1_1_o_data_cache_output_attribute.html", "d3/db8/class_nu_get_gallery_1_1_o_data_cache_output_attribute" ]
-    ] ],
-    [ "ODataCacheOutputAttributeFacts.cs", "d9/d71/_o_data_cache_output_attribute_facts_8cs.html", [
-      [ "ODataCacheOutputAttributeFacts", "dc/d91/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts.html", [
-        [ "Facts", "d6/dbb/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_facts.html", "d6/dbb/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_facts" ],
-        [ "OnActionExecutedAsync", "de/d06/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_on_action_executed_async.html", "de/d06/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_on_action_executed_async" ]
-      ] ],
-      [ "OnActionExecutedAsync", "de/d06/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_on_action_executed_async.html", "de/d06/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_on_action_executed_async" ],
-      [ "Facts", "d6/dbb/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_facts.html", "d6/dbb/class_nu_get_gallery_1_1_o_data_cache_output_attribute_facts_1_1_facts" ]
-    ] ],
-    [ "ODataFeedControllerFactsBase.cs", "d0/da9/_o_data_feed_controller_facts_base_8cs.html", [
-      [ "ODataFeedControllerFactsBase", "d7/d86/class_nu_get_gallery_1_1_controllers_1_1_o_data_feed_controller_facts_base.html", "d7/d86/class_nu_get_gallery_1_1_controllers_1_1_o_data_feed_controller_facts_base" ]
-    ] ],
-    [ "ODataFilterFacts.cs", "d7/d96/_o_data_filter_facts_8cs.html", [
-      [ "ODataFilterFacts", "df/de0/class_nu_get_gallery_1_1_o_data_1_1_filter_1_1_o_data_filter_facts.html", "df/de0/class_nu_get_gallery_1_1_o_data_1_1_filter_1_1_o_data_filter_facts" ]
-    ] ],
-    [ "ODataHelper.cs", "d4/d72/_o_data_helper_8cs.html", [
-      [ "ODataHelper", "d2/da5/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_helper.html", "d2/da5/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_helper" ]
-    ] ],
-    [ "ODataQueryFilter.cs", "d3/d1d/_o_data_query_filter_8cs.html", [
-      [ "ODataQueryFilter", "d3/d83/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_filter.html", "d3/d83/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_filter" ]
-    ] ],
-    [ "ODataQueryRequest.cs", "dc/d2e/_o_data_query_request_8cs.html", [
-      [ "ODataQueryRequest", "d7/dd1/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_request.html", "d7/dd1/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_request" ]
-    ] ],
-    [ "ODataQueryVerifier.cs", "de/d1b/_o_data_query_verifier_8cs.html", [
-      [ "ODataQueryVerifier", "dd/d5b/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_verifier.html", "dd/d5b/class_nu_get_gallery_1_1_o_data_1_1_query_filter_1_1_o_data_query_verifier" ]
-    ] ],
-    [ "ODataRemoveSorter.cs", "da/d2c/_o_data_remove_sorter_8cs.html", [
-      [ "ODataRemoveSorter", "df/df5/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_o_data_remove_sorter.html", "df/df5/class_nu_get_gallery_1_1_o_data_1_1_query_interceptors_1_1_o_data_remove_sorter" ]
-    ] ],
-    [ "ODataRemoveSorterFacts.cs", "d7/d09/_o_data_remove_sorter_facts_8cs.html", [
-      [ "ODataRemoveSorterFacts", "de/d53/class_nu_get_gallery_1_1_o_data_remove_sorter_facts.html", "de/d53/class_nu_get_gallery_1_1_o_data_remove_sorter_facts" ]
-    ] ],
-    [ "ODataServiceVersionHeaderPropagatingBatchHandler.cs", "d4/da1/_o_data_service_version_header_propagating_batch_handler_8cs.html", [
-      [ "ODataServiceVersionHeaderPropagatingBatchHandler", "d9/df5/class_nu_get_gallery_1_1_o_data_1_1_o_data_service_version_header_propagating_batch_handler.html", "d9/df5/class_nu_get_gallery_1_1_o_data_1_1_o_data_service_version_header_propagating_batch_handler" ]
-    ] ],
-    [ "ODataV1FeedController.cs", "d8/dcf/_o_data_v1_feed_controller_8cs.html", [
-      [ "ODataV1FeedController", "de/d2c/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller.html", "de/d2c/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller" ]
-    ] ],
-    [ "ODataV1FeedControllerFacts.cs", "d2/d73/_o_data_v1_feed_controller_facts_8cs.html", [
-      [ "ODataV1FeedControllerFacts", "db/de9/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller_facts.html", "db/de9/class_nu_get_gallery_1_1_controllers_1_1_o_data_v1_feed_controller_facts" ]
-    ] ],
-    [ "ODataV2FeedController.cs", "de/d25/_o_data_v2_feed_controller_8cs.html", [
-      [ "ODataV2FeedController", "d9/dc5/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller.html", "d9/dc5/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller" ]
-    ] ],
-    [ "ODataV2FeedControllerFacts.cs", "da/d1d/_o_data_v2_feed_controller_facts_8cs.html", [
-      [ "ODataV2FeedControllerFacts", "d6/d66/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller_facts.html", "d6/d66/class_nu_get_gallery_1_1_controllers_1_1_o_data_v2_feed_controller_facts" ]
     ] ],
     [ "OnAccountPaymentType.cs", "d2/d3d/_on_account_payment_type_8cs.html", [
       [ "OnAccountPaymentType", "d0/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_on_account_payment_type.html", "d0/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_on_account_payment_type" ]
@@ -9461,9 +5767,6 @@ var files_dup =
     [ "OrderChangeType.cs", "d7/d58/_order_change_type_8cs.html", [
       [ "OrderChangeType", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_change_type.html", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_change_type" ]
     ] ],
-    [ "OrderedFieldGenerator.cs", "d8/d1e/_ordered_field_generator_8cs.html", [
-      [ "OrderedFieldGenerator", "df/d2b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_ordered_field_generator.html", "df/d2b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_ordered_field_generator" ]
-    ] ],
     [ "OrderedShipmentType.cs", "d7/d4b/_ordered_shipment_type_8cs.html", [
       [ "OrderedShipmentType", "da/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_ordered_shipment_type.html", "da/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_ordered_shipment_type" ]
     ] ],
@@ -9512,14 +5815,8 @@ var files_dup =
     [ "OrderTypeCodeType.cs", "d1/d43/_order_type_code_type_8cs.html", [
       [ "OrderTypeCodeType", "de/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_type_code_type.html", null ]
     ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGet.Services.Entities/Organization.cs", "d0/d28/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_8_services_8_entities_2_organization_8cs.html", [
-      [ "Organization", "dd/d9f/class_nu_get_1_1_services_1_1_entities_1_1_organization.html", "dd/d9f/class_nu_get_1_1_services_1_1_entities_1_1_organization" ]
-    ] ],
-    [ "FenixAlliance.ACL/FenixAlliance.ACL.Configuration/Types/ABS/Portal/SEO/Metadata/Organization.cs", "db/de9/_fenix_alliance_8_a_c_l_2_fenix_alliance_8_a_c_l_8_configuration_2_types_2_a_b_s_2_portal_2_s_e_o_2_metadata_2_organization_8cs.html", [
+    [ "Organization.cs", "dc/d56/_organization_8cs.html", [
       [ "Organization", "d7/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_organization.html", "d7/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_organization" ]
-    ] ],
-    [ "OrganizationAccountViewModel.cs", "d8/d4f/_organization_account_view_model_8cs.html", [
-      [ "OrganizationAccountViewModel", "d3/d00/class_nu_get_gallery_1_1_organization_account_view_model.html", "d3/d00/class_nu_get_gallery_1_1_organization_account_view_model" ]
     ] ],
     [ "OrganizationDepartment.cs", "d2/d28/_organization_department_8cs.html", [
       [ "OrganizationDepartment", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department.html", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department" ]
@@ -9527,136 +5824,9 @@ var files_dup =
     [ "OrganizationDepartmentType.cs", "d8/da1/_organization_department_type_8cs.html", [
       [ "OrganizationDepartmentType", "da/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_organization_department_type.html", null ]
     ] ],
-    [ "OrganizationExtensions.cs", "d7/d41/_organization_extensions_8cs.html", null ],
-    [ "OrganizationMemberRemovedMessage.cs", "db/d35/_organization_member_removed_message_8cs.html", [
-      [ "OrganizationMemberRemovedMessage", "dc/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message.html", "dc/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message" ]
-    ] ],
-    [ "OrganizationMemberRemovedMessageFacts.cs", "de/df7/_organization_member_removed_message_facts_8cs.html", [
-      [ "OrganizationMemberRemovedMessageFacts", "d2/d57/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts.html", "d2/d57/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts" ],
-      [ "TheConstructor", "d5/dba/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts_1_1_the_constructor.html", "d5/dba/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315.html", "d8/d90/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me2cb98cdd704c5265b504f23cb2d3a315" ],
-      [ "TheGetBodyMethod", "d4/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me77ac744d1fc6137b6ed3c7b9b6a82e44.html", "d4/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_removed_me77ac744d1fc6137b6ed3c7b9b6a82e44" ]
-    ] ],
-    [ "OrganizationMembershipRequestCanceledMessage.cs", "d1/d9f/_organization_membership_request_canceled_message_8cs.html", [
-      [ "OrganizationMembershipRequestCanceledMessage", "dc/dc6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message.html", "dc/dc6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message" ]
-    ] ],
-    [ "OrganizationMembershipRequestCanceledMessageFacts.cs", "d8/d45/_organization_membership_request_canceled_message_facts_8cs.html", [
-      [ "OrganizationMembershipRequestCanceledMessageFacts", "d8/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message_facts.html", "d8/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_canceled_message_facts" ],
-      [ "TheConstructor", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques8539c4111ed920f30eaa72a39ab10057.html", "d5/dcf/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques8539c4111ed920f30eaa72a39ab10057" ],
-      [ "TheGetRecipientsMethod", "d7/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques6184d70a209904bbff02ab3066abc98b.html", "d7/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques6184d70a209904bbff02ab3066abc98b" ],
-      [ "TheGetBodyMethod", "db/df6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesfb5f88b7124b073919a89bf4308b9767.html", "db/df6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesfb5f88b7124b073919a89bf4308b9767" ]
-    ] ],
-    [ "OrganizationMembershipRequestDeclinedMessage.cs", "dc/d77/_organization_membership_request_declined_message_8cs.html", [
-      [ "OrganizationMembershipRequestDeclinedMessage", "d2/d9b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message.html", "d2/d9b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message" ]
-    ] ],
-    [ "OrganizationMembershipRequestDeclinedMessageFacts.cs", "d4/df1/_organization_membership_request_declined_message_facts_8cs.html", [
-      [ "OrganizationMembershipRequestDeclinedMessageFacts", "d3/d12/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message_facts.html", "d3/d12/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_declined_message_facts" ],
-      [ "TheConstructor", "d5/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques1f0289422985b024f679386a4562fc7d.html", "d5/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques1f0289422985b024f679386a4562fc7d" ],
-      [ "TheGetRecipientsMethod", "d7/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques818f0ddb95869361f8e44f4de11b8d1f.html", "d7/d5d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques818f0ddb95869361f8e44f4de11b8d1f" ],
-      [ "TheGetBodyMethod", "d8/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques52c45e3f5e87fa40f329e2722bb7f799.html", "d8/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques52c45e3f5e87fa40f329e2722bb7f799" ]
-    ] ],
-    [ "OrganizationMembershipRequestInitiatedMessage.cs", "d8/d2e/_organization_membership_request_initiated_message_8cs.html", [
-      [ "OrganizationMembershipRequestInitiatedMessage", "d0/d3f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message.html", "d0/d3f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message" ]
-    ] ],
-    [ "OrganizationMembershipRequestInitiatedMessageFacts.cs", "d9/d15/_organization_membership_request_initiated_message_facts_8cs.html", [
-      [ "OrganizationMembershipRequestInitiatedMessageFacts", "d8/d17/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message_facts.html", "d8/d17/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_initiated_message_facts" ],
-      [ "TheConstructor", "df/d0b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesdd53614142cf3d50ee4cfab735d3acbf.html", "df/d0b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesdd53614142cf3d50ee4cfab735d3acbf" ],
-      [ "TheGetRecipientsMethod", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques91b9b9329312201ea3ed8b867b471f81.html", "df/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques91b9b9329312201ea3ed8b867b471f81" ],
-      [ "TheGetBodyMethod", "d6/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e.html", "d6/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e" ]
-    ] ],
-    [ "OrganizationMembershipRequestMessage.cs", "df/d04/_organization_membership_request_message_8cs.html", [
-      [ "OrganizationMembershipRequestMessage", "dd/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message.html", "dd/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message" ]
-    ] ],
-    [ "OrganizationMembershipRequestMessageFacts.cs", "d6/d88/_organization_membership_request_message_facts_8cs.html", [
-      [ "OrganizationMembershipRequestMessageFacts", "d4/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message_facts.html", "d4/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_request_message_facts" ],
-      [ "TheConstructor", "dc/ddc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques49773990994e0d90725c1098a537bc63.html", "dc/ddc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques49773990994e0d90725c1098a537bc63" ],
-      [ "TheGetRecipientsMethod", "d4/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques5cabccffd2aa2b6e8295236a7a9240eb.html", "d4/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques5cabccffd2aa2b6e8295236a7a9240eb" ],
-      [ "TheGetBodyMethod", "dd/de8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques163e3868112fe9200c8a1175786fcf67.html", "dd/de8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques163e3868112fe9200c8a1175786fcf67" ]
-    ] ],
-    [ "OrganizationMemberUpdatedMessage.cs", "dc/d28/_organization_member_updated_message_8cs.html", [
-      [ "OrganizationMemberUpdatedMessage", "d1/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message.html", "d1/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message" ]
-    ] ],
-    [ "OrganizationMemberUpdatedMessageFacts.cs", "db/d66/_organization_member_updated_message_facts_8cs.html", [
-      [ "OrganizationMemberUpdatedMessageFacts", "d6/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts.html", "d6/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts" ],
-      [ "TheConstructor", "df/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts_1_1_the_constructor.html", "df/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d4/d0f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_meb9138729a9e98cc00de5bae58fd944c4.html", "d4/d0f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_meb9138729a9e98cc00de5bae58fd944c4" ],
-      [ "TheGetBodyMethod", "d2/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_me8efe66d20cca99e74d215cea84ffb6c4.html", "d2/d6f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_member_updated_me8efe66d20cca99e74d215cea84ffb6c4" ]
-    ] ],
-    [ "OrganizationMemberViewModel.cs", "d7/dbb/_organization_member_view_model_8cs.html", [
-      [ "OrganizationMemberViewModel", "dd/d7e/class_nu_get_gallery_1_1_organization_member_view_model.html", "dd/d7e/class_nu_get_gallery_1_1_organization_member_view_model" ]
-    ] ],
-    [ "OrganizationMigrationRequest.cs", "d0/d83/_organization_migration_request_8cs.html", [
-      [ "OrganizationMigrationRequest", "d1/d35/class_nu_get_1_1_services_1_1_entities_1_1_organization_migration_request.html", "d1/d35/class_nu_get_1_1_services_1_1_entities_1_1_organization_migration_request" ]
-    ] ],
     [ "FenixAlliance.ABM.Models/Contacts/Profiles/Types/OrganizationProfile.cs", "d9/d8e/_fenix_alliance_8_a_b_m_8_models_2_contacts_2_profiles_2_types_2_organization_profile_8cs.html", "d9/d8e/_fenix_alliance_8_a_b_m_8_models_2_contacts_2_profiles_2_types_2_organization_profile_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Contacts/ContactProfiles/OrganizationProfile.cs", "d5/d04/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_contacts_2_contact_profiles_2_organization_profile_8cs.html", [
       [ "OrganizationProfile", "dd/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_organization_profile.html", null ]
-    ] ],
-    [ "OrganizationsController.cs", "d4/d27/_organizations_controller_8cs.html", [
-      [ "OrganizationsController", "d8/df4/class_nu_get_gallery_1_1_organizations_controller.html", "d8/df4/class_nu_get_gallery_1_1_organizations_controller" ]
-    ] ],
-    [ "OrganizationsControllerFacts.cs", "df/db7/_organizations_controller_facts_8cs.html", [
-      [ "OrganizationsControllerFacts", "d3/df0/class_nu_get_gallery_1_1_organizations_controller_facts.html", "d3/df0/class_nu_get_gallery_1_1_organizations_controller_facts" ],
-      [ "TheAccountAction", "dd/dbe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_account_action.html", "dd/dbe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_account_action" ],
-      [ "TheCancelChangeEmailAction", "d7/d09/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_change_email_action.html", "d7/d09/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_change_email_action" ],
-      [ "TheChangeEmailAction", "d8/d42/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_action.html", "d8/d42/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_action" ],
-      [ "TheChangeEmailSubscriptionAction", "de/d4d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_subscription_action.html", "de/d4d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_change_email_subscription_action" ],
-      [ "TheConfirmationRequiredAction", "d3/d9a/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_action.html", "d3/d9a/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_action" ],
-      [ "TheConfirmationRequiredPostAction", "d2/d9d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_post_action.html", "d2/d9d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_post_action" ],
-      [ "TheConfirmAction", "d4/d48/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_action.html", "d4/d48/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_action" ],
-      [ "TheAddAction", "df/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_action.html", "df/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_action" ],
-      [ "TheAddMemberAction", "d2/db2/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_member_action.html", "d2/db2/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_member_action" ],
-      [ "TheConfirmMemberRequestRedirectAction", "d9/d41/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_request_redirect_action.html", "d9/d41/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_request_redirect_action" ],
-      [ "TheConfirmMemberAction", "df/dc6/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_action.html", "df/dc6/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirm_member_action" ],
-      [ "TheRejectMemberRequestRedirectAction", "d3/d08/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_request_redirect_action.html", "d3/d08/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_request_redirect_action" ],
-      [ "TheRejectMemberAction", "d3/d94/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_action.html", "d3/d94/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_reject_member_action" ],
-      [ "TheUpdateMemberAction", "db/db4/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_update_member_action.html", "db/db4/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_update_member_action" ],
-      [ "TheDeleteMemberAction", "dd/d2b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_member_action.html", "dd/d2b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_member_action" ],
-      [ "TheCancelMemberRequestAction", "dd/d9e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_member_request_action.html", "dd/d9e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_cancel_member_request_action" ],
-      [ "TheDeleteOrganizationBaseAction", "d7/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_base_action.html", "d7/d6e/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_base_action" ],
-      [ "TheDeleteAccountRequestAction", "d4/d16/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_account_request_action.html", "d4/d16/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_account_request_action" ],
-      [ "TheRequestAccountDeletionMethod", "d1/da3/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_request_account_deletion_method.html", "d1/da3/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_request_account_deletion_method" ],
-      [ "TheGetCertificateAction", "db/d3b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificate_action.html", "db/d3b/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificate_action" ],
-      [ "TheGetCertificatesAction", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action" ],
-      [ "TheAddCertificateAction", "d4/d6d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_certificate_action.html", "d4/d6d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_add_certificate_action" ],
-      [ "TheDeleteCertificateAction", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action" ],
-      [ "TheDeleteOrganizationAccountAction", "d7/d8d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_account_action.html", "d7/d8d/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_organization_account_action" ]
-    ] ],
-    [ "OrganizationTransformAcceptedMessage.cs", "d2/dbd/_organization_transform_accepted_message_8cs.html", [
-      [ "OrganizationTransformAcceptedMessage", "da/d58/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message.html", "da/d58/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message" ]
-    ] ],
-    [ "OrganizationTransformAcceptedMessageFacts.cs", "dc/d50/_organization_transform_accepted_message_facts_8cs.html", [
-      [ "OrganizationTransformAcceptedMessageFacts", "db/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message_facts.html", "db/d75/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepted_message_facts" ],
-      [ "TheConstructor", "d8/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_acceptedad6f690f7cd559009e18a1e889f1052.html", "d8/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_acceptedad6f690f7cd559009e18a1e889f1052" ],
-      [ "TheGetRecipientsMethod", "d1/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte789d013e2d3a8b119751d81962c56eb3.html", "d1/d40/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte789d013e2d3a8b119751d81962c56eb3" ],
-      [ "TheGetBodyMethod", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte28aa63273b3a655847c1855da6ca73e8.html", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_accepte28aa63273b3a655847c1855da6ca73e8" ]
-    ] ],
-    [ "OrganizationTransformInitiatedMessage.cs", "d0/dec/_organization_transform_initiated_message_8cs.html", [
-      [ "OrganizationTransformInitiatedMessage", "dd/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message.html", "dd/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message" ]
-    ] ],
-    [ "OrganizationTransformInitiatedMessageFacts.cs", "d6/d13/_organization_transform_initiated_message_facts_8cs.html", [
-      [ "OrganizationTransformInitiatedMessageFacts", "df/d0d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message_facts.html", "df/d0d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiated_message_facts" ],
-      [ "TheConstructor", "d6/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatd6cce6b4c961a54a11dfc88bd193e042.html", "d6/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatd6cce6b4c961a54a11dfc88bd193e042" ],
-      [ "TheGetRecipientsMethod", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0" ],
-      [ "TheGetBodyMethod", "d5/d92/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatda61370eee356d2f00572428f5ec32aa.html", "d5/d92/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiatda61370eee356d2f00572428f5ec32aa" ]
-    ] ],
-    [ "OrganizationTransformRejectedMessage.cs", "d3/d7c/_organization_transform_rejected_message_8cs.html", [
-      [ "OrganizationTransformRejectedMessage", "d9/dbb/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message.html", "d9/dbb/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message" ]
-    ] ],
-    [ "OrganizationTransformRejectedMessageFacts.cs", "d0/d22/_organization_transform_rejected_message_facts_8cs.html", [
-      [ "OrganizationTransformRejectedMessageFacts", "d2/d55/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message_facts.html", "d2/d55/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejected_message_facts" ],
-      [ "TheConstructor", "db/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte05c925635e827cdb9ff9bfa9f9ffa9bc.html", "db/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte05c925635e827cdb9ff9bfa9f9ffa9bc" ],
-      [ "TheGetRecipientsMethod", "d0/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte4d9b5a7a53da23218366766011dcc0c7.html", "d0/da8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte4d9b5a7a53da23218366766011dcc0c7" ],
-      [ "TheGetBodyMethod", "d2/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte1bc0eeaffc96b85aebf7110d66c4b2b0.html", "d2/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte1bc0eeaffc96b85aebf7110d66c4b2b0" ]
-    ] ],
-    [ "OrganizationTransformRequestMessage.cs", "d7/df7/_organization_transform_request_message_8cs.html", [
-      [ "OrganizationTransformRequestMessage", "d0/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message.html", "d0/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message" ]
-    ] ],
-    [ "OrganizationTransformRequestMessageFacts.cs", "d6/d12/_organization_transform_request_message_facts_8cs.html", [
-      [ "OrganizationTransformRequestMessageFacts", "d1/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message_facts.html", "d1/dd1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request_message_facts" ],
-      [ "TheConstructor", "de/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request9e627de7f219bed4e878b9585bda466b.html", "de/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request9e627de7f219bed4e878b9585bda466b" ],
-      [ "TheGetRecipientsMethod", "de/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_requestf46d10094dc17c67e1fcd63060a4cddd.html", "de/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_requestf46d10094dc17c67e1fcd63060a4cddd" ],
-      [ "TheGetBodyMethod", "dd/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request1cca24d273f027f6f800ad266d978763.html", "dd/dd6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_request1cca24d273f027f6f800ad266d978763" ]
     ] ],
     [ "OriginalContractingSystemIDType.cs", "db/d48/_original_contracting_system_i_d_type_8cs.html", [
       [ "OriginalContractingSystemIDType", "de/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_original_contracting_system_i_d_type.html", null ]
@@ -9685,23 +5855,6 @@ var files_dup =
     [ "OversupplyQuantityType.cs", "df/de1/_oversupply_quantity_type_8cs.html", [
       [ "OversupplyQuantityType", "de/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_oversupply_quantity_type.html", null ]
     ] ],
-    [ "OwinAssert.cs", "d4/d63/_owin_assert_8cs.html", null ],
-    [ "OwinStartup.cs", "d2/d6c/_owin_startup_8cs.html", [
-      [ "OwinStartup", "df/d1b/class_nu_get_gallery_1_1_owin_startup.html", null ]
-    ] ],
-    [ "OwinTestExtensions.cs", "de/db9/_owin_test_extensions_8cs.html", null ],
-    [ "OwnerlessNamespaceIdConflictMessage.cs", "d0/d92/_ownerless_namespace_id_conflict_message_8cs.html", [
-      [ "OwnerlessNamespaceIdConflictMessage", "d8/d64/class_nu_get_gallery_1_1_ownerless_namespace_id_conflict_message.html", "d8/d64/class_nu_get_gallery_1_1_ownerless_namespace_id_conflict_message" ]
-    ] ],
-    [ "OwnerRequestsListItemViewModel.cs", "d9/d85/_owner_requests_list_item_view_model_8cs.html", [
-      [ "OwnerRequestsListItemViewModel", "d1/d50/class_nu_get_gallery_1_1_owner_requests_list_item_view_model.html", "d1/d50/class_nu_get_gallery_1_1_owner_requests_list_item_view_model" ]
-    ] ],
-    [ "OwnerRequestsListViewModel.cs", "d2/d86/_owner_requests_list_view_model_8cs.html", [
-      [ "OwnerRequestsListViewModel", "d4/d39/class_nu_get_gallery_1_1_owner_requests_list_view_model.html", "d4/d39/class_nu_get_gallery_1_1_owner_requests_list_view_model" ]
-    ] ],
-    [ "OwnerRequestsViewModel.cs", "df/dc1/_owner_requests_view_model_8cs.html", [
-      [ "OwnerRequestsViewModel", "dc/d96/class_nu_get_gallery_1_1_owner_requests_view_model.html", "dc/d96/class_nu_get_gallery_1_1_owner_requests_view_model" ]
-    ] ],
     [ "OwnerTypeCodeType.cs", "df/d73/_owner_type_code_type_8cs.html", [
       [ "OwnerTypeCodeType", "dc/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_owner_type_code_type.html", null ]
     ] ],
@@ -9711,519 +5864,28 @@ var files_dup =
     [ "FenixAlliance.ABS/FenixAlliance.ABS.Core/Templating/Blazor/Packages/Package.cs", "d2/db8/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_core_2_templating_2_blazor_2_packages_2_package_8cs.html", [
       [ "Package", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package.html", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package" ]
     ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGet.Services.Entities/Package.cs", "d0/d04/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_8_services_8_entities_2_package_8cs.html", [
-      [ "Package", "d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html", "d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package" ]
-    ] ],
-    [ "PackageAddedMessage.cs", "d8/d5a/_package_added_message_8cs.html", [
-      [ "PackageAddedMessage", "d3/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message.html", "d3/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message" ]
-    ] ],
-    [ "PackageAddedMessageFacts.cs", "dd/d62/_package_added_message_facts_8cs.html", [
-      [ "PackageAddedMessageFacts", "d2/d11/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts.html", "d2/d11/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts" ],
-      [ "TheConstructor", "d2/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_constructor.html", "d2/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method.html", "dc/d2d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "de/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_body_method.html", "de/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "PackageAddedWithWarningsMessage.cs", "da/daf/_package_added_with_warnings_message_8cs.html", [
-      [ "PackageAddedWithWarningsMessage", "de/dfc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message.html", "de/dfc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message" ]
-    ] ],
-    [ "PackageAddedWithWarningsMessageFacts.cs", "d0/d98/_package_added_with_warnings_message_facts_8cs.html", [
-      [ "PackageAddedWithWarningsMessageFacts", "d4/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts.html", "d4/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts" ],
-      [ "TheConstructor", "d1/d60/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts_1_1_the_constructor.html", "d1/d60/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d4/d99/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_meeb26e43dacb51f6b6b2b0312feab6dd9.html", "d4/d99/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_meeb26e43dacb51f6b6b2b0312feab6dd9" ],
-      [ "TheGetBodyMethod", "df/d08/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_mecfe7bc268afcf5680158ae333598953e.html", "df/d08/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_mecfe7bc268afcf5680158ae333598953e" ]
-    ] ],
-    [ "PackageAlreadyExistsException.cs", "d3/d7e/_package_already_exists_exception_8cs.html", [
-      [ "PackageAlreadyExistsException", "d4/d9b/class_nu_get_gallery_1_1_package_already_exists_exception.html", "d4/d9b/class_nu_get_gallery_1_1_package_already_exists_exception" ]
-    ] ],
-    [ "PackageAuditReasons.cs", "d2/d2f/_package_audit_reasons_8cs.html", null ],
-    [ "PackageAuditRecord.cs", "d2/d98/_package_audit_record_8cs.html", [
-      [ "PackageAuditRecord", "d8/d2c/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record.html", "d8/d2c/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record" ]
-    ] ],
-    [ "PackageAuditRecordTests.cs", "de/d5e/_package_audit_record_tests_8cs.html", [
-      [ "PackageAuditRecordTests", "d9/d61/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record_tests.html", "d9/d61/class_nu_get_gallery_1_1_auditing_1_1_package_audit_record_tests" ]
-    ] ],
-    [ "PackageAuthor.cs", "d9/d40/_package_author_8cs.html", [
-      [ "PackageAuthor", "d4/d0b/class_nu_get_1_1_services_1_1_entities_1_1_package_author.html", "d4/d0b/class_nu_get_1_1_services_1_1_entities_1_1_package_author" ]
-    ] ],
-    [ "PackageCommitResult.cs", "d1/d55/_package_commit_result_8cs.html", "d1/d55/_package_commit_result_8cs" ],
-    [ "PackageCreationHelper.cs", "d1/dd3/_package_creation_helper_8cs.html", [
-      [ "PackageCreationHelper", "d8/d1c/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_helper.html", "d8/d1c/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_helper" ]
-    ] ],
-    [ "PackageDelete.cs", "df/d67/_package_delete_8cs.html", [
-      [ "PackageDelete", "d1/daa/class_nu_get_1_1_services_1_1_entities_1_1_package_delete.html", "d1/daa/class_nu_get_1_1_services_1_1_entities_1_1_package_delete" ]
-    ] ],
-    [ "PackageDeleteConfiguration.cs", "d2/dc4/_package_delete_configuration_8cs.html", [
-      [ "PackageDeleteConfiguration", "d1/df3/class_nu_get_gallery_1_1_configuration_1_1_package_delete_configuration.html", "d1/df3/class_nu_get_gallery_1_1_configuration_1_1_package_delete_configuration" ]
-    ] ],
-    [ "PackageDeleteDecision.cs", "d3/da5/_package_delete_decision_8cs.html", "d3/da5/_package_delete_decision_8cs" ],
-    [ "PackageDeletedNoticeMessage.cs", "de/d6d/_package_deleted_notice_message_8cs.html", [
-      [ "PackageDeletedNoticeMessage", "d0/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message.html", "d0/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message" ]
-    ] ],
-    [ "PackageDeletedNoticeMessageFacts.cs", "dd/d36/_package_deleted_notice_message_facts_8cs.html", [
-      [ "PackageDeletedNoticeMessageFacts", "d1/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts.html", "d1/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts" ],
-      [ "TheConstructor", "db/d53/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_constructor.html", "db/d53/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d2/d62/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_messaged28ab8f03090240882e7772019b45f70.html", "d2/d62/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_messaged28ab8f03090240882e7772019b45f70" ],
-      [ "TheGetBodyMethod", "d9/d56/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_get_body_method.html", "d9/d56/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_deleted_notice_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "PackageDeleteService.cs", "dd/d84/_package_delete_service_8cs.html", [
-      [ "PackageDeleteService", "d4/d2c/class_nu_get_gallery_1_1_package_delete_service.html", "d4/d2c/class_nu_get_gallery_1_1_package_delete_service" ]
-    ] ],
-    [ "PackageDeleteServiceFacts.cs", "d4/d77/_package_delete_service_facts_8cs.html", [
-      [ "PackageDeleteServiceFacts", "d4/db3/class_nu_get_gallery_1_1_package_delete_service_facts.html", "d4/db3/class_nu_get_gallery_1_1_package_delete_service_facts" ],
-      [ "TestPackageDeleteService", "d9/de3/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_test_package_delete_service.html", "d9/de3/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_test_package_delete_service" ],
-      [ "TheConstructor", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor.html", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor" ],
-      [ "TheCanPackageBeDeletedByUserAsyncMethod", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method" ],
-      [ "TheSoftDeletePackagesAsyncMethod", "d8/df8/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_soft_delete_packages_async_method.html", "d8/df8/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_soft_delete_packages_async_method" ],
-      [ "TheHardDeletePackagesAsyncMethod", "d9/d33/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_hard_delete_packages_async_method.html", "d9/d33/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_hard_delete_packages_async_method" ],
-      [ "TheReflowHardDeletedPackagesAsyncMethod", "d1/d34/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_reflow_hard_deleted_packages_async_method.html", "d1/d34/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_reflow_hard_deleted_packages_async_method" ]
-    ] ],
-    [ "PackageDependency.cs", "dc/dcf/_package_dependency_8cs.html", [
-      [ "PackageDependency", "db/dc4/class_nu_get_1_1_services_1_1_entities_1_1_package_dependency.html", "db/dc4/class_nu_get_1_1_services_1_1_entities_1_1_package_dependency" ]
-    ] ],
-    [ "PackageDependent.cs", "dd/d14/_package_dependent_8cs.html", [
-      [ "PackageDependent", "d3/d4e/class_nu_get_gallery_1_1_package_dependent.html", "d3/d4e/class_nu_get_gallery_1_1_package_dependent" ]
-    ] ],
-    [ "PackageDependents.cs", "d8/db2/_package_dependents_8cs.html", [
-      [ "PackageDependents", "d0/df6/class_nu_get_gallery_1_1_package_dependents.html", "d0/df6/class_nu_get_gallery_1_1_package_dependents" ]
-    ] ],
-    [ "PackageDeprecation.cs", "d6/d72/_package_deprecation_8cs.html", [
-      [ "PackageDeprecation", "d6/d08/class_nu_get_1_1_services_1_1_entities_1_1_package_deprecation.html", "d6/d08/class_nu_get_1_1_services_1_1_entities_1_1_package_deprecation" ]
-    ] ],
-    [ "PackageDeprecationFieldsToInclude.cs", "d1/d6c/_package_deprecation_fields_to_include_8cs.html", "d1/d6c/_package_deprecation_fields_to_include_8cs" ],
-    [ "PackageDeprecationManagementService.cs", "db/d71/_package_deprecation_management_service_8cs.html", [
-      [ "PackageDeprecationManagementService", "dc/d0c/class_nu_get_gallery_1_1_package_deprecation_management_service.html", "dc/d0c/class_nu_get_gallery_1_1_package_deprecation_management_service" ]
-    ] ],
-    [ "PackageDeprecationManagementServiceFacts.cs", "d1/d34/_package_deprecation_management_service_facts_8cs.html", [
-      [ "PackageDeprecationManagementServiceFacts", "d5/d4e/class_nu_get_gallery_1_1_package_deprecation_management_service_facts.html", [
-        [ "TheDeprecateMethod", "dd/d70/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_deprecate_method.html", "dd/d70/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_deprecate_method" ],
-        [ "TheGetPossibleAlternatePackageVersionsMethod", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method.html", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method" ]
-      ] ],
-      [ "TheGetPossibleAlternatePackageVersionsMethod", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method.html", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method" ],
-      [ "TheDeprecateMethod", "dd/d70/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_deprecate_method.html", "dd/d70/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_deprecate_method" ]
-    ] ],
-    [ "PackageDeprecationService.cs", "d2/db9/_package_deprecation_service_8cs.html", [
-      [ "PackageDeprecationService", "d3/d5f/class_nu_get_gallery_1_1_package_deprecation_service.html", "d3/d5f/class_nu_get_gallery_1_1_package_deprecation_service" ]
-    ] ],
-    [ "PackageDeprecationServiceFacts.cs", "df/de3/_package_deprecation_service_facts_8cs.html", [
-      [ "PackageDeprecationServiceFacts", "dd/dec/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts.html", [
-        [ "TheGetDeprecationByPackageMethod", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method.html", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method" ],
-        [ "TheUpdateDeprecationMethod", "d1/d3b/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_update_deprecation_method.html", "d1/d3b/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_update_deprecation_method" ]
-      ] ],
-      [ "TheUpdateDeprecationMethod", "d1/d3b/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_update_deprecation_method.html", "d1/d3b/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_update_deprecation_method" ],
-      [ "TheGetDeprecationByPackageMethod", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method.html", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method" ]
-    ] ],
-    [ "PackageDeprecationStatus.cs", "dc/def/_package_deprecation_status_8cs.html", "dc/def/_package_deprecation_status_8cs" ],
-    [ "PackageDeprecationStatusFacts.cs", "df/daf/_package_deprecation_status_facts_8cs.html", [
-      [ "PackageDeprecationStatusFacts", "da/d5c/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_deprecation_status_facts.html", "da/d5c/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_deprecation_status_facts" ]
-    ] ],
-    [ "PackageEditReadMeState.cs", "d9/d62/_package_edit_read_me_state_8cs.html", "d9/d62/_package_edit_read_me_state_8cs" ],
-    [ "NuGet.Services.Entities/Extensions/PackageExtensions.cs", "d1/dce/_nu_get_8_services_8_entities_2_extensions_2_package_extensions_8cs.html", null ],
-    [ "NuGetGallery/OData/PackageExtensions.cs", "da/df8/_nu_get_gallery_2_o_data_2_package_extensions_8cs.html", null ],
-    [ "NuGetGallery.Services/Extensions/PackageExtensions.cs", "d5/d30/_nu_get_gallery_8_services_2_extensions_2_package_extensions_8cs.html", null ],
-    [ "PackageExtensionsFacts.cs", "d4/d7a/_package_extensions_facts_8cs.html", [
-      [ "PackageExtensionsFacts", "da/d3a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts.html", "da/d3a/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts" ],
-      [ "TheProjectV2FeedPackageMethod", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method" ]
-    ] ],
-    [ "NuGet.Services.Entities.Tests/PackageFacts.cs", "d0/d73/_nu_get_8_services_8_entities_8_tests_2_package_facts_8cs.html", [
-      [ "PackageFacts", "d7/dc6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_facts.html", "d7/dc6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_facts" ]
-    ] ],
-    [ "NuGetGallery.Facts/Entities/PackageFacts.cs", "d0/d2e/_nu_get_gallery_8_facts_2_entities_2_package_facts_8cs.html", [
-      [ "PackageFacts", "d7/d98/class_nu_get_gallery_1_1_entities_1_1_package_facts.html", [
-        [ "TheDefaultConstructor", "d1/d99/class_nu_get_gallery_1_1_entities_1_1_package_facts_1_1_the_default_constructor.html", "d1/d99/class_nu_get_gallery_1_1_entities_1_1_package_facts_1_1_the_default_constructor" ]
-      ] ],
-      [ "TheDefaultConstructor", "d1/d99/class_nu_get_gallery_1_1_entities_1_1_package_facts_1_1_the_default_constructor.html", "d1/d99/class_nu_get_gallery_1_1_entities_1_1_package_facts_1_1_the_default_constructor" ]
-    ] ],
     [ "PackageFile.cs", "d1/db2/_package_file_8cs.html", [
       [ "PackageFile", "dc/db2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_package_file.html", "dc/db2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_package_file" ]
-    ] ],
-    [ "PackageFileService.cs", "d2/d49/_package_file_service_8cs.html", [
-      [ "PackageFileService", "dc/d2e/class_nu_get_gallery_1_1_package_file_service.html", "dc/d2e/class_nu_get_gallery_1_1_package_file_service" ]
-    ] ],
-    [ "PackageFileServiceFacts.cs", "d6/d35/_package_file_service_facts_8cs.html", [
-      [ "PackageFileServiceFacts", "d8/daa/class_nu_get_gallery_1_1_package_file_service_facts.html", "d8/daa/class_nu_get_gallery_1_1_package_file_service_facts" ],
-      [ "TheDeletePackageFileMethod", "d2/deb/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_package_file_method.html", "d2/deb/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_package_file_method" ],
-      [ "TheCreateDownloadPackageActionResultMethod", "d7/d4b/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_create_download_package_action_result_method.html", "d7/d4b/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_create_download_package_action_result_method" ],
-      [ "TheDeleteReadMeMdFileAsync", "d1/df2/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_read_me_md_file_async.html", "d1/df2/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_delete_read_me_md_file_async" ],
-      [ "TheSaveReadMeMdFileAsyncMethod", "db/dc5/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_save_read_me_md_file_async_method.html", "db/dc5/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_save_read_me_md_file_async_method" ],
-      [ "TheDownloadReadMeMdFileAsyncMethod", "dd/da7/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_download_read_me_md_file_async_method.html", "dd/da7/class_nu_get_gallery_1_1_package_file_service_facts_1_1_the_download_read_me_md_file_async_method" ]
-    ] ],
-    [ "PackageFileServiceMetadata.cs", "d2/d5b/_package_file_service_metadata_8cs.html", [
-      [ "PackageFileMetadataService", "dc/d0a/class_nu_get_gallery_1_1_package_file_metadata_service.html", "dc/d0a/class_nu_get_gallery_1_1_package_file_metadata_service" ]
-    ] ],
-    [ "PackageFileServiceMetadataFacts.cs", "d8/de4/_package_file_service_metadata_facts_8cs.html", [
-      [ "PackageFileServiceMetadataFacts", "dc/d81/class_nu_get_gallery_1_1_package_file_service_metadata_facts.html", "dc/d81/class_nu_get_gallery_1_1_package_file_service_metadata_facts" ]
-    ] ],
-    [ "PackageFilter.cs", "d9/dbc/_package_filter_8cs.html", [
-      [ "PackageFilter", "d7/d68/class_nu_get_gallery_1_1_services_1_1_package_filter.html", "d7/d68/class_nu_get_gallery_1_1_services_1_1_package_filter" ]
-    ] ],
-    [ "PackageFilterContext.cs", "dd/d7a/_package_filter_context_8cs.html", [
-      [ "PackageFilterContext", "d8/d13/class_nu_get_gallery_1_1_services_1_1_package_filter_context.html", "d8/d13/class_nu_get_gallery_1_1_services_1_1_package_filter_context" ]
-    ] ],
-    [ "PackageFramework.cs", "d8/ddc/_package_framework_8cs.html", [
-      [ "PackageFramework", "d8/de5/class_nu_get_1_1_services_1_1_entities_1_1_package_framework.html", "d8/de5/class_nu_get_1_1_services_1_1_entities_1_1_package_framework" ]
-    ] ],
-    [ "PackageHeadingModel.cs", "d9/d75/_package_heading_model_8cs.html", [
-      [ "PackageHeadingModel", "db/dd0/class_nu_get_gallery_1_1_package_heading_model.html", "db/dd0/class_nu_get_gallery_1_1_package_heading_model" ]
-    ] ],
-    [ "PackageHelper.cs", "dc/d42/_package_helper_8cs.html", null ],
-    [ "PackageHelperTests.cs", "df/ddf/_package_helper_tests_8cs.html", [
-      [ "PackageHelperTests", "d8/dcc/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests.html", "d8/dcc/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests" ],
-      [ "TheGetSelectListTextMethod", "df/d10/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_get_select_list_text_method.html", "df/d10/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_get_select_list_text_method" ],
-      [ "TheValidateNuGetPackageMetadataMethod", "d2/dc2/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_validate_nu_get_package_metadata_method.html", "d2/dc2/class_nu_get_gallery_1_1_helpers_1_1_package_helper_tests_1_1_the_validate_nu_get_package_metadata_method" ]
-    ] ],
-    [ "PackageHistory.cs", "d3/d38/_package_history_8cs.html", [
-      [ "PackageHistory", "dd/d5a/class_nu_get_1_1_services_1_1_entities_1_1_package_history.html", "dd/d5a/class_nu_get_1_1_services_1_1_entities_1_1_package_history" ]
-    ] ],
-    [ "PackageIdValidator.cs", "dc/d6c/_package_id_validator_8cs.html", null ],
-    [ "PackageIdValidatorTest.cs", "d6/d18/_package_id_validator_test_8cs.html", [
-      [ "PackageIdValidatorTest", "d1/d5c/class_nu_get_gallery_1_1_packaging_1_1_package_id_validator_test.html", "d1/d5c/class_nu_get_gallery_1_1_packaging_1_1_package_id_validator_test" ]
-    ] ],
-    [ "PackageIndexEntityFacts.cs", "d1/dc4/_package_index_entity_facts_8cs.html", [
-      [ "PackageIndexEntityFacts", "df/dc9/class_nu_get_gallery_1_1_infrastructure_1_1_package_index_entity_facts.html", "df/dc9/class_nu_get_gallery_1_1_infrastructure_1_1_package_index_entity_facts" ]
     ] ],
     [ "PackageLevelCodeType.cs", "dd/d96/_package_level_code_type_8cs.html", [
       [ "PackageLevelCodeType", "d9/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_package_level_code_type.html", null ]
     ] ],
-    [ "PackageLicense.cs", "d5/d31/_package_license_8cs.html", [
-      [ "PackageLicense", "d6/d15/class_nu_get_1_1_services_1_1_entities_1_1_package_license.html", "d6/d15/class_nu_get_1_1_services_1_1_entities_1_1_package_license" ]
-    ] ],
     [ "PackageLicenseInfo.cs", "dc/d86/_package_license_info_8cs.html", [
       [ "PackageLicenseInfo", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info.html", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info" ]
-    ] ],
-    [ "PackageLicenseReport.cs", "db/d0e/_package_license_report_8cs.html", [
-      [ "PackageLicenseReport", "d7/d83/class_nu_get_1_1_services_1_1_entities_1_1_package_license_report.html", "d7/d83/class_nu_get_1_1_services_1_1_entities_1_1_package_license_report" ]
-    ] ],
-    [ "PackageListSearchViewModel.cs", "da/d8e/_package_list_search_view_model_8cs.html", [
-      [ "PackageListSearchViewModel", "de/d02/class_nu_get_gallery_1_1_package_list_search_view_model.html", "de/d02/class_nu_get_gallery_1_1_package_list_search_view_model" ]
-    ] ],
-    [ "PackageListTests.cs", "d6/dff/_package_list_tests_8cs.html", [
-      [ "PackageListTests", "dc/d33/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_package_list_tests.html", "dc/d33/class_nu_get_gallery_1_1_functional_tests_1_1_package_retrieval_1_1_package_list_tests" ]
-    ] ],
-    [ "PackageListViewModel.cs", "d3/d8a/_package_list_view_model_8cs.html", [
-      [ "PackageListViewModel", "d6/d6b/class_nu_get_gallery_1_1_package_list_view_model.html", "d6/d6b/class_nu_get_gallery_1_1_package_list_view_model" ]
-    ] ],
-    [ "PackageLockFactAttribute.cs", "d9/d1f/_package_lock_fact_attribute_8cs.html", [
-      [ "PackageLockFactAttribute", "dd/da5/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_package_lock_fact_attribute.html", "dd/da5/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_package_lock_fact_attribute" ]
-    ] ],
-    [ "PackageManagerViewModel.cs", "db/d95/_package_manager_view_model_8cs.html", "db/d95/_package_manager_view_model_8cs" ],
-    [ "PackageMetadata.cs", "da/db3/_package_metadata_8cs.html", [
-      [ "PackageMetadata", "d4/dbf/class_nu_get_gallery_1_1_packaging_1_1_package_metadata.html", "d4/dbf/class_nu_get_gallery_1_1_packaging_1_1_package_metadata" ]
-    ] ],
-    [ "PackageMetadataExtensions.cs", "d8/d1f/_package_metadata_extensions_8cs.html", "d8/d1f/_package_metadata_extensions_8cs" ],
-    [ "PackageMetadataFacts.cs", "dd/dd2/_package_metadata_facts_8cs.html", [
-      [ "PackageMetadataFacts", "df/d71/class_nu_get_gallery_1_1_packaging_1_1_package_metadata_facts.html", "df/d71/class_nu_get_gallery_1_1_packaging_1_1_package_metadata_facts" ]
-    ] ],
-    [ "PackageMetadataStrings.cs", "d1/d66/_package_metadata_strings_8cs.html", null ],
-    [ "PackageMetadataValidationService.cs", "d9/d38/_package_metadata_validation_service_8cs.html", [
-      [ "PackageMetadataValidationService", "da/d3a/class_nu_get_gallery_1_1_package_metadata_validation_service.html", "da/d3a/class_nu_get_gallery_1_1_package_metadata_validation_service" ]
-    ] ],
-    [ "PackageMetadataValidationServiceFacts.cs", "db/da1/_package_metadata_validation_service_facts_8cs.html", [
-      [ "PackageMetadataValidationServiceFacts", "da/da9/class_nu_get_gallery_1_1_package_metadata_validation_service_facts.html", "da/da9/class_nu_get_gallery_1_1_package_metadata_validation_service_facts" ],
-      [ "TheValidateMetadataBeforeUploadAsync", "d4/d17/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_metadata_before_upload_async.html", "d4/d17/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_metadata_before_upload_async" ],
-      [ "TheValidateAfterGeneratePackageMethod", "de/d42/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_after_generate_package_method.html", "de/d42/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_after_generate_package_method" ],
-      [ "FactsBase", "d7/dd8/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_facts_base.html", "d7/dd8/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "PackageOwnerAddedMessage.cs", "d0/dbc/_package_owner_added_message_8cs.html", [
-      [ "PackageOwnerAddedMessage", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message.html", "d1/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message" ]
-    ] ],
-    [ "PackageOwnerAddedMessageFacts.cs", "d7/da9/_package_owner_added_message_facts_8cs.html", [
-      [ "PackageOwnerAddedMessageFacts", "d1/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts.html", "d1/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts" ],
-      [ "TheConstructor", "d0/d42/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_constructor.html", "d0/d42/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d7/d93/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_fa7c33fe170e348afbd88beb95bb579f1f.html", "d7/d93/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_fa7c33fe170e348afbd88beb95bb579f1f" ],
-      [ "TheGetBodyMethod", "dc/d6b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_get_body_method.html", "dc/d6b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "PackageOwnerConfirmationModel.cs", "dc/d60/_package_owner_confirmation_model_8cs.html", [
-      [ "PackageOwnerConfirmationModel", "d6/d6a/class_nu_get_gallery_1_1_package_owner_confirmation_model.html", "d6/d6a/class_nu_get_gallery_1_1_package_owner_confirmation_model" ]
-    ] ],
-    [ "PackageOwnerRemovedMessage.cs", "d2/d24/_package_owner_removed_message_8cs.html", [
-      [ "PackageOwnerRemovedMessage", "d4/db7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message.html", "d4/db7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message" ]
-    ] ],
-    [ "PackageOwnerRemovedMessageFacts.cs", "d7/db2/_package_owner_removed_message_facts_8cs.html", [
-      [ "PackageOwnerRemovedMessageFacts", "d6/da5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts.html", "d6/da5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts" ],
-      [ "TheConstructor", "d4/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_constructor.html", "d4/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d6/de3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_11a804cfc6612172669540c45074b84e.html", "d6/de3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_11a804cfc6612172669540c45074b84e" ],
-      [ "TheGetBodyMethod", "d4/d32/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_get_body_method.html", "d4/d32/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "PackageOwnerRequest.cs", "df/df7/_package_owner_request_8cs.html", [
-      [ "PackageOwnerRequest", "d1/d32/class_nu_get_1_1_services_1_1_entities_1_1_package_owner_request.html", "d1/d32/class_nu_get_1_1_services_1_1_entities_1_1_package_owner_request" ]
-    ] ],
-    [ "PackageOwnerRequestService.cs", "d8/d80/_package_owner_request_service_8cs.html", [
-      [ "PackageOwnerRequestService", "db/d0f/class_nu_get_gallery_1_1_package_owner_request_service.html", "db/d0f/class_nu_get_gallery_1_1_package_owner_request_service" ]
-    ] ],
-    [ "PackageOwnerRequestServiceFacts.cs", "df/d7a/_package_owner_request_service_facts_8cs.html", [
-      [ "PackageOwnerRequestServiceFacts", "d0/d34/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts.html", "d0/d34/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts" ],
-      [ "TheIsValidPackageOwnerRequestMethod", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method" ],
-      [ "TheAddPackageOwnershipRequestMethod", "dc/de6/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_add_package_ownership_request_method.html", "dc/de6/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_add_package_ownership_request_method" ]
-    ] ],
-    [ "PackageOwnershipManagementService.cs", "da/dcb/_package_ownership_management_service_8cs.html", [
-      [ "PackageOwnershipManagementService", "db/dc4/class_nu_get_gallery_1_1_package_ownership_management_service.html", "db/dc4/class_nu_get_gallery_1_1_package_ownership_management_service" ]
-    ] ],
-    [ "PackageOwnershipManagementServiceFacts.cs", "d1/dc6/_package_ownership_management_service_facts_8cs.html", [
-      [ "PackageOwnershipManagementServiceFacts", "d2/d1a/class_nu_get_gallery_1_1_package_ownership_management_service_facts.html", "d2/d1a/class_nu_get_gallery_1_1_package_ownership_management_service_facts" ],
-      [ "TheAddPackageOwnerAsyncMethod", "de/d9f/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method.html", "de/d9f/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method" ],
-      [ "TheAddPackageOwnershipRequestAsyncMethod", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method.html", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method" ],
-      [ "TheRemovePackageOwnerAsyncMethod", "d3/d29/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method.html", "d3/d29/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method" ],
-      [ "TheDeletePackageOwnershipRequestAsyncMethod", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method" ]
-    ] ],
-    [ "PackageOwnershipRequestCanceledMessage.cs", "df/d99/_package_ownership_request_canceled_message_8cs.html", [
-      [ "PackageOwnershipRequestCanceledMessage", "db/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message.html", "db/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message" ]
-    ] ],
-    [ "PackageOwnershipRequestCanceledMessageFacts.cs", "d9/de3/_package_ownership_request_canceled_message_facts_8cs.html", [
-      [ "PackageOwnershipRequestCanceledMessageFacts", "db/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message_facts.html", "db/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canceled_message_facts" ],
-      [ "TheConstructor", "d4/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canc34c764143197db45d2b50fcd2ae25cc7.html", "d4/dc8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_canc34c764143197db45d2b50fcd2ae25cc7" ],
-      [ "TheGetRecipientsMethod", "da/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancc86d0226bfe19769f8316c07fab30aaf.html", "da/da7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancc86d0226bfe19769f8316c07fab30aaf" ],
-      [ "TheGetBodyMethod", "d2/d4e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancaf784ed7e154e3d1c69d5f833803830f.html", "d2/d4e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_cancaf784ed7e154e3d1c69d5f833803830f" ]
-    ] ],
-    [ "PackageOwnershipRequestDeclinedMessage.cs", "dc/dc4/_package_ownership_request_declined_message_8cs.html", [
-      [ "PackageOwnershipRequestDeclinedMessage", "db/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message.html", "db/d45/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message" ]
-    ] ],
-    [ "PackageOwnershipRequestDeclinedMessageFacts.cs", "d0/d9d/_package_ownership_request_declined_message_facts_8cs.html", [
-      [ "PackageOwnershipRequestDeclinedMessageFacts", "d0/d51/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message_facts.html", "d0/d51/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declined_message_facts" ],
-      [ "TheConstructor", "d9/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl1ba3a094b79192c75e8c45e458bebb94.html", "d9/d84/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl1ba3a094b79192c75e8c45e458bebb94" ],
-      [ "TheGetRecipientsMethod", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028" ],
-      [ "TheGetBodyMethod", "d6/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl196273f54ad38ec49bd4d8e5a6199369.html", "d6/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_decl196273f54ad38ec49bd4d8e5a6199369" ]
-    ] ],
-    [ "PackageOwnershipRequestInitiatedMessage.cs", "d1/d16/_package_ownership_request_initiated_message_8cs.html", [
-      [ "PackageOwnershipRequestInitiatedMessage", "d4/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message.html", "d4/d1e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message" ]
-    ] ],
-    [ "PackageOwnershipRequestInitiatedMessageFacts.cs", "d0/d53/_package_ownership_request_initiated_message_facts_8cs.html", [
-      [ "PackageOwnershipRequestInitiatedMessageFacts", "db/d83/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message_facts.html", "db/d83/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initiated_message_facts" ],
-      [ "TheConstructor", "d7/d47/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init565af5c8edeea5934701c87727156ee2.html", "d7/d47/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init565af5c8edeea5934701c87727156ee2" ],
-      [ "TheGetRecipientsMethod", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b.html", "d4/da3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_init114d1e1c4f2d0c543a91461167d1db9b" ],
-      [ "TheGetBodyMethod", "d6/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initaf34fa46576f4da9c4e028acdfd3415d.html", "d6/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_initaf34fa46576f4da9c4e028acdfd3415d" ]
-    ] ],
-    [ "PackageOwnershipRequestMessage.cs", "d1/d8d/_package_ownership_request_message_8cs.html", [
-      [ "PackageOwnershipRequestMessage", "d3/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message.html", "d3/dcc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message" ]
-    ] ],
-    [ "PackageOwnershipRequestMessageFacts.cs", "d7/d9a/_package_ownership_request_message_facts_8cs.html", [
-      [ "PackageOwnershipRequestMessageFacts", "d3/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts.html", "d3/df9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts" ],
-      [ "TheConstructor", "dc/d76/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts_1_1_the_constructor.html", "dc/d76/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d3/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messfb72d6907e107162ddb5234839843eff.html", "d3/d9f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messfb72d6907e107162ddb5234839843eff" ],
-      [ "TheGetBodyMethod", "d2/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messb88e996f1b939c82f2e9c9ba4f4441ba.html", "d2/d39/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_messb88e996f1b939c82f2e9c9ba4f4441ba" ]
-    ] ],
-    [ "PackageOwnersResultViewModel.cs", "d3/dc9/_package_owners_result_view_model_8cs.html", [
-      [ "PackageOwnersResultViewModel", "d8/d5a/class_nu_get_gallery_1_1_package_owners_result_view_model.html", "d8/d5a/class_nu_get_gallery_1_1_package_owners_result_view_model" ]
-    ] ],
-    [ "PackageReaderCoreExtensions.cs", "d1/d46/_package_reader_core_extensions_8cs.html", null ],
-    [ "PackageRegistration.cs", "d8/d31/_package_registration_8cs.html", [
-      [ "PackageRegistration", "d2/dc6/class_nu_get_1_1_services_1_1_entities_1_1_package_registration.html", "d2/dc6/class_nu_get_1_1_services_1_1_entities_1_1_package_registration" ]
-    ] ],
-    [ "PackageRegistrationAuditRecord.cs", "d3/dcc/_package_registration_audit_record_8cs.html", [
-      [ "PackageRegistrationAuditRecord", "d0/daf/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record.html", "d0/daf/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record" ]
-    ] ],
-    [ "PackageRegistrationAuditRecordTests.cs", "d8/d5d/_package_registration_audit_record_tests_8cs.html", [
-      [ "PackageRegistrationAuditRecordTests", "d8/d0d/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests.html", "d8/d0d/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests" ],
-      [ "RequiredSignerTest", "d7/d1e/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests_1_1_required_signer_test.html", "d7/d1e/class_nu_get_gallery_1_1_auditing_1_1_package_registration_audit_record_tests_1_1_required_signer_test" ]
-    ] ],
-    [ "PackageRegistrationExtensions.cs", "d9/d21/_package_registration_extensions_8cs.html", null ],
-    [ "PackageRegistrationExtensionsFacts.cs", "dd/dcb/_package_registration_extensions_facts_8cs.html", [
-      [ "PackageRegistrationExtensionsFacts", "dd/d28/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts.html", [
-        [ "TheIsAcceptableSigningCertificateMethod", "d3/d43/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_t28dc1403ef388492a99b69661bfc178c.html", "d3/d43/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_t28dc1403ef388492a99b69661bfc178c" ],
-        [ "TheIsSigningAllowedMethod", "da/de6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_allowed_method.html", "da/de6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_allowed_method" ],
-        [ "TheIsSigningRequiredMethod", "d5/dac/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_required_method.html", "d5/dac/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_required_method" ]
-      ] ],
-      [ "TheIsSigningAllowedMethod", "da/de6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_allowed_method.html", "da/de6/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_allowed_method" ],
-      [ "TheIsSigningRequiredMethod", "d5/dac/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_required_method.html", "d5/dac/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_the_is_signing_required_method" ],
-      [ "TheIsAcceptableSigningCertificateMethod", "d3/d43/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_t28dc1403ef388492a99b69661bfc178c.html", "d3/d43/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_registration_extensions_facts_1_1_t28dc1403ef388492a99b69661bfc178c" ]
-    ] ],
-    [ "PackageRename.cs", "d5/db0/_package_rename_8cs.html", [
-      [ "PackageRename", "d2/dd0/class_nu_get_1_1_services_1_1_entities_1_1_package_rename.html", "d2/dd0/class_nu_get_1_1_services_1_1_entities_1_1_package_rename" ]
-    ] ],
-    [ "PackageRenameService.cs", "d9/db2/_package_rename_service_8cs.html", [
-      [ "PackageRenameService", "d0/d9e/class_nu_get_gallery_1_1_package_rename_service.html", "d0/d9e/class_nu_get_gallery_1_1_package_rename_service" ]
-    ] ],
-    [ "PackageRenameServiceFacts.cs", "da/d1e/_package_rename_service_facts_8cs.html", [
-      [ "PackageRenameServiceFacts", "d8/d65/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts.html", [
-        [ "TheGetDeprecationByPackageMethod", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method.html", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method" ]
-      ] ],
-      [ "TheGetDeprecationByPackageMethod", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method.html", "d2/d68/class_nu_get_gallery_1_1_services_1_1_package_rename_service_facts_1_1_the_get_deprecation_by_package_method" ]
     ] ],
     [ "PackagesContentsResult.cs", "d1/d68/_packages_contents_result_8cs.html", [
       [ "PackagesContentsResult", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637.html", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637" ]
     ] ],
-    [ "PackagesController.cs", "de/df9/_packages_controller_8cs.html", [
-      [ "PackagesController", "d0/d6e/class_nu_get_gallery_1_1_packages_controller.html", "d0/d6e/class_nu_get_gallery_1_1_packages_controller" ]
-    ] ],
-    [ "PackagesControllerFacts.cs", "d8/dc2/_packages_controller_facts_8cs.html", [
-      [ "PackagesControllerFacts", "db/db7/class_nu_get_gallery_1_1_packages_controller_facts.html", "db/db7/class_nu_get_gallery_1_1_packages_controller_facts" ],
-      [ "TheCancelVerifyPackageAction", "d3/db5/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_cancel_verify_package_action.html", "d3/db5/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_cancel_verify_package_action" ],
-      [ "TheDisplayPackageMethod", "d8/d09/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_display_package_method.html", "d8/d09/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_display_package_method" ],
-      [ "TheAtomFeedPackageMethod", "d2/d44/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_atom_feed_package_method.html", "d2/d44/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_atom_feed_package_method" ],
-      [ "TheOwnershipRequestMethods", "d5/d49/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods.html", "d5/d49/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods" ],
-      [ "TheCancelPendingOwnershipRequestMethod", "d4/d94/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods_1_1_the_canab13a54d55174b699d32ec9ac0348a3f.html", "d4/d94/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_ownership_request_methods_1_1_the_canab13a54d55174b699d32ec9ac0348a3f" ],
-      [ "TheContactOwnersMethod", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_contact_owners_method.html", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_contact_owners_method" ],
-      [ "TheManageMethod", "d7/df2/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method.html", "d7/df2/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method" ],
-      [ "TheManageMethodWithExactVersion", "d2/da7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_exact_version.html", "d2/da7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_exact_version" ],
-      [ "TheManageMethodWithLatestVersion", "de/d68/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_latest_version.html", "de/d68/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_latest_version" ],
-      [ "TheManageMethodWithNullVersion", "d3/d96/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_null_version.html", "d3/d96/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_null_version" ],
-      [ "TheManageMethodWithMissingVersion", "d0/d12/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_missing_version.html", "d0/d12/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_method_with_missing_version" ],
-      [ "TheDeleteSymbolsMethod", "d9/d4c/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method.html", "d9/d4c/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method" ],
-      [ "TheDeleteSymbolsMethodWithExactVersion", "d7/d53/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_exact_version.html", "d7/d53/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_exact_version" ],
-      [ "TheDeleteSymbolsMethodThatFilters", "dd/d66/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_that_filters.html", "dd/d66/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_that_filters" ],
-      [ "TheDeleteSymbolsMethodWithMissingVersion", "d8/dbc/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_missing_version.html", "d8/dbc/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_missing_version" ],
-      [ "TheDeleteSymbolsMethodWithNullVersion", "d7/d57/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_null_version.html", "d7/d57/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_method_with_null_version" ],
-      [ "TheDeleteSymbolsPackageMethod", "d7/d4a/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_package_method.html", "d7/d4a/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_symbols_package_method" ],
-      [ "TheUpdateListedMethod", "dc/df1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_update_listed_method.html", "dc/df1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_update_listed_method" ],
-      [ "TheEditPostMethod", "de/de7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_post_method.html", "de/de7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_post_method" ],
-      [ "TheListPackagesMethod", "d1/dc1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_list_packages_method.html", "d1/dc1/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_list_packages_method" ],
-      [ "TheReportAbuseMethod", "d2/dce/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_abuse_method.html", "d2/dce/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_abuse_method" ],
-      [ "TheReportMyPackageMethod", "da/d4b/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_my_package_method.html", "da/d4b/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_report_my_package_method" ],
-      [ "TheUploadFileActionForGetRequests", "dd/df3/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_get_requests.html", "dd/df3/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_get_requests" ],
-      [ "TheUploadFileActionForPostRequests", "dc/d71/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_post_requests.html", "dc/d71/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_file_action_for_post_requests" ],
-      [ "TheVerifyPackageActionForPostRequests", "d8/dda/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_verify_package_action_for_post_requests.html", "d8/dda/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_verify_package_action_for_post_requests" ],
-      [ "TheUploadProgressAction", "df/dc6/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_progress_action.html", "df/dc6/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_upload_progress_action" ],
-      [ "TheSetLicenseReportVisibilityMethod", "d2/d63/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_license_report_visibility_method.html", "d2/d63/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_license_report_visibility_method" ],
-      [ "TheRevalidateMethod", "d0/d78/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_method.html", "d0/d78/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_method" ],
-      [ "TheRevalidateSymbolsMethod", "dd/d85/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_symbols_method.html", "dd/d85/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_revalidate_symbols_method" ],
-      [ "TheSetRequiredSignerMethod", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_required_signer_method.html", "d4/d10/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_set_required_signer_method" ],
-      [ "ThePreviewReadMeMethod", "d3/db7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_preview_read_me_method.html", "d3/db7/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_preview_read_me_method" ],
-      [ "TheGetReadMeMethod", "d9/d28/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_get_read_me_method.html", "d9/d28/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_get_read_me_method" ],
-      [ "LicenseMethod", "d7/dff/class_nu_get_gallery_1_1_packages_controller_facts_1_1_license_method.html", "d7/dff/class_nu_get_gallery_1_1_packages_controller_facts_1_1_license_method" ],
-      [ "TheManagePackageOwnersMethod", "d7/d27/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_package_owners_method.html", "d7/d27/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_manage_package_owners_method" ],
-      [ "TheDeleteMethod", "d3/df4/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_method.html", "d3/df4/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_delete_method" ],
-      [ "TheEditMethod", "d5/d7f/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_method.html", "d5/d7f/class_nu_get_gallery_1_1_packages_controller_facts_1_1_the_edit_method" ]
-    ] ],
-    [ "PackageSearchResults.cs", "d4/dff/_package_search_results_8cs.html", [
-      [ "PackageSearchResults", "d2/d8d/class_nu_get_gallery_1_1_package_search_results.html", "d2/d8d/class_nu_get_gallery_1_1_package_search_results" ]
-    ] ],
-    [ "PackageSecurityPolicyEvaluationContext.cs", "dc/d10/_package_security_policy_evaluation_context_8cs.html", [
-      [ "PackageSecurityPolicyEvaluationContext", "dd/d07/class_nu_get_gallery_1_1_security_1_1_package_security_policy_evaluation_context.html", "dd/d07/class_nu_get_gallery_1_1_security_1_1_package_security_policy_evaluation_context" ]
-    ] ],
-    [ "PackageSecurityPolicyHandler.cs", "df/db5/_package_security_policy_handler_8cs.html", [
-      [ "PackageSecurityPolicyHandler", "d3/d1e/class_nu_get_gallery_1_1_security_1_1_package_security_policy_handler.html", "d3/d1e/class_nu_get_gallery_1_1_security_1_1_package_security_policy_handler" ]
-    ] ],
-    [ "PackageService.cs", "dc/db3/_package_service_8cs.html", [
-      [ "PackageService", "de/d5c/class_nu_get_gallery_1_1_package_service.html", "de/d5c/class_nu_get_gallery_1_1_package_service" ]
-    ] ],
-    [ "PackageServiceFacts.cs", "da/df0/_package_service_facts_8cs.html", [
-      [ "PackageServiceFacts", "dd/d6c/class_nu_get_gallery_1_1_package_service_facts.html", "dd/d6c/class_nu_get_gallery_1_1_package_service_facts" ],
-      [ "TheFindPackageBySuffixMethod", "d0/d32/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_suffix_method.html", "d0/d32/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_suffix_method" ],
-      [ "TheAddPackageOwnerMethod", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method.html", "d6/d5e/class_nu_get_gallery_1_1_package_service_facts_1_1_the_add_package_owner_method" ],
-      [ "TheCreatePackageMethod", "d4/dc9/class_nu_get_gallery_1_1_package_service_facts_1_1_the_create_package_method.html", "d4/dc9/class_nu_get_gallery_1_1_package_service_facts_1_1_the_create_package_method" ],
-      [ "TheFilterExactPackageMethod", "db/d84/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_exact_package_method.html", "db/d84/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_exact_package_method" ],
-      [ "TheFilterLatestPackageMethod", "db/dac/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_latest_package_method.html", "db/dac/class_nu_get_gallery_1_1_package_service_facts_1_1_the_filter_latest_package_method" ],
-      [ "TheFindPackageByIdAndVersionMethod", "dd/d11/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_id_and_version_method.html", "dd/d11/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_package_by_id_and_version_method" ],
-      [ "TheFindPackagesByOwnerMethod", "d8/dcf/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owner_method.html", "d8/dcf/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owner_method" ],
-      [ "TheFindPackagesByAnyMatchingOwnerMethod", "de/d30/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_any_matching_owner_method.html", "de/d30/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_any_matching_owner_method" ],
-      [ "TheFindPackagesByOwnersMethodsBase", "d1/dcc/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base.html", "d1/dcc/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base" ],
-      [ "TestUserRoles", "df/d66/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base_1_1_test_user_roles.html", "df/d66/class_nu_get_gallery_1_1_package_service_facts_1_1_the_find_packages_by_owners_methods_base_1_1_test_user_roles" ],
-      [ "ThePublishPackageMethod", "d8/d7a/class_nu_get_gallery_1_1_package_service_facts_1_1_the_publish_package_method.html", "d8/d7a/class_nu_get_gallery_1_1_package_service_facts_1_1_the_publish_package_method" ],
-      [ "TheEnsureValidMethod", "de/dda/class_nu_get_gallery_1_1_package_service_facts_1_1_the_ensure_valid_method.html", "de/dda/class_nu_get_gallery_1_1_package_service_facts_1_1_the_ensure_valid_method" ],
-      [ "TheRemovePackageOwnerMethod", "d5/dec/class_nu_get_gallery_1_1_package_service_facts_1_1_the_remove_package_owner_method.html", "d5/dec/class_nu_get_gallery_1_1_package_service_facts_1_1_the_remove_package_owner_method" ],
-      [ "TheWillOrphanPackageIfOwnerRemovedMethod", "de/df5/class_nu_get_gallery_1_1_package_service_facts_1_1_the_will_orphan_package_if_owner_removed_method.html", "de/df5/class_nu_get_gallery_1_1_package_service_facts_1_1_the_will_orphan_package_if_owner_removed_method" ],
-      [ "TheGetPackageDependentsMethod", "d3/df3/class_nu_get_gallery_1_1_package_service_facts_1_1_the_get_package_dependents_method.html", "d3/df3/class_nu_get_gallery_1_1_package_service_facts_1_1_the_get_package_dependents_method" ],
-      [ "TheSetLicenseReportVisibilityMethod", "d9/db6/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_license_report_visibility_method.html", "d9/db6/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_license_report_visibility_method" ],
-      [ "TheSetRequiredSignerAsyncMethodOneParameter", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter" ],
-      [ "TheSetRequiredSignerAsyncMethodTwoParameters", "df/dc4/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_two_parameters.html", "df/dc4/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_two_parameters" ],
-      [ "TheEnrichPackageFromNuGetPackageMethod", "dc/d80/class_nu_get_gallery_1_1_package_service_facts_1_1_the_enrich_package_from_nu_get_package_method.html", "dc/d80/class_nu_get_gallery_1_1_package_service_facts_1_1_the_enrich_package_from_nu_get_package_method" ]
-    ] ],
-    [ "PackageServiceUtility.cs", "d6/d0a/_package_service_utility_8cs.html", "d6/d0a/_package_service_utility_8cs" ],
     [ "PackagesHelper.cs", "d0/d72/_packages_helper_8cs.html", null ],
-    [ "PackageShouldNotBeSignedUserFixableValidationMessage.cs", "da/d36/_package_should_not_be_signed_user_fixable_validation_message_8cs.html", [
-      [ "PackageShouldNotBeSignedUserFixableValidationMessage", "d2/d79/class_nu_get_gallery_1_1_package_should_not_be_signed_user_fixable_validation_message.html", "d2/d79/class_nu_get_gallery_1_1_package_should_not_be_signed_user_fixable_validation_message" ]
-    ] ],
-    [ "PackagesPageTest.cs", "d1/de5/_packages_page_test_8cs.html", [
-      [ "PackagesPageTest", "d1/d65/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_packages_page_test.html", "d1/d65/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_packages_page_test" ]
-    ] ],
-    [ "PackageStatisticsTests.cs", "d2/d27/_package_statistics_tests_8cs.html", [
-      [ "PackageStatisticsTests", "d4/dc7/class_nu_get_gallery_1_1_functional_tests_1_1_statistics_1_1_package_statistics_tests.html", "d4/dc7/class_nu_get_gallery_1_1_functional_tests_1_1_statistics_1_1_package_statistics_tests" ]
-    ] ],
-    [ "PackageStatus.cs", "de/df2/_package_status_8cs.html", "de/df2/_package_status_8cs" ],
-    [ "PackageStatusFacts.cs", "df/dee/_package_status_facts_8cs.html", [
-      [ "PackageStatusFacts", "d7/d79/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_status_facts.html", "d7/d79/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_package_status_facts" ]
-    ] ],
-    [ "PackageStatusSummary.cs", "d0/d72/_package_status_summary_8cs.html", "d0/d72/_package_status_summary_8cs" ],
-    [ "PackageStreamMetadata.cs", "dc/d2a/_package_stream_metadata_8cs.html", [
-      [ "PackageStreamMetadata", "d0/d53/class_nu_get_gallery_1_1_packaging_1_1_package_stream_metadata.html", "d0/d53/class_nu_get_gallery_1_1_packaging_1_1_package_stream_metadata" ]
-    ] ],
     [ "FenixAlliance.ABM/FenixAlliance.ABM.Models.UBL/src/PackageType.cs", "dd/df7/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_models_8_u_b_l_2src_2_package_type_8cs.html", [
       [ "PackageType", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_package_type.html", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_package_type" ]
     ] ],
     [ "FenixAlliance.ABP/FenixAlliance.ABP.Hub/Plugins/Specifications/Metadata/PackageType.cs", "d6/d60/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_hub_2_plugins_2_specifications_2_metadata_2_package_type_8cs.html", [
       [ "PackageType", "d9/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_type.html", "d9/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_type" ]
     ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGet.Services.Entities/PackageType.cs", "dd/dc9/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_8_services_8_entities_2_package_type_8cs.html", [
-      [ "PackageType", "d1/d21/class_nu_get_1_1_services_1_1_entities_1_1_package_type.html", "d1/d21/class_nu_get_1_1_services_1_1_entities_1_1_package_type" ]
-    ] ],
     [ "PackageTypes.cs", "d7/ded/_package_types_8cs.html", [
       [ "PackageTypes", "df/d84/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_types.html", "df/d84/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_types" ]
     ] ],
-    [ "PackageUpdateService.cs", "df/d1e/_package_update_service_8cs.html", [
-      [ "PackageUpdateService", "d7/d2b/class_nu_get_gallery_1_1_package_update_service.html", "d7/d2b/class_nu_get_gallery_1_1_package_update_service" ]
-    ] ],
-    [ "PackageUpdateServiceFacts.cs", "de/d64/_package_update_service_facts_8cs.html", [
-      [ "PackageUpdateServiceFacts", "d1/df8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts.html", "d1/df8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts" ],
-      [ "TheMarkPackageListedMethod", "d4/d7a/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_listed_method.html", "d4/d7a/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_listed_method" ],
-      [ "TheMarkPackageUnlistedMethod", "d2/db8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_unlisted_method.html", "d2/db8/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_mark_package_unlisted_method" ],
-      [ "TheUpdatePackagesAsyncMethod", "d8/ddc/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_update_packages_async_method.html", "d8/ddc/class_nu_get_gallery_1_1_services_1_1_package_update_service_facts_1_1_the_update_packages_async_method" ]
-    ] ],
-    [ "PackageUploadService.cs", "d7/d7c/_package_upload_service_8cs.html", [
-      [ "PackageUploadService", "d3/df5/class_nu_get_gallery_1_1_package_upload_service.html", "d3/df5/class_nu_get_gallery_1_1_package_upload_service" ]
-    ] ],
-    [ "PackageUploadServiceFacts.cs", "d4/d65/_package_upload_service_facts_8cs.html", [
-      [ "PackageUploadServiceFacts", "dc/d03/class_nu_get_gallery_1_1_package_upload_service_facts.html", "dc/d03/class_nu_get_gallery_1_1_package_upload_service_facts" ],
-      [ "TheGeneratePackageAsyncMethod", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method.html", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method" ],
-      [ "TheCommitPackageMethod", "d8/df1/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_commit_package_method.html", "d8/df1/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_commit_package_method" ],
-      [ "FactsBase", "d1/dd3/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_facts_base.html", "d1/dd3/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "PackageValidationFailedMessage.cs", "d5/d48/_package_validation_failed_message_8cs.html", [
-      [ "PackageValidationFailedMessage", "d4/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message.html", "d4/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message" ]
-    ] ],
-    [ "PackageValidationFailedMessageFacts.cs", "df/d4b/_package_validation_failed_message_facts_8cs.html", [
-      [ "PackageValidationFailedMessageFacts", "d5/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts.html", "d5/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts" ],
-      [ "TheConstructor", "db/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts_1_1_the_constructor.html", "db/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d1/d04/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messd11ab422f814485d9460a55b422499b0.html", "d1/d04/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messd11ab422f814485d9460a55b422499b0" ],
-      [ "TheGetBodyMethod", "d6/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messffe126da4b5212263962a0d3b25f4170.html", "d6/dec/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_failed_messffe126da4b5212263962a0d3b25f4170" ]
-    ] ],
-    [ "PackageValidationResult.cs", "d9/d1d/_package_validation_result_8cs.html", [
-      [ "PackageValidationResult", "df/d58/class_nu_get_gallery_1_1_package_validation_result.html", "df/d58/class_nu_get_gallery_1_1_package_validation_result" ]
-    ] ],
-    [ "PackageValidationResultType.cs", "d8/d17/_package_validation_result_type_8cs.html", "d8/d17/_package_validation_result_type_8cs" ],
-    [ "PackageValidationSetExtensions.cs", "de/da4/_package_validation_set_extensions_8cs.html", null ],
-    [ "PackageValidationTakingTooLongMessage.cs", "de/dbf/_package_validation_taking_too_long_message_8cs.html", [
-      [ "PackageValidationTakingTooLongMessage", "d7/d9a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message.html", "d7/d9a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message" ]
-    ] ],
-    [ "PackageValidationTakingTooLongMessageFacts.cs", "d3/d51/_package_validation_taking_too_long_message_facts_8cs.html", [
-      [ "PackageValidationTakingTooLongMessageFacts", "d3/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message_facts.html", "d3/d3b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_long_message_facts" ],
-      [ "TheConstructor", "d4/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_2e59ab69061aecf94110d2c63864c172.html", "d4/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_2e59ab69061aecf94110d2c63864c172" ],
-      [ "TheGetRecipientsMethod", "db/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_a6be8f727bbdfa53178c1a80a3792c1d.html", "db/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_a6be8f727bbdfa53178c1a80a3792c1d" ],
-      [ "TheGetBodyMethod", "dc/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_72324709a6e398c1a088b4bc45594c86.html", "dc/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_72324709a6e398c1a088b4bc45594c86" ]
-    ] ],
-    [ "PackageViewModel.cs", "d1/d24/_package_view_model_8cs.html", [
-      [ "PackageViewModel", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html", "dd/d20/class_nu_get_gallery_1_1_package_view_model" ]
-    ] ],
-    [ "PackageViewModelFactory.cs", "d6/dd5/_package_view_model_factory_8cs.html", [
-      [ "PackageViewModelFactory", "df/dd3/class_nu_get_gallery_1_1_package_view_model_factory.html", "df/dd3/class_nu_get_gallery_1_1_package_view_model_factory" ]
-    ] ],
-    [ "PackageViewModelFacts.cs", "d5/dad/_package_view_model_facts_8cs.html", [
-      [ "PackageViewModelFacts", "de/dab/class_nu_get_gallery_1_1_view_models_1_1_package_view_model_facts.html", "de/dab/class_nu_get_gallery_1_1_view_models_1_1_package_view_model_facts" ]
-    ] ],
-    [ "PackageVulnerabilitiesManagementService.cs", "d2/d0d/_package_vulnerabilities_management_service_8cs.html", [
-      [ "PackageVulnerabilitiesManagementService", "d1/d90/class_nu_get_gallery_1_1_package_vulnerabilities_management_service.html", "d1/d90/class_nu_get_gallery_1_1_package_vulnerabilities_management_service" ]
-    ] ],
-    [ "PackageVulnerabilitiesManagementServiceFacts.cs", "d8/dc4/_package_vulnerabilities_management_service_facts_8cs.html", [
-      [ "PackageVulnerabilitiesManagementServiceFacts", "d2/d7a/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts.html", [
-        [ "MethodFacts", "d9/d29/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_method_facts.html", "d9/d29/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_method_facts" ],
-        [ "TheApplyExistingVulnerabilitiesToPackageMethod", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b.html", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b" ],
-        [ "TheUpdateVulnerabilityMethod", "dc/db2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_update_vulnerability_method.html", "dc/db2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_update_vulnerability_method" ]
-      ] ],
-      [ "TheApplyExistingVulnerabilitiesToPackageMethod", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b.html", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b" ],
-      [ "TheUpdateVulnerabilityMethod", "dc/db2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_update_vulnerability_method.html", "dc/db2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_update_vulnerability_method" ],
-      [ "MethodFacts", "d9/d29/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_method_facts.html", "d9/d29/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_method_facts" ]
-    ] ],
-    [ "PackageVulnerabilitiesService.cs", "d8/d57/_package_vulnerabilities_service_8cs.html", [
-      [ "PackageVulnerabilitiesService", "d9/daf/class_nu_get_gallery_1_1_package_vulnerabilities_service.html", "d9/daf/class_nu_get_gallery_1_1_package_vulnerabilities_service" ]
-    ] ],
-    [ "PackageVulnerabilitiesServiceFacts.cs", "d1/d92/_package_vulnerabilities_service_facts_8cs.html", [
-      [ "PackageVulnerabilitiesServiceFacts", "d7/dc2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_service_facts.html", "d7/dc2/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_service_facts" ]
-    ] ],
-    [ "PackageVulnerabilitiesVerifier.cs", "d8/ddd/_package_vulnerabilities_verifier_8cs.html", [
-      [ "PackageVulnerabilitiesVerifier", "d9/d65/class_verify_git_hub_vulnerabilities_1_1_verify_1_1_package_vulnerabilities_verifier.html", "d9/d65/class_verify_git_hub_vulnerabilities_1_1_verify_1_1_package_vulnerabilities_verifier" ]
-    ] ],
-    [ "PackageVulnerability.cs", "dd/d21/_package_vulnerability_8cs.html", [
-      [ "PackageVulnerability", "d8/d35/class_nu_get_1_1_services_1_1_entities_1_1_package_vulnerability.html", "d8/d35/class_nu_get_1_1_services_1_1_entities_1_1_package_vulnerability" ]
-    ] ],
-    [ "PackageVulnerabilitySeverity.cs", "df/d66/_package_vulnerability_severity_8cs.html", "df/d66/_package_vulnerability_severity_8cs" ],
     [ "PackagingTypeCodeType.cs", "d7/d30/_packaging_type_code_type_8cs.html", [
       [ "PackagingTypeCodeType", "d9/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_packaging_type_code_type.html", null ]
     ] ],
@@ -10250,15 +5912,6 @@ var files_dup =
     ] ],
     [ "PageNotification.cs", "db/da3/_page_notification_8cs.html", [
       [ "PageNotification", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification.html", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification" ]
-    ] ],
-    [ "PagesController.cs", "d7/db0/_pages_controller_8cs.html", [
-      [ "PagesController", "d9/d6a/class_nu_get_gallery_1_1_pages_controller.html", "d9/d6a/class_nu_get_gallery_1_1_pages_controller" ]
-    ] ],
-    [ "PagesControllerFacts.cs", "d3/d36/_pages_controller_facts_8cs.html", [
-      [ "PagesControllerFacts", "d0/dd8/class_nu_get_gallery_1_1_pages_controller_facts.html", [
-        [ "TheContactAction", "d1/d9f/class_nu_get_gallery_1_1_pages_controller_facts_1_1_the_contact_action.html", "d1/d9f/class_nu_get_gallery_1_1_pages_controller_facts_1_1_the_contact_action" ]
-      ] ],
-      [ "TheContactAction", "d1/d9f/class_nu_get_gallery_1_1_pages_controller_facts_1_1_the_contact_action.html", "d1/d9f/class_nu_get_gallery_1_1_pages_controller_facts_1_1_the_contact_action" ]
     ] ],
     [ "PageTitleBar.cs", "d6/d1f/_page_title_bar_8cs.html", "d6/d1f/_page_title_bar_8cs" ],
     [ "PageTitleBarContent.cs", "d5/d71/_page_title_bar_content_8cs.html", "d5/d71/_page_title_bar_content_8cs" ],
@@ -10338,27 +5991,8 @@ var files_dup =
     [ "PassengerQuantityType.cs", "da/dfc/_passenger_quantity_type_8cs.html", [
       [ "PassengerQuantityType", "dd/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_passenger_quantity_type.html", null ]
     ] ],
-    [ "PasswordAuthenticationResult.cs", "d0/d35/_password_authentication_result_8cs.html", [
-      [ "PasswordAuthenticationResult", "de/dd8/class_nu_get_gallery_1_1_authentication_1_1_password_authentication_result.html", "de/dd8/class_nu_get_gallery_1_1_authentication_1_1_password_authentication_result" ]
-    ] ],
-    [ "PasswordResetInstructionsMessage.cs", "dc/db8/_password_reset_instructions_message_8cs.html", [
-      [ "PasswordResetInstructionsMessage", "db/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_password_reset_instructions_message.html", "db/d94/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_password_reset_instructions_message" ]
-    ] ],
-    [ "PasswordResetRequestViewModel.cs", "db/dca/_password_reset_request_view_model_8cs.html", [
-      [ "ForgotPasswordViewModel", "dd/d8f/class_nu_get_gallery_1_1_forgot_password_view_model.html", "dd/d8f/class_nu_get_gallery_1_1_forgot_password_view_model" ]
-    ] ],
-    [ "PasswordResetResult.cs", "db/ddf/_password_reset_result_8cs.html", "db/ddf/_password_reset_result_8cs" ],
-    [ "PasswordResetViewModel.cs", "d5/d8c/_password_reset_view_model_8cs.html", [
-      [ "PasswordResetViewModel", "d3/d4f/class_nu_get_gallery_1_1_password_reset_view_model.html", "d3/d4f/class_nu_get_gallery_1_1_password_reset_view_model" ]
-    ] ],
     [ "PasswordType.cs", "df/d3a/_password_type_8cs.html", [
       [ "PasswordType", "d7/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_password_type.html", null ]
-    ] ],
-    [ "PasswordValidationAttribute.cs", "d5/da9/_password_validation_attribute_8cs.html", [
-      [ "PasswordValidationAttribute", "de/d6a/class_nu_get_gallery_1_1_infrastructure_1_1_password_validation_attribute.html", "de/d6a/class_nu_get_gallery_1_1_infrastructure_1_1_password_validation_attribute" ]
-    ] ],
-    [ "PasswordValidationRegexTests.cs", "d2/d48/_password_validation_regex_tests_8cs.html", [
-      [ "PasswordValidationRegexTests", "d2/dd2/class_nu_get_gallery_1_1_password_validation_regex_tests.html", "d2/dd2/class_nu_get_gallery_1_1_password_validation_regex_tests" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Contacts/Profiles/Types/PatientProfile.cs", "d2/d59/_fenix_alliance_8_a_b_m_8_models_2_contacts_2_profiles_2_types_2_patient_profile_8cs.html", [
       [ "PatientProfile", "d0/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_patient_profile.html", null ]
@@ -10503,20 +6137,11 @@ var files_dup =
     [ "PenaltySurchargePercentType.cs", "d2/d4b/_penalty_surcharge_percent_type_8cs.html", [
       [ "PenaltySurchargePercentType", "d2/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_penalty_surcharge_percent_type.html", null ]
     ] ],
-    [ "PendingMigrationsFacts.cs", "d2/d35/_pending_migrations_facts_8cs.html", [
-      [ "PendingMigrationsFacts", "dc/db7/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_pending_migrations_facts.html", "dc/db7/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_pending_migrations_facts" ]
-    ] ],
-    [ "PendingOrganizationMigrationRequestViewModel.cs", "df/d0f/_pending_organization_migration_request_view_model_8cs.html", [
-      [ "PendingOrganizationMigrationRequestViewModel", "da/de1/class_nu_get_gallery_1_1_pending_organization_migration_request_view_model.html", "da/de1/class_nu_get_gallery_1_1_pending_organization_migration_request_view_model" ]
-    ] ],
     [ "PercentType.cs", "d4/d9f/_percent_type_8cs.html", [
       [ "PercentType", "d2/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_percent_type.html", null ]
     ] ],
     [ "PercentType1.cs", "d3/d70/_percent_type1_8cs.html", [
       [ "PercentType1", "da/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_percent_type1.html", null ]
-    ] ],
-    [ "PerFieldAnalyzer.cs", "d9/dd5/_per_field_analyzer_8cs.html", [
-      [ "PerFieldAnalyzer", "db/d5e/class_nu_get_gallery_1_1_per_field_analyzer.html", "db/d5e/class_nu_get_gallery_1_1_per_field_analyzer" ]
     ] ],
     [ "PerformanceDataLineType.cs", "db/db9/_performance_data_line_type_8cs.html", [
       [ "PerformanceDataLineType", "d9/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_performance_data_line_type.html", "d9/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_performance_data_line_type" ]
@@ -10541,15 +6166,6 @@ var files_dup =
     [ "PeriodType.cs", "d2/d37/_period_type_8cs.html", [
       [ "PeriodType", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_period_type.html", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_period_type" ]
     ] ],
-    [ "PermissionsCheckResult.cs", "d4/d2a/_permissions_check_result_8cs.html", "d4/d2a/_permissions_check_result_8cs" ],
-    [ "PermissionsHelpers.cs", "d0/d47/_permissions_helpers_8cs.html", null ],
-    [ "PermissionsHelpersFacts.cs", "d7/dc6/_permissions_helpers_facts_8cs.html", [
-      [ "PermissionsHelpersFacts", "da/d90/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts.html", [
-        [ "TheIsRequirementSatisfiedMethod", "dd/d5c/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts_1_1_the_is_requirement_satisfied_method.html", "dd/d5c/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts_1_1_the_is_requirement_satisfied_method" ]
-      ] ],
-      [ "TheIsRequirementSatisfiedMethod", "dd/d5c/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts_1_1_the_is_requirement_satisfied_method.html", "dd/d5c/class_nu_get_gallery_1_1_services_1_1_permissions_helpers_facts_1_1_the_is_requirement_satisfied_method" ]
-    ] ],
-    [ "PermissionsRequirement.cs", "db/d70/_permissions_requirement_8cs.html", "db/d70/_permissions_requirement_8cs" ],
     [ "PersonalSituationType.cs", "d9/dec/_personal_situation_type_8cs.html", [
       [ "PersonalSituationType", "d7/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_personal_situation_type.html", null ]
     ] ],
@@ -10588,12 +6204,6 @@ var files_dup =
     ] ],
     [ "PlacardNotationType.cs", "d3/d6a/_placard_notation_type_8cs.html", [
       [ "PlacardNotationType", "d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_placard_notation_type.html", null ]
-    ] ],
-    [ "PlainTextOnlyValidationMessage.cs", "db/dd4/_plain_text_only_validation_message_8cs.html", [
-      [ "PlainTextOnlyValidationMessage", "d1/dc5/class_nu_get_gallery_1_1_plain_text_only_validation_message.html", "d1/dc5/class_nu_get_gallery_1_1_plain_text_only_validation_message" ]
-    ] ],
-    [ "PlainTextResult.cs", "d7/d09/_plain_text_result_8cs.html", [
-      [ "PlainTextResult", "d2/de5/class_nu_get_gallery_1_1_web_api_1_1_plain_text_result.html", "d2/de5/class_nu_get_gallery_1_1_web_api_1_1_plain_text_result" ]
     ] ],
     [ "PlannedDateType.cs", "d8/d37/_planned_date_type_8cs.html", [
       [ "PlannedDateType", "d5/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_planned_date_type.html", null ]
@@ -10634,9 +6244,6 @@ var files_dup =
     [ "FenixAlliance.ABM.Models/Global/Policies/Policy.cs", "dc/d09/_fenix_alliance_8_a_b_m_8_models_2_global_2_policies_2_policy_8cs.html", "dc/d09/_fenix_alliance_8_a_b_m_8_models_2_global_2_policies_2_policy_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Global/Policies/Policy.cs", "d5/d14/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_global_2_policies_2_policy_8cs.html", [
       [ "Policy", "d3/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_policies_1_1_policy.html", null ]
-    ] ],
-    [ "PolicyFacts.cs", "d5/d49/_policy_facts_8cs.html", [
-      [ "PolicyFacts", "dd/df8/class_nu_get_gallery_1_1_policy_facts.html", "dd/df8/class_nu_get_gallery_1_1_policy_facts" ]
     ] ],
     [ "Poll.cs", "db/daf/_poll_8cs.html", [
       [ "Poll", "de/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_polls_1_1_poll.html", "de/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_polls_1_1_poll" ]
@@ -10731,12 +6338,6 @@ var files_dup =
     [ "PreviousMeterReadingMethodType.cs", "d4/db6/_previous_meter_reading_method_type_8cs.html", [
       [ "PreviousMeterReadingMethodType", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_previous_meter_reading_method_type.html", null ]
     ] ],
-    [ "PreviousNextPagerViewModel.cs", "d8/d88/_previous_next_pager_view_model_8cs.html", [
-      [ "PreviousNextPagerViewModel", "d8/dc6/class_nu_get_gallery_1_1_previous_next_pager_view_model.html", "d8/dc6/class_nu_get_gallery_1_1_previous_next_pager_view_model" ]
-    ] ],
-    [ "PreviousNextPagerViewModelFacts.cs", "dd/d8f/_previous_next_pager_view_model_facts_8cs.html", [
-      [ "PreviousNextPagerViewModelFacts", "d1/d04/class_nu_get_gallery_1_1_view_models_1_1_previous_next_pager_view_model_facts.html", "d1/d04/class_nu_get_gallery_1_1_view_models_1_1_previous_next_pager_view_model_facts" ]
-    ] ],
     [ "PreviousVersionIDType.cs", "d1/d27/_previous_version_i_d_type_8cs.html", [
       [ "PreviousVersionIDType", "da/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_previous_version_i_d_type.html", null ]
     ] ],
@@ -10805,16 +6406,11 @@ var files_dup =
     [ "PrimaryAccountNumberIDType.cs", "da/d50/_primary_account_number_i_d_type_8cs.html", [
       [ "PrimaryAccountNumberIDType", "d2/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_primary_account_number_i_d_type.html", null ]
     ] ],
-    [ "PrincipalExtensions.cs", "df/d86/_principal_extensions_8cs.html", null ],
-    [ "PrincipalExtensionsFacts.cs", "da/dfd/_principal_extensions_facts_8cs.html", "da/dfd/_principal_extensions_facts_8cs" ],
     [ "PrintQualifierType.cs", "d6/d97/_print_qualifier_type_8cs.html", [
       [ "PrintQualifierType", "d4/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_print_qualifier_type.html", null ]
     ] ],
     [ "PriorInformationNoticeType.cs", "d8/d82/_prior_information_notice_type_8cs.html", [
       [ "PriorInformationNoticeType", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type" ]
-    ] ],
-    [ "PriorityAttribute.cs", "d6/da2/_priority_attribute_8cs.html", [
-      [ "PriorityAttribute", "de/d05/class_nu_get_gallery_1_1_functional_tests_1_1_priority_attribute.html", "de/d05/class_nu_get_gallery_1_1_functional_tests_1_1_priority_attribute" ]
     ] ],
     [ "PriorityType.cs", "d8/dcb/_priority_type_8cs.html", [
       [ "PriorityType", "d3/d68/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_priority_type.html", null ]
@@ -10968,9 +6564,6 @@ var files_dup =
     [ "ProfileStatusCodeType.cs", "d0/d9b/_profile_status_code_type_8cs.html", [
       [ "ProfileStatusCodeType", "de/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_profile_status_code_type.html", null ]
     ] ],
-    [ "ProfileTests.cs", "d0/de7/_profile_tests_8cs.html", [
-      [ "ProfileTests", "db/d65/class_nu_get_gallery_1_1_functional_tests_1_1_profile_tests.html", "db/d65/class_nu_get_gallery_1_1_functional_tests_1_1_profile_tests" ]
-    ] ],
     [ "FenixAlliance.ABP/FenixAlliance.ABP.API.GraphQl/FenixAlliance.ABP.API.GraphQl.Web/Program.cs", "d0/d27/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_a_p_i_8_graph_ql_2_fenix_alliance_8_a_b_p_8_a5356a72e3d0f45a98d74e1b084a75995.html", null ],
     [ "FenixAlliance.ABP/FenixAlliance.ABP.API.gRPC/Program.cs", "d4/d5f/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_a_p_i_8g_r_p_c_2_program_8cs.html", [
       [ "Program", "d6/deb/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_program.html", null ]
@@ -10985,40 +6578,10 @@ var files_dup =
     [ "FenixAlliance.ABP/FenixAlliance.ABP.Web/Program.cs", "da/d88/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_web_2_program_8cs.html", [
       [ "Program", "d6/d85/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_program.html", null ]
     ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.MAUI/FenixAlliance.ABS.MAUI/Platforms/iOS/Program.cs", "da/dd3/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_platforms_2i_o_s_2_program_8cs.html", [
-      [ "Program", "dc/dbd/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.MAUI/FenixAlliance.ABS.MAUI/Platforms/MacCatalyst/Program.cs", "dd/d98/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_037699549e6ac91d012a7a9de96bf294.html", [
-      [ "Program", "dc/dbd/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/AccountDeleter/Program.cs", "d1/d0f/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_account_deleter_2_program_8cs.html", [
-      [ "Program", "d2/d1d/class_nu_get_gallery_1_1_account_deleter_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/DatabaseMigrationTools/Program.cs", "da/d4f/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_database_migration_tools_2_program_8cs.html", [
-      [ "Program", "dc/d7f/class_nu_get_gallery_1_1_database_migration_tools_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/GalleryTools/Program.cs", "db/d21/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_gallery_tools_2_program_8cs.html", [
-      [ "Program", "d3/d50/class_gallery_tools_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/GitHubVulnerabilities2Db/Program.cs", "d9/d8c/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_git_hub_vulnerabilities2_db_2_program_8cs.html", [
-      [ "Program", "d9/dbf/class_git_hub_vulnerabilities2_db_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/VerifyGitHubVulnerabilities/Program.cs", "d3/d18/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_verify_git_hub_vulnerabilities_2_program_8cs.html", [
-      [ "Program", "d9/da1/class_verify_git_hub_vulnerabilities_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/VerifyMicrosoftPackage/Program.cs", "d7/da0/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_verify_microsoft_package_2_program_8cs.html", [
-      [ "Program", "d1/d0a/class_nu_get_1_1_verify_microsoft_package_1_1_program.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/tools/AzureSqlConnectionTest/Program.cs", "d7/d8a/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2tools_2_azure_sql_connection_test_2_program_8cs.html", [
-      [ "Program", "db/df2/class_azure_sql_connection_test_1_1_program.html", null ]
-    ] ],
     [ "FenixAlliance.ABS/FenixAlliance.ABS.Portal/FenixAlliance.ABS.Portal/Program.cs", "d3/d1c/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_portal_2_fenix_alliance_8_a_b_s_8_portal_2_program_8cs.html", [
       [ "Program", "d3/db0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_program.html", null ]
     ] ],
     [ "FenixAlliance.ABS/FenixAlliance.ABS.Studio.Web/Program.cs", "d3/de0/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_studio_8_web_2_program_8cs.html", null ],
-    [ "ProgramFacts.cs", "dd/d5f/_program_facts_8cs.html", [
-      [ "ProgramFacts", "da/da3/class_nu_get_1_1_verify_microsoft_package_1_1_facts_1_1_program_facts.html", "da/da3/class_nu_get_1_1_verify_microsoft_package_1_1_facts_1_1_program_facts" ]
-    ] ],
     [ "ProgressPercentType.cs", "de/de5/_progress_percent_type_8cs.html", [
       [ "ProgressPercentType", "d9/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_progress_percent_type.html", null ]
     ] ],
@@ -11246,40 +6809,8 @@ var files_dup =
     [ "QuantityType2.cs", "d3/ddf/_quantity_type2_8cs.html", [
       [ "QuantityType2", "da/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quantity_type2.html", null ]
     ] ],
-    [ "QueryHintConfiguration.cs", "d8/d6f/_query_hint_configuration_8cs.html", [
-      [ "QueryHintConfiguration", "d1/db5/class_nu_get_gallery_1_1_services_1_1_query_hint_configuration.html", "d1/db5/class_nu_get_gallery_1_1_services_1_1_query_hint_configuration" ]
-    ] ],
-    [ "QueryHintInterceptor.cs", "d9/d89/_query_hint_interceptor_8cs.html", [
-      [ "QueryHintInterceptor", "d4/d91/class_nu_get_gallery_1_1_query_hint_interceptor.html", "d4/d91/class_nu_get_gallery_1_1_query_hint_interceptor" ]
-    ] ],
-    [ "QueryResponse.cs", "da/d51/_query_response_8cs.html", [
-      [ "QueryResponse", "df/d23/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response.html", "df/d23/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response" ],
-      [ "QueryResponseData", "d5/de8/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response_data.html", "d5/de8/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_response_data" ],
-      [ "ConnectionResponseData", "de/dfd/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_connection_response_data.html", "de/dfd/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_connection_response_data" ]
-    ] ],
-    [ "QueryResult.cs", "dd/d99/_query_result_8cs.html", [
-      [ "QueryResult", "d5/db8/class_nu_get_gallery_1_1_web_api_1_1_query_result.html", "d5/db8/class_nu_get_gallery_1_1_web_api_1_1_query_result" ]
-    ] ],
-    [ "QueryResultDefaults.cs", "d1/d5f/_query_result_defaults_8cs.html", null ],
-    [ "QueryResultExtensions.cs", "d3/dce/_query_result_extensions_8cs.html", null ],
-    [ "GitHubVulnerabilities2Db/GraphQL/QueryService.cs", "dc/ddb/_git_hub_vulnerabilities2_db_2_graph_q_l_2_query_service_8cs.html", [
-      [ "QueryService", "d6/d7f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_service.html", "d6/d7f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_query_service" ]
-    ] ],
-    [ "VerifyGitHubVulnerabilities/GraphQL/QueryService.cs", "d1/d18/_verify_git_hub_vulnerabilities_2_graph_q_l_2_query_service_8cs.html", [
-      [ "QueryService", "dd/df8/class_verify_git_hub_vulnerabilities_1_1_graph_q_l_1_1_query_service.html", "dd/df8/class_verify_git_hub_vulnerabilities_1_1_graph_q_l_1_1_query_service" ]
-    ] ],
-    [ "QueryServiceFacts.cs", "db/dbe/_query_service_facts_8cs.html", [
-      [ "QueryServiceFacts", "d0/d9d/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_query_service_facts.html", "d0/d9d/class_git_hub_vulnerabilities2_db_1_1_facts_1_1_query_service_facts" ]
-    ] ],
     [ "Question.cs", "de/dfe/_question_8cs.html", [
       [ "Question", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_question.html", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_question" ]
-    ] ],
-    [ "QuietExceptionLogger.cs", "d1/d4d/_quiet_exception_logger_8cs.html", [
-      [ "QuietExceptionLogger", "d5/dcd/class_nu_get_gallery_1_1_quiet_exception_logger.html", "d5/dcd/class_nu_get_gallery_1_1_quiet_exception_logger" ]
-    ] ],
-    [ "QuietLog.cs", "d1/dc0/_quiet_log_8cs.html", null ],
-    [ "QuietLogFacts.cs", "dc/d97/_quiet_log_facts_8cs.html", [
-      [ "QuietLogFacts", "d9/db1/class_nu_get_gallery_1_1_telemetry_1_1_quiet_log_facts.html", "d9/db1/class_nu_get_gallery_1_1_telemetry_1_1_quiet_log_facts" ]
     ] ],
     [ "QuotationLineType.cs", "dc/d06/_quotation_line_type_8cs.html", [
       [ "QuotationLineType", "d0/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_line_type.html", "d0/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_line_type" ]
@@ -11323,27 +6854,6 @@ var files_dup =
     ] ],
     [ "RazorPagesOptions.cs", "dc/d34/_razor_pages_options_8cs.html", [
       [ "RazorPagesOptions", "d6/d7e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_v_m_1_1_razor_pages_options.html", "d6/d7e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_v_m_1_1_razor_pages_options" ]
-    ] ],
-    [ "ReadMeRequest.cs", "da/dd0/_read_me_request_8cs.html", [
-      [ "ReadMeRequest", "d8/dfe/class_nu_get_gallery_1_1_read_me_request.html", "d8/dfe/class_nu_get_gallery_1_1_read_me_request" ]
-    ] ],
-    [ "ReadMeService.cs", "d2/dac/_read_me_service_8cs.html", null ],
-    [ "ReadMeServiceFacts.cs", "d0/d6a/_read_me_service_facts_8cs.html", [
-      [ "ReadMeServiceFacts", "d9/db2/class_nu_get_gallery_1_1_read_me_service_facts.html", "d9/db2/class_nu_get_gallery_1_1_read_me_service_facts" ],
-      [ "TheSaveReadMeMdIfChangedMethod", "d5/dc7/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_save_read_me_md_if_changed_method.html", "d5/dc7/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_save_read_me_md_if_changed_method" ],
-      [ "TheHasReadMeSourceMethod", "d4/db2/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_has_read_me_source_method.html", "d4/db2/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_has_read_me_source_method" ],
-      [ "TheGetReadMeHtmlAsyncMethod", "d8/d79/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_html_async_method.html", "d8/d79/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_html_async_method" ],
-      [ "TheGetReadMeMdAsyncMethod", "d9/d40/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_md_async_method.html", "d9/d40/class_nu_get_gallery_1_1_read_me_service_facts_1_1_the_get_read_me_md_async_method" ]
-    ] ],
-    [ "ReadOnlyEntitiesContext.cs", "d8/d66/_read_only_entities_context_8cs.html", [
-      [ "ReadOnlyEntitiesContext", "d2/d5d/class_nu_get_gallery_1_1_read_only_entities_context.html", "d2/d5d/class_nu_get_gallery_1_1_read_only_entities_context" ]
-    ] ],
-    [ "ReadOnlyEntityRepository.cs", "d8/d0b/_read_only_entity_repository_8cs.html", [
-      [ "ReadOnlyEntityRepository", "d4/d5a/class_nu_get_gallery_1_1_read_only_entity_repository.html", "d4/d5a/class_nu_get_gallery_1_1_read_only_entity_repository" ]
-    ] ],
-    [ "ReadOnlyModeErrorFilter.cs", "dd/d4b/_read_only_mode_error_filter_8cs.html", null ],
-    [ "ReadOnlyModeException.cs", "d5/d2b/_read_only_mode_exception_8cs.html", [
-      [ "ReadOnlyModeException", "d8/dc4/class_nu_get_gallery_1_1_read_only_mode_exception.html", "d8/dc4/class_nu_get_gallery_1_1_read_only_mode_exception" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Accounting/Billing/Receipts/Receipt.cs", "dd/dc9/_fenix_alliance_8_a_b_m_8_models_2_accounting_2_billing_2_receipts_2_receipt_8cs.html", "dd/dc9/_fenix_alliance_8_a_b_m_8_models_2_accounting_2_billing_2_receipts_2_receipt_8cs" ],
     [ "FenixAlliance.ABM.Models.DTOs/Components/Accounting/Receipts/Receipt.cs", "d7/d94/_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_accounting_2_receipts_2_receipt_8cs.html", [
@@ -11433,14 +6943,6 @@ var files_dup =
     [ "ReferenceType1.cs", "d4/dd5/_reference_type1_8cs.html", [
       [ "ReferenceType1", "d5/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reference_type1.html", "d5/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reference_type1" ]
     ] ],
-    [ "ReflowCommand.cs", "da/db7/_reflow_command_8cs.html", null ],
-    [ "ReflowPackageService.cs", "d8/d94/_reflow_package_service_8cs.html", [
-      [ "ReflowPackageService", "d6/df1/class_nu_get_gallery_1_1_reflow_package_service.html", "d6/df1/class_nu_get_gallery_1_1_reflow_package_service" ]
-    ] ],
-    [ "ReflowPackageServiceFacts.cs", "d8/dc8/_reflow_package_service_facts_8cs.html", [
-      [ "ReflowPackageServiceFacts", "d3/d67/class_nu_get_gallery_1_1_reflow_package_service_facts.html", "d3/d67/class_nu_get_gallery_1_1_reflow_package_service_facts" ],
-      [ "TheReflowAsyncMethod", "dc/dea/class_nu_get_gallery_1_1_reflow_package_service_facts_1_1_the_reflow_async_method.html", "dc/dea/class_nu_get_gallery_1_1_reflow_package_service_facts_1_1_the_reflow_async_method" ]
-    ] ],
     [ "RefrigeratedIndicatorType.cs", "d4/ddf/_refrigerated_indicator_type_8cs.html", [
       [ "RefrigeratedIndicatorType", "df/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_refrigerated_indicator_type.html", null ]
     ] ],
@@ -11453,7 +6955,6 @@ var files_dup =
     [ "RefundRequest.cs", "d4/d9a/_refund_request_8cs.html", [
       [ "RefundRequest", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request.html", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request" ]
     ] ],
-    [ "RegexEx.cs", "dd/dce/_regex_ex_8cs.html", null ],
     [ "RegionalBlock.cs", "d5/dfa/_regional_block_8cs.html", [
       [ "RegionalBlock", "d4/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_regional_blocks_1_1_regional_block.html", "d4/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_regional_blocks_1_1_regional_block" ]
     ] ],
@@ -11471,12 +6972,6 @@ var files_dup =
     ] ],
     [ "RegisteredTimeType.cs", "dd/dd2/_registered_time_type_8cs.html", [
       [ "RegisteredTimeType", "da/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_registered_time_type.html", null ]
-    ] ],
-    [ "RegisterNewUserInReadOnlyModeTest.cs", "dd/d04/_register_new_user_in_read_only_mode_test_8cs.html", [
-      [ "RegisterNewUserInReadOnlyModeTest", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test.html", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test" ]
-    ] ],
-    [ "RegisterNewUserTest.cs", "d1/d5c/_register_new_user_test_8cs.html", [
-      [ "RegisterNewUserTest", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test.html", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test" ]
     ] ],
     [ "RegisterViewModel.cs", "d6/dcd/_register_view_model_8cs.html", [
       [ "RegisterViewModel", "df/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_register_view_model.html", "df/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_register_view_model" ]
@@ -11559,9 +7054,6 @@ var files_dup =
     [ "RemoveResponseModel.cs", "d7/d9f/_remove_response_model_8cs.html", [
       [ "RemoveResponseModel", "db/df1/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_remove_response_model.html", "db/df1/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_remove_response_model" ]
     ] ],
-    [ "RenderedMarkdownResult.cs", "dc/d3c/_rendered_markdown_result_8cs.html", [
-      [ "RenderedMarkdownResult", "d2/d9e/class_nu_get_gallery_1_1_rendered_markdown_result.html", "d2/d9e/class_nu_get_gallery_1_1_rendered_markdown_result" ]
-    ] ],
     [ "RenewalType.cs", "d3/dee/_renewal_type_8cs.html", [
       [ "RenewalType", "d1/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_renewal_type.html", "d1/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_renewal_type" ]
     ] ],
@@ -11574,48 +7066,11 @@ var files_dup =
     [ "Report.cs", "db/d9b/_report_8cs.html", [
       [ "Report", "da/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_reports_1_1_report.html", "da/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_reports_1_1_report" ]
     ] ],
-    [ "ReportAbuseMessage.cs", "d0/d63/_report_abuse_message_8cs.html", [
-      [ "ReportAbuseMessage", "d6/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message.html", "d6/d7a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message" ]
-    ] ],
-    [ "ReportAbuseMessageFacts.cs", "de/d5b/_report_abuse_message_facts_8cs.html", [
-      [ "ReportAbuseMessageFacts", "dd/d46/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts.html", "dd/d46/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts" ],
-      [ "TheConstructor", "d9/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_constructor.html", "d9/d7c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method.html", "d7/dc7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "dd/db0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_body_method.html", "dd/db0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_abuse_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "ReportAbuseViewModel.cs", "de/d88/_report_abuse_view_model_8cs.html", [
-      [ "ReportAbuseViewModel", "d8/d5e/class_nu_get_gallery_1_1_report_abuse_view_model.html", "d8/d5e/class_nu_get_gallery_1_1_report_abuse_view_model" ]
-    ] ],
     [ "ReportMapper.cs", "df/d51/_report_mapper_8cs.html", [
       [ "ReportMapper", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_analytics_1_1_reports_1_1_report_mapper.html", null ]
     ] ],
-    [ "ReportMyPackageMessage.cs", "d7/def/_report_my_package_message_8cs.html", [
-      [ "ReportMyPackageMessage", "da/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message.html", "da/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message" ]
-    ] ],
-    [ "ReportMyPackageMessageFacts.cs", "d2/de4/_report_my_package_message_facts_8cs.html", [
-      [ "ReportMyPackageMessageFacts", "dc/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts.html", "dc/d4d/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts" ],
-      [ "TheConstructor", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_constructor.html", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "d8/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_body_method.html", "d8/ded/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "ReportMyPackageViewModel.cs", "d4/d90/_report_my_package_view_model_8cs.html", [
-      [ "ReportMyPackageViewModel", "d0/d0a/class_nu_get_gallery_1_1_report_my_package_view_model.html", "d0/d0a/class_nu_get_gallery_1_1_report_my_package_view_model" ]
-    ] ],
-    [ "ReportPackageMessageBase.cs", "da/d9e/_report_package_message_base_8cs.html", [
-      [ "ReportPackageMessageBase", "d1/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_package_message_base.html", "d1/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_package_message_base" ]
-    ] ],
-    [ "ReportPackageReason.cs", "d1/d34/_report_package_reason_8cs.html", "d1/d34/_report_package_reason_8cs" ],
-    [ "ReportPackageRequest.cs", "d5/de8/_report_package_request_8cs.html", [
-      [ "ReportPackageRequest", "d5/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_requests_1_1_report_package_request.html", "d5/dc3/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_requests_1_1_report_package_request" ]
-    ] ],
-    [ "ReportViewModel.cs", "de/dbc/_report_view_model_8cs.html", [
-      [ "ReportViewModel", "d4/dfd/class_nu_get_gallery_1_1_report_view_model.html", "d4/dfd/class_nu_get_gallery_1_1_report_view_model" ]
-    ] ],
     [ "Repository.cs", "da/d78/_repository_8cs.html", [
       [ "Repository", "db/d6b/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_repository.html", "db/d6b/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_repository" ]
-    ] ],
-    [ "RepositoryInformation.cs", "da/d69/_repository_information_8cs.html", [
-      [ "RepositoryInformation", "d3/d51/class_nu_get_gallery_1_1_repository_information.html", "d3/d51/class_nu_get_gallery_1_1_repository_information" ]
     ] ],
     [ "RequerimentPriority.cs", "da/d45/_requeriment_priority_8cs.html", [
       [ "RequerimentPriority", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities_1_1_requeriment_priority.html", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_priorities_1_1_requeriment_priority" ]
@@ -11653,9 +7108,6 @@ var files_dup =
     [ "RequestService.cs", "d5/dac/_request_service_8cs.html", [
       [ "RequestService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service" ]
     ] ],
-    [ "RequestValidationExceptionFilter.cs", "da/d52/_request_validation_exception_filter_8cs.html", [
-      [ "RequestValidationExceptionFilter", "d6/ded/class_nu_get_gallery_1_1_infrastructure_1_1_request_validation_exception_filter.html", "d6/ded/class_nu_get_gallery_1_1_infrastructure_1_1_request_validation_exception_filter" ]
-    ] ],
     [ "RequiredCurriculaIndicatorType.cs", "d0/de2/_required_curricula_indicator_type_8cs.html", [
       [ "RequiredCurriculaIndicatorType", "d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_required_curricula_indicator_type.html", null ]
     ] ],
@@ -11671,102 +7123,9 @@ var files_dup =
     [ "RequiredFeeAmountType.cs", "d1/de5/_required_fee_amount_type_8cs.html", [
       [ "RequiredFeeAmountType", "d4/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_required_fee_amount_type.html", null ]
     ] ],
-    [ "RequiredSignerPolicy.cs", "dd/d57/_required_signer_policy_8cs.html", [
-      [ "RequiredSignerPolicy", "d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html", "d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy" ]
-    ] ],
     [ "RequiredSkillRecord.cs", "dd/def/_required_skill_record_8cs.html", [
       [ "RequiredSkillRecord", "d1/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset_1_1_required_skill_record.html", "d1/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_required_skillset_1_1_required_skill_record" ]
     ] ],
-    [ "RequireMinProtocolVersionForPushPolicy.cs", "dd/d2a/_require_min_protocol_version_for_push_policy_8cs.html", [
-      [ "RequireMinProtocolVersionForPushPolicy", "d3/d38/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy.html", "d3/d38/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy" ],
-      [ "State", "dc/d36/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_1_1_state.html", "dc/d36/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_1_1_state" ]
-    ] ],
-    [ "RequireMinProtocolVersionForPushPolicyFacts.cs", "d4/d09/_require_min_protocol_version_for_push_policy_facts_8cs.html", [
-      [ "RequireMinProtocolVersionForPushPolicyFacts", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts" ]
-    ] ],
-    [ "RequireOrganizationTenantPolicy.cs", "d3/dfc/_require_organization_tenant_policy_8cs.html", [
-      [ "RequireOrganizationTenantPolicy", "dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy.html", "dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy" ],
-      [ "State", "de/d02/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_1_1_state.html", "de/d02/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_1_1_state" ]
-    ] ],
-    [ "RequireOrganizationTenantPolicyFacts.cs", "db/d6a/_require_organization_tenant_policy_facts_8cs.html", [
-      [ "RequireOrganizationTenantPolicyFacts", "db/d1c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts.html", "db/d1c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts" ],
-      [ "TheEvaluateMethod", "dd/d2c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts_1_1_the_evaluate_method.html", "dd/d2c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts_1_1_the_evaluate_method" ]
-    ] ],
-    [ "RequirePackageMetadataCompliancePolicy.cs", "db/de8/_require_package_metadata_compliance_policy_8cs.html", [
-      [ "RequirePackageMetadataCompliancePolicy", "d3/d18/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy.html", "d3/d18/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy" ]
-    ] ],
-    [ "RequirePackageMetadataCompliancePolicyFacts.cs", "dd/d2f/_require_package_metadata_compliance_policy_facts_8cs.html", [
-      [ "RequirePackageMetadataCompliancePolicyFacts", "d5/dca/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy_facts.html", "d5/dca/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy_facts" ]
-    ] ],
-    [ "RequirePackageMetadataComplianceUtility.cs", "d8/dbe/_require_package_metadata_compliance_utility_8cs.html", null ],
-    [ "RequirePackageMetadataState.cs", "d3/d84/_require_package_metadata_state_8cs.html", [
-      [ "RequirePackageMetadataState", "d4/dec/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_state.html", "d4/dec/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_state" ]
-    ] ],
-    [ "RequirePackageVerifyScopePolicy.cs", "da/d44/_require_package_verify_scope_policy_8cs.html", [
-      [ "RequirePackageVerifyScopePolicy", "d0/d8d/class_nu_get_gallery_1_1_security_1_1_require_package_verify_scope_policy.html", "d0/d8d/class_nu_get_gallery_1_1_security_1_1_require_package_verify_scope_policy" ]
-    ] ],
-    [ "RequirePackageVerifyScopePolicyFacts.cs", "d6/dac/_require_package_verify_scope_policy_facts_8cs.html", "d6/dac/_require_package_verify_scope_policy_facts_8cs" ],
-    [ "RequiresAccountConfirmationAttribute.cs", "d7/d2c/_requires_account_confirmation_attribute_8cs.html", [
-      [ "RequiresAccountConfirmationAttribute", "d5/d4c/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute.html", "d5/d4c/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute" ]
-    ] ],
-    [ "RequiresAccountConfirmationAttributeFacts.cs", "df/df1/_requires_account_confirmation_attribute_facts_8cs.html", [
-      [ "RequiresAccountConfirmationAttributeFacts", "df/d5f/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute_facts.html", "df/d5f/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute_facts" ],
-      [ "TestableAppController", "dd/d14/class_nu_get_gallery_1_1_filters_1_1_requires_account_confirmation_attribute_facts_1_1_testable_app_controller.html", null ]
-    ] ],
-    [ "ReservedNamespace.cs", "db/d03/_reserved_namespace_8cs.html", [
-      [ "ReservedNamespace", "d6/dd3/class_nu_get_1_1_services_1_1_entities_1_1_reserved_namespace.html", "d6/dd3/class_nu_get_1_1_services_1_1_entities_1_1_reserved_namespace" ]
-    ] ],
-    [ "ReservedNamespaceAuditRecord.cs", "d2/de2/_reserved_namespace_audit_record_8cs.html", [
-      [ "ReservedNamespaceAuditRecord", "d6/d0b/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record.html", "d6/d0b/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record" ]
-    ] ],
-    [ "ReservedNamespaceAuditRecordTests.cs", "d1/d34/_reserved_namespace_audit_record_tests_8cs.html", [
-      [ "ReservedNamespaceAuditRecordTests", "d3/d15/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record_tests.html", "d3/d15/class_nu_get_gallery_1_1_auditing_1_1_reserved_namespace_audit_record_tests" ]
-    ] ],
-    [ "ReservedNamespaceController.cs", "da/d17/_reserved_namespace_controller_8cs.html", [
-      [ "ReservedNamespaceController", "d1/d09/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller.html", "d1/d09/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller" ]
-    ] ],
-    [ "ReservedNamespaceControllerFacts.cs", "d8/db2/_reserved_namespace_controller_facts_8cs.html", [
-      [ "ReservedNamespaceControllerFacts", "da/d69/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller_facts.html", "da/d69/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_reserved_namespace_controller_facts" ]
-    ] ],
-    [ "ReservedNamespaceListItemViewModel.cs", "d8/d4f/_reserved_namespace_list_item_view_model_8cs.html", [
-      [ "ReservedNamespaceListItemViewModel", "dd/dfa/class_nu_get_gallery_1_1_reserved_namespace_list_item_view_model.html", "dd/dfa/class_nu_get_gallery_1_1_reserved_namespace_list_item_view_model" ]
-    ] ],
-    [ "ReservedNamespaceListViewModel.cs", "dc/d6c/_reserved_namespace_list_view_model_8cs.html", [
-      [ "ReservedNamespaceListViewModel", "dd/d8f/class_nu_get_gallery_1_1_reserved_namespace_list_view_model.html", "dd/d8f/class_nu_get_gallery_1_1_reserved_namespace_list_view_model" ]
-    ] ],
-    [ "ReservedNamespaceResultModel.cs", "d5/dfc/_reserved_namespace_result_model_8cs.html", [
-      [ "ReservedNamespaceResultModel", "d8/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_result_model.html", "d8/d1d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_result_model" ]
-    ] ],
-    [ "ReservedNamespaceSearchResult.cs", "d8/de2/_reserved_namespace_search_result_8cs.html", [
-      [ "ReservedNamespaceSearchResult", "d0/db0/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_search_result.html", "d0/db0/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_search_result" ]
-    ] ],
-    [ "ReservedNamespaceService.cs", "d4/d22/_reserved_namespace_service_8cs.html", [
-      [ "ReservedNamespaceService", "dc/d56/class_nu_get_gallery_1_1_reserved_namespace_service.html", "dc/d56/class_nu_get_gallery_1_1_reserved_namespace_service" ]
-    ] ],
-    [ "ReservedNamespaceServiceFacts.cs", "d0/dde/_reserved_namespace_service_facts_8cs.html", [
-      [ "ReservedNamespaceServiceFacts", "db/d3a/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts.html", [
-        [ "TheAddOwnerToReservedNamespaceAsyncMethod", "d5/d28/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_owner_to_reserved_namespace_async_method.html", "d5/d28/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_owner_to_reserved_namespace_async_method" ],
-        [ "TheAddPackageRegistrationToNamespaceMethod", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method" ],
-        [ "TheAddReservedNamespaceAsyncMethod", "da/db4/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_reserved_namespace_async_method.html", "da/db4/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_reserved_namespace_async_method" ],
-        [ "TheDeleteOwnerFromReservedNamespaceAsyncMethod", "d5/d77/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_owner_from12efff2f031f49d93ea1a5378ff9ca34.html", "d5/d77/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_owner_from12efff2f031f49d93ea1a5378ff9ca34" ],
-        [ "TheDeleteReservedNamespaceAsyncMethod", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method" ],
-        [ "TheRemovePackageRegistrationFromNamespaceMethod", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0" ],
-        [ "TheShouldMarkNewPackageVerifiedMethod", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method" ],
-        [ "ValidateNamespaceMethod", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method.html", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method" ]
-      ] ],
-      [ "TheAddReservedNamespaceAsyncMethod", "da/db4/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_reserved_namespace_async_method.html", "da/db4/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_reserved_namespace_async_method" ],
-      [ "TheDeleteReservedNamespaceAsyncMethod", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method" ],
-      [ "TheAddOwnerToReservedNamespaceAsyncMethod", "d5/d28/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_owner_to_reserved_namespace_async_method.html", "d5/d28/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_owner_to_reserved_namespace_async_method" ],
-      [ "TheAddPackageRegistrationToNamespaceMethod", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method.html", "de/d01/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_add_package_registration_to_namespace_method" ],
-      [ "TheRemovePackageRegistrationFromNamespaceMethod", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0" ],
-      [ "TheDeleteOwnerFromReservedNamespaceAsyncMethod", "d5/d77/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_owner_from12efff2f031f49d93ea1a5378ff9ca34.html", "d5/d77/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_owner_from12efff2f031f49d93ea1a5378ff9ca34" ],
-      [ "TheShouldMarkNewPackageVerifiedMethod", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method" ],
-      [ "ValidateNamespaceMethod", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method.html", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method" ]
-    ] ],
-    [ "ReservedNamespaceViewModel.cs", "d7/db5/_reserved_namespace_view_model_8cs.html", [
-      [ "ReservedNamespaceViewModel", "d7/d18/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_view_model.html", "d7/d18/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_reserved_namespace_view_model" ]
-    ] ],
-    [ "ReserveNamespacesCommand.cs", "db/dd1/_reserve_namespaces_command_8cs.html", null ],
     [ "ResetPasswordViewModel.cs", "d5/dd5/_reset_password_view_model_8cs.html", [
       [ "ResetPasswordViewModel", "d1/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_reset_password_view_model.html", "d1/df5/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_reset_password_view_model" ]
     ] ],
@@ -11778,13 +7137,6 @@ var files_dup =
     ] ],
     [ "ResidentOccupantsNumericType.cs", "db/d0f/_resident_occupants_numeric_type_8cs.html", [
       [ "ResidentOccupantsNumericType", "d0/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_resident_occupants_numeric_type.html", null ]
-    ] ],
-    [ "ResilientSearchHttpClient.cs", "d5/de0/_resilient_search_http_client_8cs.html", [
-      [ "ResilientSearchHttpClient", "d4/da5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_resilient_search_http_client.html", "d4/da5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_resilient_search_http_client" ]
-    ] ],
-    [ "ResilientSearchServiceFacts.cs", "df/d1e/_resilient_search_service_facts_8cs.html", [
-      [ "ResilientSearchServiceFacts", "d6/d1a/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts.html", "d6/d1a/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts" ],
-      [ "TheGetAsyncMethod", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method.html", "df/dd5/class_nu_get_1_1_services_1_1_search_1_1_client_1_1_resilient_search_service_facts_1_1_the_get_async_method" ]
     ] ],
     [ "ResolutionCodeType.cs", "d2/dd5/_resolution_code_type_8cs.html", [
       [ "ResolutionCodeType", "dc/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_resolution_code_type.html", null ]
@@ -11834,7 +7186,6 @@ var files_dup =
       [ "RegionalBloc", "d2/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_regional_bloc.html", "d2/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_regional_bloc" ],
       [ "Translations", "d4/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_translations.html", "d4/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_translations" ]
     ] ],
-    [ "ResultAssert.cs", "d3/dab/_result_assert_8cs.html", null ],
     [ "ResultOfVerificationType.cs", "d9/df6/_result_of_verification_type_8cs.html", [
       [ "ResultOfVerificationType", "d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html", "d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type" ]
     ] ],
@@ -11871,42 +7222,6 @@ var files_dup =
     [ "ReturnRequest.cs", "da/d25/_return_request_8cs.html", [
       [ "ReturnRequest", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request.html", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request" ]
     ] ],
-    [ "RevalidationAdminService.cs", "d8/d41/_revalidation_admin_service_8cs.html", [
-      [ "RevalidationAdminService", "dc/d8a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service.html", "dc/d8a/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service" ],
-      [ "RevalidationStatistics", "d2/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_1_1_revalidation_statistics.html", "d2/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_1_1_revalidation_statistics" ]
-    ] ],
-    [ "RevalidationAdminServiceFacts.cs", "d6/d0f/_revalidation_admin_service_facts_8cs.html", [
-      [ "RevalidationAdminServiceFacts", "d5/d5e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts.html", [
-        [ "FactsBase", "d0/dbf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_facts_base.html", "d0/dbf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_facts_base" ],
-        [ "TheGetStatisticsAsyncMethod", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method.html", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method" ]
-      ] ],
-      [ "TheGetStatisticsAsyncMethod", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method.html", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method" ],
-      [ "FactsBase", "d0/dbf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_facts_base.html", "d0/dbf/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "RevalidationController.cs", "df/dfe/_revalidation_controller_8cs.html", [
-      [ "RevalidationController", "d6/ddb/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_revalidation_controller.html", "d6/ddb/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_revalidation_controller" ]
-    ] ],
-    [ "RevalidationPageViewModel.cs", "dc/ddc/_revalidation_page_view_model_8cs.html", [
-      [ "RevalidationPageViewModel", "dd/d4e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_revalidation_page_view_model.html", "dd/d4e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_revalidation_page_view_model" ]
-    ] ],
-    [ "RevalidationState.cs", "dd/ddc/_revalidation_state_8cs.html", [
-      [ "RevalidationState", "dd/d10/class_nu_get_gallery_1_1_revalidation_state.html", "dd/d10/class_nu_get_gallery_1_1_revalidation_state" ]
-    ] ],
-    [ "RevalidationStateService.cs", "d5/d10/_revalidation_state_service_8cs.html", [
-      [ "RevalidationStateService", "d1/dde/class_nu_get_gallery_1_1_revalidation_state_service.html", "d1/dde/class_nu_get_gallery_1_1_revalidation_state_service" ]
-    ] ],
-    [ "RevalidationStateServiceFacts.cs", "d4/df4/_revalidation_state_service_facts_8cs.html", [
-      [ "RevalidationStateServiceFacts", "d7/d9d/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts.html", [
-        [ "FactsBase", "d3/d7c/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_facts_base.html", "d3/d7c/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_facts_base" ],
-        [ "TheGetStateAsyncMethod", "df/dd3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_get_state_async_method.html", "df/dd3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_get_state_async_method" ],
-        [ "TheMaybeUpdateStateAsyncMethod", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method" ],
-        [ "TheUpdateStateAsyncMethod", "dd/d6a/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_update_state_async_method.html", "dd/d6a/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_update_state_async_method" ]
-      ] ],
-      [ "TheGetStateAsyncMethod", "df/dd3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_get_state_async_method.html", "df/dd3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_get_state_async_method" ],
-      [ "TheUpdateStateAsyncMethod", "dd/d6a/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_update_state_async_method.html", "dd/d6a/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_update_state_async_method" ],
-      [ "TheMaybeUpdateStateAsyncMethod", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method" ],
-      [ "FactsBase", "d3/d7c/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_facts_base.html", "d3/d7c/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_facts_base" ]
-    ] ],
     [ "Review.cs", "d5/d6d/_review_8cs.html", [
       [ "Review", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review.html", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review" ]
     ] ],
@@ -11934,9 +7249,6 @@ var files_dup =
     [ "RevocationValuesType.cs", "df/dcc/_revocation_values_type_8cs.html", [
       [ "RevocationValuesType", "d1/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_revocation_values_type.html", "d1/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_revocation_values_type" ]
     ] ],
-    [ "RevokeApiKeysRequest.cs", "d4/df0/_revoke_api_keys_request_8cs.html", [
-      [ "RevokeApiKeysRequest", "d9/d03/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_revoke_api_keys_request.html", "d9/d03/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_revoke_api_keys_request" ]
-    ] ],
     [ "RewritttingOptions.cs", "d5/d41/_rewrittting_options_8cs.html", [
       [ "RewritttingOptions", "dc/da6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_rewrittting_options.html", "dc/da6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_rewrittting_options" ]
     ] ],
@@ -11949,11 +7261,8 @@ var files_dup =
     [ "RoamingPartnerNameType.cs", "df/da1/_roaming_partner_name_type_8cs.html", [
       [ "RoamingPartnerNameType", "da/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_roaming_partner_name_type.html", null ]
     ] ],
-    [ "FenixAlliance.ABM/FenixAlliance.ABM.Models.DTOs/Components/Security/Role.cs", "dd/d98/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_models_8_d_t_os_2_components_2_security_2_role_8cs.html", [
+    [ "Role.cs", "d3/d6c/_role_8cs.html", [
       [ "Role", "d4/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_role.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGet.Services.Entities/Role.cs", "d8/d7f/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_8_services_8_entities_2_role_8cs.html", [
-      [ "Role", "d5/d64/class_nu_get_1_1_services_1_1_entities_1_1_role.html", "d5/d64/class_nu_get_1_1_services_1_1_entities_1_1_role" ]
     ] ],
     [ "RoleCodeType.cs", "d9/dbe/_role_code_type_8cs.html", [
       [ "RoleCodeType", "d8/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_role_code_type.html", null ]
@@ -11961,7 +7270,6 @@ var files_dup =
     [ "RoleDescriptionType.cs", "d5/d27/_role_description_type_8cs.html", [
       [ "RoleDescriptionType", "d1/d37/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_role_description_type.html", null ]
     ] ],
-    [ "RoleExtensions.cs", "d5/d71/_role_extensions_8cs.html", null ],
     [ "RoleMapper.cs", "d7/dc2/_role_mapper_8cs.html", [
       [ "RoleMapper", "dd/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security_1_1_role_mapper.html", null ]
     ] ],
@@ -11992,18 +7300,6 @@ var files_dup =
     [ "RoundingPolicy.cs", "d7/d8a/_rounding_policy_8cs.html", [
       [ "RoundingPolicy", "dc/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_policies_1_1_rounding_policy.html", "dc/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_policies_1_1_rounding_policy" ]
     ] ],
-    [ "RouteExtensions.cs", "d5/d62/_route_extensions_8cs.html", [
-      [ "ObfuscatedPathMetadata", "da/dea/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_path_metadata.html", "da/dea/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_path_metadata" ],
-      [ "ObfuscatedQueryMetadata", "db/d43/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_query_metadata.html", "db/d43/struct_nu_get_gallery_1_1_route_extensions_1_1_obfuscated_query_metadata" ]
-    ] ],
-    [ "RouteExtensionsFacts.cs", "d5/dbf/_route_extensions_facts_8cs.html", [
-      [ "RouteExtensionsFacts", "d3/d63/class_nu_get_gallery_1_1_extensions_1_1_route_extensions_facts.html", "d3/d63/class_nu_get_gallery_1_1_extensions_1_1_route_extensions_facts" ]
-    ] ],
-    [ "RouteName.cs", "de/d9a/_route_name_8cs.html", null ],
-    [ "Routes.cs", "de/d6f/_routes_8cs.html", null ],
-    [ "RouteUrlTemplate.cs", "da/d04/_route_url_template_8cs.html", [
-      [ "RouteUrlTemplate", "d7/df3/class_nu_get_gallery_1_1_helpers_1_1_route_url_template.html", "d7/df3/class_nu_get_gallery_1_1_helpers_1_1_route_url_template" ]
-    ] ],
     [ "RoutingOptions.cs", "d8/d5e/_routing_options_8cs.html", [
       [ "RoutingOptions", "d4/df0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routing_options.html", "d4/df0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routing_options" ]
     ] ],
@@ -12012,15 +7308,6 @@ var files_dup =
     ] ],
     [ "RSAKeyValueType.cs", "d7/d51/_r_s_a_key_value_type_8cs.html", [
       [ "RSAKeyValueType", "de/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_r_s_a_key_value_type.html", "de/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_r_s_a_key_value_type" ]
-    ] ],
-    [ "RuntimeServiceProvider.cs", "db/dfd/_runtime_service_provider_8cs.html", [
-      [ "RuntimeServiceProvider", "dd/db1/class_nu_get_gallery_1_1_runtime_service_provider.html", "dd/db1/class_nu_get_gallery_1_1_runtime_service_provider" ]
-    ] ],
-    [ "RuntimeServiceProviderTests.cs", "db/d84/_runtime_service_provider_tests_8cs.html", [
-      [ "RuntimeServiceProviderTests", "d7/d68/class_nu_get_gallery_1_1_app___start_1_1_runtime_service_provider_tests.html", "d7/d68/class_nu_get_gallery_1_1_app___start_1_1_runtime_service_provider_tests" ]
-    ] ],
-    [ "SafeRedirectResult.cs", "d8/d24/_safe_redirect_result_8cs.html", [
-      [ "SafeRedirectResult", "dc/d14/class_nu_get_gallery_1_1_safe_redirect_result.html", "dc/d14/class_nu_get_gallery_1_1_safe_redirect_result" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Workforce/Salaries/Salary.cs", "d7/d33/_fenix_alliance_8_a_b_m_8_models_2_workforce_2_salaries_2_salary_8cs.html", [
       [ "Salary", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary" ]
@@ -12092,29 +7379,6 @@ var files_dup =
     [ "SchemeURIType.cs", "db/da5/_scheme_u_r_i_type_8cs.html", [
       [ "SchemeURIType", "d5/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_scheme_u_r_i_type.html", null ]
     ] ],
-    [ "Scope.cs", "d7/dd7/_scope_8cs.html", [
-      [ "Scope", "d3/dd9/class_nu_get_1_1_services_1_1_entities_1_1_scope.html", "d3/dd9/class_nu_get_1_1_services_1_1_entities_1_1_scope" ]
-    ] ],
-    [ "ScopeAuditRecord.cs", "d9/d18/_scope_audit_record_8cs.html", [
-      [ "ScopeAuditRecord", "db/d58/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record.html", "db/d58/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record" ]
-    ] ],
-    [ "ScopeAuditRecordTests.cs", "de/d24/_scope_audit_record_tests_8cs.html", [
-      [ "ScopeAuditRecordTests", "d9/d5f/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record_tests.html", "d9/d5f/class_nu_get_gallery_1_1_auditing_1_1_scope_audit_record_tests" ]
-    ] ],
-    [ "ScopeExtensions.cs", "dc/d6f/_scope_extensions_8cs.html", null ],
-    [ "ScopeExtensionsFacts.cs", "df/d7c/_scope_extensions_facts_8cs.html", [
-      [ "ScopeExtensionsFacts", "d0/d2e/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts.html", [
-        [ "TheAllowsActionMethod", "db/df0/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_action_method.html", "db/df0/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_action_method" ],
-        [ "TheAllowsSubjectMethod", "de/db5/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_subject_method.html", "de/db5/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_subject_method" ],
-        [ "TheHasOwnerScopeMethod", "dc/dc6/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_has_owner_scope_method.html", "dc/dc6/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_has_owner_scope_method" ]
-      ] ],
-      [ "TheAllowsActionMethod", "db/df0/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_action_method.html", "db/df0/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_action_method" ],
-      [ "TheAllowsSubjectMethod", "de/db5/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_subject_method.html", "de/db5/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_allows_subject_method" ],
-      [ "TheHasOwnerScopeMethod", "dc/dc6/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_has_owner_scope_method.html", "dc/dc6/class_nu_get_gallery_1_1_extensions_1_1_scope_extensions_facts_1_1_the_has_owner_scope_method" ]
-    ] ],
-    [ "ScopeViewModel.cs", "d6/dc8/_scope_view_model_8cs.html", [
-      [ "ScopeViewModel", "d3/de2/class_nu_get_gallery_1_1_scope_view_model.html", "d3/de2/class_nu_get_gallery_1_1_scope_view_model" ]
-    ] ],
     [ "SealingPartyTypeType.cs", "dc/d08/_sealing_party_type_type_8cs.html", [
       [ "SealingPartyTypeType", "db/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_sealing_party_type_type.html", null ]
     ] ],
@@ -12124,111 +7388,23 @@ var files_dup =
     [ "SealStatusCodeType.cs", "d2/d0f/_seal_status_code_type_8cs.html", [
       [ "SealStatusCodeType", "d3/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_seal_status_code_type.html", null ]
     ] ],
-    [ "SearchAdaptor.cs", "d6/d9f/_search_adaptor_8cs.html", null ],
-    [ "SearchAdaptorFacts.cs", "d7/d49/_search_adaptor_facts_8cs.html", [
-      [ "SearchAdaptorFacts", "df/d9c/class_nu_get_gallery_1_1_search_adaptor_facts.html", "df/d9c/class_nu_get_gallery_1_1_search_adaptor_facts" ],
-      [ "TheSearchCoreMethod", "db/d47/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_search_core_method.html", "db/d47/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_search_core_method" ],
-      [ "TheGetSearchFilterFunction", "d0/de8/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_search_filter_function.html", "d0/de8/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_search_filter_function" ],
-      [ "TheFindByIdAndVersionCoreMethod", "d7/d7b/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_find_by_id_and_version_core_method.html", "d7/d7b/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_find_by_id_and_version_core_method" ],
-      [ "Facts", "d1/d2f/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_facts.html", "d1/d2f/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_facts" ],
-      [ "TheGetNextLinkMethod", "d6/d66/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_next_link_method.html", "d6/d66/class_nu_get_gallery_1_1_search_adaptor_facts_1_1_the_get_next_link_method" ]
-    ] ],
-    [ "SearchAdaptorResult.cs", "db/d97/_search_adaptor_result_8cs.html", [
-      [ "SearchAdaptorResult", "d7/db3/class_nu_get_gallery_1_1_o_data_1_1_search_adaptor_result.html", "d7/db3/class_nu_get_gallery_1_1_o_data_1_1_search_adaptor_result" ]
-    ] ],
     [ "SearchBoxPopUpViewComponent.cs", "de/dde/_search_box_pop_up_view_component_8cs.html", [
       [ "SearchBoxPopUpViewComponent", "da/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_box_pop_up_view_component.html", "da/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_box_pop_up_view_component" ]
-    ] ],
-    [ "SearchClientConfiguration.cs", "d9/d0f/_search_client_configuration_8cs.html", null ],
-    [ "SearchClientPolicies.cs", "da/d3a/_search_client_policies_8cs.html", [
-      [ "SearchClientPolicies", "d2/db3/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_search_client_policies.html", null ]
-    ] ],
-    [ "SearchExtensionMethods.cs", "d9/dc6/_search_extension_methods_8cs.html", null ],
-    [ "SearchFilter.cs", "d7/d4e/_search_filter_8cs.html", [
-      [ "SearchFilter", "d6/da3/class_nu_get_gallery_1_1_search_filter.html", "d6/da3/class_nu_get_gallery_1_1_search_filter" ]
     ] ],
     [ "SearchFiltersViewComponent.cs", "dc/db5/_search_filters_view_component_8cs.html", [
       [ "SearchFiltersViewComponent", "df/d73/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_filters_view_component.html", "df/d73/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_filters_view_component" ]
     ] ],
-    [ "SearchHijacker.cs", "df/dfc/_search_hijacker_8cs.html", [
-      [ "HijackableQueryParameters", "d3/d86/class_nu_get_gallery_1_1_o_data_1_1_hijackable_query_parameters.html", "d3/d86/class_nu_get_gallery_1_1_o_data_1_1_hijackable_query_parameters" ],
-      [ "SearchHijacker", "d5/dd1/class_nu_get_gallery_1_1_o_data_1_1_search_hijacker.html", null ]
-    ] ],
-    [ "SearchHijackerFacts.cs", "dd/d3c/_search_hijacker_facts_8cs.html", [
-      [ "SearchHijackerFacts", "d1/d7d/class_nu_get_gallery_1_1_search_hijacker_facts.html", "d1/d7d/class_nu_get_gallery_1_1_search_hijacker_facts" ],
-      [ "TheIsHijackableMethod", "d3/dbc/class_nu_get_gallery_1_1_search_hijacker_facts_1_1_the_is_hijackable_method.html", "d3/dbc/class_nu_get_gallery_1_1_search_hijacker_facts_1_1_the_is_hijackable_method" ]
-    ] ],
     [ "SearchOptions.cs", "d2/d6e/_search_options_8cs.html", [
       [ "SearchOptions", "d7/dba/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_search_1_1_search_options.html", null ]
-    ] ],
-    [ "SearchPolicyFacts.cs", "db/d5b/_search_policy_facts_8cs.html", [
-      [ "SearchPolicyFacts", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_search_policy_facts.html", "dd/de5/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_search_policy_facts" ]
     ] ],
     [ "SearchResponseModel.cs", "d4/d00/_search_response_model_8cs.html", [
       [ "SearchResponseModel", "da/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_search_response_model.html", "da/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_search_response_model" ]
     ] ],
-    [ "Infrastructure/Lucene/Models/SearchResults.cs", "dc/de8/_infrastructure_2_lucene_2_models_2_search_results_8cs.html", [
-      [ "SearchResults", "df/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_models_1_1_search_results.html", "df/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_models_1_1_search_results" ]
-    ] ],
-    [ "Services/SearchResults.cs", "d9/df4/_services_2_search_results_8cs.html", [
-      [ "SearchResults", "db/d69/class_nu_get_gallery_1_1_search_results.html", "db/d69/class_nu_get_gallery_1_1_search_results" ]
-    ] ],
-    [ "SearchServiceFactory.cs", "df/ddd/_search_service_factory_8cs.html", [
-      [ "SearchServiceFactory", "d6/df5/class_nu_get_gallery_1_1_search_service_factory.html", "d6/df5/class_nu_get_gallery_1_1_search_service_factory" ]
-    ] ],
-    [ "SearchServiceFactoryFacts.cs", "d1/d68/_search_service_factory_facts_8cs.html", [
-      [ "SearchServiceFactoryFacts", "d4/d58/class_nu_get_gallery_1_1_search_service_factory_facts.html", "d4/d58/class_nu_get_gallery_1_1_search_service_factory_facts" ]
-    ] ],
-    [ "SearchSideBySideMessage.cs", "dc/d9d/_search_side_by_side_message_8cs.html", [
-      [ "SearchSideBySideMessage", "db/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message.html", "db/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message" ]
-    ] ],
-    [ "SearchSideBySideMessageFacts.cs", "db/df6/_search_side_by_side_message_facts_8cs.html", [
-      [ "SearchSideBySideMessageFacts", "df/d18/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts.html", [
-        [ "Facts", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_facts.html", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_facts" ],
-        [ "GetMarkdownBody", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body" ],
-        [ "GetRecipients", "dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients.html", "dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients" ],
-        [ "GetSubject", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject.html", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject" ],
-        [ "Sender", "d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender.html", "d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender" ]
-      ] ],
-      [ "Sender", "d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender.html", "d3/d02/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_sender" ],
-      [ "GetRecipients", "dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients.html", "dd/d4f/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_recipients" ],
-      [ "GetSubject", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject.html", "d3/da4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_subject" ],
-      [ "GetMarkdownBody", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body" ],
-      [ "Facts", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_facts.html", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_facts" ]
-    ] ],
-    [ "SearchSideBySideService.cs", "d0/d0d/_search_side_by_side_service_8cs.html", [
-      [ "SearchSideBySideService", "d1/d4b/class_nu_get_gallery_1_1_search_side_by_side_service.html", "d1/d4b/class_nu_get_gallery_1_1_search_side_by_side_service" ]
-    ] ],
-    [ "SearchSideBySideServiceFacts.cs", "d9/d5a/_search_side_by_side_service_facts_8cs.html", [
-      [ "SearchSideBySideServiceFacts", "d9/d69/class_nu_get_gallery_1_1_search_side_by_side_service_facts.html", [
-        [ "Facts", "df/d56/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_facts.html", "df/d56/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_facts" ],
-        [ "RecordFeedbackAsync", "d6/de0/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_record_feedback_async.html", "d6/de0/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_record_feedback_async" ],
-        [ "SearchAsync", "d2/dd5/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_search_async.html", "d2/dd5/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_search_async" ]
-      ] ],
-      [ "SearchAsync", "d2/dd5/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_search_async.html", "d2/dd5/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_search_async" ],
-      [ "RecordFeedbackAsync", "d6/de0/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_record_feedback_async.html", "d6/de0/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_record_feedback_async" ],
-      [ "Facts", "df/d56/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_facts.html", "df/d56/class_nu_get_gallery_1_1_search_side_by_side_service_facts_1_1_facts" ]
-    ] ],
-    [ "SearchSideBySideViewModel.cs", "d6/d48/_search_side_by_side_view_model_8cs.html", [
-      [ "SearchSideBySideViewModel", "d6/df2/class_nu_get_gallery_1_1_search_side_by_side_view_model.html", "d6/df2/class_nu_get_gallery_1_1_search_side_by_side_view_model" ]
-    ] ],
-    [ "SearchTest.cs", "d7/dce/_search_test_8cs.html", [
-      [ "SearchTest", "db/d4c/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_search_test.html", "db/d4c/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_search_test" ]
-    ] ],
     [ "SecondaryHazardType.cs", "d6/db8/_secondary_hazard_type_8cs.html", [
       [ "SecondaryHazardType", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_secondary_hazard_type.html", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_secondary_hazard_type" ]
     ] ],
-    [ "SecretReaderFactory.cs", "dc/dac/_secret_reader_factory_8cs.html", [
-      [ "SecretReaderFactory", "d2/df8/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_secret_reader_factory.html", "d2/df8/class_nu_get_gallery_1_1_configuration_1_1_secret_reader_1_1_secret_reader_factory" ]
-    ] ],
-    [ "SecurityAdvisory.cs", "d1/dae/_security_advisory_8cs.html", [
-      [ "SecurityAdvisory", "d0/d7b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_advisory.html", "d0/d7b/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_advisory" ]
-    ] ],
     [ "SecurityClassificationCodeType.cs", "d3/dee/_security_classification_code_type_8cs.html", [
       [ "SecurityClassificationCodeType", "d2/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_security_classification_code_type.html", null ]
-    ] ],
-    [ "SecurityHeaderTest.cs", "dd/d45/_security_header_test_8cs.html", [
-      [ "SecurityHeaderTest", "d7/dc3/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_security_header_test.html", "d7/dc3/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_security_header_test" ]
     ] ],
     [ "SecurityHelpers.cs", "df/d08/_security_helpers_8cs.html", [
       [ "SecurityHelpers", "d1/d83/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_security_helpers.html", null ]
@@ -12237,42 +7413,12 @@ var files_dup =
       [ "SecurityIDType", "d6/dbe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_security_i_d_type.html", null ]
     ] ],
     [ "SecurityPermissionQuery.cs", "dc/de4/_security_permission_query_8cs.html", null ],
-    [ "SecurityPolicyAction.cs", "dc/df0/_security_policy_action_8cs.html", "dc/df0/_security_policy_action_8cs" ],
-    [ "SecurityPolicyController.cs", "d0/d45/_security_policy_controller_8cs.html", [
-      [ "SecurityPolicyController", "d2/d74/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller.html", "d2/d74/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller" ]
-    ] ],
-    [ "SecurityPolicyControllerFacts.cs", "d4/d0e/_security_policy_controller_facts_8cs.html", [
-      [ "SecurityPolicyControllerFacts", "de/d96/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller_facts.html", "de/d96/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_security_policy_controller_facts" ]
-    ] ],
-    [ "SecurityPolicyHandler.cs", "d3/d6b/_security_policy_handler_8cs.html", [
-      [ "SecurityPolicyHandler", "d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html", "d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler" ]
-    ] ],
-    [ "SecurityPolicyResult.cs", "de/d37/_security_policy_result_8cs.html", [
-      [ "SecurityPolicyResult", "d7/d11/class_nu_get_gallery_1_1_security_1_1_security_policy_result.html", "d7/d11/class_nu_get_gallery_1_1_security_1_1_security_policy_result" ]
-    ] ],
-    [ "SecurityPolicyService.cs", "d9/d8d/_security_policy_service_8cs.html", [
-      [ "SecurityPolicyService", "d6/d1f/class_nu_get_gallery_1_1_security_1_1_security_policy_service.html", "d6/d1f/class_nu_get_gallery_1_1_security_1_1_security_policy_service" ]
-    ] ],
-    [ "SecurityPolicyServiceFacts.cs", "d6/d6b/_security_policy_service_facts_8cs.html", [
-      [ "SecurityPolicyServiceFacts", "d4/d96/class_nu_get_gallery_1_1_security_1_1_security_policy_service_facts.html", "d4/d96/class_nu_get_gallery_1_1_security_1_1_security_policy_service_facts" ]
-    ] ],
-    [ "SecurityPolicyTests.cs", "d0/d61/_security_policy_tests_8cs.html", [
-      [ "SecurityPolicyTests", "dd/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_security_policy_tests.html", "dd/dbd/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_1_1_security_policy_tests" ]
-    ] ],
-    [ "SecurityPolicyViewModel.cs", "de/de7/_security_policy_view_model_8cs.html", [
-      [ "SecurityPolicyViewModel", "d8/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_security_policy_view_model.html", "d8/dd5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_security_policy_view_model" ]
-    ] ],
     [ "SecurityRoleGrant.cs", "d1/d3d/_security_role_grant_8cs.html", [
       [ "SecurityRoleGrant", "dd/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_4847c2df72bb3b5cd20b389dedb8b542.html", "dd/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_4847c2df72bb3b5cd20b389dedb8b542" ]
     ] ],
     [ "SecurityRoleQueries.cs", "dc/d59/_security_role_queries_8cs.html", null ],
     [ "SecurityService.cs", "d1/d2d/_security_service_8cs.html", [
       [ "SecurityService", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service.html", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service" ]
-    ] ],
-    [ "SecurityVulnerability.cs", "d0/d00/_security_vulnerability_8cs.html", [
-      [ "SecurityVulnerability", "da/d3d/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability.html", "da/d3d/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability" ],
-      [ "SecurityVulnerabilityPackage", "da/dda/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package.html", "da/dda/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package" ],
-      [ "SecurityVulnerabilityPackageVersion", "dd/d4f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package_version.html", "dd/d4f/class_git_hub_vulnerabilities2_db_1_1_graph_q_l_1_1_security_vulnerability_package_version" ]
     ] ],
     [ "SeedBilling.cs", "d8/d9c/_seed_billing_8cs.html", null ],
     [ "SeedBusiness.cs", "d2/d61/_seed_business_8cs.html", null ],
@@ -12300,23 +7446,6 @@ var files_dup =
     ] ],
     [ "SellerEventIDType.cs", "d9/d1e/_seller_event_i_d_type_8cs.html", [
       [ "SellerEventIDType", "d8/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_seller_event_i_d_type.html", null ]
-    ] ],
-    [ "SemanticVersionExtensionsFacts.cs", "d6/d34/_semantic_version_extensions_facts_8cs.html", [
-      [ "NuGetVersionExtensionsFacts", "d7/d97/class_nu_get_gallery_1_1_nu_get_version_extensions_facts.html", [
-        [ "TheToNormalizedStringMethod", "d6/d6e/class_nu_get_gallery_1_1_nu_get_version_extensions_facts_1_1_the_to_normalized_string_method.html", "d6/d6e/class_nu_get_gallery_1_1_nu_get_version_extensions_facts_1_1_the_to_normalized_string_method" ]
-      ] ],
-      [ "TheToNormalizedStringMethod", "d6/d6e/class_nu_get_gallery_1_1_nu_get_version_extensions_facts_1_1_the_to_normalized_string_method.html", "d6/d6e/class_nu_get_gallery_1_1_nu_get_version_extensions_facts_1_1_the_to_normalized_string_method" ]
-    ] ],
-    [ "SemVerLevelKey.cs", "d9/d4f/_sem_ver_level_key_8cs.html", null ],
-    [ "SemVerLevelKeyFacts.cs", "dc/dec/_sem_ver_level_key_facts_8cs.html", [
-      [ "SemVerLevelKeyFacts", "df/deb/class_nu_get_gallery_1_1_sem_ver_level_key_facts.html", "df/deb/class_nu_get_gallery_1_1_sem_ver_level_key_facts" ],
-      [ "TheForPackageMethod", "d6/dfb/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_package_method.html", "d6/dfb/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_package_method" ],
-      [ "TheForSemVerLevelMethod", "dc/db8/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_sem_ver_level_method.html", "dc/db8/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_for_sem_ver_level_method" ],
-      [ "TheIsCompliantWithSemVerLevelPredicateMethod", "dc/dcf/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_compliant_with_sem_ver_level_predicate_method.html", "dc/dcf/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_compliant_with_sem_ver_level_predicate_method" ],
-      [ "TheIsUnknownPredicateMethod", "dc/df3/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_unknown_predicate_method.html", "dc/df3/class_nu_get_gallery_1_1_sem_ver_level_key_facts_1_1_the_is_unknown_predicate_method" ]
-    ] ],
-    [ "SendErrorsToTelemetryAttribute.cs", "d6/d6a/_send_errors_to_telemetry_attribute_8cs.html", [
-      [ "SendErrorsToTelemetryAttribute", "df/d30/class_nu_get_gallery_1_1_diagnostics_1_1_send_errors_to_telemetry_attribute.html", "df/d30/class_nu_get_gallery_1_1_diagnostics_1_1_send_errors_to_telemetry_attribute" ]
     ] ],
     [ "SendgridIntegrationsOptions.cs", "d2/d90/_sendgrid_integrations_options_8cs.html", [
       [ "SendgridIntegrationsOptions", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e.html", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e" ]
@@ -12377,9 +7506,6 @@ var files_dup =
     [ "ServiceAttachment.cs", "d1/d94/_service_attachment_8cs.html", [
       [ "ServiceAttachment", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments_1_1_service_attachment.html", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments_1_1_service_attachment" ]
     ] ],
-    [ "ServiceBusConfiguration.cs", "db/da4/_service_bus_configuration_8cs.html", [
-      [ "ServiceBusConfiguration", "d2/d0e/class_nu_get_gallery_1_1_configuration_1_1_service_bus_configuration.html", "d2/d0e/class_nu_get_gallery_1_1_configuration_1_1_service_bus_configuration" ]
-    ] ],
     [ "ServiceCartRecord.cs", "d4/d8f/_service_cart_record_8cs.html", [
       [ "ServiceCartRecord", "d5/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart28384e24a9a50fe2480d37e1233ecc0e.html", "d5/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart28384e24a9a50fe2480d37e1233ecc0e" ]
     ] ],
@@ -12388,9 +7514,6 @@ var files_dup =
     ] ],
     [ "ServiceCaseSubject.cs", "d9/d2b/_service_case_subject_8cs.html", [
       [ "ServiceCaseSubject", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject.html", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject" ]
-    ] ],
-    [ "ServiceDiscoveryClient.cs", "dc/d2b/_service_discovery_client_8cs.html", [
-      [ "ServiceDiscoveryClient", "d0/de7/class_gallery_tools_1_1_utils_1_1_service_discovery_client.html", "d0/de7/class_gallery_tools_1_1_utils_1_1_service_discovery_client" ]
     ] ],
     [ "ServiceFrequencyType.cs", "db/d68/_service_frequency_type_8cs.html", [
       [ "ServiceFrequencyType", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_frequency_type.html", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_frequency_type" ]
@@ -12446,9 +7569,6 @@ var files_dup =
     [ "ServiceResourceRequirement.cs", "d7/d9d/_service_resource_requirement_8cs.html", [
       [ "ServiceResourceRequirement", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement.html", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement" ]
     ] ],
-    [ "ServiceResponse.cs", "df/df1/_service_response_8cs.html", [
-      [ "ServiceResponse", "dd/dc1/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_service_response.html", "dd/dc1/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_service_response" ]
-    ] ],
     [ "Services/ServiceReviews/ServiceReview.cs", "dd/dc0/_services_2_service_reviews_2_service_review_8cs.html", [
       [ "ServiceReview", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review.html", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review" ]
     ] ],
@@ -12461,12 +7581,8 @@ var files_dup =
     [ "ServiceSchedule.cs", "df/da1/_service_schedule_8cs.html", [
       [ "ServiceSchedule", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule" ]
     ] ],
-    [ "ServicesConstants.cs", "d2/d08/_services_constants_8cs.html", null ],
     [ "ServicesOptions.cs", "dc/d6f/_services_options_8cs.html", [
       [ "ServicesOptions", "db/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services_1_1_services_options.html", "db/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services_1_1_services_options" ]
-    ] ],
-    [ "ServicesStrings.Designer.cs", "d8/d87/_services_strings_8_designer_8cs.html", [
-      [ "ServicesStrings", "d0/d99/class_nu_get_gallery_1_1_services_strings.html", null ]
     ] ],
     [ "ServiceToWishlistRequest.cs", "d1/d50/_service_to_wishlist_request_8cs.html", [
       [ "ServiceToWishListRequest", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_service_to_wish_list_request.html", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_service_to_wish_list_request" ]
@@ -12670,21 +7786,6 @@ var files_dup =
     [ "SignerRoleType.cs", "d9/db6/_signer_role_type_8cs.html", [
       [ "SignerRoleType", "d2/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signer_role_type.html", "d2/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signer_role_type" ]
     ] ],
-    [ "SignerViewModel.cs", "d9/dfa/_signer_view_model_8cs.html", [
-      [ "SignerViewModel", "d1/de3/class_nu_get_gallery_1_1_signer_view_model.html", "d1/de3/class_nu_get_gallery_1_1_signer_view_model" ]
-    ] ],
-    [ "SignerViewModelFacts.cs", "d2/d14/_signer_view_model_facts_8cs.html", [
-      [ "SignerViewModelFacts", "d8/d4b/class_nu_get_gallery_1_1_view_models_1_1_signer_view_model_facts.html", "d8/d4b/class_nu_get_gallery_1_1_view_models_1_1_signer_view_model_facts" ]
-    ] ],
-    [ "SigninAssistanceMessage.cs", "d7/dfb/_signin_assistance_message_8cs.html", [
-      [ "SigninAssistanceMessage", "dc/d5a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message.html", "dc/d5a/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message" ]
-    ] ],
-    [ "SigninAssistanceMessageFacts.cs", "d3/dae/_signin_assistance_message_facts_8cs.html", [
-      [ "SigninAssistanceMessageFacts", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts.html", "d4/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts" ],
-      [ "TheConstructor", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_constructor.html", "d5/d24/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "dc/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_recipients_method.html", "dc/d69/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_recipients_method" ],
-      [ "TheGetBodyMethod", "d9/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_body_method.html", "d9/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_signin_assistance_message_facts_1_1_the_get_body_method" ]
-    ] ],
     [ "SigningCertificate.cs", "da/db3/_signing_certificate_8cs.html", "da/db3/_signing_certificate_8cs" ],
     [ "SigningProfile.cs", "dd/d46/_signing_profile_8cs.html", [
       [ "SigningProfile", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_profiles_1_1_signing_profile.html", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_profiles_1_1_signing_profile" ]
@@ -12692,29 +7793,8 @@ var files_dup =
     [ "SimilarItemsViewComponent.cs", "d3/dbb/_similar_items_view_component_8cs.html", [
       [ "SimilarItemsViewComponent", "da/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_similar_items_view_component.html", "da/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_similar_items_view_component" ]
     ] ],
-    [ "SimpleBlobStorageConfiguration.cs", "de/dc8/_simple_blob_storage_configuration_8cs.html", [
-      [ "SimpleBlobStorageConfiguration", "d6/d47/class_nu_get_gallery_1_1_services_1_1_simple_blob_storage_configuration.html", "d6/d47/class_nu_get_gallery_1_1_services_1_1_simple_blob_storage_configuration" ]
-    ] ],
-    [ "SimulatedErrorRequest.cs", "de/d79/_simulated_error_request_8cs.html", [
-      [ "SimulatedErrorRequest", "d0/d98/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_simulated_error_request.html", "d0/d98/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_simulated_error_request" ]
-    ] ],
-    [ "src/NuGetGallery/RequestModels/SimulatedErrorType.cs", "d5/dc1/src_2_nu_get_gallery_2_request_models_2_simulated_error_type_8cs.html", "d5/dc1/src_2_nu_get_gallery_2_request_models_2_simulated_error_type_8cs" ],
-    [ "tests/NuGetGallery.FunctionalTests/ErrorHandling/SimulatedErrorType.cs", "d8/dc8/tests_2_nu_get_gallery_8_functional_tests_2_error_handling_2_simulated_error_type_8cs.html", "d8/dc8/tests_2_nu_get_gallery_8_functional_tests_2_error_handling_2_simulated_error_type_8cs" ],
-    [ "SimulatedErrorTypeExtensions.cs", "d8/d7a/_simulated_error_type_extensions_8cs.html", null ],
     [ "SingletonApplicationSettings.cs", "d0/d7f/_singleton_application_settings_8cs.html", [
       [ "SingletonApplicationSettings", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings.html", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings" ]
-    ] ],
-    [ "Site.master.cs", "da/dff/_site_8master_8cs.html", [
-      [ "Site", "d5/db6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_site.html", "d5/db6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_site" ]
-    ] ],
-    [ "Site.master.designer.cs", "d6/d0b/_site_8master_8designer_8cs.html", [
-      [ "Site", "d5/db6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_site.html", "d5/db6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_dynamic_data_1_1_site" ]
-    ] ],
-    [ "SiteAdminsController.cs", "d9/d6c/_site_admins_controller_8cs.html", [
-      [ "SiteAdminsController", "d2/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_site_admins_controller.html", "d2/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_site_admins_controller" ]
-    ] ],
-    [ "SiteAdminsViewModel.cs", "d4/d7f/_site_admins_view_model_8cs.html", [
-      [ "SiteAdminsViewModel", "d7/de4/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_site_admins_view_model.html", "d7/de4/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_site_admins_view_model" ]
     ] ],
     [ "SizeResponseModel.cs", "d0/df6/_size_response_model_8cs.html", [
       [ "SizeResponseModel", "d1/db7/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_size_response_model.html", "d1/db7/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_size_response_model" ]
@@ -12741,9 +7821,6 @@ var files_dup =
     ] ],
     [ "SmtpService.cs", "de/d50/_smtp_service_8cs.html", [
       [ "SmtpService", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service.html", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service" ]
-    ] ],
-    [ "SmtpUri.cs", "d8/d0a/_smtp_uri_8cs.html", [
-      [ "SmtpUri", "df/dce/class_nu_get_gallery_1_1_configuration_1_1_smtp_uri.html", "df/dce/class_nu_get_gallery_1_1_configuration_1_1_smtp_uri" ]
     ] ],
     [ "SnippetResponse.cs", "d4/d39/_snippet_response_8cs.html", [
       [ "SnippetResponse", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response.html", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response" ]
@@ -12854,12 +7931,8 @@ var files_dup =
     [ "SoleProprietorshipIndicatorType.cs", "d4/d60/_sole_proprietorship_indicator_type_8cs.html", [
       [ "SoleProprietorshipIndicatorType", "d8/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_sole_proprietorship_indicator_type.html", null ]
     ] ],
-    [ "SortOrder.cs", "d7/d8b/_sort_order_8cs.html", "d7/d8b/_sort_order_8cs" ],
     [ "SoundType.cs", "d8/d9f/_sound_type_8cs.html", [
       [ "SoundType", "dd/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_sound_type.html", null ]
-    ] ],
-    [ "SourceConfiguration.cs", "d2/d34/_source_configuration_8cs.html", [
-      [ "SourceConfiguration", "d4/dcf/class_nu_get_gallery_1_1_account_deleter_1_1_source_configuration.html", "d4/dcf/class_nu_get_gallery_1_1_account_deleter_1_1_source_configuration" ]
     ] ],
     [ "SourceCurrencyBaseRateType.cs", "d9/d1a/_source_currency_base_rate_type_8cs.html", [
       [ "SourceCurrencyBaseRateType", "d6/d57/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_source_currency_base_rate_type.html", null ]
@@ -12909,12 +7982,6 @@ var files_dup =
     [ "SPUserNoticeType.cs", "de/dd6/_s_p_user_notice_type_8cs.html", [
       [ "SPUserNoticeType", "dc/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_s_p_user_notice_type.html", "dc/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_s_p_user_notice_type" ]
     ] ],
-    [ "SqlAggregateStatsService.cs", "d1/d93/_sql_aggregate_stats_service_8cs.html", [
-      [ "SqlAggregateStatsService", "de/dbe/class_nu_get_gallery_1_1_sql_aggregate_stats_service.html", "de/dbe/class_nu_get_gallery_1_1_sql_aggregate_stats_service" ]
-    ] ],
-    [ "SqlResourceMigration.cs", "d4/d5e/_sql_resource_migration_8cs.html", [
-      [ "SqlResourceMigration", "de/dc8/class_nu_get_gallery_1_1_migrations_1_1_sql_resource_migration.html", "de/dc8/class_nu_get_gallery_1_1_migrations_1_1_sql_resource_migration" ]
-    ] ],
     [ "StartDateType.cs", "d9/d82/_start_date_type_8cs.html", [
       [ "StartDateType", "d7/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_start_date_type.html", null ]
     ] ],
@@ -12938,9 +8005,6 @@ var files_dup =
     ] ],
     [ "FenixAlliance.ABP/FenixAlliance.ABP.Web/Startup.cs", "de/d5c/_fenix_alliance_8_a_b_p_2_fenix_alliance_8_a_b_p_8_web_2_startup_8cs.html", [
       [ "Startup", "db/db2/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_startup.html", "db/db2/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_startup" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.MAUI/FenixAlliance.ABS.MAUI/Startup.cs", "d7/d4a/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_fenix_alliance_8_a_b_s_8_m_a_u_i_2_startup_8cs.html", [
-      [ "Startup", "d1/d9b/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_startup.html", "d1/d9b/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_startup" ]
     ] ],
     [ "FenixAlliance.ABS/FenixAlliance.ABS.Portal/FenixAlliance.ABS.Portal/Startup.cs", "d3/d2f/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_portal_2_fenix_alliance_8_a_b_s_8_portal_2_startup_8cs.html", [
       [ "Startup", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup.html", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup" ]
@@ -12968,63 +8032,11 @@ var files_dup =
     ] ],
     [ "StaticAssetsHelper.cs", "d1/d0c/_static_assets_helper_8cs.html", null ],
     [ "StaticAssetSource.cs", "db/d32/_static_asset_source_8cs.html", "db/d32/_static_asset_source_8cs" ],
-    [ "StaticAssetsTests.cs", "d1/d10/_static_assets_tests_8cs.html", [
-      [ "StaticAssetsTests", "dc/db6/class_nu_get_gallery_1_1_functional_tests_1_1_static_assets_1_1_static_assets_tests.html", "dc/db6/class_nu_get_gallery_1_1_functional_tests_1_1_static_assets_1_1_static_assets_tests" ]
-    ] ],
     [ "StaticFilesOptions.cs", "d5/d3f/_static_files_options_8cs.html", [
       [ "StaticFilesOptions", "d0/d60/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_files_options.html", "d0/d60/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_files_options" ]
     ] ],
     [ "StaticResource.cs", "d8/d15/_static_resource_8cs.html", [
       [ "StaticResource", "d4/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_resource.html", "d4/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_static_1_1_static_resource" ]
-    ] ],
-    [ "StatisticsController.cs", "d5/dc5/_statistics_controller_8cs.html", [
-      [ "StatisticsController", "d0/d44/class_nu_get_gallery_1_1_statistics_controller.html", "d0/d44/class_nu_get_gallery_1_1_statistics_controller" ]
-    ] ],
-    [ "StatisticsControllerFacts.cs", "de/d5b/_statistics_controller_facts_8cs.html", [
-      [ "StatisticsControllerFacts", "d7/d59/class_nu_get_gallery_1_1_statistics_controller_facts.html", "d7/d59/class_nu_get_gallery_1_1_statistics_controller_facts" ],
-      [ "TheTotalsAllAction", "d0/da8/class_nu_get_gallery_1_1_statistics_controller_facts_1_1_the_totals_all_action.html", "d0/da8/class_nu_get_gallery_1_1_statistics_controller_facts_1_1_the_totals_all_action" ]
-    ] ],
-    [ "StatisticsDimension.cs", "d0/d8f/_statistics_dimension_8cs.html", [
-      [ "StatisticsDimension", "dc/d23/class_nu_get_gallery_1_1_statistics_dimension.html", "dc/d23/class_nu_get_gallery_1_1_statistics_dimension" ]
-    ] ],
-    [ "StatisticsFact.cs", "d9/dad/_statistics_fact_8cs.html", [
-      [ "StatisticsFact", "d0/d4e/class_nu_get_gallery_1_1_statistics_fact.html", "d0/d4e/class_nu_get_gallery_1_1_statistics_fact" ]
-    ] ],
-    [ "StatisticsHelper.cs", "d7/d16/_statistics_helper_8cs.html", null ],
-    [ "StatisticsNuGetUsageItem.cs", "d7/d32/_statistics_nu_get_usage_item_8cs.html", [
-      [ "StatisticsNuGetUsageItem", "d8/d9c/class_nu_get_gallery_1_1_statistics_nu_get_usage_item.html", "d8/d9c/class_nu_get_gallery_1_1_statistics_nu_get_usage_item" ]
-    ] ],
-    [ "StatisticsPackagesItemViewModel.cs", "dc/df3/_statistics_packages_item_view_model_8cs.html", [
-      [ "StatisticsPackagesItemViewModel", "d9/d9f/class_nu_get_gallery_1_1_statistics_packages_item_view_model.html", "d9/d9f/class_nu_get_gallery_1_1_statistics_packages_item_view_model" ]
-    ] ],
-    [ "StatisticsPackagesReport.cs", "d4/d0b/_statistics_packages_report_8cs.html", [
-      [ "StatisticsPackagesReport", "d0/d92/class_nu_get_gallery_1_1_statistics_packages_report.html", "d0/d92/class_nu_get_gallery_1_1_statistics_packages_report" ]
-    ] ],
-    [ "StatisticsPackagesViewModel.cs", "d6/da5/_statistics_packages_view_model_8cs.html", [
-      [ "StatisticsPackagesViewModel", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model" ]
-    ] ],
-    [ "StatisticsPackagesViewModelFacts.cs", "df/dde/_statistics_packages_view_model_facts_8cs.html", [
-      [ "StatisticsPackagesViewModelFacts", "d7/db6/class_nu_get_gallery_1_1_view_models_1_1_statistics_packages_view_model_facts.html", "d7/db6/class_nu_get_gallery_1_1_view_models_1_1_statistics_packages_view_model_facts" ]
-    ] ],
-    [ "StatisticsPageTest.cs", "d2/da7/_statistics_page_test_8cs.html", [
-      [ "StatisticsPageTest", "d7/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_statistics_page_test.html", "d7/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_statistics_page_test" ]
-    ] ],
-    [ "StatisticsPivot.cs", "de/d1b/_statistics_pivot_8cs.html", [
-      [ "StatisticsPivot", "df/d3b/class_nu_get_gallery_1_1_statistics_pivot.html", "df/d3b/class_nu_get_gallery_1_1_statistics_pivot" ],
-      [ "TableEntry", "d5/d05/class_nu_get_gallery_1_1_statistics_pivot_1_1_table_entry.html", "d5/d05/class_nu_get_gallery_1_1_statistics_pivot_1_1_table_entry" ]
-    ] ],
-    [ "StatisticsReport.cs", "da/dfe/_statistics_report_8cs.html", [
-      [ "StatisticsReport", "dc/dea/class_nu_get_gallery_1_1_statistics_report.html", "dc/dea/class_nu_get_gallery_1_1_statistics_report" ]
-    ] ],
-    [ "StatisticsReportName.cs", "d0/dab/_statistics_report_name_8cs.html", "d0/dab/_statistics_report_name_8cs" ],
-    [ "StatisticsReportNotFoundException.cs", "d7/d29/_statistics_report_not_found_exception_8cs.html", [
-      [ "StatisticsReportNotFoundException", "dd/d67/class_nu_get_gallery_1_1_statistics_report_not_found_exception.html", "dd/d67/class_nu_get_gallery_1_1_statistics_report_not_found_exception" ]
-    ] ],
-    [ "StatisticsReportResult.cs", "d3/dfc/_statistics_report_result_8cs.html", [
-      [ "StatisticsReportResult", "de/d36/class_nu_get_gallery_1_1_statistics_report_result.html", "de/d36/class_nu_get_gallery_1_1_statistics_report_result" ]
-    ] ],
-    [ "StatisticsWeeklyUsageItem.cs", "d9/d89/_statistics_weekly_usage_item_8cs.html", [
-      [ "StatisticsWeeklyUsageItem", "d4/df7/class_nu_get_gallery_1_1_statistics_weekly_usage_item.html", "d4/df7/class_nu_get_gallery_1_1_statistics_weekly_usage_item" ]
     ] ],
     [ "StatusAvailableIndicatorType.cs", "d8/d41/_status_available_indicator_type_8cs.html", [
       [ "StatusAvailableIndicatorType", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_available_indicator_type.html", null ]
@@ -13046,13 +8058,6 @@ var files_dup =
     ] ],
     [ "StatusReasonType.cs", "d1/df0/_status_reason_type_8cs.html", [
       [ "StatusReasonType", "dd/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_reason_type.html", null ]
-    ] ],
-    [ "StatusService.cs", "d2/d63/_status_service_8cs.html", [
-      [ "StatusService", "dd/def/class_nu_get_gallery_1_1_status_service.html", "dd/def/class_nu_get_gallery_1_1_status_service" ]
-    ] ],
-    [ "StatusServiceFacts.cs", "dd/d2f/_status_service_facts_8cs.html", [
-      [ "StatusServiceFacts", "d1/d32/class_nu_get_gallery_1_1_services_1_1_status_service_facts.html", "d1/d32/class_nu_get_gallery_1_1_services_1_1_status_service_facts" ],
-      [ "TheIsAzureStorageAvailable", "db/d5e/class_nu_get_gallery_1_1_services_1_1_status_service_facts_1_1_the_is_azure_storage_available.html", "db/d5e/class_nu_get_gallery_1_1_services_1_1_status_service_facts_1_1_the_is_azure_storage_available" ]
     ] ],
     [ "StatusType.cs", "d3/d46/_status_type_8cs.html", [
       [ "StatusType", "d6/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_type.html", "d6/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_type" ]
@@ -13076,15 +8081,9 @@ var files_dup =
     [ "StorageDataAccessClient.cs", "dd/d42/_storage_data_access_client_8cs.html", [
       [ "StorageDataAccessClient", "d7/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_storage_data_access_client.html", "d7/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_storage_data_access_client" ]
     ] ],
-    [ "StorageDependent.cs", "d8/d75/_storage_dependent_8cs.html", null ],
-    [ "StorageDependentFacts.cs", "dc/dd9/_storage_dependent_facts_8cs.html", [
-      [ "StorageDependentFacts", "d8/d15/class_nu_get_gallery_1_1_storage_dependent_facts.html", "d8/d15/class_nu_get_gallery_1_1_storage_dependent_facts" ]
-    ] ],
-    [ "StorageExceptionExtensions.cs", "de/dd8/_storage_exception_extensions_8cs.html", null ],
     [ "StorageService.cs", "da/dc4/_storage_service_8cs.html", [
       [ "StorageService", "d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html", "d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service" ]
     ] ],
-    [ "StorageType.cs", "d2/db3/_storage_type_8cs.html", null ],
     [ "Store.cs", "d9/d5d/_store_8cs.html", [
       [ "Store", "d5/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store.html", "d5/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store" ]
     ] ],
@@ -13128,11 +8127,6 @@ var files_dup =
     [ "StowageType.cs", "d1/dd4/_stowage_type_8cs.html", [
       [ "StowageType", "d0/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stowage_type.html", "d0/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stowage_type" ]
     ] ],
-    [ "StreamExtensions.cs", "dd/db8/_stream_extensions_8cs.html", null ],
-    [ "StreamHelper.cs", "d7/da0/_stream_helper_8cs.html", null ],
-    [ "StreamHelperFacts.cs", "d2/d85/_stream_helper_facts_8cs.html", [
-      [ "StreamHelperFacts", "dc/d43/class_nu_get_gallery_1_1_helpers_1_1_stream_helper_facts.html", "dc/d43/class_nu_get_gallery_1_1_helpers_1_1_stream_helper_facts" ]
-    ] ],
     [ "StreamingController.cs", "d3/dfc/_streaming_controller_8cs.html", [
       [ "StreamingController", "d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller.html", "d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller" ],
       [ "FormData", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data.html", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data" ]
@@ -13140,24 +8134,12 @@ var files_dup =
     [ "StreetNameType.cs", "d7/dce/_street_name_type_8cs.html", [
       [ "StreetNameType", "d5/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_street_name_type.html", null ]
     ] ],
-    [ "StringExtensions.cs", "de/dca/_string_extensions_8cs.html", null ],
     [ "StringHelpers.cs", "d0/dce/_string_helpers_8cs.html", [
       [ "StringHelpers", "da/d08/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_string_helpers.html", null ]
-    ] ],
-    [ "StringReplaceTemplateProcessor.cs", "db/d2d/_string_replace_template_processor_8cs.html", [
-      [ "StringReplaceTemplateProcessor", "d6/d4b/class_nu_get_gallery_1_1_string_replace_template_processor.html", "d6/d4b/class_nu_get_gallery_1_1_string_replace_template_processor" ]
-    ] ],
-    [ "StringReplaceTemplateProcessorFacts.cs", "d1/d74/_string_replace_template_processor_facts_8cs.html", [
-      [ "StringReplaceTemplateProcessorFacts", "d3/d5b/class_nu_get_gallery_1_1_services_1_1_string_replace_template_processor_facts.html", "d3/d5b/class_nu_get_gallery_1_1_services_1_1_string_replace_template_processor_facts" ]
-    ] ],
-    [ "NuGet.Services.Entities/Strings.Designer.cs", "d7/d35/_nu_get_8_services_8_entities_2_strings_8_designer_8cs.html", null ],
-    [ "NuGetGallery/Strings.Designer.cs", "d5/de8/_nu_get_gallery_2_strings_8_designer_8cs.html", [
-      [ "Strings", "d1/d1c/class_nu_get_gallery_1_1_strings.html", null ]
     ] ],
     [ "StripeStandard.cs", "da/d3e/_stripe_standard_8cs.html", [
       [ "StripeStandard", "df/df6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_methods_1_1_stripe_standard.html", null ]
     ] ],
-    [ "StubHttpPostedFile.cs", "d8/d06/_stub_http_posted_file_8cs.html", null ],
     [ "StudentProfile.cs", "da/d33/_student_profile_8cs.html", [
       [ "StudentProfile", "d1/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_student_profile.html", "d1/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_student_profile" ]
     ] ],
@@ -13176,9 +8158,6 @@ var files_dup =
     ] ],
     [ "SubmissionMethodCodeType.cs", "d7/d5c/_submission_method_code_type_8cs.html", [
       [ "SubmissionMethodCodeType", "da/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_submission_method_code_type.html", null ]
-    ] ],
-    [ "SubmitPackageRequest.cs", "de/dcb/_submit_package_request_8cs.html", [
-      [ "SubmitPackageRequest", "d5/db6/class_nu_get_gallery_1_1_submit_package_request.html", "d5/db6/class_nu_get_gallery_1_1_submit_package_request" ]
     ] ],
     [ "SubscriberConsumptionType.cs", "d8/da2/_subscriber_consumption_type_8cs.html", [
       [ "SubscriberConsumptionType", "df/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subscriber_consumption_type.html", "df/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subscriber_consumption_type" ]
@@ -13228,9 +8207,6 @@ var files_dup =
     ] ],
     [ "SubstitutionStatusCodeType.cs", "d1/dca/_substitution_status_code_type_8cs.html", [
       [ "SubstitutionStatusCodeType", "dc/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_substitution_status_code_type.html", null ]
-    ] ],
-    [ "SubtextAttribute.cs", "d0/dc5/_subtext_attribute_8cs.html", [
-      [ "SubtextAttribute", "d4/d8f/class_nu_get_gallery_1_1_subtext_attribute.html", "d4/d8f/class_nu_get_gallery_1_1_subtext_attribute" ]
     ] ],
     [ "SuccessiveSequenceIDType.cs", "d1/de1/_successive_sequence_i_d_type_8cs.html", [
       [ "SuccessiveSequenceIDType", "d0/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_successive_sequence_i_d_type.html", null ]
@@ -13289,50 +8265,14 @@ var files_dup =
     [ "SupplyChainActivityTypeCodeType.cs", "d8/d6b/_supply_chain_activity_type_code_type_8cs.html", [
       [ "SupplyChainActivityTypeCodeType", "d5/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_supply_chain_activity_type_code_type.html", null ]
     ] ],
-    [ "SupportControllerFacts.cs", "d7/d62/_support_controller_facts_8cs.html", [
-      [ "SupportControllerFacts", "d2/d43/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts.html", "d2/d43/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts" ],
-      [ "TheIndexMethod", "d3/d62/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts_1_1_the_index_method.html", "d3/d62/class_nu_get_gallery_1_1_controllers_1_1_support_controller_facts_1_1_the_index_method" ]
-    ] ],
     [ "SupportEntitlement.cs", "d2/dcb/_support_entitlement_8cs.html", [
       [ "SupportEntitlement", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement.html", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement" ]
     ] ],
     [ "SupportRequest.cs", "df/d3b/_support_request_8cs.html", [
       [ "SupportRequest", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request" ]
     ] ],
-    [ "SupportRequestAdminsViewModel.cs", "d0/dd2/_support_request_admins_view_model_8cs.html", [
-      [ "SupportRequestAdminsViewModel", "db/d55/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admins_view_model.html", "db/d55/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admins_view_model" ]
-    ] ],
-    [ "SupportRequestAdminViewModel.cs", "d5/d4e/_support_request_admin_view_model_8cs.html", [
-      [ "SupportRequestAdminViewModel", "d6/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admin_view_model.html", "d6/d6e/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_admin_view_model" ]
-    ] ],
     [ "SupportRequestAttachment.cs", "de/d3b/_support_request_attachment_8cs.html", [
       [ "SupportRequestAttachment", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment.html", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment" ]
-    ] ],
-    [ "SupportRequestController.cs", "d7/db4/_support_request_controller_8cs.html", [
-      [ "SupportRequestController", "d1/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_support_request_controller.html", "d1/d0d/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_support_request_controller" ]
-    ] ],
-    [ "SupportRequestDbContext.cs", "da/dd6/_support_request_db_context_8cs.html", [
-      [ "SupportRequestDbContextFactory", "d1/d56/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context_factory.html", "d1/d56/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context_factory" ],
-      [ "SupportRequestDbContext", "d1/d47/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context.html", "d1/d47/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_support_request_db_context" ]
-    ] ],
-    [ "SupportRequestDbMigrationContext.cs", "d1/d8b/_support_request_db_migration_context_8cs.html", [
-      [ "SupportRequestDbMigrationContext", "db/d35/class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context.html", "db/d35/class_nu_get_gallery_1_1_database_migration_tools_1_1_support_request_db_migration_context" ]
-    ] ],
-    [ "SupportRequestMigrationsConfiguration.cs", "de/d22/_support_request_migrations_configuration_8cs.html", [
-      [ "SupportRequestMigrationsConfiguration", "da/da1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_migrations_configuration.html", "da/da1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_migrations_configuration" ]
-    ] ],
-    [ "SupportRequestService.cs", "dd/dc8/_support_request_service_8cs.html", [
-      [ "SupportRequestService", "d7/db5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_service.html", "d7/db5/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_support_request_service" ]
-    ] ],
-    [ "SupportRequestServiceFacts.cs", "dd/d30/_support_request_service_facts_8cs.html", [
-      [ "SupportRequestServiceFacts", "db/da9/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts.html", "db/da9/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts" ],
-      [ "TheDeleteSupportRequestsAsync", "d8/d84/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts_1_1_the_delete_support_requests_async.html", "d8/d84/class_nu_get_gallery_1_1_services_1_1_support_request_service_facts_1_1_the_delete_support_requests_async" ]
-    ] ],
-    [ "SupportRequestsViewModel.cs", "d3/d77/_support_requests_view_model_8cs.html", [
-      [ "SupportRequestsViewModel", "d7/d57/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_requests_view_model.html", "d7/d57/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_requests_view_model" ]
-    ] ],
-    [ "SupportRequestViewModel.cs", "de/dad/_support_request_view_model_8cs.html", [
-      [ "SupportRequestViewModel", "d5/d36/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_view_model.html", "d5/d36/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_support_request_view_model" ]
     ] ],
     [ "SupportTicket.cs", "de/d1c/_support_ticket_8cs.html", "de/d1c/_support_ticket_8cs" ],
     [ "SupportTicketMapper.cs", "d1/dd7/_support_ticket_mapper_8cs.html", [
@@ -13352,9 +8292,6 @@ var files_dup =
     ] ],
     [ "SurveyMapper.cs", "de/d9a/_survey_mapper_8cs.html", [
       [ "SurveyMapper", "d8/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_analytics_1_1_surveys_1_1_survey_mapper.html", null ]
-    ] ],
-    [ "SuspendDbExecutionStrategy.cs", "de/da4/_suspend_db_execution_strategy_8cs.html", [
-      [ "SuspendDbExecutionStrategy", "d7/d76/class_nu_get_gallery_1_1_suspend_db_execution_strategy.html", "d7/d76/class_nu_get_gallery_1_1_suspend_db_execution_strategy" ]
     ] ],
     [ "FenixAlliance.ABM.Models/Sustainability/SustainabilityProfile.cs", "de/d96/_fenix_alliance_8_a_b_m_8_models_2_sustainability_2_sustainability_profile_8cs.html", [
       [ "SustainabilityProfile", "db/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sustainability_1_1_sustainability_profile.html", "db/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sustainability_1_1_sustainability_profile" ]
@@ -13385,66 +8322,6 @@ var files_dup =
     ] ],
     [ "SwaggerSpec.cs", "d2/d34/_swagger_spec_8cs.html", [
       [ "SwaggerSpec", "de/d86/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_spec.html", "de/d86/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_spec" ]
-    ] ],
-    [ "SymbolPackage.cs", "d2/d61/_symbol_package_8cs.html", [
-      [ "SymbolPackage", "d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package.html", "d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package" ]
-    ] ],
-    [ "SymbolPackageAddedMessage.cs", "db/d1a/_symbol_package_added_message_8cs.html", [
-      [ "SymbolPackageAddedMessage", "de/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message.html", "de/d77/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message" ]
-    ] ],
-    [ "SymbolPackageAddedMessageFacts.cs", "d4/db5/_symbol_package_added_message_facts_8cs.html", [
-      [ "SymbolPackageAddedMessageFacts", "d0/d41/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts.html", "d0/d41/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts" ],
-      [ "TheConstructor", "dc/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_constructor.html", "dc/df8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_constructor" ],
-      [ "TheGetRecipientsMethod", "d5/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_faf8b0d87a41f3655d9a7943b06c901a1.html", "d5/de0/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_faf8b0d87a41f3655d9a7943b06c901a1" ],
-      [ "TheGetBodyMethod", "d6/d9e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_get_body_method.html", "d6/d9e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_added_message_facts_1_1_the_get_body_method" ]
-    ] ],
-    [ "SymbolPackageFileService.cs", "dc/d21/_symbol_package_file_service_8cs.html", [
-      [ "SymbolPackageFileService", "d6/dc5/class_nu_get_gallery_1_1_symbol_package_file_service.html", "d6/dc5/class_nu_get_gallery_1_1_symbol_package_file_service" ]
-    ] ],
-    [ "SymbolPackageFileServiceMetadata.cs", "d8/dbc/_symbol_package_file_service_metadata_8cs.html", [
-      [ "SymbolPackageFileMetadataService", "de/d5b/class_nu_get_gallery_1_1_symbol_package_file_metadata_service.html", "de/d5b/class_nu_get_gallery_1_1_symbol_package_file_metadata_service" ]
-    ] ],
-    [ "SymbolPackageService.cs", "d0/d88/_symbol_package_service_8cs.html", [
-      [ "SymbolPackageService", "df/d6e/class_nu_get_gallery_1_1_symbol_package_service.html", "df/d6e/class_nu_get_gallery_1_1_symbol_package_service" ]
-    ] ],
-    [ "SymbolPackageServiceFacts.cs", "d7/d39/_symbol_package_service_facts_8cs.html", "d7/d39/_symbol_package_service_facts_8cs" ],
-    [ "SymbolPackageUploadService.cs", "d4/da2/_symbol_package_upload_service_8cs.html", [
-      [ "SymbolPackageUploadService", "db/d36/class_nu_get_gallery_1_1_symbol_package_upload_service.html", "db/d36/class_nu_get_gallery_1_1_symbol_package_upload_service" ]
-    ] ],
-    [ "SymbolPackageUploadServiceFacts.cs", "d1/d09/_symbol_package_upload_service_facts_8cs.html", [
-      [ "SymbolPackageUploadServiceFacts", "d7/de0/class_nu_get_gallery_1_1_symbol_package_upload_service_facts.html", "d7/de0/class_nu_get_gallery_1_1_symbol_package_upload_service_facts" ],
-      [ "TheValidateUploadedSymbolsPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package" ],
-      [ "TheCreateAndUploadSymbolsPackageMethod", "dd/dcf/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_create_and_upload_symbols_package_method.html", "dd/dcf/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_create_and_upload_symbols_package_method" ],
-      [ "TheDeleteSymbolsPackageAsyncMethod", "d6/d41/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_delete_symbols_package_async_method.html", "d6/d41/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_delete_symbols_package_async_method" ]
-    ] ],
-    [ "SymbolPackageValidationFailedMessage.cs", "df/d46/_symbol_package_validation_failed_message_8cs.html", [
-      [ "SymbolPackageValidationFailedMessage", "d0/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message.html", "d0/df1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message" ]
-    ] ],
-    [ "SymbolPackageValidationFailedMessageFacts.cs", "d4/de0/_symbol_package_validation_failed_message_facts_8cs.html", [
-      [ "SymbolPackageValidationFailedMessageFacts", "de/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message_facts.html", "de/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failed_message_facts" ],
-      [ "TheConstructor", "d3/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail3c2fb20590e7bd163a4629741b84f1ac.html", "d3/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail3c2fb20590e7bd163a4629741b84f1ac" ],
-      [ "TheGetRecipientsMethod", "d2/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail29d389a1d6e68b8d505bea5e442c55e7.html", "d2/de5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_fail29d389a1d6e68b8d505bea5e442c55e7" ],
-      [ "TheGetBodyMethod", "df/d3e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failb0f2e0ae9e784e6d0fe6a3e6b98f4c6e.html", "df/d3e/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_failb0f2e0ae9e784e6d0fe6a3e6b98f4c6e" ]
-    ] ],
-    [ "SymbolPackageValidationResult.cs", "dd/da3/_symbol_package_validation_result_8cs.html", "dd/da3/_symbol_package_validation_result_8cs" ],
-    [ "SymbolPackageValidationTakingTooLongMessage.cs", "d4/d18/_symbol_package_validation_taking_too_long_message_8cs.html", [
-      [ "SymbolPackageValidationTakingTooLongMessage", "db/d31/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message.html", "db/d31/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message" ]
-    ] ],
-    [ "SymbolPackageValidationTakingTooLongMessageFacts.cs", "db/d98/_symbol_package_validation_taking_too_long_message_facts_8cs.html", [
-      [ "SymbolPackageValidationTakingTooLongMessageFacts", "d3/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message_facts.html", "d3/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taking_too_long_message_facts" ],
-      [ "TheConstructor", "d9/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taki5e32673880253a92166b099075a1f87f.html", "d9/d95/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_taki5e32673880253a92166b099075a1f87f" ],
-      [ "TheGetRecipientsMethod", "db/d07/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takiaf155217e1dc2328d4b53cd902876f06.html", "db/d07/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takiaf155217e1dc2328d4b53cd902876f06" ],
-      [ "TheGetBodyMethod", "d4/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takid395468c1d14862430ad82670b691e46.html", "d4/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_symbol_package_validation_takid395468c1d14862430ad82670b691e46" ]
-    ] ],
-    [ "SymbolsConfiguration.cs", "d9/d60/_symbols_configuration_8cs.html", [
-      [ "SymbolsConfiguration", "da/d40/class_nu_get_gallery_1_1_services_1_1_symbols_configuration.html", "da/d40/class_nu_get_gallery_1_1_services_1_1_symbols_configuration" ]
-    ] ],
-    [ "SyndicationAtomActionResult.cs", "dd/dc4/_syndication_atom_action_result_8cs.html", [
-      [ "SyndicationAtomActionResult", "df/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_syndication_atom_action_result.html", "df/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_syndication_atom_action_result" ]
-    ] ],
-    [ "TableErrorLog.cs", "d7/da2/_table_error_log_8cs.html", [
-      [ "ErrorEntity", "dd/ddd/class_nu_get_gallery_1_1_infrastructure_1_1_error_entity.html", "dd/ddd/class_nu_get_gallery_1_1_infrastructure_1_1_error_entity" ],
-      [ "TableErrorLog", "d5/dce/class_nu_get_gallery_1_1_infrastructure_1_1_table_error_log.html", "d5/dce/class_nu_get_gallery_1_1_infrastructure_1_1_table_error_log" ]
     ] ],
     [ "TabsShowcaseItemViewComponent.cs", "da/ddb/_tabs_showcase_item_view_component_8cs.html", [
       [ "TabsShowcaseItemViewComponent", "d2/d72/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_item_view_component.html", "d2/d72/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_item_view_component" ]
@@ -13601,14 +8478,6 @@ var files_dup =
     [ "TelefaxType.cs", "d9/dbc/_telefax_type_8cs.html", [
       [ "TelefaxType", "d7/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_telefax_type.html", null ]
     ] ],
-    [ "TelemetryClientWrapper.cs", "da/d3b/_telemetry_client_wrapper_8cs.html", [
-      [ "TelemetryClientWrapper", "d2/d08/class_nu_get_gallery_1_1_telemetry_client_wrapper.html", "d2/d08/class_nu_get_gallery_1_1_telemetry_client_wrapper" ]
-    ] ],
-    [ "TelemetryService.cs", "d9/d70/_telemetry_service_8cs.html", [
-      [ "TelemetryService", "da/d90/class_nu_get_gallery_1_1_telemetry_service.html", "da/d90/class_nu_get_gallery_1_1_telemetry_service" ],
-      [ "Events", "da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html", null ]
-    ] ],
-    [ "TelemetryServiceFacts.cs", "d8/d64/_telemetry_service_facts_8cs.html", "d8/d64/_telemetry_service_facts_8cs" ],
     [ "TelephoneType.cs", "d1/d23/_telephone_type_8cs.html", [
       [ "TelephoneType", "d5/d75/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_telephone_type.html", null ]
     ] ],
@@ -13699,102 +8568,8 @@ var files_dup =
     [ "TerritoryRelationship.cs", "db/d17/_territory_relationship_8cs.html", [
       [ "TerritoryRelationship", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_11f81246055adf4b33c5e2172eaabae4a.html", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_11f81246055adf4b33c5e2172eaabae4a" ]
     ] ],
-    [ "TestableActionRequiringEntityPermissions.cs", "d2/d3c/_testable_action_requiring_entity_permissions_8cs.html", [
-      [ "TestableActionRequiringEntityPermissions", "de/d8e/class_nu_get_gallery_1_1_testable_action_requiring_entity_permissions.html", "de/d8e/class_nu_get_gallery_1_1_testable_action_requiring_entity_permissions" ]
-    ] ],
-    [ "TestableMarkdownMessageService.cs", "d3/d99/_testable_markdown_message_service_8cs.html", [
-      [ "TestableMarkdownMessageService", "d1/def/class_nu_get_gallery_1_1_testable_markdown_message_service.html", "d1/def/class_nu_get_gallery_1_1_testable_markdown_message_service" ]
-    ] ],
-    [ "TestablePermissionsEntity.cs", "d3/dbf/_testable_permissions_entity_8cs.html", [
-      [ "TestablePermissionsEntity", "de/dc5/class_nu_get_gallery_1_1_testable_permissions_entity.html", "de/dc5/class_nu_get_gallery_1_1_testable_permissions_entity" ]
-    ] ],
-    [ "TestableStorageClientException.cs", "d2/d60/_testable_storage_client_exception_8cs.html", [
-      [ "TestableStorageClientException", "d4/d51/class_nu_get_gallery_1_1_testable_storage_client_exception.html", "d4/d51/class_nu_get_gallery_1_1_testable_storage_client_exception" ]
-    ] ],
-    [ "TestableV1Feed.cs", "d8/d28/_testable_v1_feed_8cs.html", [
-      [ "TestableV1Feed", "d6/dc2/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v1_feed.html", "d6/dc2/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v1_feed" ]
-    ] ],
-    [ "TestableV2Feed.cs", "d3/dff/_testable_v2_feed_8cs.html", [
-      [ "TestableV2Feed", "d4/d0b/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v2_feed.html", "d4/d0b/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_testable_v2_feed" ]
-    ] ],
-    [ "TestApplication.cs", "dd/d9d/_test_application_8cs.html", [
-      [ "TestApplication", "d2/d45/class_azure_sql_connection_test_1_1_test_application.html", "d2/d45/class_azure_sql_connection_test_1_1_test_application" ]
-    ] ],
-    [ "TestAuditingService.cs", "d2/dae/_test_auditing_service_8cs.html", [
-      [ "TestAuditingService", "db/d84/class_nu_get_gallery_1_1_framework_1_1_test_auditing_service.html", "db/d84/class_nu_get_gallery_1_1_framework_1_1_test_auditing_service" ]
-    ] ],
-    [ "TestContainer.cs", "d8/ddb/_test_container_8cs.html", [
-      [ "TestContainer", "d6/d44/class_nu_get_gallery_1_1_framework_1_1_test_container.html", "d6/d44/class_nu_get_gallery_1_1_framework_1_1_test_container" ]
-    ] ],
-    [ "TestCredentialHelper.cs", "dd/d04/_test_credential_helper_8cs.html", null ],
-    [ "TestDataResourceUtility.cs", "d5/db5/_test_data_resource_utility_8cs.html", null ],
-    [ "TestDataUtility.cs", "d8/d0f/_test_data_utility_8cs.html", null ],
-    [ "TestDependencyResolver.cs", "d3/d5f/_test_dependency_resolver_8cs.html", [
-      [ "TestDependencyResolver", "d4/dc5/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_test_dependency_resolver.html", "d4/dc5/class_nu_get_gallery_1_1_test_utils_1_1_infrastructure_1_1_test_dependency_resolver" ]
-    ] ],
-    [ "TestDirectory.cs", "db/d56/_test_directory_8cs.html", [
-      [ "TestDirectory", "d0/d25/class_nu_get_gallery_1_1_utilities_1_1_test_directory.html", "d0/d25/class_nu_get_gallery_1_1_utilities_1_1_test_directory" ]
-    ] ],
-    [ "TestExtensionMethods.cs", "dd/d84/_test_extension_methods_8cs.html", "dd/d84/_test_extension_methods_8cs" ],
-    [ "TestFileReference.cs", "df/d1c/_test_file_reference_8cs.html", [
-      [ "TestFileReference", "db/dd7/class_nu_get_gallery_1_1_services_1_1_test_file_reference.html", "db/dd7/class_nu_get_gallery_1_1_services_1_1_test_file_reference" ]
-    ] ],
-    [ "TestGalleryConfigurationService.cs", "dc/d23/_test_gallery_configuration_service_8cs.html", [
-      [ "TestGalleryConfigurationService", "d7/d82/class_nu_get_gallery_1_1_framework_1_1_test_gallery_configuration_service.html", "d7/d82/class_nu_get_gallery_1_1_framework_1_1_test_gallery_configuration_service" ]
-    ] ],
-    [ "TestMailSender.cs", "da/d19/_test_mail_sender_8cs.html", [
-      [ "TestMailSender", "d6/da7/class_nu_get_gallery_1_1_test_mail_sender.html", "d6/da7/class_nu_get_gallery_1_1_test_mail_sender" ]
-    ] ],
-    [ "NuGetGallery.Core.Facts/Infrastructure/Mail/TestMessageServiceConfiguration.cs", "d1/d6c/_nu_get_gallery_8_core_8_facts_2_infrastructure_2_mail_2_test_message_service_configuration_8cs.html", [
-      [ "TestMessageServiceConfiguration", "d9/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_test_message_service_configuration.html", "d9/d73/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_test_message_service_configuration" ]
-    ] ],
-    [ "NuGetGallery.Facts/Infrastructure/Mail/TestMessageServiceConfiguration.cs", "d0/de6/_nu_get_gallery_8_facts_2_infrastructure_2_mail_2_test_message_service_configuration_8cs.html", [
-      [ "TestMessageServiceConfiguration", "d2/d27/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_test_message_service_configuration.html", "d2/d27/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_test_message_service_configuration" ]
-    ] ],
     [ "TestMethodType.cs", "d2/df6/_test_method_type_8cs.html", [
       [ "TestMethodType", "d9/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_test_method_type.html", null ]
-    ] ],
-    [ "TestPackage.cs", "da/d6c/_test_package_8cs.html", "da/d6c/_test_package_8cs" ],
-    [ "TestPackageReader.cs", "d6/d9f/_test_package_reader_8cs.html", [
-      [ "TestPackageReader", "dc/d1c/class_nu_get_gallery_1_1_test_package_reader.html", "dc/d1c/class_nu_get_gallery_1_1_test_package_reader" ]
-    ] ],
-    [ "TestPriorityOrderer.cs", "d8/db4/_test_priority_orderer_8cs.html", [
-      [ "TestPriorityOrderer", "d6/deb/class_nu_get_gallery_1_1_functional_tests_1_1_test_priority_orderer.html", "d6/deb/class_nu_get_gallery_1_1_functional_tests_1_1_test_priority_orderer" ]
-    ] ],
-    [ "TestResponse.cs", "db/d1d/_test_response_8cs.html", [
-      [ "TestResponse", "d5/db6/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_test_response.html", "d5/db6/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_test_response" ]
-    ] ],
-    [ "TestRunner.cs", "d3/dcc/_test_runner_8cs.html", [
-      [ "TestRunner", "d0/d33/class_azure_sql_connection_test_1_1_test_runner.html", "d0/d33/class_azure_sql_connection_test_1_1_test_runner" ]
-    ] ],
-    [ "TestSecurityPolicyService.cs", "d8/d5e/_test_security_policy_service_8cs.html", [
-      [ "TestSecurityPolicyService", "d5/d26/class_nu_get_gallery_1_1_security_1_1_test_security_policy_service.html", "d5/d26/class_nu_get_gallery_1_1_security_1_1_test_security_policy_service" ]
-    ] ],
-    [ "TestServiceUtility.cs", "dd/db5/_test_service_utility_8cs.html", [
-      [ "TestableUserService", "db/ddd/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service.html", "db/ddd/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service" ],
-      [ "TestableUserServiceWithDBFaking", "df/d2c/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service_with_d_b_faking.html", "df/d2c/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service_with_d_b_faking" ],
-      [ "TestableReservedNamespaceService", "de/dad/class_nu_get_gallery_1_1_test_utils_1_1_testable_reserved_namespace_service.html", "de/dad/class_nu_get_gallery_1_1_test_utils_1_1_testable_reserved_namespace_service" ]
-    ] ],
-    [ "TestUserSecurityPolicyData.cs", "d2/d57/_test_user_security_policy_data_8cs.html", [
-      [ "TestUserSecurityPolicyData", "df/db7/class_nu_get_gallery_1_1_security_1_1_test_user_security_policy_data.html", "df/db7/class_nu_get_gallery_1_1_security_1_1_test_user_security_policy_data" ]
-    ] ],
-    [ "TestUtility.cs", "d5/d98/_test_utility_8cs.html", null ],
-    [ "Text.ascx.cs", "d6/dea/_text_8ascx_8cs.html", [
-      [ "TextField", "dd/d5a/class_nu_get_gallery_1_1_text_field.html", "dd/d5a/class_nu_get_gallery_1_1_text_field" ]
-    ] ],
-    [ "Text.ascx.designer.cs", "dc/d12/_text_8ascx_8designer_8cs.html", [
-      [ "TextField", "dd/d5a/class_nu_get_gallery_1_1_text_field.html", "dd/d5a/class_nu_get_gallery_1_1_text_field" ]
-    ] ],
-    [ "Text_Edit.ascx.cs", "d1/d4b/_text___edit_8ascx_8cs.html", [
-      [ "Text_EditField", "d3/d09/class_nu_get_gallery_1_1_text___edit_field.html", "d3/d09/class_nu_get_gallery_1_1_text___edit_field" ]
-    ] ],
-    [ "Text_Edit.ascx.designer.cs", "d2/d8e/_text___edit_8ascx_8designer_8cs.html", [
-      [ "Text_EditField", "d3/d09/class_nu_get_gallery_1_1_text___edit_field.html", "d3/d09/class_nu_get_gallery_1_1_text___edit_field" ]
-    ] ],
-    [ "TextHelper.cs", "d2/de8/_text_helper_8cs.html", null ],
-    [ "TextHelperFacts.cs", "d4/deb/_text_helper_facts_8cs.html", [
-      [ "TextHelperFacts", "de/d57/class_nu_get_gallery_1_1_helpers_1_1_text_helper_facts.html", "de/d57/class_nu_get_gallery_1_1_helpers_1_1_text_helper_facts" ],
-      [ "LargeTestGenerator", "da/dbb/class_nu_get_gallery_1_1_helpers_1_1_large_test_generator.html", "da/dbb/class_nu_get_gallery_1_1_helpers_1_1_large_test_generator" ]
     ] ],
     [ "TextType.cs", "d6/d36/_text_type_8cs.html", [
       [ "TextType", "dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_text_type.html", "dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_text_type" ]
@@ -13811,9 +8586,6 @@ var files_dup =
     [ "ThemingService.cs", "db/def/_theming_service_8cs.html", [
       [ "ThemingService", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service.html", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service" ]
     ] ],
-    [ "ThirdPartyPackageManagerViewModel.cs", "dd/dc5/_third_party_package_manager_view_model_8cs.html", [
-      [ "ThirdPartyPackageManagerViewModel", "d3/d37/class_nu_get_gallery_1_1_third_party_package_manager_view_model.html", "d3/d37/class_nu_get_gallery_1_1_third_party_package_manager_view_model" ]
-    ] ],
     [ "ThirdPartyPayerIndicatorType.cs", "d4/daa/_third_party_payer_indicator_type_8cs.html", [
       [ "ThirdPartyPayerIndicatorType", "d9/dc6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_third_party_payer_indicator_type.html", null ]
     ] ],
@@ -13825,18 +8597,6 @@ var files_dup =
     ] ],
     [ "ThresholdValueComparisonCodeType.cs", "da/d20/_threshold_value_comparison_code_type_8cs.html", [
       [ "ThresholdValueComparisonCodeType", "d2/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_threshold_value_comparison_code_type.html", null ]
-    ] ],
-    [ "ThrowingAuditingService.cs", "d4/d98/_throwing_auditing_service_8cs.html", [
-      [ "ThrowingAuditingService", "de/d80/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_auditing_service.html", "de/d80/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_auditing_service" ]
-    ] ],
-    [ "ThrowingIndexingService.cs", "d0/d31/_throwing_indexing_service_8cs.html", [
-      [ "ThrowingIndexingService", "dc/d41/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_indexing_service.html", "dc/d41/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_indexing_service" ]
-    ] ],
-    [ "ThrowingSecurityPolicyService.cs", "d9/d7a/_throwing_security_policy_service_8cs.html", [
-      [ "ThrowingSecurityPolicyService", "d8/d89/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_security_policy_service.html", "d8/d89/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_security_policy_service" ]
-    ] ],
-    [ "ThrowingTelemetryService.cs", "d8/d26/_throwing_telemetry_service_8cs.html", [
-      [ "ThrowingTelemetryService", "db/d99/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_telemetry_service.html", "db/d99/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_telemetry_service" ]
     ] ],
     [ "ThumbsResponseModel.cs", "dd/d2d/_thumbs_response_model_8cs.html", [
       [ "ThumbsResponseModel", "db/d27/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_thumbs_response_model.html", "db/d27/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_thumbs_response_model" ]
@@ -13923,14 +8683,8 @@ var files_dup =
     [ "TotalTransportHandlingUnitQuantityType.cs", "dd/dc4/_total_transport_handling_unit_quantity_type_8cs.html", [
       [ "TotalTransportHandlingUnitQuantityType", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_total_transport_handling_unit_quantity_type.html", null ]
     ] ],
-    [ "TraceDiagnosticsSource.cs", "d9/d99/_trace_diagnostics_source_8cs.html", [
-      [ "TraceDiagnosticsSource", "d2/dc1/class_nu_get_gallery_1_1_diagnostics_1_1_trace_diagnostics_source.html", "d2/dc1/class_nu_get_gallery_1_1_diagnostics_1_1_trace_diagnostics_source" ]
-    ] ],
     [ "TraceIDType.cs", "d8/de1/_trace_i_d_type_8cs.html", [
       [ "TraceIDType", "de/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_trace_i_d_type.html", null ]
-    ] ],
-    [ "TracingHttpHandler.cs", "d5/d7c/_tracing_http_handler_8cs.html", [
-      [ "TracingHttpHandler", "da/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_tracing_http_handler.html", "da/dd8/class_nu_get_gallery_1_1_infrastructure_1_1_tracing_http_handler" ]
     ] ],
     [ "TrackingDeviceCodeType.cs", "d9/d2d/_tracking_device_code_type_8cs.html", [
       [ "TrackingDeviceCodeType", "d1/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tracking_device_code_type.html", null ]
@@ -13997,12 +8751,6 @@ var files_dup =
     ] ],
     [ "Transform.cs", "d0/d2d/_transform_8cs.html", [
       [ "Transform", "dc/d94/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_transform.html", null ]
-    ] ],
-    [ "TransformAccountFailedViewModel.cs", "dc/df3/_transform_account_failed_view_model_8cs.html", [
-      [ "TransformAccountFailedViewModel", "de/d6c/class_nu_get_gallery_1_1_transform_account_failed_view_model.html", "de/d6c/class_nu_get_gallery_1_1_transform_account_failed_view_model" ]
-    ] ],
-    [ "TransformAccountViewModel.cs", "d9/d6f/_transform_account_view_model_8cs.html", [
-      [ "TransformAccountViewModel", "d6/df8/class_nu_get_gallery_1_1_transform_account_view_model.html", "d6/df8/class_nu_get_gallery_1_1_transform_account_view_model" ]
     ] ],
     [ "TransformsType.cs", "dd/da2/_transforms_type_8cs.html", [
       [ "TransformsType", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transforms_type.html", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_transforms_type" ]
@@ -14116,23 +8864,11 @@ var files_dup =
     [ "TreeResponseModel.cs", "dd/d65/_tree_response_model_8cs.html", [
       [ "TreeResponseModel", "d0/d74/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_tree_response_model.html", "d0/d74/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_tree_response_model" ]
     ] ],
-    [ "TreeView.cs", "d6/d3b/_tree_view_8cs.html", [
-      [ "TreeView", "d9/d50/class_nu_get_gallery_1_1_helpers_1_1_tree_view.html", "d9/d50/class_nu_get_gallery_1_1_helpers_1_1_tree_view" ]
-    ] ],
-    [ "TrivialPackageVersionModel.cs", "d2/dd0/_trivial_package_version_model_8cs.html", [
-      [ "TrivialPackageVersionModel", "db/dd7/class_nu_get_gallery_1_1_trivial_package_version_model.html", "db/dd7/class_nu_get_gallery_1_1_trivial_package_version_model" ]
-    ] ],
-    [ "TruncatedStream.cs", "da/dd8/_truncated_stream_8cs.html", [
-      [ "TruncatedStream", "d4/d6c/class_nu_get_gallery_1_1_helpers_1_1_truncated_stream.html", "d4/d6c/class_nu_get_gallery_1_1_helpers_1_1_truncated_stream" ]
-    ] ],
     [ "TwitterAuthenticationOptions.cs", "d0/d48/_twitter_authentication_options_8cs.html", [
       [ "TwitterAuthenticationOptions", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a.html", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a" ]
     ] ],
     [ "TwoFactorAuthenticationViewModel.cs", "da/ddb/_two_factor_authentication_view_model_8cs.html", [
       [ "TwoFactorAuthenticationViewModel", "d1/d42/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_two_factor_authentication_view_model.html", "d1/d42/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_two_factor_authentication_view_model" ]
-    ] ],
-    [ "TwoFactorFeedbackMessage.cs", "d9/d5f/_two_factor_feedback_message_8cs.html", [
-      [ "TwoFactorFeedbackMessage", "d5/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_two_factor_feedback_message.html", "d5/d4b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_two_factor_feedback_message" ]
     ] ],
     [ "TypeCodeType.cs", "d4/d3c/_type_code_type_8cs.html", [
       [ "TypeCodeType", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_type_code_type.html", null ]
@@ -14146,30 +8882,6 @@ var files_dup =
     [ "TypographyOptions.cs", "d4/d80/_typography_options_8cs.html", [
       [ "TypographyOptions", "d1/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_typography_options.html", "d1/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_typography_options" ]
     ] ],
-    [ "TyposquattingCheckForUploadPackageTests.cs", "d1/dce/_typosquatting_check_for_upload_package_tests_8cs.html", [
-      [ "TyposquattingCheckForUploadPackageTests", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests.html", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests" ]
-    ] ],
-    [ "TyposquattingCheckListCacheService.cs", "db/de8/_typosquatting_check_list_cache_service_8cs.html", [
-      [ "TyposquattingCheckListCacheService", "d5/dac/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service.html", "d5/dac/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service" ]
-    ] ],
-    [ "TyposquattingCheckListCacheServiceFacts.cs", "d2/de8/_typosquatting_check_list_cache_service_facts_8cs.html", [
-      [ "TyposquattingCheckListCacheServiceFacts", "dc/de1/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service_facts.html", "dc/de1/class_nu_get_gallery_1_1_typosquatting_check_list_cache_service_facts" ]
-    ] ],
-    [ "TyposquattingConfiguration.cs", "d2/d2b/_typosquatting_configuration_8cs.html", [
-      [ "TyposquattingConfiguration", "d7/da9/class_nu_get_gallery_1_1_services_1_1_typosquatting_configuration.html", "d7/da9/class_nu_get_gallery_1_1_services_1_1_typosquatting_configuration" ]
-    ] ],
-    [ "TyposquattingDistanceCalculation.cs", "d8/da6/_typosquatting_distance_calculation_8cs.html", null ],
-    [ "TyposquattingService.cs", "df/d21/_typosquatting_service_8cs.html", [
-      [ "TyposquattingService", "d1/d6e/class_nu_get_gallery_1_1_typosquatting_service.html", "d1/d6e/class_nu_get_gallery_1_1_typosquatting_service" ],
-      [ "ThresholdInfo", "de/d36/class_nu_get_gallery_1_1_threshold_info.html", "de/d36/class_nu_get_gallery_1_1_threshold_info" ]
-    ] ],
-    [ "TyposquattingServiceFacts.cs", "de/d29/_typosquatting_service_facts_8cs.html", [
-      [ "TyposquattingServiceFacts", "df/d56/class_nu_get_gallery_1_1_typosquatting_service_facts.html", "df/d56/class_nu_get_gallery_1_1_typosquatting_service_facts" ]
-    ] ],
-    [ "TyposquattingStringNormalization.cs", "db/d8d/_typosquatting_string_normalization_8cs.html", null ],
-    [ "TyposquattingTestFactAttribute.cs", "db/dc7/_typosquatting_test_fact_attribute_8cs.html", [
-      [ "TyposquattingTestFactAttribute", "d1/d3a/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_typosquatting_test_fact_attribute.html", "d1/d3a/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_typosquatting_test_fact_attribute" ]
-    ] ],
     [ "UBLDocumentSignaturesType.cs", "dc/dde/_u_b_l_document_signatures_type_8cs.html", [
       [ "UBLDocumentSignaturesType", "d9/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_document_signatures_type.html", "d9/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_document_signatures_type" ]
     ] ],
@@ -14182,35 +8894,23 @@ var files_dup =
     [ "UBLVersionIDType.cs", "d8/d73/_u_b_l_version_i_d_type_8cs.html", [
       [ "UBLVersionIDType", "d6/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_b_l_version_i_d_type.html", null ]
     ] ],
-    [ "UiAuthorizeAttribute.cs", "dc/d54/_ui_authorize_attribute_8cs.html", "dc/d54/_ui_authorize_attribute_8cs" ],
-    [ "UiAuthorizeAttributeFacts.cs", "de/d01/_ui_authorize_attribute_facts_8cs.html", "de/d01/_ui_authorize_attribute_facts_8cs" ],
     [ "UnawardedNotificationType.cs", "d5/d13/_unawarded_notification_type_8cs.html", [
       [ "UnawardedNotificationType", "d2/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unawarded_notification_type.html", "d2/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unawarded_notification_type" ]
     ] ],
     [ "UNDGCodeType.cs", "d2/d2c/_u_n_d_g_code_type_8cs.html", [
       [ "UNDGCodeType", "d7/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_n_d_g_code_type.html", null ]
     ] ],
-    [ "FenixAlliance.ABM/FenixAlliance.ABM.Models/Global/Units/Unit.cs", "d2/db7/_fenix_alliance_8_a_b_m_2_fenix_alliance_8_a_b_m_8_models_2_global_2_units_2_unit_8cs.html", [
+    [ "Unit.cs", "d7/dc2/_unit_8cs.html", [
       [ "Unit", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit" ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery.Core/Unit.cs", "d7/d1a/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_8_core_2_unit_8cs.html", [
-      [ "Unit", "df/d29/class_system_1_1_unit.html", "df/d29/class_system_1_1_unit" ]
     ] ],
     [ "UnitGroup.cs", "dc/d0d/_unit_group_8cs.html", [
       [ "UnitGroup", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit_group.html", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit_group" ]
     ] ],
-    [ "UnitTestBindings.cs", "df/da2/_unit_test_bindings_8cs.html", null ],
     [ "University.cs", "d2/dbf/_university_8cs.html", [
       [ "University", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_university.html", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_university" ]
     ] ],
-    [ "UnknownEvaluatorException.cs", "df/df5/_unknown_evaluator_exception_8cs.html", [
-      [ "UnknownEvaluatorException", "d1/d5e/class_nu_get_gallery_1_1_account_deleter_1_1_unknown_evaluator_exception.html", "d1/d5e/class_nu_get_gallery_1_1_account_deleter_1_1_unknown_evaluator_exception" ]
-    ] ],
     [ "UnknownPriceIndicatorType.cs", "d1/dc7/_unknown_price_indicator_type_8cs.html", [
       [ "UnknownPriceIndicatorType", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unknown_price_indicator_type.html", null ]
-    ] ],
-    [ "UnknownSourceException.cs", "d9/d01/_unknown_source_exception_8cs.html", [
-      [ "UnknownSourceException", "d8/dbf/class_nu_get_gallery_1_1_account_deleter_1_1_unknown_source_exception.html", null ]
     ] ],
     [ "UnsignedDataObjectPropertiesType.cs", "df/dec/_unsigned_data_object_properties_type_8cs.html", [
       [ "UnsignedDataObjectPropertiesType", "d0/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unsigned_data_object_properties_type.html", "d0/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unsigned_data_object_properties_type" ]
@@ -14224,106 +8924,16 @@ var files_dup =
     [ "UnstructuredPriceType.cs", "de/d09/_unstructured_price_type_8cs.html", [
       [ "UnstructuredPriceType", "d1/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unstructured_price_type.html", "d1/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unstructured_price_type" ]
     ] ],
-    [ "UpdateDeprecationError.cs", "d6/db7/_update_deprecation_error_8cs.html", [
-      [ "UpdateDeprecationError", "d2/db1/class_nu_get_gallery_1_1_update_deprecation_error.html", "d2/db1/class_nu_get_gallery_1_1_update_deprecation_error" ]
-    ] ],
-    [ "UpdateIsLatestCommand.cs", "d7/d17/_update_is_latest_command_8cs.html", null ],
-    [ "UploadFileService.cs", "dd/d7e/_upload_file_service_8cs.html", [
-      [ "UploadFileService", "df/d73/class_nu_get_gallery_1_1_upload_file_service.html", "df/d73/class_nu_get_gallery_1_1_upload_file_service" ]
-    ] ],
-    [ "UploadFileServiceFacts.cs", "dc/df5/_upload_file_service_facts_8cs.html", [
-      [ "UploadFileServiceFacts", "dc/d8b/class_nu_get_gallery_1_1_upload_file_service_facts.html", "dc/d8b/class_nu_get_gallery_1_1_upload_file_service_facts" ],
-      [ "TheDeleteUploadFileMethod", "d7/df7/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_delete_upload_file_method.html", "d7/df7/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_delete_upload_file_method" ],
-      [ "TheGetUploadFileMethod", "d5/ddf/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_get_upload_file_method.html", "d5/ddf/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_get_upload_file_method" ],
-      [ "TheSaveUploadFileMethod", "dc/d3c/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_save_upload_file_method.html", "dc/d3c/class_nu_get_gallery_1_1_upload_file_service_facts_1_1_the_save_upload_file_method" ]
-    ] ],
-    [ "src/NuGetGallery.Services/Helpers/UploadHelper.cs", "d9/d05/src_2_nu_get_gallery_8_services_2_helpers_2_upload_helper_8cs.html", null ],
-    [ "tests/NuGetGallery.FunctionalTests.Core/Helpers/UploadHelper.cs", "db/d72/tests_2_nu_get_gallery_8_functional_tests_8_core_2_helpers_2_upload_helper_8cs.html", [
-      [ "PackageToUpload", "d9/d66/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload.html", "d9/d66/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload" ],
-      [ "PackageToUploadInternal", "de/df1/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload_internal.html", "de/df1/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_upload_helper_1_1_package_to_upload_internal" ]
-    ] ],
-    [ "UploadHelperFacts.cs", "dc/daf/_upload_helper_facts_8cs.html", [
-      [ "UploadHelperFacts", "d9/d4b/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts.html", [
-        [ "TheGetUploadTracingKeyMethod", "dc/d06/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts_1_1_the_get_upload_tracing_key_method.html", "dc/d06/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts_1_1_the_get_upload_tracing_key_method" ]
-      ] ],
-      [ "TheGetUploadTracingKeyMethod", "dc/d06/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts_1_1_the_get_upload_tracing_key_method.html", "dc/d06/class_nu_get_gallery_1_1_helpers_1_1_upload_helper_facts_1_1_the_get_upload_tracing_key_method" ]
-    ] ],
-    [ "UploadPackageFromUI.cs", "d4/d12/_upload_package_from_u_i_8cs.html", [
-      [ "UploadPackageFromUI", "dc/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_from_u_i.html", "dc/d2e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_from_u_i" ]
-    ] ],
-    [ "UploadPackageToOrganizationAsAdminFromUI.cs", "d8/d0e/_upload_package_to_organization_as_admin_from_u_i_8cs.html", [
-      [ "UploadPackageToOrganizationAsAdminFromUI", "d7/d0f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p9b99b3737d64dcbc9d92c7515e927898.html", "d7/d0f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p9b99b3737d64dcbc9d92c7515e927898" ]
-    ] ],
-    [ "UploadPackageToOrganizationAsCollaboratorFromUI.cs", "df/d18/_upload_package_to_organization_as_collaborator_from_u_i_8cs.html", [
-      [ "UploadPackageToOrganizationAsCollaboratorFromUI", "d0/df0/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p26e75d31438df68cf1e3b9b4fa66ec1f.html", "d0/df0/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_p26e75d31438df68cf1e3b9b4fa66ec1f" ]
-    ] ],
-    [ "UploadPackageToSelfFromUI.cs", "d9/d8b/_upload_package_to_self_from_u_i_8cs.html", [
-      [ "UploadPackageToSelfFromUI", "d3/d3e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_to_self_from_u_i.html", "d3/d3e/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_upload_and_download_1_1_upload_package_to_self_from_u_i" ]
-    ] ],
     [ "UpperOrangeHazardPlacardIDType.cs", "db/d7a/_upper_orange_hazard_placard_i_d_type_8cs.html", [
       [ "UpperOrangeHazardPlacardIDType", "d9/d85/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_upper_orange_hazard_placard_i_d_type.html", null ]
     ] ],
     [ "UrgencyCodeType.cs", "d2/d3b/_urgency_code_type_8cs.html", [
       [ "UrgencyCodeType", "d1/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_urgency_code_type.html", null ]
     ] ],
-    [ "UriExtensions.cs", "df/d9d/_uri_extensions_8cs.html", null ],
-    [ "UriExtensionsFacts.cs", "db/d1e/_uri_extensions_facts_8cs.html", [
-      [ "UriExtensionsFacts", "d4/d74/class_nu_get_gallery_1_1_uri_extensions_facts.html", [
-        [ "TheAppendQueryStringToRelativeUriMethod", "d1/d2b/class_nu_get_gallery_1_1_uri_extensions_facts_1_1_the_append_query_string_to_relative_uri_method.html", "d1/d2b/class_nu_get_gallery_1_1_uri_extensions_facts_1_1_the_append_query_string_to_relative_uri_method" ]
-      ] ],
-      [ "TheAppendQueryStringToRelativeUriMethod", "d1/d2b/class_nu_get_gallery_1_1_uri_extensions_facts_1_1_the_append_query_string_to_relative_uri_method.html", "d1/d2b/class_nu_get_gallery_1_1_uri_extensions_facts_1_1_the_append_query_string_to_relative_uri_method" ]
-    ] ],
     [ "URIType.cs", "d3/d8d/_u_r_i_type_8cs.html", [
       [ "URIType", "d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_r_i_type.html", null ]
     ] ],
-    [ "Url.ascx.cs", "d0/d58/_url_8ascx_8cs.html", [
-      [ "UrlField", "db/d92/class_nu_get_gallery_1_1_url_field.html", "db/d92/class_nu_get_gallery_1_1_url_field" ]
-    ] ],
-    [ "Url.ascx.designer.cs", "df/d45/_url_8ascx_8designer_8cs.html", [
-      [ "UrlField", "db/d92/class_nu_get_gallery_1_1_url_field.html", "db/d92/class_nu_get_gallery_1_1_url_field" ]
-    ] ],
-    [ "Url_Edit.ascx.cs", "dc/dbc/_url___edit_8ascx_8cs.html", [
-      [ "Url_EditField", "d8/de0/class_nu_get_gallery_1_1_url___edit_field.html", "d8/de0/class_nu_get_gallery_1_1_url___edit_field" ]
-    ] ],
-    [ "Url_Edit.ascx.designer.cs", "d7/d96/_url___edit_8ascx_8designer_8cs.html", [
-      [ "Url_EditField", "d8/de0/class_nu_get_gallery_1_1_url___edit_field.html", "d8/de0/class_nu_get_gallery_1_1_url___edit_field" ]
-    ] ],
-    [ "UrlHelper.cs", "dc/daa/_url_helper_8cs.html", [
-      [ "UrlHelper", "d7/def/class_nu_get_gallery_1_1_functional_tests_1_1_url_helper.html", null ]
-    ] ],
-    [ "FenixAlliance.ABS/FenixAlliance.ABS.NuGetGallery/src/NuGetGallery/UrlHelperExtensions.cs", "d2/d57/_fenix_alliance_8_a_b_s_2_fenix_alliance_8_a_b_s_8_nu_get_gallery_2src_2_nu_get_gallery_2_url_helper_extensions_8cs.html", null ],
-    [ "FenixAlliance.APS/FenixAlliance.APS.Core/Extensions/UrlHelperExtensions.cs", "d4/d8e/_fenix_alliance_8_a_p_s_2_fenix_alliance_8_a_p_s_8_core_2_extensions_2_url_helper_extensions_8cs.html", null ],
-    [ "UrlHelperExtensionsFacts.cs", "d0/d16/_url_helper_extensions_facts_8cs.html", [
-      [ "UrlHelperExtensionsFacts", "da/d38/class_nu_get_gallery_1_1_url_helper_extensions_facts.html", [
-        [ "TheDeleteOrganizationCertificateTemplateMethod", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method.html", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method" ],
-        [ "TheDeleteUserCertificateTemplateMethod", "dd/d88/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_user_certificate_template_method.html", "dd/d88/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_user_certificate_template_method" ],
-        [ "TheEnsureTrailingSlashHelperMethod", "db/d93/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_ensure_trailing_slash_helper_method.html", "db/d93/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_ensure_trailing_slash_helper_method" ],
-        [ "TheGetAbsoluteReturnUrlMethod", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method.html", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method" ],
-        [ "TheGetActionLinkMethod", "dd/df5/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_action_link_method.html", "dd/df5/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_action_link_method" ],
-        [ "TheLicenseMethod", "d3/d99/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_license_method.html", "d3/d99/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_license_method" ],
-        [ "ThePackageBaseHelperMethod", "d1/df8/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_base_helper_method.html", "d1/df8/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_base_helper_method" ],
-        [ "ThePackageHelperMethod", "d5/d54/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_helper_method.html", "d5/d54/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_helper_method" ],
-        [ "ThePackageRegistrationTemplateHelperMethod", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method.html", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method" ],
-        [ "ThePackageVersionActionTemplate", "d0/dd1/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_version_action_template.html", "d0/dd1/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_version_action_template" ],
-        [ "TheSetRequiredSignerTemplateMethod", "d0/df2/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_set_required_signer_template_method.html", "d0/df2/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_set_required_signer_template_method" ],
-        [ "TheUserTemplateHelperMethod", "d5/de4/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_user_template_helper_method.html", "d5/de4/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_user_template_helper_method" ]
-      ] ],
-      [ "TheEnsureTrailingSlashHelperMethod", "db/d93/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_ensure_trailing_slash_helper_method.html", "db/d93/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_ensure_trailing_slash_helper_method" ],
-      [ "ThePackageBaseHelperMethod", "d1/df8/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_base_helper_method.html", "d1/df8/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_base_helper_method" ],
-      [ "ThePackageHelperMethod", "d5/d54/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_helper_method.html", "d5/d54/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_helper_method" ],
-      [ "TheLicenseMethod", "d3/d99/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_license_method.html", "d3/d99/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_license_method" ],
-      [ "ThePackageRegistrationTemplateHelperMethod", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method.html", "df/db7/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_registration_template_helper_method" ],
-      [ "ThePackageVersionActionTemplate", "d0/dd1/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_version_action_template.html", "d0/dd1/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_package_version_action_template" ],
-      [ "TheUserTemplateHelperMethod", "d5/de4/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_user_template_helper_method.html", "d5/de4/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_user_template_helper_method" ],
-      [ "TheGetAbsoluteReturnUrlMethod", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method.html", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method" ],
-      [ "TheGetActionLinkMethod", "dd/df5/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_action_link_method.html", "dd/df5/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_action_link_method" ],
-      [ "TheDeleteUserCertificateTemplateMethod", "dd/d88/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_user_certificate_template_method.html", "dd/d88/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_user_certificate_template_method" ],
-      [ "TheDeleteOrganizationCertificateTemplateMethod", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method.html", "dd/d8b/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_delete_organization_certificate_template_method" ],
-      [ "TheSetRequiredSignerTemplateMethod", "d0/df2/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_set_required_signer_template_method.html", "d0/df2/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_set_required_signer_template_method" ]
-    ] ],
-    [ "UrlHelperFacts.cs", "db/d97/_url_helper_facts_8cs.html", [
-      [ "UrlHelperFacts", "d7/d54/class_nu_get_gallery_1_1_views_1_1_url_helper_facts.html", "d7/d54/class_nu_get_gallery_1_1_views_1_1_url_helper_facts" ]
-    ] ],
+    [ "UrlHelperExtensions.cs", "da/dbf/_url_helper_extensions_8cs.html", null ],
     [ "UrlRedirectOptions.cs", "d6/d3c/_url_redirect_options_8cs.html", [
       [ "UrlRedirectOptions", "d6/d6a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_redirect_options.html", "d6/d6a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_redirect_options" ]
     ] ],
@@ -14336,198 +8946,8 @@ var files_dup =
     [ "UrlRewriteRule.cs", "d9/d66/_url_rewrite_rule_8cs.html", [
       [ "UrlRewriteRule", "de/d5f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_rewrite_rule.html", "de/d5f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_rewrite_rule" ]
     ] ],
-    [ "UseInvariantCultureAttribute.cs", "de/d37/_use_invariant_culture_attribute_8cs.html", [
-      [ "UseInvariantCultureAttribute", "d8/d09/class_nu_get_gallery_1_1_test_utils_1_1_use_invariant_culture_attribute.html", "d8/d09/class_nu_get_gallery_1_1_test_utils_1_1_use_invariant_culture_attribute" ]
-    ] ],
-    [ "User.cs", "dc/da5/_user_8cs.html", [
-      [ "User", "de/def/class_nu_get_1_1_services_1_1_entities_1_1_user.html", "de/def/class_nu_get_1_1_services_1_1_entities_1_1_user" ]
-    ] ],
-    [ "UserAccountViewModel.cs", "d3/d05/_user_account_view_model_8cs.html", [
-      [ "UserAccountViewModel", "d9/d14/class_nu_get_gallery_1_1_user_account_view_model.html", "d9/d14/class_nu_get_gallery_1_1_user_account_view_model" ]
-    ] ],
-    [ "UserAuditRecord.cs", "d4/d46/_user_audit_record_8cs.html", [
-      [ "UserAuditRecord", "d5/df6/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record.html", "d5/df6/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record" ]
-    ] ],
-    [ "UserAuditRecordFacts.cs", "df/d63/_user_audit_record_facts_8cs.html", [
-      [ "UserAuditRecordFacts", "df/d96/class_nu_get_gallery_1_1_infrastructure_1_1_user_audit_record_facts.html", "df/d96/class_nu_get_gallery_1_1_infrastructure_1_1_user_audit_record_facts" ]
-    ] ],
-    [ "UserAuditRecordTests.cs", "d5/d53/_user_audit_record_tests_8cs.html", [
-      [ "UserAuditRecordTests", "da/d2e/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record_tests.html", "da/d2e/class_nu_get_gallery_1_1_auditing_1_1_user_audit_record_tests" ]
-    ] ],
-    [ "UserCertificate.cs", "d8/d74/_user_certificate_8cs.html", [
-      [ "UserCertificate", "d2/da6/class_nu_get_1_1_services_1_1_entities_1_1_user_certificate.html", "d2/da6/class_nu_get_1_1_services_1_1_entities_1_1_user_certificate" ]
-    ] ],
     [ "UserContext.cs", "d7/de2/_user_context_8cs.html", [
       [ "UserContext", "d8/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_user_context.html", "d8/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_user_context" ]
-    ] ],
-    [ "UserDeletedErrorFilter.cs", "d2/ddf/_user_deleted_error_filter_8cs.html", [
-      [ "UserDeletedErrorFilter", "d8/dfe/class_nu_get_gallery_1_1_infrastructure_1_1_user_deleted_error_filter.html", "d8/dfe/class_nu_get_gallery_1_1_infrastructure_1_1_user_deleted_error_filter" ]
-    ] ],
-    [ "UserEvaluatorComparer.cs", "db/dff/_user_evaluator_comparer_8cs.html", [
-      [ "UserEvaluatorComparer", "d3/da4/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_comparer.html", "d3/da4/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_comparer" ]
-    ] ],
-    [ "UserEvaluatorFactory.cs", "d8/d09/_user_evaluator_factory_8cs.html", [
-      [ "UserEvaluatorFactory", "df/d35/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_factory.html", "df/d35/class_nu_get_gallery_1_1_account_deleter_1_1_user_evaluator_factory" ]
-    ] ],
-    [ "UserExtensions.cs", "df/d16/_user_extensions_8cs.html", null ],
-    [ "UserExtensionsCore.cs", "d8/d5c/_user_extensions_core_8cs.html", null ],
-    [ "UserExtensionsCoreFacts.cs", "d0/dc5/_user_extensions_core_facts_8cs.html", [
-      [ "UserExtensionsCoreFacts", "d3/d6c/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts.html", [
-        [ "TheToMailAddressMethod", "d1/ddb/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts_1_1_the_to_mail_address_method.html", "d1/ddb/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts_1_1_the_to_mail_address_method" ]
-      ] ],
-      [ "TheToMailAddressMethod", "d1/ddb/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts_1_1_the_to_mail_address_method.html", "d1/ddb/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_core_facts_1_1_the_to_mail_address_method" ]
-    ] ],
-    [ "UserExtensionsFacts.cs", "df/d00/_user_extensions_facts_8cs.html", "df/d00/_user_extensions_facts_8cs" ],
-    [ "UserFacts.cs", "d1/d96/_user_facts_8cs.html", [
-      [ "UserFacts", "dc/d7d/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_facts.html", "dc/d7d/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_facts" ]
-    ] ],
-    [ "UsernameValidationRegex.cs", "d2/d95/_username_validation_regex_8cs.html", [
-      [ "UsernameValidationRegex", "d3/d59/class_nu_get_gallery_1_1_username_validation_regex.html", "d3/d59/class_nu_get_gallery_1_1_username_validation_regex" ]
-    ] ],
-    [ "UserNotFoundException.cs", "db/dfc/_user_not_found_exception_8cs.html", [
-      [ "UserNotFoundException", "dc/d66/class_nu_get_gallery_1_1_account_deleter_1_1_user_not_found_exception.html", null ]
-    ] ],
-    [ "UserPackageDeleteEvent.cs", "de/de8/_user_package_delete_event_8cs.html", [
-      [ "UserPackageDeleteEvent", "d2/d1c/class_nu_get_gallery_1_1_user_package_delete_event.html", "d2/d1c/class_nu_get_gallery_1_1_user_package_delete_event" ]
-    ] ],
-    [ "UserPackageDeleteOutcome.cs", "df/d6b/_user_package_delete_outcome_8cs.html", "df/d6b/_user_package_delete_outcome_8cs" ],
-    [ "UserProfileModel.cs", "d2/d3b/_user_profile_model_8cs.html", [
-      [ "UserProfileModel", "d9/d70/class_nu_get_gallery_1_1_user_profile_model.html", "d9/d70/class_nu_get_gallery_1_1_user_profile_model" ]
-    ] ],
-    [ "UserProfileModelFacts.cs", "da/dd2/_user_profile_model_facts_8cs.html", [
-      [ "UserProfileModelFacts", "d3/d56/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts.html", [
-        [ "TheTotalDownloadCountProperty", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property" ]
-      ] ],
-      [ "TheTotalDownloadCountProperty", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property" ]
-    ] ],
-    [ "UserSafeException.cs", "d2/d6d/_user_safe_exception_8cs.html", [
-      [ "IUserSafeException", "d7/db3/interface_nu_get_gallery_1_1_i_user_safe_exception.html", "d7/db3/interface_nu_get_gallery_1_1_i_user_safe_exception" ],
-      [ "UserSafeException", "d7/d13/class_nu_get_gallery_1_1_user_safe_exception.html", "d7/d13/class_nu_get_gallery_1_1_user_safe_exception" ]
-    ] ],
-    [ "UsersController.cs", "dc/d54/_users_controller_8cs.html", [
-      [ "UsersController", "d4/d4c/class_nu_get_gallery_1_1_users_controller.html", "d4/d4c/class_nu_get_gallery_1_1_users_controller" ]
-    ] ],
-    [ "UsersControllerFacts.cs", "d1/d31/_users_controller_facts_8cs.html", [
-      [ "UsersControllerFacts", "d6/d4a/class_nu_get_gallery_1_1_users_controller_facts.html", "d6/d4a/class_nu_get_gallery_1_1_users_controller_facts" ],
-      [ "TheAccountAction", "d2/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_account_action.html", "d2/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_account_action" ],
-      [ "TheCancelChangeEmailAction", "d4/d0c/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_change_email_action.html", null ],
-      [ "TheChangeEmailAction", "d2/d27/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_email_action.html", "d2/d27/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_email_action" ],
-      [ "TheConfirmationRequiredAction", "d9/def/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirmation_required_action.html", null ],
-      [ "TheConfirmationRequiredPostAction", "d8/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirmation_required_post_action.html", null ],
-      [ "TheChangeEmailSubscriptionAction", "d3/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_email_subscription_action.html", null ],
-      [ "TheThanksAction", "d4/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_thanks_action.html", "d4/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_thanks_action" ],
-      [ "TheForgotPasswordAction", "d6/d28/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_forgot_password_action.html", "d6/d28/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_forgot_password_action" ],
-      [ "TheResetPasswordAction", "de/d10/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reset_password_action.html", "de/d10/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reset_password_action" ],
-      [ "TheConfirmAction", "d4/db8/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_action.html", null ],
-      [ "TheApiKeysAction", "da/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_api_keys_action.html", "da/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_api_keys_action" ],
-      [ "TheGenerateApiKeyAction", "df/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_generate_api_key_action.html", "df/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_generate_api_key_action" ],
-      [ "TheProfilesAction", "d8/d0f/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_profiles_action.html", "d8/d0f/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_profiles_action" ],
-      [ "TheChangePasswordAction", "d0/df1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_password_action.html", "d0/df1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_password_action" ],
-      [ "TheChangeMultiFactorAuthenticationAction", "d6/dd0/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_multi_factor_authentication_action.html", "d6/dd0/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_change_multi_factor_authentication_action" ],
-      [ "TheRemovePasswordAction", "de/d23/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_password_action.html", "de/d23/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_password_action" ],
-      [ "TheRemoveCredentialAction", "dc/dde/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_credential_action.html", "dc/dde/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_remove_credential_action" ],
-      [ "TheLinkOrChangeCredentialAction", "df/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_link_or_change_credential_action.html", "df/db7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_link_or_change_credential_action" ],
-      [ "TheRegenerateCredentialAction", "d9/d46/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_regenerate_credential_action.html", "d9/d46/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_regenerate_credential_action" ],
-      [ "TheEditCredentialAction", "d0/de4/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_edit_credential_action.html", "d0/de4/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_edit_credential_action" ],
-      [ "TheDeleteAccountRequestAction", "d0/d69/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_account_request_action.html", "d0/d69/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_account_request_action" ],
-      [ "TheRequestAccountDeletionAction", "d8/de1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_request_account_deletion_action.html", "d8/de1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_request_account_deletion_action" ],
-      [ "TheTransformToOrganizationActionBase", "dd/dee/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_transform_to_organization_action_base.html", "dd/dee/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_transform_to_organization_action_base" ],
-      [ "TheGetTransformToOrganizationAction", "db/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_transform_to_organization_action.html", "db/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_transform_to_organization_action" ],
-      [ "ThePostTransformToOrganizationAction", "d6/d21/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_post_transform_to_organization_action.html", "d6/d21/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_post_transform_to_organization_action" ],
-      [ "TheConfirmTransformToOrganizationRedirectAction", "db/dd9/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_redirect_action.html", "db/dd9/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_redirect_action" ],
-      [ "TheConfirmTransformToOrganizationAction", "d3/d26/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_action.html", "d3/d26/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_confirm_transform_to_organization_action" ],
-      [ "TheRejectTransformToOrganizationRedirectAction", "d5/dcb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_redirect_action.html", "d5/dcb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_redirect_action" ],
-      [ "TheRejectTransformToOrganizationAction", "db/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_action.html", "db/dbb/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_reject_transform_to_organization_action" ],
-      [ "TheCancelTransformToOrganizationRedirectAction", "d3/d7a/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_redirect_action.html", "d3/d7a/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_redirect_action" ],
-      [ "TheCancelTransformToOrganizationAction", "d8/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_action.html", "d8/d88/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_cancel_transform_to_organization_action" ],
-      [ "TheGetCertificateAction", "dc/dd1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificate_action.html", "dc/dd1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificate_action" ],
-      [ "TheGetCertificatesAction", "d3/df7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificates_action.html", "d3/df7/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_certificates_action" ],
-      [ "TheAddCertificateAction", "dc/d0c/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_add_certificate_action.html", "dc/d0c/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_add_certificate_action" ],
-      [ "TheDeleteCertificateAction", "dd/daa/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_certificate_action.html", "dd/daa/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_certificate_action" ],
-      [ "TheDeleteUserAccountAction", "d1/db1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_user_account_action.html", "d1/db1/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_delete_user_account_action" ],
-      [ "ThePackagesAction", "df/d34/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_packages_action.html", "df/d34/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_packages_action" ],
-      [ "TheGetAvatarAction", "d9/dfc/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_avatar_action.html", "d9/dfc/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_avatar_action" ]
-    ] ],
-    [ "UserSecurityPolicy.cs", "dc/d8c/_user_security_policy_8cs.html", [
-      [ "UserSecurityPolicy", "db/d01/class_nu_get_1_1_services_1_1_entities_1_1_user_security_policy.html", "db/d01/class_nu_get_1_1_services_1_1_entities_1_1_user_security_policy" ]
-    ] ],
-    [ "UserSecurityPolicyAuditRecord.cs", "d7/d70/_user_security_policy_audit_record_8cs.html", [
-      [ "UserSecurityPolicyAuditRecord", "d4/d2b/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record.html", "d4/d2b/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record" ]
-    ] ],
-    [ "UserSecurityPolicyAuditRecordFacts.cs", "d1/d6e/_user_security_policy_audit_record_facts_8cs.html", [
-      [ "UserSecurityPolicyAuditRecordFacts", "dc/d8a/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record_facts.html", "dc/d8a/class_nu_get_gallery_1_1_auditing_1_1_user_security_policy_audit_record_facts" ]
-    ] ],
-    [ "UserSecurityPolicyEvaluationContext.cs", "dd/ddf/_user_security_policy_evaluation_context_8cs.html", [
-      [ "UserSecurityPolicyEvaluationContext", "d7/d0e/class_nu_get_gallery_1_1_security_1_1_user_security_policy_evaluation_context.html", "d7/d0e/class_nu_get_gallery_1_1_security_1_1_user_security_policy_evaluation_context" ]
-    ] ],
-    [ "UserSecurityPolicyFacts.cs", "db/d96/_user_security_policy_facts_8cs.html", [
-      [ "UserSecurityPolicyFacts", "de/dff/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_security_policy_facts.html", "de/dff/class_nu_get_1_1_services_1_1_entities_1_1_tests_1_1_user_security_policy_facts" ]
-    ] ],
-    [ "UserSecurityPolicyHandler.cs", "dd/d27/_user_security_policy_handler_8cs.html", [
-      [ "UserSecurityPolicyHandler", "d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html", "d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler" ]
-    ] ],
-    [ "UserSecurityPolicySearchResult.cs", "d3/df5/_user_security_policy_search_result_8cs.html", [
-      [ "UserSecurityPolicySearchResult", "db/d0b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_search_result.html", "db/d0b/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_search_result" ]
-    ] ],
-    [ "UserSecurityPolicySubscriptionContext.cs", "da/d93/_user_security_policy_subscription_context_8cs.html", [
-      [ "UserSecurityPolicySubscriptionContext", "d6/da3/class_nu_get_gallery_1_1_security_1_1_user_security_policy_subscription_context.html", "d6/da3/class_nu_get_gallery_1_1_security_1_1_user_security_policy_subscription_context" ]
-    ] ],
-    [ "UserSecurityPolicySubscriptions.cs", "d8/deb/_user_security_policy_subscriptions_8cs.html", [
-      [ "UserSecurityPolicySubscriptions", "d4/d49/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_subscriptions.html", "d4/d49/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_security_policy_subscriptions" ]
-    ] ],
-    [ "UserService.cs", "d0/dd0/_user_service_8cs.html", "d0/dd0/_user_service_8cs" ],
-    [ "UserServiceFacts.cs", "d0/de2/_user_service_facts_8cs.html", [
-      [ "UserServiceFacts", "d1/d02/class_nu_get_gallery_1_1_user_service_facts.html", [
-        [ "TheAddMemberAsyncMethod", "d0/dca/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_member_async_method.html", "d0/dca/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_member_async_method" ],
-        [ "TheAddMembershipRequestAsyncMethod", "de/d1c/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_membership_request_async_method.html", "de/d1c/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_membership_request_async_method" ],
-        [ "TheAddOrganizationAccountMethod", "d9/dd1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_organization_account_method.html", "d9/dd1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_organization_account_method" ],
-        [ "TheCancelChangeEmailAddressMethod", "d1/d40/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_change_email_address_method.html", "d1/d40/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_change_email_address_method" ],
-        [ "TheCancelMembershipRequestAsyncMethod", "d1/d7b/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_membership_request_async_method.html", "d1/d7b/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_membership_request_async_method" ],
-        [ "TheCanTransformToOrganizationBaseMethod", "d6/db6/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_base_method.html", "d6/db6/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_base_method" ],
-        [ "TheCanTransformToOrganizationMethod", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method.html", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method" ],
-        [ "TheCanTransformToOrganizationWithAdminMethod", "dc/d8f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_with_admin_method.html", "dc/d8f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_with_admin_method" ],
-        [ "TheChangeEmailMethod", "de/da3/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_email_method.html", "de/da3/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_email_method" ],
-        [ "TheChangeMultiFactorAuthenticationMethod", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method.html", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method" ],
-        [ "TheConfirmEmailAddressMethod", "dc/d9d/class_nu_get_gallery_1_1_user_service_facts_1_1_the_confirm_email_address_method.html", "dc/d9d/class_nu_get_gallery_1_1_user_service_facts_1_1_the_confirm_email_address_method" ],
-        [ "TheDeleteMemberAsyncMethod", "d2/df8/class_nu_get_gallery_1_1_user_service_facts_1_1_the_delete_member_async_method.html", "d2/df8/class_nu_get_gallery_1_1_user_service_facts_1_1_the_delete_member_async_method" ],
-        [ "TheFindByEmailAddressMethod", "d5/d7f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_email_address_method.html", "d5/d7f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_email_address_method" ],
-        [ "TheFindByKeyMethod", "d8/dae/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_key_method.html", "d8/dae/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_key_method" ],
-        [ "TheFindByUsernameMethod", "d7/df1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_username_method.html", "d7/df1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_username_method" ],
-        [ "TheGetSiteAdminsMethod", "d3/d57/class_nu_get_gallery_1_1_user_service_facts_1_1_the_get_site_admins_method.html", "d3/d57/class_nu_get_gallery_1_1_user_service_facts_1_1_the_get_site_admins_method" ],
-        [ "TheRejectMembershipRequestAsyncMethod", "d8/d21/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_membership_request_async_method.html", "d8/d21/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_membership_request_async_method" ],
-        [ "TheRejectTransformUserToOrganizationRequestMethod", "d6/d9a/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_transform_user_to_organization_request_method.html", "d6/d9a/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_transform_user_to_organization_request_method" ],
-        [ "TheRequestTransformToOrganizationAccountMethod", "d2/d81/class_nu_get_gallery_1_1_user_service_facts_1_1_the_request_transform_to_organization_account_method.html", "d2/d81/class_nu_get_gallery_1_1_user_service_facts_1_1_the_request_transform_to_organization_account_method" ],
-        [ "TheSetIsAdministratorMethod", "d5/dda/class_nu_get_gallery_1_1_user_service_facts_1_1_the_set_is_administrator_method.html", "d5/dda/class_nu_get_gallery_1_1_user_service_facts_1_1_the_set_is_administrator_method" ],
-        [ "TheTransformToOrganizationAccountMethod", "db/db7/class_nu_get_gallery_1_1_user_service_facts_1_1_the_transform_to_organization_account_method.html", "db/db7/class_nu_get_gallery_1_1_user_service_facts_1_1_the_transform_to_organization_account_method" ],
-        [ "TheUpdateMemberAsyncMethod", "dc/dfd/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_member_async_method.html", "dc/dfd/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_member_async_method" ],
-        [ "TheUpdateProfileMethod", "de/dd0/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_profile_method.html", "de/dd0/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_profile_method" ]
-      ] ],
-      [ "TheFindByKeyMethod", "d8/dae/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_key_method.html", "d8/dae/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_key_method" ],
-      [ "TheFindByUsernameMethod", "d7/df1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_username_method.html", "d7/df1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_username_method" ],
-      [ "TheAddMembershipRequestAsyncMethod", "de/d1c/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_membership_request_async_method.html", "de/d1c/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_membership_request_async_method" ],
-      [ "TheAddMemberAsyncMethod", "d0/dca/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_member_async_method.html", "d0/dca/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_member_async_method" ],
-      [ "TheDeleteMemberAsyncMethod", "d2/df8/class_nu_get_gallery_1_1_user_service_facts_1_1_the_delete_member_async_method.html", "d2/df8/class_nu_get_gallery_1_1_user_service_facts_1_1_the_delete_member_async_method" ],
-      [ "TheRejectMembershipRequestAsyncMethod", "d8/d21/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_membership_request_async_method.html", "d8/d21/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_membership_request_async_method" ],
-      [ "TheCancelMembershipRequestAsyncMethod", "d1/d7b/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_membership_request_async_method.html", "d1/d7b/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_membership_request_async_method" ],
-      [ "TheUpdateMemberAsyncMethod", "dc/dfd/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_member_async_method.html", "dc/dfd/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_member_async_method" ],
-      [ "TheConfirmEmailAddressMethod", "dc/d9d/class_nu_get_gallery_1_1_user_service_facts_1_1_the_confirm_email_address_method.html", "dc/d9d/class_nu_get_gallery_1_1_user_service_facts_1_1_the_confirm_email_address_method" ],
-      [ "TheFindByEmailAddressMethod", "d5/d7f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_email_address_method.html", "d5/d7f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_find_by_email_address_method" ],
-      [ "TheChangeEmailMethod", "de/da3/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_email_method.html", "de/da3/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_email_method" ],
-      [ "TheCancelChangeEmailAddressMethod", "d1/d40/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_change_email_address_method.html", "d1/d40/class_nu_get_gallery_1_1_user_service_facts_1_1_the_cancel_change_email_address_method" ],
-      [ "TheChangeMultiFactorAuthenticationMethod", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method.html", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method" ],
-      [ "TheUpdateProfileMethod", "de/dd0/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_profile_method.html", "de/dd0/class_nu_get_gallery_1_1_user_service_facts_1_1_the_update_profile_method" ],
-      [ "TheCanTransformToOrganizationBaseMethod", "d6/db6/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_base_method.html", "d6/db6/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_base_method" ],
-      [ "TheCanTransformToOrganizationMethod", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method.html", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method" ],
-      [ "TheCanTransformToOrganizationWithAdminMethod", "dc/d8f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_with_admin_method.html", "dc/d8f/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_with_admin_method" ],
-      [ "TheRequestTransformToOrganizationAccountMethod", "d2/d81/class_nu_get_gallery_1_1_user_service_facts_1_1_the_request_transform_to_organization_account_method.html", "d2/d81/class_nu_get_gallery_1_1_user_service_facts_1_1_the_request_transform_to_organization_account_method" ],
-      [ "TheTransformToOrganizationAccountMethod", "db/db7/class_nu_get_gallery_1_1_user_service_facts_1_1_the_transform_to_organization_account_method.html", "db/db7/class_nu_get_gallery_1_1_user_service_facts_1_1_the_transform_to_organization_account_method" ],
-      [ "TheAddOrganizationAccountMethod", "d9/dd1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_organization_account_method.html", "d9/dd1/class_nu_get_gallery_1_1_user_service_facts_1_1_the_add_organization_account_method" ],
-      [ "TheRejectTransformUserToOrganizationRequestMethod", "d6/d9a/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_transform_user_to_organization_request_method.html", "d6/d9a/class_nu_get_gallery_1_1_user_service_facts_1_1_the_reject_transform_user_to_organization_request_method" ],
-      [ "TheGetSiteAdminsMethod", "d3/d57/class_nu_get_gallery_1_1_user_service_facts_1_1_the_get_site_admins_method.html", "d3/d57/class_nu_get_gallery_1_1_user_service_facts_1_1_the_get_site_admins_method" ],
-      [ "TheSetIsAdministratorMethod", "d5/dda/class_nu_get_gallery_1_1_user_service_facts_1_1_the_set_is_administrator_method.html", "d5/dda/class_nu_get_gallery_1_1_user_service_facts_1_1_the_set_is_administrator_method" ]
-    ] ],
-    [ "UserViewModel.cs", "d5/d0e/_user_view_model_8cs.html", [
-      [ "UserViewModel", "d0/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_view_model.html", "d0/d60/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_user_view_model" ]
     ] ],
     [ "UtilityItemType.cs", "dd/dae/_utility_item_type_8cs.html", [
       [ "UtilityItemType", "d4/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_item_type.html", "d4/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_item_type" ]
@@ -14541,39 +8961,8 @@ var files_dup =
     [ "UUIDType.cs", "d9/dc3/_u_u_i_d_type_8cs.html", [
       [ "UUIDType", "d6/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_u_u_i_d_type.html", null ]
     ] ],
-    [ "V1FeedPackage.cs", "d7/d38/_v1_feed_package_8cs.html", [
-      [ "V1FeedPackage", "d3/d81/class_nu_get_gallery_1_1_o_data_1_1_v1_feed_package.html", "d3/d81/class_nu_get_gallery_1_1_o_data_1_1_v1_feed_package" ]
-    ] ],
-    [ "V1FeedPackageAnnotationStrategy.cs", "d0/d32/_v1_feed_package_annotation_strategy_8cs.html", null ],
-    [ "V1FeedPackageAnnotationStrategyFacts.cs", "d8/de3/_v1_feed_package_annotation_strategy_facts_8cs.html", [
-      [ "V1FeedPackageAnnotationStrategyFacts", "d0/daf/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v1_feed_package_annotation_strategy_facts.html", "d0/daf/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v1_feed_package_annotation_strategy_facts" ]
-    ] ],
-    [ "V2FeedExtendedTests.cs", "de/d30/_v2_feed_extended_tests_8cs.html", [
-      [ "V2FeedExtendedTests", "df/d5f/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_extended_tests.html", "df/d5f/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_extended_tests" ]
-    ] ],
-    [ "V2FeedPackage.cs", "d9/d1b/_v2_feed_package_8cs.html", [
-      [ "V2FeedPackage", "d7/db8/class_nu_get_gallery_1_1_o_data_1_1_v2_feed_package.html", "d7/db8/class_nu_get_gallery_1_1_o_data_1_1_v2_feed_package" ]
-    ] ],
-    [ "V2FeedPackageAnnotationStrategy.cs", "de/d35/_v2_feed_package_annotation_strategy_8cs.html", null ],
-    [ "V2FeedPackageAnnotationStrategyFacts.cs", "d3/dda/_v2_feed_package_annotation_strategy_facts_8cs.html", [
-      [ "V2FeedPackageAnnotationStrategyFacts", "de/ded/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v2_feed_package_annotation_strategy_facts.html", "de/ded/class_nu_get_gallery_1_1_o_data_1_1_serializers_1_1_v2_feed_package_annotation_strategy_facts" ]
-    ] ],
-    [ "V2FeedTests.cs", "da/dd3/_v2_feed_tests_8cs.html", [
-      [ "V2FeedTests", "db/d70/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_tests.html", "db/d70/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_feeds_1_1_v2_feed_tests" ]
-    ] ],
-    [ "V3Hasher.cs", "d6/d4e/_v3_hasher_8cs.html", null ],
-    [ "V3HasherTests.cs", "d4/dbb/_v3_hasher_tests_8cs.html", [
-      [ "V3HasherTests", "de/d9c/class_nu_get_gallery_1_1_authentication_1_1_v3_hasher_tests.html", "de/d9c/class_nu_get_gallery_1_1_authentication_1_1_v3_hasher_tests" ]
-    ] ],
-    [ "ValidateMigrationsFacts.cs", "d7/d7e/_validate_migrations_facts_8cs.html", [
-      [ "ValidateMigrationsFacts", "da/dea/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_validate_migrations_facts.html", "da/dea/class_nu_get_1_1_services_1_1_database_migration_1_1_facts_1_1_validate_migrations_facts" ]
-    ] ],
     [ "ValidateProcessType.cs", "dd/dca/_validate_process_type_8cs.html", [
       [ "ValidateProcessType", "de/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validate_process_type.html", null ]
-    ] ],
-    [ "ValidateRecaptchaResponseAttribute.cs", "d6/d0f/_validate_recaptcha_response_attribute_8cs.html", [
-      [ "ValidateRecaptchaResponseAttribute", "d4/d6a/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute.html", "d4/d6a/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute" ],
-      [ "RecaptchaState", "d5/daf/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute_1_1_recaptcha_state.html", "d5/daf/class_nu_get_gallery_1_1_filters_1_1_validate_recaptcha_response_attribute_1_1_recaptcha_state" ]
     ] ],
     [ "ValidateToolType.cs", "d4/d96/_validate_tool_type_8cs.html", [
       [ "ValidateToolType", "d3/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validate_tool_type.html", null ]
@@ -14581,88 +8970,21 @@ var files_dup =
     [ "ValidateToolVersionType.cs", "d5/daa/_validate_tool_version_type_8cs.html", [
       [ "ValidateToolVersionType", "da/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validate_tool_version_type.html", null ]
     ] ],
-    [ "ValidationAdminService.cs", "d8/d34/_validation_admin_service_8cs.html", [
-      [ "ValidationAdminService", "d0/d73/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service.html", "d0/d73/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service" ]
-    ] ],
-    [ "ValidationAdminServiceFacts.cs", "d7/d6e/_validation_admin_service_facts_8cs.html", [
-      [ "ValidationAdminServiceFacts", "dd/dde/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts.html", [
-        [ "FactsBase", "d8/d51/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_facts_base.html", "d8/d51/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_facts_base" ],
-        [ "TheGetPackageDeletedStatusMethod", "df/d14/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the34f21e1494e5cf40c504bdcff6d3261b.html", "df/d14/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the34f21e1494e5cf40c504bdcff6d3261b" ],
-        [ "TheGetSymbolsPackageDeletedStatusMethod", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b" ],
-        [ "TheSearchMethod", "d1/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the_search_method.html", "d1/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the_search_method" ]
-      ] ],
-      [ "TheSearchMethod", "d1/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the_search_method.html", "d1/d64/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the_search_method" ],
-      [ "TheGetPackageDeletedStatusMethod", "df/d14/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the34f21e1494e5cf40c504bdcff6d3261b.html", "df/d14/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the34f21e1494e5cf40c504bdcff6d3261b" ],
-      [ "TheGetSymbolsPackageDeletedStatusMethod", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b.html", "d9/d40/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_the44c55e966167f130bb0abe2d9e0da55b" ],
-      [ "FactsBase", "d8/d51/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_facts_base.html", "d8/d51/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_admin_service_facts_1_1_facts_base" ]
-    ] ],
-    [ "ValidationController.cs", "de/dd1/_validation_controller_8cs.html", [
-      [ "ValidationController", "d0/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_validation_controller.html", "d0/df3/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_validation_controller" ]
-    ] ],
     [ "ValidationDataType.cs", "da/d02/_validation_data_type_8cs.html", [
       [ "ValidationDataType", "d8/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_data_type.html", "d8/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_data_type" ]
     ] ],
     [ "ValidationDateType.cs", "d5/d40/_validation_date_type_8cs.html", [
       [ "ValidationDateType", "d6/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_date_type.html", null ]
     ] ],
-    [ "ValidationDbMigrationContext.cs", "d0/dc6/_validation_db_migration_context_8cs.html", [
-      [ "ValidationDbMigrationContext", "df/dad/class_nu_get_gallery_1_1_database_migration_tools_1_1_validation_db_migration_context.html", "df/dad/class_nu_get_gallery_1_1_database_migration_tools_1_1_validation_db_migration_context" ]
-    ] ],
-    [ "ValidationEntityRepository.cs", "d2/dce/_validation_entity_repository_8cs.html", [
-      [ "ValidationEntityRepository", "dd/d67/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_entity_repository.html", "dd/d67/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_validation_entity_repository" ]
-    ] ],
-    [ "ValidationHelper.cs", "d2/da0/_validation_helper_8cs.html", [
-      [ "ValidationHelper", "d0/dc7/class_nu_get_gallery_1_1_helpers_1_1_validation_helper.html", null ]
-    ] ],
-    [ "ValidationHelperFacts.cs", "da/db1/_validation_helper_facts_8cs.html", [
-      [ "ValidationHelperFacts", "dd/dab/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts.html", [
-        [ "HasDuplicatedEntriesMethod", "d2/de9/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts_1_1_has_duplicated_entries_method.html", "d2/de9/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts_1_1_has_duplicated_entries_method" ]
-      ] ],
-      [ "HasDuplicatedEntriesMethod", "d2/de9/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts_1_1_has_duplicated_entries_method.html", "d2/de9/class_nu_get_gallery_1_1_helpers_1_1_validation_helper_facts_1_1_has_duplicated_entries_method" ]
-    ] ],
-    [ "ValidationIssueExtensions.cs", "d1/d59/_validation_issue_extensions_8cs.html", null ],
-    [ "ValidationIssueFacts.cs", "d1/db4/_validation_issue_facts_8cs.html", [
-      [ "ValidationIssueFacts", "d2/d1e/class_nu_get_gallery_1_1_views_1_1_packages_1_1_validation_issue_facts.html", "d2/d1e/class_nu_get_gallery_1_1_views_1_1_packages_1_1_validation_issue_facts" ]
-    ] ],
-    [ "ValidationPageViewModel.cs", "d6/dcd/_validation_page_view_model_8cs.html", [
-      [ "ValidationPageViewModel", "dd/dcc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_validation_page_view_model.html", "dd/dcc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_view_models_1_1_validation_page_view_model" ]
-    ] ],
     [ "ValidationResultCodeType.cs", "d1/d69/_validation_result_code_type_8cs.html", [
       [ "ValidationResultCodeType", "da/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_result_code_type.html", null ]
-    ] ],
-    [ "ValidationRuleFindHeaderText.cs", "db/d8e/_validation_rule_find_header_text_8cs.html", [
-      [ "ValidationRuleFindHeaderText", "d1/dca/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_validation_rule_find_header_text.html", "d1/dca/class_nu_get_gallery_1_1_functional_tests_1_1_helpers_1_1_validation_rule_find_header_text" ]
     ] ],
     [ "ValidationScriptsViewComponent.cs", "d6/d7c/_validation_scripts_view_component_8cs.html", [
       [ "ValidationScriptsViewComponent", "d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component.html", "d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component" ]
     ] ],
-    [ "ValidationService.cs", "d0/d4c/_validation_service_8cs.html", [
-      [ "ValidationService", "dc/d32/class_nu_get_gallery_1_1_validation_service.html", "dc/d32/class_nu_get_gallery_1_1_validation_service" ]
-    ] ],
-    [ "ValidationServiceFacts.cs", "d1/d56/_validation_service_facts_8cs.html", [
-      [ "ValidationServiceFacts", "d8/d94/class_nu_get_gallery_1_1_validation_service_facts.html", [
-        [ "FactsBase", "df/d04/class_nu_get_gallery_1_1_validation_service_facts_1_1_facts_base.html", "df/d04/class_nu_get_gallery_1_1_validation_service_facts_1_1_facts_base" ],
-        [ "TheGetLatestValidationIssuesMethod", "dd/d43/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_get_latest_validation_issues_method.html", "dd/d43/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_get_latest_validation_issues_method" ],
-        [ "TheIsValidatingTooLongMethod", "d8/dda/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_is_validating_too_long_method.html", "d8/dda/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_is_validating_too_long_method" ],
-        [ "TheRevalidateMethod", "d0/d72/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_revalidate_method.html", "d0/d72/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_revalidate_method" ],
-        [ "TheStartSymbolsPackageValidationAsyncMethod", "da/de0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_symbols_package_validation_async_method.html", "da/de0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_symbols_package_validation_async_method" ],
-        [ "TheStartValidationMethod", "d3/dde/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_validation_method.html", "d3/dde/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_validation_method" ],
-        [ "TheUpdatePackageAsyncMethod", "da/db0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_package_async_method.html", "da/db0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_package_async_method" ],
-        [ "TheUpdateSymbolPackageAsyncMethod", "d7/d26/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_symbol_package_async_method.html", "d7/d26/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_symbol_package_async_method" ]
-      ] ],
-      [ "TheStartValidationMethod", "d3/dde/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_validation_method.html", "d3/dde/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_validation_method" ],
-      [ "TheUpdatePackageAsyncMethod", "da/db0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_package_async_method.html", "da/db0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_package_async_method" ],
-      [ "TheStartSymbolsPackageValidationAsyncMethod", "da/de0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_symbols_package_validation_async_method.html", "da/de0/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_start_symbols_package_validation_async_method" ],
-      [ "TheUpdateSymbolPackageAsyncMethod", "d7/d26/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_symbol_package_async_method.html", "d7/d26/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_update_symbol_package_async_method" ],
-      [ "TheRevalidateMethod", "d0/d72/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_revalidate_method.html", "d0/d72/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_revalidate_method" ],
-      [ "TheIsValidatingTooLongMethod", "d8/dda/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_is_validating_too_long_method.html", "d8/dda/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_is_validating_too_long_method" ],
-      [ "TheGetLatestValidationIssuesMethod", "dd/d43/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_get_latest_validation_issues_method.html", "dd/d43/class_nu_get_gallery_1_1_validation_service_facts_1_1_the_get_latest_validation_issues_method" ],
-      [ "FactsBase", "df/d04/class_nu_get_gallery_1_1_validation_service_facts_1_1_facts_base.html", "df/d04/class_nu_get_gallery_1_1_validation_service_facts_1_1_facts_base" ]
-    ] ],
     [ "ValidationTimeType.cs", "df/db4/_validation_time_type_8cs.html", [
       [ "ValidationTimeType", "d4/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_time_type.html", null ]
     ] ],
-    [ "Validator.cs", "db/d47/_validator_8cs.html", null ],
     [ "ValidatorIDType.cs", "d5/d5d/_validator_i_d_type_8cs.html", [
       [ "ValidatorIDType", "d4/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validator_i_d_type.html", null ]
     ] ],
@@ -14702,24 +9024,8 @@ var files_dup =
     [ "VerificationOptions.cs", "de/d7a/_verification_options_8cs.html", [
       [ "VerificationOptions", "db/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_veebf61a08d456e3eb203e63e16013621e.html", null ]
     ] ],
-    [ "VerifyApiKeyCommand.cs", "d7/d6c/_verify_api_key_command_8cs.html", null ],
-    [ "VerifyGitHubVulnerabilitiesConfiguration.cs", "da/d33/_verify_git_hub_vulnerabilities_configuration_8cs.html", [
-      [ "VerifyGitHubVulnerabilitiesConfiguration", "df/d27/class_verify_git_hub_vulnerabilities_1_1_configuration_1_1_verify_git_hub_vulnerabilities_configuration.html", "df/d27/class_verify_git_hub_vulnerabilities_1_1_configuration_1_1_verify_git_hub_vulnerabilities_configuration" ]
-    ] ],
-    [ "VerifyPackageRequest.cs", "db/d1f/_verify_package_request_8cs.html", [
-      [ "VerifyPackageRequest", "dc/d7b/class_nu_get_gallery_1_1_verify_package_request.html", "dc/d7b/class_nu_get_gallery_1_1_verify_package_request" ]
-    ] ],
     [ "VersionIDType.cs", "da/d61/_version_i_d_type_8cs.html", [
       [ "VersionIDType", "db/dbe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_version_i_d_type.html", null ]
-    ] ],
-    [ "VersionRouteConstraint.cs", "dc/dd6/_version_route_constraint_8cs.html", [
-      [ "VersionRouteConstraint", "d2/db5/class_nu_get_gallery_1_1_version_route_constraint.html", "d2/db5/class_nu_get_gallery_1_1_version_route_constraint" ]
-    ] ],
-    [ "VersionRouteConstraintFacts.cs", "df/d37/_version_route_constraint_facts_8cs.html", [
-      [ "VersionRouteConstraintFacts", "d4/d9a/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts.html", [
-        [ "TheMatchMethod", "dc/d3c/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts_1_1_the_match_method.html", "dc/d3c/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts_1_1_the_match_method" ]
-      ] ],
-      [ "TheMatchMethod", "dc/d3c/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts_1_1_the_match_method.html", "dc/d3c/class_nu_get_gallery_1_1_routing_1_1_version_route_constraint_facts_1_1_the_match_method" ]
     ] ],
     [ "VesselIDType.cs", "de/d0b/_vessel_i_d_type_8cs.html", [
       [ "VesselIDType", "db/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_vessel_i_d_type.html", null ]
@@ -14744,9 +9050,6 @@ var files_dup =
     ] ],
     [ "VirtualProjectFileSystem.cs", "d1/dd4/_virtual_project_file_system_8cs.html", null ],
     [ "VirtualProjectItem.cs", "de/de4/_virtual_project_item_8cs.html", null ],
-    [ "VulnerablePackageVersionRange.cs", "d3/d0c/_vulnerable_package_version_range_8cs.html", [
-      [ "VulnerablePackageVersionRange", "dc/d08/class_nu_get_1_1_services_1_1_entities_1_1_vulnerable_package_version_range.html", "dc/d08/class_nu_get_1_1_services_1_1_entities_1_1_vulnerable_package_version_range" ]
-    ] ],
     [ "Wallet.cs", "de/dc7/_wallet_8cs.html", [
       [ "Wallet", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet.html", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet" ]
     ] ],
@@ -14780,13 +9083,6 @@ var files_dup =
     ] ],
     [ "WaybillType.cs", "d8/d97/_waybill_type_8cs.html", [
       [ "WaybillType", "d8/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_waybill_type.html", "d8/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_waybill_type" ]
-    ] ],
-    [ "WebApiConfig.cs", "d2/d2e/_web_api_config_8cs.html", null ],
-    [ "WebApiCorrelationHandler.cs", "db/d0c/_web_api_correlation_handler_8cs.html", [
-      [ "WebApiCorrelationHandler", "d2/dca/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_web_api_correlation_handler.html", "d2/dca/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_web_api_correlation_handler" ]
-    ] ],
-    [ "WebApiCorrelationHandlerFacts.cs", "de/dce/_web_api_correlation_handler_facts_8cs.html", [
-      [ "WebApiCorrelationHandlerFacts", "da/dad/class_nu_get_gallery_1_1_search_client_1_1_web_api_correlation_handler_facts.html", "da/dad/class_nu_get_gallery_1_1_search_client_1_1_web_api_correlation_handler_facts" ]
     ] ],
     [ "WebCommonsViewComponent.cs", "d5/d89/_web_commons_view_component_8cs.html", [
       [ "WebCommonsViewComponent", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component.html", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component" ]
@@ -14842,9 +9138,6 @@ var files_dup =
     ] ],
     [ "WebResource.cs", "d1/d54/_web_resource_8cs.html", [
       [ "WebResource", "d9/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_web_resource.html", "d9/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_web_resource" ]
-    ] ],
-    [ "WebRole.cs", "d3/d01/_web_role_8cs.html", [
-      [ "WebRole", "d4/d51/class_nu_get_gallery_1_1_web_role.html", "d4/d51/class_nu_get_gallery_1_1_web_role" ]
     ] ],
     [ "WebSite.cs", "d6/dd5/_web_site_8cs.html", [
       [ "WebPage", "d3/d8c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_sites_1_1_web_page.html", "d3/d8c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_sites_1_1_web_page" ]
@@ -14966,13 +9259,5 @@ var files_dup =
     ] ],
     [ "XPathType.cs", "db/d30/_x_path_type_8cs.html", [
       [ "XPathType", "df/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_path_type.html", null ]
-    ] ],
-    [ "XunitLogger.cs", "da/d4a/_xunit_logger_8cs.html", [
-      [ "XunitLogger", "d7/d35/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger.html", "d7/d35/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger" ]
-    ] ],
-    [ "XunitLoggerFactoryExtensions.cs", "d1/dee/_xunit_logger_factory_extensions_8cs.html", null ],
-    [ "XunitLoggerProvider.cs", "d7/dd6/_xunit_logger_provider_8cs.html", [
-      [ "XunitLoggerProvider", "d8/def/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger_provider.html", "d8/def/class_microsoft_1_1_extensions_1_1_logging_1_1_xunit_logger_provider" ]
-    ] ],
-    [ "ZipArchiveHelpers.cs", "df/d61/_zip_archive_helpers_8cs.html", null ]
+    ] ]
 ];

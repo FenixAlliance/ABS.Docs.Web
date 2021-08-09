@@ -1,7 +1,0 @@
-<map id="NuGetGallery.Security.ControlRequiredSignerPolicy" name="NuGetGallery.Security.ControlRequiredSignerPolicy">
-<area shape="rect" id="node1" title="A policy which enables subscribing package owners to retain control from non&#45;subscribing package owne..." alt="" coords="118,259,315,300"/>
-<area shape="rect" id="node2" href="$d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html" title=" " alt="" coords="143,184,290,211"/>
-<area shape="rect" id="node3" href="$d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html" title="Policy handler that defines behavior for specific user policy types." alt="" coords="20,109,197,136"/>
-<area shape="rect" id="node4" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,5,212,61"/>
-<area shape="rect" id="node5" href="$db/d8c/interface_nu_get_gallery_1_1_security_1_1_i_user_security_policy_subscription.html" title="One or more security policies which a user can subscribe to." alt="" coords="221,109,431,136"/>
-</map>

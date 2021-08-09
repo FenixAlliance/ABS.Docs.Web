@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method =
-[
-    [ "InvalidNamespacesThrowsException", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method.html#a2a08873aa75c7ddc92022e173b5af65b", null ],
-    [ "ValidNamespacesDontThrowException", "d7/da9/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_validate_namespace_method.html#ab86522259a1a7d45596640e5f6dba38f", null ]
-];

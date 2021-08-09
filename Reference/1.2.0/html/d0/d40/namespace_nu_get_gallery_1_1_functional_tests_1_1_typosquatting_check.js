@@ -1,4 +1,0 @@
-var namespace_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check =
-[
-    [ "TyposquattingCheckForUploadPackageTests", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests.html", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests" ]
-];

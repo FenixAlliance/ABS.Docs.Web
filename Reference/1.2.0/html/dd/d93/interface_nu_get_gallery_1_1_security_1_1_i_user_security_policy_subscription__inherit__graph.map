@@ -1,9 +1,0 @@
-<map id="NuGetGallery.Security.IUserSecurityPolicySubscription" name="NuGetGallery.Security.IUserSecurityPolicySubscription">
-<area shape="rect" id="node1" title="One or more security policies which a user can subscribe to." alt="" coords="5,104,192,145"/>
-<area shape="rect" id="node2" href="$dd/dbd/class_nu_get_gallery_1_1_security_1_1_default_subscription.html" title=" " alt="" coords="247,5,444,47"/>
-<area shape="rect" id="node3" href="$d6/dcd/class_nu_get_gallery_1_1_security_1_1_microsoft_team_subscription.html" title=" " alt="" coords="240,71,451,112"/>
-<area shape="rect" id="node4" href="$dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy.html" title=" " alt="" coords="245,136,445,177"/>
-<area shape="rect" id="node5" href="$d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html" title=" " alt="" coords="242,201,449,243"/>
-<area shape="rect" id="node6" href="$d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy.html" title="A policy which enables subscribing package owners to automatically overwrite the current required sig..." alt="" coords="499,168,733,209"/>
-<area shape="rect" id="node7" href="$db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy.html" title="A policy which enables subscribing package owners to retain control from non&#45;subscribing package owne..." alt="" coords="517,233,715,275"/>
-</map>

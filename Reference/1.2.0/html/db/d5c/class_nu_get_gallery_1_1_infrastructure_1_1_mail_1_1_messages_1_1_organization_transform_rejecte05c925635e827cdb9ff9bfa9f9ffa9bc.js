@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte05c925635e827cdb9ff9bfa9f9ffa9bc =
-[
-    [ "GivenANullArgument_ItShouldThrow", "db/d5c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_rejecte05c925635e827cdb9ff9bfa9f9ffa9bc.html#ab0f00eb1ba62c8103e829622ba767ae5", null ]
-];

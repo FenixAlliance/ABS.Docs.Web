@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0 =
-[
-    [ "AddsUserMailAddressToToList", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html#a9a5ccc8e10b21c7d091ee5635b868644", null ],
-    [ "HasEmptyBccList", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html#af5d1d1c6d5a7fa6bd96c22a3ebd7a3a3", null ],
-    [ "HasEmptyCCList", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html#adab04193592ed73ab24740241352cf76", null ],
-    [ "HasEmptyReplyToList", "d1/dbc/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess4bb7352a82b6cc3e4b2b0de83f343bf0.html#a134693b6d1c4ccc98038ecdef2e70de0", null ]
-];

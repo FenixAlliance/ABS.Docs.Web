@@ -1,7 +1,0 @@
-<map id="NuGetGallery.CorePackageService" name="NuGetGallery.CorePackageService">
-<area shape="rect" id="node1" title=" " alt="" coords="449,90,632,131"/>
-<area shape="rect" id="node2" href="$d7/dd5/interface_nu_get_gallery_1_1_i_core_package_service.html" title="Package business logic that is needed in multiple components (not just the Gallery process)." alt="" coords="33,5,181,32"/>
-<area shape="rect" id="node3" href="$de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html" title=" " alt="" coords="5,57,209,98"/>
-<area shape="rect" id="node4" href="$de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html" title=" " alt="" coords="5,122,209,163"/>
-<area shape="rect" id="node5" href="$de/dcb/interface_nu_get_gallery_1_1_i_entity_repository.html" title=" " alt="" coords="5,187,209,229"/>
-</map>

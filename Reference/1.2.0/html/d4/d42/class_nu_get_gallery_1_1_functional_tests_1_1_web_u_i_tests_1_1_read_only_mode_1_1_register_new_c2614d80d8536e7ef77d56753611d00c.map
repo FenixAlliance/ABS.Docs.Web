@@ -1,4 +1,0 @@
-<map id="NuGetGallery.FunctionalTests.WebUITests.ReadOnlyMode.RegisterNewUserInReadOnlyModeTest" name="NuGetGallery.FunctionalTests.WebUITests.ReadOnlyMode.RegisterNewUserInReadOnlyModeTest">
-<area shape="rect" id="node1" title="Sends http POST request to register a new user in read&#45;only mode and checks if read&#45;only mode error i..." alt="" coords="5,80,244,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="87,5,162,32"/>
-</map>

@@ -1,5 +1,4 @@
 <map id="FenixAlliance.ABM.Data.Clients.CurrencyExchange.ForexService" name="FenixAlliance.ABM.Data.Clients.CurrencyExchange.ForexService">
-<area shape="rect" id="node1" title=" " alt="" coords="5,109,219,151"/>
-<area shape="rect" id="node2" href="$dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html" title=" " alt="" coords="10,5,113,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="137,5,191,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,219,121"/>
+<area shape="rect" id="node2" href="$dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html" title=" " alt="" coords="61,5,163,32"/>
 </map>

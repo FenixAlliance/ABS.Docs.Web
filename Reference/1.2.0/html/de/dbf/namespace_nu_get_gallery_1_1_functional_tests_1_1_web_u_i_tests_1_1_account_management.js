@@ -1,5 +1,0 @@
-var namespace_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management =
-[
-    [ "LogonTest", "d9/d26/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_logon_test.html", "d9/d26/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_logon_test" ],
-    [ "RegisterNewUserTest", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test.html", "dc/d76/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_account_management_1_1_register_new_user_test" ]
-];

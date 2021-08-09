@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method =
-[
-    [ "InjectsDummyDateIfNotListed", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html#a4ed5f54a813420e1f3d2e728b10ae80b", null ],
-    [ "InjectsGalleryUrlsCorrectly", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html#a57e3459015bbbc4b40812116c368bda6", null ],
-    [ "MapsBasicPackagePropertiesCorrectly", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html#a2c71b3dd08dfff7530930a39df63bdf7", null ],
-    [ "ReturnsNullLicenseReportInfoIfFeatureDisabled", "d9/dc6/class_nu_get_gallery_1_1_o_data_1_1_interceptors_1_1_package_extensions_facts_1_1_the_project_v2_feed_package_method.html#a9c54d7c04b0d19f1be26c9c0fdf684bd", null ]
-];

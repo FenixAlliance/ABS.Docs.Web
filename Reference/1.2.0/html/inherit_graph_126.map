@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$da/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_record.html" title=" " alt="" coords="5,85,231,141"/>
-<area shape="rect" id="node2" href="$d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3.html" title=" " alt="" coords="287,5,602,61"/>
-<area shape="rect" id="node3" href="$d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_red41a0820d5bd17a5f45dcc28178a363f.html" title=" " alt="" coords="279,85,611,141"/>
-<area shape="rect" id="node4" href="$d4/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re54d54f6cd14e6cc88a2bc5c41d4a0f9d.html" title=" " alt="" coords="306,166,583,237"/>
+<area shape="rect" id="node1" href="$de/de0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_record.html" title="Represents an order line base object." alt="" coords="5,85,211,141"/>
+<area shape="rect" id="node2" href="$d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d.html" title=" " alt="" coords="277,5,519,61"/>
+<area shape="rect" id="node3" href="$d6/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record5b0f88897e15860f398bd19d012fcdbe.html" title=" " alt="" coords="259,85,537,141"/>
+<area shape="rect" id="node4" href="$d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0.html" title=" " alt="" coords="267,166,529,237"/>
 </map>

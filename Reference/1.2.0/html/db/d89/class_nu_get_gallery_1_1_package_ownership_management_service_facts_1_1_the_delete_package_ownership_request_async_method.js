@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method =
-[
-    [ "NullPackageRegistrationThrowsException", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html#a58ba2141f4252a0fe2a3cbdf1fbac9ea", null ],
-    [ "NullRequestingUserThrowsException", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html#a46a9375f72661086125e3e65f4e079bf", null ],
-    [ "RequestIsDeletedSuccessfully", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html#a3faf66b6eca2220d6d74f32ab29df8c3", null ]
-];

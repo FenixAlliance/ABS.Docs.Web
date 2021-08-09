@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method =
-[
-    [ "ReturnsExpectedResults", "de/df6/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_services_1_1_revalidation_admin_service_facts_1_1_the_get_statistics_async_method.html#a0317551be486e6e24907f695c41d6017", null ]
-];

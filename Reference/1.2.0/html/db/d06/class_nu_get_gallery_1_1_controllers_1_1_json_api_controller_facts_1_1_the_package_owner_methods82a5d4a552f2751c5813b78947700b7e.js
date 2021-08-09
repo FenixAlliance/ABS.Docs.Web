@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e =
-[
-    [ "CreatesPackageOwnerRequestSendsEmailAndReturnsPendingState", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#a554fc05a771ff18ac61fb6ede8656cb9", null ],
-    [ "FailsIfUserInputIsEmailAddress", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#aeccb812e40b899b3aa7da1512e5ded2c", null ]
-];

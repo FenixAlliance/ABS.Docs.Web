@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts =
-[
-    [ "TheConstructor", "d1/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_constructor.html", "d1/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_constructor" ],
-    [ "TheGetBodyMethod", "df/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_body_method.html", "df/d52/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_body_method" ],
-    [ "TheGetRecipientsMethod", "d2/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_recipients_method.html", "d2/d63/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts_1_1_the_get_recipients_method" ],
-    [ "SetsGalleryOwnerAsSender", "de/d48/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_owners_message_facts.html#a39d35776c6136a3a4b8b15991083c192", null ]
-];

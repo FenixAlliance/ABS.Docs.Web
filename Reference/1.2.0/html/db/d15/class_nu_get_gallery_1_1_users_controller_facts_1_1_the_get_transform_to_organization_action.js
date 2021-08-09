@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_transform_to_organization_action =
-[
-    [ "WhenCanTransformReturnsFalse_ShowsError", "db/d15/class_nu_get_gallery_1_1_users_controller_facts_1_1_the_get_transform_to_organization_action.html#aff76108ffe663a9385bce1881f59ce42", null ]
-];

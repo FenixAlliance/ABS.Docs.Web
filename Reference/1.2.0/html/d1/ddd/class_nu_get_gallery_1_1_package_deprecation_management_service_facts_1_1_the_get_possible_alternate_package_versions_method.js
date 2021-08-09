@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method =
-[
-    [ "ReturnsAllAvailableVersionsInReverseVersionOrder", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method.html#a6b186ce7524916d4ce2da4f2c8f3e02f", null ],
-    [ "ReturnsEmptyIfNoVersions", "d1/ddd/class_nu_get_gallery_1_1_package_deprecation_management_service_facts_1_1_the_get_possible_alternate_package_versions_method.html#a5c77a639b4d8608a5977310b8a7b0f61", null ]
-];

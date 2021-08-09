@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_failed_message =
-[
-    [ "WillSendEmailToAllOwners", "d2/d42/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_validation_failed_message.html#a41b72315a0a27d0f719a274776a238ee", null ]
-];

@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_failed_message =
-[
-    [ "WillSendEmailToAllOwners", "db/d0d/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_symbol_package_validation_failed_message.html#a8a694c9ec5c94fad386eed42a007d7e6", null ]
-];

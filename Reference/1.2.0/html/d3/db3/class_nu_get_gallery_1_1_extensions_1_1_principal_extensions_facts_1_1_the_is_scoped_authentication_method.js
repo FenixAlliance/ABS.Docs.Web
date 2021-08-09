@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_scoped_authentication_method =
-[
-    [ "WhenNoScopeClaim_ReturnsTrue", "d3/db3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_scoped_authentication_method.html#a4ef1f3c5c3a2741ffa09ccc4acb20a5b", null ],
-    [ "WhenScopeClaim_ReturnsTrue", "d3/db3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_scoped_authentication_method.html#a64f91b7ddf8b6635e9cbfe3a85b808a5", null ],
-    [ "WhenSelfIsNull_ThrowsArgumentNullException", "d3/db3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_is_scoped_authentication_method.html#a6465eabf54696b5b0e440728dbe0881f", null ]
-];

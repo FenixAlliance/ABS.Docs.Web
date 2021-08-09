@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method =
-[
-    [ "RequestIsAddedSuccessfully", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method.html#a9286abf650474d8c34dd7db9c2ea03b7", null ]
-];

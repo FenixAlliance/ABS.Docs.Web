@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_mecfe7bc268afcf5680158ae333598953e =
-[
-    [ "ReturnsExpectedBody", "df/d08/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_added_with_warnings_mecfe7bc268afcf5680158ae333598953e.html#a851fde123dd6811b5bd2d1d901e01bfa", null ]
-];

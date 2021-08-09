@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method =
-[
-    [ "WhenDirectOwner_ReturnsTrue", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html#a92e26ad54609babdfabfa958058ec4a9", null ],
-    [ "WhenInDirectOwner_ReturnsTrue", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html#ac1ca4f21e2f020422f2658c342ded4df", null ],
-    [ "WhenNotOwner_ReturnsFalse", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html#a5fe4455997eabec481c4d3f6dd61f26d", null ],
-    [ "WhenPackageIsNull_ThrowsArgumentNullException", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html#a6468915841c993b6d29f41bab9eb887d", null ],
-    [ "WhenUserIsNull_ThrowsArgumentNullException", "d8/d0d/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_is_owner_or_member_of_organization_owner_method.html#a5b05759af7fe3f40bb2121f7a1402c92", null ]
-];

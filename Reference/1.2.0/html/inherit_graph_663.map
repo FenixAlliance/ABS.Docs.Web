@@ -1,6 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html" title="This record represents a granted permission." alt="" coords="5,107,287,163"/>
-<area shape="rect" id="node2" href="$df/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perba74c35205c0ef554a36db66dc8b5a5c.html" title="Represents a granted permission for a particular external application. If a particular application is..." alt="" coords="338,5,623,76"/>
-<area shape="rect" id="node3" href="$db/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perf38e0cbb899d5dc1fad8f9bcb18392bc.html" title="Represents a granted permission for a particular business enrollment" alt="" coords="335,100,627,171"/>
-<area shape="rect" id="node4" href="$d8/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perd11222c44a333c7737372faaf3bbb0f5.html" title="Represents a granted permission for a particular role. Roles are defined programatically by authorize..." alt="" coords="340,195,621,265"/>
+<area shape="rect" id="node1" href="$d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html" title=" " alt="" coords="5,5,188,47"/>
 </map>

@@ -1,4 +1,0 @@
-var namespace_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie =
-[
-    [ "LocalUserAuthenticator", "dd/df4/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie_1_1_local_user_authenticator.html", "dd/df4/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_cookie_1_1_local_user_authenticator" ]
-];

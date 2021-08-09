@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts =
-[
-    [ "TheConstructor", "d2/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_constructor.html", "d2/d38/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_constructor" ],
-    [ "TheGetBodyMethod", "db/d06/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_body_method.html", "db/d06/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_body_method" ],
-    [ "TheGetRecipientsMethod", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method" ],
-    [ "SetsGalleryNoReplyAddressAsSender", "dc/d36/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts.html#a7c42ea4e5cd76f5cff977fde2243c2f8", null ]
-];

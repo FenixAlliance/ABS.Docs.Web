@@ -1,9 +1,0 @@
-var class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method =
-[
-    [ "V2FeedFindPackagesByIdCanUseSearchService", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#ab0f55344eab6a6cdca836d56c2b3f019", null ],
-    [ "V2FeedFindPackagesByIdDoesNotHitBackendWhenIdIsEmpty", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#abd5767cc78565f4c5e3fea8fa152f3c1", null ],
-    [ "V2FeedFindPackagesByIdDoesNotReturnDeletedPackages", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#a1509ea6e4191d7bdb0b095b8134b1b3a", null ],
-    [ "V2FeedFindPackagesByIdReturnsEmptyCollectionWhenNoPackages", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#a622ec3e99371beb8499dfe70cc839879", null ],
-    [ "V2FeedFindPackagesByIdReturnsUnlistedAndPrereleasePackages", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#a7f75e9ed6bcc35e26c5b6ce5e3ccfac5", null ],
-    [ "V2FeedFindPackagesConsidersSearchRequestFailureAsNonCustomQuery", "d6/dbf/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v2_feed_1_1_the_find_packages_by_id_method.html#a31cadfb51d116eac72a204604bb15f11", null ]
-];

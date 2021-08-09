@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae =
-[
-    [ "ReturnsProperJsonResult", "df/d0d/class_nu_get_gallery_1_1_controllers_1_1_manage_deprecation_json_api_controller_facts_1_1_the_gea6ea6ef40eca553285c21520117fc8ae.html#aa6ec583798514118c2e98977f75e5161", null ]
-];

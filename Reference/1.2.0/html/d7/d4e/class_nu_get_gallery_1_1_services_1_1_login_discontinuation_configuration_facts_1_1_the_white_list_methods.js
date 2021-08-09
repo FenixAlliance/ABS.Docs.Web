@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods =
-[
-    [ "ReturnsExpectedWhenNonNull", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods.html#af9fe1b9a5eac66facc9fd2ac36825cf7", null ],
-    [ "ReturnsExpectedWhenNull", "d7/d4e/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_white_list_methods.html#a2b34c76a272310e1617c39f6ff761563", null ]
-];

@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_package_metadata_validation_service_facts =
-[
-    [ "FactsBase", "d7/dd8/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_facts_base.html", "d7/dd8/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_facts_base" ],
-    [ "TheValidateAfterGeneratePackageMethod", "de/d42/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_after_generate_package_method.html", "de/d42/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_after_generate_package_method" ],
-    [ "TheValidateMetadataBeforeUploadAsync", "d4/d17/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_metadata_before_upload_async.html", "d4/d17/class_nu_get_gallery_1_1_package_metadata_validation_service_facts_1_1_the_validate_metadata_before_upload_async" ],
-    [ "MockPackageService", "da/da9/class_nu_get_gallery_1_1_package_metadata_validation_service_facts.html#a0592fe6c2a7b867916e8d273721a5884", null ]
-];

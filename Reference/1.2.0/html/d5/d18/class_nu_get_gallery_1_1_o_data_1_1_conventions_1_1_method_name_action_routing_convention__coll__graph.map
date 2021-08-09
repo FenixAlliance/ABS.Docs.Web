@@ -1,4 +1,0 @@
-<map id="NuGetGallery.OData.Conventions.MethodNameActionRoutingConvention" name="NuGetGallery.OData.Conventions.MethodNameActionRoutingConvention">
-<area shape="rect" id="node1" title="Routes an OData request with a given action to a method with the same name as the action." alt="" coords="5,80,251,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="42,5,214,32"/>
-</map>

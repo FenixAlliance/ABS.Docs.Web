@@ -1,4 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler =
-[
-    [ "SendAsync", "d2/d18/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_correlation_1_1_correlating_http_client_handler.html#afc689f03fa294e80cb8111c735688133", null ]
-];

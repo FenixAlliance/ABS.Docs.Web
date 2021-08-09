@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method =
-[
-    [ "SavesChangesInTheDataStore", "d5/d46/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method.html#acffe21994039158f042018cbe6099ce8", null ],
-    [ "WritesAuditRecordForTheEditedCredential", "d5/d46/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_edit_credential_method.html#aff29523c0016dbd9686a1171d5429401", null ]
-];

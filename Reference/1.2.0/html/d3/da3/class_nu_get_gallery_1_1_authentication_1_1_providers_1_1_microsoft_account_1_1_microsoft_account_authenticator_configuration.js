@@ -1,7 +1,0 @@
-var class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration =
-[
-    [ "MicrosoftAccountAuthenticatorConfiguration", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html#a8dd46caade20d7bce9932d9629501d90", null ],
-    [ "ApplyToOwinSecurityOptions", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html#a1f6e1b98cea0ba6df72c6086a0ee5d2c", null ],
-    [ "ClientId", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html#adec137aa76f67aeb7e38fab7a7f80166", null ],
-    [ "ClientSecret", "d3/da3/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_microsoft_account_1_1_microsoft_account_authenticator_configuration.html#a4a5d50763fbf6a66f85382d7885a607d", null ]
-];

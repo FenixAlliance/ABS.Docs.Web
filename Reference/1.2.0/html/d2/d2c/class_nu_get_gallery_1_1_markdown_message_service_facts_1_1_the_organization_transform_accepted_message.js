@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message =
-[
-    [ "WillNotSendEmailIfEmailNotAllowed", "d2/d2c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message.html#afdb36a7632761a90629703a58415acaa", null ],
-    [ "WillSendEmailIfEmailAllowed", "d2/d2c/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_organization_transform_accepted_message.html#a998e601cffd859f7e90c731135ebc048", null ]
-];

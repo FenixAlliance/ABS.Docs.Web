@@ -1,6 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method =
-[
-    [ "StoresValuesInCookieInEncodedFormat", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html#a828c4682bcab47103f370ed949d83339", null ],
-    [ "WithInitialStateAndNoValuesClearsCookie", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html#af435a297f1befbe12b5e9e6f791410df", null ],
-    [ "WithNoValuesDoesNotAddCookie", "df/d2c/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_save_temp_data_method.html#ae85ae9933ce145ab412d45c1f5de26a7", null ]
-];

@@ -1,8 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0 =
-[
-    [ "AddsAccountToTransformMailAddressToToListWhenAccountToTransformEmailAllowed", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html#a2654a42dccfb7e3e2e4b11929c998c80", null ],
-    [ "AddsAdminUserToReplyToList", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html#a58d4831b35a315fd871dd3f4e943e592", null ],
-    [ "HasEmptyBccList", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html#a06c4db8d5af06c3c42dae09666118a97", null ],
-    [ "HasEmptyCCList", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html#a679db413a64b6ddd6d0f0bba477a35df", null ],
-    [ "ReturnsRecipientsNoneWhenAccountToTransformEmailNotAllowed", "d7/de7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_transform_initiat87a806503737941fa953857844164ef0.html#ac435a94eb07507c43619a612020d900a", null ]
-];

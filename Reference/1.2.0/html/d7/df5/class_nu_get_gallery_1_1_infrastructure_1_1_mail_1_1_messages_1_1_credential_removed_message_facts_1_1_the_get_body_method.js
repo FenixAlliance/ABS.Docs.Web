@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method =
-[
-    [ "ReturnsExpectedBodyForApiKey", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method.html#ae5291c1435a1be6768c3cd34331168d2", null ],
-    [ "ReturnsExpectedBodyForNonApiKey", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method.html#a0b2cafed11adb88cce0de14073d9634a", null ]
-];

@@ -1,4 +1,0 @@
-<map id="NuGetGallery.IIconUrlProvider" name="NuGetGallery.IIconUrlProvider">
-<area shape="rect" id="node1" title="Abstracts the logic of getting the package&#39;s icon URL." alt="" coords="5,5,203,32"/>
-<area shape="rect" id="node2" href="$d4/dba/class_nu_get_gallery_1_1_configuration_icon_file_provider.html" title="Produces the icon URL based on the service configuration." alt="" coords="14,80,194,121"/>
-</map>

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['entitydatasource_38573',['EntityDataSource',['../df/d0a/_many_to_many___edit_8ascx_8cs.html#acbdadfeb537982503a27fb4d3aec23df',1,'ManyToMany_Edit.ascx.cs']]],
-  ['entitydatasourcechangingeventargs_38574',['EntityDataSourceChangingEventArgs',['../df/d0a/_many_to_many___edit_8ascx_8cs.html#a64dec279eb901906ccff335a12d5e5f8',1,'ManyToMany_Edit.ascx.cs']]]
+  ['module_20311',['Module',['../d9/dad/_plugin_manager_8cs.html#a43902064d33c160c272e11be55dfa684',1,'PluginManager.cs']]]
 ];

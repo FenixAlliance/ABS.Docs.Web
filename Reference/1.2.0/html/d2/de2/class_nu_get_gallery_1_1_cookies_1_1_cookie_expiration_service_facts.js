@@ -1,5 +1,0 @@
-var class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts =
-[
-    [ "TheExpireAnalyticsCookiesMethod", "df/d7b/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_analytics_cookies_method.html", "df/d7b/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_analytics_cookies_method" ],
-    [ "TheExpireCookieByNameMethod", "dc/d34/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_cookie_by_name_method.html", "dc/d34/class_nu_get_gallery_1_1_cookies_1_1_cookie_expiration_service_facts_1_1_the_expire_cookie_by_name_method" ]
-];

@@ -1,9 +1,0 @@
-<map id="NuGetGallery.CorePackageFileServiceFacts.TheDownloadValidationPackageFileMethod" name="NuGetGallery.CorePackageFileServiceFacts.TheDownloadValidationPackageFileMethod">
-<area shape="rect" id="node1" title=" " alt="" coords="94,337,297,393"/>
-<area shape="rect" id="node2" href="$d8/da0/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_facts_base.html" title=" " alt="" coords="153,261,238,288"/>
-<area shape="rect" id="node3" href="$dc/dcf/class_nu_get_gallery_1_1_core_package_file_service.html" title=" " alt="" coords="5,157,188,199"/>
-<area shape="rect" id="node4" href="$d7/d25/interface_nu_get_gallery_1_1_i_core_package_file_service.html" title=" " alt="" coords="12,81,181,108"/>
-<area shape="rect" id="node5" href="$d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html" title=" " alt="" coords="212,157,379,199"/>
-<area shape="rect" id="node6" href="$de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html" title="The common entity type to be shared by Package and SymbolPackage This allows us the generic type inst..." alt="" coords="240,81,351,108"/>
-<area shape="rect" id="node7" href="$d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="265,5,325,32"/>
-</map>
