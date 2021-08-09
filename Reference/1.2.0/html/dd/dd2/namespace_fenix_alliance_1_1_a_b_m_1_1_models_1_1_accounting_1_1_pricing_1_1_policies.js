@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_policies =
+[
+    [ "RoundingPolicy", "dc/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_policies_1_1_rounding_policy.html", "dc/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_policies_1_1_rounding_policy" ]
+];

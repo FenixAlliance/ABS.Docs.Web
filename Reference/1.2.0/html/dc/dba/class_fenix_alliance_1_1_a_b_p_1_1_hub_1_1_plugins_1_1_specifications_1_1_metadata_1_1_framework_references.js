@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_references =
+[
+    [ "Group", "dc/dba/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_references.html#a6ae7541e30440c26922ab2868756467a", null ]
+];

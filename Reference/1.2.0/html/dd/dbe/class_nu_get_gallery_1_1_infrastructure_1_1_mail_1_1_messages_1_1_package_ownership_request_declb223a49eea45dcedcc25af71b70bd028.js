@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028 =
+[
+    [ "AddsOwnersWithPermissionToToList", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html#a8281b32f3ed8aab9560d4d8565cda6f6", null ],
+    [ "AddsRequestingOwnerAddressToReplyToList", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html#afd7a1229db5eeb82e7400bf458036c4f", null ],
+    [ "HasEmptyBccList", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html#a6dca64a348cb66c866acbe853112ed13", null ],
+    [ "HasEmptyCCList", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html#a2618510f6f049d9c1bb3b0382e32880f", null ],
+    [ "ReturnsEmailRecipientsNoneWhenRequestingOwnerEmailNotAllowed", "dd/dbe/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_ownership_request_declb223a49eea45dcedcc25af71b70bd028.html#af4e3142b7bb369ece12b864f91c23b34", null ]
+];

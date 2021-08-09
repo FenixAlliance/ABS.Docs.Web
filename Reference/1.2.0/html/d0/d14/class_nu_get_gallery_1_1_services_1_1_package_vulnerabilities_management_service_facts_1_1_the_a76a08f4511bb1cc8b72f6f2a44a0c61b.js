@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b =
+[
+    [ "AppliesCorrectVulnerabilities", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b.html#a40d68f64186fda96bbf9904e3bd3793b", null ],
+    [ "IfNull_ThrowsArgumentNullException", "d0/d14/class_nu_get_gallery_1_1_services_1_1_package_vulnerabilities_management_service_facts_1_1_the_a76a08f4511bb1cc8b72f6f2a44a0c61b.html#aa02eb4f29cc5b8afb7ebf8fd1cd4a9a4", null ]
+];

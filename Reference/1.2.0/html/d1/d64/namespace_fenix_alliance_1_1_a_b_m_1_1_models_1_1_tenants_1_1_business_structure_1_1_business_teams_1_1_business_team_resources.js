@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team_resources =
+[
+    [ "BusinessTeamFile", "d1/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_f5f5528aaf291ca07bddce6dd228f391.html", "d1/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_f5f5528aaf291ca07bddce6dd228f391" ]
+];

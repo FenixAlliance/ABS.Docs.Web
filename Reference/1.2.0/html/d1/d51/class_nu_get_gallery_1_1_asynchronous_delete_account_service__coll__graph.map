@@ -1,0 +1,4 @@
+<map id="NuGetGallery.AsynchronousDeleteAccountService" name="NuGetGallery.AsynchronousDeleteAccountService">
+<area shape="rect" id="node1" title="Sends a message to a service bus queue when an account delete is requested. A request is considered t..." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$d5/d89/interface_nu_get_gallery_1_1_i_delete_account_service.html" title=" " alt="" coords="21,5,176,32"/>
+</map>

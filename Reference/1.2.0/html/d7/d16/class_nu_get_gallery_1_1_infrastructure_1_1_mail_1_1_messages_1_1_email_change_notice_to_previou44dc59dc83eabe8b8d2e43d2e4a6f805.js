@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805 =
+[
+    [ "AddsUserMailAddressToToList", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html#aa71d0d89dc599eec8b5d9922a850e896", null ],
+    [ "HasEmptyBccList", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html#a580936ba72cdbb1e60726b97d789bcb9", null ],
+    [ "HasEmptyCCList", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html#a046f6cf266aad364e5f05d21f80133f2", null ],
+    [ "HasEmptyReplyToList", "d7/d16/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou44dc59dc83eabe8b8d2e43d2e4a6f805.html#a3a5ef1afe45dd924820c4b9839ce5828", null ]
+];

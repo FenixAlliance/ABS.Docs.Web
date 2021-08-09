@@ -1,0 +1,4 @@
+<map id="NuGetGallery.ABTestEnrollmentFactory" name="NuGetGallery.ABTestEnrollmentFactory">
+<area shape="rect" id="node1" title="This is the implementation that handles all current and past versions of the &quot;nugetab&quot; cookie...." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node2" href="$da/dbc/interface_nu_get_gallery_1_1_i_a_b_test_enrollment_factory.html" title="Responsible for initializing, serializing, and deserializing ABTestEnrollment instances." alt="" coords="23,5,199,32"/>
+</map>

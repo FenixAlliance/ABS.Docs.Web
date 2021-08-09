@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef =
+[
+    [ "ConfigureAzureOptions", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html#a3ebcbdad2385f743b0f676b8ad315b8a", null ],
+    [ "Configure", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html#a90db8ee1233cf7bc6adbae39db194188", null ],
+    [ "Configure", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html#a137b4775cdbbe5a1b4a920c37b258ed4", null ],
+    [ "OnRedirectToIdentityProvider", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html#a24f09c6d440ef25fa410e2abd41182e2", null ],
+    [ "OnRemoteFailure", "d1/d02/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_extensions_1_1_azure_a_d_b2_c_authentication_builder58d0cc5440f74f3105dd37b2dffc22ef.html#a8dc74435fe73e0471ffe9c7734525f73", null ]
+];

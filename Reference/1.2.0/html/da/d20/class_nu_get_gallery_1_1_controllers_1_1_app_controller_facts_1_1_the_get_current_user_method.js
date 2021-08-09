@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method =
+[
+    [ "GivenNoActiveUserPrincipal_ItReturnsNull", "da/d20/class_nu_get_gallery_1_1_controllers_1_1_app_controller_facts_1_1_the_get_current_user_method.html#a9654e6452b233cdf278963df6b166f47", null ]
+];

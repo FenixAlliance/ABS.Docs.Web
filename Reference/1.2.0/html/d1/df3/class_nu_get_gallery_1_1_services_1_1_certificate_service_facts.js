@@ -1,0 +1,27 @@
+var class_nu_get_gallery_1_1_services_1_1_certificate_service_facts =
+[
+    [ "CertificateServiceFacts", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#adc8f868539d719e3353b02febc9c8e4d", null ],
+    [ "ActivateCertificateAsync_WhenAccountIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a5b952313fae48f1bf4292f3ec3fbb172", null ],
+    [ "ActivateCertificateAsync_WhenCertificateAlreadyExistsInEntitiesContextButUserCertificateDoesNot_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a5ec3130ceab724f2c052aaf687dc10ec", null ],
+    [ "ActivateCertificateAsync_WhenCertificateAndUserCertificateAlreadyExistInEntitiesContext_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a3c73b90b89cf0c5d9358072eb3ca0a82", null ],
+    [ "ActivateCertificateAsync_WhenCertificateDoesNotAlreadyExistInEntitiesContext_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a052b768d27afc33f9d4c2d6117495f2d", null ],
+    [ "ActivateCertificateAsync_WhenThumbprintIsInvalid_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#ab4abcbf8f410b13fa0c4f46dc33c3535", null ],
+    [ "AddCertificateAsync_WhenCertificateAlreadyExistsInEntitiesContext_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a4b7d0fc16f4a6a0355af18550a2fec44", null ],
+    [ "AddCertificateAsync_WhenCertificateDoesNotAlreadyExistInEntitiesContext_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#ae0b5b4e19af728694d4bef1c90c1e7ef", null ],
+    [ "AddCertificateAsync_WhenFileIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a69ab8f165205ba69f3f7513084292e67", null ],
+    [ "Constructor_WhenAuditingServiceIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a24e8999de8a8bb77649ab1acec19a094", null ],
+    [ "Constructor_WhenCertificateRepositoryIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a61320f132a0501df828f0009b3271a9b", null ],
+    [ "Constructor_WhenCertificateValidatorIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a886b2524737b5f1a585b2eeb130814f1", null ],
+    [ "Constructor_WhenEntitiesContextIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a09a3361d4904b79a4867506ccf7d36ce", null ],
+    [ "Constructor_WhenFileStorageServiceIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a0835c218c158df38ad9b694d72ede62d", null ],
+    [ "Constructor_WhenTelemetryServiceIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#abcc5ac171138a723b8ace97bb01f0a36", null ],
+    [ "Constructor_WhenUserRepositoryIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a61e21748379714bd614185672c9ad361", null ],
+    [ "DeactivateCertificateAsync_WhenCertificateAlreadyExistsInEntitiesContextButUserCertificateDoesNot_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#aa5bf6b20896dbb9bb054e5d6a7496a91", null ],
+    [ "DeactivateCertificateAsync_WhenThumbprintIsInvalid_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#ab3d5b2c81cec4fea58f84cde997d2a55", null ],
+    [ "DeativateCertificateAsync_WhenAccountIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#aaf2bc5ef411acd2da08735566e354f5e", null ],
+    [ "DeativateCertificateAsync_WhenCertificateAndUserCertificateAlreadyExistInEntitiesContextAndUserCertificate_Succeeds", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a6a949b0ddbcb9adefbef04795738c3cc", null ],
+    [ "DeativateCertificateAsync_WhenCertificateDoesNotAlreadyExistInEntitiesContext_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a56e89ec607d4977d25426ca2cd73ed5d", null ],
+    [ "GetCertificates_WhenAccountIsNull_Throws", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#aa17e09a5eddcf145b72e8f8786ed0269", null ],
+    [ "GetCertificates_WhenNoUserCertificatesExistInEntitiesContext_ReturnsEmptyEnumerable", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a6ff1581f940a3f78e330a6ce7b26fc03", null ],
+    [ "GetCertificates_WhenUserCertificateExistsInEntitiesContext_ReturnsCertificate", "d1/df3/class_nu_get_gallery_1_1_services_1_1_certificate_service_facts.html#a121437dc91b325ebd0fa77ead7bb3ccf", null ]
+];

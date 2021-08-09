@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_scopes =
+[
+    [ "BlogPostComment", "d9/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_scopes_1_1_blog_post_comment.html", "d9/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_scopes_1_1_blog_post_comment" ]
+];

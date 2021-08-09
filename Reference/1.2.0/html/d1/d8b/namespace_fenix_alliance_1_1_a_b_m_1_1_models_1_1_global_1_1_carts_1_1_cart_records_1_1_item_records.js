@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records =
+[
+    [ "ItemCartRecord", "da/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records_1_1_item_cart_record.html", "da/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_item_records_1_1_item_cart_record" ]
+];

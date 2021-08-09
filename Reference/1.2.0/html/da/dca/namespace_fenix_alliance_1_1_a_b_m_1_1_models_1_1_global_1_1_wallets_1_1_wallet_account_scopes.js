@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes =
+[
+    [ "AccountHolderWallet", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet.html", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet" ],
+    [ "BusinessWallet", "da/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_business_wallet.html", "da/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_business_wallet" ],
+    [ "ContactWallet", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_contact_wallet.html", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_contact_wallet" ]
+];

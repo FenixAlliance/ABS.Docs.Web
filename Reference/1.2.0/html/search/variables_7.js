@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['gallerydownloadcount_38259',['GalleryDownloadCount',['../da/d90/class_nu_get_gallery_1_1_telemetry_service.html#a68301ddea2f9285c6cf48b18d64eb97d',1,'NuGetGallery::TelemetryService']]],
+  ['gallerydownloadgreaterthanjsonforpackage_38260',['GalleryDownloadGreaterThanJsonForPackage',['../da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html#ae3204eaa430abbcb8db3be484e7933a8',1,'NuGetGallery::TelemetryService::Events']]],
+  ['gallerydownloadgreaterthanjsonforpackageregistration_38261',['GalleryDownloadGreaterThanJsonForPackageRegistration',['../da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html#a64975cb2cc70979a8b44ccf938233930',1,'NuGetGallery::TelemetryService::Events']]],
+  ['galleryentitiescontextfactory_38262',['GalleryEntitiesContextFactory',['../dc/d6a/class_nu_get_gallery_1_1_gallery_db_context_factory.html#ac15e025a9811336d048c137ad9cca9ec',1,'NuGetGallery::GalleryDbContextFactory']]],
+  ['getpackagedownloadcountfailed_38263',['GetPackageDownloadCountFailed',['../da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html#a881792b4b217fe983607eda58a1c75a7',1,'NuGetGallery::TelemetryService::Events']]],
+  ['getpackageregistrationdownloadcountfailed_38264',['GetPackageRegistrationDownloadCountFailed',['../da/d3b/class_nu_get_gallery_1_1_telemetry_service_1_1_events.html#a0763ac0286ab02add90b6aed8649d49c',1,'NuGetGallery::TelemetryService::Events']]],
+  ['grantscurrentuseraccess_38265',['GrantsCurrentUserAccess',['../d8/d5a/class_nu_get_gallery_1_1_package_owners_result_view_model.html#a05526906df7bd835e198d245084fb482',1,'NuGetGallery::PackageOwnersResultViewModel']]],
+  ['griddatasource_38266',['GridDataSource',['../da/d9b/class_nu_get_gallery_1_1_list.html#a35cedc27998a1cbefa6ca50201a623d6',1,'NuGetGallery.List.GridDataSource()'],['../d6/d25/class_nu_get_gallery_1_1_list_details.html#a527a6f667164855a43d50f1fc51f684a',1,'NuGetGallery.ListDetails.GridDataSource()']]],
+  ['gridqueryextender_38267',['GridQueryExtender',['../da/d9b/class_nu_get_gallery_1_1_list.html#aaf194ee74d3228a099ca59424fb3a46f',1,'NuGetGallery.List.GridQueryExtender()'],['../d6/d25/class_nu_get_gallery_1_1_list_details.html#ab85e6a007b1b975b888ccaca427560c4',1,'NuGetGallery.ListDetails.GridQueryExtender()']]],
+  ['gridview1_38268',['GridView1',['../da/d9b/class_nu_get_gallery_1_1_list.html#a4b767d28f670e207a5c4aca20a5fce19',1,'NuGetGallery.List.GridView1()'],['../d6/d25/class_nu_get_gallery_1_1_list_details.html#ad3a067e88a5bb79b9fa1ea2fdc2d0b3b',1,'NuGetGallery.ListDetails.GridView1()']]],
+  ['gridviewvalidator_38269',['GridViewValidator',['../da/d9b/class_nu_get_gallery_1_1_list.html#aae1a306d547fc0f8e16d24919d7bde97',1,'NuGetGallery.List.GridViewValidator()'],['../d6/d25/class_nu_get_gallery_1_1_list_details.html#a0db409a189038c1d359d1230b22749eb',1,'NuGetGallery.ListDetails.GridViewValidator()']]]
+];

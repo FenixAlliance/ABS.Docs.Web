@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_182cce35c483e57bf37969ccd406e9b70 =
+[
+    [ "IAzureStorageIntegrationOptions", "dd/d54/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ae9bca894cffed1fdb57098aba7b9059.html", "dd/d54/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ae9bca894cffed1fdb57098aba7b9059" ]
+];

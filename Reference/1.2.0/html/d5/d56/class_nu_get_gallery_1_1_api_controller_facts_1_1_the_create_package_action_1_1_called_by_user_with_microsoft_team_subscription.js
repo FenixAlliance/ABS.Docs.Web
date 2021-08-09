@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription =
+[
+    [ "CalledByUserWithMicrosoftTeamSubscription", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription.html#aa4da3e85026f2a2c1aadee38edc97ed0", null ],
+    [ "AddsRequiredCoOwnerWhenPackageWithNewRegistrationIdIsCompliant", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription.html#ac89375a335b353043ab2e90c852b8873", null ],
+    [ "DoesNotAddRequiredCoOwnerWhenPackageIsNotCompliant", "d5/d56/class_nu_get_gallery_1_1_api_controller_facts_1_1_the_create_package_action_1_1_called_by_user_with_microsoft_team_subscription.html#acdc2fc7c1f0fd7a58c8177fc577223ee", null ]
+];

@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method =
+[
+    [ "GetsDeprecationOfPackage", "d6/d3a/class_nu_get_gallery_1_1_services_1_1_package_deprecation_service_facts_1_1_the_get_deprecation_by_package_method.html#a679aa16a9dfef3db48d29ef6c2bcfcf7", null ]
+];

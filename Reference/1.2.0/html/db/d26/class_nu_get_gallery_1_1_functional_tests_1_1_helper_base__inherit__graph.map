@@ -1,0 +1,8 @@
+<map id="NuGetGallery.FunctionalTests.HelperBase" name="NuGetGallery.FunctionalTests.HelperBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,207,177"/>
+<area shape="rect" id="node2" href="$d2/d44/class_nu_get_gallery_1_1_functional_tests_1_1_client_sdk_helper.html" title=" " alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$dc/d25/class_nu_get_gallery_1_1_functional_tests_1_1_commandline_helper.html" title="Provides helpers functions around NuGet.exe" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$d5/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_nuspec_helper.html" title="This class provides the helper methods to create and update the nuspec file." alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node5" href="$d2/da5/class_nu_get_gallery_1_1_functional_tests_1_1_o_data_helper.html" title="This class has the helper methods to do gallery operations via OData." alt="" coords="255,201,456,243"/>
+<area shape="rect" id="node6" href="$d8/d1c/class_nu_get_gallery_1_1_functional_tests_1_1_package_creation_helper.html" title="This class provides the helper methods to create different types of packages" alt="" coords="255,267,456,308"/>
+</map>

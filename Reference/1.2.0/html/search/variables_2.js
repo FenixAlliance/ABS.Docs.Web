@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['baseassemblypackageversionmappings_38149',['BaseAssemblyPackageVersionMappings',['../dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html#ab715aa683f5bc3557e2f65ee70994bcf',1,'FenixAlliance::ABS::Core::Templating::Blazor::Core::RazorCompilationService']]],
+  ['basecompilation_38150',['baseCompilation',['../dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html#a0f8d40cb48b30e8fe6ed0523a03b3ce2',1,'FenixAlliance::ABS::Core::Templating::Blazor::Core::RazorCompilationService']]],
+  ['baseurl_38151',['BaseUrl',['../dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange_1_1_open_exchange_rates_client.html#ae699387479eff34c5d96dacbbe395fec',1,'FenixAlliance.ABM.Data.Clients.OpenCurrencyExchange.OpenExchangeRatesClient.BaseUrl()'],['../d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service.html#a7845e19d98363c6340adf212ef0d1c0c',1,'FenixAlliance.ABM.Data.Clients.CurrencyExchange.ForexService.BaseUrl()']]],
+  ['bearerauthorizationscheme_38152',['BearerAuthorizationScheme',['../d7/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_constants.html#ab77237ed03283a17c4ae3d3783dd7606',1,'FenixAlliance::ABM::Models::DTOs::Auth::AADB2C::AADB2CConstants']]],
+  ['betterside_38153',['BetterSide',['../da/d90/class_nu_get_gallery_1_1_telemetry_service.html#a578bcd67c6e5c5b9842d4204fb27ab9e',1,'NuGetGallery::TelemetryService']]],
+  ['bettersidelabel_38154',['BetterSideLabel',['../d6/df2/class_nu_get_gallery_1_1_search_side_by_side_view_model.html#ab68276e829182c0df3afa87e7426c19c',1,'NuGetGallery::SearchSideBySideViewModel']]]
+];

@@ -1,0 +1,9 @@
+var class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method =
+[
+    [ "AddsEntityKeyAsAppropriate", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#a277758f2c0f0beb3059eaabaf41658c2", null ],
+    [ "FailsWhenTheGalleryIsInReadOnlyMode", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#ac0b2c0dcfa40e5cfd29c33982bb87b92", null ],
+    [ "ReturnsCorrectPackageStatusInBlockingMode", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#ab7bf51c153915a069c5e029029fcaf60", null ],
+    [ "ReturnsCorrectPackageStatusInNonBlockingMode", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#a375b64946654c030d0a087be7e977e94", null ],
+    [ "UsesADifferentValidationTrackingIdEachTime", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#aef4a18ee1b2ca9da8b5402ba08f2158d", null ],
+    [ "UsesProvidedPackageIdAndVersion", "dd/d4a/class_nu_get_gallery_1_1_asynchronous_package_validation_initiator_facts_1_1_the_start_validation_async_method.html#a4b2c2194e3e0904abd925d9208b3431e", null ]
+];

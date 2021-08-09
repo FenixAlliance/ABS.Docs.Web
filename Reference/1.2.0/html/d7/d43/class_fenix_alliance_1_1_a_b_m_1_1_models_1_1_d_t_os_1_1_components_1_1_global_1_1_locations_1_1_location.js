@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location =
+[
+    [ "Address1", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a48b8d9ae83bd6662c53beb306b3e3fcf", null ],
+    [ "Address2", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a9f8cfe7b69d04c9166c2c9d2b1921f98", null ],
+    [ "Address3", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#ac386418a84d2f5a64e42dc098d75d25f", null ],
+    [ "Business", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a8036e0605082e44a31ecbcabdd11869e", null ],
+    [ "CanGenerateLabels", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a78eaa8f7e9b653a1373d2cd9e6328aeb", null ],
+    [ "City", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a2cb1cd1f587a04398204a2899dd57eb6", null ],
+    [ "CountryID", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a4352a4b9b49c3d43a24567bd09ab5cd9", null ],
+    [ "Email", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a238090cd695baded8e468213a653650b", null ],
+    [ "Fax", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a36b2030573cc4c232e6360e1fe9c0e76", null ],
+    [ "ID", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a381e5b3051f89e64d9e3c6a14769c8b1", null ],
+    [ "IsCountryPrimary", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a13c361855ffefcf3d26f5f6320f36159", null ],
+    [ "IsDefailtSuppingLocation", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a08d4955690b01283862c5421e770e753", null ],
+    [ "IsDefaultReturnAddress", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#ac06fb298bca629f3fd16c1fcb2868ed0", null ],
+    [ "IsDefaultSenderAddress", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a871923dbfafd2cf8c9231033a02507c7", null ],
+    [ "IsGlobalPrimary", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a7606cbea3fb1612977d30adeed8e6bc5", null ],
+    [ "IsRoutable", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a6bde589657fdfaac1703dee0726974e6", null ],
+    [ "Latitud", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a95601bcfa93c7cc7aaae8f34ee4b9ed0", null ],
+    [ "Longitud", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#ab837bd7e6ecb94fe4dc5a6b2147624f9", null ],
+    [ "Phone", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a573ca0a2f235cb063d59f95e686b5424", null ],
+    [ "PostalCode", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a787e857a216cfd219ecf436e320bc52c", null ],
+    [ "State", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a6af5562645f0ecd7c7e44e6bda820342", null ],
+    [ "Title", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a54b7179ab4fc2b90babc626aaf467cbf", null ],
+    [ "Unit", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html#a94fee68f6c5a80cb50384e0683f2b7ee", null ]
+];

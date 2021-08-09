@@ -1,0 +1,4 @@
+<map id="NuGetGallery.PackageManagerViewModel" name="NuGetGallery.PackageManagerViewModel">
+<area shape="rect" id="node1" title="The basic model for a client that conforms to the NuGet protocol." alt="" coords="10,5,215,47"/>
+<area shape="rect" id="node2" href="$d3/d37/class_nu_get_gallery_1_1_third_party_package_manager_view_model.html" title="A Package Manager that conforms to the NuGet protocol but isn&#39;t maintained by the NuGet team." alt="" coords="5,95,220,136"/>
+</map>

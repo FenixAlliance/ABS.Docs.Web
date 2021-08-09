@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method =
+[
+    [ "CanCalculatedDownloadCountsDuringRefresh", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html#ab08c44cc4470bebe68e4d5179ff18940", null ],
+    [ "ReturnsSumOfVersionsWhenIdExists", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html#a9c3b84f2c8801c49afdcbf83df1bffd9", null ],
+    [ "ReturnsZeroWhenIdDoesNotExist", "df/d58/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_registration_method.html#ae2a19481d86ec7b87abb543c61945494", null ]
+];

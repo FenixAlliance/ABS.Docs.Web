@@ -1,0 +1,5 @@
+<map id="NuGetGallery.ConfigurationIconFileProviderFacts.ConfigurationIconFileProviderFactsBase" name="NuGetGallery.ConfigurationIconFileProviderFacts.ConfigurationIconFileProviderFactsBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,235,241"/>
+<area shape="rect" id="node2" href="$d4/dba/class_nu_get_gallery_1_1_configuration_icon_file_provider.html" title="Produces the icon URL based on the service configuration." alt="" coords="30,81,210,123"/>
+<area shape="rect" id="node3" href="$dd/d62/interface_nu_get_gallery_1_1_i_icon_url_provider.html" title="Abstracts the logic of getting the package&#39;s icon URL." alt="" coords="63,5,177,32"/>
+</map>

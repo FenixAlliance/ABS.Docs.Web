@@ -1,0 +1,14 @@
+<map id="NuGetGallery.Services.DeleteAccountServiceFacts.DeleteAccountTestService" name="NuGetGallery.Services.DeleteAccountServiceFacts.DeleteAccountTestService">
+<area shape="rect" id="node1" title=" " alt="" coords="895,197,1131,253"/>
+<area shape="rect" id="node2" href="$d6/d08/class_nu_get_1_1_services_1_1_entities_1_1_package_deprecation.html" title="Represents a package deprecation." alt="" coords="272,5,439,47"/>
+<area shape="rect" id="node3" href="$d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="5,46,65,73"/>
+<area shape="rect" id="node12" href="$de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html" title="The common entity type to be shared by Package and SymbolPackage This allows us the generic type inst..." alt="" coords="126,75,237,102"/>
+<area shape="rect" id="node4" href="$da/d9b/class_nu_get_gallery_1_1_list.html" title=" " alt="" coords="514,139,647,180"/>
+<area shape="rect" id="node5" href="$da/d9b/class_nu_get_gallery_1_1_list.html" title=" " alt="" coords="493,204,668,245"/>
+<area shape="rect" id="node6" href="$d2/daf/class_nu_get_gallery_1_1_services_1_1_delete_account_service_facts_1_1_delete_account_test_service_1_1_fake_auditing_service.html" title=" " alt="" coords="463,270,699,326"/>
+<area shape="rect" id="node7" href="$d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html" title="Base interface for an auditing service." alt="" coords="123,255,240,282"/>
+<area shape="rect" id="node8" href="$da/d9b/class_nu_get_gallery_1_1_list.html" title=" " alt="" coords="115,307,248,348"/>
+<area shape="rect" id="node9" href="$da/d9b/class_nu_get_gallery_1_1_list.html" title=" " alt="" coords="514,351,647,392"/>
+<area shape="rect" id="node10" href="$da/d9b/class_nu_get_gallery_1_1_list.html" title=" " alt="" coords="514,416,647,457"/>
+<area shape="rect" id="node11" href="$d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html" title=" " alt="" coords="497,73,664,115"/>
+</map>

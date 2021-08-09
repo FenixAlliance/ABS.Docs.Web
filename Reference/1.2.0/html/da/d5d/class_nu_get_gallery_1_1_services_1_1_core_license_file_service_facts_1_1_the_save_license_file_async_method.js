@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method =
+[
+    [ "WillThrowIfLicenseTypeIsAbsent", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#aa54bd8f185806f33733705175f10b39a", null ],
+    [ "WillThrowIfPackageIsMissingNormalizedVersionAndVersion", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#a6c908a46ab779efe3e668b6ee4c71b40", null ],
+    [ "WillThrowIfPackageIsMissingPackageRegistration", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#a69c0f0b23607fe11e9ca37296d8cf2a6", null ],
+    [ "WillThrowIfPackageIsMissingPackageRegistrationId", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#ab5000ee3b6c0d17a3fe7828933c8570b", null ],
+    [ "WillThrowIfPackageIsNull", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#a727efe03b61517a26fa9d9b29b679fdf", null ],
+    [ "WillThrowIfStreamIsNull", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#a9672c7084414f253f1219396eabab4fe", null ],
+    [ "WillUseNormalizedRegularVersionIfNormalizedVersionMissing", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html#a8b2df87607915a784f7eedfae17b14f2", null ]
+];

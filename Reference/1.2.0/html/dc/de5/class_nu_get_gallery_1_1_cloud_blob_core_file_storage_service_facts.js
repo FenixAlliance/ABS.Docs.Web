@@ -1,0 +1,14 @@
+var class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts =
+[
+    [ "TheCopyFileAsyncMethod", "db/d2d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_copy_file_async_method.html", "db/d2d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_copy_file_async_method" ],
+    [ "TheCtor", "df/d71/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_ctor.html", "df/d71/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_ctor" ],
+    [ "TheDeletePackageFileMethod", "de/d7d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_delete_package_file_method.html", "de/d7d/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_delete_package_file_method" ],
+    [ "TheGetETagMethod", "d5/dbe/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_e_tag_method.html", "d5/dbe/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_e_tag_method" ],
+    [ "TheGetFileMethod", "d0/dfb/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_method.html", "d0/dfb/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_method" ],
+    [ "TheGetFileReadUriAsyncMethod", "da/d0b/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_read_uri_async_method.html", "da/d0b/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_file_read_uri_async_method" ],
+    [ "TheGetPriviledgedFileUriAsyncMethod", "df/dc0/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_priviledged_file_uri_async_method.html", "df/dc0/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_get_priviledged_file_uri_async_method" ],
+    [ "TheSaveFileMethod", "de/dd7/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_method.html", "de/dd7/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_method" ],
+    [ "TheSaveFileWithAccessConditionMethod", "db/dc5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_with_access_condition_method.html", "db/dc5/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_save_file_with_access_condition_method" ],
+    [ "TheSetMetadataAsyncMethod", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method.html", "d1/dc3/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_metadata_async_method" ],
+    [ "TheSetPropertiesAsyncMethod", "d0/d83/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_properties_async_method.html", "d0/d83/class_nu_get_gallery_1_1_cloud_blob_core_file_storage_service_facts_1_1_the_set_properties_async_method" ]
+];

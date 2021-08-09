@@ -1,0 +1,5 @@
+var namespace_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode =
+[
+    [ "LogonTest", "d7/d89/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_logon_test.html", "d7/d89/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_logon_test" ],
+    [ "RegisterNewUserInReadOnlyModeTest", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test.html", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test" ]
+];

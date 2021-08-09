@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_sessions =
+[
+    [ "AppraisalSession", "db/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_sessions_1_1_appraisal_session.html", "db/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_sessions_1_1_appraisal_session" ]
+];

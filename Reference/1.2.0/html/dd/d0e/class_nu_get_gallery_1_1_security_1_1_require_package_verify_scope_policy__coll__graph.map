@@ -1,0 +1,5 @@
+<map id="NuGetGallery.Security.RequirePackageVerifyScopePolicy" name="NuGetGallery.Security.RequirePackageVerifyScopePolicy">
+<area shape="rect" id="node1" title="User security policy to require scoped API keys with verify scope on package verification callback." alt="" coords="9,184,209,225"/>
+<area shape="rect" id="node2" href="$d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html" title="Policy handler that defines behavior for specific user policy types." alt="" coords="20,109,197,136"/>
+<area shape="rect" id="node3" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,5,212,61"/>
+</map>

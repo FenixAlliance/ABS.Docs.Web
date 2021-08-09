@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message =
+[
+    [ "DoesNotSendNoticeIfUserDoesNotAllowEmails", "de/d97/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message.html#a0af30e7ff38e725f0c691dd9c5441f39", null ],
+    [ "SendsNotice", "de/d97/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_canceled_message.html#a61c2116f64e7f7aa1f8285c216d41510", null ]
+];

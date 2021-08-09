@@ -1,0 +1,5 @@
+<map id="FenixAlliance.ABM.Models.Processes.BusinessProcess" name="FenixAlliance.ABM.Models.Processes.BusinessProcess">
+<area shape="rect" id="node1" title=" " alt="" coords="5,43,196,84"/>
+<area shape="rect" id="node2" href="$d3/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow.html" title=" " alt="" coords="244,5,472,47"/>
+<area shape="rect" id="node3" href="$d7/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_workflows_1_1_appraisal_workflow.html" title=" " alt="" coords="256,71,460,127"/>
+</map>

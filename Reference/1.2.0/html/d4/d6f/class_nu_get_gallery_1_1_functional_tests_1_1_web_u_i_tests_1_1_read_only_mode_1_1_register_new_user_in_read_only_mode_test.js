@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test =
+[
+    [ "RegisterNewUserInReadOnlyModeTest", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test.html#abacb9c7f57995bb2969806b92321c954", null ],
+    [ "GetRequestEnumerator", "d4/d6f/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_read_only_mode_1_1_register_new_user_in_read_only_mode_test.html#ab8e975c9fa4fe55cb81fb8067ceb91af", null ]
+];

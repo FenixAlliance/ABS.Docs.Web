@@ -1,0 +1,8 @@
+var namespace_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages =
+[
+    [ "BrandingValidationTest", "df/df1/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_branding_validation_test.html", "df/df1/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_branding_validation_test" ],
+    [ "HomePageValidationTest", "d1/d08/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_home_page_validation_test.html", "d1/d08/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_home_page_validation_test" ],
+    [ "PackagesPageTest", "d1/d65/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_packages_page_test.html", "d1/d65/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_packages_page_test" ],
+    [ "StatisticsPageTest", "d7/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_statistics_page_test.html", "d7/d8c/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_statistics_page_test" ],
+    [ "SecurityHeaderTest", "d7/dc3/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_security_header_test.html", "d7/dc3/class_nu_get_gallery_1_1_functional_tests_1_1_web_u_i_tests_1_1_basic_pages_1_1_security_header_test" ]
+];

@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body =
+[
+    [ "HasExpectedBodyWithEmptyModel", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html#a8db82162ebce5eeb70fabf7883d91faa", null ],
+    [ "HasExpectedBodyWithFullModel", "db/dce/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_search_side_by_side_message_facts_1_1_get_markdown_body.html#a6d53dff2ee14f250e19ea4b71ac6b511", null ]
+];

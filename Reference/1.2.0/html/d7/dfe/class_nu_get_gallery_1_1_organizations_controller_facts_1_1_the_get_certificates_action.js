@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action =
+[
+    [ "TheGetCertificatesAction", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a1861b42f6391b5634c761aaf8bc42b8a", null ],
+    [ "GetCertificates_WhenCurrentUserIsNull_ReturnsUnauthorized", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a48ac2d00f45a0470861bfab15db87edf", null ],
+    [ "GetCertificates_WhenCurrentUserLacksPermission_ReturnsForbidden", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a61163463c37583e643d6e89cfa3f068e", null ],
+    [ "GetCertificates_WhenOrganizationHasCertificate_ForAllValidClaims_ReturnsOK", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a0529acc6df044c137150fd0c2ad4a475", null ],
+    [ "GetCertificates_WhenOrganizationHasCertificateAndCurrentUserIsOrganizationCollaborator_ReturnsOK", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a6815134282c9699ddd3fc5c6c6ad84c1", null ],
+    [ "GetCertificates_WhenOrganizationHasNoCertificates_ForAllValidClaims_ReturnsOK", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#ab66a406b90a18cb4501f6b13f0e3f253", null ],
+    [ "GetCertificates_WhenOrganizationIsNotFound_ReturnsNotFound", "d7/dfe/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_get_certificates_action.html#a59fed31af0418edd348327047013c24d", null ]
+];

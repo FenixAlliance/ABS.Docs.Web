@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements =
+[
+    [ "SupportEntitlement", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement.html", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement" ]
+];

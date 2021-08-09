@@ -1,0 +1,4 @@
+<map id="NuGetGallery.AsynchronousPackageValidationInitiator&lt; TPackageEntity &gt;" name="NuGetGallery.AsynchronousPackageValidationInitiator&lt; TPackageEntity &gt;">
+<area shape="rect" id="node1" title="Initiates asynchronous validation on a package by enqueuing a message containing the package identity..." alt="" coords="5,95,192,151"/>
+<area shape="rect" id="node2" href="$d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html" title="Initiates validation for a specific package." alt="" coords="10,5,187,47"/>
+</map>

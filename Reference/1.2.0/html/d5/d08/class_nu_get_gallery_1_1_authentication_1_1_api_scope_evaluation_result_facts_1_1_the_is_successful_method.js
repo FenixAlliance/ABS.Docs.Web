@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method =
+[
+    [ "ReturnsExpected", "d5/d08/class_nu_get_gallery_1_1_authentication_1_1_api_scope_evaluation_result_facts_1_1_the_is_successful_method.html#a85d644ac5218be50e73780c99d1ab3f0", null ]
+];

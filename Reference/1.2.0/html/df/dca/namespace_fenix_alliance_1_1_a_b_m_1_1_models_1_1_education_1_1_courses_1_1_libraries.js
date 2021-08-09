@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries =
+[
+    [ "CourseLibrary", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library" ]
+];

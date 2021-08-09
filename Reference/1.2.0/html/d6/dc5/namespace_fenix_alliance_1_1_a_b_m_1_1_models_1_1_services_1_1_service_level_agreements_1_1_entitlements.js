@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlements =
+[
+    [ "ServiceLevelAgreementEntitlement", "d1/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlemf80a586809a5af3c4ec6dc4e9a2fad01.html", "d1/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlemf80a586809a5af3c4ec6dc4e9a2fad01" ]
+];

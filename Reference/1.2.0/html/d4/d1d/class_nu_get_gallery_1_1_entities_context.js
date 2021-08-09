@@ -1,0 +1,28 @@
+var class_nu_get_gallery_1_1_entities_context =
+[
+    [ "EntitiesContext", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a54cbe0e2cc73d8cbdbe2b54189f36cc0", null ],
+    [ "EntitiesContext", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#ad1af5d688a79bfa23e59637574b2196b", null ],
+    [ "DeleteOnCommit< T >", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#af844216fa38a6e71d414e3cadfab2b29", null ],
+    [ "GetDatabase", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#aaba7ab289ac38156d78c9e13db2b9d8f", null ],
+    [ "OnModelCreating", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#aa1186d9e3ae0928c70f035f2b3fb64ab", null ],
+    [ "SaveChangesAsync", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a4cb523fe31a3746e96c62550d481d117", null ],
+    [ "SetCommandTimeout", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a0d8378fdc6002a4c8216c14010ab27fe", null ],
+    [ "WithQueryHint", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#ae65f7d56c4bb8c975f3b96bd747ac982", null ],
+    [ "Certificates", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#ae1ab028f3d1aaa7c836e6ac86bd57c36", null ],
+    [ "Credentials", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a0b582697b26d627fbee1078727a29cc0", null ],
+    [ "Deprecations", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a5087b8d323160054b10b0ed8c51c6e6d", null ],
+    [ "PackageDependencies", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a1ffdd9cd4f59eedeff0fc80e4ab85a94", null ],
+    [ "PackageRegistrations", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#ad75179b6fb4b00f0793f507c70960475", null ],
+    [ "PackageRenames", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a4e7475b1a6c39a497ea241b7aa07dc6f", null ],
+    [ "Packages", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a82bd10ba4dcc1946e7af5e60d03e9be0", null ],
+    [ "QueryHint", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a67365a8e38854f69168fd5d8c09c1d05", null ],
+    [ "ReadOnly", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#adedcbe1d32cbafc076f94c7d828bcb73", null ],
+    [ "ReservedNamespaces", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#aa1cf3b90a27813106c6738f352baa7af", null ],
+    [ "Scopes", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a2c9b5256bafce1d900e449abcea94217", null ],
+    [ "SymbolPackages", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a32ebe46c17f20d554286e4bf10500eb7", null ],
+    [ "UserCertificates", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#acf2098051bb407fef67467b44880a9fa", null ],
+    [ "Users", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#abcaac83e5a30568d34758b087dbd789b", null ],
+    [ "UserSecurityPolicies", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a5802288e5b07ca5923bb6402e750e3d8", null ],
+    [ "Vulnerabilities", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a02f97ff2586462213e0b4f39da0e66c2", null ],
+    [ "VulnerableRanges", "d4/d1d/class_nu_get_gallery_1_1_entities_context.html#a42b33c74e8f2e5f954c49728ea44e26e", null ]
+];

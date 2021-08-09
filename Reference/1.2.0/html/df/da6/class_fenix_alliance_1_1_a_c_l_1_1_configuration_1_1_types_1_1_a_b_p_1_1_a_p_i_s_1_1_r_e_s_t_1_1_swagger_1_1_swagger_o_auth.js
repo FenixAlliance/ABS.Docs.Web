@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_o_auth =
+[
+    [ "OAuth2RedirectUrl", "df/da6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_o_auth.html#aceee11146e55fcecf98d83ab624e0b90", null ],
+    [ "OAuthAdditionalQueryStringParams", "df/da6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_o_auth.html#a94b7453295727d63a19336ba336ab770", null ],
+    [ "OAuthClientId", "df/da6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_o_auth.html#aadc70444bbe06e4e2ca0f54441c36543", null ]
+];

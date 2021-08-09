@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method =
+[
+    [ "AddsUserMailAddressToToList", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html#ab4f58724b8904b4192d57891a69a57f9", null ],
+    [ "HasEmptyBccList", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html#a241f4290d69a0894e973643af5b21c72", null ],
+    [ "HasEmptyCCList", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html#a75c26db1f4be8c5df31945903f75c833", null ],
+    [ "HasEmptyReplyToList", "dc/d68/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_new_account_message_facts_1_1_the_get_recipients_method.html#ae2afe2164004be303e4d59ccdc6c9bd7", null ]
+];

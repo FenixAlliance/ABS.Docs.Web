@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities =
+[
+    [ "FiscalResponsability", "d1/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability.html", "d1/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability" ],
+    [ "FiscalResponsabilityRecord", "d3/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability_record.html", "d3/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability_record" ]
+];

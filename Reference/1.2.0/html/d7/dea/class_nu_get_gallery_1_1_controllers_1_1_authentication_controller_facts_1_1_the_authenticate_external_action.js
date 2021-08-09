@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action =
+[
+    [ "ForAADLinkedAccount_ErrorIsReturnedDueToOrgPolicy", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html#a1e26eeadfdb43319f10409c37a4671cc", null ],
+    [ "ForMissingExternalProvider_ErrorIsReturned", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html#add0111e386bb9a719edceb1cd3adf291", null ],
+    [ "ForNonAADLinkedAccount_WithOrgPolicyCompletesSuccessfully", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html#a59f3682534ed7ee8379d1c59591d3c8d", null ],
+    [ "WillCallChallengeAuthenticationForAADv2Provider", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html#ad308dff15bb75285e8347789a6dc758f", null ],
+    [ "WillCallChallengeAuthenticationForAADv2ProviderForUserWithNoAADCredential", "d7/dea/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_external_action.html#aa6d956ec69433e10a7449b04c6d95784", null ]
+];

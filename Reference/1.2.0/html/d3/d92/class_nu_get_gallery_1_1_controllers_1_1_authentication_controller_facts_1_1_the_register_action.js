@@ -1,0 +1,13 @@
+var class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action =
+[
+    [ "GivenAdminLogsInWithExternalIdentity_ItChallengesWhenNotUsingRequiredExternalProvider", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a29b2be9643101e24659952b8af61fe0d", null ],
+    [ "GivenExpiredExternalAuth_ItRedirectsBackToLogOnWithExternalAuthExpiredMessage", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a898f55838d88d16e22df11e26ca63403", null ],
+    [ "GivenValidExternalAuth_ItCreatesAccountAndLinksCredential", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a38ac0465cd910fb2aeb3512087079e85", null ],
+    [ "WillAutoConfirmAndWillNotSendConfirmationEmailWhenIsExternalCredentialAndModelRegisterEmailAndExternalCredentialEmailMatch", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#ab10797243f3b30d169c41bee63b9872d", null ],
+    [ "WillCreateAndLogInTheUserWhenNotLinking", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a8c101bde354db71ed0ac5edddb8caabb", null ],
+    [ "WillInvalidateModelStateAndShowTheViewWhenAnEntityExceptionIsThrow", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a2c7c5bc94203edf65acb547d3746c28f", null ],
+    [ "WillNotAutoConfirmAndWillSendConfirmationEmailWhenModelRegisterEmailAndExternalCredentialEmailNotMatch", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a3a338c866ab692c10e4d40b77501bec6", null ],
+    [ "WillNotAutoConfirmAndWillSendConfirmationEmailWhenNotExternalCredential", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a944a247fdb76198c486e2af2a922f6c7", null ],
+    [ "WillNotSendConfirmationEmailWhenConfirmEmailAddressesIsOff", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#ae678c0877e8af8b0e51b795a26ab2b87", null ],
+    [ "WillShowTheViewWithErrorsIfTheModelStateIsInvalid", "d3/d92/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_register_action.html#a06397ff07f4fa0e22c215417489ab6fb", null ]
+];

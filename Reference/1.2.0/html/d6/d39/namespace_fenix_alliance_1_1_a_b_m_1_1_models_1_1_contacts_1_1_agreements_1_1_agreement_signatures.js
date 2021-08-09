@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures =
+[
+    [ "AgreementSignature", "da/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures_1_1_agreement_signature.html", "da/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures_1_1_agreement_signature" ]
+];

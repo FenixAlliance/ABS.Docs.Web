@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method =
+[
+    [ "GivenInvalidOldPassword_ItReturnsFalseAndDoesNotChangePassword", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method.html#ab00e40b95e755c392b6df9f610cf691a", null ],
+    [ "GivenValidOldPassword_ItReturnsTrueAndReplacesPasswordCredential", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method.html#a734f0e96ada3a120c04cdc09b7f9d5f6", null ],
+    [ "GivenValidOldPassword_ItWritesAnAuditRecordOfTheChange", "d5/df3/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_change_password_method.html#a5bafbbec789e4d4230b4429af91b7dd0", null ]
+];

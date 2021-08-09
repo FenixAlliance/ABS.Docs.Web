@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts =
+[
+    [ "Evaluate_ReturnsFailureIfClientVersionLowerThanRequired", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#aa663f37035650580c874952fa0ae635d", null ],
+    [ "Evaluate_ReturnsFailureIfProtocolVersionHeaderIsMissing", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#a365cfe07b82a7ab994700ae1bda327a4", null ],
+    [ "Evaluate_ReturnsFailureIfProtocolVersionLowerThanRequired", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#ae997fae921ce3004dc895c5794934642", null ],
+    [ "Evaluate_ReturnsFailureIfProtocolVersionLowerThenRequiredAndClientVersionHigher", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#af59d5712146b641f3d5834d0a5e25d7d", null ],
+    [ "Evaluate_ReturnsSuccessIfClientVersionEqualOrHigherThanRequired", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#a10fc9be75252e950c1151609ef30da09", null ],
+    [ "Evaluate_ReturnsSuccessIfProtocolVersionEqualOrHigherThanRequired", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#acc576c8d1982b74f3ee5ca91bac9aa09", null ],
+    [ "Evaluate_ReturnsSuccessIfProtocolVersionHigherThenRequiredAndClientVersionLower", "da/dc5/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy_facts.html#afa81256e9b4c84dc878f6f06b3ee9f9c", null ]
+];

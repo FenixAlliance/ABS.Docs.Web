@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_minimum_level =
+[
+    [ "Default", "d0/d97/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_minimum_level.html#adec9c2e0610bd314e3a906c192dde7f1", null ],
+    [ "Override", "d0/d97/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_minimum_level.html#a6041d41192bb6cd3c78f49beca37dd5a", null ]
+];

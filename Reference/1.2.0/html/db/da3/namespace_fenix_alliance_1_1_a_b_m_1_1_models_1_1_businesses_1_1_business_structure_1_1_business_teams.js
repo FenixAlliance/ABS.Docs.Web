@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams =
+[
+    [ "BusinessTeamRecords", "dd/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_businessd0a68553dd034ff8fb761a3d6487f57b.html", "dd/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_businessd0a68553dd034ff8fb761a3d6487f57b" ]
+];

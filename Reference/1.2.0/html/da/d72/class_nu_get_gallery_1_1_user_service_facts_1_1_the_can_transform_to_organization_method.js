@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method =
+[
+    [ "WhenAccountHasNoMemberships_ReturnsTrue", "da/d72/class_nu_get_gallery_1_1_user_service_facts_1_1_the_can_transform_to_organization_method.html#ad81d88678d68e82ff9069fdf8da40eb3", null ]
+];

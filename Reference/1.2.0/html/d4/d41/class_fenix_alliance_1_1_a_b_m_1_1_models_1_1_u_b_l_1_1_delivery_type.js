@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type =
+[
+    [ "ActualDeliveryDate", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a4ebf90bfb207005b3cb674ac17895dc4", null ],
+    [ "ActualDeliveryTime", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a855689de6292a805eab995224a0cbc72", null ],
+    [ "AlternativeDeliveryLocation", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#ae85bb031e5fcb8416d9a55caf89de214", null ],
+    [ "CarrierParty", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a74ab5372033524874706ace2090136b5", null ],
+    [ "DeliveryAddress", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a2639df0121c79ee4aff068ddb8c78e32", null ],
+    [ "DeliveryLocation", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a0568633ea15f8422ae6c034fd2363b5b", null ],
+    [ "DeliveryParty", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a3b4c3e5809eb569c4f2b0520f0cdc290", null ],
+    [ "DeliveryTerms", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a6a52a687b61218a82969c4aac06eb19f", null ],
+    [ "Despatch", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a7bedc16ab94def63d64127ab8618173a", null ],
+    [ "EstimatedDeliveryPeriod", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a8eef1e6ee324dda24c128a5278a7d678", null ],
+    [ "ID", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a47c5ac9008d66cf37418697a4ef4df78", null ],
+    [ "LatestDeliveryDate", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#ad231ab36b4b9fdc05eb9e30074b991a9", null ],
+    [ "LatestDeliveryTime", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#aff5fad522f78836c9b3be352ba1d8166", null ],
+    [ "MaximumDeliveryUnit", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a824716f71f5b4a33ff6c965a46ded013", null ],
+    [ "MaximumQuantity", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a3e35c1c09054d032e6ddad0fd166fd10", null ],
+    [ "MinimumDeliveryUnit", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a316b3f95d2cdec33534e9261c9dbf5f6", null ],
+    [ "MinimumQuantity", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#af577ba1996c7c4c4154819c4d5499e74", null ],
+    [ "NotifyParty", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a5cc85bcd5eff96817f093beb5be5243d", null ],
+    [ "PromisedDeliveryPeriod", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#ac6daa8c7dc92e3d2f6d7c7b9c4c3d93d", null ],
+    [ "Quantity", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a3d17762671c0993912a9d703528a8bcd", null ],
+    [ "ReleaseID", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#ad731741b680c769c84774b5ff02f3939", null ],
+    [ "RequestedDeliveryPeriod", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#ab11aa7c7f058b32eca9b0eb19b5d0b7b", null ],
+    [ "Shipment", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a9d4454c522715bf6c6beee1d3b3cb72f", null ],
+    [ "TrackingID", "d4/d41/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_delivery_type.html#a03a93c34712711705e652715ac936a89", null ]
+];

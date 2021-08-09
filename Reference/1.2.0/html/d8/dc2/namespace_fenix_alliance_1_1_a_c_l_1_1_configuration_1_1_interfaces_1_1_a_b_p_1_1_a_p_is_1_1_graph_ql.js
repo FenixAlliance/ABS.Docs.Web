@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql =
+[
+    [ "IGraphQlApi", "dd/d8d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_api.html", "dd/d8d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_api" ],
+    [ "IGraphQlExtension", "d7/de7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_extension.html", "d7/de7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_graph_ql_1_1_i_graph_ql_extension" ]
+];

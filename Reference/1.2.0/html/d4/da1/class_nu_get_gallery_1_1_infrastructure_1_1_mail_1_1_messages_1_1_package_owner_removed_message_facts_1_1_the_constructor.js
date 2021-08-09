@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_constructor =
+[
+    [ "GivenANullArgument_ItShouldThrow", "d4/da1/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_removed_message_facts_1_1_the_constructor.html#aa9af72d21a0016817226ee0e262bacd4", null ]
+];

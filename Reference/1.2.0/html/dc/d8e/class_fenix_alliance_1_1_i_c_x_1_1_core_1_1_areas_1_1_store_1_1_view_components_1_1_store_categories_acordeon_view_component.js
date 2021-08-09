@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component =
+[
+    [ "StoreCategoriesAcordeonViewComponent", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html#a06fd9183e3119f3b0cb7b830e897754b", null ],
+    [ "InvokeAsync", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html#a8c8d0abd5b8870f4c41b5724c57689e6", null ],
+    [ "DataContext", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html#a4421553552651bb5f43e4148666e6377", null ],
+    [ "HolderService", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html#a2fb02b6f22c31b050657b6e17a81acd1", null ],
+    [ "StoreHelpers", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html#a3ae7ccadd4a31fb9858cba4118f0abe1", null ]
+];

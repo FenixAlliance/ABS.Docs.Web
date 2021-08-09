@@ -1,0 +1,25 @@
+var class_nu_get_gallery_1_1_package_view_model =
+[
+    [ "IsCurrent", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#aa0a434853b3452e17e9b449b22e6a50b", null ],
+    [ "Available", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#ad6eeabf19164497c2d6082300e8f9294", null ],
+    [ "Deleted", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a76421f93a0cef8a872745c5722aeb2ec", null ],
+    [ "Description", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#aed84456c2d1fb60c3428f6fae1d10232", null ],
+    [ "DevelopmentDependency", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a3c9dd6c7ac434cebe094d9448ec567f0", null ],
+    [ "DownloadCount", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a8978a6270e53b8cd75c1863a5d09fd88", null ],
+    [ "FailedValidation", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a052ca820315e4172d9477d19c49e592f", null ],
+    [ "FullVersion", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#ae189ed1dec8c6c3a37a66507c5031512", null ],
+    [ "IconUrl", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a7cd1fe84668ccae04111319ad0f3633c", null ],
+    [ "Id", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a62e38e1a279a7a1eeba4566dc13465d2", null ],
+    [ "LastUpdated", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#af157f287a90388360060ae1e797aa741", null ],
+    [ "LatestStableVersionSemVer2", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#ab210995bc1f111e28cab862cfccd193a", null ],
+    [ "LatestVersionSemVer2", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a8c63fddd1c6eac87cf0a69f4e17fcee2", null ],
+    [ "Listed", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#ac8f8f7ade11ee8d5f6e5f323c6b07942", null ],
+    [ "PackageStatusSummary", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#aa2babb76b39f0653b9e0fcfc3ef57842", null ],
+    [ "Prerelease", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a2ebcce0ea6be5ef5f2777dba8c27e763", null ],
+    [ "ReleaseNotes", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a3c26cf385de4f52a7ff22bc7651cca4e", null ],
+    [ "TotalDownloadCount", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a506b51bb670d797f957d72be3589e7c3", null ],
+    [ "Validating", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#ac795f03b2266eb029e0d128b2729cf59", null ],
+    [ "Version", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a0012f4907816c8b866c2bf43e411218d", null ],
+    [ "VersionRequested", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#a7fc11525a5853080cc6d6798f4c5f4b4", null ],
+    [ "VersionRequestedWasNotFound", "dd/d20/class_nu_get_gallery_1_1_package_view_model.html#af7e595399939a785363dd9f1e8d464d1", null ]
+];

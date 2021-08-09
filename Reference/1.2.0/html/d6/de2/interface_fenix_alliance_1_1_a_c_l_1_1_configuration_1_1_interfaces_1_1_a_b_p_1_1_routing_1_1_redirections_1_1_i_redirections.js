@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirections =
+[
+    [ "RedirectionRules", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirections.html#a8d1a55f313341156d51e300051890677", null ],
+    [ "StatusCodePages", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_redirections_1_1_i_redirections.html#af419210b5930523316816afb8761fb1b", null ]
+];

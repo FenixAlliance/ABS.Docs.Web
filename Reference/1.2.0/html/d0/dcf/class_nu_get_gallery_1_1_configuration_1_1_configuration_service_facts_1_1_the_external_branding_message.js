@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message =
+[
+    [ "TheMessageIsFormattedCorrectly", "d0/dcf/class_nu_get_gallery_1_1_configuration_1_1_configuration_service_facts_1_1_the_external_branding_message.html#a5b65d559510860e40d872467a3242423", null ]
+];

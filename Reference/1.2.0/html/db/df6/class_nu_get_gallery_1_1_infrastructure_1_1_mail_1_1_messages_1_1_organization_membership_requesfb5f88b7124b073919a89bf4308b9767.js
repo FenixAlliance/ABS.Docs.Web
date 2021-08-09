@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesfb5f88b7124b073919a89bf4308b9767 =
+[
+    [ "ReturnsExpectedBody", "db/df6/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_requesfb5f88b7124b073919a89bf4308b9767.html#af0200f444a74c99d1deb1387deed10d7", null ]
+];

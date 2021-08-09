@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e =
+[
+    [ "ReturnsExpectedBodyForAdmin", "d6/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e.html#a2e3875a15386aac2c5be7391f776ce30", null ],
+    [ "ReturnsExpectedBodyForNonAdmin", "d6/d72/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_organization_membership_reques89fb05ca2789db1e7f15148dfcbdf49e.html#a2e06883274059382a4674dff528f25b3", null ]
+];

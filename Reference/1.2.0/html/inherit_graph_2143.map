@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d38/interface_nu_get_gallery_1_1_i_validation_message.html" title="Represents a validation message that may include a raw HTML message (if we want to present some links..." alt="" coords="5,201,171,243"/>
+<area shape="rect" id="node2" href="$db/d83/class_nu_get_gallery_1_1_icon_url_deprecation_validation_message.html" title=" " alt="" coords="229,5,443,47"/>
+<area shape="rect" id="node3" href="$d2/db2/class_nu_get_gallery_1_1_invalid_license_url_validation_message.html" title="The error message to be used when package contains license expression, but its license URL points to ..." alt="" coords="243,71,429,112"/>
+<area shape="rect" id="node4" href="$db/d27/class_nu_get_gallery_1_1_invalid_url_encoding_for_license_url_validation_message.html" title="The error message to be used when we detect an invalid URL encoding used for a license URL...." alt="" coords="230,136,442,177"/>
+<area shape="rect" id="node5" href="$da/d79/class_nu_get_gallery_1_1_license_url_deprecation_validation_message.html" title="A generic license url deprecation message that appends a &quot;Learn more&quot; documentation link to a given b..." alt="" coords="219,201,453,243"/>
+<area shape="rect" id="node6" href="$d8/d64/class_nu_get_gallery_1_1_ownerless_namespace_id_conflict_message.html" title="Represents a package ID reservation conflict, but all of the namespaces that prevented the upload hav..." alt="" coords="219,267,453,308"/>
+<area shape="rect" id="node7" href="$d2/d79/class_nu_get_gallery_1_1_package_should_not_be_signed_user_fixable_validation_message.html" title="Represents an error message to be displayed when user uploads a signed package but theirs account was..." alt="" coords="224,333,448,389"/>
+<area shape="rect" id="node8" href="$d1/dc5/class_nu_get_gallery_1_1_plain_text_only_validation_message.html" title="Cautious default implementation of IValidationMessage that does not allow user to specify raw html re..." alt="" coords="243,413,429,455"/>
+</map>

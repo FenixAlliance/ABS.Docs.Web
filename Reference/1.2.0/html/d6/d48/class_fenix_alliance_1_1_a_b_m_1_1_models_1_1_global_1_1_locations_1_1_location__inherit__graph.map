@@ -1,0 +1,10 @@
+<map id="FenixAlliance.ABM.Models.Global.Locations.Location" name="FenixAlliance.ABM.Models.Global.Locations.Location">
+<area shape="rect" id="node1" title=" " alt="" coords="5,239,188,280"/>
+<area shape="rect" id="node2" href="$d9/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_locations_1_1_asset_location.html" title=" " alt="" coords="243,5,487,47"/>
+<area shape="rect" id="node3" href="$db/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location_scopes_1_1_business_location.html" title=" " alt="" coords="255,71,475,127"/>
+<area shape="rect" id="node4" href="$d0/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location_scopes_1_1_contact_location.html" title=" " alt="" coords="255,151,475,207"/>
+<area shape="rect" id="node5" href="$d7/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location_scopes_1_1_holder_location.html" title=" " alt="" coords="255,231,475,287"/>
+<area shape="rect" id="node6" href="$d2/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location_scopes_1_1_store_location.html" title=" " alt="" coords="255,311,475,367"/>
+<area shape="rect" id="node7" href="$d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_warehouses_1_1_warehouse.html" title=" " alt="" coords="236,391,495,447"/>
+<area shape="rect" id="node8" href="$d8/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_locations_1_1_supplier_location.html" title=" " alt="" coords="262,471,469,527"/>
+</map>

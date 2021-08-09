@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651 =
+[
+    [ "AddAutoCollectedMetricExtractor", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a3fb8dc710edd6f08700a73cec441fbdf", null ],
+    [ "ApplicationVersion", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a54ca2ac266b3173101ab7cae288bde45", null ],
+    [ "ConnectionString", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a8b9bfa39cad5a2d6eaf96fdabe40cee9", null ],
+    [ "DeveloperMode", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a2e7d23316c5ea9fb36bb9c6761225534", null ],
+    [ "EnableActiveTelemetryConfigurationSetup", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#abd71fdbfa40b6af34218a917d305f0d1", null ],
+    [ "EnableAdaptiveSampling", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a1c35c9c4c8d9efa660561af954a360e8", null ],
+    [ "EnableAppServicesHeartbeatTelemetryModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#ad57ac4bbea04f87380f729ad4ed5add0", null ],
+    [ "EnableAuthenticationTrackingJavaScript", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#ad566f50f397df97a2009608f4bbdc29b", null ],
+    [ "EnableAzureInstanceMetadataTelemetryModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a61789cce5d96ed27974359e8f5e6f764", null ],
+    [ "EnableDebugLogger", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a59bf17d5c4c2014bdb3f1e5fc0ea5b46", null ],
+    [ "EnableDependencyTrackingTelemetryModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#af7fa7bb0a80149079012fe0ee7c3c9f3", null ],
+    [ "EnableDiagnosticsTelemetryModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a191d64d9b426a62c90cada943fb8b4b1", null ],
+    [ "EnableEventCounterCollectionModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a943941d2b68518505ae5e5b30a469cb6", null ],
+    [ "EnableHeartbeat", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a9ae726faced9b70f51b84cae4b4f1bde", null ],
+    [ "EnableLegacyCorrelationHeadersInjection", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#ab2cd6912d79fc505b894bc99b1224a9d", null ],
+    [ "EnablePerformanceCounterCollectionModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#ada4084ab2b53acc74256af655c127aee", null ],
+    [ "EnableQuickPulseMetricStream", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a33d12c30ab0f0007c242006195f305da", null ],
+    [ "EnableRequestTrackingTelemetryModule", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#afae839e24ec10e10fbf87d5e9ebcd2aa", null ],
+    [ "EnableW3CDistributedTracing", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a355cff98a10b2377d6b301c2ae60c8c5", null ],
+    [ "EndpointAddress", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#ae29de016bb7204809734aa4c46696bdb", null ],
+    [ "InjectResponseHeaders", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#accf559c3a4eb62cff8ab182fdc167cdc", null ],
+    [ "InstrumentationKey", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#a54c2f2b712652b511eb0ed0710029ffc", null ],
+    [ "TrackExceptions", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html#af371e461ab2b4e96bfa32bc13694fad5", null ]
+];

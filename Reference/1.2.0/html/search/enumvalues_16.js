@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['validating_39512',['Validating',['../da/db2/namespace_nu_get_1_1_services_1_1_entities.html#af65d922cebc17ceaed6d669908551248ac423b2af9f3f373c6576a8512645da9b',1,'NuGet.Services.Entities.Validating()'],['../df/d6a/namespace_nu_get_gallery.html#ae7cdff79e592e3697d44c737ae8a8080ac423b2af9f3f373c6576a8512645da9b',1,'NuGetGallery.Validating()']]],
+  ['varbinary_39513',['VarBinary',['../d3/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns.html#a8fa1b3bc86608979fc088f8db3b62da1a0dafa7c2df182a203b257dfbdc68914b',1,'FenixAlliance::ABM::Models::Internals::Columns']]],
+  ['varbinarymax_39514',['VarBinaryMax',['../d3/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns.html#a8fa1b3bc86608979fc088f8db3b62da1a71d9485be7353b77feed6e76c0586b5f',1,'FenixAlliance::ABM::Models::Internals::Columns']]],
+  ['varchar_39515',['VarChar',['../d3/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns.html#a8fa1b3bc86608979fc088f8db3b62da1a295228d938fb8a0eea09a68e223d2ff8',1,'FenixAlliance::ABM::Models::Internals::Columns']]],
+  ['varcharmax_39516',['VarCharMax',['../d3/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns.html#a8fa1b3bc86608979fc088f8db3b62da1a8edaf47e66b43e5c953987474fc83050',1,'FenixAlliance::ABM::Models::Internals::Columns']]],
+  ['verify_39517',['Verify',['../df/da0/namespace_nu_get_gallery_1_1_auditing.html#a9753055694e4c2db0dbc64b6372f92f4a5a750f86ef41f22f852c43351e3ff383',1,'NuGetGallery.Auditing.Verify()'],['../df/da0/namespace_nu_get_gallery_1_1_auditing.html#a3c499337990267ef8d5e3e8e7da38a76a5a750f86ef41f22f852c43351e3ff383',1,'NuGetGallery.Auditing.Verify()']]],
+  ['vertically_39518',['Vertically',['../d5/db8/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons.html#a1c73c727a377c92822a8a2c8e8558b62a2f956b64560e7307c699c3492cb37607',1,'FenixAlliance::ACL::Configuration::Types::ABS::Portal::Commons']]],
+  ['violatesalicenseiown_39519',['ViolatesALicenseIOwn',['../df/d6a/namespace_nu_get_gallery.html#a429f8747b01fb7e90c8da434dc2a6c4daebce3a8f49b80a79a98c8032bb4bba4d',1,'NuGetGallery']]],
+  ['vs_39520',['VS',['../d9/dd5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments.html#a1647edcec055b31a2a739a6db142f0cba2c54e23f4c5442c665a807ab19f61204',1,'FenixAlliance::ABM::Models::Accounting::Billing::Payments']]]
+];

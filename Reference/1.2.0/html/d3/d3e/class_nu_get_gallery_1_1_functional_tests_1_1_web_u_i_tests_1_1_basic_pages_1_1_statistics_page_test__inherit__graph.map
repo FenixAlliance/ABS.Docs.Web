@@ -1,0 +1,4 @@
+<map id="NuGetGallery.FunctionalTests.WebUITests.BasicPages.StatisticsPageTest" name="NuGetGallery.FunctionalTests.WebUITests.BasicPages.StatisticsPageTest">
+<area shape="rect" id="node1" title="Sends a http request to the statistics page and tries to validate the default stats page text and the..." alt="" coords="5,80,232,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="81,5,156,32"/>
+</map>

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_servic5792c53d4fcc498469acb829f29636b7 =
+[
+    [ "ServiceIncidentTypeCharacteristic", "df/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in6a274cecde4d877d3b36b3a0e4c520ae.html", "df/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in6a274cecde4d877d3b36b3a0e4c520ae" ]
+];

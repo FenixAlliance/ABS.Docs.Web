@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method =
+[
+    [ "DoesNotThrowWhenKeyValuesFromCookieContainsNullKey", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html#a451d72b1509ab004dc1ed63cbf084a43", null ],
+    [ "RetrievesValuesFromCookie", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html#a1897e276f1895987627df090acffa5dc", null ],
+    [ "WithEmptyCookieReturnsEmptyDictionary", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html#ae2ec551e0897ace897138129a39cb901", null ],
+    [ "WithNullCookieReturnsEmptyDictionary", "d2/d71/class_nu_get_gallery_1_1_infrastructure_1_1_cookie_temp_data_provider_facts_1_1_the_load_temp_data_method.html#a977a2d37970d2fdd382025656537819b", null ]
+];

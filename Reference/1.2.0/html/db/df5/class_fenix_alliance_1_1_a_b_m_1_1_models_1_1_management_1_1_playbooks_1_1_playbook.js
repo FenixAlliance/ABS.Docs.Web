@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook =
+[
+    [ "Business", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a42ccdbb14fba6ecb4466d2b340b6653c", null ],
+    [ "BusinessID", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a587a97e41f7f905958d51041bee9dda3", null ],
+    [ "BusinessProfileRecord", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a8399dae9006573e9154fb47d1bd43eb2", null ],
+    [ "BusinessProfileRecordID", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#ab00ed994b4b0067291523f335177604d", null ],
+    [ "Description", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#ac964e25132570b55dacf51e33ad3979f", null ],
+    [ "DurationInDays", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a0cf6bdb374c2780ff2c46231cf3fbb70", null ],
+    [ "EnabledForDealUnits", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a005a3bb8e62be541e625f3f7c237f51b", null ],
+    [ "EnabledForIndividuals", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a6bbb91fa284b863202243799fe9e98a4", null ],
+    [ "EnabledForMarketingLeads", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a3a5cf46394fe52d62452c9cac8f0a957", null ],
+    [ "EnabledForOrders", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a67c9d45df9a962df906e0af1d55d9b57", null ],
+    [ "EnabledForOrganizations", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#abc845f8fddd781a0a5e4e1cf93221abd", null ],
+    [ "EnabledForQuotes", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a1d16fdf18d60647d0957d18b98b2afad", null ],
+    [ "ID", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a177fb45e42e746cea90f263058b7799f", null ],
+    [ "IsTemplate", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a71f72e05642cc48e871641fdbeb1f079", null ],
+    [ "Name", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a3acfe0845924b59b2a24ce016ac61ad5", null ],
+    [ "PlaybookActivities", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a7306161c49bc0298e37140cb273b3b75", null ],
+    [ "PlaybookActivityFeed", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a101d7cdae6776f34f78ce934808fdccf", null ],
+    [ "PlaybookCategory", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#ad9f067b89198b207ec70ad463f736c14", null ],
+    [ "PlaybookCategoryID", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a1a0b4611829202717373d3dd6821e075", null ],
+    [ "PlaybookIterations", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#ad5272c4cd0d87eeb8398dff6f1d66dbf", null ],
+    [ "Status", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#aca69bac4886e43ddf9cd68f0de4991c8", null ],
+    [ "Timestamp", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a02f8d0e9bb1eac0579c7b924951b2892", null ],
+    [ "TrackProgess", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook.html#a88210ee402c52cac6c3273bad4539d1d", null ]
+];

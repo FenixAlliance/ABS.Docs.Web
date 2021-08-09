@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args =
+[
+    [ "Activity", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html#a3ffc89d58434110a77182ee24e8db5e3", null ],
+    [ "Visible", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html#a8fd7dceca31ece71c9d0dc26d71d3748", null ]
+];

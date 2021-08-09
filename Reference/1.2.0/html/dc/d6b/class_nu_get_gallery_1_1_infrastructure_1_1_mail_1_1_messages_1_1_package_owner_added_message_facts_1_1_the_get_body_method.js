@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_get_body_method =
+[
+    [ "ReturnsExpectedBody", "dc/d6b/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_owner_added_message_facts_1_1_the_get_body_method.html#afa10a96ba7ee5d8c02deaebef3eb1b0d", null ]
+];

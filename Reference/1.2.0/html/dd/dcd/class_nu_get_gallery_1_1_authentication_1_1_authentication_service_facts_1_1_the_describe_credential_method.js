@@ -1,0 +1,9 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method =
+[
+    [ "GivenAnExternalCredential_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#a68532dd3c7c36a96d4315006fd5f013c", null ],
+    [ "GivenAPasswordCredential_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#a8834fe64913079b5866bf33e867da202", null ],
+    [ "GivenATokenCredential_LegacyApiKey_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#a60b4a541a107f974386684f5118ef0df", null ],
+    [ "GivenATokenCredential_ScopedApiKey_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#abc50bc616117542a30308d09565a1c07", null ],
+    [ "GivenNotRevokedCredential_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#a5d16d58a94f2c8ea9b2c0189941449d3", null ],
+    [ "GivenRevokedCredential_ItDescribesItCorrectly", "dd/dcd/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_describe_credential_method.html#a3a61f6c5b68632876409f70e75c0eb09", null ]
+];

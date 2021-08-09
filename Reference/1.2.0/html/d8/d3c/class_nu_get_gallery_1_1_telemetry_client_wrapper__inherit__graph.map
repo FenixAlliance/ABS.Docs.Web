@@ -1,0 +1,4 @@
+<map id="NuGetGallery.TelemetryClientWrapper" name="NuGetGallery.TelemetryClientWrapper">
+<area shape="rect" id="node1" title="Wrapper for the Application Insights TelemetryClient class." alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node2" href="$d6/dd8/interface_nu_get_gallery_1_1_i_telemetry_client.html" title="Interface for the Application Insights TelemetryClient class, for unit tests." alt="" coords="44,5,161,32"/>
+</map>

@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method =
+[
+    [ "WhenAllVersionsNull_ThrowsArgumentNullException", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html#adf73ab0ac8a9df06bb9f1019b1d4a54e", null ],
+    [ "WhenManageDeprecationFeatureIsDisabled_ReturnsFalse", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html#a5147115b46c56c22427c86e9d8488d59", null ],
+    [ "WhenManageDeprecationFeatureIsEnabledAndFewVersions_ReturnsTrue", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html#ac66023bc52a1cc7a8d595f017d83d7ef", null ],
+    [ "WhenManageDeprecationFeatureIsEnabledAndManyVersions_ReturnsIfManageDeprecationForManyVersionsIsEnabled", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html#a59db502c50cf1228dafdf881535dd695", null ],
+    [ "WhenRegistrationNull_ThrowsArgumentNullException", "d2/ddb/class_nu_get_gallery_1_1_feature_flag_service_facts_1_1_the_is_manage_deprecation_enabled_method.html#a124b6e66c827cad482448735ae6b87e2", null ]
+];

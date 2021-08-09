@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute =
+[
+    [ "DefaultSecurityPoliciesEnforcedDataAttribute", "d9/dd6/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute.html#ae19cbddc12c97155b7c929942c454962", null ],
+    [ "GetData", "d9/dd6/class_nu_get_gallery_1_1_functional_tests_1_1_xunit_extensions_1_1_default_security_policies_enforced_data_attribute.html#a13337f40cd78c2be5789c2e883b40319", null ]
+];

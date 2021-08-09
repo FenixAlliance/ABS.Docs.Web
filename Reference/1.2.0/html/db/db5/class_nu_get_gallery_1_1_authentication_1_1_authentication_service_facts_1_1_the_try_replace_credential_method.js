@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method =
+[
+    [ "ReturnsFalseForExistingMatchingCredential", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html#ab6787504668dd0cd83517ff04a9dffa6", null ],
+    [ "ReturnsFalseForInvalidCredential", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html#ab60ff28f1b0624a30cacc0ed6b8370d9", null ],
+    [ "ReturnsFalseForInvalidUser", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html#ae09941085c2686fe550f172456064535", null ],
+    [ "ReturnsTrueForReplacingSelfExistingMatchingCredential", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html#a55ef6ef9afb5b04796871177db6be5da", null ],
+    [ "ReturnsTrueForSuccessfulReplacingExistingCredential", "db/db5/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_try_replace_credential_method.html#a33992d7debf1158f18f48e144c3d5b4c", null ]
+];

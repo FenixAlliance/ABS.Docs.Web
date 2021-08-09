@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27 =
+[
+    [ "JsonCredentials", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html#a18ee1189980355bf7246e971597d6455", null ],
+    [ "MerchantId", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html#ad3702219af9f1650f99ebe6d4fb993cc", null ],
+    [ "MerchantUserEmail", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html#a93f3f71118d036c33349722115e5d8c4", null ]
+];

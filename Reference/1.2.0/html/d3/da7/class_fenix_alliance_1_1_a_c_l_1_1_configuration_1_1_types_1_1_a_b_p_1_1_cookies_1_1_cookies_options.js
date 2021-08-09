@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookies_options =
+[
+    [ "CookiePolicy", "d3/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookies_options.html#a515b8d784268c66df5d6bf5bfdc06213", null ]
+];

@@ -1,0 +1,12 @@
+var class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50 =
+[
+    [ "IfAlreadyUsedMFAReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a891b56c10b7bde75a3f2441fd39e2afb", null ],
+    [ "MicrosoftAccountCredentialReturnsTrue", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a1bffc6a3c63b251a42b8f11369f95109", null ],
+    [ "MissingAuthenticationReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a6d1caff029f8db6c949ab5535338025b", null ],
+    [ "MissingAuthenticatorReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#ada27f1eae1e44098f0b7358ec6a89e1d", null ],
+    [ "NonExternalCredentialReturnsfalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a8a4031d455e37324e5648831cb45ab9b", null ],
+    [ "NonMicrosoftAccountAuthetnicationReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a160ac96bfc6007a278fb600aa6b52bd9", null ],
+    [ "NonSupportingAuthenticatorReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#aa7ee801546d8b7acdf45401fd603bb34", null ],
+    [ "NullResultReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#afb96ffea0357f45a2a4ead2ef5c56697", null ],
+    [ "UsersWithMFANotEnabledReturnsFalse", "d4/db3/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_should_enforce_f5d350d65ba0cf5a2917e68a9bbd2f50.html#a5364a0053a0add1d77c07f6e1ed47781", null ]
+];

@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method =
+[
+    [ "AddsNewCredentialIfNoneWithSameTypeForUser", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#a3033157529aa7078c081acd21a5d85d3", null ],
+    [ "GivenAnOrganization_ThrowsInvalidOperationException", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#a1c08f4cacbffc93e4916c4e893adba8a", null ],
+    [ "ReplacesAllExternalCredentialsForUser", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#a779ed2e04715c44848c65f029c4eb27c", null ],
+    [ "ReplacesExistingCredentialIfOneWithSameTypeExistsForUser", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#a0b5da875b337252aa679a173e76d0260", null ],
+    [ "ThrowsExceptionIfNoUserWithProvidedUserName", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#ae26478c0c4e5bc2110c10d07394beffb", null ],
+    [ "WritesAuditRecordAddingTheNewCredential", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#aeed6bed73855d9ff8e067825a1d71920", null ],
+    [ "WritesAuditRecordRemovingTheOldCredential", "dd/db0/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_replace_credential_method.html#a6c490d3c92363f6ee5a8a02b64a18a35", null ]
+];

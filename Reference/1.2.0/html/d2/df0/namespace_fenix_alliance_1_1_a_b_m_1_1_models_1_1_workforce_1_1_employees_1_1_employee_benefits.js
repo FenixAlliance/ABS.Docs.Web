@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits =
+[
+    [ "EmployeeBenefit", "d3/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit.html", "d3/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit" ],
+    [ "EmployeeBenefitEntitlement", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement" ]
+];

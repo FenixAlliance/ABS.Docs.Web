@@ -1,0 +1,9 @@
+var class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method =
+[
+    [ "WillDownloadTheFileViaTheFileStorageService", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#a02951e2dc15b4269d599370b4aedf03d", null ],
+    [ "WillThrowIfPackageIsMissingNormalizedVersionAndVersion", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#a1b079b5aac13ae18ad37bb7e4505ed88", null ],
+    [ "WillThrowIfPackageIsMissingPackageRegistration", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#af790b2d29caed8b9cce42823228d8149", null ],
+    [ "WillThrowIfPackageIsMissingPackageRegistrationId", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#a3983da9ff938885f00982b5827527fab", null ],
+    [ "WillThrowIfPackageIsNull", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#a74db04343fc7f0618d5b9ea2b2a3538c", null ],
+    [ "WillUseNormalizedRegularVersionIfNormalizedVersionMissing", "dc/d8e/class_nu_get_gallery_1_1_core_package_file_service_facts_1_1_the_download_validation_package_file_method.html#ad8177f4ae75d6e66f91db50ff98e503d", null ]
+];

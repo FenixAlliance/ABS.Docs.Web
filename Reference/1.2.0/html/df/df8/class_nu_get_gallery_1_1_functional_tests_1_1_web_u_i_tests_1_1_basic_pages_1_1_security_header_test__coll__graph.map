@@ -1,0 +1,4 @@
+<map id="NuGetGallery.FunctionalTests.WebUITests.BasicPages.SecurityHeaderTest" name="NuGetGallery.FunctionalTests.WebUITests.BasicPages.SecurityHeaderTest">
+<area shape="rect" id="node1" title="Verify that an expected series of security headers is returned as part of the response...." alt="" coords="5,80,292,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="111,5,186,32"/>
+</map>

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_courses =
+[
+    [ "TrainingProgramCourse", "dc/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_courses_1_1_training_program_course.html", "dc/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_courses_1_1_training_program_course" ]
+];

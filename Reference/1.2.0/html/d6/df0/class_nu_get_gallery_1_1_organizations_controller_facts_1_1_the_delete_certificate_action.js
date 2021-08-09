@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action =
+[
+    [ "TheDeleteCertificateAction", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#ac9d05dc35fb326f86e0b512735068896", null ],
+    [ "DeleteCertificate_WhenCurrentUserIsNotMultiFactorAuthenticated_ReturnsForbidden", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#ad50cc7d6ac8ee57ea1d5d6c731bd86dd", null ],
+    [ "DeleteCertificate_WhenCurrentUserIsNull_ReturnsUnauthorized", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#abeecb089568ab1d976a527dd0b8fe201", null ],
+    [ "DeleteCertificate_WhenCurrentUserLacksPermission_ReturnsForbidden", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#a357947a15fce5dc10c6fd6b48542d4fe", null ],
+    [ "DeleteCertificate_WhenOrganizationIsNotFound_ReturnsNotFound", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#a212b612088ab229a08c09b84986f1a07", null ],
+    [ "DeleteCertificate_WhenThumbprintIsInvalid_ReturnsBadRequest", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#af66f0975d49117a0934509ca5b5b81bf", null ],
+    [ "DeleteCertificate_WithValidThumbprint_ForAllValidClaims_ReturnsOK", "d6/df0/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_delete_certificate_action.html#a2728ff3b78c4c40e1d87e19c56a49ef6", null ]
+];

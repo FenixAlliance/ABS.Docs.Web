@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,5,255,61"/>
+<area shape="rect" id="node2" href="$d3/d1e/class_nu_get_gallery_1_1_security_1_1_package_security_policy_handler.html" title="Policy handler that defines behavior for specific user policy types requiring package policy evaluati..." alt="" coords="303,13,509,54"/>
+<area shape="rect" id="node3" href="$d3/d18/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy.html" title="User security policy that requires packages pushed by this user to be compliant with certain package ..." alt="" coords="557,13,788,54"/>
+</map>

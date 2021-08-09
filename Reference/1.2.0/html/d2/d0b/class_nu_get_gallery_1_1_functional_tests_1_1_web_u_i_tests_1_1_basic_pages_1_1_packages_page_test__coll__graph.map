@@ -1,0 +1,4 @@
+<map id="NuGetGallery.FunctionalTests.WebUITests.BasicPages.PackagesPageTest" name="NuGetGallery.FunctionalTests.WebUITests.BasicPages.PackagesPageTest">
+<area shape="rect" id="node1" title="Sends http request to individual package pages and checks the response for appropriate title and down..." alt="" coords="5,80,292,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="111,5,186,32"/>
+</map>

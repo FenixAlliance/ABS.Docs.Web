@@ -1,0 +1,40 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/d7a/interface_nu_get_1_1_services_1_1_entities_1_1_i_entity.html" title=" " alt="" coords="5,1170,172,1211"/>
+<area shape="rect" id="node2" href="$d0/dd8/class_nu_get_1_1_services_1_1_entities_1_1_account_delete.html" title=" " alt="" coords="256,1323,423,1365"/>
+<area shape="rect" id="node3" href="$de/dcf/class_nu_get_1_1_services_1_1_entities_1_1_certificate.html" title=" " alt="" coords="256,1389,423,1430"/>
+<area shape="rect" id="node4" href="$d7/d29/class_nu_get_1_1_services_1_1_entities_1_1_credential.html" title=" " alt="" coords="256,1454,423,1495"/>
+<area shape="rect" id="node5" href="$de/d54/class_nu_get_1_1_services_1_1_entities_1_1_email_message.html" title=" " alt="" coords="256,1519,423,1561"/>
+<area shape="rect" id="node6" href="$de/d46/interface_nu_get_1_1_services_1_1_entities_1_1_i_package_entity.html" title="The common entity type to be shared by Package and SymbolPackage This allows us the generic type inst..." alt="" coords="256,1585,423,1626"/>
+<area shape="rect" id="node9" href="$d4/d0b/class_nu_get_1_1_services_1_1_entities_1_1_package_author.html" title=" " alt="" coords="256,2094,423,2135"/>
+<area shape="rect" id="node10" href="$d1/daa/class_nu_get_1_1_services_1_1_entities_1_1_package_delete.html" title=" " alt="" coords="256,422,423,463"/>
+<area shape="rect" id="node11" href="$db/dc4/class_nu_get_1_1_services_1_1_entities_1_1_package_dependency.html" title=" " alt="" coords="256,487,423,529"/>
+<area shape="rect" id="node12" href="$d6/d08/class_nu_get_1_1_services_1_1_entities_1_1_package_deprecation.html" title="Represents a package deprecation." alt="" coords="256,553,423,594"/>
+<area shape="rect" id="node13" href="$d8/de5/class_nu_get_1_1_services_1_1_entities_1_1_package_framework.html" title=" " alt="" coords="256,305,423,346"/>
+<area shape="rect" id="node14" href="$dd/d5a/class_nu_get_1_1_services_1_1_entities_1_1_package_history.html" title="This records the OLD metadata of a particular package, before an edit was applied." alt="" coords="256,618,423,659"/>
+<area shape="rect" id="node15" href="$d6/d15/class_nu_get_1_1_services_1_1_entities_1_1_package_license.html" title=" " alt="" coords="256,683,423,725"/>
+<area shape="rect" id="node16" href="$d7/d83/class_nu_get_1_1_services_1_1_entities_1_1_package_license_report.html" title=" " alt="" coords="256,749,423,790"/>
+<area shape="rect" id="node17" href="$d1/d32/class_nu_get_1_1_services_1_1_entities_1_1_package_owner_request.html" title=" " alt="" coords="256,814,423,855"/>
+<area shape="rect" id="node18" href="$d2/dc6/class_nu_get_1_1_services_1_1_entities_1_1_package_registration.html" title=" " alt="" coords="256,879,423,921"/>
+<area shape="rect" id="node19" href="$d2/dd0/class_nu_get_1_1_services_1_1_entities_1_1_package_rename.html" title=" " alt="" coords="256,945,423,986"/>
+<area shape="rect" id="node20" href="$d1/d21/class_nu_get_1_1_services_1_1_entities_1_1_package_type.html" title=" " alt="" coords="256,1010,423,1051"/>
+<area shape="rect" id="node21" href="$d8/d35/class_nu_get_1_1_services_1_1_entities_1_1_package_vulnerability.html" title="Represents a vulnerability that a set of packages has." alt="" coords="256,1075,423,1117"/>
+<area shape="rect" id="node22" href="$d6/dd3/class_nu_get_1_1_services_1_1_entities_1_1_reserved_namespace.html" title=" " alt="" coords="256,1141,423,1182"/>
+<area shape="rect" id="node23" href="$d5/d64/class_nu_get_1_1_services_1_1_entities_1_1_role.html" title=" " alt="" coords="243,1207,435,1233"/>
+<area shape="rect" id="node24" href="$d3/dd9/class_nu_get_1_1_services_1_1_entities_1_1_scope.html" title=" " alt="" coords="256,1258,423,1299"/>
+<area shape="rect" id="node25" href="$de/def/class_nu_get_1_1_services_1_1_entities_1_1_user.html" title="With the addition of organizations, the users table effectively becomes an account table...." alt="" coords="243,371,436,397"/>
+<area shape="rect" id="node27" href="$d2/da6/class_nu_get_1_1_services_1_1_entities_1_1_user_certificate.html" title="Represents a relationship between a user and certificate." alt="" coords="256,1650,423,1691"/>
+<area shape="rect" id="node28" href="$db/d01/class_nu_get_1_1_services_1_1_entities_1_1_user_security_policy.html" title="User&#45;subscribed security policy." alt="" coords="256,239,423,281"/>
+<area shape="rect" id="node29" href="$dc/d08/class_nu_get_1_1_services_1_1_entities_1_1_vulnerable_package_version_range.html" title="Represents an PackageRegistration.Id and version range pair that is vulnerable to a PackageVulnerabil..." alt="" coords="232,1715,447,1757"/>
+<area shape="rect" id="node30" href="$db/d7f/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_admin.html" title=" " alt="" coords="248,1781,431,1822"/>
+<area shape="rect" id="node31" href="$d5/d0c/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_history.html" title=" " alt="" coords="248,1846,431,1887"/>
+<area shape="rect" id="node32" href="$d6/dfc/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue.html" title=" " alt="" coords="248,1911,431,1953"/>
+<area shape="rect" id="node33" href="$de/df1/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_models_1_1_issue_status.html" title=" " alt="" coords="248,1977,431,2018"/>
+<area shape="rect" id="node34" href="$d4/dae/class_nu_get_gallery_1_1_gallery_setting.html" title=" " alt="" coords="246,2043,433,2069"/>
+<area shape="rect" id="node7" href="$d6/d78/class_nu_get_1_1_services_1_1_entities_1_1_package.html" title=" " alt="" coords="507,1585,673,1626"/>
+<area shape="rect" id="node8" href="$d2/db8/class_nu_get_1_1_services_1_1_entities_1_1_symbol_package.html" title=" " alt="" coords="507,974,673,1015"/>
+<area shape="rect" id="node26" href="$dd/d9f/class_nu_get_1_1_services_1_1_entities_1_1_organization.html" title="Organization NuGetGallery.User account, based on TPT hierarchy." alt="" coords="507,363,673,405"/>
+<area shape="rect" id="node35" title=" " alt="" coords="47,188,131,215"/>
+<area shape="rect" id="node36" href="$d0/d98/class_nu_get_gallery_1_1_functional_tests_1_1_error_handling_1_1_simulated_error_request.html" title="Represents a pair of EndpointType and SimulatedErrorType. Also contains logic on building a relative ..." alt="" coords="220,57,459,98"/>
+<area shape="rect" id="node37" href="$d8/d3a/class_nu_get_gallery_1_1_organization_tenant_pair.html" title=" " alt="" coords="251,122,428,163"/>
+<area shape="rect" id="node38" href="$df/d29/class_system_1_1_unit.html" title=" " alt="" coords="292,5,387,32"/>
+</map>

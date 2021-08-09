@@ -1,0 +1,5 @@
+<map id="NuGetGallery.Security.PackageSecurityPolicyHandler" name="NuGetGallery.Security.PackageSecurityPolicyHandler">
+<area shape="rect" id="node1" title="Policy handler that defines behavior for specific user policy types requiring package policy evaluati..." alt="" coords="17,109,224,151"/>
+<area shape="rect" id="node3" href="$d3/d18/class_nu_get_gallery_1_1_security_1_1_require_package_metadata_compliance_policy.html" title="User security policy that requires packages pushed by this user to be compliant with certain package ..." alt="" coords="5,199,236,240"/>
+<area shape="rect" id="node2" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,5,236,61"/>
+</map>

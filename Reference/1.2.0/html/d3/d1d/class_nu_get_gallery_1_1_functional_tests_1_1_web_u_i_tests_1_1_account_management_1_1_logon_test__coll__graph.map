@@ -1,0 +1,4 @@
+<map id="NuGetGallery.FunctionalTests.WebUITests.AccountManagement.LogonTest" name="NuGetGallery.FunctionalTests.WebUITests.AccountManagement.LogonTest">
+<area shape="rect" id="node1" title="Tries to login with a POST request with the credentials retrieved from the data source...." alt="" coords="5,80,292,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="111,5,186,32"/>
+</map>

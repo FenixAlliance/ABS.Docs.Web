@@ -1,0 +1,9 @@
+var class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method =
+[
+    [ "GivenAContentItemAndACachedValueThatHasExpiredAndChanged_ItShouldUseTheFileContent", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#a0fba4a5fe522ecc8cfaa4aeec84bb3d3", null ],
+    [ "GivenAContentItemNameAndACachedValueThatHasExpiredButNotChanged_ItShouldUseTheCachedValue", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#ad5b8cf67a885e27aab89d18dde282995", null ],
+    [ "GivenAContentItemNameAndACachedValueThatHasNotExpired_ItShouldFetchThatItemFromCache", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#a2e5a9d715e2a8ce5f33fbc2ff76e1440", null ],
+    [ "GivenAContentItemNameAndAnEmptyCache_ItShouldFetchThatItemFromFileStorage", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#ace96beff95837adb6934feb65fdc511b", null ],
+    [ "GivenAContentItemNameAndAnEmptyCache_ItShouldPutTheContentInTheCache", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#abce224dc9fe5aead9680e2c0689401a0", null ],
+    [ "GivenANullOrEmptyName_ItShouldThrow", "d3/d92/class_nu_get_gallery_1_1_services_1_1_content_service_facts_1_1_the_get_content_item_method.html#a1c0984727f26d2fc5c9cf19457cd1351", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_verify_git_hub_vulnerabilities_1_1_configuration =
+[
+    [ "VerifyGitHubVulnerabilitiesConfiguration", "df/d27/class_verify_git_hub_vulnerabilities_1_1_configuration_1_1_verify_git_hub_vulnerabilities_configuration.html", "df/d27/class_verify_git_hub_vulnerabilities_1_1_configuration_1_1_verify_git_hub_vulnerabilities_configuration" ]
+];
