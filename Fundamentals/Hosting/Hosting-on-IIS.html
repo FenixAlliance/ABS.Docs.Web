@@ -145,7 +145,7 @@
                     <main>
                         <h1 id="hosting-the-alliance-business-suite-on-iis"><a class="header" href="#hosting-the-alliance-business-suite-on-iis">Hosting the Alliance Business Suite on IIS</a></h1>
 <p>Internet Information Services (IIS) is a flexible, secure and manageable Web Server for hosting web apps, including ASP.NET Core.</p>
-<h1 id="supported-platforms"><a class="header" href="#supported-platforms">Supported platforms</a></h1>
+<h2 id="supported-platforms"><a class="header" href="#supported-platforms">Supported platforms</a></h2>
 <p>The following operating systems are supported:</p>
 <ul>
 <li>Windows 10 or later</li>
@@ -183,7 +183,13 @@
 <p>The best way to manage the Alliance Business Suite Update Flow is to clone the Alliance Business Suite to the publish directory using Git.</p>
 <ol>
 <li>Navigate to the Publish Directory, make sure is empty, and open a CLI into it.</li>
-<li>Run the following command: <code>git clone https://github.com/fenixalliance/abs.bin .</code></li>
+<li>Run the following command: <code>git clone https://github.com/fenixalliance/abs.bin .</code>
+<ul>
+<li>If you're unable to deploy directly to the IIS site folder on the IIS server, pick your desired ring from the Releases Repo and clone on removable media and physically move them to the IIS site folder on the server, which is the site's Physical path in IIS Manager. Move the contents of the cloned repository to the IIS site folder on the server, which is the site's Physical path in IIS Manager.</li>
+<li>If you're unable to use git, you'll face additional considerations regarding the Update Process. </li>
+</ul>
+</li>
+<li>Restart the IIS Site.</li>
 </ol>
 <h3 id="browse-the-website"><a class="header" href="#browse-the-website">Browse the website</a></h3>
 <p>The app is accessible in a browser after it receives the first request. Make a request to the app at the endpoint binding that you established in IIS Manager for the site.</p>

@@ -555,11 +555,11 @@ namespace FenixAlliance.ABS
 <p>Once installed, your instance will be functional, but not quite yet ready for production. For this reason, new instances are created with a Not Operational Status. This Status means that even new users can be created and pretty much every functionality will work right out of the box, several unconfigured functionalities won't be available until proper setup.</p>
 <p>In order to get your instance to an Operational State, you should first configure for the first time the Alliance Passport Service, perform some internal configurations, and properly set up your Root Web Portal. </p>
 <h2 id="configuring-your-instance"><a class="header" href="#configuring-your-instance">Configuring your instance</a></h2>
-<p>One of the most important files in your Alliance Business Suite instance is the suitesettings.json file. This file is located in the root of your instance's file directory and contains your website’s base configuration details, such as database connection information.</p>
+<p>One of the most important files in your Alliance Business Suite instance is the suitesettings.json file. This file is located in the root of your instance's file directory and contains your website’s base configuration details, such as database-connection information.</p>
 <p>When you first download the Alliance Business Suite, this file does not exist, as it will be created during the initial setup process.</p>
 <p>Although you can manually provide a suitesettings.json file for your instance (bypassing like so the initial setup process), you will be required to run this initial setup process at least once to create your initial database schema and insert required records.</p>
 <p>Once this installation process has been completed, multiple instances can retrieve their configuration files through the ABS Management API from the root instance, and thus sharing the data layer, allowing customers to scale both the data and application layer independently, depending on their specific requirements.</p>
-<p>Each Alliance Business Suite instance contains its own administrator portal. Instances are bounded each a Business Tenant's Primary <a href="Fundamentals//English/Web-Development/Web-Portals.html">Web Portal</a>'s configuration.</p>
+<p>Each Alliance Business Suite instance contains its own administrator portal. Instances are bounded each a Business Tenant's Primary <a href="Fundamentals//Web-Development/Web-Portals.html">Web Portal</a>'s configuration.</p>
 <p>The first towards configuring your Root Web Portal is to finish creating information for your Business Tenant. The amount of configuration required will depend on the number of Modules included in your instance. </p>
 <p>Note: Although currently possible, it is not recommended to edit the <code>suitesettings.json</code> file directly unless required.</p>
 <h1 id="administration-flow-optimization"><a class="header" href="#administration-flow-optimization">Administration Flow Optimization</a></h1>
@@ -631,7 +631,7 @@ namespace FenixAlliance.ABS
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h1 id="hosting-the-alliance-business-suite-on-iis"><a class="header" href="#hosting-the-alliance-business-suite-on-iis">Hosting the Alliance Business Suite on IIS</a></h1>
 <p>Internet Information Services (IIS) is a flexible, secure and manageable Web Server for hosting web apps, including ASP.NET Core.</p>
-<h1 id="supported-platforms"><a class="header" href="#supported-platforms">Supported platforms</a></h1>
+<h2 id="supported-platforms"><a class="header" href="#supported-platforms">Supported platforms</a></h2>
 <p>The following operating systems are supported:</p>
 <ul>
 <li>Windows 10 or later</li>
@@ -669,11 +669,34 @@ namespace FenixAlliance.ABS
 <p>The best way to manage the Alliance Business Suite Update Flow is to clone the Alliance Business Suite to the publish directory using Git.</p>
 <ol>
 <li>Navigate to the Publish Directory, make sure is empty, and open a CLI into it.</li>
-<li>Run the following command: <code>git clone https://github.com/fenixalliance/abs.bin .</code></li>
+<li>Run the following command: <code>git clone https://github.com/fenixalliance/abs.bin .</code>
+<ul>
+<li>If you're unable to deploy directly to the IIS site folder on the IIS server, pick your desired ring from the Releases Repo and clone on removable media and physically move them to the IIS site folder on the server, which is the site's Physical path in IIS Manager. Move the contents of the cloned repository to the IIS site folder on the server, which is the site's Physical path in IIS Manager.</li>
+<li>If you're unable to use git, you'll face additional considerations regarding the Update Process. </li>
+</ul>
+</li>
+<li>Restart the IIS Site.</li>
 </ol>
 <h3 id="browse-the-website"><a class="header" href="#browse-the-website">Browse the website</a></h3>
 <p>The app is accessible in a browser after it receives the first request. Make a request to the app at the endpoint binding that you established in IIS Manager for the site.</p>
-<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h1 id="introduction-to-razor-templating-engine"><a class="header" href="#introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="logging-across-the-alliance-business-suite"><a class="header" href="#logging-across-the-alliance-business-suite">Logging across the Alliance Business Suite</a></h1>
+<p>The Alliance Business Suite contains a powerful logging engine based on Serilog, a popular .NET library that provides diagnostic logging that's built with powerful structured event data in mind.</p>
+<pre><code class="language-cs">using Serilog;
+
+var position = new { Latitude = 25, Longitude = 134 };
+var elapsedMs = 34;
+
+log.Information(&quot;Processed {@Position} in {Elapsed:000} ms.&quot;, position, elapsedMs);
+
+</code></pre>
+<p>This example records two properties, Position and Elapsed along with the log event. The properties captured in the example, in JSON format, would appear like:</p>
+<pre><code class="language-js">{&quot;Position&quot;: {&quot;Latitude&quot;: 25, &quot;Longitude&quot;: 134}, &quot;Elapsed&quot;: 34}
+</code></pre>
+<p>The @ operator in front of Position tells Serilog to serialize the object passed in, rather than convert it using ToString().</p>
+<p>The :000 segment following Elapsed is a standard .NET format string that affects how the property is rendered. The console sink included with Serilog will display the above message as:</p>
+<pre><code>09:14:22 [Information] Processed { Latitude: 25, Longitude: 134 } in 034 ms.
+</code></pre>
+<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h1 id="introduction-to-razor-templating-engine"><a class="header" href="#introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</a></h1>
 <p>[[<em>TOC</em>]]</p>
 <p>By <a href="https://twitter.com/DLozanoNavas">Daniel Lozano</a></p>
 <p>Portal Pages can make coding page-focused scenarios easier and more productive than using controllers and views.</p>
@@ -3028,25 +3051,20 @@ Build and manage multiple sites from a single dashboard. You can also run update
 <p>Learn more about APS + IAM terms.</p>
 <ul>
 <li>
-<p><strong>Resources</strong>
-The SecurityGroup, SecurityRole, BusinessPermission, and IdentityProvider objects are stored in ABM. As with other ABM entities, you can add, edit, and remove IAM-related records.</p>
+<p><strong>Permission Sets</strong>: refer to the  ABM record objects that are used to grant access to resources. You can attach Permission Sets to Identities. These include <code>BusinessProfileRecord</code>, <code>BusinessPermission</code>, <code>SecurityGroup</code>, and <code>SecurityRole</code>.</p>
 </li>
 <li>
-<p><strong>Identities</strong>
-Identities refer to the IAM resource objects that are used to identify and group. You can attach a SecurityRole or a BusinessPermission to an IAM identity. These include BusinessProfileRecords, SecurityGroups, and SecurityRoles.</p>
+<p><strong>Identities</strong>: The ABM record objects that APS uses to authenticate and group. These include <code>AccountHolder</code>, <code>BusinessTenant</code>, <code>BusinessApplication</code> and <code>BusinessDomain</code>.</p>
 </li>
 <li>
-<p><strong>Identity Entities</strong>
-The IAM resource objects that APS uses for authentication. These include AccountHolders, federated users, and assumed IAM roles (like when an application created by an AccountHolder tries to access resources through one of the API endpoints).</p>
-</li>
-<li>
-<p><strong>Identity Holders</strong>
-A person or application that uses the ABS Account Holder entity, like the root Holder, an IAM user, or an IAM Application to sign in and make requests to the Alliance Business Platform's APIs.</p>
+<p><strong>Users</strong>
+A person or application that uses an Identity. Although  <code>AccountHolder</code> is the most common type of Identity, <code>BusinessApplication</code> can also be used to sign in and make requests to the Alliance Business Platform's APIs within the scope of a <code>BusinessTenant</code> or a <code>BusinessDomain</code>.</p>
 </li>
 </ul>
-<h2 id="alliance-business-suite-security-features"><a class="header" href="#alliance-business-suite-security-features">Alliance Business Suite security features</a></h2>
-<p>Although but you can use third-party identity services such as Facebook, Twitter, and LinkedIn, or even enterprise services such as  Azure AD, Azure AD B2C, AWS Cognito (preview), Okta (preview) and many more, the Alliance Business Suite provides many tools and libraries to secure your apps including built-in identity providers, TOTP MFA (Time-based One-time Password Algorithm Multi Factor Authentication) support.</p>
-<p>With the Alliance Business Suite, you can easily manage app secrets, which are a way to store and use confidential information without having to expose it.</p>
+<h2 id="managing-identity"><a class="header" href="#managing-identity">Managing Identity</a></h2>
+<h3 id="identity-providers"><a class="header" href="#identity-providers">Identity Providers:</a></h3>
+<p>Although but you can use third-party identity services such as Facebook, Twitter, and LinkedIn, or even enterprise services such as  Azure AD, Azure AD B2C, AWS Cognito (preview), Okta (preview), and many more, the Alliance Business Suite provides many tools and libraries to secure your apps including built-in identity providers, TOTP MFA (Time-based One-time Password Algorithm Multi-Factor Authentication) support.</p>
+<p>With the Alliance Business Suite, you can easily manage app secrets, which are a way to store and use confidential information.</p>
 <h2 id="authentication-vs-authorization"><a class="header" href="#authentication-vs-authorization">Authentication vs. Authorization</a></h2>
 <p>Authentication is a process in which a user provides credentials that are then compared to those stored by an operating system, database, app, or resource. If they match, users are authenticated successfully, and can then perform actions that they're authorized for, during an authorization process. The authorization refers to the process that determines what a user is allowed to do.</p>
 <p>Another way to think of authentication is to consider it as a way to enter a space, such as a server, database, app, or resource, while authorization is which actions the user can perform to which objects inside that space (server, database, or app).</p>
@@ -3060,15 +3078,15 @@ A person or application that uses the ABS Account Holder entity, like the root H
 <p>The Alliance Business Suite uses two primary middlewares for authentication. A Cookie-based authentication engine and standard Token-based authentication.</p>
 <p>An <a href="Components//Components/Alliance-Passport-Services/Account-Holders.html">Account Holder</a> must be authenticated (signed in to the Alliance Business Suite) using their credentials to send a request to any <a href="Components//Components/Alliance-Business-Platform.html">Alliance Business Platform</a> API. Some modules, such as <a href="Components//Components/Modules/CMS.html">Media Portals</a>, ICX Stores, and ABS Workplace, allow a few requests from anonymous users. However, they are the exception to the rule.</p>
 <h3 id="root-users"><a class="header" href="#root-users">Root Users</a></h3>
-<p>To authenticate from the root user, you must sign in with your email address and password you provided when installing the instance. As any other regular IAM user, root users can set up multi-factor authentication through an authenticator app such as Google Authenticator, Microsoft Authenticator, or really any MFA TOTP (Time-based One-time Password Algorithm) application.</p>
+<p>To authenticate from the root user, you must sign in with the email address and password you provided when installing the instance. As any other regular IAM user, root users can set up multi-factor authentication through an authenticator app such as Google Authenticator, Microsoft Authenticator, or really any MFA TOTP (Time-based One-time Password Algorithm) application.</p>
 <h3 id="api-users"><a class="header" href="#api-users">API Users</a></h3>
-<p>To authenticate from the API or ABS Commander CLI (Bash or Powershell), you must create and provide an access key and secret key. You can get these keys by installing and navigating to the ABS Self integration. </p>
+<p>To authenticate from the API or ABS Commander CLI (Bash or Powershell), you must create and provide an access key and secret key. You can get these keys by installing and navigating to the ABS Self-integration. </p>
 <p>Users might also be required to provide additional security information. For example, Fenix Alliance recommends that you use multi-factor authentication (MFA) to increase the security of your account and to enforce it on Privileged Account Holders. To learn more about the IAM entities that the Alliance Passport Service can authenticate, see <a href="Components//Components/Alliance-Passport-Services/Account-Holders">APS Identity Holders</a> and <a href="Components//Components/Alliance-Passport-Services/Security-Roles">APS Security Roles</a>.</p>
 <h3 id="cookie-based-authentication"><a class="header" href="#cookie-based-authentication">Cookie-based authentication</a></h3>
-<p>When a user authenticates into an Alliance Business Suite instance using their username and password (or any other authentication provider, for that matter), they're issued a cookie, containing an authentication token that can be used for authentication and authorization. The token is stored in the browser as a cookie that accompanies every request the client makes to the application. Generating and validating this cookie is performed by the APS Cookie Authentication Middleware. The middleware serializes a user principal into an encrypted cookie. On subsequent requests, the middleware validates the cookie, recreates the principal, and assigns the principal to the User property present on controllers, views, components and more.</p>
+<p>When a user authenticates into an Alliance Business Suite instance using their username and password (or any other authentication provider, for that matter), they're issued a cookie, containing an authentication token that can be used for authentication and authorization. The token is stored in the browser as a cookie that accompanies every request the client makes to the application. Generating and validating this cookie is performed by the APS Cookie Authentication Middleware. The middleware serializes a user principal into an encrypted cookie. On subsequent requests, the middleware validates the cookie, recreates the principal, and assigns the principal to the User property present on controllers, views, components, and more.</p>
 <h3 id="token-based-authentication"><a class="header" href="#token-based-authentication">Token-based authentication</a></h3>
-<p>When a user is authenticated, they're issued a token (not an antiforgery token). The token contains user information in the form of claims or a reference token that points the app to user state maintained in the app. When a user attempts to access a resource requiring authentication, the token is sent to the app with an additional authorization header in form of a &quot;Bearer token&quot;. </p>
-<p>&quot;Bearer tokens&quot; makes the app stateless. In each subsequent request, the token is passed in the request for server-side validation. This token isn't encrypted; it's encoded. On the server, the token is decoded to access its information. To send the token on subsequent requests, the token is saved in the browser's local storage. This design prevents CSRF vulnerability as the token is stored in the browser's local storage. CSRF is a concern when the token is stored in a cookie.</p>
+<p>When a user is authenticated, they're issued a token (not an anti-forgery token). The token contains user information in the form of claims or a reference token that points the app to the user state maintained in the app. When a user attempts to access a resource requiring authentication, the token is sent to the app with an additional authorization header in form of a &quot;Bearer token&quot;. </p>
+<p>&quot;Bearer tokens&quot; make the app stateless. In each subsequent request, the token is passed in the request for server-side validation. This token isn't encrypted; it's encoded. On the server, the token is decoded to access its information. To send the token on subsequent requests, the token is saved in the browser's local storage. This design prevents CSRF vulnerability as the token is stored in the browser's local storage. CSRF is a concern when the token is stored in a cookie.</p>
 <h2 id="authorization-fundamentals"><a class="header" href="#authorization-fundamentals">Authorization Fundamentals</a></h2>
 <p>Users must also be authorized (allowed) to complete any request. During authorization, the APS Engine uses values from the request context to check for policies that apply to the request. It then uses the policies to determine whether to allow or deny the request. Most policies are stored in the ABS as ABM Records and specify the permissions for principal entities. There are several types of policies that can affect whether a request is authorized. To provide your users with permissions to access any layer of the Alliance Business Suite, you need only identity-based ABM records. Resource-based policies are popular for granting cross-account access. The other policy types are advanced features and should be used carefully.</p>
 <p>The APS Engine checks each policy that applies to the context of any given request. If a single permissions policy is missing, a denied action will be returned, APS denies the entire request and stops evaluating. This is called an explicit deny. Because requests are denied by default, APS authorizes your request only if every part of your request is allowed by the applicable permissions policies. The evaluation logic for a request within a single account follows these general rules:</p>
@@ -3097,7 +3115,7 @@ A person or application that uses the ABS Account Holder entity, like the root H
 </ul>
 <p>To allow an <strong>Identity Holder</strong> to perform an operation, you must include the necessary actions in a policy that applies to the principal or the affected resource. To see a list of actions, resource types, and condition keys supported by each service, refer to Actions, Resources, and Permissions for ABS Services.</p>
 <h1 id="resources"><a class="header" href="#resources">Resources</a></h1>
-<p>After the Alliance Poassport Service Engine approves the operations in your request, it can be performed on the related resources within your account. A resource is an object that exists within an Alliance Business Suite instance. Examples include a Financial Account Record in the ABM, an IAM user, and a Storage File. The service defines a set of actions that can be performed on each resource through its exposed API Methods through either the REST Application Programming Interface or a GUI, like the Alliance Business Studio or a Portal. If you create a request to perform an unrelated action on a resource, that request is denied. For example, if you request to delete an IAM role but provide an IAM group resource, the request fails. Please refer to the <code>BusinessPermission</code> tables that identify which resources are affected by an action, see Actions, Resources, and Business Permissions for Alliance Business Suite Resources.</p>
+<p>After the Alliance Passport Service Engine approves the operations in your request, it can be performed on the related resources within your account. A resource is an object that exists within an Alliance Business Suite instance. Examples include a Financial Account Record in the ABM, an IAM user, and a Storage File. The service defines a set of actions that can be performed on each resource through its exposed API Methods through either the REST Application Programming Interface or a GUI, like the Alliance Business Studio or a Portal. If you create a request to perform an unrelated action on a resource, that request is denied. For example, if you request to delete an IAM role but provide an IAM group resource, the request fails. Please refer to the <code>BusinessPermission</code> tables that identify which resources are affected by an action, see Actions, Resources, and Business Permissions for Alliance Business Suite Resources.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="introduction-to-account-holder-entities"><a class="header" href="#introduction-to-account-holder-entities">Introduction to Account Holder Entities</a></h1>
 <p>An Account Holder is a CredentialsPrincipal for the APS Engine. It represents a human user identified by a username/password. (Unless using some kind of federated identity service like Azure Active Directory, Google, Facebook, Microsoft Identity, etc...)</p>
 <p>The &quot;Credentials&quot; aspect of APS Identity and Access Management (IAM) helps you with the question &quot;Who is that user?&quot;, often referred to as authentication. Instead of sharing your root user credentials with others, you can create individual Account Holders within your instance that correspond to users in your organization. </p>
