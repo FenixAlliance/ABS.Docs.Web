@@ -143,7 +143,51 @@
 
                 <div id="content" class="content">
                     <main>
-                        
+                        <h1 id="hosting-the-alliance-business-suite-on-iis"><a class="header" href="#hosting-the-alliance-business-suite-on-iis">Hosting the Alliance Business Suite on IIS</a></h1>
+<p>Internet Information Services (IIS) is a flexible, secure and manageable Web Server for hosting web apps, including ASP.NET Core.</p>
+<h1 id="supported-platforms"><a class="header" href="#supported-platforms">Supported platforms</a></h1>
+<p>The following operating systems are supported:</p>
+<ul>
+<li>Windows 10 or later</li>
+<li>Windows Server 2012 R2 or later</li>
+</ul>
+<p>The Alliance Business Suite is a 64-bit (x64) for the following reasons:</p>
+<ul>
+<li>Requires the larger virtual memory address space available to a 64-bit app.</li>
+<li>Requires the larger IIS stack size.</li>
+<li>Has 64-bit native dependencies.</li>
+</ul>
+<h2 id="install-the-aspnet-core-modulehosting-bundle"><a class="header" href="#install-the-aspnet-core-modulehosting-bundle">Install the ASP.NET Core Module/Hosting Bundle</a></h2>
+<p>Download the installer using the following link:</p>
+<p><a href="https://dotnet.microsoft.com/permalink/dotnetcore-current-windows-runtime-bundle-installer">Current .NET Core Hosting Bundle installer (direct download)</a></p>
+<p>For more detailed instructions on how to install the ASP.NET Core Module, or installing different versions, see <a href="https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/hosting-bundle?view=aspnetcore-5.0">Install the .NET Core Hosting Bundle</a>.</p>
+<h2 id="publish-an-alliance-business-suite-instance-to-iis"><a class="header" href="#publish-an-alliance-business-suite-instance-to-iis">Publish an Alliance Business Suite instance to IIS</a></h2>
+<h3 id="create-the-iis-site"><a class="header" href="#create-the-iis-site">Create the IIS site</a></h3>
+<ol>
+<li>
+<p>On the IIS server, create a folder to contain the Alliance Business Suite folders and files. In a further step, the folder's path is provided to IIS as the physical path to the app. For more information on an app's deployment folder and file layout, see ASP.NET Core directory structure.</p>
+</li>
+<li>
+<p>In IIS Manager, open the server's node in the Connections panel. Right-click the Sites folder. Select Add Website from the contextual menu.</p>
+</li>
+<li>
+<p>Provide a Site name and set the Physical path to the app's deployment folder that you created. Provide the Binding configuration and create the website by selecting OK.</p>
+</li>
+<li>
+<p>Confirm the process model identity has the proper permissions: If the default identity of the app pool (Process Model &gt; Identity) is changed from ApplicationPoolIdentity to another identity, verify that the new identity has the required permissions to access the app's folder, database, and other required resources. For example, the app pool requires read and write access to folders where the app reads and writes files.</p>
+</li>
+</ol>
+<p><strong>Warning</strong></p>
+<p>Top-level wildcard bindings (http://*:80/ and http://+:80) should not be used. Top-level wildcard bindings can open up your app to security vulnerabilities. This applies to both strong and weak wildcards. Use explicit hostnames rather than wildcards. Subdomain wildcard binding (for example, *.mysub.com) doesn't have this security risk if you control the entire parent domain (as opposed to *.com, which is vulnerable). </p>
+<h3 id="clone-the-alliance-business-suite-distributable"><a class="header" href="#clone-the-alliance-business-suite-distributable">Clone the Alliance Business Suite Distributable</a></h3>
+<p>The best way to manage the Alliance Business Suite Update Flow is to clone the Alliance Business Suite to the publish directory using Git.</p>
+<ol>
+<li>Navigate to the Publish Directory, make sure is empty, and open a CLI into it.</li>
+<li>Run the following command: <code>git clone https://github.com/fenixalliance/abs.bin .</code></li>
+</ol>
+<h3 id="browse-the-website"><a class="header" href="#browse-the-website">Browse the website</a></h3>
+<p>The app is accessible in a browser after it receives the first request. Make a request to the app at the endpoint binding that you established in IIS Manager for the site.</p>
+
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
