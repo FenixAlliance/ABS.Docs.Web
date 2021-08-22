@@ -697,7 +697,21 @@ log.Information(&quot;Processed {@Position} in {Elapsed:000} ms.&quot;, position
 <p>The :000 segment following Elapsed is a standard .NET format string that affects how the property is rendered. The console sink included with Serilog will display the above message as:</p>
 <pre><code>09:14:22 [Information] Processed { Latitude: 25, Longitude: 134 } in 034 ms.
 </code></pre>
-<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h1 id="introduction-to-razor-templating-engine"><a class="header" href="#introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h1 id="working-with-static-files"><a class="header" href="#working-with-static-files">Working with static files.</a></h1>
+<p>This topic describes the overall functionality for the Alliance Business Platform | File System Engine, how to upload static files into an Alliance Business Suite instance, and how to retrieve the URL and file name that can be used to request that file.</p>
+<h2 id="about-uploading-files-on-studio"><a class="header" href="#about-uploading-files-on-studio">About Uploading Files on Studio</a></h2>
+<p>The Alliance Business Platform contains a powerful file system engine called ABP-FS. Through ABP-FS, users can upload files and relate them to almost any ABM Record. By exposing several API endpoints on both code and REST APIs, users can upload files of any kind. Default restrictions are provided for security purposes, and files can also be uploaded through FTP or through the Alliance Business Studio (using the GUI file manager).</p>
+<h2 id="file-upload-scopes"><a class="header" href="#file-upload-scopes">File Upload Scopes</a></h2>
+<p>By leveraging the ABP-FS APIs, customers and developers can upload files scoped to an Alliance Business Model Record; this allows customers to access, manage, and share files related to, for example, an Account, a Contact, or a Portal, in one place.</p>
+<h2 id="public-files"><a class="header" href="#public-files">Public Files.</a></h2>
+<h3 id="scoped-public-files"><a class="header" href="#scoped-public-files">Scoped Public Files</a></h3>
+<p>The ABP-FS allows customers to upload public files within the scope of a <a href="Fundamentals//Web-Development/Web-Portals.html">Web Portal</a>. These files are exposed through the <code>/Public/{PortalID}</code> endpoint available to every portal.</p>
+<h3 id="unscoped-public-files"><a class="header" href="#unscoped-public-files">Unscoped Public Files</a></h3>
+<p>When developing single or multiple portals, customers might want to share common files between them. To do so, they can now upload Unscoped Public Files that will be available through the <code>/Public</code> endpoint.</p>
+<p>Unscoped files are marked as read-only files by default and can only be uploaded by an Account Holder with <code>global_admin</code> <a href="Fundamentals//Components/Alliance-Passport-Service/Business-Permissions.html">Business Permission</a>.</p>
+<h3 id="public-files-url"><a class="header" href="#public-files-url">Public Files URL</a></h3>
+<p>Regardless of how you upload a file, you can retrieve the file URL by using the Alliance Business Studio File Manager or by recomposing the URL from the File Path by prepending the <code>/Public/</code> endpoint to it, so that it is relative to the <code>/AppData/Public</code> folder where both Scoped and Unscoped Public Files are uploaded.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="introduction-to-razor-templating-engine"><a class="header" href="#introduction-to-razor-templating-engine">Introduction to Razor Templating Engine</a></h1>
 <p>[[<em>TOC</em>]]</p>
 <p>By <a href="https://twitter.com/DLozanoNavas">Daniel Lozano</a></p>
 <p>Portal Pages can make coding page-focused scenarios easier and more productive than using controllers and views.</p>
