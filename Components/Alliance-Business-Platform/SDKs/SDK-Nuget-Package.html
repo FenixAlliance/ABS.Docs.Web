@@ -145,7 +145,7 @@
                     <main>
                         <h1 id="working-with-the-alliance-business-suite-sdk"><a class="header" href="#working-with-the-alliance-business-suite-sdk">Working with the Alliance Business Suite SDK</a></h1>
 <p>This topic provides information about where you can download the developer tools, assemblies, and code samples that are shipped as part of the Software Development Kit (SDK) for the Alliance Business Suite.</p>
-<h1 id="sdk-assemblies"><a class="header" href="#sdk-assemblies">SDK assemblies</a></h1>
+<h2 id="sdk-assemblies"><a class="header" href="#sdk-assemblies">SDK assemblies</a></h2>
 <p>The SDK assemblies are available as NuGet packages that you can directly use in your Visual Studio projects. For information about using a NuGet package in Visual Studio, see <a href="https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio">Install and use a package in Visual Studio</a></p>
 <p>The following SDK assemblies are available:</p>
 <table><thead><tr><th>Package Name</th><th>Top Assembly</th><th>Package Location</th></tr></thead><tbody>
@@ -159,6 +159,7 @@
 <p>Although it is possible to combine programming models, the first step towards developing Alliance Business Suite Applications/Extensions is to decide the Programming Model to use.</p>
 <p><strong>Note</strong>: Alliance business Suite Applications/Extensions can be created using .NET or Node.js. This article focuses on the ABS SDK for .NET. As of version 1.2.x, the ABS SDK for Node.js hasn't been published, and requests have to be performed against the Alliance Business Platform Web APIs.</p>
 <p>By using .NET and Visual Studio and the ABS SDK for .NET, developers can easily create extensions either by using ASP.NET MVC or Blazor to cover specific business needs while leveraging the power of C# and the Alliance Business Suite.</p>
+<h2 id="overriding-default-service-implementations"><a class="header" href="#overriding-default-service-implementations">Overriding Default Service Implementations.</a></h2>
 <p>Customers can also use the Alliance Business Suite to override the default Interface Implementations present on every Alliance Business Suite instance. To do so, just implement the desired interface and register it as a Service Override on the <code>ConfigureServices</code> method present on the <code>IModule</code> Interface.</p>
 
                     </main>
