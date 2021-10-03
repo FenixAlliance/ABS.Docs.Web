@@ -1,0 +1,299 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Authentication and Authorization - Alliance Business Suite Documentation</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="The Ultimate Business Development Platform">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../../favicon.svg">
+                        <link rel="shortcut icon" href="../../favicon.png">
+                <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+                <link rel="stylesheet" href="../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../index.html"><strong aria-hidden="true">1.</strong> Overview</a></li><li class="chapter-item "><a href="../../About.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item "><a href="../../Roadmap.html"><strong aria-hidden="true">3.</strong> Roadmap</a></li><li class="chapter-item "><a href="../../References.html"><strong aria-hidden="true">4.</strong> API Reference</a></li><li class="chapter-item "><a href="../../Requirements.html"><strong aria-hidden="true">5.</strong> Requirements</a></li><li class="chapter-item "><a href="../../Getting-started.html"><strong aria-hidden="true">6.</strong> Getting Started</a></li><li class="chapter-item "><a href="../../Fundamentals.html"><strong aria-hidden="true">7.</strong> Fundamentals</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Fundamentals/Installation.html"><strong aria-hidden="true">7.1.</strong> Installation</a></li><li class="chapter-item "><a href="../../Fundamentals/Configuration.html"><strong aria-hidden="true">7.2.</strong> Configuration</a></li><li class="chapter-item "><a href="../../Fundamentals/Options.html"><strong aria-hidden="true">7.3.</strong> Options</a></li><li class="chapter-item "><a href="../../Fundamentals/Environments.html"><strong aria-hidden="true">7.4.</strong> Environments</a></li><li class="chapter-item "><a href="../../Fundamentals/Hosting.html"><strong aria-hidden="true">7.5.</strong> Hosting</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Fundamentals/Hosting/Hosting-on-ABS-Cloud.html"><strong aria-hidden="true">7.5.1.</strong> Hosting on ABS Cloud</a></li><li class="chapter-item "><a href="../../Fundamentals/Hosting/Hosting-on-IIS.html"><strong aria-hidden="true">7.5.2.</strong> Hosting on IIS</a></li></ol></li><li class="chapter-item "><a href="../../Fundamentals/Logging.html"><strong aria-hidden="true">7.6.</strong> Logging</a></li><li class="chapter-item "><a href="../../Fundamentals/Routing.html"><strong aria-hidden="true">7.7.</strong> Routing</a></li><li class="chapter-item "><a href="../../Fundamentals/Static-Files.html"><strong aria-hidden="true">7.8.</strong> Static Files</a></li><li class="chapter-item "><a href="../../Fundamentals/Data-Access.html"><strong aria-hidden="true">7.9.</strong> Data Access</a></li></ol></li><li class="chapter-item "><a href="../../Web-Development.html"><strong aria-hidden="true">8.</strong> Web Development</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Web-Development/Web-Portals.html"><strong aria-hidden="true">8.1.</strong> Web Portals</a></li><li class="chapter-item "><a href="../../Web-Development/Web-Pages.html"><strong aria-hidden="true">8.2.</strong> Web Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Razor-Pages.html"><strong aria-hidden="true">8.2.1.</strong> Razor Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Razor-Pages/Razor-Syntax.html"><strong aria-hidden="true">8.2.1.1.</strong> Razor Syntax</a></li></ol></li><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Blazor-Pages.html"><strong aria-hidden="true">8.2.2.</strong> Blazor Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Blazor-Pages/Data-Binding.html"><strong aria-hidden="true">8.2.2.1.</strong> Data Binding</a></li><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Blazor-Pages/Event-Handling.html"><strong aria-hidden="true">8.2.2.2.</strong> Event Handling</a></li><li class="chapter-item "><a href="../../Web-Development/Web-Pages/Blazor-Pages/Forms-and-validation.html"><strong aria-hidden="true">8.2.2.3.</strong> Forms and Validation</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../Web-Development/Web-Themes.html"><strong aria-hidden="true">8.3.</strong> Web Themes</a></li><li class="chapter-item "><a href="../../Web-Development/Web-Templates.html"><strong aria-hidden="true">8.4.</strong> Web Templates</a></li><li class="chapter-item "><a href="../../Web-Development/Web-Components.html"><strong aria-hidden="true">8.5.</strong> Web Components</a></li><li class="chapter-item "><a href="../../Web-Development/Client-Side-Apps.html"><strong aria-hidden="true">8.6.</strong> Client Side-Apps</a></li><li class="chapter-item "><a href="../../Web-Development/Session-and-state-management.html"><strong aria-hidden="true">8.7.</strong> Sessions and State</a></li></ol></li><li class="chapter-item "><a href="../../Web-API-Development.html"><strong aria-hidden="true">9.</strong> Web API Development</a></li><li class="chapter-item "><a href="../../Module-Development.html"><strong aria-hidden="true">10.</strong> Module Development</a></li><li class="chapter-item "><a href="../../Internationalization.html"><strong aria-hidden="true">11.</strong> Internationalization</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Internationalization/Localization-Strings.html"><strong aria-hidden="true">11.1.</strong> Localization Strings</a></li></ol></li><li class="chapter-item "><a href="../../Components.html"><strong aria-hidden="true">12.</strong> Components</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Core-Libraries.html"><strong aria-hidden="true">12.1.</strong> Alliance Core Libraries</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Model.html"><strong aria-hidden="true">12.2.</strong> Alliance Business Model</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Business-Model/Records.html"><strong aria-hidden="true">12.2.1.</strong> Records</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Model/Extensibility.html"><strong aria-hidden="true">12.2.2.</strong> Extensibility</a></li></ol></li><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service.html"><strong aria-hidden="true">12.3.</strong> Alliance Passport Service</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service/Account-Holders.html"><strong aria-hidden="true">12.3.1.</strong> Account Holders</a></li><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service/Business-Tenants.html"><strong aria-hidden="true">12.3.2.</strong> Business Tenants</a></li><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service/Security-Roles.html"><strong aria-hidden="true">12.3.3.</strong> Security Roles</a></li><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service/Security-Groups.html"><strong aria-hidden="true">12.3.4.</strong> Security Groups</a></li><li class="chapter-item "><a href="../../Components/Alliance-Passport-Service/Business-PErmissions.html"><strong aria-hidden="true">12.3.5.</strong> Business Permissions</a></li></ol></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform.html"><strong aria-hidden="true">12.4.</strong> Alliance Business Platform</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/APIs.html"><strong aria-hidden="true">12.4.1.</strong> Application Programming Interfaces</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/APIs/REST-API.html"><strong aria-hidden="true">12.4.1.1.</strong> REST API</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/APIs/GraphQl-API.html"><strong aria-hidden="true">12.4.1.2.</strong> GraphQl API</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/APIs/GRPC-API.html"><strong aria-hidden="true">12.4.1.3.</strong> GRPC API</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/APIs/ABS-Tx.html"><strong aria-hidden="true">12.4.1.4.</strong> ABS TermX</a></li></ol></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/SDKs.html"><strong aria-hidden="true">12.4.2.</strong> Software Development Kits</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/SDKs/SDK-Nuget-Package.html"><strong aria-hidden="true">12.4.2.1.</strong> .NET SDK</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/SDKs/DTOs-Nuget-Package.html"><strong aria-hidden="true">12.4.2.2.</strong> .NET DTOs Library</a></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Platform/SDKs/PowerShell-CLI-Module.html"><strong aria-hidden="true">12.4.2.3.</strong> PowerShell CLI</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Studio.html"><strong aria-hidden="true">12.5.</strong> Alliance Business Studio</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Components/Alliance-Business-Studio/Layout.html"><strong aria-hidden="true">12.5.1.</strong> Layout</a></li></ol></li><li class="chapter-item "><a href="../../Components/Alliance-Business-Pocket.html"><strong aria-hidden="true">12.6.</strong> Alliance Business Pocket</a></li></ol></li><li class="chapter-item "><a href="../../Modules.html"><strong aria-hidden="true">13.</strong> Official Modules</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Modules/IAM.html"><strong aria-hidden="true">13.1.</strong> IAM</a></li><li class="chapter-item "><a href="../../Modules/Accounting.html"><strong aria-hidden="true">13.2.</strong> Accounting</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Modules/Accounting/Accounts.html"><strong aria-hidden="true">13.2.1.</strong> Accounts</a></li><li class="chapter-item "><a href="../../Modules/Accounting/Billing.html"><strong aria-hidden="true">13.2.2.</strong> Billing</a></li><li class="chapter-item "><a href="../../Modules/Accounting/Ledgers.html"><strong aria-hidden="true">13.2.3.</strong> Ledgers</a></li></ol></li><li class="chapter-item "><a href="../../Modules/Assets.html"><strong aria-hidden="true">13.3.</strong> Assets Manager</a></li><li class="chapter-item "><a href="../../Modules/CRM.html"><strong aria-hidden="true">13.4.</strong> Contact Sight</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE.html"><strong aria-hidden="true">13.5.</strong> eCommerce</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Carts.html"><strong aria-hidden="true">13.5.1.</strong> Carts</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Wishlists.html"><strong aria-hidden="true">13.5.2.</strong> Wishlists</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Comparisons.html"><strong aria-hidden="true">13.5.3.</strong> Comparisons</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Recommendations.html"><strong aria-hidden="true">13.5.4.</strong> Recommendations</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Products.html"><strong aria-hidden="true">13.5.5.</strong> Products</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Services.html"><strong aria-hidden="true">13.5.6.</strong> Services</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Subscriptions.html"><strong aria-hidden="true">13.5.7.</strong> Subscriptions</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Payments.html"><strong aria-hidden="true">13.5.8.</strong> Payments</a></li><li class="chapter-item "><a href="../../Modules/ECOMMERCE/Shipping.html"><strong aria-hidden="true">13.5.9.</strong> Shipping</a></li></ol></li><li class="chapter-item "><a href="../../Modules/LOGISTICS.html"><strong aria-hidden="true">13.6.</strong> Logistics</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Modules/LOGISTICS/Stock-Items.html"><strong aria-hidden="true">13.6.1.</strong> Stock Items</a></li></ol></li><li class="chapter-item "><a href="../../Modules/CMS.html"><strong aria-hidden="true">13.7.</strong> Media Portals</a></li><li class="chapter-item "><a href="../../Modules/Workflows.html"><strong aria-hidden="true">13.8.</strong> Workflows Studio</a></li></ol></li><li class="chapter-item "><a href="../../Integrations.html"><strong aria-hidden="true">14.</strong> Official Integrations</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Integrations/Self.html"><strong aria-hidden="true">14.1.</strong> ABS Self</a></li><li class="chapter-item "><a href="../../Integrations/Authorize.Net.html"><strong aria-hidden="true">14.2.</strong> Authorize.net</a></li><li class="chapter-item "><a href="../../Integrations/ePayco.html"><strong aria-hidden="true">14.3.</strong> ePayco</a></li><li class="chapter-item "><a href="../../Integrations/Facebook.html"><strong aria-hidden="true">14.4.</strong> Facebook</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Integrations/Facebook/Commerce.html"><strong aria-hidden="true">14.4.1.</strong> Commerce</a></li><li class="chapter-item "><a href="../../Integrations/Facebook/Marketing.html"><strong aria-hidden="true">14.4.2.</strong> Marketing</a></li></ol></li><li class="chapter-item "><a href="../../Integrations/Google.html"><strong aria-hidden="true">14.5.</strong> Google</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Integrations/Google/Merchant.html"><strong aria-hidden="true">14.5.1.</strong> Merchant</a></li><li class="chapter-item "><a href="../../Integrations/Google/My-Business.html"><strong aria-hidden="true">14.5.2.</strong> My Business</a></li></ol></li><li class="chapter-item "><a href="../../Integrations/Mercado-Libre.html"><strong aria-hidden="true">14.6.</strong> MercadoLibre</a></li><li class="chapter-item "><a href="../../Integrations/Stripe.html"><strong aria-hidden="true">14.7.</strong> Stripe</a></li></ol></li><li class="chapter-item "><a href="../../Security.html"><strong aria-hidden="true">15.</strong> Security</a></li><li class="chapter-item "><a href="../../Advanced.html"><strong aria-hidden="true">16.</strong> Advanced</a></li><li class="chapter-item expanded "><a href="../../Online-Services.html"><strong aria-hidden="true">17.</strong> Online Services</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../Online-Services/REST-API.html"><strong aria-hidden="true">17.1.</strong> AOS REST API</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../Online-Services/REST-API/Authentication-and-Authorization.html" class="active"><strong aria-hidden="true">17.1.1.</strong> Authentication and Authorization</a></li></ol></li><li class="chapter-item "><a href="../../Online-Services/Alliance-Business-Cloud.html"><strong aria-hidden="true">17.2.</strong> Alliance Business Cloud</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../Online-Services/Alliance-Business-Cloud/About.html"><strong aria-hidden="true">17.2.1.</strong> About</a></li><li class="chapter-item "><a href="../../Online-Services/Alliance-Business-Cloud/View-Statistics.html"><strong aria-hidden="true">17.2.2.</strong> View Statistics</a></li><li class="chapter-item "><a href="../../Online-Services/Alliance-Business-Cloud/Hosting-Features.html"><strong aria-hidden="true">17.2.3.</strong> Hosting-Features</a></li><li class="chapter-item "><a href="../../Online-Services/Alliance-Business-Cloud/Allocated-and-Consumed-Resources.html"><strong aria-hidden="true">17.2.4.</strong> Allocated and Consumed Resources</a></li></ol></li><li class="chapter-item "><a href="../../Online-Services/Alliance-Pay-Platform.html"><strong aria-hidden="true">17.3.</strong> Alliance Pay Platform</a></li></ol></li><li class="chapter-item "><a href="../../Changelog.html"><strong aria-hidden="true">18.</strong> Changelog</a></li><li class="chapter-item "><a href="../../Contributing.html"><strong aria-hidden="true">19.</strong> Contributing</a></li><li class="chapter-item "><a href="../../CODE_OF_CONDUCT.html"><strong aria-hidden="true">20.</strong> Code of Conduct</a></li><li class="chapter-item "><a href="../../THIRD_PARTY_NOTICES.html"><strong aria-hidden="true">21.</strong> Third Party Notices</a></li><li class="chapter-item "><a href="../../License.html"><strong aria-hidden="true">22.</strong> License</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Alliance Business Suite Documentation</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="authorizing-request-against-the-alliance-online-services"><a class="header" href="#authorizing-request-against-the-alliance-online-services">Authorizing request against the Alliance Online Services</a></h1>
+<p>Some apps call the Alliance Online Services (&quot;AOS&quot;) APIs with their own identity and not on behalf of an Account Holder. In many cases, these are background services or daemons that run on a server without the presence of a signed-in user. An example of such an app might be a contact information updater service that wakes up and runs overnight. In some cases, apps that have a signed-in user present may also need to call the AOS APIs under their own identity. For example, an app may need to use functionality that requires more elevated privileges in an Online Business Tenant than those granted by the signed-in Account Holder.</p>
+<h2 id="authentication-and-authorization-steps"><a class="header" href="#authentication-and-authorization-steps">Authentication and authorization steps</a></h2>
+<p>The basic steps required to configure a service and get a token from the Alliance Passport Services (&quot;APS&quot;) API for the endpoint that your service can use to call the AOS under its own identity are:</p>
+<ol>
+<li>Register your app.</li>
+<li>Configure permissions for AOS on your app.</li>
+<li>Get administrator consent (if required).</li>
+<li>Get an access token.</li>
+<li>Use the access token to call Alliance Online Services.</li>
+</ol>
+<h3 id="1-register-your-app"><a class="header" href="#1-register-your-app">1. Register your app</a></h3>
+<p>To authenticate with the Alliance Passport Service IAM endpoint, you must first register your app at the Alliance Developer Center portal. You need to use a business enrollment with enough privileges to register your app.</p>
+<p>For a service that will call AOS under its own identity, you need to register your app for the Web platform and copy the following values:</p>
+<p>The Application ID is assigned by the Alliance Developer Center portal.</p>
+<ul>
+<li>A Client (application) Secret, either a password or a public/private key pair (certificate).</li>
+<li>A Redirect URL for your service to receive token responses.</li>
+<li>A Redirect URL for your service to receive admin consent responses if your app implements functionality that requires administrator consent.</li>
+</ul>
+<p>For steps on how to configure an app using the Alliance Developer Center portal, see Register your app.</p>
+<p>With the OAuth 2.0 client credentials grant flow, your app authenticates directly at the APS IAM endpoint through the <code>API/v2/OAuth/token</code> endpoint using the Application Public Key and Application Secret assigned by the Alliance Developer Center Portal.</p>
+<h3 id="2-configure-permissions-for-alliance-online-services"><a class="header" href="#2-configure-permissions-for-alliance-online-services">2. Configure permissions for Alliance Online Services</a></h3>
+<p>For apps that call AOS under their own identity, APS exposes application permissions (APS can also expose delegated permissions for apps that call AOS on behalf of an Account Holder). You pre-configure the application permissions your app needs when you register your app. </p>
+<p>By default, application permissions always require administrator consent. An administrator can either consent to these permissions using the Alliance Developer Center portal when your app is installed in their Business Tenant, or you can provide a sign-up experience in your app through which administrators can consent to the permissions you configured. Once administrator consent is recorded by APS, your app can request tokens without having to request consent again. For more detailed information about the permissions available with the Alliance Business Suite, see the Permissions reference.</p>
+<p>To configure application permissions for your app in the Alliance Developer Center portal: under an application's API permissions page, choose &quot;Add permission&quot;, then choose the permissions your app requires under Application permissions.</p>
+<p>The following screenshot shows the Select Permissions page for application permissions.
+<img src="/.attachments/image-c521f27a-288a-4920-8edd-767deddbd62f.png" alt="image.png" />
+<strong>Note</strong>: We recommend that you configure the least privileged set of permissions required by your app. This provides a much more comfortable experience for administrators than having to consent to a long list of permissions.</p>
+<h3 id="4-get-an-access-token"><a class="header" href="#4-get-an-access-token">4. Get an access token</a></h3>
+<p>In the OAuth 2.0 client credentials grant flow, you use the Application Public Key and Application Secret values that you saved when you registered your app to request an access token directly from the APS /token endpoint.</p>
+<p>You specify the pre-configured permissions bypassing the permission ids as a comma-separated list as the value for the <code>requested_scopes</code> parameter in the token request. See the scope parameter description in the token request below for details.</p>
+<p>Token request
+You send a POST request to the APS /token endpoint to acquire an access token:</p>
+<pre><code>// Line breaks are for legibility only.
+
+POST https://fenix-allliance.com/api/v2/oauth2/v2.0/token
+HTTP/1.1
+Host: fenix-allliance.com
+Content-Type: application/x-www-form-urlencoded
+
+client_id=535fb089-9ff3-47b6-9bfb-4f1264799865
+&amp;client_secret=535fb089-9ff3-47b6-9bfb-4f1264799865
+&amp;scope=assets_read,assets_create,assets_delete
+&amp;grant_type=client_credentials
+</code></pre>
+<h4 id="token-request"><a class="header" href="#token-request">TOKEN REQUEST</a></h4>
+<table><thead><tr><th>Parameter</th><th>Condition</th><th>Description</th></tr></thead><tbody>
+<tr><td>tenant</td><td>Required</td><td>The directory tenant that you want to request permission from. This can be in GUID or friendly name format.</td></tr>
+<tr><td>client_id</td><td>Required</td><td>The Application ID that the Azure app registration portal assigned when you registered your app.</td></tr>
+<tr><td>client_secret</td><td>Required</td><td>The Application Secret that you generated for your app in the app registration portal. Ensure that it is URL encoded. ​</td></tr>
+<tr><td>grant_type</td><td>required</td><td>Must be client_credentials.</td></tr>
+<tr><td>scope</td><td>Required</td><td>The value passed for the scope parameter in this request should be the resource identifier (Permission ID) of the resource you want to work with. For APS IAM, the value default informs the APS endpoint that of all the application permissions you have configured for your app in the app registration portal, although it is highly recommended that you should issue a token for the ones associated with the resource you want to use.</td></tr>
+</tbody></table>
+<p>Token response
+A successful response looks like this:</p>
+<pre><code class="language-JSON">{
+ ​&quot;token_type&quot;: &quot;Bearer&quot;,
+ ​&quot;expires_in&quot;: 3599,
+ ​&quot;access_token&quot;: &quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1uQ19WWmNBVGZNNXBP...&quot;
+}
+</code></pre>
+<h3 id="token-response"><a class="header" href="#token-response">TOKEN RESPONSE</a></h3>
+<table><thead><tr><th>Parameter</th><th>Description</th></tr></thead><tbody>
+<tr><td>access_token</td><td>The requested access token. Your app can use this token in calls to AOS.</td></tr>
+<tr><td>token_type</td><td>Indicates the token type value. The only type that APS supports is bearer.</td></tr>
+<tr><td>expires_in</td><td>How long the access token is valid (in seconds).​</td></tr>
+</tbody></table>
+<h3 id="5-use-the-access-token-to-call-alliance-online-services"><a class="header" href="#5-use-the-access-token-to-call-alliance-online-services">5. Use the access token to call Alliance Online Services</a></h3>
+<p>After you have an access token, you can use it to call any AOS Web API by including it in the Authorization header of a request. The following request gets the profile of a specific user. Your app must have the User.Read.All permission to call this API.</p>
+<pre><code>GET https://fenix-alliance.com/api/v2/me
+Authorization: Bearer eyJ0eXAiO ... 0X2tnSQLEANnSPHY0gKcgw
+Host: fenix-alliance.com
+</code></pre>
+<p>A successful response will look similar to this (some response headers have been removed):</p>
+<p>HTTP</p>
+<pre><code class="language-curl">HTTP/1.1 200 OK
+Content-Type: application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8
+request-id: f45d08c0-6901-473a-90f5-7867287de97f
+Duration: 309.0273
+Date: Wed, 26 Apr 2017 19:53:49 GMT
+Content-Length: 407
+</code></pre>
+<pre><code class="language-JSON">{
+{
+  &quot;id&quot;: &quot;aa4sg587b-c7f5-44e0-947e-50a5b73f33ed&quot;,
+  &quot;publicName&quot;: &quot;GreatWarrior23&quot;,
+  &quot;idProvider&quot;: &quot;Alliance Passport Services SSO&quot;,
+  &quot;email&quot;: &quot;jhon.doe@contoso.com&quot;,
+  &quot;coverURL&quot;: &quot;data:image/jpeg;base64,/9j/4AAQSkZJsadS..LKSCtz/9k=&quot;,
+  &quot;avatarURL&quot;: &quot;data:image/jpeg;base64,/9j/4AAQSkZJRgA..jACCtz/9k=&quot;,
+  &quot;followsCount&quot;: 2,
+  &quot;followersCount&quot;: 2,
+  &quot;enrollmentsCount&quot;: 8,
+  &quot;socialProfileID&quot;: &quot;s687a1d-dad6-4433-a1d1-83316e9edwed&quot;,
+  &quot;cartID&quot;: &quot;0878e6b6-d25a-481a-ab06-8b76e93e1175&quot;,
+  &quot;walletID&quot;: &quot;1be9de4e-cab1-4044-89f3-a8cc8bf30a8b&quot;,
+  &quot;currencyID&quot;: &quot;COP.COL&quot;,
+  &quot;currencyISO&quot;: &quot;COP&quot;,
+  &quot;currencyExchange&quot;: 3786
+}
+}
+</code></pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../Online-Services/REST-API.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../Online-Services/Alliance-Business-Cloud.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../Online-Services/REST-API.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../Online-Services/Alliance-Business-Cloud.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>
