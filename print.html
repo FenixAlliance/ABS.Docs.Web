@@ -4128,9 +4128,10 @@ You should receive a response within 24 hours. If for some reason you do not, pl
 <h3 id="1-register-your-app"><a class="header" href="#1-register-your-app">1. Register your app</a></h3>
 <p>To authenticate with the Alliance Passport Service IAM endpoint, you must first register your app at the Alliance Developer Center portal. You need to use a business enrollment with enough privileges to register your app.</p>
 <p>For a service that will call AOS under its own identity, you need to register your app for the Web platform and copy the following values:</p>
-<p>The Application ID is assigned by the Alliance Developer Center portal.</p>
 <ul>
-<li>A Client (application) Secret, either a password or a public/private key pair (certificate).</li>
+<li>The Application Identifier assigned by the Alliance Developer Center portal.</li>
+<li>The Public Key assigned by the Alliance Developer Center portal.</li>
+<li>The Private Key assigned by the Alliance Developer Center portal.</li>
 <li>A Redirect URL for your service to receive token responses.</li>
 <li>A Redirect URL for your service to receive admin consent responses if your app implements functionality that requires administrator consent.</li>
 </ul>
@@ -4162,11 +4163,11 @@ client_id=535fb089-9ff3-47b6-9bfb-4f1264799865
 </code></pre>
 <h4 id="token-request"><a class="header" href="#token-request">TOKEN REQUEST</a></h4>
 <table><thead><tr><th>Parameter</th><th>Condition</th><th>Description</th></tr></thead><tbody>
-<tr><td>tenant</td><td>Required</td><td>The directory tenant that you want to request permission from. This can be in GUID or friendly name format.</td></tr>
-<tr><td>client_id</td><td>Required</td><td>The Application ID that the Azure app registration portal assigned when you registered your app.</td></tr>
-<tr><td>client_secret</td><td>Required</td><td>The Application Secret that you generated for your app in the app registration portal. Ensure that it is URL encoded. ​</td></tr>
-<tr><td>grant_type</td><td>required</td><td>Must be client_credentials.</td></tr>
-<tr><td>scope</td><td>Required</td><td>The value passed for the scope parameter in this request should be the resource identifier (Permission ID) of the resource you want to work with. For APS IAM, the value default informs the APS endpoint that of all the application permissions you have configured for your app in the app registration portal, although it is highly recommended that you should issue a token for the ones associated with the resource you want to use.</td></tr>
+<tr><td>client_id</td><td>Required</td><td>The Application Public Key that the Alliance Developer Center portal assigned when you registered your app.</td></tr>
+<tr><td>client_secret</td><td>Required</td><td>The Application Private Key that you generated for your app in the Alliance Developer Center portal.  ​</td></tr>
+<tr><td>grant_type</td><td>Required</td><td>Must be client_credentials.</td></tr>
+<tr><td>requested_scopes</td><td>Required</td><td>The value passed for the scope parameter in this request should be the resource identifier (Permission ID) of the resource you want to work with. For APS IAM, the value default informs the APS endpoint that of all the application permissions you have configured for your app in the app registration portal, although it is highly recommended that you should issue a token for the ones associated with the resource you want to use.</td></tr>
+<tr><td>requested_enrollment</td><td>optional</td><td>The Business Profile Record ID  that you want to request permission from. This must be a GUID.</td></tr>
 </tbody></table>
 <p>Token response
 A successful response looks like this:</p>
