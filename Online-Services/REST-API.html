@@ -143,7 +143,177 @@
 
                 <div id="content" class="content">
                     <main>
-                        
+                        <p>[[<em>TOC</em>]]</p>
+<h1 id="welcome-to-the-alliance-online-services-rest-api-reference-documentation"><a class="header" href="#welcome-to-the-alliance-online-services-rest-api-reference-documentation">Welcome to the Alliance Online Services REST API reference documentation.</a></h1>
+<p>Apart from the traditional Web Portals, the AOS REST APIs expose a set of Representational State Transfer (REST) APIs are service endpoints that support sets of HTTP operations (methods), which provide create, retrieve, update, or delete access to the service's resources. This section will walk you through:</p>
+<ul>
+<li>How to call Alliance Online Services REST APIs with Postman</li>
+<li>How to register your client application with Alliance Passport Services (&quot;APS&quot;) to secure your REST requests.</li>
+<li>Overviews of creating and sending a REST request, and handling the response.</li>
+</ul>
+<h2 id="how-to-call-aos-rest-apis-with-postman"><a class="header" href="#how-to-call-aos-rest-apis-with-postman">How to call AOS REST APIs with Postman</a></h2>
+<p>The following video will show you how to quickly authenticate with the AOS REST APIs via the client id/secret method. We encourage you to continue reading below to learn about what constitutes a REST operation, but if you need to quickly call the APIs, this video is for you.</p>
+<p>{video placeholder}</p>
+<h2 id="how-to-authenticate-and-authorize-requests-to-the-aos-rest-api"><a class="header" href="#how-to-authenticate-and-authorize-requests-to-the-aos-rest-api">How to Authenticate and Authorize requests to the AOS Rest API.</a></h2>
+<h3 id="register-your-client-application-with-aps"><a class="header" href="#register-your-client-application-with-aps">Register your client application with APS</a></h3>
+<p>Most AOS REST API enpoint sets require your client code to authenticate with valid credentials before you can call the service's API. Authentication is coordinated between the various actors by APS and provides your client with an access token as proof of the authentication. The token is then sent to the AOS service in the HTTP Authorization header of subsequent REST API requests. The token's claims also provide information to the service, allowing it to validate the client and perform any required authorization.</p>
+<p>If you are using a REST API that does not use integrated APS authentication, or you've already registered your client, skip to the Create the request section.</p>
+<h4 id="prerequisites"><a class="header" href="#prerequisites">Prerequisites</a></h4>
+<p>Your client application must make its identity configuration known to APS before run-time by registering it in an Online Business Tenant. Before you register your client with APS, consider the following prerequisites:</p>
+<ul>
+<li>
+<p>If you do not have an Online Business Tenant yet, see Set up an Online Business Tenant.</p>
+</li>
+<li>
+<p>In accordance with the OAuth2 Authorization Framework, APS supports two types of clients. Understanding each helps you decide which is most appropriate for your scenario:</p>
+<ul>
+<li>
+<p>web/confidential clients run on a web server and can access resources under their own identity (for example, a service or daemon), or obtain delegated authorization to access resources under the identity of a signed-in user (for example, a web app). Only a web client can securely maintain and present its own credentials during APS authentication to acquire an access token.</p>
+</li>
+<li>
+<p>native/public clients are installed and run on a device. They can access resources only under delegated authorization, using the identity of the signed-in user to acquire an access token on behalf of the user.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>You are now ready to register your client application with APS.</p>
+<h4 id="client-registration"><a class="header" href="#client-registration">Client registration</a></h4>
+<p>To register a client that accesses an AOS REST API, see Use the Alliance Developer Center portal to create an application that can access resources. The article (also available in PowerShell and CLI versions for automating registration) shows you how to:</p>
+<ul>
+<li>Register the client application with APS.</li>
+<li>Set permission requests to allow the client to access the AOS REST APIs.</li>
+<li>Configure APS IAM Role-Based Access Control (RBAC) settings for authorizing the client.</li>
+</ul>
+<p>If your client accesses an API other than the APS IAM API, refer to:</p>
+<ul>
+<li>Register an application with the Alliance Passport Service
+<ul>
+<li>Register the client application with APS, in the &quot;Register an application&quot; section.</li>
+<li>Create a secret key (if you are registering a web client), in the &quot;Add credentials&quot; section.</li>
+</ul>
+</li>
+<li>Configure an application to expose a web API
+<ul>
+<li>Add permissions to your web API, exposing them as scopes</li>
+</ul>
+</li>
+<li>Configure a client application to access a web API
+<ul>
+<li>Add permission requests as required by the scopes defined for the API, in the &quot;Add permissions to access your web API&quot; section.</li>
+</ul>
+</li>
+</ul>
+<p>Now that you've completed the registration of your client application, move on to your client code where you create the REST request and handle the response.</p>
+<h3 id="create-the-request"><a class="header" href="#create-the-request">Create the request</a></h3>
+<p>This section covers the first three of the five components that we discussed earlier. You first need to acquire the access token from APS, which you use to assemble your request message header.</p>
+<h4 id="acquire-an-access-token"><a class="header" href="#acquire-an-access-token">Acquire an access token</a></h4>
+<p>After you have a valid client registration, you have two ways to integrate with APS to acquire an access token:</p>
+<p>Platform and language-neutral OAuth2 service endpoints, which we use in this article. The instructions provided in this section assume nothing about your client's platform or language/script when you use the APS OAuth endpoints. The only requirement is that you can send/receive HTTPS requests to/from APS and parse the response message.</p>
+<p>The platform- and language-specific Authentication Libraries, which are beyond the scope of this article. The libraries provide asynchronous wrappers for the OAuth2 endpoint requests, and robust token-handling features such as caching and refresh token management. For more information, see the Overview of the ABS SDKs.</p>
+<p>The two APS endpoints that you use to authenticate your client and acquire an access token are referred to as the OAuth2 /authorize and /token endpoints. How you use them depends on your application's registration and the type of OAuth2 authorization grant flow you need to support your application at run-time. For the purposes of this article, we assume that your client uses one of the following authorization grant flows: authorization code or client_credentials. To acquire an access token used in the remaining sections, follow the instructions for the flow that best matches your scenario.</p>
+<h5 id="authorization-code-grant-interactive-clients"><a class="header" href="#authorization-code-grant-interactive-clients">Authorization code grant (interactive clients)</a></h5>
+<p>This grant is used by both web and native clients, requiring credentials from a signed-in user in order to delegate resource access to the client application. It uses the /authorize endpoint to obtain an authorization code (in response to user sign-in/consent), followed by the /token endpoint to exchange the authorization code for an access token.</p>
+<ol>
+<li>
+<p>First, your client needs to request an authorization code from APS. For details on the format of the HTTPS GET request to the /authorize endpoint, and example request/response messages, see Request an authorization code. The URI contains the following query-string parameters, which are specific to your client application:</p>
+<ul>
+<li>
+<p><code>client_id</code>: A GUID that was assigned to your client application during registration, also known as an application ID.</p>
+</li>
+<li>
+<p><code>redirect_uri</code>: A URL-encoded version of one of the reply/redirect URIs, specified during registration of your client application. The value you pass must match your registration value exactly.</p>
+</li>
+<li>
+<p><code>resource</code>: A URL-encoded identifier URI that's specified by the REST API you are calling. Web/REST APIs (also known as resource applications) can expose one or more application ID URIs in their configuration. For example:</p>
+</li>
+</ul>
+</li>
+</ol>
+<p>The request to the /authorize endpoint first triggers a sign-in prompt to authenticate the user. The response you get back is delivered as a redirect (302) to the URI that you specified in redirect_uri. The response header message contains a location field, containing the redirect URI followed by a code query parameter. The code parameter contains the authorization code that you need for step 2.</p>
+<p>Next, your client needs to redeem the authorization code for an access token. For details on the format of the HTTPS POST request to the /token endpoint and request/response examples, see Request an access token. Because this is a POST request, you package your application-specific parameters in the request body. In addition to some of the previously mentioned parameters (along with other new ones), you will pass:</p>
+<p>code: This query parameter contains the authorization code that you obtained in step 1.</p>
+<p>client_secret: You need this parameter only if your client is configured as a web application. This is the same secret/key value that you generated earlier, in client registration.</p>
+<h5 id="client-credentials-grant-non-interactive-clients"><a class="header" href="#client-credentials-grant-non-interactive-clients">Client credentials grant (non-interactive clients)</a></h5>
+<p>This grant is used only by web clients, allowing the application to access resources directly (no user delegation) using the client's credentials, which are provided at registration time. The grant is typically used by non-interactive clients (no UI) that run as a service or daemon. It requires only the /token endpoint to acquire an access token.</p>
+<p>The client/resource interactions for this grant are similar to step 2 of the authorization code grant. For details on the format of the HTTPS POST request to the /token endpoint and request/response examples, see the &quot;Get a token&quot; section in the <a href="/Online-Services/REST-API/Authentication-and-Authorization.html">Authentication and Authorization and the OAuth 2.0 client credentials flow</a> section.</p>
+<h4 id="assemble-the-request-message"><a class="header" href="#assemble-the-request-message">Assemble the request message</a></h4>
+<p>Most programming languages or frameworks and scripting environments make it easy to assemble and send the request message. They typically provide a web/HTTP class or API that abstracts the creation or formatting of the request, making it easier to write the client code. For brevity, and because most of the task is handled for you, this section covers only the important elements of the request.</p>
+<h5 id="request-uri"><a class="header" href="#request-uri">Request URI</a></h5>
+<p>Because sensitive information is being transmitted and received, <strong>all REST requests to any AOS Service Endpoint requires the HTTPS</strong> protocol for the URI scheme, giving the request and response a secure channel. The information (that is, the APS authorization code, access/bearer token, and sensitive request/response data) is encrypted by a lower transport layer, ensuring the privacy of the messages.</p>
+<p>The remainder of your service's request URI (the host, resource path, and any required query-string parameters) are determined by its related REST API specification. For a more detailed reference on each AOS REST Endpoint, please refer to the <a href="https://fenix-alliance.com/api/v2/documentation">AOS REST API Interactive Documentation</a>.</p>
+<h5 id="request-header"><a class="header" href="#request-header">Request header</a></h5>
+<p>The request URI is bundled in the request message header, along with any additional fields required by your service's REST API specification and the HTTP specification. Your request might require the following common header fields:</p>
+<ul>
+<li><code>Authorization</code>: Contains the OAuth2 bearer token to secure the request, as acquired earlier from APS.</li>
+<li><code>Content-Type</code>: Typically set to &quot;application/json&quot; (name/value pairs in JSON format), and specifies the MIME type of the request body.</li>
+<li><code>Host</code>: The domain name or IP address of the server where the REST service endpoint is hosted.</li>
+</ul>
+<h5 id="request-body"><a class="header" href="#request-body">Request body</a></h5>
+<p>As mentioned earlier, the request message body is optional, depending on the specific operation you're requesting and its parameter requirements. If it's required, the API specification for the service you are requesting also specifies the encoding and format.</p>
+<p>The request body is separated from the header by an empty line, formatted in accordance with the Content-Type header field. An example of an &quot;application/json&quot; formatted body would appear as follows:</p>
+<pre><code>{
+  &quot;&lt;name&gt;&quot;: &quot;&lt;value&gt;&quot;
+}
+</code></pre>
+<h3 id="send-the-request"><a class="header" href="#send-the-request">Send the request</a></h3>
+<p>Now that you have the service's request URI and have created the related request message header and body, you are ready to send the request to the AOS REST service endpoint.</p>
+<p>For example, you might send an HTTPS GET request method for an AOS REST API endpoint by using request header fields that are similar to the following (note that the request body is empty):</p>
+<pre><code>GET /api/v2/subscriptions HTTP/1.1
+Authorization: Bearer &lt;bearer-token&gt;
+Host: fenix-alliance.com
+
+
+
+&lt;no body&gt;
+</code></pre>
+<p>And you might send an HTTPS PUT request method for an AOS REST API endpoint by using request header and body fields similar to the following example:</p>
+<pre><code>PUT /api/v2/subscriptions/d0928ef4-84b0-4710-9a8e-e34c82ccc917  HTTP/1.1
+Authorization: Bearer &lt;bearer-token&gt;
+Content-Length: 29
+Content-Type: application/json
+Host: fenix-alliance.com
+
+{
+  &quot;displayName&quot;: &quot;My Subscription&quot;
+}
+</code></pre>
+<p>After you make the request, the response message header and optional body are returned.</p>
+<h3 id="process-the-response-message"><a class="header" href="#process-the-response-message">Process the response message</a></h3>
+<p>The process concludes with the final two of the five components.</p>
+<p>To process the response, parse the response header and, optionally, the response body (depending on the request). In the HTTPS GET example provided in the preceding section, you used the <code>/API/v2/subscriptions</code> endpoint to retrieve the list of subscriptions for a user. Assuming that the response was successful, you should receive response header fields that are similar to the following example:</p>
+<pre><code>HTTP/1.1 200 OK
+Content-Length: 303
+Content-Type: application/json;
+</code></pre>
+<p>And you should receive a response body that contains a list of subscriptions and their individual properties encoded in JSON format, similar to:</p>
+<pre><code>[
+    {
+        &quot;id&quot;:&quot;d0928ef4-84b0-4710-9a8e-e34c82ccc917&quot;,
+        &quot;subscriptionId&quot;:&quot;123cc9dd-09c9-47de-9f2b-2517adfcfd44&quot;,
+        &quot;displayName&quot;:&quot;My Subscription&quot;,
+        &quot;state&quot;:&quot;Enabled&quot;,
+    }
+]
+
+</code></pre>
+<p>Similarly, for the HTTPS PUT example, you should receive a response header similar to the following, confirming that your PUT operation to add the &quot;ExampleResourceGroup&quot; was successful:</p>
+<pre><code>HTTP/1.1 200 OK
+Content-Length: 193
+Content-Type: application/json;
+</code></pre>
+<p>And you should receive a response body that confirms the content of your newly added resource group encoded in JSON format, similar to:</p>
+<pre><code>{
+    &quot;id&quot;:&quot;123cc9dd-09c9-47de-9f2b-2517adfcfd44&quot;,
+    &quot;name&quot;:&quot;ExampleResourceGroup&quot;,
+    &quot;location&quot;:&quot;westus&quot;,
+    &quot;properties&quot;:
+        {
+        &quot;provisioningState&quot;:&quot;Succeeded&quot;
+        }
+}
+</code></pre>
+<p>As with the request, most programming languages and frameworks make it easy to process the response message. They typically return this information to your application following the request, allowing you to process it in a typed/structured format. Mainly, you are interested in confirming the HTTP status code in the response header, and parsing the response body according to the API specification (or the Content-Type and Content-Length response header fields).</p>
+
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
