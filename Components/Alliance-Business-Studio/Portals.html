@@ -162,17 +162,9 @@
 <pre><code class="language-cs">@inherits LayoutComponentBase
 &lt;CascadingValue Value=&quot;this&quot;&gt;
 
-    @if (PortalContextis not null &amp;&amp; !PortalContext.Busy)
+    @if (PortalContextis not null &amp;&amp; PortalContext.Ready)
     {
-        &lt;PortalCommandBarComponent PortalContext=&quot;PortalContext&quot;&gt;&lt;/PortalCommandBarComponent&gt;
-        &lt;HeaderComponent&gt;&lt;/HeaderComponent&gt;
-
         @Body
-
-        &lt;FooterComponent&gt;&lt;/FooterComponent&gt;
-
-        &lt;RadzenDialog /&gt;
-        &lt;RadzenNotification /&gt;
     }
 
 &lt;/CascadingValue&gt;
@@ -195,26 +187,12 @@
     {
         if (firstRender)
         {
-            var lDotNetReference = DotNetObjectReference.Create(this);
-            await JS.InvokeVoidAsync(&quot;blazorUtils.setLayout&quot;, lDotNetReference);
-        }
-        await JS.InvokeVoidAsync(&quot;interop.init&quot;);
-    }
 
+        }
+    }
 
     public async Task RefreshLayout(string BusinessID)
     {
-        PortalContext.Layout = this;
-
-        if (BusinessID is not null)
-        {
-            await PortalContext.Init((await authenticationStateTask).User, NavManager, BusinessID);
-        }
-        else
-        {
-            await PortalContext.Flush();
-        }
-
         this.StateHasChanged();
     }
 
