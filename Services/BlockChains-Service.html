@@ -156,7 +156,7 @@
 <li>Parity management API.</li>
 <li>Quorum integration.</li>
 <li>Besu integration.</li>
-<li>Simplified smart contract interaction for deployment, function calling, transaction and event filtering and decoding of topics.</li>
+<li>Simplified smart contract interaction for deployment, function calling, transaction, and event filtering and decoding of topics.</li>
 <li>Blockchain processing.</li>
 <li>ABI to .Net type encoding and decoding, including attribute-based for complex object deserialisation (nethereum-abi-encoding.md).</li>
 <li>Rules engine.</li>
@@ -174,8 +174,50 @@
 <li><input disabled="" type="checkbox"/>
 ABS SDK Support.</li>
 <li><input disabled="" type="checkbox"/>
+Smart Contract Management Pages.</li>
+<li><input disabled="" type="checkbox"/>
 Unity 3D Integration (ABS SDK).</li>
 </ul>
+<h2 id="working-with-smart-contract-support"><a class="header" href="#working-with-smart-contract-support">Working with Smart Contract Support</a></h2>
+<p>We are currently working to provide a complete Smart Contract management experience for the Alliance Business Suite.
+As of now, Smart Contracts should be created and deployed outside the Alliance Business Suite, and then imported as a Contract Address to be exposed to the BlockChains Service.</p>
+<h2 id="working-with-nft-support"><a class="header" href="#working-with-nft-support">Working with NFT Support</a></h2>
+<p>NFT stands for non-fungible token. This quote from ethereum.org explains it well:</p>
+<p><em>&quot;NFTs are tokens that we can use to represent ownership of unique items. They let us tokenize things like art, collectibles, even real estate. They can only have one official owner at a time and they're secured by the Ethereum blockchain – no one can modify the record of ownership or copy/paste a new NFT into existence.&quot;</em></p>
+<h3 id="what-is-an-nft-standard-or-erc-721"><a class="header" href="#what-is-an-nft-standard-or-erc-721">What is an NFT standard or ERC-721?</a></h3>
+<p>The ERC-721 is the most common NFT standard. If your Smart Contract implements certain standardized API methods, it can be called an ERC-721 Non-Fungible Token Contract.</p>
+<p>These methods are specified in the EIP-721. Open-sourced projects like OpenZeppelin have simplified the development process by implementing the most common ERC standards as a reusable library.</p>
+<h3 id="minting-nfts"><a class="header" href="#minting-nfts">Minting NFTs</a></h3>
+<p>&quot;Minting an NFT&quot; is the act of publishing a unique instance of your ERC721 token on the blockchain. </p>
+<p>By minting an NFT, you publish a unique token on a blockchain. This token is an instance of your Smart Contract.</p>
+<p>Each token has a unique token URI, which contains metadata of your asset in a JSON file that conforms to a certain schema. The metadata is where you store information about your NFT, such as name, image, description, and other attributes.</p>
+<p>An example of the JSON file for the &quot;ERC721 Metadata Schema&quot; looks like this:</p>
+<pre><code class="language-json">{
+	&quot;attributes&quot;: [
+		{
+			&quot;trait_type&quot;: &quot;Shape&quot;,
+			&quot;value&quot;: &quot;Circle&quot;
+		},
+		{
+			&quot;trait_type&quot;: &quot;Mood&quot;,
+			&quot;value&quot;: &quot;Sad&quot;
+		}
+	],
+	&quot;description&quot;: &quot;A sad circle.&quot;,
+	&quot;image&quot;: &quot;https://i.imgur.com/Qkw9N0A.jpeg&quot;,
+	&quot;name&quot;: &quot;Sad Circle&quot;
+}
+</code></pre>
+<h3 id="how-is-nfts-metadata-stored"><a class="header" href="#how-is-nfts-metadata-stored">How is NFT's metadata stored?</a></h3>
+<p>There are three main ways to store an NFT's metadata.</p>
+<p>First, store the information on-chain. In other words, you can extend your ERC-721 and store the metadata on a blockchain, which can be costly.</p>
+<p>The second method is to use IPFS. And the third way is to simply have your API return the JSON file.</p>
+<p>The Alliance Business Suite can use a combination of these methods when creating NFTs, preventing actors to temper the underlying JSON file.</p>
+<h3 id="how-to-view-the-nft-in-your-metamask-wallet"><a class="header" href="#how-to-view-the-nft-in-your-metamask-wallet">How to View the NFT in your Metamask Wallet</a></h3>
+<p>You need to start by downloading the mobile version of Metamask. Then, log into your account.</p>
+<p>Your Wallet Account should be connected to MetaMask to view your NFTs, and the network should point to the main network configured on your Alliance Business Suite's settings.</p>
+<p>You should see an NFTs tab along with an add NFT button. Click on the button and enter the address of your Smart Contract along with the ids that you have minted.</p>
+<IMG  src="https://www.freecodecamp.org/news/content/images/2021/10/IMG_0376.jpeg"  alt="IMG_0376"/>
 
                     </main>
 
