@@ -160,28 +160,49 @@
   </a>
 </p>
 <h1 id="welcome-to-the-alliance-business-suite-documentation"><a class="header" href="#welcome-to-the-alliance-business-suite-documentation">Welcome to the Alliance Business Suite Documentation!</a></h1>
-<p>The Alliance Business Suite is a set of intelligent, extensible, multi-tenant applications built to enable users to jumpstart their business through the acceleration of several core aspects of any given business.</p>
-<p>The Alliance Business Suite gives users a Modular, Full-Stack, Low-Code Application Framework built on top of the <a href="https://absuite.net">Alliance Business Platform</a>. </p>
-<p>Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through .NET, an open-source and cross-platform framework for building web-mobile apps using C#, with or without the use of JavaScript.</p>
-<p>The power of the Alliance Business Suite can be leveraged from small personal blogs,  eCommerce platforms, and professional portfolios to the infrastructure of large corporations.</p>
-<h2 id="about-the-alliance-creed"><a class="header" href="#about-the-alliance-creed">About the Alliance Creed</a></h2>
-<p>We're designed to succeed when you and your business succeed; that's why we're committed to helping as many people as possible to harness their entire potential. By building on top of word-class technologies, we're designing this solution to jumpstart your business without having to worry about any of the complexity and technical aspects. We simply want to help you make your life easier while increasing your odds for success through the right tools and support on the path to digitalization.</p>
-<p>The fact is, since our inception, we've steered towards creating a culture designed to reach beyond expectations together by building an organization whose success strategy is to help others to succeed.</p>
-<h3 id="well-then-what-do-i-get"><a class="header" href="#well-then-what-do-i-get">Well then. What do I get?</a></h3>
-<p>We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to manage their services, products, and cloud resources. But the truth is that isn't limited to just that.</p>
-<p>Our applications are being developed to give you access to every functionality that we implement for our business, to power your business and vision as well. This is because if we can add value to our business and gain a competitive advantage through these tools, chances are you can too!</p>
-<p>So far, we've created a few extensions and connectors for the Alliance Business Suite, but you can extend it too! Some of these extensions are open source, so feel free to check their code for extension reference.</p>
-<p>Connectors are always free and you can find them on your ABS Extensions page, and some of our extensions have free tiers. You will get the Alliance Business Suite Community Edition, for free, with the following Modules:</p>
+<p>Aiming to help organizations reach beyond expectations, the Alliance Business Suite is being designed to augment businesses across industries all over the world through a low-code, and fully customizable business development platform.</p>
+<p>At a very high level, the Alliance Business Suite is a set of powerful, extensible, multi-tenant applications built to enable businesses to jumpstart their digitalization process through powerful business applications built to cover the core processes of any given business.</p>
+<p>The Alliance Business Suite provides customers with a Full-Stack, Low-Code, Modular, and Multi-Tenant Business Application Framework built on top of the <a href="https://absuite.net/Suite/Platform">Alliance Business Platform</a>. </p>
+<p>The Alliance Business Suite relies on <a href="/Components.html">five major components</a> designed to separate different functionalities into layers; these components are:</p>
 <ul>
-<li>ABS Contact Sight. (CRM)</li>
-<li>ABS Media Portals. (CMS)</li>
-<li>ABS Accounting. (AMS)</li>
-<li>ABS Learning. (LMS)</li>
-<li>ABS Social Networks. (Intranet Social Network)</li>
-<li>ABS IAM (Identity and Access Management)</li>
-<li>Infinity Comex (eCommerce Engine)</li>
+<li>
+<h2 id="a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a class="header" href="#a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a href="/Components/Alliance-Core-Libraries.html">Alliance Core Libraries</a></a></h2>
+</li>
 </ul>
-<p>To learn more about our privacy policy, please visit: https://fenixalliance.com.co/legal/policies/privacypolicy </p>
+<p>The Alliance Core Libraries contain the core abstractions and default implementations required by the Alliance Business Model and dependent components. It is also the external dependency source for the entire Alliance Business Suite, which means that external dependencies, which are dependencies outside the <code>FenixAlliance.*</code> namespace, are referenced by the <code>FenixAlliance.ACL.Deps</code> Package, which is the base ACL Package and, therefore, it could be referred to as the Core Package.</p>
+<p>For more information on the dependency tree, design overview, and external dependencies, please refer to <a href="/Advanced.html">Advanced Topics</a>.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a class="header" href="#a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a href="/Components/Alliance-Business-Model.html">Alliance Business Model</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Model is a declarative specification and definition of standard entities that represent commonly used concepts and activities across business and productivity applications and is being extended to observational and analytical data as well. ABM provides well-defined, modular, and extensible business entities such as Accounts, Business Units, cases, Contact, Leads, Opportunity, and Items (Products/Services) and interactions with vendors, workers, and customers, such as activities and service level agreements. that serve as the dynamic data layer for the entire Alliance Business Suite.</p>
+<p>Anyone can build on and extend ABM definitions to capture additional business-specific scenarios.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a class="header" href="#a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a href="/Components/Alliance-Passport-Service.html">Alliance Passport Service</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Passport Service enables developers and non-developers alike 
+The Alliance Passport Service is an Authentication/Authorization Engine designed to enable customers to easily configure and manage business identity scenarios by assigning (or connecting) a digital identity to their contacts, whether they are customers, employees, partners, guests, and more. </p>
+<p>It also provides common features for managing authentication, authorization, data protection, HTTPS enforcement, app secrets, XSRF/CSRF prevention, and CORS management. These security features allow you to build robust, yet secure Alliance Business Suite apps.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a class="header" href="#a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a href="Components/Alliance-Business-Platform.html">Alliance Business Platform</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Platform is a Modular API Framework. It leverages .NET 5.0 with the best of REST, SignalR, GraphQl y gRPCto transact with the Alliance Business Model Schema (AMB). The Alliance Business Platform is an open-source and cross-platform framework for integrating next-generation functionalities into your applications. It allows you to build spectacular single-page apps using .NET and C# with or without JavaScript. ABP apps can connect and transact to the data layer (The Alliance Business Modal Schema) using any language through standard requests through the various GrPC, HTTP, and GraphQL Endpoints. </p>
+<p>You can easily build on, and extend The Alliance Business Platform through ASP.NET + Angular / React (And pretty much any Web Stack Framework), to capture additional business-specific scenarios.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a class="header" href="#a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a href="/Components/Alliance-Business-Studio.html">Alliance Business Studio</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Studio is the Graphical Administration Engine for the Alliance Business Suite. It allows users to manage their implementations, transact data through the Alliance Business Platform, generate and consume views, and reports, customize and extend the system, and much more.</p>
+<p>You can build on top of, and extend The Alliance Business Studio to capture additional business-specific scenarios.</p>
+<h2 id="how-to-build-applications-on-top-of-the-alliance-business-suite"><a class="header" href="#how-to-build-applications-on-top-of-the-alliance-business-suite">How to build applications on top of the Alliance Business Suite?</a></h2>
+<p>Client and server code are written in C#, allowing users to extend the product with their code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through .NET, an open-source and cross-platform framework for building web-mobile apps using C#, with or without the use of JavaScript.</p>
+<p>The power of the Alliance Business Suite can be leveraged from small personal blogs, eCommerce platforms, and professional portfolios to the infrastructure of large corporations.</p>
 <h3 id="user-guide"><a class="header" href="#user-guide">User Guide</a></h3>
 <ul>
 <li><a href="https://docs.absuite.net">Documentation</a></li>
@@ -190,7 +211,7 @@
 <h1 id="getting-started"><a class="header" href="#getting-started">Getting Started</a></h1>
 <ul>
 <li>
-<p>Install <strong><a href="https://dotnet.microsoft.com/download/dotnet/6.0">.NET 6 SDK (v6.0.100)</a></strong>.</p>
+<p>Install <strong><a href="https://dotnet.microsoft.com/download/dotnet/6.0">.NET 6 SDK (v6.0.*)</a></strong>.</p>
 </li>
 <li>
 <p>Install the latest edition (v16.8 or higher) of <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2019</a> (Community, Professional, or Enterprise Editions) with the <strong>ASP.NET and web development</strong> workload enabled. Alliance Business Suite works with ALL editions of Visual Studio from Community to Enterprise. If you do not have a SQL Server installation available already and you wish to use LocalDB for development, you must also install the <strong>.NET desktop development workload</strong>.</p>
@@ -222,23 +243,38 @@
 <hr />
 <h3 id="easy-install"><a class="header" href="#easy-install">Easy Install</a></h3>
 <p>The Easy Way: As a Docker Container.</p>
-<pre><code class="language-powershell">docker pull FenixAlliance.ABS:latest
+<pre><code class="language-PowerShell">docker pull FenixAlliance.ABS:latest
 </code></pre>
 <h3 id="conventional-install"><a class="header" href="#conventional-install">Conventional Install</a></h3>
-<pre><code class="language-powershell">git clone https://github.com/FenixAlliance/ABS.Bin
+<pre><code class="language-PowerShell">git clone https://github.com/FenixAlliance/ABS.Bin
 </code></pre>
-<pre><code class="language-powershell">cd ABS.Bin
+<pre><code class="language-PowerShell">cd ABS.Bin
 </code></pre>
 <pre><code class="language-sh">./FenixAlliance.ABS.Studio.exe
 </code></pre>
 <p>or</p>
 <pre><code class="language-sh">dotnet FenixAlliance.ABS.Studio.dll
 </code></pre>
-<h3 id="as-application-dependency"><a class="header" href="#as-application-dependency">As application dependency</a></h3>
-<p>Add the NuGet package</p>
+<h3 id="installing-as-an-application-dependency"><a class="header" href="#installing-as-an-application-dependency">Installing as an application dependency</a></h3>
+<ul>
+<li>
+<h4 id="add-the-alliance-business-suite-nuget-feed"><a class="header" href="#add-the-alliance-business-suite-nuget-feed">Add the Alliance Business Suite Nuget Feed.</a></h4>
+</li>
+</ul>
+<pre><code class="language-PowerShell">dotnet nuget add source https://nuget.absuite.net/nuget -n absuite.net
+</code></pre>
+<ul>
+<li>
+<h4 id="add-the-nuget-package"><a class="header" href="#add-the-nuget-package">Add the NuGet package</a></h4>
+</li>
+</ul>
 <pre><code class="language-sh">dotnet add package FenixAlliance.ABS.Hub --version latest
 </code></pre>
-<h2 id="register-services-and-configuration"><a class="header" href="#register-services-and-configuration">Register Services and Configuration</a></h2>
+<ul>
+<li>
+<h4 id="register-services-and-configuration"><a class="header" href="#register-services-and-configuration">Register Services and Configuration</a></h4>
+</li>
+</ul>
 <pre><code class="language-cs">using FenixAlliance.ABS.Hub.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting.Server.Features;
@@ -281,7 +317,7 @@ namespace FenixAlliance.ABS
 <h2 id="abs-studio-dashboard"><a class="header" href="#abs-studio-dashboard">ABS Studio Dashboard:</a></h2>
 <p><img src="/.attachments/image-8bae0adf-518b-4e17-adfe-05bdc9f31fc1.png" alt="image.png" /></p>
 <h2 id="abs-extensions"><a class="header" href="#abs-extensions">ABS Extensions:</a></h2>
-<p>The ABS is absolutely modular. Whether you need to add pages, products, or posts with no code at all (using the ABS Web Designer), modify the style or layout, or add your own Types, Controllers, Pages, Views, Components, or Tag Helpers</p>
+<p>The ABS is modular. Whether you need to add pages, products, or posts with no code at all (using the ABS Web Designer), modify the style or layout, or add your Types, Controllers, Pages, Views, Components, or Tag Helpers</p>
 <p><img src="https://github.com/fenixalliance/abs.docs/blob/master/.attachments/YLVYb8WhDf.gif?raw=true" alt="ABS Extensions" title="ABS Extensions" /></p>
 <h2 id="abs-commander-terminal"><a class="header" href="#abs-commander-terminal">ABS Commander Terminal:</a></h2>
 <p>The ABS Commander Terminal is a Built-In functionality that allows users to execute commands against the ABP set of APIs.</p>
@@ -329,14 +365,10 @@ namespace FenixAlliance.ABS
 </ul>
 <h2 id="licensing-and-contributions"><a class="header" href="#licensing-and-contributions">Licensing and Contributions</a></h2>
 <p>Your access to and use of the Alliance Business Suite's source code is governed by the Fenix Alliance's <a href="http://absuite.net/eula">End User License Agreement &quot;EULA&quot;</a>. If you don't agree to those terms, as amended from time to time, you are not permitted to access or use the Alliance Business Suite.</p>
-<p>We welcome any contributions to the Alliance Business Suite development through pull requests on GitHub. Most of our active development is in the develop branch, so we prefer to take pull requests there (particularly for new features). We try to make sure that all new code adheres to the Fenix Alliance coding standards. All contributions are governed by the terms of the EULA.</p>
-<p><strong>A note about your account and the privacy of your information.</strong></p>
-<p>The Alliance Passport Services engine is built on top of a highly compliant service to keep your identity private. This engine supports Facebook, Microsoft Accounts, Google+, LinkedIn, and many other identity providers, but you can also integrate your own.</p>
-<p>We think that it's also worth pointing out that we DO NOT store any identity information into our databases; instead, that data is always encrypted and sent to the same systems that governments and enterprises worldwide are using to keep your data safe, and then we access that data by using industry-standard protocols so that you can rest assured that your sensitive information is protected through various security controls in addition to multi-factor authentication.</p>
-<p>To learn more about our privacy policy, please visit: https://fenixalliance.com.co/legal/policies/privacypolicy </p>
+<p>We welcome any contributions to the Alliance Business Suite development through pull requests on GitHub. Most of our active development is in the development branch, so we prefer to take pull requests there (particularly for new features). We try to make sure that all new code adheres to the Fenix Alliance coding standards. All contributions are governed by the terms of the EULA.</p>
 <h1 id="legal-notices"><a class="header" href="#legal-notices">Legal Notices</a></h1>
-<p>Fenix Alliance and any contributors grant you a license to the documentation and other content in this repository under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International Public License</a> and grant you a license to any code in the repository under the <a href="http://absuite.net/eula">ABS EULA</a>.</p>
-<p>Fenix Alliance, Alliance Business Suite, Infinity Comex, and/or other Fenix Alliance's products and services referenced in the documentation may be trademarks or registered trademarks of Fenix Alliance Inc. in the United States/or other countries. The licenses for this project do not grant you rights to use any of Fenix Alliance's names, logos, or trademarks. Fenix Alliance's general trademark guidelines can be found at http://docs.fenix-alliance.com.</p>
+<p>Fenix Alliance and any contributors grant you a license to the documentation and other content in this repository under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International Public License</a> and grant you a license to any code or binary form Fenix Alliance through the <a href="http://absuite.net/eula">ABS EULA</a>.</p>
+<p>Fenix Alliance, Alliance Business Suite, Infinity Comex, and/or other Fenix Alliance products and services referenced in the documentation may be trademarks or registered trademarks of Fenix Alliance Inc. in the United States/or other countries. The licenses for this project do not grant you rights to use any of Fenix Alliance's names, logos, or trademarks. Fenix Alliance's general trademark guidelines can be found at http://docs.fenix-alliance.com.</p>
 <p>Privacy information can be found at https://fenix-alliance.com/legal/policies/privacypolicy</p>
 <p>Fenix Alliance and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel, or otherwise.</p>
 <p><a href="https://www.producthunt.com/posts/alliance-business-suite?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-alliance-business-suite" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=300812&theme=dark" alt="Alliance Business Suite - Low-Code Next-Generation Business Development Platform. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p>
@@ -726,8 +758,8 @@ namespace FenixAlliance.ABS
 </ol>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="understanding-the-genericoption-table-and-the-options-api"><a class="header" href="#understanding-the-genericoption-table-and-the-options-api">Understanding the GenericOption Table and the Options API.</a></h1>
 <h2 id="the-genericoption-table"><a class="header" href="#the-genericoption-table">The GenericOption Table</a></h2>
-<p>To maximize your ability to extend the Alliance Business Suite, we've created the GenericOptions table, which is a table containing a few columns to store optional and configuration data for external applications without the need to modify nor extend the Alliance Business Model Schema, not to bring another data persistence mechanism.</p>
-<p>The options table stores a different kind of data from the other tables: instead of storing data about your Web Portal's content, it stores data about the Web Portal itself. Data is written to the options table using the <strong>Options API</strong>, both of which consist of a set of functions used to add, update and delete data from this table. </p>
+<p>To maximize your ability to extend the Alliance Business Suite, we've created the a generic data persistance mechanism, which is a table containing a few columns to store optional and configuration data for external applications without the need to modify nor extend the Alliance Business Model Schema, not to bring another data persistence mechanism.</p>
+<p>The options table stores data as encrypted JSON data. Data is written to the options table using the <strong>Options API</strong>, both of which consist of a set of functions used to add, update and delete data from this table. </p>
 <h2 id="the-options-api"><a class="header" href="#the-options-api">The Options API</a></h2>
 <p>To make it easier for developers to create custom configurations, we've created a set of methods specified into the <code>IOptionsService</code> interface. This interface comes configured with its default implementation right out of the box, but custom implementations could override this default implementation.</p>
 <p>As the GenericOption table stores data which is related to the setup and administration of the site as a whole, access to it is restricted. The Alliance Business Studio gives users the ability to modify the value of each configuration given the proper permissions to do so.</p>
@@ -2994,23 +3026,23 @@ Localizable/Localized Strings are retrieved and formatted if you need to insert 
 <h2 id="the-alliance-business-suite-is-composed-out-of-5-components"><a class="header" href="#the-alliance-business-suite-is-composed-out-of-5-components">The Alliance Business Suite is composed out of 5 Components.</a></h2>
 <p>The Alliance Business Suite was architected as a modular Application Framework. This means that components are able to work without their higher-level components. The lowest Component is the Alliance Core Libraries Component and the highest Component is the Alliance Business Studio Component.</p>
 <p><img src="/.attachments/ABS%20Components-7ac6c5e0-f6cb-42b2-be6b-9219a6ec14e5.jpg" alt="ABS Components.jpg" /></p>
-<h2 id="a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a class="header" href="#a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a href="/Components/Alliance-Core-Libraries.html">Alliance Core Libraries</a></a></h2>
+<h2 id="a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa-1"><a class="header" href="#a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa-1"><a href="/Components/Alliance-Core-Libraries.html">Alliance Core Libraries</a></a></h2>
 <p>The Alliance Core Libraries contains the core abstractions and default implementations required by the Alliance Business Model and dependent components. It is also the external dependency source for the entire Alliance Business Suite, which means that external dependencies, which are dependencies outside the <code>FenixAlliance.*</code> namespace are referred to by the <code>FenixAlliance.ACL.Deps</code> Package, which is the base ACL Package and, therefore, it could be referred to as the Core Package.</p>
 <p>For more information on the dependency tree, design overview and external dependencies, please refer to <a href="/Advanced.html">Advanced Topics</a>.</p>
-<h2 id="a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a class="header" href="#a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a href="/Components/Alliance-Business-Model.html">Alliance Business Model</a></a></h2>
+<h2 id="a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela-1"><a class="header" href="#a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela-1"><a href="/Components/Alliance-Business-Model.html">Alliance Business Model</a></a></h2>
 <p>The Alliance Business Model is a declarative specification and definition of standard entities that represent commonly used concepts and activities across business and productivity applications and is being extended to observational and analytical data as well. ABM provides well-defined, modular, and extensible business entities such as Account, Business Unit, Case, Contact, Lead, Opportunity, and Items (Products/Services), as well as interactions with vendors, workers, and customers, such as activities and service level agreements. that serve as the dynamic data layer for the entire Alliance Business Suite.</p>
 <p>Anyone can build on and extend ABM definitions to capture additional business-specific scenarios.</p>
-<h2 id="a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a class="header" href="#a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a href="/Components/Alliance-Passport-Service.html">Alliance Passport Service</a></a></h2>
+<h2 id="a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea-1"><a class="header" href="#a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea-1"><a href="/Components/Alliance-Passport-Service.html">Alliance Passport Service</a></a></h2>
 <p>The Alliance Passport Service enables developers and non-developers alike 
 The Alliance Passport Service is an Authentication/Authorization Engine designed to enable customers to easily configure and manage businesses identity scenarios by assigning (or connecting) a digital identity to their contacts, whether they are customers, employees, partners, guests, and more. </p>
 <p>It also provides common features for managing authentication, authorization, data protection, HTTPS enforcement, app secrets, XSRF/CSRF prevention, and CORS management. These security features allow you to build robust, yet secure Alliance Business Suite apps.</p>
-<h2 id="a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a class="header" href="#a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a href="Components/Alliance-Business-Platform.html">Alliance Business Platform</a></a></h2>
+<h2 id="a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma-1"><a class="header" href="#a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma-1"><a href="Components/Alliance-Business-Platform.html">Alliance Business Platform</a></a></h2>
 <p>The Alliance Business Platform is a Modular API Framework. It leverages .NET 5.0 with the best of REST, SignalR, GraphQl y gRPCto transact with the Alliance Business Model Schema (AMB). The Alliance Business Platform is an open-source and cross-platform framework for integrating next-generation functionalities into your applications. It allows you to build spectacular single-page apps using .NET and C# with or without JavaScript. ABP apps can connect and transact to the data layer (The Alliance Business Modal Schema) using any language through standard requests through the various GrPC, HTTP, and GraphQL Endpoints. </p>
 <p>Anyone can build on and extend The Alliance Business Platform through ASP.NET + Angular / React (And pretty much any Framework), to capture additional business-specific scenarios.</p>
-<h2 id="a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a class="header" href="#a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a href="/Components/Alliance-Business-Studio.html">Alliance Business Studio</a></a></h2>
+<h2 id="a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa-1"><a class="header" href="#a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa-1"><a href="/Components/Alliance-Business-Studio.html">Alliance Business Studio</a></a></h2>
 <p>The Alliance Business Studio is the Graphical Administration Engine for the Alliance Business Suite. It allows users to manage their implementations, transact data through the Alliance Business Platform, generate and consume views, reports, customize and extend the system, and much more.</p>
 <p>Anyone can build on and extend The Alliance Business Studio to capture additional business-specific scenarios.</p>
-<h2 id="a-hrefcomponentsalliance-business-cloudhtmlalliance-business-clouda"><a class="header" href="#a-hrefcomponentsalliance-business-cloudhtmlalliance-business-clouda"><a href="Components/Alliance-Business-Cloud.html">Alliance Business Cloud</a></a></h2>
+<h2 id="a-hrefonline-servicesalliance-business-cloudhtmlalliance-business-clouda"><a class="header" href="#a-hrefonline-servicesalliance-business-cloudhtmlalliance-business-clouda"><a href="Online-Services/Alliance-Business-Cloud.html">Alliance Business Cloud</a></a></h2>
 <p>The Alliance Business Cloud is an HTTP-based service for hosting Alliance Business Suite Instances and other kinds of applications. These can be developed in your favorite language, be it .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python. Applications run and scale with ease on both Windows-based environments.</p>
 <p>The Alliance Business Cloud not only adds the power of Microsoft Azure to your Alliance Business Suite instance, such as security, load balancing, autoscaling, and automated management features; You can also take advantage of its DevOps capabilities, such as continuous deployment from Azure DevOps, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and free/paid TLS/SSL certificates.</p>
 <p>With Alliance Business Cloud, you pay for the compute resources you use. The compute resources you use are determined by the Service plan that you run your Alliance Business Suite instance on.</p>
@@ -5161,8 +5193,46 @@ Response: Transaction pending for validation
 <p>All notable changes to this project will be documented in this file.</p>
 <p>The format is based on <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a>,
 and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semantic Versioning</a>.</p>
-<h2 id="140---2022-01-12"><a class="header" href="#140---2022-01-12">[1.4.0] - 2022-01-12</a></h2>
+<h2 id="141---2022-05-12"><a class="header" href="#141---2022-05-12">[1.4.1] - 2022-05-12</a></h2>
 <h3 id="added"><a class="header" href="#added">Added</a></h3>
+<ul>
+<li>[ABM] ICmsDataService.</li>
+<li>[ABM] ICrmDataService.</li>
+<li>[ABM] ISocialDataService.</li>
+<li>[ABM] IMarketplaceDataService.</li>
+<li>[ABM] ISecurityDataService.</li>
+<li>[ABM] IGlobalDataService.</li>
+<li>[ABM] IForexDataService.</li>
+<li>[ABS] CodeEditorComponent with Monaco Editor.</li>
+</ul>
+<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<ul>
+<li>[ABS] Fixed Workflows Studio Designer not displaying on production.</li>
+<li>[ABM] Improve IPricingService implementations to always use the latest data to perform generic/historical/extensible/customizable multi-currency amount calculations.</li>
+</ul>
+<h3 id="changed"><a class="header" href="#changed">Changed</a></h3>
+<ul>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] Templating Engine now relies on interface services on the Alliance Business Model.</li>
+<li>[ABS] Templating Engine now relies on default service implementations on the Alliance Business Model.</li>
+<li>[ABS] PortalContext is now optimized to use DataServices.</li>
+<li>[ABS] StudioContext is now more efficient through PortalContext Optimization.</li>
+<li>[ABS] <code>Studio.Core</code> now contains the layout, components, and utilities for the ABS Studio.</li>
+<li>[ABS] Academy Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Admin Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Wallet Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Holders Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Tenants Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Social Network is now an independent dll compatible with <code>Studio.Core.</code></li>
+<li>[ABS] Support Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+<li>[ABS] Developer Portal is now an independent dll compatible with <code>Studio.Core</code>.</li>
+</ul>
+<h3 id="removed"><a class="header" href="#removed">Removed</a></h3>
+<ul>
+<li>[ABM] I </li>
+</ul>
+<h2 id="140---2022-01-12"><a class="header" href="#140---2022-01-12">[1.4.0] - 2022-01-12</a></h2>
+<h3 id="added-1"><a class="header" href="#added-1">Added</a></h3>
 <ul>
 <li>[ACL] .NET 6.0 Support.</li>
 <li>[ABS] In-Studio Cart.</li>
@@ -5194,7 +5264,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] IPaymentsService Interface and default implementation (BankTransferPaymentsService Class)</li>
 <li>[ABM] IStorageService Interface &amp; implementation (FileSystemStorageService, AzureStorageStorageService &amp; AwsS3StorageService Classes)</li>
 </ul>
-<h3 id="changed"><a class="header" href="#changed">Changed</a></h3>
+<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version</li>
 <li>[ABM] Improved Queries</li>
@@ -5202,11 +5272,11 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] Improved Memory Allocation</li>
 <li>[ABS] Studio Dashboard Icons.</li>
 </ul>
-<h3 id="removed"><a class="header" href="#removed">Removed</a></h3>
+<h3 id="removed-1"><a class="header" href="#removed-1">Removed</a></h3>
 <ul>
 <li>[ACL] Remove deprecated dependencies</li>
 </ul>
-<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
 <ul>
 <li>[ABS] Portal &amp; Tenant Selector.</li>
 <li>[ICX] Duplicated Recently Viewed Product Records.</li>
@@ -5217,32 +5287,32 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Fix Network Dashboard Deadlock on IP Verification.</li>
 </ul>
 <h2 id="130---2021-07-12"><a class="header" href="#130---2021-07-12">[1.3.0] - 2021-07-12</a></h2>
-<h3 id="added-1"><a class="header" href="#added-1">Added</a></h3>
+<h3 id="added-2"><a class="header" href="#added-2">Added</a></h3>
 <ul>
 <li>[ABM] Oracle Database Provider.</li>
 <li>[ABM] IOptionsService Interface and default implementation (OptionsService)</li>
 </ul>
-<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
+<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version.</li>
 </ul>
-<h3 id="removed-1"><a class="header" href="#removed-1">Removed</a></h3>
+<h3 id="removed-2"><a class="header" href="#removed-2">Removed</a></h3>
 <ul>
 <li>[ACL] Remove deprecated dependencies.</li>
 </ul>
-<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
+<h3 id="fixed-2"><a class="header" href="#fixed-2">Fixed</a></h3>
 <ul>
 <li>[ABS] Fix Workflows Data Provider (LiteSQL)</li>
 <li>[ABM] Entities Disambiguation</li>
 </ul>
 <h2 id="121---2021-07-13"><a class="header" href="#121---2021-07-13">[1.2.1] - 2021-07-13</a></h2>
-<h3 id="added-2"><a class="header" href="#added-2">Added</a></h3>
+<h3 id="added-3"><a class="header" href="#added-3">Added</a></h3>
 <ul>
 <li>[ABS] View Rendering Cache</li>
 <li>[ABS] AppDomain Assembly Scoping</li>
 </ul>
 <h2 id="12---2021-07-12"><a class="header" href="#12---2021-07-12">[1.2] - 2021-07-12</a></h2>
-<h3 id="added-3"><a class="header" href="#added-3">Added</a></h3>
+<h3 id="added-4"><a class="header" href="#added-4">Added</a></h3>
 <ul>
 <li>[ABS] Razor Templating Engine</li>
 <li>[ABS] Custom Options Manager (API)</li>
@@ -5252,17 +5322,17 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Custom Service Endpoint Definitions</li>
 </ul>
 <h2 id="119---2021-06-30"><a class="header" href="#119---2021-06-30">[1.1.9] - 2021-06-30</a></h2>
-<h3 id="added-4"><a class="header" href="#added-4">Added</a></h3>
+<h3 id="added-5"><a class="header" href="#added-5">Added</a></h3>
 <ul>
 <li>[ABS] Theme Precompilation</li>
 </ul>
 <h2 id="118---2021-06-18"><a class="header" href="#118---2021-06-18">[1.1.8] - 2021-06-18</a></h2>
-<h3 id="added-5"><a class="header" href="#added-5">Added</a></h3>
+<h3 id="added-6"><a class="header" href="#added-6">Added</a></h3>
 <ul>
 <li>[ABS] Workflows Capability</li>
 </ul>
 <h2 id="117---2021-06-06"><a class="header" href="#117---2021-06-06">[1.1.7] - 2021-06-06</a></h2>
-<h3 id="added-6"><a class="header" href="#added-6">Added</a></h3>
+<h3 id="added-7"><a class="header" href="#added-7">Added</a></h3>
 <ul>
 <li>[ABS] Log Viewer</li>
 <li>[ABS] Template Views</li>
@@ -5285,7 +5355,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Adds IViewBuffer, Resx, and Model Resolver to Templating Engine</li>
 <li>[ABS] Adds Localization String Manager. Initial Localization Capabilities.</li>
 </ul>
-<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
+<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
 <ul>
 <li>[ABS] Fix HTTP context access on IIS making the installation process fail.</li>
 <li>[ABS] Fix HTTP context access on IIS when trying to create a new view.</li>
@@ -5302,7 +5372,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Fix page tree navigation on the live editor.</li>
 </ul>
 <h2 id="116---2021-04-21"><a class="header" href="#116---2021-04-21">[1.1.6] - 2021-04-21</a></h2>
-<h3 id="added-7"><a class="header" href="#added-7">Added</a></h3>
+<h3 id="added-8"><a class="header" href="#added-8">Added</a></h3>
 <ul>
 <li>[ABS] View Precompilation</li>
 <li>[ABS] Internal Plugin Support+</li>
@@ -5317,7 +5387,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] Store Configuration Objects.</li>
 <li>[APS] External Authentication Provider configuration pages.</li>
 </ul>
-<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
+<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error while previewing files on File System Explorer.</li>
 <li>[ICX] Fix error where new users got a 500 when visiting the store.</li>
@@ -5328,12 +5398,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[APS] Fix Auth Error: when users do not belong to any tenant, they used to get an E500 on nested File Retrieval.</li>
 <li>[ABM] Model Modification to support DB-stored precompiled views.</li>
 </ul>
-<h3 id="removed-2"><a class="header" href="#removed-2">Removed</a></h3>
+<h3 id="removed-3"><a class="header" href="#removed-3">Removed</a></h3>
 <ul>
 <li>[ICX] Taxonomies Creation Controllers/Views.</li>
 </ul>
 <h2 id="114x---2021-04-13"><a class="header" href="#114x---2021-04-13">[1.1.4.x] - 2021-04-13</a></h2>
-<h3 id="added-8"><a class="header" href="#added-8">Added</a></h3>
+<h3 id="added-9"><a class="header" href="#added-9">Added</a></h3>
 <ul>
 <li>[ABS] Extension Updates Page</li>
 <li>[ABS] Razor Templating Engine</li>
@@ -5361,7 +5431,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[UI] Footer/Header Dynamic styling</li>
 </ul>
 <h2 id="113x---2021-04-09"><a class="header" href="#113x---2021-04-09">[1.1.3.x] - 2021-04-09</a></h2>
-<h3 id="added-9"><a class="header" href="#added-9">Added</a></h3>
+<h3 id="added-10"><a class="header" href="#added-10">Added</a></h3>
 <ul>
 <li>[ACL] Radzen.Blazor is now a project dependency. </li>
 <li>[ACL] RabbitMQ.Client is now a project dependency. </li>
@@ -5387,12 +5457,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] ZXing.Net is now a project dependency. </li>
 <li>[ACL] Z.EntityFramework.Plus.EFCore is now a project dependency. </li>
 </ul>
-<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
+<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error where plugin assembly paths always returned null (IPluginManager Implementation)</li>
 </ul>
 <h2 id="112x---2021-02-23"><a class="header" href="#112x---2021-02-23">[1.1.2.x] - 2021-02-23</a></h2>
-<h3 id="added-10"><a class="header" href="#added-10">Added</a></h3>
+<h3 id="added-11"><a class="header" href="#added-11">Added</a></h3>
 <ul>
 <li>Adds ABP Proxy</li>
 <li>Missing ACL configuration Types</li>
@@ -5411,7 +5481,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Added support for IdentityServer4 as a replacement for Alliance Passport Services.</li>
 <li>ACL.Licensing is now a part of the Alliance Business Suite.</li>
 </ul>
-<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
+<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
 <ul>
 <li>Extracts interface for ACL configuration Types</li>
 <li>ACS is now ABP.BotEngine</li>
@@ -5422,38 +5492,38 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Fix minor UI glitches and broken links.</li>
 <li>Fix several bugs on application startup and related extensions.</li>
 </ul>
-<h3 id="removed-3"><a class="header" href="#removed-3">Removed</a></h3>
+<h3 id="removed-4"><a class="header" href="#removed-4">Removed</a></h3>
 <ul>
 <li>Data Helpers marked for deprecation.</li>
 <li>ABS.Nucleus was deprecated and is no longer a part of this project.</li>
 </ul>
 <h2 id="111x---2021-01-20"><a class="header" href="#111x---2021-01-20">[1.1.1.x] - 2021-01-20</a></h2>
-<h3 id="added-11"><a class="header" href="#added-11">Added</a></h3>
+<h3 id="added-12"><a class="header" href="#added-12">Added</a></h3>
 <ul>
 <li>Adds ABP Proxy</li>
 <li>Adds Infinity Comex Support</li>
 <li>Missing ACL configuration Types</li>
 </ul>
-<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
+<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
 <ul>
 <li>Fix Namespaces</li>
 <li>ABS.Portal.Paperbits is now ABS.Portal.Editor</li>
 <li>Adds ABS.Portal.UI Components (20+ View Components)</li>
 </ul>
-<h3 id="removed-4"><a class="header" href="#removed-4">Removed</a></h3>
+<h3 id="removed-5"><a class="header" href="#removed-5">Removed</a></h3>
 <h2 id="110x---2021-01-12"><a class="header" href="#110x---2021-01-12">[1.1.0.x] - 2021-01-12</a></h2>
-<h3 id="added-12"><a class="header" href="#added-12">Added</a></h3>
+<h3 id="added-13"><a class="header" href="#added-13">Added</a></h3>
 <ul>
 <li>Nuget Packages @1.1.0</li>
 <li>Initial Portal Admin Blazor Application at route /admin.</li>
 </ul>
-<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
+<h3 id="changed-8"><a class="header" href="#changed-8">Changed</a></h3>
 <ul>
 <li>Standardize namespace at v1.1.0</li>
 </ul>
-<h3 id="removed-5"><a class="header" href="#removed-5">Removed</a></h3>
+<h3 id="removed-6"><a class="header" href="#removed-6">Removed</a></h3>
 <h2 id="100x---2020-12-31"><a class="header" href="#100x---2020-12-31">[1.0.0.x] - 2020-12-31</a></h2>
-<h3 id="added-13"><a class="header" href="#added-13">Added</a></h3>
+<h3 id="added-14"><a class="header" href="#added-14">Added</a></h3>
 <ul>
 <li>Authentication / User Management / Profile Management</li>
 <li>Authorization / Roles Management / Granular Permissions</li>
@@ -5469,7 +5539,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Extensibility via Custom Modules</li>
 <li>Extensibility via Custom Themes</li>
 <li>Folder / File Management (Azure Storage, File System)</li>
-<li>GraphQl API with Voyager, GraphiQl y GraphQl Playground</li>
+<li>graphql API with Voyager, GraphiQl y GraphQl Playground</li>
 <li>Headless API with Swagger Support</li>
 <li>HealthCheck Rules with UI Support</li>
 <li>i18n Enabled (Based on GeoAPI and Custom Settings)</li>

@@ -159,28 +159,49 @@
   </a>
 </p>
 <h1 id="welcome-to-the-alliance-business-suite-documentation"><a class="header" href="#welcome-to-the-alliance-business-suite-documentation">Welcome to the Alliance Business Suite Documentation!</a></h1>
-<p>The Alliance Business Suite is a set of intelligent, extensible, multi-tenant applications built to enable users to jumpstart their business through the acceleration of several core aspects of any given business.</p>
-<p>The Alliance Business Suite gives users a Modular, Full-Stack, Low-Code Application Framework built on top of the <a href="https://absuite.net">Alliance Business Platform</a>. </p>
-<p>Both client and server code are written in C#, allowing users to extend the product with their own code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through .NET, an open-source and cross-platform framework for building web-mobile apps using C#, with or without the use of JavaScript.</p>
-<p>The power of the Alliance Business Suite can be leveraged from small personal blogs,  eCommerce platforms, and professional portfolios to the infrastructure of large corporations.</p>
-<h2 id="about-the-alliance-creed"><a class="header" href="#about-the-alliance-creed">About the Alliance Creed</a></h2>
-<p>We're designed to succeed when you and your business succeed; that's why we're committed to helping as many people as possible to harness their entire potential. By building on top of word-class technologies, we're designing this solution to jumpstart your business without having to worry about any of the complexity and technical aspects. We simply want to help you make your life easier while increasing your odds for success through the right tools and support on the path to digitalization.</p>
-<p>The fact is, since our inception, we've steered towards creating a culture designed to reach beyond expectations together by building an organization whose success strategy is to help others to succeed.</p>
-<h3 id="well-then-what-do-i-get"><a class="header" href="#well-then-what-do-i-get">Well then. What do I get?</a></h3>
-<p>We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to manage their services, products, and cloud resources. But the truth is that isn't limited to just that.</p>
-<p>Our applications are being developed to give you access to every functionality that we implement for our business, to power your business and vision as well. This is because if we can add value to our business and gain a competitive advantage through these tools, chances are you can too!</p>
-<p>So far, we've created a few extensions and connectors for the Alliance Business Suite, but you can extend it too! Some of these extensions are open source, so feel free to check their code for extension reference.</p>
-<p>Connectors are always free and you can find them on your ABS Extensions page, and some of our extensions have free tiers. You will get the Alliance Business Suite Community Edition, for free, with the following Modules:</p>
+<p>Aiming to help organizations reach beyond expectations, the Alliance Business Suite is being designed to augment businesses across industries all over the world through a low-code, and fully customizable business development platform.</p>
+<p>At a very high level, the Alliance Business Suite is a set of powerful, extensible, multi-tenant applications built to enable businesses to jumpstart their digitalization process through powerful business applications built to cover the core processes of any given business.</p>
+<p>The Alliance Business Suite provides customers with a Full-Stack, Low-Code, Modular, and Multi-Tenant Business Application Framework built on top of the <a href="https://absuite.net/Suite/Platform">Alliance Business Platform</a>. </p>
+<p>The Alliance Business Suite relies on <a href="/Components.html">five major components</a> designed to separate different functionalities into layers; these components are:</p>
 <ul>
-<li>ABS Contact Sight. (CRM)</li>
-<li>ABS Media Portals. (CMS)</li>
-<li>ABS Accounting. (AMS)</li>
-<li>ABS Learning. (LMS)</li>
-<li>ABS Social Networks. (Intranet Social Network)</li>
-<li>ABS IAM (Identity and Access Management)</li>
-<li>Infinity Comex (eCommerce Engine)</li>
+<li>
+<h2 id="a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a class="header" href="#a-hrefcomponentsalliance-core-librarieshtmlalliance-core-librariesa"><a href="/Components/Alliance-Core-Libraries.html">Alliance Core Libraries</a></a></h2>
+</li>
 </ul>
-<p>To learn more about our privacy policy, please visit: https://fenixalliance.com.co/legal/policies/privacypolicy </p>
+<p>The Alliance Core Libraries contain the core abstractions and default implementations required by the Alliance Business Model and dependent components. It is also the external dependency source for the entire Alliance Business Suite, which means that external dependencies, which are dependencies outside the <code>FenixAlliance.*</code> namespace, are referenced by the <code>FenixAlliance.ACL.Deps</code> Package, which is the base ACL Package and, therefore, it could be referred to as the Core Package.</p>
+<p>For more information on the dependency tree, design overview, and external dependencies, please refer to <a href="/Advanced.html">Advanced Topics</a>.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a class="header" href="#a-hrefcomponentsalliance-business-modelhtmlalliance-business-modela"><a href="/Components/Alliance-Business-Model.html">Alliance Business Model</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Model is a declarative specification and definition of standard entities that represent commonly used concepts and activities across business and productivity applications and is being extended to observational and analytical data as well. ABM provides well-defined, modular, and extensible business entities such as Accounts, Business Units, cases, Contact, Leads, Opportunity, and Items (Products/Services) and interactions with vendors, workers, and customers, such as activities and service level agreements. that serve as the dynamic data layer for the entire Alliance Business Suite.</p>
+<p>Anyone can build on and extend ABM definitions to capture additional business-specific scenarios.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a class="header" href="#a-hrefcomponentsalliance-passport-servicehtmlalliance-passport-servicea"><a href="/Components/Alliance-Passport-Service.html">Alliance Passport Service</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Passport Service enables developers and non-developers alike 
+The Alliance Passport Service is an Authentication/Authorization Engine designed to enable customers to easily configure and manage business identity scenarios by assigning (or connecting) a digital identity to their contacts, whether they are customers, employees, partners, guests, and more. </p>
+<p>It also provides common features for managing authentication, authorization, data protection, HTTPS enforcement, app secrets, XSRF/CSRF prevention, and CORS management. These security features allow you to build robust, yet secure Alliance Business Suite apps.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a class="header" href="#a-hrefcomponentsalliance-business-platformhtmlalliance-business-platforma"><a href="Components/Alliance-Business-Platform.html">Alliance Business Platform</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Platform is a Modular API Framework. It leverages .NET 5.0 with the best of REST, SignalR, GraphQl y gRPCto transact with the Alliance Business Model Schema (AMB). The Alliance Business Platform is an open-source and cross-platform framework for integrating next-generation functionalities into your applications. It allows you to build spectacular single-page apps using .NET and C# with or without JavaScript. ABP apps can connect and transact to the data layer (The Alliance Business Modal Schema) using any language through standard requests through the various GrPC, HTTP, and GraphQL Endpoints. </p>
+<p>You can easily build on, and extend The Alliance Business Platform through ASP.NET + Angular / React (And pretty much any Web Stack Framework), to capture additional business-specific scenarios.</p>
+<ul>
+<li>
+<h2 id="a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a class="header" href="#a-hrefcomponentsalliance-business-studiohtmlalliance-business-studioa"><a href="/Components/Alliance-Business-Studio.html">Alliance Business Studio</a></a></h2>
+</li>
+</ul>
+<p>The Alliance Business Studio is the Graphical Administration Engine for the Alliance Business Suite. It allows users to manage their implementations, transact data through the Alliance Business Platform, generate and consume views, and reports, customize and extend the system, and much more.</p>
+<p>You can build on top of, and extend The Alliance Business Studio to capture additional business-specific scenarios.</p>
+<h2 id="how-to-build-applications-on-top-of-the-alliance-business-suite"><a class="header" href="#how-to-build-applications-on-top-of-the-alliance-business-suite">How to build applications on top of the Alliance Business Suite?</a></h2>
+<p>Client and server code are written in C#, allowing users to extend the product with their code through Module libraries. It builds upon next-generation technologies such as Blazor, SignalR, Razor Pages, and MVC through .NET, an open-source and cross-platform framework for building web-mobile apps using C#, with or without the use of JavaScript.</p>
+<p>The power of the Alliance Business Suite can be leveraged from small personal blogs, eCommerce platforms, and professional portfolios to the infrastructure of large corporations.</p>
 <h3 id="user-guide"><a class="header" href="#user-guide">User Guide</a></h3>
 <ul>
 <li><a href="https://docs.absuite.net">Documentation</a></li>
@@ -189,7 +210,7 @@
 <h1 id="getting-started"><a class="header" href="#getting-started">Getting Started</a></h1>
 <ul>
 <li>
-<p>Install <strong><a href="https://dotnet.microsoft.com/download/dotnet/6.0">.NET 6 SDK (v6.0.100)</a></strong>.</p>
+<p>Install <strong><a href="https://dotnet.microsoft.com/download/dotnet/6.0">.NET 6 SDK (v6.0.*)</a></strong>.</p>
 </li>
 <li>
 <p>Install the latest edition (v16.8 or higher) of <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2019</a> (Community, Professional, or Enterprise Editions) with the <strong>ASP.NET and web development</strong> workload enabled. Alliance Business Suite works with ALL editions of Visual Studio from Community to Enterprise. If you do not have a SQL Server installation available already and you wish to use LocalDB for development, you must also install the <strong>.NET desktop development workload</strong>.</p>
@@ -221,23 +242,38 @@
 <hr />
 <h3 id="easy-install"><a class="header" href="#easy-install">Easy Install</a></h3>
 <p>The Easy Way: As a Docker Container.</p>
-<pre><code class="language-powershell">docker pull FenixAlliance.ABS:latest
+<pre><code class="language-PowerShell">docker pull FenixAlliance.ABS:latest
 </code></pre>
 <h3 id="conventional-install"><a class="header" href="#conventional-install">Conventional Install</a></h3>
-<pre><code class="language-powershell">git clone https://github.com/FenixAlliance/ABS.Bin
+<pre><code class="language-PowerShell">git clone https://github.com/FenixAlliance/ABS.Bin
 </code></pre>
-<pre><code class="language-powershell">cd ABS.Bin
+<pre><code class="language-PowerShell">cd ABS.Bin
 </code></pre>
 <pre><code class="language-sh">./FenixAlliance.ABS.Studio.exe
 </code></pre>
 <p>or</p>
 <pre><code class="language-sh">dotnet FenixAlliance.ABS.Studio.dll
 </code></pre>
-<h3 id="as-application-dependency"><a class="header" href="#as-application-dependency">As application dependency</a></h3>
-<p>Add the NuGet package</p>
+<h3 id="installing-as-an-application-dependency"><a class="header" href="#installing-as-an-application-dependency">Installing as an application dependency</a></h3>
+<ul>
+<li>
+<h4 id="add-the-alliance-business-suite-nuget-feed"><a class="header" href="#add-the-alliance-business-suite-nuget-feed">Add the Alliance Business Suite Nuget Feed.</a></h4>
+</li>
+</ul>
+<pre><code class="language-PowerShell">dotnet nuget add source https://nuget.absuite.net/nuget -n absuite.net
+</code></pre>
+<ul>
+<li>
+<h4 id="add-the-nuget-package"><a class="header" href="#add-the-nuget-package">Add the NuGet package</a></h4>
+</li>
+</ul>
 <pre><code class="language-sh">dotnet add package FenixAlliance.ABS.Hub --version latest
 </code></pre>
-<h2 id="register-services-and-configuration"><a class="header" href="#register-services-and-configuration">Register Services and Configuration</a></h2>
+<ul>
+<li>
+<h4 id="register-services-and-configuration"><a class="header" href="#register-services-and-configuration">Register Services and Configuration</a></h4>
+</li>
+</ul>
 <pre><code class="language-cs">using FenixAlliance.ABS.Hub.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting.Server.Features;
@@ -280,7 +316,7 @@ namespace FenixAlliance.ABS
 <h2 id="abs-studio-dashboard"><a class="header" href="#abs-studio-dashboard">ABS Studio Dashboard:</a></h2>
 <p><img src="/.attachments/image-8bae0adf-518b-4e17-adfe-05bdc9f31fc1.png" alt="image.png" /></p>
 <h2 id="abs-extensions"><a class="header" href="#abs-extensions">ABS Extensions:</a></h2>
-<p>The ABS is absolutely modular. Whether you need to add pages, products, or posts with no code at all (using the ABS Web Designer), modify the style or layout, or add your own Types, Controllers, Pages, Views, Components, or Tag Helpers</p>
+<p>The ABS is modular. Whether you need to add pages, products, or posts with no code at all (using the ABS Web Designer), modify the style or layout, or add your Types, Controllers, Pages, Views, Components, or Tag Helpers</p>
 <p><img src="https://github.com/fenixalliance/abs.docs/blob/master/.attachments/YLVYb8WhDf.gif?raw=true" alt="ABS Extensions" title="ABS Extensions" /></p>
 <h2 id="abs-commander-terminal"><a class="header" href="#abs-commander-terminal">ABS Commander Terminal:</a></h2>
 <p>The ABS Commander Terminal is a Built-In functionality that allows users to execute commands against the ABP set of APIs.</p>
@@ -328,14 +364,10 @@ namespace FenixAlliance.ABS
 </ul>
 <h2 id="licensing-and-contributions"><a class="header" href="#licensing-and-contributions">Licensing and Contributions</a></h2>
 <p>Your access to and use of the Alliance Business Suite's source code is governed by the Fenix Alliance's <a href="http://absuite.net/eula">End User License Agreement &quot;EULA&quot;</a>. If you don't agree to those terms, as amended from time to time, you are not permitted to access or use the Alliance Business Suite.</p>
-<p>We welcome any contributions to the Alliance Business Suite development through pull requests on GitHub. Most of our active development is in the develop branch, so we prefer to take pull requests there (particularly for new features). We try to make sure that all new code adheres to the Fenix Alliance coding standards. All contributions are governed by the terms of the EULA.</p>
-<p><strong>A note about your account and the privacy of your information.</strong></p>
-<p>The Alliance Passport Services engine is built on top of a highly compliant service to keep your identity private. This engine supports Facebook, Microsoft Accounts, Google+, LinkedIn, and many other identity providers, but you can also integrate your own.</p>
-<p>We think that it's also worth pointing out that we DO NOT store any identity information into our databases; instead, that data is always encrypted and sent to the same systems that governments and enterprises worldwide are using to keep your data safe, and then we access that data by using industry-standard protocols so that you can rest assured that your sensitive information is protected through various security controls in addition to multi-factor authentication.</p>
-<p>To learn more about our privacy policy, please visit: https://fenixalliance.com.co/legal/policies/privacypolicy </p>
+<p>We welcome any contributions to the Alliance Business Suite development through pull requests on GitHub. Most of our active development is in the development branch, so we prefer to take pull requests there (particularly for new features). We try to make sure that all new code adheres to the Fenix Alliance coding standards. All contributions are governed by the terms of the EULA.</p>
 <h1 id="legal-notices"><a class="header" href="#legal-notices">Legal Notices</a></h1>
-<p>Fenix Alliance and any contributors grant you a license to the documentation and other content in this repository under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International Public License</a> and grant you a license to any code in the repository under the <a href="http://absuite.net/eula">ABS EULA</a>.</p>
-<p>Fenix Alliance, Alliance Business Suite, Infinity Comex, and/or other Fenix Alliance's products and services referenced in the documentation may be trademarks or registered trademarks of Fenix Alliance Inc. in the United States/or other countries. The licenses for this project do not grant you rights to use any of Fenix Alliance's names, logos, or trademarks. Fenix Alliance's general trademark guidelines can be found at http://docs.fenix-alliance.com.</p>
+<p>Fenix Alliance and any contributors grant you a license to the documentation and other content in this repository under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International Public License</a> and grant you a license to any code or binary form Fenix Alliance through the <a href="http://absuite.net/eula">ABS EULA</a>.</p>
+<p>Fenix Alliance, Alliance Business Suite, Infinity Comex, and/or other Fenix Alliance products and services referenced in the documentation may be trademarks or registered trademarks of Fenix Alliance Inc. in the United States/or other countries. The licenses for this project do not grant you rights to use any of Fenix Alliance's names, logos, or trademarks. Fenix Alliance's general trademark guidelines can be found at http://docs.fenix-alliance.com.</p>
 <p>Privacy information can be found at https://fenix-alliance.com/legal/policies/privacypolicy</p>
 <p>Fenix Alliance and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel, or otherwise.</p>
 <p><a href="https://www.producthunt.com/posts/alliance-business-suite?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-alliance-business-suite" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=300812&theme=dark" alt="Alliance Business Suite - Low-Code Next-Generation Business Development Platform. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p>
