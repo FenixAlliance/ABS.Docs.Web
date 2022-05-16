@@ -271,7 +271,7 @@ The Alliance Passport Service is an Authentication/Authorization Engine designed
 </code></pre>
 <ul>
 <li>
-<h4 id="register-services-and-configuration"><a class="header" href="#register-services-and-configuration">Register Services and Configuration</a></h4>
+<h4 id="register-services-and-configuration-on-net-50"><a class="header" href="#register-services-and-configuration-on-net-50">Register Services and Configuration on .NET 5.0</a></h4>
 </li>
 </ul>
 <pre><code class="language-cs">using FenixAlliance.ABS.Hub.Extensions;
@@ -309,6 +309,23 @@ namespace FenixAlliance.ABS
         }
     }
 }
+</code></pre>
+<ul>
+<li>
+<h4 id="register-services-and-configuration-on-net-60"><a class="header" href="#register-services-and-configuration-on-net-60">Register Services and Configuration on .NET 6.0</a></h4>
+</li>
+</ul>
+<pre><code class="language-cs">using FenixAlliance.ABS.Hub.Extensions;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddAllianceBusinessSuite(builder.Configuration, builder.Environment);
+
+var app = builder.Build();
+
+app.UseAllianceBusinessSuite(builder.Configuration, builder.Environment);
+
+app.Run();
 </code></pre>
 <h1 id="release-announcements"><a class="header" href="#release-announcements">Release Announcements</a></h1>
 <p><a href="https://absuite.net/Blog/Posts/abs_v1.2">Alliance Business Suite v1.2</a></p>
