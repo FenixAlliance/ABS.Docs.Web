@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_tax_total_tax_subtotal =
+[
+    [ "TaxableAmount", "d7/d88/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_tax_total_tax_subtotal.html#a6e80ad2a6bbfd9d2558fac2e3d48cc73", null ],
+    [ "TaxAmount", "d7/d88/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_tax_total_tax_subtotal.html#a0584166080c056fffe44d6025ab1b1cf", null ],
+    [ "TaxCategory", "d7/d88/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_tax_total_tax_subtotal.html#af99cf3bb96f78476f52ba126dcc49186", null ]
+];

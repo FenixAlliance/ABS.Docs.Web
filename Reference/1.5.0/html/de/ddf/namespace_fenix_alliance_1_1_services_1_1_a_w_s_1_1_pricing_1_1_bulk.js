@@ -1,0 +1,15 @@
+var namespace_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk =
+[
+    [ "AWSPricingBulkAPIClient", "d3/d94/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_pricing_bulk_a_p_i_client.html", null ],
+    [ "AwsPricingOfferFileResponse", "d9/d30/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_file_response.html", "d9/d30/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_file_response" ],
+    [ "AWSProduct", "da/d00/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product.html", "da/d00/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product" ],
+    [ "AWSProductAttributes", "d1/d0f/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product_attributes.html", "d1/d0f/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product_attributes" ],
+    [ "AWSProductOffer", "da/d2c/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product_offer.html", "da/d2c/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_product_offer" ],
+    [ "PriceDimension", "de/d80/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_price_dimension.html", "de/d80/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_price_dimension" ],
+    [ "AwsPricingOfferIndexResponse", "dc/d76/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_index_response.html", "dc/d76/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_index_response" ],
+    [ "AWSOffer", "d2/de5/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_offer.html", "d2/de5/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_a_w_s_offer" ],
+    [ "AwsPricingOfferRegionIndexResponse", "d2/dd4/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_region_index_response.html", "d2/dd4/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_region_index_response" ],
+    [ "Regions", "dc/d2a/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_regions.html", "dc/d2a/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_regions" ],
+    [ "AwsPricingOfferVersionIndexResponse", "d9/db3/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_version_index_response.html", "d9/db3/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_aws_pricing_offer_version_index_response" ],
+    [ "Version", "dc/d06/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_version.html", "dc/d06/class_fenix_alliance_1_1_services_1_1_a_w_s_1_1_pricing_1_1_bulk_1_1_version" ]
+];

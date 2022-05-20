@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta =
+[
+    [ "EnvioFacturaElectronicaRespuesta", "d4/de0/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta.html#a0db20cbe83c6b30349bcce6cbde499ad", null ],
+    [ "EnvioFacturaElectronicaRespuesta", "d4/de0/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta.html#a6537f05c96c79257857ca0f8263f468c", null ],
+    [ "EnvioFacturaElectronicaRespuesta1", "d4/de0/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta.html#ae3c5b77e08cf263f879caa31129b621d", null ]
+];

@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method =
+[
+    [ "AddsTheCredentialToTheDataStore", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method.html#a900e34e53396353ce1891611230b22f8", null ],
+    [ "GivenAnOrganization_ThrowsInvalidOperationException", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method.html#acb54509410c117a43f60bb3b4fea39e0", null ],
+    [ "WritesAuditRecordForTheNewCredential", "d6/dd7/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_add_credential_method.html#a4a021c1bcdfa0066373e3246ff6b4078", null ]
+];

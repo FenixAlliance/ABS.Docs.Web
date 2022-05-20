@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method =
+[
+    [ "WillCallCreatePackageAsyncCorrectly", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method.html#aadb89b2cd194c04d69426854261c254f", null ],
+    [ "WillMarkPackageRegistrationNotVerifiedIfIdMatchesNonOwnedSharedNamespace", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method.html#ab6bac070cf6f5ad0650b642ceaa4ae01", null ],
+    [ "WillMarkPackageRegistrationVerifiedFlagCorrectly", "dd/d7b/class_nu_get_gallery_1_1_package_upload_service_facts_1_1_the_generate_package_async_method.html#a21a84508359a3e767483169824d54f25", null ]
+];

@@ -1,0 +1,13 @@
+var class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method =
+[
+    [ "TheRevokeMethod", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a9462df43d93ae7ef5be11d62e5e652e7", null ],
+    [ "GivenNullRequest_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#ad19a70cfeea47d7f162345875d5f6793", null ],
+    [ "GivenRequestWithEmptySelectedApiKeys_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#ae6a643d69d081dcf930a2c26ff7d5d74", null ],
+    [ "GivenRequestWithNullSelectedApiKeys_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a5faa24bb9ea725007160c1f8fa833d4b", null ],
+    [ "GivenValidRequest_ItRevokesApiKey", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a98de4f674927a8587532d163caf1cb35", null ],
+    [ "GivenValidRequestWithMultipleApiKeys_ItRevokesMultipleApiKeys", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a24ddbe53ef5bf63e97f60d16aabdec87", null ],
+    [ "GivenValidRequestWithMultipleApiKeys_ThrowExceptionsFromRevokeCredential_ItReturnsErrorMessageWithMultipleApiKeys", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#aa6db031598e22b6ef52b6c0f537432f9", null ],
+    [ "ThrowExceptionsFromEntitiesContextSaveChanges_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a129262ecd3755d35c0f65d2f34862ac2", null ],
+    [ "ThrowExceptionsFromGetApiKeyCredential_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#a770c2018d0aa551869ead58e5ef8fe5b", null ],
+    [ "ThrowExceptionsFromRevokeApiKeyCredential_ItReturnsErrorMessage", "db/dfd/class_nu_get_gallery_1_1_areas_1_1_admin_1_1_controllers_1_1_api_keys_controller_facts_1_1_the_revoke_method.html#ad39fcb623de911ebb1a1e7805c300818", null ]
+];

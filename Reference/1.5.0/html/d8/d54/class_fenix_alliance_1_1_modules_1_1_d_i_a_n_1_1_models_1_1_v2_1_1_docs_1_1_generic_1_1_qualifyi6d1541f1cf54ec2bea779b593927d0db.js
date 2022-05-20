@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi6d1541f1cf54ec2bea779b593927d0db =
+[
+    [ "X509IssuerName", "d8/d54/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi6d1541f1cf54ec2bea779b593927d0db.html#a1f39b5ab5cdbfb04c44634ce6c5487ed", null ],
+    [ "X509SerialNumber", "d8/d54/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi6d1541f1cf54ec2bea779b593927d0db.html#a9fdf37e8149a220f4b6bf4a8ccdea604", null ]
+];

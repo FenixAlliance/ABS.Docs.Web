@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method =
+[
+    [ "FormatsUsingExpectedUnitWithInt", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html#a573c389d58ae32f61ee81d63419b7fa1", null ],
+    [ "FormatsUsingExpectedUnitWithLong", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html#a63c08fa26e89c08ae701ccfdec3e3985", null ],
+    [ "ThrowsArgumentOutOfRangeExceptionForNegativeParameterValue", "d8/dc3/class_nu_get_gallery_1_1_extensions_1_1_number_extensions_facts_1_1_the_to_user_friendly_bytes_label_method.html#ae7a26546ac7473e00c1f21daac7afb31", null ]
+];

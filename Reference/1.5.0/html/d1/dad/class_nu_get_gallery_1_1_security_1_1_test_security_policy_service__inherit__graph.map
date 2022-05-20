@@ -1,0 +1,5 @@
+<map id="NuGetGallery.Security.TestSecurityPolicyService" name="NuGetGallery.Security.TestSecurityPolicyService">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,188,196"/>
+<area shape="rect" id="node2" href="$d6/d1f/class_nu_get_gallery_1_1_security_1_1_security_policy_service.html" title="Service that looks up and evaluates security policies for attributed controller actions." alt="" coords="21,80,172,107"/>
+<area shape="rect" id="node3" href="$dc/d94/interface_nu_get_gallery_1_1_security_1_1_i_security_policy_service.html" title="Service for managing security policies." alt="" coords="19,5,174,32"/>
+</map>

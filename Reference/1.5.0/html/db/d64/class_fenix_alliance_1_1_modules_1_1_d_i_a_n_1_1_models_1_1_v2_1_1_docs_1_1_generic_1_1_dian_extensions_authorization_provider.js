@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_dian_extensions_authorization_provider =
+[
+    [ "AuthorizationProviderID", "db/d64/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_dian_extensions_authorization_provider.html#a71c97ce23647d80383d4146e58a06da3", null ]
+];

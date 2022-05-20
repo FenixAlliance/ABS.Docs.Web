@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855 =
+[
+    [ "WalletWithdraw", "d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855.html#a54cbd99a6ffe06ee1817e79f24ef6bd8", null ],
+    [ "WalletWithdrawID", "d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855.html#afba1044b7d27658277f7dd2141e8f532", null ]
+];

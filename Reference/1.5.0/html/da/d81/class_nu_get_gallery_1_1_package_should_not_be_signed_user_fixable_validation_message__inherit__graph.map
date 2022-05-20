@@ -1,0 +1,4 @@
+<map id="NuGetGallery.PackageShouldNotBeSignedUserFixableValidationMessage" name="NuGetGallery.PackageShouldNotBeSignedUserFixableValidationMessage">
+<area shape="rect" id="node1" title="Represents an error message to be displayed when user uploads a signed package but theirs account was..." alt="" coords="5,80,229,136"/>
+<area shape="rect" id="node2" href="$df/d38/interface_nu_get_gallery_1_1_i_validation_message.html" title="Represents a validation message that may include a raw HTML message (if we want to present some links..." alt="" coords="49,5,185,32"/>
+</map>

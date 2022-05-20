@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_72324709a6e398c1a088b4bc45594c86 =
+[
+    [ "ReturnsExpectedBody", "dc/de9/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_package_validation_taking_too_72324709a6e398c1a088b4bc45594c86.html#a9c56a5db510ad70d701a25c8dc581548", null ]
+];

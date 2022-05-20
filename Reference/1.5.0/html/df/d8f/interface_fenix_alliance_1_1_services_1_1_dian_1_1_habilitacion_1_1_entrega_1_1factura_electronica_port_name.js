@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_services_1_1_dian_1_1_habilitacion_1_1_entrega_1_1factura_electronica_port_name =
+[
+    [ "EnvioFacturaElectronicaAsync", "df/d8f/interface_fenix_alliance_1_1_services_1_1_dian_1_1_habilitacion_1_1_entrega_1_1factura_electronica_port_name.html#ae08bb2c888c3b1a82bab21e08a75efc2", null ]
+];

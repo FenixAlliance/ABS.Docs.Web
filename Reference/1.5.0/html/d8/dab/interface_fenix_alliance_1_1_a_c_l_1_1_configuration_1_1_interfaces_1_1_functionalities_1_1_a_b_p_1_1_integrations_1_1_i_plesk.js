@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_p_1_1_integrations_1_1_i_plesk =
+[
+    [ "Enable", "d8/dab/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_p_1_1_integrations_1_1_i_plesk.html#aa6e3315e67a71a1242f265e714a903fd", null ],
+    [ "Master", "d8/dab/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_p_1_1_integrations_1_1_i_plesk.html#aedc425d9daac9b3a1515253902ae6aa2", null ]
+];

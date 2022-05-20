@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_dian_extensions_software_provider =
+[
+    [ "ProviderID", "d8/dbc/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_dian_extensions_software_provider.html#ab48c36e290a80edb0bb06547ba774c14", null ],
+    [ "SoftwareID", "d8/dbc/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_dian_extensions_software_provider.html#a624e9a0258e9605bdd5ee6d77f9a1925", null ]
+];

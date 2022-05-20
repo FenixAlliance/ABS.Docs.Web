@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_compare_1_1_add_product_to_compare_request =
+[
+    [ "CartID", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_compare_1_1_add_product_to_compare_request.html#a8c95f84854d96c211b5eeccc2a3ce35d", null ],
+    [ "ProductID", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_compare_1_1_add_product_to_compare_request.html#a2456a88aa3250e9535733dd2da34724f", null ]
+];

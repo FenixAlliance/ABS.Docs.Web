@@ -1,0 +1,7 @@
+<map id="NuGetGallery.Auditing.CloudAuditingService" name="NuGetGallery.Auditing.CloudAuditingService">
+<area shape="rect" id="node1" title="Writes audit records to a specific container in the Cloud Storage Account provided" alt="" coords="81,171,269,212"/>
+<area shape="rect" id="node2" href="$d2/da5/class_nu_get_gallery_1_1_auditing_1_1_auditing_service.html" title="Base class for auditing services." alt="" coords="13,95,126,121"/>
+<area shape="rect" id="node3" href="$d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html" title="Base interface for an auditing service." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,5,202,32"/>
+<area shape="rect" id="node5" href="$d8/db7/interface_nu_get_gallery_1_1_i_cloud_storage_status_dependency.html" title="Determines whether a cloud storage object (e.g. a blob container) is available. The purpose of this i..." alt="" coords="334,95,549,121"/>
+</map>

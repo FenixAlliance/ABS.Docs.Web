@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0 =
+[
+    [ "CommitChangesIsNotExecuted", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html#ab2baabeba2efe2e96b1d07b1b5bfbe38", null ],
+    [ "NullNamespaceThrowsException", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html#a07f0f6f0bb35671ee6e891c948a43c3a", null ],
+    [ "NullPackageRegistrationThrowsException", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html#a635fe0d288fa6c0763a0afcf9fa8eb37", null ],
+    [ "PackageRegistrationIsRemovedFromNamespaceSuccessfully", "d7/df0/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_remove_package_re25671a0fbb0130db0380be5dbe2e8bb0.html#ab7e17587f97a6a161b0cd124e17194a1", null ]
+];

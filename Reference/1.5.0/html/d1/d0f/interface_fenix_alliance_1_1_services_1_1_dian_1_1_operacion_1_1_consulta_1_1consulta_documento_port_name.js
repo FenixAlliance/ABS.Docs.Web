@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1consulta_documento_port_name =
+[
+    [ "ConsultaResultadoValidacionDocumentosAsync", "d1/d0f/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1consulta_documento_port_name.html#a7532bea2b9358fc3281f540a2c04410e", null ]
+];

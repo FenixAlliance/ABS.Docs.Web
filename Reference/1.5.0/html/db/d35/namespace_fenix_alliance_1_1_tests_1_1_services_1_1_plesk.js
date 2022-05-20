@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_tests_1_1_services_1_1_plesk =
+[
+    [ "PleskIntegrationClientTestUnit", "de/db9/class_fenix_alliance_1_1_tests_1_1_services_1_1_plesk_1_1_plesk_integration_client_test_unit.html", "de/db9/class_fenix_alliance_1_1_tests_1_1_services_1_1_plesk_1_1_plesk_integration_client_test_unit" ]
+];

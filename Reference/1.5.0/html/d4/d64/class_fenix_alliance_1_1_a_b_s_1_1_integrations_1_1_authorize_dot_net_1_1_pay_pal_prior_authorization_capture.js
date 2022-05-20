@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_pay_pal_prior_authorization_capture =
+[
+    [ "Run", "d4/d64/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_pay_pal_prior_authorization_capture.html#a25ce671fcde8f308b6fe4913ec18c025", null ]
+];

@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c74df7be8ee0844d7c05f0452efc79578 =
+[
+    [ "ReturnsAModuleDirective", "d9/dad/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c74df7be8ee0844d7c05f0452efc79578.html#a1d526c75b31038c8d8ec6c6ac1ff53ae", null ],
+    [ "ReturnsAModuleDirectiveWithPrerelease", "d9/dad/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c74df7be8ee0844d7c05f0452efc79578.html#aa877c9a28b1669aed6c5ed53fbf2d7ff", null ]
+];

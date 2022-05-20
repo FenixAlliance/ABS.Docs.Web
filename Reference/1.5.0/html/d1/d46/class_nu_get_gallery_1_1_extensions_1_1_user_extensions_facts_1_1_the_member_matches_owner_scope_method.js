@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method =
+[
+    [ "WhenApiKeyWithDirectMatchingOwnerScope_ReturnsTrue", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#a9da4327af3816e997cb85b843391eb62", null ],
+    [ "WhenApiKeyWithIndirectMatchingOwnerScope_ReturnsTrue", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#a055b93a2027a5b0c3e25d4dbd5407a62", null ],
+    [ "WhenApiKeyWithNonMatchingOwnerScopes_ReturnsFalse", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#aca662651f1549a417b40584a1846943c", null ],
+    [ "WhenApiKeyWithNoOwnerScope_ReturnsTrue", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#a30f5d78bcdceb427e9b53889a7791de5", null ],
+    [ "WhenApiKeyWithNoScopes_ReturnsTrue", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#ad2763b85604e85740e34c489a43511c6", null ],
+    [ "WhenCredentialIsNull_ThrowsArgumentNullException", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#a1967370fc13e1afda77d8521dbcd0363", null ],
+    [ "WhenUserIsNull_ThrowsArgumentNullException", "d1/d46/class_nu_get_gallery_1_1_extensions_1_1_user_extensions_facts_1_1_the_member_matches_owner_scope_method.html#a5c3d5ec6576bc8280870b2adc81b5fcf", null ]
+];

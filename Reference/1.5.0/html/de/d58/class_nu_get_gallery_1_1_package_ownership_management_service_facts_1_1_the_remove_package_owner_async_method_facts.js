@@ -1,0 +1,17 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts =
+[
+    [ "AdminCanRemoveAnyOwner", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a2c09d25305ea6b563c5d0e10eb1b31b0", null ],
+    [ "ExistingUserIsSuccessfullyRemovedFromPackage", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#af0548462cb56bc5b952af53374be4f8a", null ],
+    [ "MultipleNamespaceOwnersRemovalWorksCorrectly", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#afc87bf46dc8216cc7a8f31b1b5954bb5", null ],
+    [ "NonNamespaceOwnerCanRemoveOtherSimilarOwners", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a8395253771b5811356e6b17f1dac0ec0", null ],
+    [ "NormalOwnerCannotRemoveNamespaceOwner", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a89f29f0c04df8d2864d560c0d3e7e6da", null ],
+    [ "NullOwnerToRemoveThrowsException", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a85309b26fc19cfa5d4364c93e8ba8f7e", null ],
+    [ "NullPackageRegistrationThrowsException", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#acc4379d1a9b1f95953f17dbabc9e7da2", null ],
+    [ "NullRequestingUserThrowsException", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a15eb1cb13d5b216c4a07a28ff5d19089", null ],
+    [ "RemovePackageOwnerAsync", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a084328cdbea095ca1a51231753f236d8", null ],
+    [ "RemovingNamespaceOwnerAsOrganizationAdminRemovesPackageVerified", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a536c341b968383a1a33943aa56e336b1", null ],
+    [ "RemovingNamespaceOwnerRemovesPackageVerified", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a16ead0b54848b37f302c3a594771005a", null ],
+    [ "RemovingNonNamespaceOwnerDoesNotRemoveVerifiedFlag", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a75112e831d101738c0c5021f76451a44", null ],
+    [ "RemovingOneNamespaceOwnerDoesNotRemoveVerifiedFlag", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#a3fbb20f1a4d8dfec969f87ea02681c46", null ],
+    [ "WritesAnAuditRecord", "de/d58/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_async_method_facts.html#ae97fc4023aec15cb51fd183b1be16202", null ]
+];

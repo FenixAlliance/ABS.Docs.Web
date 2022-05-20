@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABS.Integrations.WOPI.Abstractions.IWopiStorageProvider" name="FenixAlliance.ABS.Integrations.WOPI.Abstractions.IWopiStorageProvider">
+<area shape="rect" id="node1" title="Provides concrete instances of IWopiFiles." alt="" coords="11,5,275,47"/>
+<area shape="rect" id="node2" href="$d7/dd4/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_file_system_provider_1_1_wopi_file_system_provider.html" title="Provides files and folders based on a base64&#45;encoded paths." alt="" coords="5,95,280,151"/>
+</map>

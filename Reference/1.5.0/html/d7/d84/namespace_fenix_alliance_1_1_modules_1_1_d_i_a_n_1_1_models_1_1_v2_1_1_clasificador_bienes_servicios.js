@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios =
+[
+    [ "ClasificadorBienesServicios", "d8/d1c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios7001cd109adf7f9b011dd956806214fa.html", "d8/d1c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios7001cd109adf7f9b011dd956806214fa" ],
+    [ "Clasificador", "d4/d89/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios_1_1_clasificador.html", "d4/d89/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios_1_1_clasificador" ]
+];

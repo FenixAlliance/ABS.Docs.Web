@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perd11222c44a333c7737372faaf3bbb0f5 =
+[
+    [ "BusinessSecurityRole", "d8/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perd11222c44a333c7737372faaf3bbb0f5.html#a27f3da20ccbc263ab92055a695b8d90f", null ],
+    [ "BusinessSecurityRoleID", "d8/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perd11222c44a333c7737372faaf3bbb0f5.html#ab34207d55d5c2fe98cee912ba7ac25a0", null ]
+];

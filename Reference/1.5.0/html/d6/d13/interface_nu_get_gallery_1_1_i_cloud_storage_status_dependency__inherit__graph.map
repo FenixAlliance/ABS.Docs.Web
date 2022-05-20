@@ -1,0 +1,4 @@
+<map id="NuGetGallery.ICloudStorageStatusDependency" name="NuGetGallery.ICloudStorageStatusDependency">
+<area shape="rect" id="node1" title="Determines whether a cloud storage object (e.g. a blob container) is available. The purpose of this i..." alt="" coords="6,5,193,47"/>
+<area shape="rect" id="node2" href="$df/d1a/class_nu_get_gallery_1_1_auditing_1_1_cloud_auditing_service.html" title="Writes audit records to a specific container in the Cloud Storage Account provided" alt="" coords="5,95,193,136"/>
+</map>

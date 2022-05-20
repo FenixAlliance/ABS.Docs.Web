@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_sales_force_1_1_models =
+[
+    [ "SalesforceOptions", "d4/d44/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_sales_force_1_1_models_1_1_salesforce_options.html", "d4/d44/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_sales_force_1_1_models_1_1_salesforce_options" ]
+];

@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_with_messages_async_method =
+[
+    [ "AllowsNamespaceOwnershipToBeChecked", "d1/dda/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_with_messages_async_method.html#a373007e8baedc276d103def3bbd939e7", null ],
+    [ "AllowsNamespaceOwnershipToBeSkipped", "d1/dda/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_with_messages_async_method.html#ae23c7690557da9d2c355adef0a4e6330", null ],
+    [ "RemovePackageOwnerAsync", "d1/dda/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_with_messages_async_method.html#a914bc7501d4f3aebaee08174e5c88589", null ],
+    [ "SendsMessage", "d1/dda/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_remove_package_owner_with_messages_async_method.html#ab3913ef632590986e5bee7dfe8abf596", null ]
+];

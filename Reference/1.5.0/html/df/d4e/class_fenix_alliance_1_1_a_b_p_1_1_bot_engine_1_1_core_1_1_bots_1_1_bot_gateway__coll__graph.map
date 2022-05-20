@@ -1,0 +1,12 @@
+<map id="FenixAlliance.ABP.BotEngine.Core.Bots.BotGateway&lt; T &gt;" name="FenixAlliance.ABP.BotEngine.Core.Bots.BotGateway&lt; T &gt;">
+<area shape="rect" id="node1" title="This IBot implementation can run any type of Dialog. The use of type parametrization is to allows mul..." alt="" coords="943,221,1141,262"/>
+<area shape="rect" id="node2" title=" " alt="" coords="659,5,769,32"/>
+<area shape="rect" id="node3" href="$da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html" title=" " alt="" coords="207,258,402,299"/>
+<area shape="rect" id="node8" href="$db/dcb/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_cards_1_1_card_factory.html" title=" " alt="" coords="615,175,813,217"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,258,140,299"/>
+<area shape="rect" id="node5" title=" " alt="" coords="671,333,757,360"/>
+<area shape="rect" id="node6" href="$d9/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_options.html" title=" " alt="" coords="198,54,411,95"/>
+<area shape="rect" id="node7" href="$d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html" title=" " alt="" coords="615,385,813,426"/>
+<area shape="rect" id="node9" href="$d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service.html" title=" " alt="" coords="189,126,420,167"/>
+<area shape="rect" id="node10" href="$d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service.html" title=" " alt="" coords="189,191,420,233"/>
+</map>

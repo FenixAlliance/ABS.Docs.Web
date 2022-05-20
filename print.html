@@ -5210,6 +5210,44 @@ Response: Transaction pending for validation
 <p>All notable changes to this project will be documented in this file.</p>
 <p>The format is based on <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a>,
 and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semantic Versioning</a>.</p>
+<h2 id="154---2022-05-19"><a class="header" href="#154---2022-05-19">[1.5.4] - 2022-05-19</a></h2>
+<h3 id="changed"><a class="header" href="#changed">Changed</a></h3>
+<ul>
+<li>[ABM] Squash migrations for MySQL.</li>
+<li>[ABP] Update Service Registration Lifetime.</li>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] Improve Academy Pages to use new methods on IAcademyService.</li>
+<li>[ABM] Use new scoped for Scoped Services used over Singlenton Services.</li>
+<li>[ABM] Adds GetStudentCoursesAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetStudentProfilesAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetCourseEnrollmentAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetCourseEnrollmentsAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetInstructorCoursesAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetInstructorProfilesAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Adds GetCourseCompletionCertificatesAsync method to IAcademyService and Default Implemeation.</li>
+</ul>
+<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<ul>
+<li>[ABS] Studio wasn't using the SelectedBusinessID for each holder, thus, when reloaded, business selection used to get overrided with null.</li>
+</ul>
+<h2 id="153---2022-05-15"><a class="header" href="#153---2022-05-15">[1.5.3] - 2022-05-15</a></h2>
+<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
+<ul>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] Refactor Static Assets to improve package installation time.</li>
+</ul>
+<h2 id="151---2022-05-14"><a class="header" href="#151---2022-05-14">[1.5.1] - 2022-05-14</a></h2>
+<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
+<ul>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] Umprove UI Rendering Proccess.</li>
+</ul>
+<h2 id="150---2022-05-13"><a class="header" href="#150---2022-05-13">[1.5.0] - 2022-05-13</a></h2>
+<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
+<ul>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] Umprove UI Rendering Proccess.</li>
+</ul>
 <h2 id="141---2022-05-12"><a class="header" href="#141---2022-05-12">[1.4.1] - 2022-05-12</a></h2>
 <h3 id="added"><a class="header" href="#added">Added</a></h3>
 <ul>
@@ -5222,12 +5260,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] IForexDataService.</li>
 <li>[ABS] CodeEditorComponent with Monaco Editor.</li>
 </ul>
-<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
 <ul>
 <li>[ABS] Fixed Workflows Studio Designer not displaying on production.</li>
 <li>[ABM] Improve IPricingService implementations to always use the latest data to perform generic/historical/extensible/customizable multi-currency amount calculations.</li>
 </ul>
-<h3 id="changed"><a class="header" href="#changed">Changed</a></h3>
+<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
 <ul>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
 <li>[ABS] Templating Engine now relies on interface services on the Alliance Business Model.</li>
@@ -5281,7 +5319,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] IPaymentsService Interface and default implementation (BankTransferPaymentsService Class)</li>
 <li>[ABM] IStorageService Interface &amp; implementation (FileSystemStorageService, AzureStorageStorageService &amp; AwsS3StorageService Classes)</li>
 </ul>
-<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
+<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version</li>
 <li>[ABM] Improved Queries</li>
@@ -5293,7 +5331,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <ul>
 <li>[ACL] Remove deprecated dependencies</li>
 </ul>
-<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
+<h3 id="fixed-2"><a class="header" href="#fixed-2">Fixed</a></h3>
 <ul>
 <li>[ABS] Portal &amp; Tenant Selector.</li>
 <li>[ICX] Duplicated Recently Viewed Product Records.</li>
@@ -5309,7 +5347,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] Oracle Database Provider.</li>
 <li>[ABM] IOptionsService Interface and default implementation (OptionsService)</li>
 </ul>
-<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
+<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version.</li>
 </ul>
@@ -5317,7 +5355,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <ul>
 <li>[ACL] Remove deprecated dependencies.</li>
 </ul>
-<h3 id="fixed-2"><a class="header" href="#fixed-2">Fixed</a></h3>
+<h3 id="fixed-3"><a class="header" href="#fixed-3">Fixed</a></h3>
 <ul>
 <li>[ABS] Fix Workflows Data Provider (LiteSQL)</li>
 <li>[ABM] Entities Disambiguation</li>
@@ -5372,7 +5410,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Adds IViewBuffer, Resx, and Model Resolver to Templating Engine</li>
 <li>[ABS] Adds Localization String Manager. Initial Localization Capabilities.</li>
 </ul>
-<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
+<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
 <ul>
 <li>[ABS] Fix HTTP context access on IIS making the installation process fail.</li>
 <li>[ABS] Fix HTTP context access on IIS when trying to create a new view.</li>
@@ -5404,7 +5442,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] Store Configuration Objects.</li>
 <li>[APS] External Authentication Provider configuration pages.</li>
 </ul>
-<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
+<h3 id="changed-8"><a class="header" href="#changed-8">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error while previewing files on File System Explorer.</li>
 <li>[ICX] Fix error where new users got a 500 when visiting the store.</li>
@@ -5474,7 +5512,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] ZXing.Net is now a project dependency. </li>
 <li>[ACL] Z.EntityFramework.Plus.EFCore is now a project dependency. </li>
 </ul>
-<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
+<h3 id="changed-9"><a class="header" href="#changed-9">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error where plugin assembly paths always returned null (IPluginManager Implementation)</li>
 </ul>
@@ -5498,7 +5536,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Added support for IdentityServer4 as a replacement for Alliance Passport Services.</li>
 <li>ACL.Licensing is now a part of the Alliance Business Suite.</li>
 </ul>
-<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
+<h3 id="changed-10"><a class="header" href="#changed-10">Changed</a></h3>
 <ul>
 <li>Extracts interface for ACL configuration Types</li>
 <li>ACS is now ABP.BotEngine</li>
@@ -5521,7 +5559,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Adds Infinity Comex Support</li>
 <li>Missing ACL configuration Types</li>
 </ul>
-<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
+<h3 id="changed-11"><a class="header" href="#changed-11">Changed</a></h3>
 <ul>
 <li>Fix Namespaces</li>
 <li>ABS.Portal.Paperbits is now ABS.Portal.Editor</li>
@@ -5534,7 +5572,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Nuget Packages @1.1.0</li>
 <li>Initial Portal Admin Blazor Application at route /admin.</li>
 </ul>
-<h3 id="changed-8"><a class="header" href="#changed-8">Changed</a></h3>
+<h3 id="changed-12"><a class="header" href="#changed-12">Changed</a></h3>
 <ul>
 <li>Standardize namespace at v1.1.0</li>
 </ul>

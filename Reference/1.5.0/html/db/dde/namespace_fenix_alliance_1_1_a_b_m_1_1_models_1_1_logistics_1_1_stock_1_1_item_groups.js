@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups =
+[
+    [ "ItemGroup", "d8/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group.html", "d8/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group" ],
+    [ "ItemGroupRecord", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group_record.html", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group_record" ]
+];

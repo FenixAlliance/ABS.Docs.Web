@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_prices_1_1_role_price =
+[
+    [ "ProjectResourceRole", "df/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_prices_1_1_role_price.html#afe3b65dd1bfd818e032e41636af1b852", null ],
+    [ "ProjectResourceRoleID", "df/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_prices_1_1_role_price.html#a3c54d3400c069094dc3f707755327b8a", null ]
+];

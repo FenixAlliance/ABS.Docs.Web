@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_a_w_s_1_1_models =
+[
+    [ "AmazonWebServicesOptions", "db/d62/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_a_w_s_1_1_models_1_1_amazon_web_services_options.html", "db/d62/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_a_w_s_1_1_models_1_1_amazon_web_services_options" ]
+];

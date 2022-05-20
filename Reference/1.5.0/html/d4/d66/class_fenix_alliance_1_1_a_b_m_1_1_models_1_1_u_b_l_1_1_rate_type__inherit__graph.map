@@ -1,0 +1,10 @@
+<map id="FenixAlliance.ABM.Models.UBL.RateType" name="FenixAlliance.ABM.Models.UBL.RateType">
+<area shape="rect" id="node1" title=" " alt="" coords="152,169,335,211"/>
+<area shape="rect" id="node3" href="$d4/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_rate_type.html" title=" " alt="" coords="407,5,589,47"/>
+<area shape="rect" id="node4" href="$da/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_calculation_rate_type.html" title=" " alt="" coords="407,71,589,112"/>
+<area shape="rect" id="node5" href="$da/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_orderable_unit_factor_rate_type.html" title=" " alt="" coords="387,136,609,177"/>
+<area shape="rect" id="node6" href="$d7/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_rate_type1.html" title=" " alt="" coords="407,201,589,243"/>
+<area shape="rect" id="node7" href="$d6/d57/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_source_currency_base_rate_type.html" title=" " alt="" coords="383,267,613,308"/>
+<area shape="rect" id="node8" href="$df/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_target_currency_base_rate_type.html" title=" " alt="" coords="385,332,611,373"/>
+<area shape="rect" id="node2" href="$d5/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type.html" title=" " alt="" coords="5,177,104,203"/>
+</map>

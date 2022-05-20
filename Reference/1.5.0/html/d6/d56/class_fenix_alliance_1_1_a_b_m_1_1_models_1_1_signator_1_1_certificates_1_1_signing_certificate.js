@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate =
+[
+    [ "AccountHolder", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#ad4d7e73c21ce2d0a4d48b35adfe2523f", null ],
+    [ "AccountHolderID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a61a6e99361e81ee994f9d7e24c6f8378", null ],
+    [ "Business", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#addae2f5e5cef0e0204f8a87913efdb90", null ],
+    [ "BusinessID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a18c328963404ae46e2ced14a249a269a", null ],
+    [ "BusinessProfileRecord", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a980e08af6ec654873f2489e310bf10d1", null ],
+    [ "BusinessProfileRecordID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a24e9b03b0c7f59cc3012c5fd1b4031f8", null ],
+    [ "CertificateType", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a3e0258cb6ff99ff70a22aa45aa99f12e", null ],
+    [ "CertificateUpload", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a07e085a381be59ee6a7bdcc120f04b78", null ],
+    [ "Contact", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#acc9d51f7ecb1b65e4b0c1c6c1201a762", null ],
+    [ "ContactID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a3172bd660ff55a46deba05ce69198d05", null ],
+    [ "CSR", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#ac74309313c9a04c8333f8fe758327bd3", null ],
+    [ "FileLengthInBits", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a8fd6988eb37be7ab09009d12937f2c7a", null ],
+    [ "ID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a030d5af051d00399e76f27b819b8ccb8", null ],
+    [ "PrivateKey", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#ae1ef17a96a8dcee0c1a4832ec6270678", null ],
+    [ "PublicKey", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a5d780bf62b58bb9e9685901240d132c4", null ],
+    [ "Signatures", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a9f08ecd83ee76431ebafff17c89162fa", null ],
+    [ "SignedDocuments", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#ab203659682d7f5bb55483e6aa4e94d7c", null ],
+    [ "SigningLogs", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#ac9d38a8c3fabf388a359ff38d101bcad", null ],
+    [ "Timestamp", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#aae88c5246ddd64a8024546e392d18706", null ],
+    [ "Title", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a94f50e3be79706edbe071e799bbd712a", null ],
+    [ "Type", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#a3908eae6cc9ce42ef40b9566882c4a4d", null ],
+    [ "URL", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html#af4c0b84efeffc04faddea13f3628b76f", null ]
+];

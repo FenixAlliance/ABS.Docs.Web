@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou271d6d7cc46baed6499de649339c3459 =
+[
+    [ "ReturnsExpectedBody", "d2/db8/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_notice_to_previou271d6d7cc46baed6499de649339c3459.html#a789752ccc7ab770549732d7ad6bacf3a", null ]
+];

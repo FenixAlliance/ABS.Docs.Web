@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_client_application_response_type =
+[
+    [ "ClientApplicationResponseType", "df/db8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_client_application_response_type.html#a7fefec86fb1e2eca8dc4f956391efea6", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_scopes =
+[
+    [ "CourseSocialGroup", "d3/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_scopes_1_1_course_social_group.html", "d3/d9d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_scopes_1_1_course_social_group" ]
+];

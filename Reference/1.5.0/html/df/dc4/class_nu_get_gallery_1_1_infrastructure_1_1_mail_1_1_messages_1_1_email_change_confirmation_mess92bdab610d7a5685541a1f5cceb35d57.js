@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57 =
+[
+    [ "ReturnsExpectedBodyForOrganization", "df/dc4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57.html#afe83aa1ae2d197f8f7f93c4a5737e195", null ],
+    [ "ReturnsExpectedBodyForUser", "df/dc4/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_email_change_confirmation_mess92bdab610d7a5685541a1f5cceb35d57.html#ac4538770ef115cfed06daa67780b31a9", null ]
+];

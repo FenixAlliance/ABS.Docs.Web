@@ -1,0 +1,13 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac =
+[
+    [ "NuGetRemoteDependencyProvider", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a53938a9fdc546628547793c02e5703ba", null ],
+    [ "FindLibraryAsync", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a3e35fc51b97a532f252f39bfafd2dfed", null ],
+    [ "GetAllVersionsAsync", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a7b1fb6e16fcb62cd911eec75757e66e2", null ],
+    [ "GetDependenciesAsync", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a64b479738d552c1cebdc7df372cd3e45", null ],
+    [ "GetPackageDownloaderAsync", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a47643cb88e8c5737acdda0d3bd67093a", null ],
+    [ "IsHttp", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#ae95018eb21e7ca10755403fab45aaa20", null ],
+    [ "PackagesToAcceptLicense", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a5788785f05663bbc14eeeaa23c798032", null ],
+    [ "PackagesToInstall", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#afdb7086f29fc876556527612f8016118", null ],
+    [ "Source", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#a5383cda347f513e7a8eb5e5ff03aac02", null ],
+    [ "SourcePackage", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html#ab774f34eb3fc8ebe2ff6c4e8815fbc1a", null ]
+];

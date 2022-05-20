@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.Types.BusinessTeamInquiryRequest" name="FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.Types.BusinessTeamInquiryRequest">
+<area shape="rect" id="node1" title="Used to relate an InquiryRequest to a the specified BusinessTeam." alt="" coords="5,80,224,136"/>
+<area shape="rect" id="node2" href="$d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html" title=" " alt="" coords="60,5,169,32"/>
+</map>

@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_deleted_notice_message =
+[
+    [ "WillSendEmailToAllOwners", "d1/d77/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_deleted_notice_message.html#add54c707fc9793304be320267b067851", null ]
+];

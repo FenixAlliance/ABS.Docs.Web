@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_i_p_quality_score_1_1_models_1_1_i_p_quality_score_options =
+[
+    [ "ApiKey", "d6/dc7/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_i_p_quality_score_1_1_models_1_1_i_p_quality_score_options.html#a9ba5fc97be891d28a045ddec84e7d4d4", null ]
+];

@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_b75bb4fffee7a6fae04f23534a4d80be =
+[
+    [ "PriceAmount", "d0/d6c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_b75bb4fffee7a6fae04f23534a4d80be.html#a7b0c51c1fcb6cf4ff0d552af3181da7a", null ],
+    [ "PriceType", "d0/d6c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_b75bb4fffee7a6fae04f23534a4d80be.html#af71d4b0810edf3b3477a2fa52bc17d39", null ],
+    [ "PriceTypeCode", "d0/d6c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_b75bb4fffee7a6fae04f23534a4d80be.html#a1188be96725f47da0a02bc090860ac83", null ]
+];

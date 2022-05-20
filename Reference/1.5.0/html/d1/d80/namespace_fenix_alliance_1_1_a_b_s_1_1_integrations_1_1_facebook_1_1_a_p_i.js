@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_facebook_1_1_a_p_i =
+[
+    [ "FacebookStoresController", "d9/df5/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_facebook_1_1_a_p_i_1_1_facebook_stores_controller.html", "d9/df5/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_facebook_1_1_a_p_i_1_1_facebook_stores_controller" ]
+];

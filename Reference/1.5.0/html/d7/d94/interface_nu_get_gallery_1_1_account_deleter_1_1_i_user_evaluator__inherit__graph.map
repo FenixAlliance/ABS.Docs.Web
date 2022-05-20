@@ -1,0 +1,9 @@
+<map id="NuGetGallery.AccountDeleter.IUserEvaluator" name="NuGetGallery.AccountDeleter.IUserEvaluator">
+<area shape="rect" id="node1" title="Interface for user evaluators that determine if a user can be deleted or not" alt="" coords="5,136,203,177"/>
+<area shape="rect" id="node2" href="$d9/db5/class_nu_get_gallery_1_1_account_deleter_1_1_base_user_evaluator.html" title=" " alt="" coords="251,136,448,177"/>
+<area shape="rect" id="node3" href="$d4/d1e/class_nu_get_gallery_1_1_account_deleter_1_1_account_confirmed_evaluator.html" title=" " alt="" coords="496,5,693,47"/>
+<area shape="rect" id="node4" href="$de/d34/class_nu_get_gallery_1_1_account_deleter_1_1_aggregate_evaluator.html" title="Evaluator that runs other evaluators and returns a single result. Runs &quot;AND&quot; logic between evaluators..." alt="" coords="496,71,693,112"/>
+<area shape="rect" id="node5" href="$d0/d5f/class_nu_get_gallery_1_1_account_deleter_1_1_always_allow_evaluator.html" title="Evaluator that always passes" alt="" coords="496,136,693,177"/>
+<area shape="rect" id="node6" href="$dc/df4/class_nu_get_gallery_1_1_account_deleter_1_1_always_reject_evaluator.html" title="Evaluator that always fails" alt="" coords="496,201,693,243"/>
+<area shape="rect" id="node7" href="$d5/d81/class_nu_get_gallery_1_1_account_deleter_1_1_nu_get_delete_evaluator.html" title="Simple single (non aggregate) evaluator for easy use Criteria is user must own zero (0) packages and ..." alt="" coords="496,267,693,308"/>
+</map>

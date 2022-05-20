@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi83d58f28eac354a020890eba99852539 =
+[
+    [ "ClaimedRoles", "dc/d33/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi83d58f28eac354a020890eba99852539.html#a677a25b3c7ee90f3fb6a7fb376a2af0c", null ]
+];

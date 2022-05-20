@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method =
+[
+    [ "AddsFromAddressToReplyToList", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html#aa5f9a20d4da8cdbb2c8eb24aa94a7104", null ],
+    [ "AddsGalleryOwnerToToList", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html#a6b8d8a08fa7fceffd63d4d6000951635", null ],
+    [ "HasEmptyBccList", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html#a0abeecf3bf6a6d347ee7eaee9c41cf68", null ],
+    [ "WhenCopySenderFalse_HasEmptyCCList", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html#a8ad8d059743ee586cd2d028a9b52bd2d", null ],
+    [ "WhenCopySenderTrue_AddsFromAddressToCCList", "db/d8c/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_report_my_package_message_facts_1_1_the_get_recipients_method.html#a012a53a7cd301caea201336573a8202c", null ]
+];

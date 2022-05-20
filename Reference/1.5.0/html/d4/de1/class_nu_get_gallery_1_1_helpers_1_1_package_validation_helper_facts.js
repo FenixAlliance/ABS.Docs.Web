@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts =
+[
+    [ "GetNormalizedEntryPathsMethod", "df/d86/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_get_normalized_entry_paths_method.html", "df/d86/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_get_normalized_entry_paths_method" ],
+    [ "HasDuplicatedEntriesMethod", "d9/da4/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_has_duplicated_entries_method.html", "d9/da4/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_has_duplicated_entries_method" ]
+];

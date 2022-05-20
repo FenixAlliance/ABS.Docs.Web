@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_action =
+[
+    [ "WithNonOrganizationAdmin_ReturnsForbidden", "d3/d9a/class_nu_get_gallery_1_1_organizations_controller_facts_1_1_the_confirmation_required_action.html#a423a5b1ed2430f8916b27da4f916958b", null ]
+];

@@ -1,0 +1,22 @@
+var namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones =
+[
+    [ "resolucionFacturacionPortName", "d4/d3a/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolucion_facturacion_port_name.html", "d4/d3a/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolucion_facturacion_port_name" ],
+    [ "ConsultaResoluciones", "de/d99/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones.html", "de/d99/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones" ],
+    [ "RangoFacturacion", "da/d7f/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_rango_facturacion.html", "da/d7f/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_rango_facturacion" ],
+    [ "ResolucionesFacturacion", "d4/d28/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_resoluciones_facturacion.html", "d4/d28/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_resoluciones_facturacion" ],
+    [ "ConsultaResolucionesFacturacionPeticion", "d4/ddb/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b.html", "d4/ddb/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b" ],
+    [ "ConsultaResolucionesFacturacionRespuesta", "d4/df4/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consu090b3b2838627c59306570bade24ecc8.html", "d4/df4/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consu090b3b2838627c59306570bade24ecc8" ],
+    [ "resolucionFacturacionPortNameChannel", "dd/d99/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1re137071f820f96c8bcb92c2dcc05573be.html", null ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f" ],
+    [ "CodigoType", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723d", [
+      [ "OK", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723dae0aa021e21dddbd6d8cecec71e9cf564", null ],
+      [ "ND", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da9a116c50d133c8648404081885194300", null ],
+      [ "EP", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da078401532866081dddda6744220b4c75", null ],
+      [ "ES", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da04c19fa1e772ab66f0aad2efe61f25cd", null ],
+      [ "EH", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da088a2013906137902c9832d2f5a3a940", null ],
+      [ "EA", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da96140e1425e9ae5a3dce3927751527d0", null ],
+      [ "ER", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da1bd3a0484883ca6deaada8395a8f6e85", null ],
+      [ "EF", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723da2c9b682412689d6723e3b31653b5774c", null ],
+      [ "EN", "d0/df7/namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones.html#a2cd198a42869fd7a32a82a9a093b723daaa85f1840e282d8a8304dbc2c0d7c9b2", null ]
+    ] ]
+];

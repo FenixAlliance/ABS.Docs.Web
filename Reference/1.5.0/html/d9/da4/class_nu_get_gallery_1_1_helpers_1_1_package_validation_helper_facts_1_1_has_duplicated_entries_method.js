@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_has_duplicated_entries_method =
+[
+    [ "WithDuplicatedEntries_ReturnsFalse", "d9/da4/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_has_duplicated_entries_method.html#addf697343684ecfd669cc978fd54a090", null ],
+    [ "WithNoDuplicatedEntries_ReturnsTrue", "d9/da4/class_nu_get_gallery_1_1_helpers_1_1_package_validation_helper_facts_1_1_has_duplicated_entries_method.html#abd2556f6dee7466494f85d8d26e945f4", null ]
+];

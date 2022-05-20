@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests =
+[
+    [ "TyposquattingCheckForUploadPackageTests", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests.html#a61d58654e707b7a583831ee6b81ada9d", null ],
+    [ "UploadTyposquattingPackageAndBlockUser", "d2/d7f/class_nu_get_gallery_1_1_functional_tests_1_1_typosquatting_check_1_1_typosquatting_check_for_upload_package_tests.html#a0332133055cc994ff39b1a94f54d66ae", null ]
+];

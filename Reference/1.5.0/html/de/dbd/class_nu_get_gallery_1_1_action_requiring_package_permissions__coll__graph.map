@@ -1,0 +1,5 @@
+<map id="NuGetGallery.ActionRequiringPackagePermissions" name="NuGetGallery.ActionRequiringPackagePermissions">
+<area shape="rect" id="node1" title="An action requiring permissions on a PackageRegistration or Package that can be done on behalf of ano..." alt="" coords="276,39,471,80"/>
+<area shape="rect" id="node2" href="$da/dcb/class_nu_get_gallery_1_1_action_requiring_entity_permissions.html" title=" " alt="" coords="7,5,226,47"/>
+<area shape="rect" id="node3" href="$d2/dce/interface_nu_get_gallery_1_1_i_action_requiring_entity_permissions.html" title=" " alt="" coords="5,71,228,112"/>
+</map>

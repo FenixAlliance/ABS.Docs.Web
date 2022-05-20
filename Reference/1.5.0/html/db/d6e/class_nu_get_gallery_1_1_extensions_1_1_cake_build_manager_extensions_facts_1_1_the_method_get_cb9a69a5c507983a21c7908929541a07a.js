@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_cb9a69a5c507983a21c7908929541a07a =
+[
+    [ "ReturnsALoadDirective", "db/d6e/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_cb9a69a5c507983a21c7908929541a07a.html#ab59722dde78a2ac8ea0d78b05f4012e6", null ],
+    [ "ReturnsALoadDirectiveWithPrerelease", "db/d6e/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_cb9a69a5c507983a21c7908929541a07a.html#a839d2454563635ba8fe1197ab7f72531", null ]
+];

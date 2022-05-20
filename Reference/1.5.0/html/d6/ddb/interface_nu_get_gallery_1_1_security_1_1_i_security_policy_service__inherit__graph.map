@@ -1,0 +1,7 @@
+<map id="NuGetGallery.Security.ISecurityPolicyService" name="NuGetGallery.Security.ISecurityPolicyService">
+<area shape="rect" id="node1" title="Service for managing security policies." alt="" coords="5,86,213,127"/>
+<area shape="rect" id="node2" href="$d8/d89/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_security_policy_service.html" title=" " alt="" coords="269,5,472,61"/>
+<area shape="rect" id="node3" href="$d4/dbf/class_nu_get_1_1_verify_microsoft_package_1_1_fakes_1_1_fake_security_policy_service.html" title=" " alt="" coords="261,86,480,127"/>
+<area shape="rect" id="node4" href="$d6/d1f/class_nu_get_gallery_1_1_security_1_1_security_policy_service.html" title="Service that looks up and evaluates security policies for attributed controller actions." alt="" coords="269,151,473,193"/>
+<area shape="rect" id="node5" href="$d5/d26/class_nu_get_gallery_1_1_security_1_1_test_security_policy_service.html" title=" " alt="" coords="528,151,711,193"/>
+</map>

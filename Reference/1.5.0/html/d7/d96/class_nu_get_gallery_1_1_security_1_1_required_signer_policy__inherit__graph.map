@@ -1,0 +1,8 @@
+<map id="NuGetGallery.Security.RequiredSignerPolicy" name="NuGetGallery.Security.RequiredSignerPolicy">
+<area shape="rect" id="node1" title=" " alt="" coords="517,39,724,80"/>
+<area shape="rect" id="node5" href="$d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy.html" title="A policy which enables subscribing package owners to automatically overwrite the current required sig..." alt="" coords="772,5,1007,47"/>
+<area shape="rect" id="node6" href="$db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy.html" title="A policy which enables subscribing package owners to retain control from non&#45;subscribing package owne..." alt="" coords="791,71,988,112"/>
+<area shape="rect" id="node2" href="$d0/d73/class_nu_get_gallery_1_1_security_1_1_user_security_policy_handler.html" title="Policy handler that defines behavior for specific user policy types." alt="" coords="276,21,453,47"/>
+<area shape="rect" id="node3" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,6,212,62"/>
+<area shape="rect" id="node4" href="$db/d8c/interface_nu_get_gallery_1_1_security_1_1_i_user_security_policy_subscription.html" title="One or more security policies which a user can subscribe to." alt="" coords="260,71,469,98"/>
+</map>

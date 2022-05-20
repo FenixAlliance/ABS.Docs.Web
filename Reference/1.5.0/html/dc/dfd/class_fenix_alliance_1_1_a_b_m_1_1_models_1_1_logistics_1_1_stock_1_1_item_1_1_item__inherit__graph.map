@@ -1,0 +1,11 @@
+<map id="FenixAlliance.ABM.Models.Logistics.Stock.Item.Item" name="FenixAlliance.ABM.Models.Logistics.Stock.Item.Item">
+<area shape="rect" id="node1" title="Represents a Stock Item (Product, Service or Subsciption Plan, Course, Licence Type...." alt="" coords="5,251,188,292"/>
+<area shape="rect" id="node2" href="$da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html" title=" " alt="" coords="236,5,477,47"/>
+<area shape="rect" id="node3" href="$d4/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection.html" title=" " alt="" coords="255,71,459,127"/>
+<area shape="rect" id="node4" href="$da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html" title=" " alt="" coords="265,152,448,193"/>
+<area shape="rect" id="node5" href="$d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types_1_1_license_type.html" title=" " alt="" coords="259,217,454,259"/>
+<area shape="rect" id="node6" href="$d9/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service.html" title=" " alt="" coords="265,283,448,324"/>
+<area shape="rect" id="node7" href="$da/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels_1_1_service_level.html" title=" " alt="" coords="237,348,476,389"/>
+<area shape="rect" id="node8" href="$d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_products_1_1_product.html" title=" " alt="" coords="265,413,448,455"/>
+<area shape="rect" id="node9" href="$d4/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan.html" title=" " alt="" coords="249,479,464,535"/>
+</map>

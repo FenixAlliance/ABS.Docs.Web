@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data =
+[
+    [ "Apellidos", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a13ca1f3109dfc69021a0f9becf5eb885", null ],
+    [ "Autorizacion", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a049c906358346256eab132c29b4772f3", null ],
+    [ "Banco", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#ad63e6ef2267b3ade5ad42ccc04c5a27c", null ],
+    [ "Baseiva", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#aa9332831b44d6ff1f9a1ca27e7e890e6", null ],
+    [ "Ciudad", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#aac2b425160a6d632388b64c5ec96d905", null ],
+    [ "CodRespuesta", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#af0ebf7eeeb3aaed930ec3982ac759b8a", null ],
+    [ "Descripcion", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#abe0d66a5523b08a148022f3781c10ac7", null ],
+    [ "Direccion", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#ae490057c2797a0e00c1e78bfddf33692", null ],
+    [ "Documento", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a0f96e0a0ee2e4daab38955419d44c25f", null ],
+    [ "Email", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a1cae0486d985a50c4b47d837fb742243", null ],
+    [ "Enpruebas", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a603a0fb4163002d209c3b7fc2d6f8459", null ],
+    [ "Estado", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a365ea83a0dbda44b0d19353da39c81be", null ],
+    [ "Factura", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#aee12aad10dd2a8e5a3deb5635b14e9e5", null ],
+    [ "Fecha", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a1cb4f61492975efcc92a07964243d886", null ],
+    [ "Franquicia", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a684262d92c88f5bfa2da1c77027544f9", null ],
+    [ "IndPais", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#af111effd2eeb531c542deb7201cf28ee", null ],
+    [ "Ip", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#abf79fe54b016d0a139c8eceefcbcfcfe", null ],
+    [ "Iva", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a0964c6be5ddea04377e501a3ad185df3", null ],
+    [ "Moneda", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#acc0840247dcad534d0f7d7173f058429", null ],
+    [ "Nombres", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#aa5168b9a68963f058a40b2f402f2ed8c", null ],
+    [ "Recibo", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#ac341425f75d42e16d9f63546c1ba94b0", null ],
+    [ "RefPayco", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a8e5630cfec1f70ba283b924e2bf0a6a4", null ],
+    [ "Respuesta", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a22300c9658ec03026982e726b56b4476", null ],
+    [ "TipoDoc", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a54a8d6a6c69cc78426581bcc3e8e33a8", null ],
+    [ "Valor", "d7/d80/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_subscriptions_1_1_e_payco_pay_subscription_response_data.html#a34812a8946be906bed80be6839f59276", null ]
+];

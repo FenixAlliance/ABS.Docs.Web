@@ -1,0 +1,6 @@
+<map id="FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemVariation" name="FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemVariation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,212,141"/>
+<area shape="rect" id="node2" href="$d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation.html" title=" " alt="" coords="260,5,467,61"/>
+<area shape="rect" id="node3" href="$df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html" title=" " alt="" coords="260,85,467,141"/>
+<area shape="rect" id="node4" href="$da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation.html" title=" " alt="" coords="260,165,467,221"/>
+</map>

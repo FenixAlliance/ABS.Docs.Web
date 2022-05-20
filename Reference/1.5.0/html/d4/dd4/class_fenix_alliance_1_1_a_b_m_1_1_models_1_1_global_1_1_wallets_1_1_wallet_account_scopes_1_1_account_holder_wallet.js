@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet =
+[
+    [ "AccountHolder", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet.html#a55c765732f718c847b571e2613354f86", null ],
+    [ "AccountHolderID", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet.html#a6e133a67dd081ad31588fa9c5e8443ed", null ]
+];

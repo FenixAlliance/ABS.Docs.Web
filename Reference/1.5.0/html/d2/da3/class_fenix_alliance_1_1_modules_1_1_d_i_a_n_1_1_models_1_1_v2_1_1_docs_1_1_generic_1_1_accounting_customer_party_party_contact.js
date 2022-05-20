@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_customer_party_party_contact =
+[
+    [ "ElectronicMail", "d2/da3/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_customer_party_party_contact.html#ad08ef5c5e6ae00274af3d23397ad4f9c", null ],
+    [ "Name", "d2/da3/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_customer_party_party_contact.html#a0e7be7511bbdc3121425e4cacb8063aa", null ],
+    [ "Telephone", "d2/da3/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_customer_party_party_contact.html#a998f213c9340575557de632922d237f9", null ]
+];

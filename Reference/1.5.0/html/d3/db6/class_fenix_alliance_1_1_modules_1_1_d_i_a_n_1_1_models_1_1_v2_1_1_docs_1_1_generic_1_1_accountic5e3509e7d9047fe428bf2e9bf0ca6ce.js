@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce =
+[
+    [ "CompanyID", "d3/db6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce.html#a6518668fd1b7a9e0babf502a9a5c3555", null ],
+    [ "RegistrationAddress", "d3/db6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce.html#acf9e38d602656abb19337495f267d27f", null ],
+    [ "RegistrationName", "d3/db6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce.html#a1b0ae1e9ffd85b29f74468e749410d7b", null ],
+    [ "TaxLevelCode", "d3/db6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce.html#a57b369e7af48a71fb300d80f896ed1d5", null ],
+    [ "TaxScheme", "d3/db6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountic5e3509e7d9047fe428bf2e9bf0ca6ce.html#a5daba24efcf18d7b258a9dcacee5a962", null ]
+];

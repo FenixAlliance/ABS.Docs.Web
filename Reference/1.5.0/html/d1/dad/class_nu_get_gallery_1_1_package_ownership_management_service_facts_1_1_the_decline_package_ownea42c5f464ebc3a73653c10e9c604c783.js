@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_decline_package_ownea42c5f464ebc3a73653c10e9c604c783 =
+[
+    [ "DeletePackageOwnershipRequestAsync", "d1/dad/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_decline_package_ownea42c5f464ebc3a73653c10e9c604c783.html#a327029ca527396e02336e47b12059965", null ],
+    [ "NullRequestingUserThrowsException", "d1/dad/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_decline_package_ownea42c5f464ebc3a73653c10e9c604c783.html#ab0dfffa23f950dbe56f4290025de6324", null ],
+    [ "SendsMessage", "d1/dad/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_decline_package_ownea42c5f464ebc3a73653c10e9c604c783.html#a4f0ae68a0012ccbaf67ee60c2e7ed40c", null ]
+];

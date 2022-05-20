@@ -1,0 +1,4 @@
+<map id="NuGetGallery.FunctionalTests.WebUITests.BasicPages.HomePageValidationTest" name="NuGetGallery.FunctionalTests.WebUITests.BasicPages.HomePageValidationTest">
+<area shape="rect" id="node1" title="Sends http request to gallery home page checks for the default home page text in the reponse...." alt="" coords="5,80,324,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="127,5,202,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NuGetGallery.IUserService" name="NuGetGallery.IUserService">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,184,105"/>
+<area shape="rect" id="node2" href="$d1/d79/class_nu_get_gallery_1_1_account_deleter_1_1_account_delete_user_service.html" title="This class implements the minimal function of the full UserService that we currently need for Account..." alt="" coords="232,5,429,47"/>
+<area shape="rect" id="node3" href="$da/d07/class_nu_get_gallery_1_1_account_deleter_1_1_empty_user_service.html" title=" " alt="" coords="232,71,429,112"/>
+<area shape="rect" id="node4" href="$d4/d79/class_nu_get_gallery_1_1_user_service.html" title=" " alt="" coords="243,137,418,163"/>
+<area shape="rect" id="node5" href="$db/ddd/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service.html" title=" " alt="" coords="477,96,688,137"/>
+<area shape="rect" id="node6" href="$df/d2c/class_nu_get_gallery_1_1_test_utils_1_1_testable_user_service_with_d_b_faking.html" title=" " alt="" coords="477,161,688,203"/>
+</map>

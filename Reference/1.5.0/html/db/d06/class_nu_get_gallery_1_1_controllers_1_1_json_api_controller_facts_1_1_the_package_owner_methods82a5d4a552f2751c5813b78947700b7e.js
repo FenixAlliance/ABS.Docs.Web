@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e =
+[
+    [ "CreatesPackageOwnerRequestSendsEmailAndReturnsPendingState", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#a554fc05a771ff18ac61fb6ede8656cb9", null ],
+    [ "FailsIfAddedUserIsLocked", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#af4073bbfacb8b92ddf4ce13b0e3c4443", null ],
+    [ "FailsIfCurrentUserIsLocked", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#ac540f9f5704e63613a28f9aa74b3783f", null ],
+    [ "FailsIfUserInputIsEmailAddress", "db/d06/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods82a5d4a552f2751c5813b78947700b7e.html#aeccb812e40b899b3aa7da1512e5ded2c", null ]
+];

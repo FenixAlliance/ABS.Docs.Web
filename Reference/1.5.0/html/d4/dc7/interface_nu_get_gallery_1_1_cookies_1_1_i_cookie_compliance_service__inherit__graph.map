@@ -1,0 +1,4 @@
+<map id="NuGetGallery.Cookies.ICookieComplianceService" name="NuGetGallery.Cookies.ICookieComplianceService">
+<area shape="rect" id="node1" title="Cookie compliance service, used to comply with EU privacy laws." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$db/d0a/class_nu_get_gallery_1_1_cookies_1_1_null_cookie_compliance_service.html" title="Default, no&#45;op instance of the cookie compliance service, used when no shim is registered." alt="" coords="16,95,193,136"/>
+</map>

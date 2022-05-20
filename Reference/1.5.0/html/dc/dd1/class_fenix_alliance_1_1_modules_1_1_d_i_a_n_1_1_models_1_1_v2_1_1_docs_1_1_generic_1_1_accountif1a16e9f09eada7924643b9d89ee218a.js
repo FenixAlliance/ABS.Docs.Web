@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountif1a16e9f09eada7924643b9d89ee218a =
+[
+    [ "IdentificationCode", "dc/dd1/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountif1a16e9f09eada7924643b9d89ee218a.html#af4b3db7af391c755db9bc10230f257fd", null ],
+    [ "Name", "dc/dd1/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accountif1a16e9f09eada7924643b9d89ee218a.html#ab9cdea3cf380a6cc7a09b5e68200321b", null ]
+];

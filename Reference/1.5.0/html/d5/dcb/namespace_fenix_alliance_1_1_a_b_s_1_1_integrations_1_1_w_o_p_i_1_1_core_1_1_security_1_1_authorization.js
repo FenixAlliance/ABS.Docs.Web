@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authorization =
+[
+    [ "WopiAuthorizationHandler", "d7/d54/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authorizat5e096267cb1ae13738c935ca36231b79.html", "d7/d54/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authorizat5e096267cb1ae13738c935ca36231b79" ]
+];

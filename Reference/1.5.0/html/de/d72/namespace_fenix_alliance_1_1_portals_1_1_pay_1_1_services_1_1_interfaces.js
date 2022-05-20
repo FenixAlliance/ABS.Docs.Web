@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_portals_1_1_pay_1_1_services_1_1_interfaces =
+[
+    [ "IEPaycoService", "df/d63/interface_fenix_alliance_1_1_portals_1_1_pay_1_1_services_1_1_interfaces_1_1_i_e_payco_service.html", "df/d63/interface_fenix_alliance_1_1_portals_1_1_pay_1_1_services_1_1_interfaces_1_1_i_e_payco_service" ]
+];

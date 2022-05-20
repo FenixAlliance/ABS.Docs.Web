@@ -1,0 +1,10 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients =
+[
+    [ "EPaycoClientBalanceResponse", "d6/dbe/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_balance_response.html", "d6/dbe/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_balance_response" ],
+    [ "Data", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_data.html", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_data" ],
+    [ "Balance", "d1/dab/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_balance.html", "d1/dab/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_balance" ],
+    [ "EpaycoBalance", "df/d57/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_epayco_balance.html", "df/d57/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_epayco_balance" ],
+    [ "Client", "dd/d02/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_client.html", "dd/d02/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_client" ],
+    [ "EPaycoClientConsultResponse", "de/dc4/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_consult_response.html", "de/dc4/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_consult_response" ],
+    [ "EPaycoClientConsultResponseData", "d9/d67/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_consult_response_data.html", "d9/d67/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_clients_1_1_e_payco_client_consult_response_data" ]
+];

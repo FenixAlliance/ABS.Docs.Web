@@ -1,0 +1,11 @@
+var class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute =
+[
+    [ "InexistentIdShouldReturnEmptyVersionArray", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#ae8e78d14da51c15b0ae794bd58b366b1", null ],
+    [ "InvalidIdThrowsArgumentNullException", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#a5fb942dac0a20b2172ee2ab53b6cde4c", null ],
+    [ "OnlyReturnsVersionsOfTheSamePackage", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#a3bef4e17625738361beec5e6df011ee1", null ],
+    [ "ValidPackageIdShouldReturnVersionsWhosePackagesAreListed", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#ad0313a9f932f1188f8457053d2f66bc3", null ],
+    [ "ValidPackageIdShouldReturnVersionsWhosePackageStatusIsAvailable", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#a12cb94a03759d8f66bccf51c500535b2", null ],
+    [ "ValidPackageIdWithSemVerLevelReturnVersionsWhosePackagesHaveSemVerLevelCompliant", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#a23efe89a205b78a8826b8a5fe45578c8", null ],
+    [ "ValidPackageIdWithWithPrereleaseFalseOrNullReturnsVersionsWhosePackagePrereleaseIsFalse", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#a46f3bf8b694681f22ee34b366844f91f", null ],
+    [ "WithPrereleaseTrueReturnsAllVersionsOfTheSamePackage", "d9/d80/class_nu_get_gallery_1_1_queries_1_1_autocomplete_database_package_versions_query_facts_1_1_execute.html#afaa77120c2be228cb5580c7fef627ff0", null ]
+];

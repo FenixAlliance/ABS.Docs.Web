@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_with_messages_async_method =
+[
+    [ "AddPackageOwnerAsync", "df/dc2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_with_messages_async_method.html#a3bd8cca5e2c09934345e8e3fcf81707a", null ],
+    [ "SendsAllMessagesEvenIfOneFails", "df/dc2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_with_messages_async_method.html#a84bbeae8e2a6dc9e4df8b763d7132905", null ],
+    [ "SendsMessagesToAllOwners", "df/dc2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_with_messages_async_method.html#a83cc7c384bf52218facc60271177eb6e", null ]
+];

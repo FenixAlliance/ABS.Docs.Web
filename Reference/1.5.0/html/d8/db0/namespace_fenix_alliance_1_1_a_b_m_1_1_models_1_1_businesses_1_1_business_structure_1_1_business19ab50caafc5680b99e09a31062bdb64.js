@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business19ab50caafc5680b99e09a31062bdb64 =
+[
+    [ "BusinessTeamProjectEnrollment", "dd/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea513013b35954bb82973a6a3a0d70d9f1.html", "dd/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea513013b35954bb82973a6a3a0d70d9f1" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi86602295e8e0e3e384fe404f854760d3 =
+[
+    [ "SigPolicyHash", "d0/d7b/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi86602295e8e0e3e384fe404f854760d3.html#ac341da47aae869c39135f2b0361311c7", null ],
+    [ "SigPolicyId", "d0/d7b/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi86602295e8e0e3e384fe404f854760d3.html#af967de2b693a4549a2ec8fc5a62056e0", null ]
+];

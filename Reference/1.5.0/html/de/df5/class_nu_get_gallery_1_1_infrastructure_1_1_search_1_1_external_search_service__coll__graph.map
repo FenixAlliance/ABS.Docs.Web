@@ -1,0 +1,8 @@
+<map id="NuGetGallery.Infrastructure.Search.ExternalSearchService" name="NuGetGallery.Infrastructure.Search.ExternalSearchService">
+<area shape="rect" id="node1" title=" " alt="" coords="251,95,451,136"/>
+<area shape="rect" id="node2" href="$d7/dde/interface_nu_get_gallery_1_1_i_search_service.html" title=" " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" href="$de/d49/interface_nu_get_gallery_1_1_i_indexing_service.html" title=" " alt="" coords="140,5,259,32"/>
+<area shape="rect" id="node4" href="$d6/d76/interface_nu_get_gallery_1_1_i_raw_search_service.html" title=" " alt="" coords="283,5,419,32"/>
+<area shape="rect" id="node5" href="$dd/d10/interface_nu_get_gallery_1_1_infrastructure_1_1_lucene_1_1_i_indexing_job_factory.html" title=" " alt="" coords="444,5,584,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="608,5,663,32"/>
+</map>

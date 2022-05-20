@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_types_1_1e_payco_payment =
+[
+    [ "ePaycoConnector", "d3/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_types_1_1e_payco_payment.html#aef55e4f9a4524137f09705a1e6818bf7", null ],
+    [ "ePaycoConnectorID", "d3/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_types_1_1e_payco_payment.html#aa769b4b733330a9137becdd89e15ac6d", null ]
+];

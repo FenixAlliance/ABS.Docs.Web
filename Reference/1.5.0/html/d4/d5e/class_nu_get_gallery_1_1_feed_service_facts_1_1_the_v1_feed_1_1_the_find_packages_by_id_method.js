@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method =
+[
+    [ "V1FeedFindPackagesByIdDoesNotReturnDeletedPackages", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method.html#a6f8eff07850b442b7715b706cd3cad5e", null ],
+    [ "V1FeedFindPackagesByIdReturnsUnlistedPackagesButNotPrereleasePackages", "d4/d5e/class_nu_get_gallery_1_1_feed_service_facts_1_1_the_v1_feed_1_1_the_find_packages_by_id_method.html#aa109ba8491b4b95f3271b7ac697c94ad", null ]
+];

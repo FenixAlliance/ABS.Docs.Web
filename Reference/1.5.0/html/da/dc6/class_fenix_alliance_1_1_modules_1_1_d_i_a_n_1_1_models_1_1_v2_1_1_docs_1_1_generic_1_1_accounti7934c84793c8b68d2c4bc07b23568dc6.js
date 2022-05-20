@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounti7934c84793c8b68d2c4bc07b23568dc6 =
+[
+    [ "CompanyID", "da/dc6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounti7934c84793c8b68d2c4bc07b23568dc6.html#a2aa8939c486f0514cd35bb60652d3375", null ],
+    [ "CorporateRegistrationScheme", "da/dc6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounti7934c84793c8b68d2c4bc07b23568dc6.html#a2c0e47a6abf19d5c3e1baa3d08aa48ff", null ],
+    [ "RegistrationName", "da/dc6/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounti7934c84793c8b68d2c4bc07b23568dc6.html#aa99deadf305e2c4b83a6a774e52d010d", null ]
+];

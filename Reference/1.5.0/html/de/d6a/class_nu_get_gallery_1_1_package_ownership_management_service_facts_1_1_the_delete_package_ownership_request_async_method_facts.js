@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts =
+[
+    [ "DeletePackageOwnershipRequestAsync", "de/d6a/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts.html#a41580dda9a9a446445a8786414d2f844", null ],
+    [ "DoesNotDeleteOrAuditIfRecordDoesNotExist", "de/d6a/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts.html#abecff1f22f7cd1d5cc21cb75c8538909", null ],
+    [ "NullNewUserThrowsException", "de/d6a/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts.html#a79c69c0f276d13189630a38637e2b84b", null ],
+    [ "NullPackageRegistrationThrowsException", "de/d6a/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts.html#a045d62ca624f2a249c7108d4acd651a3", null ],
+    [ "RequestIsDeletedSuccessfully", "de/d6a/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method_facts.html#ad57cf69f5c671d78318f969e73366773", null ]
+];

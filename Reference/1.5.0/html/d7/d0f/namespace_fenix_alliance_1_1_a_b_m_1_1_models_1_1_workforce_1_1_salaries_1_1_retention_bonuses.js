@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses =
+[
+    [ "RetentionBonus", "d0/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses_1_1_retention_bonus.html", "d0/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses_1_1_retention_bonus" ]
+];

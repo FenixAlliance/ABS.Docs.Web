@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method =
+[
+    [ "ReturnsSuccessIfPackageOwnerRequestMatches", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html#a2f7f39bdb364de2e905a6fb8b93c2a40", null ],
+    [ "ThrowsArgumentNullIfPackageIsNull", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html#a735e602a78614e0210687238cd5cb4ec", null ],
+    [ "ThrowsArgumentNullIfPendingOwnerIsNull", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html#aafd2235ad1b8453cf0ac45bcad5b65e9", null ],
+    [ "ThrowsArgumentNullIfTokenIsNullOrEmpty", "d4/de2/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_is_valid_package_owner_request_method.html#a14f8f9a733d7ce1ed48989225d35a3e3", null ]
+];

@@ -1,0 +1,26 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service =
+[
+    [ "AggregateAccountingEntriesCredits", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a93d2b2d5da60f259f6fa650b689f972a", null ],
+    [ "AggregateAccountingEntriesDebits", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a42b0d68a88a3df51f8b15cd8548b81ab", null ],
+    [ "AggregateAccountsBalances", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ad6b0a38bbe703915c5f4f0d03fad5d59", null ],
+    [ "AggregateCreditJournalEntries", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a49b10f9efbbd9ba5e1a00a38f6c5ca19", null ],
+    [ "AggregateDebitJournalEntries", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ae2a75c20df091761c4043c5996761a7b", null ],
+    [ "AggregateInvoiceBases", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#acfaa66b632e31f92043df9661bc3fce5", null ],
+    [ "AggregateInvoiceDetails", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a7192b27f6b78f153ddbaec30fbecd3fb", null ],
+    [ "AggregateInvoiceDiscounts", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a3316d9a8092abca509df1bb605038d50", null ],
+    [ "AggregateInvoiceGlobalDiscounts", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ac99b7fea47b7fa95b9b81c422d1ab6fb", null ],
+    [ "AggregateInvoiceGlobalSurcharges", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#af41a5e472b6d994b8ceba135cabe95d0", null ],
+    [ "AggregateInvoiceProfits", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a9618d08854dd7cbfde18be74333758d1", null ],
+    [ "AggregateInvoiceSurcharges", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a394f43e6420df23b5a6db27cc323fbe0", null ],
+    [ "AggregateInvoiceTaxBases", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a18309aa11164a98efca693354c950db4", null ],
+    [ "AggregateInvoiceTaxes", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#abd1cf6a5776aa21fcb60d596124a8c02", null ],
+    [ "AggregateInvoiceTotals", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a2b5fa7cff96b6cb8dde2e29e29f2ece9", null ],
+    [ "BalanceAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ab0af81508908ae812833ca905ffec8e8", null ],
+    [ "BalanceRootAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a37d49bd5426260de88133965046f0887", null ],
+    [ "CreateAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#afd0e6204ae44b18efbf275c46b97a9f2", null ],
+    [ "CreatePaymentAsync", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aacca43cd6f194c23c69ca92b5b9073cc", null ],
+    [ "DeleteAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aa3b3bc76cb50bc30a6b282e701c9f56b", null ],
+    [ "DeleteAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ad57559a9a1d7772e343f9b6f73f84ba1", null ],
+    [ "GetAccount", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a390f1c9b51fc1f88f1b81dbbd360c661", null ],
+    [ "GetAccounts", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a0e5f8ef37df3ccc895d9bfb17edc2429", null ]
+];

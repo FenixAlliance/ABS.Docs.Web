@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifying_properties_signed_properties =
+[
+    [ "Id", "db/dbe/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifying_properties_signed_properties.html#a57ed6e1a1cb270b6bfac7b75a781460d", null ],
+    [ "SignedSignatureProperties", "db/dbe/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifying_properties_signed_properties.html#a7303bfa7135278044cdaa199ff0a692d", null ]
+];

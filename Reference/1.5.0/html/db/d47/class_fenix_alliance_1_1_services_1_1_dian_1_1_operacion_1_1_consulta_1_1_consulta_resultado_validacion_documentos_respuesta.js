@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_respuesta =
+[
+    [ "ConsultaResultadoValidacionDocumentosRespuesta", "db/d47/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_respuesta.html#a505cb5eb43e925474ccf61d5930edffa", null ],
+    [ "ConsultaResultadoValidacionDocumentosRespuesta", "db/d47/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_respuesta.html#a1d1d852847fbe1435cec284c95167bcb", null ],
+    [ "ConsultaResultadoValidacionDocumentosRespuesta1", "db/d47/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_respuesta.html#a043e172f89759af3233907b7f59c4f18", null ]
+];

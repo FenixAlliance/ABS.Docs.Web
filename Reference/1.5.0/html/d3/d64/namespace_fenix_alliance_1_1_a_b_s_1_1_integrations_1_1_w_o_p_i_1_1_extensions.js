@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_extensions =
+[
+    [ "WopiExtensions", "dd/d7a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_extensions_1_1_wopi_extensions.html", "dd/d7a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_extensions_1_1_wopi_extensions" ]
+];

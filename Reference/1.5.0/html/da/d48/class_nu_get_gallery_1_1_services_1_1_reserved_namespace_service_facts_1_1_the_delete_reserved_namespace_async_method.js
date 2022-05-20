@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method =
+[
+    [ "DeletingNamespaceClearsVerifiedFlagOnPackage", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html#acf17526b4be8fb58179d9ae7b74555d2", null ],
+    [ "InvalidNamespaceThrowsException", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html#a7cd288813cf90efe327207b148c9da6b", null ],
+    [ "NonexistentNamespaceThrowsException", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html#a0cbac5c80f74c38eac89b0bb26675bf2", null ],
+    [ "VanillaReservedNamespaceIsDeletedCorrectly", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html#ad2c8e5156ce3fe87686765c4c101c439", null ],
+    [ "WritesAnAuditRecord", "da/d48/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_delete_reserved_namespace_async_method.html#af455aee2689d362aa457c23f6276494e", null ]
+];

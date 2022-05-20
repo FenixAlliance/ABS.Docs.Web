@@ -1,0 +1,9 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b =
+[
+    [ "BusinessApplication", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#a41c8f73742632eb5a32bd9d0b9f1248a", null ],
+    [ "BusinessApplicationID", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#ac245cf2a55d3e6e482974adef08c57c5", null ],
+    [ "BusinessPermission", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#a7c6fd6f7f20fea1bd5854b6ccf74b122", null ],
+    [ "BusinessPermissionID", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#ac7fa99ec472f2a4dc1a50ac9d247b51e", null ],
+    [ "ID", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#a4b0be5a1a7d8242bade96592ac6be3ea", null ],
+    [ "IsOptional", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html#a7c0949ecf6e4ceb912280f93eb7c0aaa", null ]
+];

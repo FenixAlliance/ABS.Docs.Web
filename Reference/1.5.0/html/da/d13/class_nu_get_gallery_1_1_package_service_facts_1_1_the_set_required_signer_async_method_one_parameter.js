@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter =
+[
+    [ "TheSetRequiredSignerAsyncMethodOneParameter", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html#a319b783cb3b9b4b839c862b67610586c", null ],
+    [ "SetRequiredSignerAsync_WhenMultiplePackageRegistrationsOwned_Succeeds", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html#a86a7811a342a3228e608cd5301b29665", null ],
+    [ "SetRequiredSignerAsync_WhenNoPackageRegistrationsOwned_Succeeds", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html#a8ad728ca868ccb3e91948d3373823aa1", null ],
+    [ "SetRequiredSignerAsync_WhenSignerIsNull_Throws", "da/d13/class_nu_get_gallery_1_1_package_service_facts_1_1_the_set_required_signer_async_method_one_parameter.html#a6f0f7ae6ee7828a876fbfc4d71b60e60", null ]
+];

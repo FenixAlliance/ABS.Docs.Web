@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule =
+[
+    [ "_24x7Interval", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a151b8c098a76e23498668b76607b56e5", null ],
+    [ "Business", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a0161d92b4c81dbb6577601385da7ab30", null ],
+    [ "BusinessID", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#aa77815b15a16e8e6cd09dbfd3d42854e", null ],
+    [ "Description", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a4157996ba98086a0ddfe9f922078db3f", null ],
+    [ "Disabled", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#ae89c414fbc1782543b0349768fab3030", null ],
+    [ "End", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a01d124a6f41edec094852d9d5e4864c0", null ],
+    [ "FiscalYear", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a1ad594550e945f86305b0c79252388b1", null ],
+    [ "FiscalYearID", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a5a1bb657c3b5ec88d1e7f8188b2ead16", null ],
+    [ "Friday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a94f254cb7b9ec73b069156e676896a00", null ],
+    [ "HolidaySchedule", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#aea1c9a0bcb7b568b156ff0f7b52ef094", null ],
+    [ "HolidayScheduleID", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a879d57fca3ffb63609fa57cd786bd355", null ],
+    [ "ID", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a20c9dfb3830abe07b9ed59649c09a6c6", null ],
+    [ "Monday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#aa2da8d4a018c6d70989db76d675551f0", null ],
+    [ "Name", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#ac8d91a87129e14066277bbde9904b1ac", null ],
+    [ "Saturday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a400aab83b295f38adecaedddeb522d40", null ],
+    [ "Start", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a96ce296966669a64617701a9e088ab56", null ],
+    [ "Sunday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a8d63d1382a7c4f15c82a546bf9058f99", null ],
+    [ "Thursday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#aadeca9d1cd701959b7c512cadde1d661", null ],
+    [ "TimeIntervals", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a41690e944c23fb53f3cc82180b8fd889", null ],
+    [ "Timezone", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a2d4a1fd4f18fcb9e44017c94e02a4f6e", null ],
+    [ "TimezoneID", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#ac000ad7dd3db2e973fe7782d77d55cc8", null ],
+    [ "Tuesday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a45e824f3d45087e63e3e254d768f54c6", null ],
+    [ "UniqueInterval", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#af9388463cc63e3abd42b7bb5d4c409cf", null ],
+    [ "Wednesday", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html#a5b107f812c42eb279f766c65a4098453", null ]
+];

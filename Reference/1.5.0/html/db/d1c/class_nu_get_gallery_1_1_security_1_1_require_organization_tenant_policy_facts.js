@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts =
+[
+    [ "TheEvaluateMethod", "dd/d2c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts_1_1_the_evaluate_method.html", "dd/d2c/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy_facts_1_1_the_evaluate_method" ]
+];

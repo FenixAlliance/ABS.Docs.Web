@@ -1,0 +1,4 @@
+<map id="NuGetGallery.ImmediatePackageValidator&lt; TPackageEntity &gt;" name="NuGetGallery.ImmediatePackageValidator&lt; TPackageEntity &gt;">
+<area shape="rect" id="node1" title="A validation initiator that immediately marks the package as validated. In other words,..." alt="" coords="5,95,221,136"/>
+<area shape="rect" id="node2" href="$d1/d14/interface_nu_get_gallery_1_1_i_package_validation_initiator.html" title="Initiates validation for a specific package." alt="" coords="25,5,202,47"/>
+</map>

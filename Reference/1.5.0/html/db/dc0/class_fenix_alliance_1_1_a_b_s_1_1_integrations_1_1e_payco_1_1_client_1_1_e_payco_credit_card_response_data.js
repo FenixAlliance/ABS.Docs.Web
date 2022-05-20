@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data =
+[
+    [ "Apellidos", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#adb38a8f4369c9de2cea1ae4f95b8093a", null ],
+    [ "Autorizacion", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a5bed6e87079273e99eed4c2a089693fc", null ],
+    [ "Banco", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#ae4104597622b238c7b270ba07f8c02bf", null ],
+    [ "Baseiva", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a0a3ea371bb3782a53bf133a589c54821", null ],
+    [ "CodRespuesta", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#ad6740a6e1d0eb961d41874708207f0e6", null ],
+    [ "Descripcion", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#aeab04b08c65d1a4ea301def064449473", null ],
+    [ "Documento", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#ac7e5edd767ad910225be9d0a764564a0", null ],
+    [ "Email", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a23b541cfaf255dde00dcccea6c2ede17", null ],
+    [ "Enpruebas", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a7f91f850925c1e12fa32a0e30676eedb", null ],
+    [ "Errores", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a2c17c426fdabcc0575aaf0611de1aefc", null ],
+    [ "Estado", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a0cac712010e48f9ae1c556eeaff5bbeb", null ],
+    [ "Factura", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a461fdfd2eb0a99f4eaf6ec1717a73d68", null ],
+    [ "Fecha", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#aba0aed88880ccbfd350e78aa24af7863", null ],
+    [ "Ip", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a67b0934650e6f77b746c377a68fb558f", null ],
+    [ "Iva", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a6c38f971f9003ad5d919faedca4dcedc", null ],
+    [ "Moneda", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a3ff2866880cbee5e407aa1b9e500c2f6", null ],
+    [ "Nombres", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#aa207c8d26d2daaecfa2d0b2997970d44", null ],
+    [ "Recibo", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#aae914c73cb80a02ff82bfaf3e9190ccc", null ],
+    [ "RefPayco", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#acb0a1e912f21152b0401901fd72484c4", null ],
+    [ "Respuesta", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#afb38249d50e46a076bf028312111cb32", null ],
+    [ "TipoDoc", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#afc87dc9364ec77d901c29e07ca936135", null ],
+    [ "Totalerrores", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#af86f79e610cc3bde689b9b885b3114be", null ],
+    [ "Valor", "db/dc0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_client_1_1_e_payco_credit_card_response_data.html#a437c5bd00cb9d742deb0bf6240ae313b", null ]
+];

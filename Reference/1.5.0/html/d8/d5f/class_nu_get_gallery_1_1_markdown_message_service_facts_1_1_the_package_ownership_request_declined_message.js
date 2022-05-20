@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message =
+[
+    [ "DoesNotSendNoticeIfUserDoesNotAllowEmails", "d8/d5f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message.html#a8ee797063ead43c50a886cb6db7bb9f0", null ],
+    [ "SendsNotice", "d8/d5f/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_package_ownership_request_declined_message.html#a0472aa8aa101decb8f214a289dbdfdf1", null ]
+];

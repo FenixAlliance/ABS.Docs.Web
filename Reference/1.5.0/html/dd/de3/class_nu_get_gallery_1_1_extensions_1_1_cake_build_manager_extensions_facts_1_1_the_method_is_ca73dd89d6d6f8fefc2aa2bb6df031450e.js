@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_is_ca73dd89d6d6f8fefc2aa2bb6df031450e =
+[
+    [ "ReturnsFalse", "dd/de3/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_is_ca73dd89d6d6f8fefc2aa2bb6df031450e.html#a264b0d2d8bcffa43bb7109fcf668f993", null ]
+];

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73 =
+[
+    [ "PaymentDispute", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html#ad16e28920068758c8654717df610512c", null ],
+    [ "PaymentDisputeID", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html#ad8c80778d0fbe4a48c58fcda547788fa", null ],
+    [ "WalletAccount", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html#a9d3e8bf255db94933d3aedf44978f30e", null ],
+    [ "WalletAccountID", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html#a969da6a91cfe02ff15f580673cefe512", null ]
+];

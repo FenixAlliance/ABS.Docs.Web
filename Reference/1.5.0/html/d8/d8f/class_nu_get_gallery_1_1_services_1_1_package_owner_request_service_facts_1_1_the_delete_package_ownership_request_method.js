@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_delete_package_ownership_request_method =
+[
+    [ "DeletesPackageOwnerRequest", "d8/d8f/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_delete_package_ownership_request_method.html#a32c980ccc2a7bfd88277d79c51326b05", null ],
+    [ "NullRequestThrowsException", "d8/d8f/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_delete_package_ownership_request_method.html#add4f8e901a192067890cfe6c3d5f84fc", null ]
+];

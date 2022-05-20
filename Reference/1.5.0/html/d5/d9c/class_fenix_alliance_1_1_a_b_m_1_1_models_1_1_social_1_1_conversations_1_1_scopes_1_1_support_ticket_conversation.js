@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation =
+[
+    [ "SupportTicket", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation.html#ab6058dc94b156bd45a60259519f270ae", null ],
+    [ "SupportTicketID", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation.html#a049f0bd31fa7cd102946a8831f546c19", null ]
+];

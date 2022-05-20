@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy =
+[
+    [ "GDPR", "d9/d89/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy_1_1_g_d_p_r.html", "d9/d89/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy_1_1_g_d_p_r" ],
+    [ "PrivacyOptions", "db/d48/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy_1_1_privacy_options.html", "db/d48/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy_1_1_privacy_options" ]
+];

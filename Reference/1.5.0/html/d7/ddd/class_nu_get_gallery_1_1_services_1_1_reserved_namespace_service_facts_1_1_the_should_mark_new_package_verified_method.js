@@ -1,0 +1,11 @@
+var class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method =
+[
+    [ "MultipleOwnedNamespacesAreReturnedCorrectly", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#a304dd3c2ffc8e0529e8fc14c50ea3cad", null ],
+    [ "NonMatchingNamespacesAllowsPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#a0bef8193c9d92adaf6035cf996bea4e9", null ],
+    [ "NonOwnedNamespacesRejectPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#a112e10f35ae9876ddcb304272c81d8ec", null ],
+    [ "NonPrefixNamespaceDoesNotBlockPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#ad225655dd9d9ba7b763b9275314c3c65", null ],
+    [ "OwnedNamespacesAllowsPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#a73a0658fad2d7afb5e00155b4d6b3083", null ],
+    [ "OwnedSharedNamespacesAllowsPushAndReturnsDataCorrectly", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#ad3d57141077b8164841a2d5d097051ea", null ],
+    [ "OwnerlessNamespacesRejectPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#ab4a8eafc022a08d128b351f65e8b29ac", null ],
+    [ "SharedNamespacesAllowsPush", "d7/ddd/class_nu_get_gallery_1_1_services_1_1_reserved_namespace_service_facts_1_1_the_should_mark_new_package_verified_method.html#a90aad69b36a235e1de25dc249487311c", null ]
+];

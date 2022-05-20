@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_responses_1_1_immediate_payment =
+[
+    [ "ImmediatePaymentRequired", "d0/dba/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_responses_1_1_immediate_payment.html#a5550d0bc964af46aad9a2c58c092f91f", null ],
+    [ "Reasons", "d0/dba/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_responses_1_1_immediate_payment.html#a0e91127599278272d1f521a5b6bb683a", null ]
+];

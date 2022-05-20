@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_discovery_1_1_i_discovery_file_provider =
+[
+    [ "GetDiscoveryXmlAsync", "dc/dda/interface_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_discovery_1_1_i_discovery_file_provider.html#ac2addb328db6dfb0fc563a57c1c1baa0", null ]
+];

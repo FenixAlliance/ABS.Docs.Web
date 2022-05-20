@@ -1,0 +1,11 @@
+<map id="NuGetGallery.PackageViewModel" name="NuGetGallery.PackageViewModel">
+<area shape="rect" id="node1" title=" " alt="" coords="209,72,392,113"/>
+<area shape="rect" id="node3" href="$d2/dd5/class_nu_get_gallery_1_1_display_license_view_model.html" title=" " alt="" coords="440,39,632,80"/>
+<area shape="rect" id="node4" href="$df/d36/class_nu_get_gallery_1_1_list_package_item_view_model.html" title=" " alt="" coords="448,104,624,145"/>
+<area shape="rect" id="node2" href="$d6/d2a/interface_nu_get_gallery_1_1_i_package_version_model.html" title=" " alt="" coords="5,79,161,106"/>
+<area shape="rect" id="node5" href="$dd/df0/class_nu_get_gallery_1_1_delete_account_list_package_item_view_model.html" title=" " alt="" coords="686,5,875,47"/>
+<area shape="rect" id="node6" href="$d5/d5f/class_nu_get_gallery_1_1_display_package_view_model.html" title=" " alt="" coords="681,71,880,112"/>
+<area shape="rect" id="node8" href="$de/d9f/class_nu_get_gallery_1_1_list_package_item_required_signer_view_model.html" title=" " alt="" coords="681,136,880,177"/>
+<area shape="rect" id="node9" href="$d0/df4/class_nu_get_gallery_1_1_manage_package_view_model.html" title=" " alt="" coords="680,201,881,243"/>
+<area shape="rect" id="node7" href="$d4/db2/class_nu_get_gallery_1_1_delete_package_view_model.html" title=" " alt="" coords="929,71,1121,112"/>
+</map>

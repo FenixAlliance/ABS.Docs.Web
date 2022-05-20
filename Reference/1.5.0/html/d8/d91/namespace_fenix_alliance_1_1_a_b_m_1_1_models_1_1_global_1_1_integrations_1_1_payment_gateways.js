@@ -1,0 +1,8 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways =
+[
+    [ "ePayco", "d1/d2b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1e_payco.html", "d1/d2b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1e_payco" ],
+    [ "Nequi", "d1/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_nequi.html", "d1/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_nequi" ],
+    [ "PayPal", "de/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_pay_pal.html", "de/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_pay_pal" ],
+    [ "PayU", "de/dd5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_pay_u.html", "de/dd5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_pay_u" ],
+    [ "PaymentGateway", "d4/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_payment_gateway.html", "d4/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_payment_gateway" ]
+];

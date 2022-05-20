@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_cancel_package_ownerf5f25a33ebc6dcc02644b9dd0c2b7da8 =
+[
+    [ "DeletePackageOwnershipRequestAsync", "d5/df2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_cancel_package_ownerf5f25a33ebc6dcc02644b9dd0c2b7da8.html#a4323a7b05e00b48f9328436d79b91bf9", null ],
+    [ "NullRequestingUserThrowsException", "d5/df2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_cancel_package_ownerf5f25a33ebc6dcc02644b9dd0c2b7da8.html#ac353873ef334d230cb3a793cef4a93e8", null ],
+    [ "SendsMessage", "d5/df2/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_cancel_package_ownerf5f25a33ebc6dcc02644b9dd0c2b7da8.html#a1eca2798b7bb25410a3a364be301ff6e", null ]
+];

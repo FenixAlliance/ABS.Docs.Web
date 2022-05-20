@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response =
+[
+    [ "Files", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response.html#acb137ecff8df2308bb031107b3d2f1bc", null ],
+    [ "InstalledPackages", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response.html#a54a74ccf64ded9516f3e6af56680b9d4", null ],
+    [ "StaticAssets", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response.html#a5893634de9d6c9edd631d02e0071072b", null ]
+];

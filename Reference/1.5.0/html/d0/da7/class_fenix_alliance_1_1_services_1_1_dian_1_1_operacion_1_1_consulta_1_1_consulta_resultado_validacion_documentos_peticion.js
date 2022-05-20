@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_peticion =
+[
+    [ "ConsultaResultadoValidacionDocumentosPeticion", "d0/da7/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_peticion.html#a9c07109d1b59479452168f99a9e352f8", null ],
+    [ "ConsultaResultadoValidacionDocumentosPeticion", "d0/da7/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_peticion.html#a743ba6e4cde51386b679a09205241736", null ],
+    [ "ConsultaResultadoValidacionDocumentosPeticion1", "d0/da7/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_consulta_resultado_validacion_documentos_peticion.html#ae1fd512a00a0689ff5c4a76775b2ea3e", null ]
+];

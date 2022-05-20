@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_controllers_1_1_wopi_bootstrapper_controller =
+[
+    [ "WopiBootstrapperController", "d3/d49/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_controllers_1_1_wopi_bootstrapper_controller.html#a12fd0a2ccecaedfb4dbfd8746b2cf48d", null ],
+    [ "GetRootContainer", "d3/d49/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_controllers_1_1_wopi_bootstrapper_controller.html#aaa24af42e548580d9b1e75eee0775948", null ]
+];

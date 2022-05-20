@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi9f404988d27afcaede1bce99f14ec112 =
+[
+    [ "CertDigest", "d3/d17/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi9f404988d27afcaede1bce99f14ec112.html#ab233f60c43aafa9fbe8c9a10f17700d5", null ],
+    [ "IssuerSerial", "d3/d17/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi9f404988d27afcaede1bce99f14ec112.html#a9676403dc6bae035cef6217d8123f3a3", null ]
+];

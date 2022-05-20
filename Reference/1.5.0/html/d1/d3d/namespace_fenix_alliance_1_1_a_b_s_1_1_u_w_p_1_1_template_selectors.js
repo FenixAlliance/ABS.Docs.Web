@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_u_w_p_1_1_template_selectors =
+[
+    [ "SharedContentTemplateSelector", "de/daa/class_fenix_alliance_1_1_a_b_s_1_1_u_w_p_1_1_template_selectors_1_1_shared_content_template_selector.html", "de/daa/class_fenix_alliance_1_1_a_b_s_1_1_u_w_p_1_1_template_selectors_1_1_shared_content_template_selector" ]
+];

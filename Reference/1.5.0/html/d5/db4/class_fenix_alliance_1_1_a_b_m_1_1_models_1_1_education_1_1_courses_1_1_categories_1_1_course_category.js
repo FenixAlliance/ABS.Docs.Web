@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories_1_1_course_category =
+[
+    [ "Courses", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories_1_1_course_category.html#aad401a5010e2d2a3b14b270142a7b9f3", null ]
+];

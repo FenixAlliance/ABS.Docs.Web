@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method =
+[
+    [ "ReturnsExpectedBodyForApiKey", "de/df7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method.html#aaab9c2efd5941eb6be2e9c4da7510064", null ],
+    [ "ReturnsExpectedBodyForNonApiKey", "de/df7/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_added_message_facts_1_1_the_get_body_method.html#a47960ca14e8e42791bc94e01e9eda5dd", null ]
+];

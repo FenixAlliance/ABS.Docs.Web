@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_validate_customer_payment_profile =
+[
+    [ "Run", "d6/d08/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_validate_customer_payment_profile.html#a6edbc3b455bf0d1c21e1060b3b877f64", null ]
+];

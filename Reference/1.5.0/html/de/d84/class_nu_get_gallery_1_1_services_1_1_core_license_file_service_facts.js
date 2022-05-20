@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts =
+[
+    [ "ExtractAndSaveLicenseFileAsync", "d4/dc7/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_extract_and_save_license_file_async.html", "d4/dc7/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_extract_and_save_license_file_async" ],
+    [ "TheDeleteLicenseFileAsyncMethod", "d9/d82/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_delete_license_file_async_method.html", "d9/d82/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_delete_license_file_async_method" ],
+    [ "TheDownloadLicenseFileAsyncMethod", "d9/da5/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_download_license_file_async_method.html", "d9/da5/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_download_license_file_async_method" ],
+    [ "TheSaveLicenseFileAsyncMethod", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method.html", "da/d5d/class_nu_get_gallery_1_1_services_1_1_core_license_file_service_facts_1_1_the_save_license_file_async_method" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_tax_total_tax_subtotal_tax_category =
+[
+    [ "Percent", "d6/dd1/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_tax_total_tax_subtotal_tax_category.html#a28a38b676ca806f31394ace6f86538d2", null ],
+    [ "TaxScheme", "d6/dd1/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_tax_total_tax_subtotal_tax_category.html#a2801c68aaef0764191f745da2c43d9d3", null ]
+];

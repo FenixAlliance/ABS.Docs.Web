@@ -1,0 +1,38 @@
+var class_nu_get_gallery_1_1_statistics_packages_view_model =
+[
+    [ "WeekFormats", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a569d760ba7c4be0f3e2deab9bb81e9ef", [
+      [ "StartOnly", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a569d760ba7c4be0f3e2deab9bb81e9efabea6de624a76a0f8a22bb1b9f6aa3bc8", null ],
+      [ "EndOnly", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a569d760ba7c4be0f3e2deab9bb81e9efa4ae4aafae85d243592ef91e7da385f02", null ],
+      [ "FullDate", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a569d760ba7c4be0f3e2deab9bb81e9efa04aca8886b28bac0dcfee1bcc33b4416", null ],
+      [ "YearWeekNumber", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a569d760ba7c4be0f3e2deab9bb81e9efac4f5f6272d25732b0707f06cd57b6b13", null ]
+    ] ],
+    [ "StatisticsPackagesViewModel", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#abb353b63332db7b69024c2dd1c931362", null ],
+    [ "DisplayDownloads", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#afefe7a9cf06bca3a9f771ff122b17a88", null ],
+    [ "DisplayPercentage", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ab7d2e176be486f5dd86c40e2191ef786", null ],
+    [ "DisplayShortNumber", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a29f3630123d241f6a28d5734de0f829e", null ],
+    [ "DisplayWeek", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a06319927cbe86695996c06244b6f53a8", null ],
+    [ "SetPackageDownloadsByVersion", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ae1a423e80eeaf6cd9db288b91ad0f5e7", null ],
+    [ "SetPackageVersionDownloadsByClient", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a91507f46bbe8e5097c5be1c71a53ade5", null ],
+    [ "Update", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ab0fee797188cc291a3dd1bdb618085ea", null ],
+    [ "DownloadCommunityPackagesAll", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#abc91c77b08260b99fbf180556196065b", null ],
+    [ "DownloadCommunityPackagesSummary", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#af1bf18b2cfefaa72211b5e7c32bd2d32", null ],
+    [ "DownloadCommunityPackageVersionsAll", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ab0252ebc60fa2144f2707d11e071d569", null ],
+    [ "DownloadCommunityPackageVersionsSummary", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a0031633077994b26e1aa0e933d53a190", null ],
+    [ "DownloadPackagesAll", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a5d55600c679230dac5f2fc975093c36d", null ],
+    [ "DownloadPackagesSummary", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a6da06d0356eb6b74eb44aa263f8b649b", null ],
+    [ "DownloadPackageVersionsAll", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a75102db286e6444d7390b4853057d7a6", null ],
+    [ "DownloadPackageVersionsSummary", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ae8f7c7ba00a26067e979f9dc64d943b1", null ],
+    [ "IsDownloadCommunityPackageAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a55ae583580ed13a72db32e1831bccf21", null ],
+    [ "IsDownloadCommunityPackageVersionsAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#ab46ca4829c627b4c55769c5ef9b5a601", null ],
+    [ "IsDownloadPackageAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#af16c5ddcbb0bec6e1b61638c626501e9", null ],
+    [ "IsDownloadPackageVersionsAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a955a26f6325bac662351498fd2c3093f", null ],
+    [ "IsLast6WeeksAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a7e88da3cbf16526bee8d97584ff0d0e6", null ],
+    [ "IsNuGetClientVersionAvailable", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a9ddf1a61c7735cf93bd8d50de34d570d", null ],
+    [ "Last6Weeks", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a3915829e5a102e19a4719d08510251f0", null ],
+    [ "LastUpdatedUtc", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a2219838f43bd4af30e05b6d975718ce5", null ],
+    [ "NuGetClientVersion", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a6709cdbeab8c03edc5d336b0349137bb", null ],
+    [ "NuGetClientVersionTotalDownloads", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#aa8a6c9943a25e692922b4b929808278a", null ],
+    [ "PackageId", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#a0c1ebd99bf9534ec1e1030b7caa9830b", null ],
+    [ "PackageVersion", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#afee658b80dea00f57b88de1e02f7f0be", null ],
+    [ "UseD3", "dc/d3f/class_nu_get_gallery_1_1_statistics_packages_view_model.html#af28921c9228910e49932219d090bfa4b", null ]
+];

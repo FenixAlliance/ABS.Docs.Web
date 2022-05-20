@@ -1,0 +1,7 @@
+<map id="NuGetGallery.IIndexingService" name="NuGetGallery.IIndexingService">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,207,138"/>
+<area shape="rect" id="node2" href="$dc/d41/class_git_hub_vulnerabilities2_db_1_1_gallery_1_1_throwing_indexing_service.html" title=" " alt="" coords="255,5,467,47"/>
+<area shape="rect" id="node3" href="$d0/db0/class_nu_get_gallery_1_1_account_deleter_1_1_empty_indexing_service.html" title="This class must exist becuase PackageUpdateService requires an IIndexingService However,..." alt="" coords="262,71,459,112"/>
+<area shape="rect" id="node4" href="$d0/d39/class_nu_get_gallery_1_1_infrastructure_1_1_search_1_1_external_search_service.html" title=" " alt="" coords="261,136,461,177"/>
+<area shape="rect" id="node5" href="$da/d80/class_nu_get_gallery_1_1_lucene_indexing_service.html" title=" " alt="" coords="263,201,458,243"/>
+</map>

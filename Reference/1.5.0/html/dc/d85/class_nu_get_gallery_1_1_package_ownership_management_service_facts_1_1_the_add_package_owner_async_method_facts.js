@@ -1,0 +1,12 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts =
+[
+    [ "AddingOwnerAddsPackageRegistrationToMultipleNamespaces", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#ad93c705f8a74432eb350fa2e9058d008", null ],
+    [ "AddingOwnerDoesNotMarkRegistrationVerifiedForAbsoluteNamespace", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#aaed0086726c74a0f34463603f9021376", null ],
+    [ "AddingOwnerMarksPackageVerifiedForMatchingNamespace", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#a0c8c4035b7f931f22a522f735894540b", null ],
+    [ "AddPackageOwnerAsync", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#aa9e07cd8100b01f621c591d57520ab0f", null ],
+    [ "NewOwnerIsAddedSuccessfullyToTheRegistration", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#adeabb9af76dfdac4f5dba63384afa558", null ],
+    [ "NewOwnerIsAddedSuccessfullyWithoutPendingRequest", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#a333834dd281c5709fb818eab4e6068dd", null ],
+    [ "NullPackageRegistrationThrowsException", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#a26fb544ccec5f3dc05a1e0b675f6ad8c", null ],
+    [ "NullUserThrowsException", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#a64ae7c1f769a4a950a5e226dacdf273a", null ],
+    [ "WritesAnAuditRecord", "dc/d85/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_owner_async_method_facts.html#a4cd03e3cec2de1a6a0e25051103feb39", null ]
+];

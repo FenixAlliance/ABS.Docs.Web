@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries =
+[
+    [ "ApiResponseQuery", "d2/d38/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_api_response_query.html", "d2/d38/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_api_response_query" ]
+];

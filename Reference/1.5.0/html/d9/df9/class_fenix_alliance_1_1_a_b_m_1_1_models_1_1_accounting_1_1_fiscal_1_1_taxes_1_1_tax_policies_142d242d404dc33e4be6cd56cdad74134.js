@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134 =
+[
+    [ "AppliedFee", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134.html#aa5203ed23d151e5d8d452009645c98af", null ],
+    [ "AppliedFeeID", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134.html#aaab0379198a262abe69ded1c381289c2", null ]
+];

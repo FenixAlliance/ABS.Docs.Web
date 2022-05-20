@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method =
+[
+    [ "UsesConfiguredSiteRootInAbsoluteUri", "dc/de9/class_nu_get_gallery_1_1_url_helper_extensions_facts_1_1_the_get_absolute_return_url_method.html#ac3ec2281daded87236b6d82d1b2c01e7", null ]
+];

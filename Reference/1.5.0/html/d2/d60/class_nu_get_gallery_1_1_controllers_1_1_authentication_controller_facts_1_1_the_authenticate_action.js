@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_action =
+[
+    [ "WillChallengeTheUserUsingTheGivenProviderAndReturnUrl", "d2/d60/class_nu_get_gallery_1_1_controllers_1_1_authentication_controller_facts_1_1_the_authenticate_action.html#adf5036a2239c669dc858c60f2675f6b8", null ]
+];

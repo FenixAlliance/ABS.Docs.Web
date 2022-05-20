@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts =
+[
+    [ "SocialMediaPost", "db/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post.html", "db/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post" ],
+    [ "SocialMediaPostFile", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post_file.html", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post_file" ]
+];

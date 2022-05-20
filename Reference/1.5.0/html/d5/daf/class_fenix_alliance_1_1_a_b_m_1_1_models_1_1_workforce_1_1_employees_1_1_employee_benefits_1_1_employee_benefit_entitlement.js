@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement =
+[
+    [ "EmployeeBenefit", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html#a4e04af7dcd087d9654b9e5c017a99ccf", null ],
+    [ "EmployeeBenefitID", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html#ab5612c32baf6ac5891cfed0349e66eb5", null ],
+    [ "EmployeeProfile", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html#a48bfbff1d42d258390b199383c3f3eba", null ],
+    [ "EmployeeProfileID", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html#a7fc5c8cbb10ac87a342a9028cab275a6", null ]
+];

@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones =
+[
+    [ "IdentificadorSoftware", "de/d99/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones.html#a972ab99b4fb430588c236246f612b24d", null ],
+    [ "NITObligadoFacturarElectronicamente", "de/d99/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones.html#a8fb638d7ed5e1985f1e48f8f3539ae7d", null ],
+    [ "NITProveedorTecnologico", "de/d99/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consulta_resoluciones.html#a38aaa621d26e870d19dd17452ca0476c", null ]
+];

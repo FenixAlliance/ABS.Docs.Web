@@ -1,0 +1,10 @@
+<map id="FenixAlliance.ABM.Models.Accounting.Billing.BillingItemRecord" name="FenixAlliance.ABM.Models.Accounting.Billing.BillingItemRecord">
+<area shape="rect" id="node1" title="Represents the relation between a Stock Item and a Billing Process." alt="" coords="5,245,196,301"/>
+<area shape="rect" id="node2" href="$dd/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_coupon_item_record.html" title=" " alt="" coords="257,5,466,61"/>
+<area shape="rect" id="node3" href="$df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_cart_record.html" title=" " alt="" coords="251,85,471,141"/>
+<area shape="rect" id="node4" href="$d9/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_order_record.html" title=" " alt="" coords="251,165,471,221"/>
+<area shape="rect" id="node5" href="$da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record.html" title=" " alt="" coords="249,245,474,301"/>
+<area shape="rect" id="node6" href="$d8/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_item_record.html" title="Represents an order line base object." alt="" coords="259,325,464,381"/>
+<area shape="rect" id="node7" href="$db/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_item_record.html" title=" " alt="" coords="244,406,479,447"/>
+<area shape="rect" id="node8" href="$da/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records_1_1_quote_item_record.html" title=" " alt="" coords="245,472,478,528"/>
+</map>

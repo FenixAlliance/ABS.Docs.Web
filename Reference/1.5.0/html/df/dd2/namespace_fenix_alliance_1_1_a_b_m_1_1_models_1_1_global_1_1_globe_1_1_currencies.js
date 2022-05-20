@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies =
+[
+    [ "ForeignExchangeSet", "dc/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies_1_1_foreign_exchange_set.html", "dc/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies_1_1_foreign_exchange_set" ]
+];

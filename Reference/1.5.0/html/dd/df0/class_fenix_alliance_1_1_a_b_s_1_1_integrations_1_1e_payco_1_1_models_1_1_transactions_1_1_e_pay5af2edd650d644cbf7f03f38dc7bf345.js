@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_transactions_1_1_e_pay5af2edd650d644cbf7f03f38dc7bf345 =
+[
+    [ "Success", "dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_transactions_1_1_e_pay5af2edd650d644cbf7f03f38dc7bf345.html#a6daa88e6301500b53b27b5365260882f", null ],
+    [ "Texto", "dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1e_payco_1_1_models_1_1_transactions_1_1_e_pay5af2edd650d644cbf7f03f38dc7bf345.html#ab99de1aa6600eb3e57e56ed5afc143cd", null ]
+];

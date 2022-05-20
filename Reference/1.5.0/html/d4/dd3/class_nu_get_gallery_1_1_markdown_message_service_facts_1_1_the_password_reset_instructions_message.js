@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_password_reset_instructions_message =
+[
+    [ "WillSendInstructions", "d4/dd3/class_nu_get_gallery_1_1_markdown_message_service_facts_1_1_the_password_reset_instructions_message.html#a87f8d26a31be4cd7db872340194577b9", null ]
+];

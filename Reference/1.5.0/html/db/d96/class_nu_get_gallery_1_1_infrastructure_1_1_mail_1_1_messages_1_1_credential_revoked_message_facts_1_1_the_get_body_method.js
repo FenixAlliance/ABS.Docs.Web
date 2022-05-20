@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method =
+[
+    [ "ReturnsExpectedBodyForCredentialWithDescription", "db/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method.html#a492fea1ded36d75b99b306473a603de4", null ],
+    [ "ReturnsExpectedBodyForCredentialWithNullDescription", "db/d96/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_revoked_message_facts_1_1_the_get_body_method.html#a021d17fc1494954b7c7f5c3487df70e8", null ]
+];

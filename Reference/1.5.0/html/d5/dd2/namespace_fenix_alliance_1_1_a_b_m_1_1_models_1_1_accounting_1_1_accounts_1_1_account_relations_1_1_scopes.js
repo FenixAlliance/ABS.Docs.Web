@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes =
+[
+    [ "ProjectAccount", "d0/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes_1_1_project_account.html", "d0/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes_1_1_project_account" ]
+];

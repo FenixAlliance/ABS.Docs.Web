@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b =
+[
+    [ "ConsultaResolucionesFacturacionPeticion", "d4/ddb/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b.html#a50051f63063a040eb227261bcfa9e0e7", null ],
+    [ "ConsultaResolucionesFacturacionPeticion", "d4/ddb/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b.html#a68724f98afc60654f2f0d15169a2d952", null ],
+    [ "ConsultaResolucionesFacturacionPeticion1", "d4/ddb/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1_consuf0753dc1e03426c246c1950fd6b3ff8b.html#a5b53b81e623ad387d6c2d38bc7833a93", null ]
+];

@@ -1,0 +1,12 @@
+var namespace_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests =
+[
+    [ "CreateCustomerRequest", "de/dc5/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_customer_request.html", "de/dc5/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_customer_request" ],
+    [ "CreateDatabaseRequest", "d6/d87/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_database_request.html", "d6/d87/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_database_request" ],
+    [ "ParentDomain", "d7/d31/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_parent_domain.html", "d7/d31/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_parent_domain" ],
+    [ "CreateDatabaseUserRequest", "d5/d5a/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_database_user_request.html", "d5/d5a/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_database_user_request" ],
+    [ "CreateDomainRequest", "d3/d64/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_domain_request.html", "d3/d64/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_create_domain_request" ],
+    [ "Domain", "de/d1a/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_domain.html", "de/d1a/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_domain" ],
+    [ "HostingSettings", "db/dbe/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_hosting_settings.html", "db/dbe/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_hosting_settings" ],
+    [ "OwnerClient", "d2/d5e/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_owner_client.html", "d2/d5e/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_owner_client" ],
+    [ "Plan", "dc/d94/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_plan.html", "dc/d94/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_requests_1_1_plan" ]
+];

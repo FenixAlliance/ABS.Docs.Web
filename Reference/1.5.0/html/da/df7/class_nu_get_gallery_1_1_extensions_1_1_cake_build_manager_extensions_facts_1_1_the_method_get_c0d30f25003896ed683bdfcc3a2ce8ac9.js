@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c0d30f25003896ed683bdfcc3a2ce8ac9 =
+[
+    [ "ReturnsMultipleDirectives", "da/df7/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c0d30f25003896ed683bdfcc3a2ce8ac9.html#a58f1c9f42422d76584d5f21edb3623df", null ],
+    [ "ReturnsMultipleDirectivesWithPrerelease", "da/df7/class_nu_get_gallery_1_1_extensions_1_1_cake_build_manager_extensions_facts_1_1_the_method_get_c0d30f25003896ed683bdfcc3a2ce8ac9.html#aeb4025f29849826f278823a6a370be1c", null ]
+];

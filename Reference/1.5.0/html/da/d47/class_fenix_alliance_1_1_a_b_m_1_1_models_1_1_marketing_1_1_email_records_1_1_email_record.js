@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record =
+[
+    [ "AccountHolder", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a7c5dfab6761651fbfaf97ed54f8d05e2", null ],
+    [ "AccountHolderID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a2d6637dfe380df928b88a0371f62866c", null ],
+    [ "Business", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#aabba94992005da1a06b8d7f899047138", null ],
+    [ "BusinessID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#ac68d8c1c86a88e09a31cd93d12935300", null ],
+    [ "BusinessProfileRecord", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a9a7cb40ebc7b9964a697e7f2d73585fd", null ],
+    [ "BusinessProfileRecordID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a327c38d0e028a36b43321ce4bf36c6a0", null ],
+    [ "Content", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#ae942b738edfed50cbf3f2b83afbc60da", null ],
+    [ "Email", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a2043e5530ee20a8b8967679955c97372", null ],
+    [ "EmailSignature", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a98222ffc97679ba3469c380354c4c273", null ],
+    [ "EmailSignatureID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#aed8b4fb7ff5315a529092a8b3a36936e", null ],
+    [ "EmailTemplate", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a13278ea0594f06cd8d2ed4b3361fc286", null ],
+    [ "EmailTemplateID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a75af9dea5c454114d9368e200068b98d", null ],
+    [ "ID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a9d44489753104852f1e6d7493fab5d75", null ],
+    [ "Individual", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#ab6920f4f0a36418da880ade3c338dd9c", null ],
+    [ "IndividualID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a30c688fe9bd48aead8f2b0b50c51f5d3", null ],
+    [ "MarketingCampaign", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#acfe947ffd9b60450287b3fe5b2f4408f", null ],
+    [ "MarketingCampaignID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#aca204cee9c84ce669a22480bffec6fed", null ],
+    [ "Organization", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#affdc979bb79504f9de33a3724af79eb9", null ],
+    [ "OrganizationID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#ad2d873644e90346866e2f4c4838cd0e9", null ],
+    [ "Readed", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a6e98c90c4f788ab42c4324989131edc2", null ],
+    [ "ReadedTimestamp", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a3804740b6bc41ff9f6ec518771e48617", null ],
+    [ "ReceptorBusiness", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#aa08cb74636e58bec1df463c94a6f65dd", null ],
+    [ "ReceptorBusinessID", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a1e685a24e41428a7bd35f277c69c981c", null ],
+    [ "SendedTimestamp", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#a9a2bdaee81535699c2c0abf64f3d78ca", null ]
+];

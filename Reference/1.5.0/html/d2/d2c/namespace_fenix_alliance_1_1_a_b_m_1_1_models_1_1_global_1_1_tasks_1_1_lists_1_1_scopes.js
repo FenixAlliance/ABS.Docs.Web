@@ -1,0 +1,10 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes =
+[
+    [ "AccountHolderTaskList", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list.html", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list" ],
+    [ "BusinessTenantTaskList", "d0/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_business_tenant_task_list.html", "d0/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_business_tenant_task_list" ],
+    [ "ContactTaskList", "d5/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_contact_task_list.html", "d5/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_contact_task_list" ],
+    [ "DealUnitTaskList", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_deal_unit_task_list.html", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_deal_unit_task_list" ],
+    [ "OrderTaskList", "d6/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_order_task_list.html", "d6/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_order_task_list" ],
+    [ "ProjectTaskList", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_project_task_list.html", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_project_task_list" ],
+    [ "SocialGroupTaskList", "d1/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_social_group_task_list.html", "d1/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_social_group_task_list" ]
+];

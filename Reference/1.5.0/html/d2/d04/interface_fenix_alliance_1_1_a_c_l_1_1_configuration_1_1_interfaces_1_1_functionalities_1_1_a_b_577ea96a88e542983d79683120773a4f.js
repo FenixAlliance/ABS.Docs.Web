@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_577ea96a88e542983d79683120773a4f =
+[
+    [ "AppId", "d2/d04/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_577ea96a88e542983d79683120773a4f.html#a86a600bceb170439b77fc906c2ad660c", null ],
+    [ "Enable", "d2/d04/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_577ea96a88e542983d79683120773a4f.html#a5eb788196617c8fc9c3fde6d161e2f94", null ],
+    [ "SecretKey", "d2/d04/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_functionalities_1_1_a_b_577ea96a88e542983d79683120773a4f.html#a1711011754747078b986ffd8bf7bd9c8", null ]
+];

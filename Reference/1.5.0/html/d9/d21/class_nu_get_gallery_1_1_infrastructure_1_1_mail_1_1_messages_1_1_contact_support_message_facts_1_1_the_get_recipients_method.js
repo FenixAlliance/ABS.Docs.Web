@@ -1,0 +1,8 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method =
+[
+    [ "AddsFromAddressToCCListWhenCopyingSender", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html#a89925898b148b3809bdd3292406a8422", null ],
+    [ "AddsFromAddressToReplyToList", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html#a18d9fb8ee2ebbcb3c222319d9dfbfb35", null ],
+    [ "AddsGalleryOwnerToToList", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html#a75630c3ca4de744793eeb923c2b87929", null ],
+    [ "DoesNotAddFromAddressToCCListWhenNotCopyingSender", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html#aa87195e01b30a1ce1d6fca28825a04ad", null ],
+    [ "HasEmptyBccList", "d9/d21/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_contact_support_message_facts_1_1_the_get_recipients_method.html#a0b987b4a6f1c9d7361c8dc7286a80491", null ]
+];

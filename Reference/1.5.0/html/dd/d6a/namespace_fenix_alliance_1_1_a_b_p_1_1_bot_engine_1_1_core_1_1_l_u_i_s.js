@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_l_u_i_s =
+[
+    [ "BotLUISRecognizer", "d1/df3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_l_u_i_s_1_1_bot_l_u_i_s_recognizer.html", "d1/df3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_l_u_i_s_1_1_bot_l_u_i_s_recognizer" ]
+];

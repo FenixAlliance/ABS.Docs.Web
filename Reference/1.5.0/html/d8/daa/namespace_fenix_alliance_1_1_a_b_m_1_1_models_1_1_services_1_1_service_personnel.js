@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel =
+[
+    [ "ServicePersonnelRecord", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel_1_1_service_personnel_record.html", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel_1_1_service_personnel_record" ]
+];

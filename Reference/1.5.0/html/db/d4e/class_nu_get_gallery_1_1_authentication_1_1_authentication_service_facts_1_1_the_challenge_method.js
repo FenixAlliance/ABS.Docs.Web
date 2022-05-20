@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method =
+[
+    [ "GivenADisabledProviderName_ItThrowsInvalidOperationException", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method.html#a5ef2f706113c52100003ea6c0a90a56d", null ],
+    [ "GivenAnKnownProviderName_ItPassesThroughToProvider", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method.html#a89caabc3c7c803f7860fa584d3d456b6", null ],
+    [ "GivenAnUnknownProviderName_ItThrowsInvalidOperationException", "db/d4e/class_nu_get_gallery_1_1_authentication_1_1_authentication_service_facts_1_1_the_challenge_method.html#a177412363bfcba39e0c21775095a2282", null ]
+];

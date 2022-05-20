@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_price_markups =
+[
+    [ "RolePriceMarkup", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_pr38a0f168c6df61bb6eff59b7b673b415.html", "d9/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_role_pr38a0f168c6df61bb6eff59b7b673b415" ]
+];

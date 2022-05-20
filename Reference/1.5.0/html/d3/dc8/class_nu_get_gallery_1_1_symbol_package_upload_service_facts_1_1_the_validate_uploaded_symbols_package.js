@@ -1,0 +1,11 @@
+var class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package =
+[
+    [ "WillReturnAcceptedForValidPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#a5f43f832178eac277566537c75d82035", null ],
+    [ "WillReturnInvalidResultForInvalidPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#aaa1be4bcc1ac24ed6f00db91d0da3ef5", null ],
+    [ "WillReturnInvalidWhenSynchronousSymbolValidationsFailAndTrackTelemetry", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#ad099a82ba13575cad4ab26a8c884cc12", null ],
+    [ "WillReturnMissingPackageForDeletedPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#a7e99db3e1cfd0d22ac02880a723b8831", null ],
+    [ "WillReturnNotAllowedForAnyUser", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#ae7d53e76faa7c70aaa201f262d804a78", null ],
+    [ "WillReturnSymbolPackageExistsForPendingValidation", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#a5200efd79981ca680f72bd1534638449", null ],
+    [ "WithDuplicatedEntries_ReturnsInvalidSymbolsPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#a68454f3e5ace2a41b6f5afda9c3573fa", null ],
+    [ "WithNoDuplicatedEntries_ReturnsAcceptedPackage", "d3/dc8/class_nu_get_gallery_1_1_symbol_package_upload_service_facts_1_1_the_validate_uploaded_symbols_package.html#a9ceeec9c67f0941ccf8414b691ff2801", null ]
+];

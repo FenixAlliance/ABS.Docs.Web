@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi69459ba273611dff3179ea850698875f =
+[
+    [ "SignaturePolicyIdentifier", "d1/d4a/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi69459ba273611dff3179ea850698875f.html#aabfa35f2f773ba5bd6941e68c940360b", null ],
+    [ "SignerRole", "d1/d4a/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi69459ba273611dff3179ea850698875f.html#a974846b49243c51d0fb56bd798a2c788", null ],
+    [ "SigningCertificate", "d1/d4a/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi69459ba273611dff3179ea850698875f.html#a1e5b01f73e225d363235e11a1f1a1ef8", null ],
+    [ "SigningTime", "d1/d4a/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_qualifyi69459ba273611dff3179ea850698875f.html#a1431d7d9b004cc13386b56d313ab01de", null ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_ead7df6747fe3d535d3b0abed6c438489 =
+[
+    [ "ApiKey", "d2/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_ead7df6747fe3d535d3b0abed6c438489.html#add94d9acfd4a499ed52542ed389c7b22", null ]
+];

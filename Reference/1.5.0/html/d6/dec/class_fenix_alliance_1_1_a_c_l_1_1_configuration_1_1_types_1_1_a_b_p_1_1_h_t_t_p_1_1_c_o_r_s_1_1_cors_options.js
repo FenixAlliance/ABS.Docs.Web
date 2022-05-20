@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options =
+[
+    [ "Policies", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options.html#ae1bcd2e9156d3d5dcbe3a38a65a8181e", null ]
+];

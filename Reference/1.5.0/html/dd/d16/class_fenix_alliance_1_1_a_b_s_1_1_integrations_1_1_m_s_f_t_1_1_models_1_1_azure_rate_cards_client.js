@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_m_s_f_t_1_1_models_1_1_azure_rate_cards_client =
+[
+    [ "AzureRateCardsClient", "dd/d16/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_m_s_f_t_1_1_models_1_1_azure_rate_cards_client.html#a14ae5db838783c63100daf7684e52270", null ]
+];

@@ -1,0 +1,30 @@
+<map id="maestropanel.plesklib.Models.IResponseResult" name="maestropanel.plesklib.Models.IResponseResult">
+<area shape="rect" id="node1" title=" " alt="" coords="5,855,204,896"/>
+<area shape="rect" id="node2" href="$dc/d57/classmaestropanel_1_1plesklib_1_1_models_1_1_customer_add_result.html" title=" " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$dc/d17/classmaestropanel_1_1plesklib_1_1_models_1_1_database_add_result.html" title=" " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$dc/da9/classmaestropanel_1_1plesklib_1_1_models_1_1_database_del_result.html" title=" " alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$da/d3e/classmaestropanel_1_1plesklib_1_1_models_1_1_database_get_result.html" title=" " alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node6" href="$d4/d27/classmaestropanel_1_1plesklib_1_1_models_1_1_database_user_add_result.html" title=" " alt="" coords="252,267,451,308"/>
+<area shape="rect" id="node7" href="$dc/da2/classmaestropanel_1_1plesklib_1_1_models_1_1_database_user_del_result.html" title=" " alt="" coords="252,332,451,373"/>
+<area shape="rect" id="node8" href="$d1/df0/classmaestropanel_1_1plesklib_1_1_models_1_1_database_user_get_result.html" title=" " alt="" coords="252,397,451,439"/>
+<area shape="rect" id="node9" href="$dd/d95/classmaestropanel_1_1plesklib_1_1_models_1_1_database_user_set_result.html" title=" " alt="" coords="252,463,451,504"/>
+<area shape="rect" id="node10" href="$da/d77/classmaestropanel_1_1plesklib_1_1_models_1_1_ftp_user_add_result.html" title=" " alt="" coords="252,528,451,569"/>
+<area shape="rect" id="node11" href="$d6/dcd/classmaestropanel_1_1plesklib_1_1_models_1_1_ftp_user_del_result.html" title=" " alt="" coords="252,593,451,635"/>
+<area shape="rect" id="node12" href="$d9/d57/classmaestropanel_1_1plesklib_1_1_models_1_1_i_p_addr_get_result.html" title=" " alt="" coords="252,659,451,700"/>
+<area shape="rect" id="node13" href="$dc/d4e/classmaestropanel_1_1plesklib_1_1_models_1_1_protected_dir_add_result.html" title=" " alt="" coords="252,724,451,765"/>
+<area shape="rect" id="node14" href="$d8/d88/classmaestropanel_1_1plesklib_1_1_models_1_1_protected_dir_add_user_result.html" title=" " alt="" coords="252,789,451,831"/>
+<area shape="rect" id="node15" href="$d7/dcf/classmaestropanel_1_1plesklib_1_1_models_1_1_service_plan_get_result.html" title=" " alt="" coords="252,855,451,896"/>
+<area shape="rect" id="node16" href="$db/d6c/classmaestropanel_1_1plesklib_1_1_models_1_1_site_add_result.html" title=" " alt="" coords="252,920,451,961"/>
+<area shape="rect" id="node17" href="$d2/d11/classmaestropanel_1_1plesklib_1_1_models_1_1_site_alias_add_packet_result.html" title=" " alt="" coords="252,985,451,1027"/>
+<area shape="rect" id="node18" href="$d2/d28/classmaestropanel_1_1plesklib_1_1_models_1_1_site_alias_del_result.html" title=" " alt="" coords="252,1051,451,1092"/>
+<area shape="rect" id="node19" href="$d2/dfb/classmaestropanel_1_1plesklib_1_1_models_1_1_site_del_result.html" title=" " alt="" coords="252,1116,451,1157"/>
+<area shape="rect" id="node20" href="$db/dbd/classmaestropanel_1_1plesklib_1_1_models_1_1_site_get_result.html" title=" " alt="" coords="252,1181,451,1223"/>
+<area shape="rect" id="node21" href="$d8/d29/classmaestropanel_1_1plesklib_1_1_models_1_1_subdomain_add_result.html" title=" " alt="" coords="252,1247,451,1288"/>
+<area shape="rect" id="node22" href="$d9/de3/classmaestropanel_1_1plesklib_1_1_models_1_1_subdomain_delete_result.html" title=" " alt="" coords="252,1312,451,1353"/>
+<area shape="rect" id="node23" href="$d3/d90/classmaestropanel_1_1plesklib_1_1_models_1_1_virtual_directory_add_result.html" title=" " alt="" coords="252,1377,451,1419"/>
+<area shape="rect" id="node24" href="$da/d51/classmaestropanel_1_1plesklib_1_1_models_1_1_virtual_directory_del_result.html" title=" " alt="" coords="252,1443,451,1484"/>
+<area shape="rect" id="node25" href="$db/d35/classmaestropanel_1_1plesklib_1_1_models_1_1_virtual_directory_update_result.html" title=" " alt="" coords="252,1508,451,1549"/>
+<area shape="rect" id="node26" href="$d2/d34/classmaestropanel_1_1plesklib_1_1_models_1_1_web_space_add_result.html" title=" " alt="" coords="252,1573,451,1615"/>
+<area shape="rect" id="node27" href="$d3/d7d/classmaestropanel_1_1plesklib_1_1_models_1_1_web_space_del_result.html" title=" " alt="" coords="252,1639,451,1680"/>
+<area shape="rect" id="node28" href="$d0/d68/classmaestropanel_1_1plesklib_1_1_models_1_1_web_space_get_result.html" title=" " alt="" coords="252,1704,451,1745"/>
+</map>

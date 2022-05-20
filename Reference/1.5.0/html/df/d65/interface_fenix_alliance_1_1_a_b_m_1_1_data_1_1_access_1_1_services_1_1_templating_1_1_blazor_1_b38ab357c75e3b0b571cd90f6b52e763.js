@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763 =
+[
+    [ "GetSnippetContentAsync", "df/d65/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763.html#a93eb87d27de878ec811c778a264d9057", null ],
+    [ "SaveSnippetAsync", "df/d65/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763.html#a6d71818a942165d50d9c518997057400", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee =
+[
+    [ "PaymentRefund", "d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee.html#a2a858ba7d7323ea0a9f97260b5643c8e", null ],
+    [ "PaymentRefundID", "d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee.html#a783b83636f7468e8a5c5db842e63a1d6", null ]
+];

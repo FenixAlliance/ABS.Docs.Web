@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts =
+[
+    [ "ExtractAndSaveReadmeFileAsyncMethod", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method.html", "db/ddc/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_extract_and_save_readme_file_async_method" ],
+    [ "TheDeleteReadmeFileAsyncMethod", "dd/d59/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_delete_readme_file_async_method.html", "dd/d59/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_delete_readme_file_async_method" ],
+    [ "TheDownloadReadmeFileAsyncMethod", "d1/d9e/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_download_readme_file_async_method.html", "d1/d9e/class_nu_get_gallery_1_1_services_1_1_core_readme_file_service_facts_1_1_the_download_readme_file_async_method" ]
+];

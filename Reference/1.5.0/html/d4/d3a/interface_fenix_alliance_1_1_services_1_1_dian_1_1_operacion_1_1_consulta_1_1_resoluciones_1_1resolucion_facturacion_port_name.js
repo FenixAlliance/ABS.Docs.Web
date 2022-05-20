@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolucion_facturacion_port_name =
+[
+    [ "ConsultaResolucionesFacturacionAsync", "d4/d3a/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolucion_facturacion_port_name.html#a3ba91bb8d3039f6b6538c76a2a144610", null ]
+];

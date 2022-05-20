@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method =
+[
+    [ "DoesntUpdateStateIfReturnsFalse", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html#a28d1510c6174bd75bf40206f653178d9", null ],
+    [ "ThrowsOnConcurrencyIssue", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html#a62680c6942e21bf1cf02bcc4df24316f", null ],
+    [ "UpdatesStateIfReturnsTrue", "dd/da3/class_nu_get_gallery_1_1_services_1_1_revalidation_state_service_facts_1_1_the_maybe_update_state_async_method.html#aeb5e167dae442dd2104d55c54281ee6f", null ]
+];

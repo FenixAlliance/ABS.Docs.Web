@@ -1,0 +1,16 @@
+var namespace_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models =
+[
+    [ "AbstractChildBase", "d6/d2a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_abstract_child_base.html", "d6/d2a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_abstract_child_base" ],
+    [ "AccessTokenInfo", "d9/da5/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_access_token_info.html", "d9/da5/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_access_token_info" ],
+    [ "BootstrapInfo", "d8/de6/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_bootstrap_info.html", "d8/de6/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_bootstrap_info" ],
+    [ "BootstrapRootContainerInfo", "d0/d0d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_bootstrap_root_container_info.html", "d0/d0d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_bootstrap_root_container_info" ],
+    [ "CheckContainerInfo", "d9/d66/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_check_container_info.html", "d9/d66/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_check_container_info" ],
+    [ "CheckFileInfo", "d9/d7c/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_check_file_info.html", "d9/d7c/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_check_file_info" ],
+    [ "ChildContainer", "d8/d26/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_child_container.html", null ],
+    [ "ChildFile", "d7/d7f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_child_file.html", "d7/d7f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_child_file" ],
+    [ "Container", "db/d94/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_container.html", "db/d94/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_container" ],
+    [ "HostCapabilities", "d9/d7b/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_host_capabilities.html", "d9/d7b/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_host_capabilities" ],
+    [ "LockInfo", "da/da6/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_lock_info.html", "da/da6/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_lock_info" ],
+    [ "RootContainerInfo", "d2/d69/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_root_container_info.html", "d2/d69/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_root_container_info" ],
+    [ "WopiHostOptions", "d6/d7d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_wopi_host_options.html", "d6/d7d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_models_1_1_wopi_host_options" ]
+];

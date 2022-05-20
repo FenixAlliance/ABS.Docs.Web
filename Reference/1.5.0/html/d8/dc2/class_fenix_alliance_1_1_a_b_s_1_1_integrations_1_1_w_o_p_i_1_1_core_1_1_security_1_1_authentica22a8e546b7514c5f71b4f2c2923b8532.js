@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authentica22a8e546b7514c5f71b4f2c2923b8532 =
+[
+    [ "SaveToken", "d8/dc2/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authentica22a8e546b7514c5f71b4f2c2923b8532.html#adfa311f7eaace74746f173004797baaf", null ],
+    [ "SecurityHandler", "d8/dc2/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_core_1_1_security_1_1_authentica22a8e546b7514c5f71b4f2c2923b8532.html#ac1cd4a4765d721eb25bcd4dc308c6cb2", null ]
+];

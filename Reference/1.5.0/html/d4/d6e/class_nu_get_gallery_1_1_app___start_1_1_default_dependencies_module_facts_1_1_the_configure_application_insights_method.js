@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method =
+[
+    [ "TheConfigureApplicationInsightsMethod", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#a562fe8d4d758e8c5d132d30dbd684c26", null ],
+    [ "ConfiguresDefaultSink", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#ab08f680fe0f582b1e0a263026c468596", null ],
+    [ "ConfiguresHeartbeatInterval", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#afe5fc62603f543da072e2ebeb0e51bdc", null ],
+    [ "ConfiguresInstrumentationKey", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#a14fe30b23baf54453294d244045ce1b1", null ],
+    [ "ConfiguresTelemetryClientWrapper", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#aa28d3e9917007905f8868db2110f3a4f", null ],
+    [ "ConfiguresTelemetryInitializers", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#a916bc29591186a0b2fd894d88b016866", null ],
+    [ "SetsApplicationIdProvider", "d4/d6e/class_nu_get_gallery_1_1_app___start_1_1_default_dependencies_module_facts_1_1_the_configure_application_insights_method.html#a5e891735b47ab8eb5079a2c1dbbb02b4", null ]
+];

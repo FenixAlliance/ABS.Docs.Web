@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_get_unsettled_transaction_list =
+[
+    [ "Run", "da/dc6/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_get_unsettled_transaction_list.html#aa90dfd78637c53a3e6fe6c22dcc7fb56", null ]
+];

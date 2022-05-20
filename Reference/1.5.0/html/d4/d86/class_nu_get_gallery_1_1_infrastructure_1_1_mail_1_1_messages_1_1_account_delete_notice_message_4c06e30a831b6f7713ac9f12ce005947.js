@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947 =
+[
+    [ "AddsUserMailAddressToToList", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html#ad8b0ccba01c8ecae8dbfe868b03b0933", null ],
+    [ "HasEmptyBccList", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html#a9da481c41f3a30827b2aac501df62d5d", null ],
+    [ "HasEmptyCCList", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html#af17dd88006281eae51c42aebe689dc08", null ],
+    [ "HasEmptyReplyToList", "d4/d86/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_account_delete_notice_message_4c06e30a831b6f7713ac9f12ce005947.html#ad2ab61dff9078efe821bfdcbd9e1bbc7", null ]
+];

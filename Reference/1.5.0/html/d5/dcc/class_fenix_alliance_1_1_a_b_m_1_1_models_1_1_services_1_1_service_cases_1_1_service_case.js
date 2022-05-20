@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case =
+[
+    [ "AccountHolder", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a61bc5c30f9e2fb1be2b930b0609ec65f", null ],
+    [ "AccountHolderID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a1769b100a1ff44be4f566b66719ed585", null ],
+    [ "Business", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#acd10cdf6160d8b05ef391373bf1528a5", null ],
+    [ "BusinessID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ab97c5fe48213537decfbdc90f9717ac2", null ],
+    [ "BusinessProfileRecord", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ad4dd6bf74d9cf552574f13b3483d9bd4", null ],
+    [ "BusinessProfileRecordID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a613b0405a8ba610fd151e02ee5864d82", null ],
+    [ "Description", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a8662d7c5b750e4e79d230e9522eb04f2", null ],
+    [ "ID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a123e9f1c6f6aeb0e40e7416dbe901ce9", null ],
+    [ "Individual", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a446689f8783a89ae086dcc5273c33340", null ],
+    [ "IndividualID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ae2a91f91c24971478db75c35c0f67a66", null ],
+    [ "Organization", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#aa7cd01e2e05768f571619487ba883f71", null ],
+    [ "OrganizationID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a410f7944e130ea5dab1a54253aabe36d", null ],
+    [ "ReceptorBusiness", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a7513826a0d5e09ce3cbce6191623bca1", null ],
+    [ "ReceptorBusinessID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ac517d6f131f4b4e4c9cfcb3b0863d363", null ],
+    [ "Service", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a367d881ea4b15c26dca2f83e288cd630", null ],
+    [ "ServiceCaseType", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a3f3323f2c6a81ba1ed28a8aacd466130", null ],
+    [ "ServiceCaseTypeID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a711c574ab0c0cf392fe185709e8610f2", null ],
+    [ "ServiceID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a9224366882973df5c8c6bc21a826587b", null ],
+    [ "ServiceLevelAgreement", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a8eef32dde9a602b104f6f14024ed352b", null ],
+    [ "ServiceLevelAgreementID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a772dc3e80c9ca64bde82ccf7d6dc60f7", null ],
+    [ "ServicePersonnelRecords", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#aaab89db32cc1032a7aa611c0edce3e72", null ],
+    [ "ServiceQueue", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#aacb64aee723ea7c9d78a0d2f52041d4d", null ],
+    [ "ServiceQueueID", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#a58fb7261b97c1313e24443d10061ab48", null ],
+    [ "Timestamp", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ae6a22acf51692fdc5874967ffc88957d", null ],
+    [ "Title", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html#ac5a76710a838fd32234b665608851c73", null ]
+];

@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method =
+[
+    [ "ReturnsCountWhenVersionExists", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html#af3c7a16fb948fe289ec0998e07c9aa76", null ],
+    [ "ReturnsZeroWhenVersionDoesNotExist", "d0/d48/class_nu_get_gallery_1_1_cloud_download_count_service_facts_1_1_the_try_get_download_count_for_package_method.html#aefb30b56b1d1e7ef9217b1dcc04f108b", null ]
+];

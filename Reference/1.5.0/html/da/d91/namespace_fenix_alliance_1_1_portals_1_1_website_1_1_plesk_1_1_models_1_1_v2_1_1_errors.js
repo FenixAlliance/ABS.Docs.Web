@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_errors =
+[
+    [ "DatabaseServer", "db/df2/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_errors_1_1_database_server.html", "db/df2/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_errors_1_1_database_server" ],
+    [ "DnsRecord", "d7/da3/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_errors_1_1_dns_record.html", "d7/da3/class_fenix_alliance_1_1_portals_1_1_website_1_1_plesk_1_1_models_1_1_v2_1_1_errors_1_1_dns_record" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_supplier_party =
+[
+    [ "AdditionalAccountID", "d6/d3e/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_supplier_party.html#a1bab246ff0a01df0d5276e2797e91180", null ],
+    [ "Party", "d6/d3e/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_accounting_supplier_party.html#ae34203fe90bb33aaf4e6face19e58880", null ]
+];

@@ -1,0 +1,4 @@
+<map id="NuGetGallery.OData.Conventions.EntitySetPropertyRoutingConvention" name="NuGetGallery.OData.Conventions.EntitySetPropertyRoutingConvention">
+<area shape="rect" id="node1" title="Routes an OData request with a given entityset, key and property to a method with the structure GetPr..." alt="" coords="5,80,240,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="37,5,209,32"/>
+</map>

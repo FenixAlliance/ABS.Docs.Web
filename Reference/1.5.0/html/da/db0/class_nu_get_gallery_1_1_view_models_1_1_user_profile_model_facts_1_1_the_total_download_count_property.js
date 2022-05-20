@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property =
+[
+    [ "HasEnabledMultiFactorAuthentication_ForOrganizations", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html#a415b347bd149c1bba23004deffc1be7c", null ],
+    [ "HasEnabledMultiFactorAuthentication_ForUsers", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html#a08383cc968b024832bed62cc05ca3776", null ],
+    [ "TotalDownloadCount_DoesNotThrowIntegerOverflow", "da/db0/class_nu_get_gallery_1_1_view_models_1_1_user_profile_model_facts_1_1_the_total_download_count_property.html#a42538d108450f73eaa83b171f2835f13", null ]
+];

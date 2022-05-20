@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method =
+[
+    [ "DeletePackageOwnershipRequestAsync", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html#a34d24b2a57534bcff2629acca81e568d", null ],
+    [ "SendsNoMessages", "db/d89/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_delete_package_ownership_request_async_method.html#ab9fea0bf2dc98d1587763d0afccb6132", null ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios7001cd109adf7f9b011dd956806214fa =
+[
+    [ "Clasificador", "d8/d1c/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_clasificador_bienes_servicios7001cd109adf7f9b011dd956806214fa.html#a275bc7bc371945860d245379ad9ff933", null ]
+];

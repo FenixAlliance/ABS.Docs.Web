@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_approve_or_decline_held_transaction =
+[
+    [ "Run", "d5/d25/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_authorize_dot_net_1_1_approve_or_decline_held_transaction.html#a4c6f27192a309a15927cfc7adfafc5a4", null ]
+];

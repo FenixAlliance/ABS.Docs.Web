@@ -1,0 +1,5 @@
+<map id="NuGetGallery.Auditing.FileSystemAuditingService" name="NuGetGallery.Auditing.FileSystemAuditingService">
+<area shape="rect" id="node1" title="Writes audit records to a specific directory in the file system" alt="" coords="5,155,181,196"/>
+<area shape="rect" id="node2" href="$d2/da5/class_nu_get_gallery_1_1_auditing_1_1_auditing_service.html" title="Base class for auditing services." alt="" coords="37,80,150,107"/>
+<area shape="rect" id="node3" href="$d2/d8c/interface_nu_get_gallery_1_1_auditing_1_1_i_auditing_service.html" title="Base interface for an auditing service." alt="" coords="35,5,152,32"/>
+</map>

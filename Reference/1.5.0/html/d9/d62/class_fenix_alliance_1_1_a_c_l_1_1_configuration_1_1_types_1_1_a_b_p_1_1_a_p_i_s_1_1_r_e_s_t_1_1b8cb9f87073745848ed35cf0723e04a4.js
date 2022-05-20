@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1b8cb9f87073745848ed35cf0723e04a4 =
+[
+    [ "Email", "d9/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1b8cb9f87073745848ed35cf0723e04a4.html#aa066b60da43aa54ef671383de253e5b7", null ],
+    [ "Name", "d9/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1b8cb9f87073745848ed35cf0723e04a4.html#affeb57c58dfec4c89ac72eda9c4d73ac", null ],
+    [ "Url", "d9/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1b8cb9f87073745848ed35cf0723e04a4.html#ae475df6b723bea1e1d5dcb1ccc219399", null ]
+];

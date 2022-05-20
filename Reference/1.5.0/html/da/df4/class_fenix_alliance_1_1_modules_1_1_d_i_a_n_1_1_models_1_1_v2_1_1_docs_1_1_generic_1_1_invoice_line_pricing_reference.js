@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_pricing_reference =
+[
+    [ "AlternativeConditionPrice", "da/df4/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_invoice_line_pricing_reference.html#aaea64e854c813de5419f5514fa1f4049", null ]
+];

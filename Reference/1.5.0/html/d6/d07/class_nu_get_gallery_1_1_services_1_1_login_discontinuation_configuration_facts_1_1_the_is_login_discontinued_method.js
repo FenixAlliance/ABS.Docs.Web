@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method =
+[
+    [ "IfNotPasswordLoginReturnsFalse", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method.html#a3ebedbef37b148dccb4e0412aee91077", null ],
+    [ "IfPasswordLoginReturnsTrueIfOnWhitelists", "d6/d07/class_nu_get_gallery_1_1_services_1_1_login_discontinuation_configuration_facts_1_1_the_is_login_discontinued_method.html#a1d11774238f9777fbc442fe633b0a21a", null ]
+];

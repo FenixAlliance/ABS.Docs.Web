@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_export_1_1_claimed_roles =
+[
+    [ "ClaimedRole", "d0/dd0/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_export_1_1_claimed_roles.html#a6735738423a0b059d0b7b9eff7f68614", null ]
+];

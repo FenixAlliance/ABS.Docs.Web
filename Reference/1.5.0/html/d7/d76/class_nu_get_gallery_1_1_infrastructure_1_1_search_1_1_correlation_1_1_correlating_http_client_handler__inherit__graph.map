@@ -1,0 +1,4 @@
+<map id="NuGetGallery.Infrastructure.Search.Correlation.CorrelatingHttpClientHandler" name="NuGetGallery.Infrastructure.Search.Correlation.CorrelatingHttpClientHandler">
+<area shape="rect" id="node1" title="Attaches correlation id to outgoing HTTP requests when using HttpClient." alt="" coords="5,80,224,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,178,32"/>
+</map>

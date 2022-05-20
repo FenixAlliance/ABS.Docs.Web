@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context =
+[
+    [ "PocketContext", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a36e9415d057ed78732c1c337b0a45f37", null ],
+    [ "DisposeAsync", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#aced2a52515dc3221f87d1b9d02f559f1", null ],
+    [ "InitializeAsync", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a671967b3fea2330b1be139216db88f4f", null ],
+    [ "IsReadyAsync", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a8e9df65624963d4160529cb29a22616c", null ],
+    [ "LoginAsync", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a2e2cd04a98fa7d67357a7bddef26e505", null ],
+    [ "LogOutAsync", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a1b24e58f0495b14847051d6019406eea", null ],
+    [ "SwitchLanguage", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a838750454bf654d58d2612928ad647c1", null ],
+    [ "_", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a2dcc4ec72e3804e3053637d2a3e23cd8", null ],
+    [ "Client", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a3af00eca7a93fd3486c6dd93f48a4c0b", null ],
+    [ "Currency", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a0906ea2e5cf700d1514e2774abb21cbb", null ],
+    [ "EnableTelemetry", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a30c768caed3b3681d2908c0272b573ca", null ],
+    [ "Enrollments", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a5a0817467fbb3268b541d020f9f411d5", null ],
+    [ "ForexRate", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a9ea2db3085ea8c47222c57b36821b423", null ],
+    [ "Holder", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#ab401f034e186e938615cb89d501b196f", null ],
+    [ "HolderCart", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#afe4df85d759ec1f2ca2080feb5d4056d", null ],
+    [ "HolderWallet", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a44f818fcafe110b7884ea01edbb25110", null ],
+    [ "HttpClient", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a84677036d56f0153ef076b082fcb32d0", null ],
+    [ "i18nText", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#aaa15ea56ae31b38998afa6d1eb47c099", null ],
+    [ "IsReady", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a95734862e4b9cb037a19ae25d4418f84", null ],
+    [ "PlatformService", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a92805506fba612cd60705deb8e6148b9", null ],
+    [ "Tenant", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#ab2d164c18833af6ea35e7a154640b8cb", null ],
+    [ "TenantCart", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#afd253431ba7a67e831afdbedc7bf236e", null ],
+    [ "Tenants", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#a62a0574000188ee2fd655b134fd5e302", null ],
+    [ "TenantWallet", "d4/da3/class_fenix_alliance_1_1_a_b_s_1_1_m_a_u_i_1_1_core_1_1_contexts_1_1_pocket_context.html#aa2ea3d498545e51e470b41e633b0be9c", null ]
+];

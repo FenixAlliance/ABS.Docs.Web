@@ -1,0 +1,9 @@
+var class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df =
+[
+    [ "ProxiesGravatar", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#ad6afdee9939a67264ace8ece6e0ffd0f", null ],
+    [ "ReturnsExpectedDataAsOrganizationAdmin", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#a49f9f85c7ce63b9f62e361e44f3e48f2", null ],
+    [ "ReturnsExpectedDataAsOwner", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#adb3d005cf40075a209c3c71d6e7e139d", null ],
+    [ "ReturnsFailureIfPackageNotFound", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#a6669fee270f0c09dfc9a6484e805e3e4", null ],
+    [ "ReturnsFailureIfUserIsNotPackageOwner", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#abf5c3d3ea520e6b8f7c39f3141c65b4d", null ],
+    [ "UsesGravatarIfProxyingDisabled", "dc/d4a/class_nu_get_gallery_1_1_controllers_1_1_json_api_controller_facts_1_1_the_package_owner_methods7fd243b056d9ba1dd93b0a4c96b2e2df.html#a76f259284e7fa075a454ce4ac5c910ae", null ]
+];

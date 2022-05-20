@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_tests_1_1_logic_1_1_fiscal_1_1_dian_1_1_habilitation =
+[
+    [ "DianClient", "d6/dfb/class_fenix_alliance_1_1_tests_1_1_logic_1_1_fiscal_1_1_dian_1_1_habilitation_1_1_dian_client.html", "d6/dfb/class_fenix_alliance_1_1_tests_1_1_logic_1_1_fiscal_1_1_dian_1_1_habilitation_1_1_dian_client" ],
+    [ "DianClientV2", "df/dcd/class_fenix_alliance_1_1_tests_1_1_logic_1_1_fiscal_1_1_dian_1_1_habilitation_1_1_dian_client_v2.html", "df/dcd/class_fenix_alliance_1_1_tests_1_1_logic_1_1_fiscal_1_1_dian_1_1_habilitation_1_1_dian_client_v2" ]
+];

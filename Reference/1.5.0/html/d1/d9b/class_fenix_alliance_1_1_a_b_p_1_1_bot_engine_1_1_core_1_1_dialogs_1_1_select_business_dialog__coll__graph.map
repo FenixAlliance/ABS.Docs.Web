@@ -1,0 +1,6 @@
+<map id="FenixAlliance.ABP.BotEngine.Core.Dialogs.SelectBusinessDialog" name="FenixAlliance.ABP.BotEngine.Core.Dialogs.SelectBusinessDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="431,71,657,112"/>
+<area shape="rect" id="node2" href="$df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html" title=" " alt="" coords="25,5,216,47"/>
+<area shape="rect" id="node3" href="$d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service.html" title=" " alt="" coords="5,71,236,112"/>
+<area shape="rect" id="node4" href="$d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html" title=" " alt="" coords="5,136,236,177"/>
+</map>

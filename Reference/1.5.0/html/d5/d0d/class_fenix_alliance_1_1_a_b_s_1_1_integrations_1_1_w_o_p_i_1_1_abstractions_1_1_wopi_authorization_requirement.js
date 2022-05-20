@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_abstractions_1_1_wopi_authorization_requirement =
+[
+    [ "WopiAuthorizationRequirement", "d5/d0d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_abstractions_1_1_wopi_authorization_requirement.html#a29b819f0e90d1a6a1845b99cc61f9fe4", null ],
+    [ "Permission", "d5/d0d/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_abstractions_1_1_wopi_authorization_requirement.html#a3e776b92fe266c9966a7808b9c577060", null ]
+];

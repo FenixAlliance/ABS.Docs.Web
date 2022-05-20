@@ -1,0 +1,13 @@
+<map id="FenixAlliance.ACL.Configuration.Types.ABP.Modular.Module" name="FenixAlliance.ACL.Configuration.Types.ABP.Modular.Module">
+<area shape="rect" id="node1" title="Represents the default module&#39;s initialization implementation." alt="" coords="616,74,829,115"/>
+<area shape="rect" id="node9" href="$de/d86/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_e_payco_extensions.html" title="Adds services required for the Mercado Pago Extension" alt="" coords="877,9,1108,50"/>
+<area shape="rect" id="node10" href="$df/dd0/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_mercado_pago_extensions.html" title="Adds services required for the Mercado Pago Extension" alt="" coords="877,74,1108,115"/>
+<area shape="rect" id="node11" href="$dd/d7a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_extensions_1_1_wopi_extensions.html" title="Adds services required for the Point Of Sales Extension Portal" alt="" coords="881,139,1105,181"/>
+<area shape="rect" id="node2" href="$d0/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_services.html" title=" " alt="" coords="453,56,568,83"/>
+<area shape="rect" id="node3" href="$da/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_data.html" title=" " alt="" coords="315,56,405,83"/>
+<area shape="rect" id="node4" href="$d1/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_option.html" title=" " alt="" coords="162,5,253,32"/>
+<area shape="rect" id="node5" href="$d0/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module_data.html" title=" " alt="" coords="160,56,255,83"/>
+<area shape="rect" id="node8" href="$d7/d8a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module.html" title=" " alt="" coords="326,107,394,133"/>
+<area shape="rect" id="node6" href="$dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html" title=" " alt="" coords="5,107,100,133"/>
+<area shape="rect" id="node7" href="$df/d17/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module_services.html" title=" " alt="" coords="148,157,267,184"/>
+</map>

@@ -1,0 +1,10 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods =
+[
+    [ "ShippingMethodClassRecord", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record.html", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record" ],
+    [ "ShippingMethodZoneRecord", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record" ],
+    [ "ShippingMethod", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method.html", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method" ],
+    [ "ShippingClassCalculationType", "d9/d34/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods.html#a301971495e7e20cc1173b8ae99c62265", [
+      [ "PerClass", "d9/d34/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods.html#a301971495e7e20cc1173b8ae99c62265acb471aa9a9a9133f427376c1a12fb5ec", null ],
+      [ "PerOrder", "d9/d34/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods.html#a301971495e7e20cc1173b8ae99c62265ac9002f701b32c848d29f78c7eebab84c", null ]
+    ] ]
+];

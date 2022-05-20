@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_billing_99d2b5fe6fe108eb997bd6649e109659 =
+[
+    [ "DocumentDescription", "da/d1d/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_billing_99d2b5fe6fe108eb997bd6649e109659.html#adef5cf5fa34b368bb97dcbefead895a4", null ],
+    [ "ID", "da/d1d/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_billing_99d2b5fe6fe108eb997bd6649e109659.html#afcbe7b394762d5caf246668056b534ca", null ],
+    [ "IssueDate", "da/d1d/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_billing_99d2b5fe6fe108eb997bd6649e109659.html#a1fc33a348856617e551296545163fa5e", null ],
+    [ "UUID", "da/d1d/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_billing_99d2b5fe6fe108eb997bd6649e109659.html#a3f576d48a061d99d06917e8f2bfec3e3", null ]
+];

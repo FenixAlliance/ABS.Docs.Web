@@ -1,0 +1,11 @@
+<map id="FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModuleData" name="FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModuleData">
+<area shape="rect" id="node1" title=" " alt="" coords="148,84,387,125"/>
+<area shape="rect" id="node3" href="$d7/d8a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module.html" title=" " alt="" coords="707,51,921,92"/>
+<area shape="rect" id="node8" href="$da/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_data.html" title=" " alt="" coords="435,113,648,155"/>
+<area shape="rect" id="node2" href="$dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html" title=" " alt="" coords="5,91,100,118"/>
+<area shape="rect" id="node4" href="$de/d86/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_e_payco_extensions.html" title="Adds services required for the Mercado Pago Extension" alt="" coords="1241,5,1472,47"/>
+<area shape="rect" id="node5" href="$df/dd0/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_mercado_pago_extensions.html" title="Adds services required for the Mercado Pago Extension" alt="" coords="1241,75,1472,116"/>
+<area shape="rect" id="node6" href="$dd/d7a/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_extensions_1_1_wopi_extensions.html" title="Adds services required for the Point Of Sales Extension Portal" alt="" coords="1245,149,1469,191"/>
+<area shape="rect" id="node7" href="$d3/d75/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module.html" title="Represents the default module&#39;s initialization implementation." alt="" coords="980,109,1193,151"/>
+<area shape="rect" id="node9" href="$d0/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_services.html" title=" " alt="" coords="696,116,932,157"/>
+</map>

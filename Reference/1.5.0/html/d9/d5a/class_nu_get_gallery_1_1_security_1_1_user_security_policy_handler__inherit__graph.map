@@ -1,0 +1,10 @@
+<map id="NuGetGallery.Security.UserSecurityPolicyHandler" name="NuGetGallery.Security.UserSecurityPolicyHandler">
+<area shape="rect" id="node1" title="Policy handler that defines behavior for specific user policy types." alt="" coords="260,104,443,145"/>
+<area shape="rect" id="node3" href="$d3/d38/class_nu_get_gallery_1_1_security_1_1_require_min_protocol_version_for_push_policy.html" title="User security policy that requires a minimum protocol version in order to push packages." alt="" coords="491,5,711,47"/>
+<area shape="rect" id="node4" href="$dd/d3d/class_nu_get_gallery_1_1_security_1_1_require_organization_tenant_policy.html" title=" " alt="" coords="501,71,701,112"/>
+<area shape="rect" id="node5" href="$d0/d8d/class_nu_get_gallery_1_1_security_1_1_require_package_verify_scope_policy.html" title="User security policy to require scoped API keys with verify scope on package verification callback." alt="" coords="501,136,701,177"/>
+<area shape="rect" id="node6" href="$d5/de4/class_nu_get_gallery_1_1_security_1_1_required_signer_policy.html" title=" " alt="" coords="497,201,704,243"/>
+<area shape="rect" id="node2" href="$d8/d4f/class_nu_get_gallery_1_1_security_1_1_security_policy_handler.html" title=" " alt="" coords="5,97,212,153"/>
+<area shape="rect" id="node7" href="$d0/d61/class_nu_get_gallery_1_1_security_1_1_automatically_overwrite_required_signer_policy.html" title="A policy which enables subscribing package owners to automatically overwrite the current required sig..." alt="" coords="759,168,993,209"/>
+<area shape="rect" id="node8" href="$db/dae/class_nu_get_gallery_1_1_security_1_1_control_required_signer_policy.html" title="A policy which enables subscribing package owners to retain control from non&#45;subscribing package owne..." alt="" coords="777,233,975,275"/>
+</map>

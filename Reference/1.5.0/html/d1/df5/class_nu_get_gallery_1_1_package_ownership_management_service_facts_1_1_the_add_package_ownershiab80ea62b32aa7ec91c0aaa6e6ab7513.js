@@ -1,0 +1,6 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownershiab80ea62b32aa7ec91c0aaa6e6ab7513 =
+[
+    [ "AddPackageOwnershipRequestAsync", "d1/df5/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownershiab80ea62b32aa7ec91c0aaa6e6ab7513.html#a69e3caf4c4d44d6a5e32734ffc6168d1", null ],
+    [ "SendsAllMessagesEvenIfOneFails", "d1/df5/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownershiab80ea62b32aa7ec91c0aaa6e6ab7513.html#a87f76fff4fed8cf847c4537cc7062c86", null ],
+    [ "SendsMessagesToAllOwners", "d1/df5/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownershiab80ea62b32aa7ec91c0aaa6e6ab7513.html#a3c67ac764d78f445eb18d27fbd4ee126", null ]
+];

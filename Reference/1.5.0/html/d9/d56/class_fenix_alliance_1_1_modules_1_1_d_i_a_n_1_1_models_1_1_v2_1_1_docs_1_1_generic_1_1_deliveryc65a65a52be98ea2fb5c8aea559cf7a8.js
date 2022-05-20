@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_deliveryc65a65a52be98ea2fb5c8aea559cf7a8 =
+[
+    [ "CompanyID", "d9/d56/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_deliveryc65a65a52be98ea2fb5c8aea559cf7a8.html#ad47e40c39d125270fd66046e02ff7de2", null ],
+    [ "RegistrationName", "d9/d56/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_deliveryc65a65a52be98ea2fb5c8aea559cf7a8.html#afa78ced6c2b60cba38ac51d66640ebac", null ],
+    [ "TaxLevelCode", "d9/d56/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_deliveryc65a65a52be98ea2fb5c8aea559cf7a8.html#abd42a969ff2a50c7021e9d0e8d7c1900", null ],
+    [ "TaxScheme", "d9/d56/class_fenix_alliance_1_1_modules_1_1_d_i_a_n_1_1_models_1_1_v2_1_1_docs_1_1_generic_1_1_deliveryc65a65a52be98ea2fb5c8aea559cf7a8.html#a367cfc0915e063aea0594587ac82a402", null ]
+];

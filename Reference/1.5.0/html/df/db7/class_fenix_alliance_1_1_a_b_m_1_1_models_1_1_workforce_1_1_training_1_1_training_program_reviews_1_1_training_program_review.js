@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review =
+[
+    [ "Business", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review.html#a6a3fc536ac317158865dbb103cd18bc7", null ],
+    [ "BusinessID", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review.html#a90cdaebd606a31ae0a564650a46bf84f", null ],
+    [ "TrainingProgram", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review.html#a60d1d1fb7025347de0a0af5829851be2", null ],
+    [ "TrainingProgramID", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review.html#a152e786936461ce28798586b6b20dff4", null ]
+];

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_mercado_libre_listing_type_details_response =
+[
+    [ "Configuration", "d4/d8f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_mercado_libre_listing_type_details_response.html#ac15a1ed823c3d835c02d8cf641a44036", null ],
+    [ "ExceptionsByCategory", "d4/d8f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_mercado_libre_listing_type_details_response.html#a44dcb3610ad271bafaecb79e465ed6ce", null ],
+    [ "Id", "d4/d8f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_mercado_libre_listing_type_details_response.html#a888e8a4fed5cd8288347790cf50e7111", null ],
+    [ "NotAvailableInCategories", "d4/d8f/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_mercado_libre_1_1_models_1_1_mercado_libre_listing_type_details_response.html#a7c4ee228ed2ec5c3bcbc619312fc19fb", null ]
+];

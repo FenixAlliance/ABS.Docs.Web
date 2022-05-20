@@ -1,0 +1,5 @@
+var class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method =
+[
+    [ "AddPackageOwnershipRequestAsync", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method.html#af7316d66dff78386a7b2cc2fa8625c6f", null ],
+    [ "SendsNoMessages", "d1/d30/class_nu_get_gallery_1_1_package_ownership_management_service_facts_1_1_the_add_package_ownership_request_async_method.html#acd0b70f065f81279099374e597d8d20f", null ]
+];

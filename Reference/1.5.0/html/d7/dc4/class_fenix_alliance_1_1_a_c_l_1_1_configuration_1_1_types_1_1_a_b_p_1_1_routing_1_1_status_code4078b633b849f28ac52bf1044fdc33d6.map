@@ -1,0 +1,6 @@
+<map id="FenixAlliance.ACL.Configuration.Types.ABP.Routing.StatusCodePages.StatusCodePages" name="FenixAlliance.ACL.Configuration.Types.ABP.Routing.StatusCodePages.StatusCodePages">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,256,211"/>
+<area shape="rect" id="node2" href="$d1/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_option.html" title=" " alt="" coords="19,80,109,107"/>
+<area shape="rect" id="node3" href="$d6/da5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_st0e1cc0ff0e7034f698fe5eb15448e1a8.html" title="Adds a StatusCodePages middleware to the pipeline." alt="" coords="133,80,264,107"/>
+<area shape="rect" id="node4" href="$dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html" title=" " alt="" coords="151,5,246,32"/>
+</map>

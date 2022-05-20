@@ -1,0 +1,11 @@
+var class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method =
+[
+    [ "AccountsAllowedOnBehalfOfIsPopulatedWithExpectedAccounts", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#a29f81c8ca304560cf6d0d0b95c35a7d9", null ],
+    [ "FailureWithNullAccount", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#ab0b24f38f17db8001456b36aec243155", null ],
+    [ "FailureWithNullEntity", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#a9ae12a07452e36766c967142322e1c41", null ],
+    [ "OrganizationsOfCurrentUserAndOwnersOfEntityArePossibleAccounts", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#aa48871ef47ff8f3908ce5928a148fc1e", null ],
+    [ "OrganizationsOfCurrentUserArePossibleAccounts", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#abcd48d73af81495fb72d174361971ef1", null ],
+    [ "OwnersOfEntityArePossibleAccounts", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#a0d2bc6ca4aa372117060b104ee881e24", null ],
+    [ "SuccessWithNullAccount", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#a625c9574283710ed8ca1ee8aa64e3f54", null ],
+    [ "SuccessWithNullEntity", "d0/d60/class_nu_get_gallery_1_1_action_requiring_entity_permissions_facts_1_1_the_check_permissions_on_behalf_of_any_account_method.html#a8e0efcfc1fa1787b185286df790115b4", null ]
+];

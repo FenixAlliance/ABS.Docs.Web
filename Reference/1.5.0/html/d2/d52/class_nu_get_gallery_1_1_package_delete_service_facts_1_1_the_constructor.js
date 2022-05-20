@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor =
+[
+    [ "RejectsHourLimitWithMaximumDownloadsLessThanStatisticsUpdateFrequencyInHours", "d2/d52/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_constructor.html#a80aa4d8f68da6875abeeef6455cb7836", null ]
+];

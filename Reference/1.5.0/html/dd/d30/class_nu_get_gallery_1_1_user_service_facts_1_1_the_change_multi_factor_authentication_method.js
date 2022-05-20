@@ -1,0 +1,4 @@
+var class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method =
+[
+    [ "UpdatesMultiFactorSettings", "dd/d30/class_nu_get_gallery_1_1_user_service_facts_1_1_the_change_multi_factor_authentication_method.html#a713323386ead2c1c4a59ddd90997d8e2", null ]
+];

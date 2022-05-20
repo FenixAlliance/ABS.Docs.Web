@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paafc20fd527588a36033c4de943472fd1 =
+[
+    [ "PackagesToAcceptLicense", "d5/d89/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paafc20fd527588a36033c4de943472fd1.html#a303feaaa7a4312acf632f31f62edc3aa", null ]
+];

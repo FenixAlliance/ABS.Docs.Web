@@ -1,0 +1,25 @@
+var class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts =
+[
+    [ "NoErrorIfDependencySetContainsEmptyTargetFramework", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a0f6e5a3574f96ab0f1a8711b6aef2b49", null ],
+    [ "NoErrorIfFrameworkAssemblyReferenceContainsEmptyTargetFramework", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a3464e3720ba7d7daaa11ce15dec2ec8a", null ],
+    [ "ReturnsErrorIfDependencyHasInvalidVersionRange", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a4a8d4a6828370350a97b2d91a81e63ef", null ],
+    [ "ReturnsErrorIfDependencySetContainsDuplicateDependency", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a655b349f2270577fcbb36b7c7b782f6e", null ],
+    [ "ReturnsErrorIfDependencySetContainsInvalidId", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a3559a59a9a55df118abba2dcc61ef61b", null ],
+    [ "ReturnsErrorIfDependencySetContainsUnsupportedTargetFramework", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#ad07fefd9fc6e41ca77ea0a873fe42db5", null ],
+    [ "ReturnsErrorIfDependencyVersionIsSemVer200WithMetadataPart", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a310e5c4600de0276742470363e941fc6", null ],
+    [ "ReturnsErrorIfDependencyVersionRangeInvalid", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a9ec86578d2d00f6cb739ca309b780942", null ],
+    [ "ReturnsErrorIfFrameworkAssemblyReferenceContainsUnsupportedTargetFramework", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a481d1520f3b58dc5a7082741cda61818", null ],
+    [ "ReturnsErrorIfIconUrlInvalid", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#aaabe5d7d74f66ccd3f7a6928e6700c99", null ],
+    [ "ReturnsErrorIfIdInvalid", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#ac2a8abc5a812f984c179d9e494985ea9", null ],
+    [ "ReturnsErrorIfIdNotPresent", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a32d465f320916608346f1a165185cd7a", null ],
+    [ "ReturnsErrorIfIdTooLong", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a19360633f3d59dd4622f669122d0a44d", null ],
+    [ "ReturnsErrorIfLicenseUrlInvalid", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#aff305acc8dfcfd651eae57bfe83ef0c3", null ],
+    [ "ReturnsErrorIfNonSemVer2VersionIsNotCompliantWith2XClients", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a9992334e8af12d6c4667c59d2dc62868", null ],
+    [ "ReturnsErrorIfProjectUrlInvalid", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#aeb93d61a49b990d4b672733dd819328e", null ],
+    [ "ReturnsErrorIfUrlNotHttpOrHttps", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#ac7db8b0c1986334f89cbdf9e7e1dddc2", null ],
+    [ "ReturnsErrorIfVersionInvalid1", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#aab376cdf96c9c620a26e75a8e5479f9d", null ],
+    [ "ReturnsErrorIfVersionInvalid2", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a2609bead2c5401c2a7f3788d68398798", null ],
+    [ "ReturnsNoErrorIfDependencyVersionIsSemVer200WithoutMetadataPart", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a99100f23c63c91e4af3dda1a6acb5672", null ],
+    [ "ReturnsNoErrorIfVersionIsSemVer200", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a8c3cd96903a3fb2c1c37f4c7550a3643", null ],
+    [ "ReturnsPackageMetadataForValidNuspec", "de/ddd/class_nu_get_gallery_1_1_packaging_1_1_manifest_validator_facts.html#a7c6d28ddec4e3b652db5b44a2a2910f1", null ]
+];

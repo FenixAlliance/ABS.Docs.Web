@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_discovery_1_1_file_system_discovery_file_provider =
+[
+    [ "FileSystemDiscoveryFileProvider", "d3/d22/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_discovery_1_1_file_system_discovery_file_provider.html#addbf4a66780679388f67dce260e631c7", null ],
+    [ "GetDiscoveryXmlAsync", "d3/d22/class_fenix_alliance_1_1_a_b_s_1_1_integrations_1_1_w_o_p_i_1_1_discovery_1_1_file_system_discovery_file_provider.html#a4ce7c31cc4eadaddb5bd4828539daa66", null ]
+];

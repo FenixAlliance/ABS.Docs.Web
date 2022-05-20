@@ -1,0 +1,24 @@
+var class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method =
+[
+    [ "TheCanPackageBeDeletedByUserAsyncMethod", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a6c178b1d25119d7d35be5fe3ac8dbc8b", null ],
+    [ "AllowDeletesWhenTheIdReportDoesNotHaveTooManyDownloadsButStatisticsAreStale", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#ab54409a59adcc0b6f9b6f7556f2a6f5d", null ],
+    [ "AllowsDeletesWhenTimeRangesAreNotDefined", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a289e216202b4c14b0e370ef1b7c69ad2", null ],
+    [ "AllowsDeleteWhenCreatedAfterEarlyTimeRangeAndIdDownloadsAreLowEnough", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a44f11dce147d4f2a239440362d3e3488", null ],
+    [ "AllowsTheDeleteWhenAllChecksPass", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a17ee8979149995de9a2ac5ca82b2a232", null ],
+    [ "AllowsTheDeleteWhenMaximumIdDownloadsAreNotConfigured", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a11cc26aa1faae033c4bb5a5833501eb3", null ],
+    [ "AllowsTheDeleteWhenMaximumVersionDownloadsAreNotConfigured", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a50f00dd420505149ea24a2ec895132dc", null ],
+    [ "DoesNotAllowDeletesOnDeletedPackages", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a403776845c464f85e6eef81b47e5888d", null ],
+    [ "DoesNotAllowDeletesWhenTheFeatureIsDisabled", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a13efd65ad1478a9eeae78d24dd635955", null ],
+    [ "DoesNotAllowDeletesWhenTheIdHasTooManyDownloads", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a9a22fd24fe0ba14ce36962ad42b4f53c", null ],
+    [ "DoesNotAllowDeletesWhenTheIdIsLocked", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a074e1c03ad6e50d25b00c030b4cf1cd7", null ],
+    [ "DoesNotAllowDeletesWhenTheIdReportHasTooManyDownloads", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#ac44d088b0ef74bb97bee658d39ade281", null ],
+    [ "DoesNotAllowDeletesWhenTheStatisticsAreStale", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a9d3aa56b5ddba34d99280164944957d7", null ],
+    [ "DoesNotAllowDeletesWhenTheStatisticsUpdateTimeIsNull", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a2e7c863842e94cee920d7cb3e87a9e89", null ],
+    [ "DoesNotAllowDeletesWhenTheVersionReportTooManyDownloads", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a526edfcb35212dd995064d8f5bb8e762", null ],
+    [ "DoesNotAllowDeletesWhenTheVersionTooManyDownloads", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a973ff97f606db122ac4cd18131d61e5e", null ],
+    [ "DoesNotAllowDeleteWhenCreatedAfterEarlyTimeRangeAndLateIsUndefined", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#aa02eb8bb13ca51aac6482cde155b7f19", null ],
+    [ "DoesNotAllowDeleteWhenCreatedAfterLateTimeRange", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a26196cd3c64c0de01060abf62e77eb8e", null ],
+    [ "DoesNotAllowDeleteWhenCreatedAfterLateTimeRangeAndEarlyIsUndefined", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#a955eb413afc825a6dab551d77e1fced9", null ],
+    [ "DoesNotEmitTelemetryIfReasonIsNull", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#aa5e0d47785a6261905fe843dd6480d55", null ],
+    [ "EmitsTelemetryEvenIfDecisionIsNull", "d5/dd6/class_nu_get_gallery_1_1_package_delete_service_facts_1_1_the_can_package_be_deleted_by_user_async_method.html#ac45719e2957ac30c904f4cbd9f91af08", null ]
+];

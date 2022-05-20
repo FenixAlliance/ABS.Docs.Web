@@ -1,0 +1,11 @@
+var namespace_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega =
+[
+    [ "facturaElectronicaPortName", "da/dbd/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1factura_electronica_port_name.html", "da/dbd/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1factura_electronica_port_name" ],
+    [ "EnvioFacturaElectronica", "d8/d05/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica.html", "d8/d05/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica" ],
+    [ "ReceivedInvoice", "d0/daf/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_received_invoice.html", "d0/daf/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_received_invoice" ],
+    [ "AcuseRecibo", "d7/d5b/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_acuse_recibo.html", "d7/d5b/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_acuse_recibo" ],
+    [ "EnvioFacturaElectronicaPeticion", "d4/df9/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_peticion.html", "d4/df9/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_peticion" ],
+    [ "EnvioFacturaElectronicaRespuesta", "d4/de0/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta.html", "d4/de0/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1_envio_factura_electronica_respuesta" ],
+    [ "facturaElectronicaPortNameChannel", "d4/db8/interface_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1factura_electronica_port_name_channel.html", null ],
+    [ "facturaElectronicaPortNameClient", "d7/d89/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1factura_electronica_port_name_client.html", "d7/d89/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_entrega_1_1factura_electronica_port_name_client" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_t_1_1_azure_1_1_storage =
+[
+    [ "AzureStorageIntegrationOptions", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9.html", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9" ]
+];

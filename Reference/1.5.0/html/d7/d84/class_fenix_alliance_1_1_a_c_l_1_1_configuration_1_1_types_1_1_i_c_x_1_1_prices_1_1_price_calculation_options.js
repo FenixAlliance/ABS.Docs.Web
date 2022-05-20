@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices_1_1_price_calculation_options =
+[
+    [ "PricingListID", "d7/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices_1_1_price_calculation_options.html#a8d0fe1d7e691e07b743a5ee0280f21d1", null ]
+];

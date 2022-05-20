@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1 =
+[
+    [ "CorrectClaimsReturnTrue", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html#a1f854097d728cc6c2a020eeaf5b5585f", null ],
+    [ "MissingIssuerReturnsFalse", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html#a177f24172f7d510fe4bb7e901c8ed2db", null ],
+    [ "MissingTenantReturnsFalse", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html#a1e5b731921e9a40789355392e1f08ab2", null ],
+    [ "WrongIssuerReturnsFalse", "d5/d92/class_nu_get_gallery_1_1_authentication_1_1_providers_1_1_azure_active_directory_v2_1_1_azure_acc5773d59e608c1b9bdb2d7da4fc47db1.html#a56faf0f2117c8cbc7b11b29226b8e0d7", null ]
+];

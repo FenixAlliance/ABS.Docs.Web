@@ -1,0 +1,14 @@
+var class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f =
+[
+    [ "EndpointConfiguration", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#ab06cbba18d65fdec995e4cef1b156540", [
+      [ "resolucionFacturacionPortNameSoap11", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#ab06cbba18d65fdec995e4cef1b156540a611dc9927e001da13aced99d84db5904", null ]
+    ] ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#a16e2c92305781e5c06faad7179ee2892", null ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#ac7f6efe54cef0084072637938134304d", null ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#a62c0442d0c2386187691ca3812ae68e2", null ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#ac789d642054465b4c452cbf8f16774b9", null ],
+    [ "resolucionFacturacionPortNameClient", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#a5a5153227e13bc2e7d5689ce920379e3", null ],
+    [ "CloseAsync", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#a0ad0b980a1783d01d78d25356287060d", null ],
+    [ "ConsultaResolucionesFacturacionAsync", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#a8c8912bd4bd1c391d2abaac14b5e2076", null ],
+    [ "OpenAsync", "d0/d39/class_fenix_alliance_1_1_services_1_1_dian_1_1_operacion_1_1_consulta_1_1_resoluciones_1_1resolu05bce4f6a0d2442a11f16f56140f1b1f.html#ad77f58b72b4f4f63e501915181f3c41b", null ]
+];

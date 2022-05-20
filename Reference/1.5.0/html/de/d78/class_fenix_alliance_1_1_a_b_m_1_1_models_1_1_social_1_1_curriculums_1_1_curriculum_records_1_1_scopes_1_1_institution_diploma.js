@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma =
+[
+    [ "AcademicInstitution", "de/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma.html#a703c072871edeeea36f05ce81048bf97", null ],
+    [ "AcademicInstitutionID", "de/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma.html#a310c9884c0704c9a4a8703d9a33255d5", null ]
+];

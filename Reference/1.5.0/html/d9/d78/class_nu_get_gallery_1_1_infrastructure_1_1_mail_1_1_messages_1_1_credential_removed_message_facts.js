@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts =
+[
+    [ "TheConstructor", "dc/db2/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_constructor.html", "dc/db2/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_constructor" ],
+    [ "TheGetBodyMethod", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method.html", "d7/df5/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts_1_1_the_get_body_method" ],
+    [ "TheGetRecipientsMethod", "dc/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_fac2ff2bc71367f33056db5679781b8fb8d.html", "dc/d22/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_fac2ff2bc71367f33056db5679781b8fb8d" ],
+    [ "SetsGalleryOwnerAsSender", "d9/d78/class_nu_get_gallery_1_1_infrastructure_1_1_mail_1_1_messages_1_1_credential_removed_message_facts.html#ad9776f0fc0124f5b9b1de12e8efceb7d", null ]
+];

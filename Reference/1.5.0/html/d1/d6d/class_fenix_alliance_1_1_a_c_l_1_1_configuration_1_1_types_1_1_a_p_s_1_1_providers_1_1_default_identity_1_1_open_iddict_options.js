@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options =
+[
+    [ "EncryptionPassword", "d1/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options.html#a315f742f29f0748137f6382d7fc2e840", null ],
+    [ "SigningPassword", "d1/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options.html#a1a8340e6523acc8107a79ba7d5addca6", null ]
+];

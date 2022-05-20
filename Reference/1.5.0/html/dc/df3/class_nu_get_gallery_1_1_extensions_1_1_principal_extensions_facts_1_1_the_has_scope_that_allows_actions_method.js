@@ -1,0 +1,7 @@
+var class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method =
+[
+    [ "WhenHasDifferentScope_ReturnsFalse", "dc/df3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method.html#a1ba3a61491d6f145d462c8ff72412008", null ],
+    [ "WhenHasExplicitScope_ReturnsTrue", "dc/df3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method.html#af21144762ced0eb8a8c3539f8c405085", null ],
+    [ "WhenHasNoScopes_ReturnsFalse", "dc/df3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method.html#a133cacd6c8bd0ca733c190cd9a1d5458", null ],
+    [ "WhenSelfIsNull_ThrowsArgumentNullException", "dc/df3/class_nu_get_gallery_1_1_extensions_1_1_principal_extensions_facts_1_1_the_has_scope_that_allows_actions_method.html#a7ff2ed865f99762b7c2dd7dc31885bea", null ]
+];

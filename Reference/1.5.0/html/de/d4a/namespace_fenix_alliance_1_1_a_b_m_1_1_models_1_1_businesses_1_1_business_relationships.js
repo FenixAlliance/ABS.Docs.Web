@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships =
+[
+    [ "BusinessRelationship", "d2/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships_1_1_business_relationship.html", "d2/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships_1_1_business_relationship" ]
+];

@@ -1,0 +1,10 @@
+var class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method =
+[
+    [ "IncludesThePackageRegistrationRelationship", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#a851b12ceb4d4ff4239cf005b93bc541d", null ],
+    [ "ReturnsRequestsFilteredByNewOwner", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#a958fe7f994b85809b9935d017e773024", null ],
+    [ "ReturnsRequestsFilteredByPackageRegistration", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#adc40d7ac248ab03d49e32a0c336e6290", null ],
+    [ "ReturnsRequestsFilteredByRequestingOwner", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#a00660aefd57c3ff1dfefc7be9803de93", null ],
+    [ "UsesNewOwnerKeyForFiltering", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#aba95ee794fa13c494779ad9c76732b9e", null ],
+    [ "UsesPackageRegistrationKeyForFiltering", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#a37c596d1ee1dc3fcd294caf4fe2fc10e", null ],
+    [ "UsesRequestOwnerKeyForFiltering", "d9/dac/class_nu_get_gallery_1_1_services_1_1_package_owner_request_service_facts_1_1_the_get_package_ownership_requests_method.html#a7038ba04823d71f1fcf608d22584a624", null ]
+];
