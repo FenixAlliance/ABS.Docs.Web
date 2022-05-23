@@ -250,10 +250,10 @@ The Alliance Passport Service is an Authentication/Authorization Engine designed
 </code></pre>
 <pre><code class="language-PowerShell">cd ABS.Bin
 </code></pre>
-<pre><code class="language-sh">./FenixAlliance.ABS.Studio.exe
+<pre><code class="language-sh">./FenixAlliance.ABS.Web.exe
 </code></pre>
 <p>or</p>
-<pre><code class="language-sh">dotnet FenixAlliance.ABS.Studio.dll
+<pre><code class="language-sh">dotnet FenixAlliance.ABS.Web.dll
 </code></pre>
 <h3 id="installing-as-an-application-dependency"><a class="header" href="#installing-as-an-application-dependency">Installing as an application dependency</a></h3>
 <ul>
@@ -265,10 +265,11 @@ The Alliance Passport Service is an Authentication/Authorization Engine designed
 </code></pre>
 <ul>
 <li>
-<h4 id="add-the-nuget-package"><a class="header" href="#add-the-nuget-package">Add the NuGet package</a></h4>
+<h4 id="add-the-nuget-packages"><a class="header" href="#add-the-nuget-packages">Add the NuGet packages</a></h4>
 </li>
 </ul>
 <pre><code class="language-sh">dotnet add package FenixAlliance.ABS.Hub --version latest
+dotnet add package FenixAlliance.ABS.Assets --version latest
 </code></pre>
 <ul>
 <li>
@@ -401,14 +402,12 @@ app.Run();
 <p>All of these contributions will be filled as Issues on the <a href="https://github.com/FenixAlliance/ABS.Docs">Alliance Business Suite Documentation Repository</a> and they adhere to the <a href="/Contributing.html">Issue Management Policy</a>.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="roadmap"><a class="header" href="#roadmap">Roadmap</a></h1>
 <p>This project is a work in progress and the schedule for implementing enhancements is dependent upon the availability of community members who are willing/able to assist. For a more comprehensive look at our roadmap, please visit our <strong><a href="https://dev.azure.com/fenixalliance/ABS.Docs/_workitems/recentlyupdated">Progess Board</a></strong>.</p>
-<p>V.1.3 ( release: July 12, 2022 )</p>
+<p>Proposed:</p>
 <ul>
 <li><input disabled="" type="checkbox"/>
 Node.js SDK </li>
 <li><input disabled="" type="checkbox"/>
 PowerShell SDK </li>
-<li><input disabled="" type="checkbox"/>
-.NET 6.0 LTS Update</li>
 <li><input disabled="" type="checkbox"/>
 Agreement Template Definitions</li>
 <li><input disabled="" type="checkbox"/>
@@ -438,11 +437,7 @@ Custom Includes Definitions</li>
 <li><input disabled="" type="checkbox"/>
 Virtual Entity Data Sources</li>
 <li><input disabled="" type="checkbox"/>
-Studio Static Localization</li>
-<li><input disabled="" type="checkbox"/>
 In-Portal Live Chat Widget</li>
-<li><input disabled="" type="checkbox"/>
-Code Editor: Razor Syntax Highlighting </li>
 <li><input disabled="" type="checkbox"/>
 ML-Based Search Results Ranking Engine</li>
 <li><input disabled="" type="checkbox"/>
@@ -457,6 +452,20 @@ ML-Based Sales Forecasting Engine (Regression), (Time Series)</li>
 ML-Based Sentiment Analysis Engine</li>
 <li><input disabled="" type="checkbox"/>
 ML-Based Customer Segregation Engine (Clustering)</li>
+</ul>
+<p>V.1.5 LTS ( release: July 12, 2022 )</p>
+<ul>
+<li>✅ New IServicesService interface &amp; Default Implementation</li>
+<li>✅ New IService interface &amp; Default Implementation</li>
+</ul>
+<p>V.1.4 ( release: May 12, 2022 )</p>
+<ul>
+<li>✅ .NET 6.0 LTS Update</li>
+<li>✅ Studio Layout Localization</li>
+<li>✅ Code Editor: Razor Syntax Highlighting </li>
+</ul>
+<p>V.1.3 ( release: July 12, 2022 )</p>
+<ul>
 <li>✅ ML-Based Natural Language Processing Engine</li>
 <li>✅ ML-Based eCommerce Recommendation Engine</li>
 <li>✅ Template Definitions</li>
