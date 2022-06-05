@@ -147,46 +147,119 @@
 <p>All notable changes to this project will be documented in this file.</p>
 <p>The format is based on <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a>,
 and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semantic Versioning</a>.</p>
-<h2 id="154---2022-05-19"><a class="header" href="#154---2022-05-19">[1.5.4] - 2022-05-19</a></h2>
+<h2 id="172---2022-06-04"><a class="header" href="#172---2022-06-04">[1.7.2] - 2022-06-04</a></h2>
+<h3 id="added"><a class="header" href="#added">Added</a></h3>
+<ul>
+<li>[ABM] <code>IWebUIService</code> and default implementation (<code>WebUIService</code>).</li>
+<li>[ABM] <code>IDateTimeService</code> and default implementation (<code>DateTimeService</code>).</li>
+</ul>
 <h3 id="changed"><a class="header" href="#changed">Changed</a></h3>
+<ul>
+<li>[ABS] Register Fluent UI &amp; Fast Design Layout Contexts.</li>
+<li>[ABP] Register <code>IWebUIService</code> default implementation (<code>WebUIService</code>) as Singleton Service.</li>
+<li>[ABP] Register <code>IDateTimeService</code> default implementation (<code>DateTimeService</code>) as Singleton Service.</li>
+</ul>
+<h2 id="171---2022-06-04"><a class="header" href="#171---2022-06-04">[1.7.1] - 2022-06-04</a></h2>
+<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<ul>
+<li>[ABS] Quick Panels causing UI deadlocks.</li>
+</ul>
+<h2 id="170---2022-06-04"><a class="header" href="#170---2022-06-04">[1.7.0] - 2022-06-04</a></h2>
+<h3 id="added-1"><a class="header" href="#added-1">Added</a></h3>
+<ul>
+<li>[ABS] Studio Static Asset Bundles</li>
+</ul>
+<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
+<ul>
+<li>[ABS] Improve Country Flag Rendering.</li>
+<li>[ABS] Improve Country Flag Rendering.</li>
+<li>[ABS] Improve Studio Rendering Process.</li>
+<li>[ABM] Improve Curriculum Relations.</li>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+</ul>
+<h2 id="160---2022-05-28"><a class="header" href="#160---2022-05-28">[1.6.0] - 2022-05-28</a></h2>
+<h3 id="added-2"><a class="header" href="#added-2">Added</a></h3>
+<ul>
+<li>[ABM] Gig Entity to Database Scheme.</li>
+<li>[ABM] GigApplication Entity to Database Scheme.</li>
+</ul>
+<h2 id="159---2022-05-27"><a class="header" href="#159---2022-05-27">[1.5.9] - 2022-05-27</a></h2>
+<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
+<ul>
+<li>[ABM] IContactService's default implementation is now using ICrmDataService.</li>
+</ul>
+<h2 id="158---2022-05-26"><a class="header" href="#158---2022-05-26">[1.5.8] - 2022-05-26</a></h2>
+<h3 id="added-3"><a class="header" href="#added-3">Added</a></h3>
+<ul>
+<li>[ABM] IContactService's default implementation is now using per-operation Data Context instances.</li>
+</ul>
+<h2 id="157---2022-05-25"><a class="header" href="#157---2022-05-25">[1.5.7 - 2022-05-25</a></h2>
+<h3 id="added-4"><a class="header" href="#added-4">Added</a></h3>
+<ul>
+<li>[ABS] ContactSyncronizationStrategy on PortalContext.</li>
+</ul>
+<h2 id="156---2022-05-23"><a class="header" href="#156---2022-05-23">[1.5.6] - 2022-05-23</a></h2>
+<h3 id="fixed-2"><a class="header" href="#fixed-2">Fixed</a></h3>
+<ul>
+<li>[ABS] Fix error on Studio Modules Loading Process. More assemblies than necessary used to be passed to the router.</li>
+<li>[ABM] Adds additional properties to Alliance Business Model for Job Board Applications.</li>
+<li>[ABM] Adds V1.5.6 ABM Migration for MySQL, MS SQL, and Oracle Data Providers.</li>
+</ul>
+<h2 id="155---2022-05-22"><a class="header" href="#155---2022-05-22">[1.5.5] - 2022-05-22</a></h2>
+<h3 id="added-5"><a class="header" href="#added-5">Added</a></h3>
+<ul>
+<li>[ACL] Brazorize Library Dependency.</li>
+</ul>
+<h3 id="fixed-3"><a class="header" href="#fixed-3">Fixed</a></h3>
+<ul>
+<li>[ABP] Improved ServiceLifetime consistency across default service implementations.</li>
+<li>[ABS] Improved Studio Rendering Process.</li>
+</ul>
+<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
+<ul>
+<li>[ACL] Update dependencies to the latest stable versions.</li>
+<li>[ABS] IAcademyDataService and AcademyDataService are now ILmsDataService and LmsDataService respectively.</li>
+</ul>
+<h2 id="154---2022-05-19"><a class="header" href="#154---2022-05-19">[1.5.4] - 2022-05-19</a></h2>
+<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
 <ul>
 <li>[ABM] Squash migrations for MySQL.</li>
 <li>[ABP] Update Service Registration Lifetime.</li>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
 <li>[ABS] Improve Academy Pages to use new methods on IAcademyService.</li>
-<li>[ABM] Use new scoped for Scoped Services used over Singlenton Services.</li>
-<li>[ABM] Adds GetStudentCoursesAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetStudentProfilesAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetCourseEnrollmentAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetCourseEnrollmentsAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetInstructorCoursesAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetInstructorProfilesAsync method to IAcademyService and Default Implemeation.</li>
-<li>[ABM] Adds GetCourseCompletionCertificatesAsync method to IAcademyService and Default Implemeation.</li>
+<li>[ABM] Use new scoped for Scoped Services used over Singleton Services.</li>
+<li>[ABM] Adds GetStudentCoursesAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetStudentProfilesAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetCourseEnrollmentAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetCourseEnrollmentsAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetInstructorCoursesAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetInstructorProfilesAsync method to IAcademyService and Default Implementation.</li>
+<li>[ABM] Adds GetCourseCompletionCertificatesAsync method to IAcademyService and Default Implementation.</li>
 </ul>
-<h3 id="fixed"><a class="header" href="#fixed">Fixed</a></h3>
+<h3 id="fixed-4"><a class="header" href="#fixed-4">Fixed</a></h3>
 <ul>
-<li>[ABS] Studio wasn't using the SelectedBusinessID for each holder, thus, when reloaded, business selection used to get overrided with null.</li>
+<li>[ABS] Studio wasn't using the SelectedBusinessID for each holder, thus, when reloaded, business selection used to get override with null.</li>
 </ul>
 <h2 id="153---2022-05-15"><a class="header" href="#153---2022-05-15">[1.5.3] - 2022-05-15</a></h2>
-<h3 id="changed-1"><a class="header" href="#changed-1">Changed</a></h3>
+<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
 <ul>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
 <li>[ABS] Refactor Static Assets to improve package installation time.</li>
 </ul>
 <h2 id="151---2022-05-14"><a class="header" href="#151---2022-05-14">[1.5.1] - 2022-05-14</a></h2>
-<h3 id="changed-2"><a class="header" href="#changed-2">Changed</a></h3>
+<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
 <ul>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
-<li>[ABS] Umprove UI Rendering Proccess.</li>
+<li>[ABS] Improve UI Rendering Process.</li>
 </ul>
 <h2 id="150---2022-05-13"><a class="header" href="#150---2022-05-13">[1.5.0] - 2022-05-13</a></h2>
-<h3 id="changed-3"><a class="header" href="#changed-3">Changed</a></h3>
+<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
 <ul>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
-<li>[ABS] Umprove UI Rendering Proccess.</li>
+<li>[ABS] Improve UI Rendering Process.</li>
 </ul>
 <h2 id="141---2022-05-12"><a class="header" href="#141---2022-05-12">[1.4.1] - 2022-05-12</a></h2>
-<h3 id="added"><a class="header" href="#added">Added</a></h3>
+<h3 id="added-6"><a class="header" href="#added-6">Added</a></h3>
 <ul>
 <li>[ABM] ICmsDataService.</li>
 <li>[ABM] ICrmDataService.</li>
@@ -197,12 +270,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] IForexDataService.</li>
 <li>[ABS] CodeEditorComponent with Monaco Editor.</li>
 </ul>
-<h3 id="fixed-1"><a class="header" href="#fixed-1">Fixed</a></h3>
+<h3 id="fixed-5"><a class="header" href="#fixed-5">Fixed</a></h3>
 <ul>
 <li>[ABS] Fixed Workflows Studio Designer not displaying on production.</li>
 <li>[ABM] Improve IPricingService implementations to always use the latest data to perform generic/historical/extensible/customizable multi-currency amount calculations.</li>
 </ul>
-<h3 id="changed-4"><a class="header" href="#changed-4">Changed</a></h3>
+<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
 <ul>
 <li>[ACL] Update dependencies to the latest stable versions.</li>
 <li>[ABS] Templating Engine now relies on interface services on the Alliance Business Model.</li>
@@ -224,7 +297,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] I </li>
 </ul>
 <h2 id="140---2022-01-12"><a class="header" href="#140---2022-01-12">[1.4.0] - 2022-01-12</a></h2>
-<h3 id="added-1"><a class="header" href="#added-1">Added</a></h3>
+<h3 id="added-7"><a class="header" href="#added-7">Added</a></h3>
 <ul>
 <li>[ACL] .NET 6.0 Support.</li>
 <li>[ABS] In-Studio Cart.</li>
@@ -256,7 +329,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABM] IPaymentsService Interface and default implementation (BankTransferPaymentsService Class)</li>
 <li>[ABM] IStorageService Interface &amp; implementation (FileSystemStorageService, AzureStorageStorageService &amp; AwsS3StorageService Classes)</li>
 </ul>
-<h3 id="changed-5"><a class="header" href="#changed-5">Changed</a></h3>
+<h3 id="changed-8"><a class="header" href="#changed-8">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version</li>
 <li>[ABM] Improved Queries</li>
@@ -268,7 +341,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <ul>
 <li>[ACL] Remove deprecated dependencies</li>
 </ul>
-<h3 id="fixed-2"><a class="header" href="#fixed-2">Fixed</a></h3>
+<h3 id="fixed-6"><a class="header" href="#fixed-6">Fixed</a></h3>
 <ul>
 <li>[ABS] Portal &amp; Tenant Selector.</li>
 <li>[ICX] Duplicated Recently Viewed Product Records.</li>
@@ -279,12 +352,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Fix Network Dashboard Deadlock on IP Verification.</li>
 </ul>
 <h2 id="130---2021-07-12"><a class="header" href="#130---2021-07-12">[1.3.0] - 2021-07-12</a></h2>
-<h3 id="added-2"><a class="header" href="#added-2">Added</a></h3>
+<h3 id="added-8"><a class="header" href="#added-8">Added</a></h3>
 <ul>
 <li>[ABM] Oracle Database Provider.</li>
 <li>[ABM] IOptionsService Interface and default implementation (OptionsService)</li>
 </ul>
-<h3 id="changed-6"><a class="header" href="#changed-6">Changed</a></h3>
+<h3 id="changed-9"><a class="header" href="#changed-9">Changed</a></h3>
 <ul>
 <li>[ACL] Updated Dependencies to the latest version.</li>
 </ul>
@@ -292,19 +365,19 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <ul>
 <li>[ACL] Remove deprecated dependencies.</li>
 </ul>
-<h3 id="fixed-3"><a class="header" href="#fixed-3">Fixed</a></h3>
+<h3 id="fixed-7"><a class="header" href="#fixed-7">Fixed</a></h3>
 <ul>
 <li>[ABS] Fix Workflows Data Provider (LiteSQL)</li>
 <li>[ABM] Entities Disambiguation</li>
 </ul>
 <h2 id="121---2021-07-13"><a class="header" href="#121---2021-07-13">[1.2.1] - 2021-07-13</a></h2>
-<h3 id="added-3"><a class="header" href="#added-3">Added</a></h3>
+<h3 id="added-9"><a class="header" href="#added-9">Added</a></h3>
 <ul>
 <li>[ABS] View Rendering Cache</li>
 <li>[ABS] AppDomain Assembly Scoping</li>
 </ul>
 <h2 id="12---2021-07-12"><a class="header" href="#12---2021-07-12">[1.2] - 2021-07-12</a></h2>
-<h3 id="added-4"><a class="header" href="#added-4">Added</a></h3>
+<h3 id="added-10"><a class="header" href="#added-10">Added</a></h3>
 <ul>
 <li>[ABS] Razor Templating Engine</li>
 <li>[ABS] Custom Options Manager (API)</li>
@@ -314,17 +387,17 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Custom Service Endpoint Definitions</li>
 </ul>
 <h2 id="119---2021-06-30"><a class="header" href="#119---2021-06-30">[1.1.9] - 2021-06-30</a></h2>
-<h3 id="added-5"><a class="header" href="#added-5">Added</a></h3>
+<h3 id="added-11"><a class="header" href="#added-11">Added</a></h3>
 <ul>
 <li>[ABS] Theme Precompilation</li>
 </ul>
 <h2 id="118---2021-06-18"><a class="header" href="#118---2021-06-18">[1.1.8] - 2021-06-18</a></h2>
-<h3 id="added-6"><a class="header" href="#added-6">Added</a></h3>
+<h3 id="added-12"><a class="header" href="#added-12">Added</a></h3>
 <ul>
 <li>[ABS] Workflows Capability</li>
 </ul>
 <h2 id="117---2021-06-06"><a class="header" href="#117---2021-06-06">[1.1.7] - 2021-06-06</a></h2>
-<h3 id="added-7"><a class="header" href="#added-7">Added</a></h3>
+<h3 id="added-13"><a class="header" href="#added-13">Added</a></h3>
 <ul>
 <li>[ABS] Log Viewer</li>
 <li>[ABS] Template Views</li>
@@ -347,7 +420,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Adds IViewBuffer, Resx, and Model Resolver to Templating Engine</li>
 <li>[ABS] Adds Localization String Manager. Initial Localization Capabilities.</li>
 </ul>
-<h3 id="changed-7"><a class="header" href="#changed-7">Changed</a></h3>
+<h3 id="changed-10"><a class="header" href="#changed-10">Changed</a></h3>
 <ul>
 <li>[ABS] Fix HTTP context access on IIS making the installation process fail.</li>
 <li>[ABS] Fix HTTP context access on IIS when trying to create a new view.</li>
@@ -364,7 +437,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ABS] Fix page tree navigation on the live editor.</li>
 </ul>
 <h2 id="116---2021-04-21"><a class="header" href="#116---2021-04-21">[1.1.6] - 2021-04-21</a></h2>
-<h3 id="added-8"><a class="header" href="#added-8">Added</a></h3>
+<h3 id="added-14"><a class="header" href="#added-14">Added</a></h3>
 <ul>
 <li>[ABS] View Precompilation</li>
 <li>[ABS] Internal Plugin Support+</li>
@@ -379,7 +452,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] Store Configuration Objects.</li>
 <li>[APS] External Authentication Provider configuration pages.</li>
 </ul>
-<h3 id="changed-8"><a class="header" href="#changed-8">Changed</a></h3>
+<h3 id="changed-11"><a class="header" href="#changed-11">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error while previewing files on File System Explorer.</li>
 <li>[ICX] Fix error where new users got a 500 when visiting the store.</li>
@@ -395,7 +468,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ICX] Taxonomies Creation Controllers/Views.</li>
 </ul>
 <h2 id="114x---2021-04-13"><a class="header" href="#114x---2021-04-13">[1.1.4.x] - 2021-04-13</a></h2>
-<h3 id="added-9"><a class="header" href="#added-9">Added</a></h3>
+<h3 id="added-15"><a class="header" href="#added-15">Added</a></h3>
 <ul>
 <li>[ABS] Extension Updates Page</li>
 <li>[ABS] Razor Templating Engine</li>
@@ -423,7 +496,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[UI] Footer/Header Dynamic styling</li>
 </ul>
 <h2 id="113x---2021-04-09"><a class="header" href="#113x---2021-04-09">[1.1.3.x] - 2021-04-09</a></h2>
-<h3 id="added-10"><a class="header" href="#added-10">Added</a></h3>
+<h3 id="added-16"><a class="header" href="#added-16">Added</a></h3>
 <ul>
 <li>[ACL] Radzen.Blazor is now a project dependency. </li>
 <li>[ACL] RabbitMQ.Client is now a project dependency. </li>
@@ -449,12 +522,12 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>[ACL] ZXing.Net is now a project dependency. </li>
 <li>[ACL] Z.EntityFramework.Plus.EFCore is now a project dependency. </li>
 </ul>
-<h3 id="changed-9"><a class="header" href="#changed-9">Changed</a></h3>
+<h3 id="changed-12"><a class="header" href="#changed-12">Changed</a></h3>
 <ul>
 <li>[ABP] Fix error where plugin assembly paths always returned null (IPluginManager Implementation)</li>
 </ul>
 <h2 id="112x---2021-02-23"><a class="header" href="#112x---2021-02-23">[1.1.2.x] - 2021-02-23</a></h2>
-<h3 id="added-11"><a class="header" href="#added-11">Added</a></h3>
+<h3 id="added-17"><a class="header" href="#added-17">Added</a></h3>
 <ul>
 <li>Adds ABP Proxy</li>
 <li>Missing ACL configuration Types</li>
@@ -473,7 +546,7 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>Added support for IdentityServer4 as a replacement for Alliance Passport Services.</li>
 <li>ACL.Licensing is now a part of the Alliance Business Suite.</li>
 </ul>
-<h3 id="changed-10"><a class="header" href="#changed-10">Changed</a></h3>
+<h3 id="changed-13"><a class="header" href="#changed-13">Changed</a></h3>
 <ul>
 <li>Extracts interface for ACL configuration Types</li>
 <li>ACS is now ABP.BotEngine</li>
@@ -490,13 +563,13 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 <li>ABS.Nucleus was deprecated and is no longer a part of this project.</li>
 </ul>
 <h2 id="111x---2021-01-20"><a class="header" href="#111x---2021-01-20">[1.1.1.x] - 2021-01-20</a></h2>
-<h3 id="added-12"><a class="header" href="#added-12">Added</a></h3>
+<h3 id="added-18"><a class="header" href="#added-18">Added</a></h3>
 <ul>
 <li>Adds ABP Proxy</li>
 <li>Adds Infinity Comex Support</li>
 <li>Missing ACL configuration Types</li>
 </ul>
-<h3 id="changed-11"><a class="header" href="#changed-11">Changed</a></h3>
+<h3 id="changed-14"><a class="header" href="#changed-14">Changed</a></h3>
 <ul>
 <li>Fix Namespaces</li>
 <li>ABS.Portal.Paperbits is now ABS.Portal.Editor</li>
@@ -504,18 +577,18 @@ and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semant
 </ul>
 <h3 id="removed-5"><a class="header" href="#removed-5">Removed</a></h3>
 <h2 id="110x---2021-01-12"><a class="header" href="#110x---2021-01-12">[1.1.0.x] - 2021-01-12</a></h2>
-<h3 id="added-13"><a class="header" href="#added-13">Added</a></h3>
+<h3 id="added-19"><a class="header" href="#added-19">Added</a></h3>
 <ul>
 <li>Nuget Packages @1.1.0</li>
 <li>Initial Portal Admin Blazor Application at route /admin.</li>
 </ul>
-<h3 id="changed-12"><a class="header" href="#changed-12">Changed</a></h3>
+<h3 id="changed-15"><a class="header" href="#changed-15">Changed</a></h3>
 <ul>
 <li>Standardize namespace at v1.1.0</li>
 </ul>
 <h3 id="removed-6"><a class="header" href="#removed-6">Removed</a></h3>
 <h2 id="100x---2020-12-31"><a class="header" href="#100x---2020-12-31">[1.0.0.x] - 2020-12-31</a></h2>
-<h3 id="added-14"><a class="header" href="#added-14">Added</a></h3>
+<h3 id="added-20"><a class="header" href="#added-20">Added</a></h3>
 <ul>
 <li>Authentication / User Management / Profile Management</li>
 <li>Authorization / Roles Management / Granular Permissions</li>
