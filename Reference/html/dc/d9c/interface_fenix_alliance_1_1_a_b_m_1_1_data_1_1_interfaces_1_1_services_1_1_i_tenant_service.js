@@ -1,5 +1,7 @@
 var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service =
 [
+    [ "CreateBusinessTenant", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#afa1ebead068eb14809eb1e409bd2b2f5", null ],
+    [ "CreateBusinessTenantAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a448c7f0b83454e40f9fd2a544deb07e2", null ],
     [ "GetBusinessesWithSocialProfileAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a599788bf00107778063a95a3a9504a88", null ],
     [ "GetBusinessWithSocialProfileAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a9044526d7ecf79e48075368c22fe61c5", null ],
     [ "GetCurrentAccountHolderBusinesses", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#aa46177e4045ac9ec6940b4dcda1e4182", null ],
@@ -23,6 +25,7 @@ var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_
     [ "ResolveRequestedAccessAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a072207dba1614a7ac09744b77a20bd45", null ],
     [ "ResolveRootBusiness", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#aab51d5e24e7f7dc15fd905236c91b26b", null ],
     [ "ResolveRootBusinessAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#aa36c50aa353c99467ea277089b57500a", null ],
+    [ "ToDataTransferObject", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a64de5855cfbcfeae97de1e46676e6509", null ],
     [ "UserOwnsBusinessAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#a1ed99f46dd2873fbaed54ace44060f70", null ],
     [ "UserWorksForBusinessAsync", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html#ada54b79ceaa8e784fec7146e8eef0723", null ]
 ];

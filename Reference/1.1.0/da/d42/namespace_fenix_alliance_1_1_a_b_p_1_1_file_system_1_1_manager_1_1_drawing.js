@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing =
+[
+    [ "DefaultPictureEditor", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor.html", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor" ],
+    [ "ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type" ],
+    [ "IPictureEditor", "d4/d20/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_i_picture_editor.html", "d4/d20/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_i_picture_editor" ]
+];

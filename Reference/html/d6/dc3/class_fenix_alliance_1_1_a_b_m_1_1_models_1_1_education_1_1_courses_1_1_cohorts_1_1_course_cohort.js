@@ -10,7 +10,11 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_coho
     [ "CourseContentGroupID", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a61967f6bfcf0a99deb837d755a217676", null ],
     [ "CourseEnrollments", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a8e57eddf8b225e830bbf69616b96cd1a", null ],
     [ "CourseID", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a2c2daec34d2cec8fe66e0bbb1a678831", null ],
+    [ "EndDateTime", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#aa185988bacf1b5c5462ce1a670fc3b8e", null ],
+    [ "ExpectedEndDateTime", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a96d15b9e438dbdee1ba939ee9a29f355", null ],
+    [ "ExpectedStartDateTime", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a8820e6cc61d51cdd47428713a92eb7d0", null ],
     [ "ID", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#addb3cdf738a16e8deb0844cc51c5f600", null ],
     [ "Name", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a80e16a1419d9a7dbcaf5dcba801ec7e2", null ],
+    [ "StartDateTime", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#ab545c7e3fa2230f7f635e9c8482d11a1", null ],
     [ "Timestamp", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html#a6af777adc8a77101a9fcfb7abefa8b84", null ]
 ];

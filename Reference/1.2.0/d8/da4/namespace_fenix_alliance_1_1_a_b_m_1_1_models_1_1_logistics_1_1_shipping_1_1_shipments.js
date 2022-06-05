@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments =
+[
+    [ "ItemOrderShipment", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_order_shipment.html", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_order_shipment" ],
+    [ "ItemShipment", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_shipment.html", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_shipment" ],
+    [ "Shipment", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment.html", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment" ]
+];

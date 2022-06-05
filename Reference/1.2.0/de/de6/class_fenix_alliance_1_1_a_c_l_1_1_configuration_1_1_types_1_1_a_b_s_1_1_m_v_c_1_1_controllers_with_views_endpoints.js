@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_c_1_1_controllers_with_views_endpoints =
+[
+    [ "AreaControllerRoutes", "de/de6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_c_1_1_controllers_with_views_endpoints.html#a5b978691b9e8ed095d1635d29808f9ce", null ],
+    [ "ControllerRoutes", "de/de6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_m_v_c_1_1_controllers_with_views_endpoints.html#aa641cc69f9d5de60d391f5b17055ecf5", null ]
+];

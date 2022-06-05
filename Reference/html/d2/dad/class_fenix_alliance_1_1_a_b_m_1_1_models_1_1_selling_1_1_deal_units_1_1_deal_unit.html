@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -97,78 +97,158 @@ $(document).ready(function(){initNavTree('d2/dad/class_fenix_alliance_1_1_a_b_m_
 Properties</h2></td></tr>
 <tr class="memitem:a7768a48fa42b3ff0513ecc10aa248ae9"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7768a48fa42b3ff0513ecc10aa248ae9">ID</a> = Guid.NewGuid().ToString()<code> [get, set]</code></td></tr>
 <tr class="separator:a7768a48fa42b3ff0513ecc10aa248ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94c77dd9d8e0c0a022a7037d19279222"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a94c77dd9d8e0c0a022a7037d19279222">Timestamp</a> = DateTime.UtcNow<code> [get, set]</code></td></tr>
-<tr class="separator:a94c77dd9d8e0c0a022a7037d19279222"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a5f95f3b2e918c0d4dfac5853e542e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257eb">DealUnitStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7a5f95f3b2e918c0d4dfac5853e542e6">DealUnitStatus</a><code> [get, set]</code></td></tr>
-<tr class="separator:a7a5f95f3b2e918c0d4dfac5853e542e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ff956342e0b07b54250b4f919bf061f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3">DealUnitPurchaseProcess</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6ff956342e0b07b54250b4f919bf061f">DealUnitPurchaseProcess</a><code> [get, set]</code></td></tr>
-<tr class="separator:a6ff956342e0b07b54250b4f919bf061f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7074e2fc5136e2f677e9309663e437f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993d">DealUnitForecastCategory</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7074e2fc5136e2f677e9309663e437f1">DealUnitForecastCategory</a><code> [get, set]</code></td></tr>
-<tr class="separator:a7074e2fc5136e2f677e9309663e437f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ea7c5d20cf49e3077cbcc70341e7ed0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a349b73155c1f9de763d6b0ca9314c47f">DealUnitAmmountsCalculation</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a5ea7c5d20cf49e3077cbcc70341e7ed0">DealUnitAmmountsCalculation</a><code> [get, set]</code></td></tr>
-<tr class="separator:a5ea7c5d20cf49e3077cbcc70341e7ed0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c364e7f15763286cf3134e5141dbe38"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a5c364e7f15763286cf3134e5141dbe38">Closed</a><code> [get, set]</code></td></tr>
+<tr class="separator:a5c364e7f15763286cf3134e5141dbe38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2610d72aea688c962de6b8df0e853c66"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a2610d72aea688c962de6b8df0e853c66">Title</a><code> [get, set]</code></td></tr>
 <tr class="separator:a2610d72aea688c962de6b8df0e853c66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a81c27e97230c6c9aefc47e053ae8376d"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a81c27e97230c6c9aefc47e053ae8376d">Description</a><code> [get, set]</code></td></tr>
 <tr class="separator:a81c27e97230c6c9aefc47e053ae8376d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88f7f1250e1b36c3d512eba395e9cb38"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a88f7f1250e1b36c3d512eba395e9cb38">CustomerNeed</a><code> [get, set]</code></td></tr>
-<tr class="separator:a88f7f1250e1b36c3d512eba395e9cb38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82280a3087f12e95093e74e060ff355b"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a82280a3087f12e95093e74e060ff355b">CurrentSituation</a><code> [get, set]</code></td></tr>
-<tr class="separator:a82280a3087f12e95093e74e060ff355b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0032aa642bf31acf8b54a5d1aa194552"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a0032aa642bf31acf8b54a5d1aa194552">ProposedSolution</a><code> [get, set]</code></td></tr>
-<tr class="separator:a0032aa642bf31acf8b54a5d1aa194552"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a663c953d4cbe28bce8975ec9a981ef6d"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a663c953d4cbe28bce8975ec9a981ef6d">DealAmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:a663c953d4cbe28bce8975ec9a981ef6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04509cfe6f82e6800955b9cbf82996a0"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a04509cfe6f82e6800955b9cbf82996a0">DetailAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:a04509cfe6f82e6800955b9cbf82996a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a803f2c2a7256c3d00997d4e4a09724dd"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a803f2c2a7256c3d00997d4e4a09724dd">DiscountPercentage</a><code> [get, set]</code></td></tr>
-<tr class="separator:a803f2c2a7256c3d00997d4e4a09724dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af97b8f01eabd415fa2a79c44da8b717d"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#af97b8f01eabd415fa2a79c44da8b717d">DiscountAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:af97b8f01eabd415fa2a79c44da8b717d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88d79a7be607d529ae472d05d8d242b2"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a88d79a7be607d529ae472d05d8d242b2">PreFreightAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:a88d79a7be607d529ae472d05d8d242b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92988cd1b0d0a149de4cada481a29fd7"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a92988cd1b0d0a149de4cada481a29fd7">FreightAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:a92988cd1b0d0a149de4cada481a29fd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa262a1f9cd8dbbb0877da9272ba3df4"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aaa262a1f9cd8dbbb0877da9272ba3df4">TotalTaxAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:aaa262a1f9cd8dbbb0877da9272ba3df4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a571ceff7b9d478592d30833184d6178b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a571ceff7b9d478592d30833184d6178b">TotalAmmount</a><code> [get, set]</code></td></tr>
-<tr class="separator:a571ceff7b9d478592d30833184d6178b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad317ea2b3e2d4845b9f1642e6dc688eb"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad317ea2b3e2d4845b9f1642e6dc688eb">EstimatedRevenue</a><code> [get, set]</code></td></tr>
-<tr class="separator:ad317ea2b3e2d4845b9f1642e6dc688eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c364e7f15763286cf3134e5141dbe38"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a5c364e7f15763286cf3134e5141dbe38">Closed</a><code> [get, set]</code></td></tr>
-<tr class="separator:a5c364e7f15763286cf3134e5141dbe38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe888eaf966f63fc13fd76488ff08805"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#afe888eaf966f63fc13fd76488ff08805">PartnerCreated</a><code> [get, set]</code></td></tr>
 <tr class="separator:afe888eaf966f63fc13fd76488ff08805"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a277236f741325f3166598f5ae8ddf997"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a277236f741325f3166598f5ae8ddf997">PartnerCollaboration</a><code> [get, set]</code></td></tr>
 <tr class="separator:a277236f741325f3166598f5ae8ddf997"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3ae3cdcee8c422552f245d3bd7e5da0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html">DealUnitActivityFeed</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#af3ae3cdcee8c422552f245d3bd7e5da0">DealUnitFeed</a><code> [get, set]</code></td></tr>
-<tr class="separator:af3ae3cdcee8c422552f245d3bd7e5da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a26f840c02065cf0c73810920abd7b865"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a26f840c02065cf0c73810920abd7b865">BusinessProfileRecordID</a><code> [get, set]</code></td></tr>
-<tr class="separator:a26f840c02065cf0c73810920abd7b865"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8f0ade4e1d31533ebbf04c8b49052f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html">BusinessProfileRecord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad8f0ade4e1d31533ebbf04c8b49052f3">BusinessProfileRecord</a><code> [get, set]</code></td></tr>
-<tr class="separator:ad8f0ade4e1d31533ebbf04c8b49052f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96bd2c7c87a4ada03502fba0d9789ca4"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a96bd2c7c87a4ada03502fba0d9789ca4">ExpectedCloseDate</a><code> [get, set]</code></td></tr>
-<tr class="separator:a96bd2c7c87a4ada03502fba0d9789ca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29307d81af66e457dfcb12545bac76e9"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a29307d81af66e457dfcb12545bac76e9">DeliveredDate</a><code> [get, set]</code></td></tr>
-<tr class="separator:a29307d81af66e457dfcb12545bac76e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbd4949be599668e55c2c2f8f6518e16"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#abbd4949be599668e55c2c2f8f6518e16">ExpiryDate</a><code> [get, set]</code></td></tr>
-<tr class="separator:abbd4949be599668e55c2c2f8f6518e16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0032aa642bf31acf8b54a5d1aa194552"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a0032aa642bf31acf8b54a5d1aa194552">ProposedSolution</a><code> [get, set]</code></td></tr>
+<tr class="separator:a0032aa642bf31acf8b54a5d1aa194552"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82280a3087f12e95093e74e060ff355b"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a82280a3087f12e95093e74e060ff355b">CurrentSituation</a><code> [get, set]</code></td></tr>
+<tr class="separator:a82280a3087f12e95093e74e060ff355b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88f7f1250e1b36c3d512eba395e9cb38"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a88f7f1250e1b36c3d512eba395e9cb38">CustomerNeed</a><code> [get, set]</code></td></tr>
+<tr class="separator:a88f7f1250e1b36c3d512eba395e9cb38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7fb1b3b12c00c7b0b2ea7537fcfef5a6"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7fb1b3b12c00c7b0b2ea7537fcfef5a6">WonDate</a><code> [get, set]</code></td></tr>
 <tr class="separator:a7fb1b3b12c00c7b0b2ea7537fcfef5a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2ec71f6a52412fd743ea389dacc581a6"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a2ec71f6a52412fd743ea389dacc581a6">LostDate</a><code> [get, set]</code></td></tr>
 <tr class="separator:a2ec71f6a52412fd743ea389dacc581a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad6e466eecca2a5061e93ae93d3a5d5a3"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad6e466eecca2a5061e93ae93d3a5d5a3">BusinessID</a><code> [get, set]</code></td></tr>
-<tr class="separator:ad6e466eecca2a5061e93ae93d3a5d5a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad81f0ff668584eab82e025b0cb494283"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad81f0ff668584eab82e025b0cb494283">Business</a><code> [get, set]</code></td></tr>
-<tr class="separator:ad81f0ff668584eab82e025b0cb494283"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fbbddcb63be3f6c8f6cbbaf74459b3a"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a8fbbddcb63be3f6c8f6cbbaf74459b3a">ContactID</a><code> [get, set]</code></td></tr>
-<tr class="separator:a8fbbddcb63be3f6c8f6cbbaf74459b3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8aadd1cf4c08fc239e7ff3ce6cea286"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html">Contact</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ac8aadd1cf4c08fc239e7ff3ce6cea286">Contact</a><code> [get, set]</code></td></tr>
-<tr class="separator:ac8aadd1cf4c08fc239e7ff3ce6cea286"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbd4949be599668e55c2c2f8f6518e16"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#abbd4949be599668e55c2c2f8f6518e16">ExpiryDate</a><code> [get, set]</code></td></tr>
+<tr class="separator:abbd4949be599668e55c2c2f8f6518e16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29307d81af66e457dfcb12545bac76e9"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a29307d81af66e457dfcb12545bac76e9">DeliveredDate</a><code> [get, set]</code></td></tr>
+<tr class="separator:a29307d81af66e457dfcb12545bac76e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90c4850fad9325411ddde7a6941f63a2"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a90c4850fad9325411ddde7a6941f63a2">ClosedTimestamp</a><code> [get, set]</code></td></tr>
+<tr class="separator:a90c4850fad9325411ddde7a6941f63a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96bd2c7c87a4ada03502fba0d9789ca4"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a96bd2c7c87a4ada03502fba0d9789ca4">ExpectedCloseDate</a><code> [get, set]</code></td></tr>
+<tr class="separator:a96bd2c7c87a4ada03502fba0d9789ca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94c77dd9d8e0c0a022a7037d19279222"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a94c77dd9d8e0c0a022a7037d19279222">Timestamp</a> = DateTime.UtcNow<code> [get, set]</code></td></tr>
+<tr class="separator:a94c77dd9d8e0c0a022a7037d19279222"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a5f95f3b2e918c0d4dfac5853e542e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257eb">DealUnitStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7a5f95f3b2e918c0d4dfac5853e542e6">DealUnitStatus</a> = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257ebac3bf447eabe632720a3aa1a7ce401274">DealUnitStatus.Open</a><code> [get, set]</code></td></tr>
+<tr class="separator:a7a5f95f3b2e918c0d4dfac5853e542e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ff956342e0b07b54250b4f919bf061f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3">DealUnitPurchaseProcess</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6ff956342e0b07b54250b4f919bf061f">DealUnitPurchaseProcess</a> = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3a6adf97f83acf6453d4a6a4b1070f3754">DealUnitPurchaseProcess.None</a><code> [get, set]</code></td></tr>
+<tr class="separator:a6ff956342e0b07b54250b4f919bf061f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7074e2fc5136e2f677e9309663e437f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993d">DealUnitForecastCategory</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7074e2fc5136e2f677e9309663e437f1">DealUnitForecastCategory</a> = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993da6adf97f83acf6453d4a6a4b1070f3754">DealUnitForecastCategory.None</a><code> [get, set]</code></td></tr>
+<tr class="separator:a7074e2fc5136e2f677e9309663e437f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afdabbaf1bcde8498e1d2e1ff09c262a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24">DealUnitAmountsCalculation</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#afdabbaf1bcde8498e1d2e1ff09c262a7">DealUnitAmountsCalculation</a> = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24ac920f50d9ac04038b4d60b0a31a34371">DealUnitAmountsCalculation.SystemCalculated</a><code> [get, set]</code></td></tr>
+<tr class="separator:afdabbaf1bcde8498e1d2e1ff09c262a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18140dc701874e4e6b79c14b155c70cc"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a18140dc701874e4e6b79c14b155c70cc">ForexRatesSnapshot</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a18140dc701874e4e6b79c14b155c70cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Currency exchange snapshot as JSON string  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a18140dc701874e4e6b79c14b155c70cc">More...</a><br /></td></tr>
+<tr class="separator:a18140dc701874e4e6b79c14b155c70cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33c9290fe209565f63f0c5f8f693a47b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a33c9290fe209565f63f0c5f8f693a47b">ForexRate</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a33c9290fe209565f63f0c5f8f693a47b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forex Rate  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a33c9290fe209565f63f0c5f8f693a47b">More...</a><br /></td></tr>
+<tr class="separator:a33c9290fe209565f63f0c5f8f693a47b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bd4d62a44c237d7efcec0393c916d4d"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7bd4d62a44c237d7efcec0393c916d4d">TotalBaseAmountInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a7bd4d62a44c237d7efcec0393c916d4d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Total Amount without Profit, Discounts, Freight nor Taxes  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7bd4d62a44c237d7efcec0393c916d4d">More...</a><br /></td></tr>
+<tr class="separator:a7bd4d62a44c237d7efcec0393c916d4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace69e6bdff8504771fd92649ac33691d"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ace69e6bdff8504771fd92649ac33691d">TotalDetailAmountInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:ace69e6bdff8504771fd92649ac33691d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Total Amount without Discounts, Freight nor Taxes  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ace69e6bdff8504771fd92649ac33691d">More...</a><br /></td></tr>
+<tr class="separator:ace69e6bdff8504771fd92649ac33691d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac43f7c3ba8c3f77382e254da4e0b4a68"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ac43f7c3ba8c3f77382e254da4e0b4a68">TotalDiscountsInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:ac43f7c3ba8c3f77382e254da4e0b4a68"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Total Discounts Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ac43f7c3ba8c3f77382e254da4e0b4a68">More...</a><br /></td></tr>
+<tr class="separator:ac43f7c3ba8c3f77382e254da4e0b4a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0adca09c437274c3ee4a739a13cd860e"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a0adca09c437274c3ee4a739a13cd860e">TotalProfitInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a0adca09c437274c3ee4a739a13cd860e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Total Earnings Amount (Profit)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a0adca09c437274c3ee4a739a13cd860e">More...</a><br /></td></tr>
+<tr class="separator:a0adca09c437274c3ee4a739a13cd860e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6249a7b1852d14fa153b9b137706e95a"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6249a7b1852d14fa153b9b137706e95a">TotalTaxBaseInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a6249a7b1852d14fa153b9b137706e95a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Total Tax Base (Includes Discounts and Surcharges) (Excludes Payment Cost Freight &amp; Taxes)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6249a7b1852d14fa153b9b137706e95a">More...</a><br /></td></tr>
+<tr class="separator:a6249a7b1852d14fa153b9b137706e95a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e600434b785991c71d96827b7368983"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a8e600434b785991c71d96827b7368983">TotalTaxesInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a8e600434b785991c71d96827b7368983"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Total Taxes  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a8e600434b785991c71d96827b7368983">More...</a><br /></td></tr>
+<tr class="separator:a8e600434b785991c71d96827b7368983"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d4b7cfba3b26b6afedd10067a2aab49"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a9d4b7cfba3b26b6afedd10067a2aab49">TotalWithholdingTaxesInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a9d4b7cfba3b26b6afedd10067a2aab49"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Total Withholding Taxes  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a9d4b7cfba3b26b6afedd10067a2aab49">More...</a><br /></td></tr>
+<tr class="separator:a9d4b7cfba3b26b6afedd10067a2aab49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a419e4dd1913ca5b3ad395524c00871df"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a419e4dd1913ca5b3ad395524c00871df">TotalShippingCostInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a419e4dd1913ca5b3ad395524c00871df"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Shipping Policy Costs Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a419e4dd1913ca5b3ad395524c00871df">More...</a><br /></td></tr>
+<tr class="separator:a419e4dd1913ca5b3ad395524c00871df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64bdfc467a1c61e146538380e1c66d88"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a64bdfc467a1c61e146538380e1c66d88">TotalShippingTaxesInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a64bdfc467a1c61e146538380e1c66d88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Shipping Policy Taxes Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a64bdfc467a1c61e146538380e1c66d88">More...</a><br /></td></tr>
+<tr class="separator:a64bdfc467a1c61e146538380e1c66d88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a542d0419fb1f19202defb7143cdb4c3f"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a542d0419fb1f19202defb7143cdb4c3f">TotalWarrantyCostInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a542d0419fb1f19202defb7143cdb4c3f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Warranty Policy Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a542d0419fb1f19202defb7143cdb4c3f">More...</a><br /></td></tr>
+<tr class="separator:a542d0419fb1f19202defb7143cdb4c3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d411615a7f8511740a46b6197359247"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4d411615a7f8511740a46b6197359247">TotalReturnCostInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a4d411615a7f8511740a46b6197359247"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Return Policy Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4d411615a7f8511740a46b6197359247">More...</a><br /></td></tr>
+<tr class="separator:a4d411615a7f8511740a46b6197359247"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2013eb6e7f23ba107b8caf8fef9854a"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa2013eb6e7f23ba107b8caf8fef9854a">TotalRefundCostInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:aa2013eb6e7f23ba107b8caf8fef9854a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Refund Policy Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa2013eb6e7f23ba107b8caf8fef9854a">More...</a><br /></td></tr>
+<tr class="separator:aa2013eb6e7f23ba107b8caf8fef9854a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73eb7a695a7e602989f5a3bfa398b651"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a73eb7a695a7e602989f5a3bfa398b651">TotalSurchargesInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a73eb7a695a7e602989f5a3bfa398b651"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Default Policies Costs Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a73eb7a695a7e602989f5a3bfa398b651">More...</a><br /></td></tr>
+<tr class="separator:a73eb7a695a7e602989f5a3bfa398b651"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93f177543c493941db40a973a329c186"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a93f177543c493941db40a973a329c186">TotalAmountInUSD</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a93f177543c493941db40a973a329c186"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculated Total Payment Amount (Revenue)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a93f177543c493941db40a973a329c186">More...</a><br /></td></tr>
+<tr class="separator:a93f177543c493941db40a973a329c186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ac8e7fbbcf0dd8903ce533cac833f70"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6ac8e7fbbcf0dd8903ce533cac833f70">CustomBaseAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a6ac8e7fbbcf0dd8903ce533cac833f70"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Base Total (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a6ac8e7fbbcf0dd8903ce533cac833f70">More...</a><br /></td></tr>
+<tr class="separator:a6ac8e7fbbcf0dd8903ce533cac833f70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aace4e9da56311db7aecb95fe0c0cbe22"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aace4e9da56311db7aecb95fe0c0cbe22">CustomDetailAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:aace4e9da56311db7aecb95fe0c0cbe22"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Sub Total (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aace4e9da56311db7aecb95fe0c0cbe22">More...</a><br /></td></tr>
+<tr class="separator:aace4e9da56311db7aecb95fe0c0cbe22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed0b0e22314930103719f235215e6502"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aed0b0e22314930103719f235215e6502">CustomDiscountsAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:aed0b0e22314930103719f235215e6502"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Discounts (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aed0b0e22314930103719f235215e6502">More...</a><br /></td></tr>
+<tr class="separator:aed0b0e22314930103719f235215e6502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08723e44b045503f433e44124f90c0b7"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a08723e44b045503f433e44124f90c0b7">CustomSurchargesAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a08723e44b045503f433e44124f90c0b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Surcharges (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a08723e44b045503f433e44124f90c0b7">More...</a><br /></td></tr>
+<tr class="separator:a08723e44b045503f433e44124f90c0b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a942727c507e687ef6e669204c2986fdf"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a942727c507e687ef6e669204c2986fdf">CustomProfitAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a942727c507e687ef6e669204c2986fdf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Profit (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a942727c507e687ef6e669204c2986fdf">More...</a><br /></td></tr>
+<tr class="separator:a942727c507e687ef6e669204c2986fdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc7e29fdaed296f43563455b4991069a"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#acc7e29fdaed296f43563455b4991069a">CustomShippingCostAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:acc7e29fdaed296f43563455b4991069a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Shipping Policy Costs Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#acc7e29fdaed296f43563455b4991069a">More...</a><br /></td></tr>
+<tr class="separator:acc7e29fdaed296f43563455b4991069a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa24301bb38c76a6f5b5a40756bf409b5"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa24301bb38c76a6f5b5a40756bf409b5">CustomShippingTaxAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:aa24301bb38c76a6f5b5a40756bf409b5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Shipping Policy Taxes Amount  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa24301bb38c76a6f5b5a40756bf409b5">More...</a><br /></td></tr>
+<tr class="separator:aa24301bb38c76a6f5b5a40756bf409b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77d055ea77581734e92a143560686e32"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a77d055ea77581734e92a143560686e32">CustomTaxBase</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a77d055ea77581734e92a143560686e32"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Tax Base (Includes Discounts and Surcharges) (Excludes Payment Cost Freight &amp; Taxes) (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a77d055ea77581734e92a143560686e32">More...</a><br /></td></tr>
+<tr class="separator:a77d055ea77581734e92a143560686e32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8e1c7e98146c8296e05396a15182516"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ae8e1c7e98146c8296e05396a15182516">CustomTaxAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:ae8e1c7e98146c8296e05396a15182516"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Tax Amount (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ae8e1c7e98146c8296e05396a15182516">More...</a><br /></td></tr>
+<tr class="separator:ae8e1c7e98146c8296e05396a15182516"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae8138b89b49aca546b99016ccdfcd46"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aae8138b89b49aca546b99016ccdfcd46">CustomWithholdingTaxAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:aae8138b89b49aca546b99016ccdfcd46"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Withholding Tax Amount (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aae8138b89b49aca546b99016ccdfcd46">More...</a><br /></td></tr>
+<tr class="separator:aae8138b89b49aca546b99016ccdfcd46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65617710de0d733384c1f6cb7f99d4ea"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a65617710de0d733384c1f6cb7f99d4ea">CustomTotalAmount</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a65617710de0d733384c1f6cb7f99d4ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Custom Total Amount (In CurrencyID)  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a65617710de0d733384c1f6cb7f99d4ea">More...</a><br /></td></tr>
+<tr class="separator:a65617710de0d733384c1f6cb7f99d4ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66219145b2ae378cc0e480a6e4c3ff68"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a66219145b2ae378cc0e480a6e4c3ff68">TotalGlobalDiscountsInUSD</a><code> [get, set]</code></td></tr>
+<tr class="separator:a66219145b2ae378cc0e480a6e4c3ff68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae00ddb98fbd42810fed286006dcf62f"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aae00ddb98fbd42810fed286006dcf62f">TotalGlobalSurchargesInUSD</a><code> [get, set]</code></td></tr>
+<tr class="separator:aae00ddb98fbd42810fed286006dcf62f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3622769f4a25ed8dad77a110b51610a"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad3622769f4a25ed8dad77a110b51610a">CustomGlobalSurchargesAmount</a><code> [get, set]</code></td></tr>
+<tr class="separator:ad3622769f4a25ed8dad77a110b51610a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac98b6c3f1152f8e0b6e23fb8bb3150e5"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ac98b6c3f1152f8e0b6e23fb8bb3150e5">CustomGlobalDiscountsAmount</a><code> [get, set]</code></td></tr>
+<tr class="separator:ac98b6c3f1152f8e0b6e23fb8bb3150e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52a4b10d5cf29b12263715e4a1681230"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a52a4b10d5cf29b12263715e4a1681230">IndividualID</a><code> [get, set]</code></td></tr>
+<tr class="separator:a52a4b10d5cf29b12263715e4a1681230"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f548b4a6bbe91c87a063da90473fbb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html">Contact</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a8f548b4a6bbe91c87a063da90473fbb6">Individual</a><code> [get, set]</code></td></tr>
+<tr class="separator:a8f548b4a6bbe91c87a063da90473fbb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3b25464dd41c46a3ba8f648050758e3a"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a3b25464dd41c46a3ba8f648050758e3a">OrganizationID</a><code> [get, set]</code></td></tr>
 <tr class="separator:a3b25464dd41c46a3ba8f648050758e3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad764710e9fa97c525b9794b007aefd9f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html">Contact</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad764710e9fa97c525b9794b007aefd9f">Organization</a><code> [get, set]</code></td></tr>
 <tr class="separator:ad764710e9fa97c525b9794b007aefd9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fecc64868c120506021e6c68711eb60"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a1fecc64868c120506021e6c68711eb60">ReceptorBusinessID</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a1fecc64868c120506021e6c68711eb60"><td class="mdescLeft">&#160;</td><td class="mdescRight">Receptor Business Tenant  <a href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a1fecc64868c120506021e6c68711eb60">More...</a><br /></td></tr>
+<tr class="separator:a1fecc64868c120506021e6c68711eb60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bc9afdb73808235d5c74d9c8f109919"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a1bc9afdb73808235d5c74d9c8f109919">ReceptorBusiness</a><code> [get, set]</code></td></tr>
+<tr class="separator:a1bc9afdb73808235d5c74d9c8f109919"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34f111162ecde2ae4dd421d0c1aa148c"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a34f111162ecde2ae4dd421d0c1aa148c">AccountHolderID</a><code> [get, set]</code></td></tr>
+<tr class="separator:a34f111162ecde2ae4dd421d0c1aa148c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace0af0bff30426e6b7d4832b620e7c4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders_1_1_account_holder.html">AccountHolder</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ace0af0bff30426e6b7d4832b620e7c4d">AccountHolder</a><code> [get, set]</code></td></tr>
+<tr class="separator:ace0af0bff30426e6b7d4832b620e7c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6e466eecca2a5061e93ae93d3a5d5a3"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad6e466eecca2a5061e93ae93d3a5d5a3">BusinessID</a><code> [get, set]</code></td></tr>
+<tr class="separator:ad6e466eecca2a5061e93ae93d3a5d5a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad81f0ff668584eab82e025b0cb494283"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad81f0ff668584eab82e025b0cb494283">Business</a><code> [get, set]</code></td></tr>
+<tr class="separator:ad81f0ff668584eab82e025b0cb494283"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26f840c02065cf0c73810920abd7b865"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a26f840c02065cf0c73810920abd7b865">BusinessProfileRecordID</a><code> [get, set]</code></td></tr>
+<tr class="separator:a26f840c02065cf0c73810920abd7b865"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8f0ade4e1d31533ebbf04c8b49052f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html">BusinessProfileRecord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#ad8f0ade4e1d31533ebbf04c8b49052f3">BusinessProfileRecord</a><code> [get, set]</code></td></tr>
+<tr class="separator:ad8f0ade4e1d31533ebbf04c8b49052f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afaa6c51f7873c525f0d9a31240e4bdd3"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#afaa6c51f7873c525f0d9a31240e4bdd3">PriceListID</a><code> [get, set]</code></td></tr>
 <tr class="separator:afaa6c51f7873c525f0d9a31240e4bdd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a663bfdda54e6cb09f43f5cd34898cf46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list.html">PriceList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a663bfdda54e6cb09f43f5cd34898cf46">PriceList</a><code> [get, set]</code></td></tr>
@@ -185,19 +265,11 @@ Properties</h2></td></tr>
 <tr class="separator:a343f129756a22e1e11fd887152176832"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a888a4d2992a7f8178ef3daee05dfaeb0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_work_order_types_1_1_work_order_type.html">WorkOrderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a888a4d2992a7f8178ef3daee05dfaeb0">WorkOrderType</a><code> [get, set]</code></td></tr>
 <tr class="separator:a888a4d2992a7f8178ef3daee05dfaeb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a11cd76815de6438cf14f0e200bc6ca78"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a11cd76815de6438cf14f0e200bc6ca78">MarketingLeadTypeID</a><code> [get, set]</code></td></tr>
-<tr class="separator:a11cd76815de6438cf14f0e200bc6ca78"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4011ee555f8ba91502d8e3e3d9d744c6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html">MarketingLeadType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4011ee555f8ba91502d8e3e3d9d744c6">MarketingLeadType</a><code> [get, set]</code></td></tr>
-<tr class="separator:a4011ee555f8ba91502d8e3e3d9d744c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdb7d1cdb71ce807a0d4b1c015c4309a"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#acdb7d1cdb71ce807a0d4b1c015c4309a">MarketingLeadID</a><code> [get, set]</code></td></tr>
-<tr class="separator:acdb7d1cdb71ce807a0d4b1c015c4309a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c300a8ea1d8fd8c687e57b7c87f770a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html">MarketingLead</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4c300a8ea1d8fd8c687e57b7c87f770a">MarketingLead</a><code> [get, set]</code></td></tr>
-<tr class="separator:a4c300a8ea1d8fd8c687e57b7c87f770a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a955343ee581e048f46ff142f551489d4"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a955343ee581e048f46ff142f551489d4">MarketingCampaignID</a><code> [get, set]</code></td></tr>
 <tr class="separator:a955343ee581e048f46ff142f551489d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4bc50c62f9d0b31396d30922ddfac525"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html">MarketingCampaign</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4bc50c62f9d0b31396d30922ddfac525">MarketingCampaign</a><code> [get, set]</code></td></tr>
 <tr class="separator:a4bc50c62f9d0b31396d30922ddfac525"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7afeb30c7967c8270e43eff6b65d3339"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7afeb30c7967c8270e43eff6b65d3339">CurrencyID</a><code> [get, set]</code></td></tr>
+<tr class="memitem:a7afeb30c7967c8270e43eff6b65d3339"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a7afeb30c7967c8270e43eff6b65d3339">CurrencyID</a> = &quot;USD.USA&quot;<code> [get, set]</code></td></tr>
 <tr class="separator:a7afeb30c7967c8270e43eff6b65d3339"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3f8f64004641813bf2870db6c19f4bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currency.html">Currency</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#aa3f8f64004641813bf2870db6c19f4bf">Currency</a><code> [get, set]</code></td></tr>
 <tr class="separator:aa3f8f64004641813bf2870db6c19f4bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -219,8 +291,54 @@ Properties</h2></td></tr>
 <tr class="separator:a8deb2a578405632b48ef3048ef03ab0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4383636df24f33cd9f6c3c94daeffefa"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="../../d6/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu5383c59a11798a134b5733b4f25aa3ff.html">DealUnitCustomPropertyRecord</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4383636df24f33cd9f6c3c94daeffefa">DealUnitCustomPropertyRecords</a><code> [get, set]</code></td></tr>
 <tr class="separator:a4383636df24f33cd9f6c3c94daeffefa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3ae3cdcee8c422552f245d3bd7e5da0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html">DealUnitActivityFeed</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#af3ae3cdcee8c422552f245d3bd7e5da0">DealUnitFeed</a> = new ()<code> [get, set]</code></td></tr>
+<tr class="separator:af3ae3cdcee8c422552f245d3bd7e5da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Property Documentation</h2>
+<a id="ace0af0bff30426e6b7d4832b620e7c4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace0af0bff30426e6b7d4832b620e7c4d">&#9670;&nbsp;</a></span>AccountHolder</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders_1_1_account_holder.html">AccountHolder</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.AccountHolder</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a34f111162ecde2ae4dd421d0c1aa148c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34f111162ecde2ae4dd421d0c1aa148c">&#9670;&nbsp;</a></span>AccountHolderID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.AccountHolderID</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ad81f0ff668584eab82e025b0cb494283"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad81f0ff668584eab82e025b0cb494283">&#9670;&nbsp;</a></span>Business</h2>
 
@@ -375,8 +493,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="ac8aadd1cf4c08fc239e7ff3ce6cea286"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8aadd1cf4c08fc239e7ff3ce6cea286">&#9670;&nbsp;</a></span>Contact</h2>
+<a id="a90c4850fad9325411ddde7a6941f63a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90c4850fad9325411ddde7a6941f63a2">&#9670;&nbsp;</a></span>ClosedTimestamp</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -385,29 +503,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html">Contact</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.Contact</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8fbbddcb63be3f6c8f6cbbaf74459b3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fbbddcb63be3f6c8f6cbbaf74459b3a">&#9670;&nbsp;</a></span>ContactID</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ContactID</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ClosedTimestamp</td>
         </tr>
       </table>
   </td>
@@ -451,7 +547,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CurrencyID</td>
+          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CurrencyID = &quot;USD.USA&quot;</td>
         </tr>
       </table>
   </td>
@@ -485,6 +581,78 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="a6ac8e7fbbcf0dd8903ce533cac833f70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ac8e7fbbcf0dd8903ce533cac833f70">&#9670;&nbsp;</a></span>CustomBaseAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomBaseAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Base Total (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="aace4e9da56311db7aecb95fe0c0cbe22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aace4e9da56311db7aecb95fe0c0cbe22">&#9670;&nbsp;</a></span>CustomDetailAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomDetailAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Sub Total (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="aed0b0e22314930103719f235215e6502"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed0b0e22314930103719f235215e6502">&#9670;&nbsp;</a></span>CustomDiscountsAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomDiscountsAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Discounts (In CurrencyID) </p>
+
+</div>
+</div>
 <a id="a88f7f1250e1b36c3d512eba395e9cb38"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a88f7f1250e1b36c3d512eba395e9cb38">&#9670;&nbsp;</a></span>CustomerNeed</h2>
 
@@ -507,8 +675,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a663c953d4cbe28bce8975ec9a981ef6d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a663c953d4cbe28bce8975ec9a981ef6d">&#9670;&nbsp;</a></span>DealAmount</h2>
+<a id="ac98b6c3f1152f8e0b6e23fb8bb3150e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac98b6c3f1152f8e0b6e23fb8bb3150e5">&#9670;&nbsp;</a></span>CustomGlobalDiscountsAmount</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -517,7 +685,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealAmount</td>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomGlobalDiscountsAmount</td>
         </tr>
       </table>
   </td>
@@ -529,8 +697,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a5ea7c5d20cf49e3077cbcc70341e7ed0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ea7c5d20cf49e3077cbcc70341e7ed0">&#9670;&nbsp;</a></span>DealUnitAmmountsCalculation</h2>
+<a id="ad3622769f4a25ed8dad77a110b51610a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3622769f4a25ed8dad77a110b51610a">&#9670;&nbsp;</a></span>CustomGlobalSurchargesAmount</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -539,7 +707,221 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a349b73155c1f9de763d6b0ca9314c47f">DealUnitAmmountsCalculation</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitAmmountsCalculation</td>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomGlobalSurchargesAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a942727c507e687ef6e669204c2986fdf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a942727c507e687ef6e669204c2986fdf">&#9670;&nbsp;</a></span>CustomProfitAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomProfitAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Profit (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="acc7e29fdaed296f43563455b4991069a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc7e29fdaed296f43563455b4991069a">&#9670;&nbsp;</a></span>CustomShippingCostAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomShippingCostAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Shipping Policy Costs Amount </p>
+
+</div>
+</div>
+<a id="aa24301bb38c76a6f5b5a40756bf409b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa24301bb38c76a6f5b5a40756bf409b5">&#9670;&nbsp;</a></span>CustomShippingTaxAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomShippingTaxAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Shipping Policy Taxes Amount </p>
+
+</div>
+</div>
+<a id="a08723e44b045503f433e44124f90c0b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08723e44b045503f433e44124f90c0b7">&#9670;&nbsp;</a></span>CustomSurchargesAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomSurchargesAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Surcharges (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="ae8e1c7e98146c8296e05396a15182516"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8e1c7e98146c8296e05396a15182516">&#9670;&nbsp;</a></span>CustomTaxAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomTaxAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Tax Amount (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="a77d055ea77581734e92a143560686e32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77d055ea77581734e92a143560686e32">&#9670;&nbsp;</a></span>CustomTaxBase</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomTaxBase</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Tax Base (Includes Discounts and Surcharges) (Excludes Payment Cost Freight &amp; Taxes) (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="a65617710de0d733384c1f6cb7f99d4ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65617710de0d733384c1f6cb7f99d4ea">&#9670;&nbsp;</a></span>CustomTotalAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomTotalAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Amount (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="aae8138b89b49aca546b99016ccdfcd46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae8138b89b49aca546b99016ccdfcd46">&#9670;&nbsp;</a></span>CustomWithholdingTaxAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.CustomWithholdingTaxAmount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Custom Total Withholding Tax Amount (In CurrencyID) </p>
+
+</div>
+</div>
+<a id="afdabbaf1bcde8498e1d2e1ff09c262a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afdabbaf1bcde8498e1d2e1ff09c262a7">&#9670;&nbsp;</a></span>DealUnitAmountsCalculation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24">DealUnitAmountsCalculation</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitAmountsCalculation = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24ac920f50d9ac04038b4d60b0a31a34371">DealUnitAmountsCalculation.SystemCalculated</a></td>
         </tr>
       </table>
   </td>
@@ -583,7 +965,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html">DealUnitActivityFeed</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitFeed</td>
+          <td class="memname"><a class="el" href="../../dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html">DealUnitActivityFeed</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitFeed = new ()</td>
         </tr>
       </table>
   </td>
@@ -693,7 +1075,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993d">DealUnitForecastCategory</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitForecastCategory</td>
+          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993d">DealUnitForecastCategory</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitForecastCategory = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a1cacdb1a9c5cdb278834c4ef1896993da6adf97f83acf6453d4a6a4b1070f3754">DealUnitForecastCategory.None</a></td>
         </tr>
       </table>
   </td>
@@ -737,7 +1119,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3">DealUnitPurchaseProcess</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitPurchaseProcess</td>
+          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3">DealUnitPurchaseProcess</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitPurchaseProcess = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a7cf0ab0d7c732ad37673699bc312e8a3a6adf97f83acf6453d4a6a4b1070f3754">DealUnitPurchaseProcess.None</a></td>
         </tr>
       </table>
   </td>
@@ -759,7 +1141,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257eb">DealUnitStatus</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitStatus</td>
+          <td class="memname"><a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257eb">DealUnitStatus</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DealUnitStatus = <a class="el" href="../../d1/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units.html#a2f1ea143e0ca1cb49bc2fb25aca257ebac3bf447eabe632720a3aa1a7ce401274">DealUnitStatus.Open</a></td>
         </tr>
       </table>
   </td>
@@ -815,94 +1197,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a04509cfe6f82e6800955b9cbf82996a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04509cfe6f82e6800955b9cbf82996a0">&#9670;&nbsp;</a></span>DetailAmmount</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DetailAmmount</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af97b8f01eabd415fa2a79c44da8b717d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af97b8f01eabd415fa2a79c44da8b717d">&#9670;&nbsp;</a></span>DiscountAmmount</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DiscountAmmount</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a803f2c2a7256c3d00997d4e4a09724dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a803f2c2a7256c3d00997d4e4a09724dd">&#9670;&nbsp;</a></span>DiscountPercentage</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.DiscountPercentage</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad317ea2b3e2d4845b9f1642e6dc688eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad317ea2b3e2d4845b9f1642e6dc688eb">&#9670;&nbsp;</a></span>EstimatedRevenue</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.EstimatedRevenue</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a96bd2c7c87a4ada03502fba0d9789ca4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a96bd2c7c87a4ada03502fba0d9789ca4">&#9670;&nbsp;</a></span>ExpectedCloseDate</h2>
 
@@ -947,8 +1241,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a92988cd1b0d0a149de4cada481a29fd7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92988cd1b0d0a149de4cada481a29fd7">&#9670;&nbsp;</a></span>FreightAmmount</h2>
+<a id="a33c9290fe209565f63f0c5f8f693a47b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33c9290fe209565f63f0c5f8f693a47b">&#9670;&nbsp;</a></span>ForexRate</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -957,7 +1251,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.FreightAmmount</td>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ForexRate</td>
         </tr>
       </table>
   </td>
@@ -966,6 +1260,32 @@ Properties</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Forex Rate </p>
+
+</div>
+</div>
+<a id="a18140dc701874e4e6b79c14b155c70cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18140dc701874e4e6b79c14b155c70cc">&#9670;&nbsp;</a></span>ForexRatesSnapshot</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ForexRatesSnapshot</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Currency exchange snapshot as JSON string </p>
 
 </div>
 </div>
@@ -980,6 +1300,50 @@ Properties</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ID = Guid.NewGuid().ToString()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8f548b4a6bbe91c87a063da90473fbb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f548b4a6bbe91c87a063da90473fbb6">&#9670;&nbsp;</a></span>Individual</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html">Contact</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.Individual</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a52a4b10d5cf29b12263715e4a1681230"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52a4b10d5cf29b12263715e4a1681230">&#9670;&nbsp;</a></span>IndividualID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.IndividualID</td>
         </tr>
       </table>
   </td>
@@ -1046,94 +1410,6 @@ Properties</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.MarketingCampaignID</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4c300a8ea1d8fd8c687e57b7c87f770a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4c300a8ea1d8fd8c687e57b7c87f770a">&#9670;&nbsp;</a></span>MarketingLead</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html">MarketingLead</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.MarketingLead</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="acdb7d1cdb71ce807a0d4b1c015c4309a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdb7d1cdb71ce807a0d4b1c015c4309a">&#9670;&nbsp;</a></span>MarketingLeadID</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.MarketingLeadID</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4011ee555f8ba91502d8e3e3d9d744c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4011ee555f8ba91502d8e3e3d9d744c6">&#9670;&nbsp;</a></span>MarketingLeadType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html">MarketingLeadType</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.MarketingLeadType</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a11cd76815de6438cf14f0e200bc6ca78"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11cd76815de6438cf14f0e200bc6ca78">&#9670;&nbsp;</a></span>MarketingLeadTypeID</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.MarketingLeadTypeID</td>
         </tr>
       </table>
   </td>
@@ -1277,28 +1553,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a88d79a7be607d529ae472d05d8d242b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88d79a7be607d529ae472d05d8d242b2">&#9670;&nbsp;</a></span>PreFreightAmmount</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.PreFreightAmmount</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a663bfdda54e6cb09f43f5cd34898cf46"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a663bfdda54e6cb09f43f5cd34898cf46">&#9670;&nbsp;</a></span>PriceList</h2>
 
@@ -1384,6 +1638,52 @@ Properties</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1bc9afdb73808235d5c74d9c8f109919"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bc9afdb73808235d5c74d9c8f109919">&#9670;&nbsp;</a></span>ReceptorBusiness</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ReceptorBusiness</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1fecc64868c120506021e6c68711eb60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fecc64868c120506021e6c68711eb60">&#9670;&nbsp;</a></span>ReceptorBusinessID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.ReceptorBusinessID</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Receptor Business Tenant </p>
 
 </div>
 </div>
@@ -1475,8 +1775,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a571ceff7b9d478592d30833184d6178b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a571ceff7b9d478592d30833184d6178b">&#9670;&nbsp;</a></span>TotalAmmount</h2>
+<a id="a93f177543c493941db40a973a329c186"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93f177543c493941db40a973a329c186">&#9670;&nbsp;</a></span>TotalAmountInUSD</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1485,7 +1785,103 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalAmmount</td>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalAmountInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Total Payment Amount (Revenue) </p>
+
+</div>
+</div>
+<a id="a7bd4d62a44c237d7efcec0393c916d4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bd4d62a44c237d7efcec0393c916d4d">&#9670;&nbsp;</a></span>TotalBaseAmountInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalBaseAmountInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Total Amount without Profit, Discounts, Freight nor Taxes </p>
+
+</div>
+</div>
+<a id="ace69e6bdff8504771fd92649ac33691d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace69e6bdff8504771fd92649ac33691d">&#9670;&nbsp;</a></span>TotalDetailAmountInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalDetailAmountInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Total Amount without Discounts, Freight nor Taxes </p>
+
+</div>
+</div>
+<a id="ac43f7c3ba8c3f77382e254da4e0b4a68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac43f7c3ba8c3f77382e254da4e0b4a68">&#9670;&nbsp;</a></span>TotalDiscountsInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalDiscountsInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Total Discounts Amount </p>
+
+</div>
+</div>
+<a id="a66219145b2ae378cc0e480a6e4c3ff68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66219145b2ae378cc0e480a6e4c3ff68">&#9670;&nbsp;</a></span>TotalGlobalDiscountsInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalGlobalDiscountsInUSD</td>
         </tr>
       </table>
   </td>
@@ -1497,8 +1893,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="aaa262a1f9cd8dbbb0877da9272ba3df4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa262a1f9cd8dbbb0877da9272ba3df4">&#9670;&nbsp;</a></span>TotalTaxAmmount</h2>
+<a id="aae00ddb98fbd42810fed286006dcf62f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae00ddb98fbd42810fed286006dcf62f">&#9670;&nbsp;</a></span>TotalGlobalSurchargesInUSD</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1507,7 +1903,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalTaxAmmount</td>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalGlobalSurchargesInUSD</td>
         </tr>
       </table>
   </td>
@@ -1516,6 +1912,247 @@ Properties</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0adca09c437274c3ee4a739a13cd860e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0adca09c437274c3ee4a739a13cd860e">&#9670;&nbsp;</a></span>TotalProfitInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalProfitInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Total Earnings Amount (Profit) </p>
+<p>This includes both the Margin and Pricing Policies.</p>
+
+</div>
+</div>
+<a id="aa2013eb6e7f23ba107b8caf8fef9854a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2013eb6e7f23ba107b8caf8fef9854a">&#9670;&nbsp;</a></span>TotalRefundCostInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalRefundCostInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Refund Policy Amount </p>
+
+</div>
+</div>
+<a id="a4d411615a7f8511740a46b6197359247"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d411615a7f8511740a46b6197359247">&#9670;&nbsp;</a></span>TotalReturnCostInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalReturnCostInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Return Policy Amount </p>
+
+</div>
+</div>
+<a id="a419e4dd1913ca5b3ad395524c00871df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a419e4dd1913ca5b3ad395524c00871df">&#9670;&nbsp;</a></span>TotalShippingCostInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalShippingCostInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Shipping Policy Costs Amount </p>
+
+</div>
+</div>
+<a id="a64bdfc467a1c61e146538380e1c66d88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64bdfc467a1c61e146538380e1c66d88">&#9670;&nbsp;</a></span>TotalShippingTaxesInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalShippingTaxesInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Shipping Policy Taxes Amount </p>
+
+</div>
+</div>
+<a id="a73eb7a695a7e602989f5a3bfa398b651"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73eb7a695a7e602989f5a3bfa398b651">&#9670;&nbsp;</a></span>TotalSurchargesInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalSurchargesInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Default Policies Costs Amount </p>
+
+</div>
+</div>
+<a id="a6249a7b1852d14fa153b9b137706e95a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6249a7b1852d14fa153b9b137706e95a">&#9670;&nbsp;</a></span>TotalTaxBaseInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalTaxBaseInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Total Tax Base (Includes Discounts and Surcharges) (Excludes Payment Cost Freight &amp; Taxes) </p>
+
+</div>
+</div>
+<a id="a8e600434b785991c71d96827b7368983"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e600434b785991c71d96827b7368983">&#9670;&nbsp;</a></span>TotalTaxesInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalTaxesInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Total Taxes </p>
+
+</div>
+</div>
+<a id="a542d0419fb1f19202defb7143cdb4c3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a542d0419fb1f19202defb7143cdb4c3f">&#9670;&nbsp;</a></span>TotalWarrantyCostInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalWarrantyCostInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Warranty Policy Amount </p>
+
+</div>
+</div>
+<a id="a9d4b7cfba3b26b6afedd10067a2aab49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d4b7cfba3b26b6afedd10067a2aab49">&#9670;&nbsp;</a></span>TotalWithholdingTaxesInUSD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit.TotalWithholdingTaxesInUSD</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Calculated Total Withholding Taxes </p>
 
 </div>
 </div>

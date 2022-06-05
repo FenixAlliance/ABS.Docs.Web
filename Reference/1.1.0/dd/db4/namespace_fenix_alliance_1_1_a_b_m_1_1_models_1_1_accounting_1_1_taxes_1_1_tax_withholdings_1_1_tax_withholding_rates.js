@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_withholdings_1_1_tax_withholding_rates =
+[
+    [ "TaxWithholdingRate", "d6/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_withholdings_1_1_tax_10469b7c69b13302c35d817871aaaf6b.html", "d6/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_withholdings_1_1_tax_10469b7c69b13302c35d817871aaaf6b" ]
+];

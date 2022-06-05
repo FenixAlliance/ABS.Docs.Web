@@ -9,11 +9,14 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_inv
     [ "FiscalAuthority", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#aedfc9c51485621ebdf876cff531cf084", null ],
     [ "FiscalAuthorityID", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a4ffd868635e76b3768e746fcc3109ec8", null ],
     [ "ID", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a82e3592d7c27cd76ab6c912f4b9cb445", null ],
+    [ "Identifier", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#ac8e580b473ddc918b2a4130b140aebd1", null ],
     [ "Invoices", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a22fded93f1e045c0d63ef9093dd8ef3b", null ],
     [ "NumerationFrom", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#aae037f304469e00dee5a48453b7a5c38", null ],
     [ "NumerationTo", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#abfe58fb0c7984e7ae73388fead3b34dd", null ],
     [ "Prefix", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#ac7d4f8221f79e5008f6f633e162da5a8", null ],
     [ "QualifiedName", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a0b18a1210d32f10b4faec40fdf02b4d9", null ],
     [ "Suffix", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a48bfc8098abab7af70b3c9549446798a", null ],
-    [ "Timestamp", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a552f81601beae3a8f5fc79724ddec065", null ]
+    [ "Timestamp", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#a552f81601beae3a8f5fc79724ddec065", null ],
+    [ "ValidFrom", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#ad2900c4797ce0cae31752f1a2545180a", null ],
+    [ "ValidTo", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#aa828b95a85104f70b802877dc781463a", null ]
 ];

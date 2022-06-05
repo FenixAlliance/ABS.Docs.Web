@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country =
+[
+    [ "Alpha2Code", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a31fa10b54f6ee6ab4b6d1a85e5954b03", null ],
+    [ "Alpha3Code", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#aa0dfd5a70556bd00f08dc915c9d451c5", null ],
+    [ "AltSpellings", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#abd5399415922ed423fd0595698dd23a9", null ],
+    [ "Area", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a60320a49921b03a7f88655bad3871452", null ],
+    [ "Borders", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a689122f8303fbac4ffda82c879af1bba", null ],
+    [ "CallingCodes", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a3ceed5e991e7a436c21e29424206d288", null ],
+    [ "Capital", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ac5dfd192efe3d2eb34e142c9a409a054", null ],
+    [ "Cioc", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a025d1bc6788e9bded2f6faf0f98f4bfa", null ],
+    [ "Currencies", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ad103590060c0cff57245fcab2a63420f", null ],
+    [ "Demonym", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ad3d04411c80377a0d8cbc8b297cd73dd", null ],
+    [ "Flag", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#aa5e97a06a57a87bd9809a4377ceb0395", null ],
+    [ "Gini", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#afbe6752aed9656a5c87bd1692f0cc0c2", null ],
+    [ "Languages", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a7a6ce8ed163f81ef5e431eb4bf5ccb1e", null ],
+    [ "Latlng", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a9ff70a958df4cd00531e3419600eacaf", null ],
+    [ "Name", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a4eefe3e37e1e98132d6f4671757364c2", null ],
+    [ "NativeName", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a56b5c9ee31a20dae389255e1866c7ec5", null ],
+    [ "NumericCode", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a72cd2876ab06147df9e170cf2007960d", null ],
+    [ "Population", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a10af73be3dee0238a76fa5abf5c07eb8", null ],
+    [ "Region", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ab20ed863d5628a36808bcceed1e45a9e", null ],
+    [ "RegionalBlocs", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a89a35e6c7aaf963e8a513ce72868fac9", null ],
+    [ "Subregion", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ae30ab3f64b0e5732bf67d5f634c7b5f6", null ],
+    [ "Timezones", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ac443136280c73f71320e0a78f897d375", null ],
+    [ "TopLevelDomain", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#ae0f88b716939ef7c12dd8561bedd3167", null ],
+    [ "Translations", "d2/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_rest_country.html#a8e0664ccb01747b35aaac140fc5f846c", null ]
+];

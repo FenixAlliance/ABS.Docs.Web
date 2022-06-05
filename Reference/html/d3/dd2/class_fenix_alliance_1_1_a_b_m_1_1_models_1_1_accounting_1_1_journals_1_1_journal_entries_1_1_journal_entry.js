@@ -19,6 +19,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_jo
     [ "EntryType", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#abad4ef1e7d767adbcd0a6a2f05876a36", null ],
     [ "FinancialBook", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#a2298cab8e3192fda34334ecb10ae6678", null ],
     [ "FinancialBookID", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#aeb7492fa31526aa390f53a7535bbc0b0", null ],
+    [ "ForexRate", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#abe3909faf8d4ac333acaea40743b379d", null ],
+    [ "ForexRatesSnapshot", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#acd80e3e7f1bd014d20ab1fa3ca39c672", null ],
     [ "Group", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#a3619a9f52e615e01297b666820762766", null ],
     [ "ID", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#adc1ba47f21c83e098e7a8fd440ff7a83", null ],
     [ "Journal", "d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html#ad239d17c780a47af7658e242d404a80f", null ],

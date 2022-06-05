@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['iviewbufferscope_20310',['IViewBufferScope',['../d7/db5/_dynamic_component_base_8cs.html#a4fac347ed03e183fd1d9e82bcfb924dd',1,'DynamicComponentBase.cs']]]
+  ['iviewbufferscope_22315',['IViewBufferScope',['../d7/db5/_dynamic_component_base_8cs.html#ad9720b41b6b04d72a45084ecddbad715',1,'DynamicComponentBase.cs']]]
 ];

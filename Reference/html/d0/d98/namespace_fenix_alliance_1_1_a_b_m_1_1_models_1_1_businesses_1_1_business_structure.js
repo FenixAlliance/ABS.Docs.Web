@@ -1,5 +1,4 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure =
 [
-    [ "BusinessPositions", "d5/d06/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions.html", "d5/d06/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions" ],
     [ "BusinessTeams", "db/da3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams.html", "db/da3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams" ]
 ];

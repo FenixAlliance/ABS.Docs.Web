@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options =
+[
+    [ "AllowSynchronousIO", "db/d6c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options.html#a0ea0f559839022887b6393897f456b5d", null ],
+    [ "DevPort", "db/d6c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options.html#a75390c7c3c8f7ff88444777747e4120d", null ],
+    [ "Port", "db/d6c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_server_1_1_i_i_s_1_1_i_iis_server_options.html#a066403dfd118d30a2719f9c583205515", null ]
+];

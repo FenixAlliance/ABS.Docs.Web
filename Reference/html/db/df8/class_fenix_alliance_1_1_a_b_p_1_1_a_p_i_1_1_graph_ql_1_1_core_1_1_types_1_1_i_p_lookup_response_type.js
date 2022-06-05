@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_i_p_lookup_response_type =
+[
+    [ "IPLookupResponseType", "db/df8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_i_p_lookup_response_type.html#a29ff8e1bc00963a5067eb14e9e601610", null ]
+];

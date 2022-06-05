@@ -1,0 +1,13 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations =
+[
+    [ "ePayco", "d0/dde/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1e_payco.html", "d0/dde/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1e_payco" ],
+    [ "Facebook", "d7/d3a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebook.html", "d7/d3a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebook" ],
+    [ "FenixAlliance", "dd/d00/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance.html", "dd/d00/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance" ],
+    [ "Google", "d0/d9a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google.html", "d0/d9a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google" ],
+    [ "MSFT", "d2/d4d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_t.html", "d2/d4d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_t" ],
+    [ "OpenExchangeRates", "d1/d77/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_exchange_rates.html", "d1/d77/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_exchange_rates" ],
+    [ "PayPal", "da/d14/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pal.html", "da/d14/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pal" ],
+    [ "Sendgrid", "da/d60/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrid.html", "da/d60/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrid" ],
+    [ "WordPress", "db/dfa/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_press.html", "db/dfa/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_press" ],
+    [ "IntegrationsOptions", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options" ]
+];

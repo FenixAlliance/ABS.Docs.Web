@@ -7,5 +7,10 @@ var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders =
       [ "Away", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a18af5de519a526b40aa703252b62cdfca312dc56ea9c386a6bc913f988a233791", null ],
       [ "Offline", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a18af5de519a526b40aa703252b62cdfca8d9da4bc0e49a50e09ac9f7e56789d39", null ],
       [ "Available", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a18af5de519a526b40aa703252b62cdfca78945de8de090e90045d299651a68a9b", null ]
+    ] ],
+    [ "Gender", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a2f1423a2246fc557f1f6bbedc04957fa", [
+      [ "Unknown", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a2f1423a2246fc557f1f6bbedc04957faa88183b946cc5f0e8c96b2e66e1c74a7e", null ],
+      [ "Male", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a2f1423a2246fc557f1f6bbedc04957faa63889cfb9d3cbe05d1bd2be5cc9953fd", null ],
+      [ "Female", "d3/d94/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders.html#a2f1423a2246fc557f1f6bbedc04957faab719ce180ec7bd9641fece2f920f4817", null ]
     ] ]
 ];

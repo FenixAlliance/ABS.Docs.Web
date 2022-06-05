@@ -2,6 +2,7 @@ var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses =
 [
     [ "Articles", "da/d7b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles.html", "da/d7b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles" ],
     [ "Assignments", "d1/d7c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments.html", "d1/d7c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments" ],
+    [ "Categories", "da/dd2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories.html", "da/dd2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories" ],
     [ "Certificates", "db/d3d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates.html", "db/d3d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates" ],
     [ "Cohorts", "d7/d6a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts.html", "d7/d6a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts" ],
     [ "Collections", "d6/dbe/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections.html", "d6/dbe/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections" ],

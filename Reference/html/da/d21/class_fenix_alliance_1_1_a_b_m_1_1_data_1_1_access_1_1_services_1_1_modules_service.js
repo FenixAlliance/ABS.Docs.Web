@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service =
+[
+    [ "ModulesService", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#ad7b3cd35f7c97a70e8ee3fe2d018dd07", null ],
+    [ "AddApplicationPart", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a6414600cb6e13d7e55db3b5f0c793df3", null ],
+    [ "AddApplicationParts", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a8fb1b61fd88071a39a7f09e9d45cb98e", null ],
+    [ "AddLoadedModulesServices", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#aba35d935499526977c44b755c755a2a9", null ],
+    [ "AddModuleToManifest", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a7c6f29c828683982f706808e02f856a3", null ],
+    [ "ConfigureLoadedModulesServices", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a1dfddc60e7f6d0979168de60908a51b7", null ],
+    [ "ConfigureModuleServices", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a578d753fb9a8f39c48773873cbceaf89", null ],
+    [ "ExtractNugetPackages", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a60f25d1b05151be8e5b56fd985a097b8", null ],
+    [ "GetModulesAssemblies", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#ab9b35514cda182f1d6d2d6b8985efc15", null ],
+    [ "GetModuleSettings", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#abb42dc9edf2c5d8fdcb1ea920126d7e1", null ],
+    [ "GetModulesManifest", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#ae042a5c7d7e259859988af5b6dabe0d5", null ],
+    [ "GetModuleSpec", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a266949027e4d9bb378b7285ad17216e9", null ],
+    [ "InstantiatePlugin", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a5c2b1157e3204b34f05421b1d8889a68", null ],
+    [ "SetModulesManifest", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a14030e78031311c0bbc8a89acfff3433", null ],
+    [ "UseModuleServices", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#af73b45485719c2ee0239a10c92d053fb", null ],
+    [ "AssembliesService", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a7a4c959da2b4f8a5157ecb9a42e2494f", null ],
+    [ "Configuration", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a7dbbb1ca7116bb4166d2f5507e72ae89", null ],
+    [ "Environment", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#afd8ca64c98094cec91b19fffd04d3b3a", null ],
+    [ "LoadedAssemblies", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a21cf01aa050c160561749b3d1307e225", null ],
+    [ "ModuleLoadContext", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a834c115cf53705423a07452abd57c605", null ],
+    [ "services", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#a82f8c2bd577add82fdef1015e549af59", null ],
+    [ "SuiteOptions", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html#adb4e82739b9f9ed24a756394a3c4cc09", null ]
+];

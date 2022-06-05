@@ -10,6 +10,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_pri
     [ "DiscountList", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a22bc36036d93834fd23ec0083f9c42fd", null ],
     [ "DiscountListID", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a65165636347d12ea1d13df3f1883fdf2", null ],
     [ "ID", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a8bf50c2bf5aa87d933d659691ba2ad95", null ],
+    [ "InvoiceItemRecords", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a505dc8aa4904b5642d91310f38c9b005", null ],
     [ "Percent", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a7bf73a2a2e48ab5cd77194675b68114b", null ],
     [ "Price", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#a94e2494c8550f1698eab52b582981eb2", null ],
     [ "PriceList", "db/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list_items_1_1_price_list_item.html#af10463dff40a6adc62cee96b04b2197a", null ],

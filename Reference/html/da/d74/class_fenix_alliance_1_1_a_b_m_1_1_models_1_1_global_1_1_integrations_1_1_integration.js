@@ -3,6 +3,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_in
     [ "AccessCode", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#a50cb5fa7bdac3407afe28bfbe38c160e", null ],
     [ "AccessKey", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#aacc5316d522ec708fc12b1e042055abd", null ],
     [ "AccessToken", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#ab1d03e7f658a7e3842340e06250c1c37", null ],
+    [ "AccountHolder", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#a722ce5c7bc7aebb5e69d9f686f12226e", null ],
+    [ "AccountHolderID", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#ab5250451e368390dc1e10fe116d03507", null ],
     [ "APIKey", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#a55e2cc4afc41e52bb0639fba9f2f9f0d", null ],
     [ "APIKeyAuthPosition", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#acba9fecf4bb17c65e5fccc3c61a05314", null ],
     [ "ApiSecret", "da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#ad6ea017e52a504728216b870fd561e09", null ],

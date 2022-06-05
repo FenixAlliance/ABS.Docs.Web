@@ -1,8 +1,10 @@
 <map id="FenixAlliance.ABM.Models.Global.Schedules.TimeIntervals.TimeInterval" name="FenixAlliance.ABM.Models.Global.Schedules.TimeIntervals.TimeInterval">
-<area shape="rect" id="node1" title=" " alt="" coords="5,165,216,221"/>
-<area shape="rect" id="node2" href="$d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_intervals_1_1_leave_blocked_interval.html" title=" " alt="" coords="264,5,531,61"/>
-<area shape="rect" id="node3" href="$df/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_interval_requests_1_1_leave_interval_request.html" title=" " alt="" coords="293,85,502,141"/>
-<area shape="rect" id="node4" href="$da/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll_periods_1_1_payroll_period.html" title=" " alt="" coords="289,165,506,221"/>
-<area shape="rect" id="node5" href="$de/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_shifts_1_1_shift.html" title=" " alt="" coords="306,246,489,287"/>
-<area shape="rect" id="node6" href="$d4/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events_1_1_training_program_event.html" title=" " alt="" coords="284,312,511,368"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,205,216,261"/>
+<area shape="rect" id="node2" href="$d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting.html" title=" " alt="" coords="278,5,517,61"/>
+<area shape="rect" id="node4" href="$d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_intervals_1_1_leave_blocked_interval.html" title=" " alt="" coords="264,85,531,141"/>
+<area shape="rect" id="node5" href="$df/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_interval_requests_1_1_leave_interval_request.html" title=" " alt="" coords="293,165,502,221"/>
+<area shape="rect" id="node6" href="$da/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll_periods_1_1_payroll_period.html" title=" " alt="" coords="289,245,506,301"/>
+<area shape="rect" id="node7" href="$de/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_shifts_1_1_shift.html" title=" " alt="" coords="306,326,489,367"/>
+<area shape="rect" id="node8" href="$d4/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events_1_1_training_program_event.html" title=" " alt="" coords="284,392,511,448"/>
+<area shape="rect" id="node3" title=" " alt="" coords="579,5,828,61"/>
 </map>

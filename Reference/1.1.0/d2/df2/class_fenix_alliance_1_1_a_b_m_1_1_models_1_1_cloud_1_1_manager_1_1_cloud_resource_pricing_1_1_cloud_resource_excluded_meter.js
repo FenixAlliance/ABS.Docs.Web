@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing_1_1_cloud_resource_excluded_meter =
+[
+    [ "CloudResourceOfferTerm", "d2/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing_1_1_cloud_resource_excluded_meter.html#a673d7268b322df29fc2152e098873e08", null ],
+    [ "CloudResourceOfferTermID", "d2/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing_1_1_cloud_resource_excluded_meter.html#a6f80a726c8ccfb513f446315b5a312b2", null ],
+    [ "ExcludedMeterID", "d2/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing_1_1_cloud_resource_excluded_meter.html#a2eb39e155812fd108628472ba8b26733", null ],
+    [ "ID", "d2/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing_1_1_cloud_resource_excluded_meter.html#add518162e9d46fff52cceee1843b3b89", null ]
+];

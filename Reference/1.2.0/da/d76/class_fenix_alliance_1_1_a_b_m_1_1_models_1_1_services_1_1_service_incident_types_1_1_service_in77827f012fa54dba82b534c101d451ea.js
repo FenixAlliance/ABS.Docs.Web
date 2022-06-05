@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea =
+[
+    [ "Subscription", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea.html#a58cdd86591cea58950648b93e3957daa", null ],
+    [ "SubscriptionID", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea.html#ae2afe282a4aa23714df12c781df8cecb", null ]
+];

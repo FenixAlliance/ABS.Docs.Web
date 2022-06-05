@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers =
+[
+    [ "CourrierItemShippingPolicyRecord", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607.html", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607" ],
+    [ "ShippingCourier", "d7/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_shipping_courier.html", "d7/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_shipping_courier" ]
+];

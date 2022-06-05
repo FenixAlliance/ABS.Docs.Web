@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters =
+[
+    [ "CloudDataCenter", "de/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters_1_1_cloud_data_center.html", "de/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters_1_1_cloud_data_center" ],
+    [ "CloudResourceDatacenterAvailability", "df/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters_1_1_cloud_1a84fbeaabeecdd87a2bb0de9c3a65da.html", "df/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters_1_1_cloud_1a84fbeaabeecdd87a2bb0de9c3a65da" ]
+];

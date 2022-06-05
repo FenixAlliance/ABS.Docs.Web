@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course =
+[
+    [ "AcademicInstitutionProfile", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course.html#ae1980cb6a67c36f55e744a2293a0f674", null ],
+    [ "AcademicInstitutionProfileID", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course.html#a201097e6fcdca816c7e6091d074ecd6c", null ],
+    [ "KnowledgeField", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course.html#af158b9cae4893b916ed769ffd6f6d37a", null ]
+];

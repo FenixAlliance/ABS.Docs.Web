@@ -1,18 +1,7 @@
 var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service =
 [
     [ "GetAccountHolder", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a34173f36c617680721dc5c7fd6b86729", null ],
-    [ "GetAccountHolderCountry", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#afa0b1687964db7801039973c27cde34d", null ],
-    [ "GetAccountHolderCountryID", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#adeee8c95c7007714f1cf14ef5039ccca", null ],
-    [ "GetAccountHolderEmail", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#aafe2f80ff51635e2e1a6093569f6b376", null ],
-    [ "GetAccountHolderGivenName", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#aa19db45aaf4cba133c9761f9dee54a75", null ],
-    [ "GetAccountHolderIdentityProvider", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#af94d3c2c5157978531f12520785f8fbc", null ],
-    [ "GetAccountHolderIdentityProviderToken", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a06a568217e76f82339c1ee928c8a427c", null ],
-    [ "GetAccountHolderJobTitle", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#aec97869f350e6bdef1a06490488e76d3", null ],
-    [ "GetAccountHolderName", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a853537260fcdc04b2630d18320411ed8", null ],
-    [ "GetAccountHolderNameIdentifier", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a6beab0d88cafd7628237dc5a5308ff45", null ],
-    [ "GetAccountHolderObjectIdentifier", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a237d5de68349356072a7a88962cea8ba", null ],
     [ "GetAccountHolderSocialProfileAsync", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a458ed1c917a238c5158ef83065f4a2b4", null ],
-    [ "GetAccountHolderSurName", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a7b7db62d057d5ce09d113a93aca0cc84", null ],
     [ "GetCurrentAccountHolderAsync", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a30bac6eac666829344e2c7c2e870e175", null ],
     [ "GetCurrentAccountHolderID", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#ab968e5799da81b0f4a40e0354d88840c", null ],
     [ "GetCurrentAccountHolderIDAsync", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a918e701d2b8b8d87cc1fca0c987bfb96", null ],
@@ -22,8 +11,7 @@ var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_
     [ "GetFullHolderAndBusiness", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#ad99db0f0368c8e08f1e61df146bd6bfc", null ],
     [ "GetFullHolderAndBusiness", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#ae9131b03ce1e553cb7825d22362bc1c8", null ],
     [ "GetFullHolderAndBusiness", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a95fa2fc4093f4def8af7edc7f4fbeb7d", null ],
-    [ "IsNewAccountHolder", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#acd30ce0c38b481f5cd10fb634b3a6c6e", null ],
-    [ "IsNewAccountHolderAsync", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a603cda0fe7eb58b13b14818eb34ced3e", null ],
     [ "SetDataContext", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#aa433d53265a486334eccb04021a99af1", null ],
+    [ "ToDataTransferObject", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#a32ef617dce6e51e5d754597c8085f348", null ],
     [ "UpdateAccountHolder", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html#ad9f480e162279052931f11d059be4d40", null ]
 ];

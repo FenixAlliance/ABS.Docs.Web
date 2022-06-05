@@ -1,4 +1,24 @@
 var namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs =
 [
-    [ "MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog" ]
+    [ "Billing", "d1/d55/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing.html", "d1/d55/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing" ],
+    [ "Support", "d7/d22/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support.html", "d7/d22/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support" ],
+    [ "AccountDialog", "df/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_account_dialog.html", "df/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_account_dialog" ],
+    [ "AuthenticationDialog", "d7/da0/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_authentication_dialog.html", "d7/da0/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_authentication_dialog" ],
+    [ "LogInDialog", "dd/d21/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_in_dialog.html", "dd/d21/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_in_dialog" ],
+    [ "LogOutDialog", "df/ded/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_out_dialog.html", "df/ded/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_out_dialog" ],
+    [ "BaseDialog", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog" ],
+    [ "InvoicesDialog", "d1/d0f/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_invoices_dialog.html", "d1/d0f/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_invoices_dialog" ],
+    [ "OrdersDialog", "d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog.html", "d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog" ],
+    [ "PaymentsDialog", "d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog.html", "d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog" ],
+    [ "QuotesDialog", "d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog.html", "d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog" ],
+    [ "WalletsDialog", "d4/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_wallets_dialog.html", "d4/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_wallets_dialog" ],
+    [ "BusinessesDialog", "d2/d79/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_businesses_dialog.html", "d2/d79/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_businesses_dialog" ],
+    [ "MyBusinessesDialog", "d9/d19/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_my_businesses_dialog.html", "d9/d19/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_my_businesses_dialog" ],
+    [ "SelectBusinessDialog", "dc/dff/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_select_business_dialog.html", "dc/dff/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_select_business_dialog" ],
+    [ "MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog" ],
+    [ "DealUnitsDialog", "da/d37/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_deal_units_dialog.html", "da/d37/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_deal_units_dialog" ],
+    [ "SalesDialog", "dc/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_sales_dialog.html", "dc/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_sales_dialog" ],
+    [ "CartsDialog", "d4/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_carts_dialog.html", "d4/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_carts_dialog" ],
+    [ "ProductsDialog", "d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog.html", "d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog" ],
+    [ "StoreDialog", "d1/d31/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_store_dialog.html", "d1/d31/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_store_dialog" ]
 ];

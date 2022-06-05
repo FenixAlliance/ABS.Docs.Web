@@ -1,6 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget.html" title=" " alt="" coords="5,93,189,134"/>
-<area shape="rect" id="node2" href="$df/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_contact_budget.html" title=" " alt="" coords="237,5,469,61"/>
-<area shape="rect" id="node3" href="$d6/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_cost_centre_budget.html" title=" " alt="" coords="237,85,469,141"/>
-<area shape="rect" id="node4" href="$d8/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_project_budget.html" title=" " alt="" coords="237,165,469,221"/>
+<area shape="rect" id="node1" href="$dd/d4a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_web_u_i_service.html" title=" " alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_web_u_i_service.html" title=" " alt="" coords="284,5,500,47"/>
 </map>

@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers_1_1_i_view_component =
+[
+    [ "InvokeAsync", "da/d34/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers_1_1_i_view_component.html#a7546fe7598ea48ccfd3d3ffc625bd7e6", null ]
+];

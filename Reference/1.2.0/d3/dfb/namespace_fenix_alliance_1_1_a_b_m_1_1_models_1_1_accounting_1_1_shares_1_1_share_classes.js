@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_classes =
+[
+    [ "ShareClass", "d6/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_classes_1_1_share_class.html", "d6/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_classes_1_1_share_class" ]
+];

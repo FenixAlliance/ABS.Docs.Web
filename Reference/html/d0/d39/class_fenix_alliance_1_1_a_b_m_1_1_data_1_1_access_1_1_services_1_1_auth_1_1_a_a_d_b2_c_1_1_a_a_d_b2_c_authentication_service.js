@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service =
 [
-    [ "AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html#a5afebc91f06ae98a96840719b33284ae", null ],
+    [ "AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html#a5c2eca8c3097b930b666fdd545d63381", null ],
     [ "EditProfileAsync", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html#a64a15e68da02eb708ac1744ece537b67", null ],
     [ "ResetPasswordAsync", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html#a617efe625d33e85a30ed80b241954681", null ],
     [ "SetParent", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html#aadb56cc6ff5e2a86e41f533ab655bf0a", null ],

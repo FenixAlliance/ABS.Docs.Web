@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -92,23 +92,65 @@ $(document).ready(function(){initNavTree('d7/dfb/interface_fenix_alliance_1_1_a_
 <div class="title">FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage Interface Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+<div class="dynheader">
+Inheritance diagram for FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../de/dff/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage__inherit__graph.png" border="0" usemap="#a_fenix_alliance_8_a_b_p_8_bot_engine_8_core_8_storage_8_i_bot_storage_inherit__map" alt="Inheritance graph"/></div>
+<map name="a_fenix_alliance_8_a_b_p_8_bot_engine_8_core_8_storage_8_i_bot_storage_inherit__map" id="a_fenix_alliance_8_a_b_p_8_bot_engine_8_core_8_storage_8_i_bot_storage_inherit__map">
+<area shape="rect" title=" " alt="" coords="5,39,204,80"/>
+<area shape="rect" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html" title="An implementation of the ETag aware IStore interface against Azure Blob Storage." alt="" coords="262,5,461,47"/>
+<area shape="rect" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html" title=" " alt="" coords="252,71,471,112"/>
+</map>
+<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aff05d9b1f329b147b85ec01f8aa495f6"><td class="memItemLeft" align="right" valign="top">Task&lt;(JObject content, string etag)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#aff05d9b1f329b147b85ec01f8aa495f6">LoadAsync</a> (string key)</td></tr>
-<tr class="separator:aff05d9b1f329b147b85ec01f8aa495f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6e13dad900378ef41db53058b35e519"><td class="memItemLeft" align="right" valign="top">Task&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#ae6e13dad900378ef41db53058b35e519">SaveAsync</a> (string key, JObject content, string etag)</td></tr>
-<tr class="separator:ae6e13dad900378ef41db53058b35e519"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae192d58f074c7df722c2b1e2add02d36"><td class="memItemLeft" align="right" valign="top">Task&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#ae192d58f074c7df722c2b1e2add02d36">SaveAsync</a> (ITurnContext turnContext, string key, JObject content, string etag)</td></tr>
+<tr class="separator:ae192d58f074c7df722c2b1e2add02d36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92cb146879f72d27866e13e9269b3ada"><td class="memItemLeft" align="right" valign="top">Task&lt;(JObject content, string etag)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a92cb146879f72d27866e13e9269b3ada">LoadAsync</a> (ITurnContext turnContext, string key)</td></tr>
+<tr class="separator:a92cb146879f72d27866e13e9269b3ada"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfccb49d18b37e5c1de05ec50054a5a8"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#adfccb49d18b37e5c1de05ec50054a5a8">GetConvesationKey</a> (ITurnContext turnContext)</td></tr>
+<tr class="separator:adfccb49d18b37e5c1de05ec50054a5a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab27492921e01563eb9a1d15c82c2634e"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#ab27492921e01563eb9a1d15c82c2634e">GetConvesationAsync</a> (ITurnContext turnContext)</td></tr>
+<tr class="separator:ab27492921e01563eb9a1d15c82c2634e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c063dacefb372d9e3f37db7bd01c20e"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a0c063dacefb372d9e3f37db7bd01c20e">GetConvesationAsync</a> (string key)</td></tr>
+<tr class="separator:a0c063dacefb372d9e3f37db7bd01c20e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16b9a76220e03fb9a5fa9f3f853fab5a"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a16b9a76220e03fb9a5fa9f3f853fab5a">DeleteConvesationAsync</a> (string key)</td></tr>
+<tr class="separator:a16b9a76220e03fb9a5fa9f3f853fab5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f6e92eb345ae0e79598419628166d78"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a3f6e92eb345ae0e79598419628166d78">DeleteConvesationAsync</a> (ITurnContext turnContext)</td></tr>
+<tr class="separator:a3f6e92eb345ae0e79598419628166d78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31710b6afecc888e06bac0e7d1635152"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a31710b6afecc888e06bac0e7d1635152">PersistConversationState</a> (Dialog Dialog, ITurnContext turnContext, CancellationToken cancellationToken)</td></tr>
+<tr class="separator:a31710b6afecc888e06bac0e7d1635152"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aff05d9b1f329b147b85ec01f8aa495f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff05d9b1f329b147b85ec01f8aa495f6">&#9670;&nbsp;</a></span>LoadAsync()</h2>
+<a id="a3f6e92eb345ae0e79598419628166d78"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f6e92eb345ae0e79598419628166d78">&#9670;&nbsp;</a></span>DeleteConvesationAsync() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;(JObject content, string etag)&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.LoadAsync </td>
+          <td class="memname">Task&lt;<a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a>&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.DeleteConvesationAsync </td>
+          <td>(</td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a10cea5cc8c171129f6e8b71acf433229">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#aa0976d31f12d22c9cb2fdcfad0dd6a3c">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="a16b9a76220e03fb9a5fa9f3f853fab5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16b9a76220e03fb9a5fa9f3f853fab5a">&#9670;&nbsp;</a></span>DeleteConvesationAsync() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a>&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.DeleteConvesationAsync </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>key</em></td><td>)</td>
@@ -117,10 +159,138 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a865a127ca9ead9433e221a110e9c5995">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#adf68b829019f20c545adf5c87f27db36">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
 </div>
 </div>
-<a id="ae6e13dad900378ef41db53058b35e519"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae6e13dad900378ef41db53058b35e519">&#9670;&nbsp;</a></span>SaveAsync()</h2>
+<a id="ab27492921e01563eb9a1d15c82c2634e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab27492921e01563eb9a1d15c82c2634e">&#9670;&nbsp;</a></span>GetConvesationAsync() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a>&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.GetConvesationAsync </td>
+          <td>(</td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a5111b19a0c4650c3a10a54657a5f0cb2">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#a9adf5c2bc11966b0bfe3fac2dd0a50cd">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="a0c063dacefb372d9e3f37db7bd01c20e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c063dacefb372d9e3f37db7bd01c20e">&#9670;&nbsp;</a></span>GetConvesationAsync() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a>&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.GetConvesationAsync </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a1796e63075a892e9f9415afa4edde742">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#a3a54b355bbe41489d3e5a1d7c9721ce9">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="adfccb49d18b37e5c1de05ec50054a5a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfccb49d18b37e5c1de05ec50054a5a8">&#9670;&nbsp;</a></span>GetConvesationKey()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;string&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.GetConvesationKey </td>
+          <td>(</td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a65f729d688dbf5876128945682eed465">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#ade75d3e0ad3a1216b10f797be8b46ce7">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="a92cb146879f72d27866e13e9269b3ada"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92cb146879f72d27866e13e9269b3ada">&#9670;&nbsp;</a></span>LoadAsync()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;(JObject content, string etag)&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.LoadAsync </td>
+          <td>(</td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a4439da696e93e30acbb9f018f0d50159">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#a07f384f643fb69db99efe9c055211c96">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="a31710b6afecc888e06bac0e7d1635152"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31710b6afecc888e06bac0e7d1635152">&#9670;&nbsp;</a></span>PersistConversationState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html">CognitiveAgentConversation</a>&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.PersistConversationState </td>
+          <td>(</td>
+          <td class="paramtype">Dialog&#160;</td>
+          <td class="paramname"><em>Dialog</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CancellationToken&#160;</td>
+          <td class="paramname"><em>cancellationToken</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#af53323e46fb5ab47cd53886c5759e244">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#ac9bbf8716ab3cb52925bf72da018bc52">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
+
+</div>
+</div>
+<a id="ae192d58f074c7df722c2b1e2add02d36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae192d58f074c7df722c2b1e2add02d36">&#9670;&nbsp;</a></span>SaveAsync()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -128,6 +298,12 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">Task&lt;bool&gt; FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage.SaveAsync </td>
           <td>(</td>
+          <td class="paramtype">ITurnContext&#160;</td>
+          <td class="paramname"><em>turnContext</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>key</em>, </td>
         </tr>
@@ -150,6 +326,8 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#a700edc411b78497a52ac0841b07133a8">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>, and <a class="el" href="../../df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#a0e563b50e652c31e83123c3dbb11293c">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>.</p>
 
 </div>
 </div>

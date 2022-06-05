@@ -1,0 +1,10 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01 =
+[
+    [ "Business", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#a327ebeb1b0232135eda136a65f658027", null ],
+    [ "BusinessApplication", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#a988647759d528d91b06720f4f1b096ed", null ],
+    [ "BusinessApplicationID", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#a0726d54b1d945d6cd9618648a2e56bb7", null ],
+    [ "BusinessID", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#a866b0b90cecef42e0c57fdf3bdb89242", null ],
+    [ "BusinessProfileRecord", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#ae2b0434d23eaf35d564a491f1927c818", null ],
+    [ "BusinessProfileRecordID", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#a69c18811917a5deea79e3fc837b30769", null ],
+    [ "Logo", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html#acaaada6b5158e36874e84266d02893df", null ]
+];

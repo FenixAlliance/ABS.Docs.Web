@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_types_1_1_annotation_activity_record =
+[
+    [ "Message", "dc/dc6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_types_1_1_annotation_activity_record.html#aeff9ba1392a9f0ede5c12c31e3983092", null ]
+];

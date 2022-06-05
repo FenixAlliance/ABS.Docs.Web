@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list =
+[
+    [ "AccountHolder", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list.html#ace23ea0365dd2af879b1f8833312d025", null ],
+    [ "AccountHolderID", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list.html#a9b5c853f6d5ffbd1820d99c19a8b38fe", null ]
+];

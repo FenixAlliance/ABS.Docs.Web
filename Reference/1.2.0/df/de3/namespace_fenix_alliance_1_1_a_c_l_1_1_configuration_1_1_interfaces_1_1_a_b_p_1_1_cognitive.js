@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cognitive =
+[
+    [ "BotEngine", "d9/dd3/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cognitive_1_1_bot_engine.html", "d9/dd3/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cognitive_1_1_bot_engine" ],
+    [ "ICognitive", "dd/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cognitive_1_1_i_cognitive.html", "dd/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cognitive_1_1_i_cognitive" ]
+];

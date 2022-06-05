@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_1_1_applied_fee_tax_records =
+[
+    [ "AppliedFeeTaxRecord", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134.html", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134" ]
+];

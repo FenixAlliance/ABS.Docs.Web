@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m =
+[
+    [ "IAllianceBusinessModelOptions", "d0/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_options.html", "d0/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_options" ],
+    [ "IAllianceBusinessModelProvider", "d1/d9a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_provider.html", "d1/d9a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_provider" ]
+];

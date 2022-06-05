@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia =
+[
+    [ "BillingProfiles", "d1/de9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billing_profiles.html", "d1/de9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_billing_profiles" ],
+    [ "FiscalizationDocuments", "d5/de9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscalization_documents.html", "d5/de9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_fiscalization_documents" ],
+    [ "NumerationResolutions", "dd/dee/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numeration_resolutions.html", "dd/dee/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_editions_1_1_dian_colombia_1_1_numeration_resolutions" ]
+];

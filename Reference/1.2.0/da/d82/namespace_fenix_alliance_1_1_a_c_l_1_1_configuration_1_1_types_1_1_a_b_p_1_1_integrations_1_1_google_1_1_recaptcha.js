@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google_1_1_recaptcha =
+[
+    [ "GoogleRecaptchaIntegrationOptions", "d3/d0f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google96ff110fd184f72def62eef8813ffbea.html", "d3/d0f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google96ff110fd184f72def62eef8813ffbea" ]
+];

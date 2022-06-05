@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09 =
+[
+    [ "Gig", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09.html#ac232b1a1493e5b95de8e99acec6cdbac", null ],
+    [ "GigID", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09.html#a6a18a881789570ba12de47d9cd08a6c2", null ]
+];

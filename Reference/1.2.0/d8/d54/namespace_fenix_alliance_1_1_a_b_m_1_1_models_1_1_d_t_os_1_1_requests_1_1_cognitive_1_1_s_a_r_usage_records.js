@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records =
+[
+    [ "Scopes", "d5/da7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_scopes.html", "d5/da7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_scopes" ],
+    [ "SARUsageRecord", "d8/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record.html", "d8/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive_1_1_s_a_r_usage_records_1_1_s_a_r_usage_record" ]
+];

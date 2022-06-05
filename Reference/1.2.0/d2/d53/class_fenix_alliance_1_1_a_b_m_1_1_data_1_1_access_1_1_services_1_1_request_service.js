@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service =
+[
+    [ "RequestService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a2dfb55cf21f1c7692e368267fcacf6cb", null ],
+    [ "AuthorizeClient", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a44f4eafc114ef6b5f519b325c2311153", null ],
+    [ "AuthorizeClientAsync", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ae5f4e20b0636b5f39bcfe5d5db939306", null ],
+    [ "GetAccountHolderCountry", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a66037c04d1eec8d3872744818e6e849b", null ],
+    [ "GetAccountHolderEmail", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a58fe5371510b75f11c992a83649c4698", null ],
+    [ "GetAccountHolderGivenName", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a49de7e37c9e59eb8cb7b9f84e18e7763", null ],
+    [ "GetAccountHolderIdentityProvider", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a747a34e06724dad7b1c957de00f6cbe9", null ],
+    [ "GetAccountHolderIdentityProviderToken", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ada59f32751a3f8093f25adbc4a0bc32d", null ],
+    [ "GetAccountHolderJobTitle", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a8befc3c086549355c2220242be2cab84", null ],
+    [ "GetAccountHolderName", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ad5e16b0efbc10e1b38a529ffca925331", null ],
+    [ "GetAccountHolderNameIdentifier", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a7c62579f3553084de2153ac97a05cbb3", null ],
+    [ "GetAccountHolderSurName", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#aac872fa8328d49b525fef36fe9a4ec2f", null ],
+    [ "GetCurrentCart", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a580f9fdc12d37d44d887028b632b54c7", null ],
+    [ "GetCurrentContactAsync", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ab0afc1b76e04cc05ad6f1dd09d0df570", null ],
+    [ "GetCurrentContactFollowers", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a004fd9a668d429875f14b036264ab5ec", null ],
+    [ "GetCurrentContactFollows", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#aeb4d2fc19087dff5a9676303f0d3f0e9", null ],
+    [ "GetCurrentContactMessages", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a61876e154fbb1ebe981a87acb71c2432", null ],
+    [ "GetCurrentContactNotifications", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ab243cd68c5ab3457111877f752006c01", null ],
+    [ "GetCurrentContactWallet", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#abee07e8736757ad284248e28ce241af4", null ],
+    [ "IsNewAccountHolder", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a62f4deb69a2645463df21ba2df27b1fc", null ],
+    [ "ReportCurrentContactSession", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a315a39c5476caa40dff76d6573eaeada", null ],
+    [ "AuthService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#ad59f78dd40377ac1c1695e110a6f4d3a", null ],
+    [ "BaseEndpoint", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a75018db51a6973b38d3f24b36d7a46ae", null ],
+    [ "HttpClient", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#a71575913429741192fbf0a41b7f9b541", null ],
+    [ "IsAuthorized", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html#af7bb412e30a1e6833bbf285f3b4f38a7", null ]
+];

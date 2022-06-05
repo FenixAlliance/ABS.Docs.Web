@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1_azure_storage =
+[
+    [ "AzureStorageConnector", "dc/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1e6ff1d8a8afa21c30fdbe74541eda31b.html", "dc/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1e6ff1d8a8afa21c30fdbe74541eda31b" ]
+];

@@ -12,5 +12,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cert
     [ "CourseID", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#ad2d90daf60604aebae3cf26db55700d9", null ],
     [ "ID", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#ab663ad48ae8503be2b39e179c631edb7", null ],
     [ "StudentProfile", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#a17d831e9444bbbae08669aac90d87a73", null ],
-    [ "StudentProfileID", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#a89227c79cdcc8e40c06d9bd1202f41ba", null ]
+    [ "StudentProfileID", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#a89227c79cdcc8e40c06d9bd1202f41ba", null ],
+    [ "Timestamp", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html#a9c609663ae1df1f67a692adb2288010c", null ]
 ];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation =
+[
+    [ "Size", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation.html#a4000df2b88fc2f504e21ce31133b85d0", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events =
+[
+    [ "TrainingEvent", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events_1_1_training_event.html", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_events_1_1_training_event" ]
+];

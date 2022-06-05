@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_sales_invoice =
+[
+    [ "PointOfSale", "d5/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_sales_invoice.html#affc887e8c4b5e049ab19b4485d6b7c17", null ],
+    [ "PointOfSaleID", "d5/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_sales_invoice.html#ac21fae37c45d8585dc6ef876e6c86fcf", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_96a8153211429eb056ca5f7b3db82fc4 =
+[
+    [ "PlaybookIteration", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_96a8153211429eb056ca5f7b3db82fc4.html#a725bb653c354ecaf187978cbdced379e", null ],
+    [ "PlaybookIterationID", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_96a8153211429eb056ca5f7b3db82fc4.html#a73f257488eff5e6bab5cd74ea32f07f8", null ]
+];

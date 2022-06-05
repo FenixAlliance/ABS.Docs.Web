@@ -1,0 +1,27 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service =
+[
+    [ "RecognizeAge", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#adc5ef3dd75b4ae8545e0fa0a11169d42", null ],
+    [ "RecognizeBoolean", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a9b14283a094d5f98929536b85e540c4b", null ],
+    [ "RecognizeChannelMention", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a933799c20b99fa8dc08b2479ed733da1", null ],
+    [ "RecognizeCurrency", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a6a6d9d81ac3f4bc8df96d144d31c3fc2", null ],
+    [ "RecognizeDate", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a6cbec1ebdc463a843fa268efbd6a03ae", null ],
+    [ "RecognizeDateTime", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a2bcbe04d7a38028a869c20275f8c3000", null ],
+    [ "RecognizeDimension", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a7bfad11856dbe02132e9b048a32582cb", null ],
+    [ "RecognizeEmail", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#af4ae6f8e620d46228235c21a7161850e", null ],
+    [ "RecognizeEntity", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a74bc2a45013ebccbb38820327775139d", null ],
+    [ "RecognizeGuidEntity", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#aee36fa975640866fd5b5bcafca1b8962", null ],
+    [ "RecognizeHashtag", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a3d83b8a55623e6ac5f1a92a8f18e06a4", null ],
+    [ "RecognizeIP", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#accc8457e9b6200af702406643e6494ee", null ],
+    [ "RecognizeMention", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#afb992040d1306f3959233cea0f4f816d", null ],
+    [ "RecognizeNumber", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#aaa915dca877fcef9a92393cc76c81bdd", null ],
+    [ "RecognizeNumberRange", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a5378fa3bfdcff412717643a62ea07464", null ],
+    [ "RecognizeOrdinal", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a37556ca7e9c6f53a92bce3c27ecf7a3b", null ],
+    [ "RecognizePercentage", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a67dd55981d6ca6b16acc4d08cb7213a2", null ],
+    [ "RecognizePhoneNumber", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a21c60c9c9d1998a8755d9a406d7d65f7", null ],
+    [ "RecognizeQuotedText", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#aef1f4fc2b333eaeb7775839af4237f6b", null ],
+    [ "RecognizeRegex", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a17b31169de8bd45956ecc8eee896a72f", null ],
+    [ "RecognizeTemperature", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#ab54b522b861f67e86dc62abd0b830aae", null ],
+    [ "RecognizeText", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#a1dde9b355934a9e27362e1daefe8a9f4", null ],
+    [ "RecognizeTextEntity", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#ab6f8bb2b29ac4c49bb77c0c8828fe1fb", null ],
+    [ "RecognizeUrl", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html#acfffe8a840bb7c867084ec499e44d55c", null ]
+];

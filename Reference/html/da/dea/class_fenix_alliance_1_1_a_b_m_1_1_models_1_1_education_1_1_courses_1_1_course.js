@@ -2,10 +2,10 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cour
 [
     [ "CalificationRanges", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a72a272218d23f361d15f83ab1a23481e", null ],
     [ "Code", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a95d3ebc069b5e137daaf25db22039674", null ],
-    [ "CountryLanguage", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a5d92375ceb6ff614246cdda19f70d804", null ],
-    [ "CountryLanguageID", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a43cf6ae44719b7f42ad6ddf006fd8f47", null ],
     [ "CourseAssignments", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a235deb53ced0fb31987c436ac94fb698", null ],
     [ "CourseAssignmentTypes", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#aed8f989f58a1e39c3a1c09490287963d", null ],
+    [ "CourseCategory", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a182bdb83876642d5344929970a07f4ca", null ],
+    [ "CourseCategoryID", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a4751b71d0f8c189583acb08799795a9c", null ],
     [ "CourseCollectionRecords", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a531a732b02b29997ed14d1cd84da18fa", null ],
     [ "CourseCompletionCertificates", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a2e09234bd20bbe22923b58451c76cc71", null ],
     [ "CourseCompletionCertificateTemplates", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a5f5f52df5f69a791c5af1f5a2132052b", null ],
@@ -19,7 +19,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cour
     [ "CourseSocialGroup", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a3c9405c604dbc2ff658a9165a73dca2c", null ],
     [ "CourseUnits", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#af99eab93b09924d702b75433c25a9466", null ],
     [ "CourseUpdates", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a15394e142625145ffc81fffb2ddbeebc", null ],
-    [ "CourseWiki", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#af4e5d39f1d07e5f7114bc3573e2f9c12", null ],
+    [ "CourseWikis", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a850e4b85de2f4b2baaf054c17e8c1c4b", null ],
     [ "EndDateTime", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#ad6b7b61a763196a2ce58a66f3cd7d2c5", null ],
     [ "InscriptionsEndDateTime", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a07f0cac87c982d1c8422cf9f7042d007", null ],
     [ "InscriptionsStartDateTime", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a512ba2381ce9043f121fc7e4913ae418", null ],
@@ -31,9 +31,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cour
     [ "StartDateTime", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#acb99df1e37f2ba69aebc668b9d694fd2", null ],
     [ "SubmitTolerance", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a619a5a3d39c23a216a9b48a4b0f71cc0", null ],
     [ "Summary", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a30a167a4917535a166a6fb008e629b32", null ],
-    [ "Timestamp", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a7e11949191e54f2f92b4b53b69d5e87c", null ],
-    [ "TotalEfforInWeeks", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a6804ac1d3d551302abc25c01a5fe3f4b", null ],
-    [ "Version", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#ad5f59845a3b4211a91fe4fe00b427d71", null ],
-    [ "WeekEffortHours", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a97021cf5aca76b85960366cd6667e425", null ],
-    [ "WeeklyEfforInHours", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a5d3d29f6d100a725c65f07ab5becd9f4", null ]
+    [ "TotalEffortInHours", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#adf3c30cddfa5924b2a5a00b97bbb54d8", null ],
+    [ "TotalEffortInWeeks", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a8f61df5c354534d5402d980b433c7086", null ],
+    [ "TotalHoursPerWeek", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a86abfffcb65019a19857aa6eada3a605", null ],
+    [ "Version", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#ad5f59845a3b4211a91fe4fe00b427d71", null ]
 ];

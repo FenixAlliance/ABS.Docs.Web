@@ -10,6 +10,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_sig
     [ "Contact", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#a10848d56a290e2dfe7d1dd86a0166b1c", null ],
     [ "ContactID", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#ad61c2bdfcf8b4f41f96a586bc1a1b6b4", null ],
     [ "ContentType", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#a1e5b59ed46a6f90a16deb539aeb3aa7c", null ],
+    [ "Document", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#a71932638bd87ec56a95d5ca8972dfdfc", null ],
     [ "FileLengthInBits", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#ab05a49876987f0f331e8ff89d74c2927", null ],
     [ "ID", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#abc2fcba43526b827a6396ba1f73d2aa8", null ],
     [ "PreSignedDataBase64", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_documents_1_1_signed_document.html#a60b859ef3470636a846fe69f7b8d7759", null ],

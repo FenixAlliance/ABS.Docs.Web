@@ -3,5 +3,6 @@ var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_
     [ "AuthenticationOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a258e19c1679d06ae8d336a25889c7524", null ],
     [ "CookieAuthenticationOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a23d696398858da41a2644cbb0be0f301", null ],
     [ "IdentityOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a9135d4449e084ae0fab09053529ec75b", null ],
-    [ "OpenIdConnectOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a33eeca7bbb9d6355729c3efeab80fdec", null ]
+    [ "OpenIdConnectOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a33eeca7bbb9d6355729c3efeab80fdec", null ],
+    [ "OpenIddictOptions", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html#a9a86bef7a610003e7258a2da48b6240d", null ]
 ];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_warehouses =
+[
+    [ "Warehouse", "d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_warehouses_1_1_warehouse.html", "d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_warehouses_1_1_warehouse" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_locations =
+[
+    [ "AssetLocation", "d9/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_locations_1_1_asset_location.html", "d9/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_locations_1_1_asset_location" ]
+];

@@ -1,0 +1,9 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l =
+[
+    [ "IAllianceCoreLibrariesOptions", "d1/d15/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_alliance_core_libraries_options.html", "d1/d15/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_alliance_core_libraries_options" ],
+    [ "ILicense", "d0/d20/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license.html", "d0/d20/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license" ],
+    [ "ILicenseCustomer", "d2/db5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_customer.html", "d2/db5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_customer" ],
+    [ "ILicenseProductFeatures", "dd/dba/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_product_features.html", "dd/dba/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_product_features" ],
+    [ "ILicenseFeature", "d1/d56/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_feature.html", "d1/d56/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license_feature" ],
+    [ "ILicensingOptions", "dd/d2d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_licensing_options.html", "dd/d2d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_licensing_options" ]
+];

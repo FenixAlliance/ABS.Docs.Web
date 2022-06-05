@@ -1,5 +1,6 @@
 var namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions =
 [
-    [ "HeartbeatWorkflow", "d5/d20/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_heartbeat_workflow.html", "d5/d20/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_heartbeat_workflow" ],
-    [ "CustomTenantAccessor", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor.html", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor" ]
+    [ "CustomTenantAccessor", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor.html", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor" ],
+    [ "GarbageCollectionWorkflow", "d2/d85/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_garbage_collection_workflow.html", "d2/d85/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_garbage_collection_workflow" ],
+    [ "SingletonUpdaterWorkflow", "d1/d49/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_singleton_updater_workflow.html", "d1/d49/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_singleton_updater_workflow" ]
 ];

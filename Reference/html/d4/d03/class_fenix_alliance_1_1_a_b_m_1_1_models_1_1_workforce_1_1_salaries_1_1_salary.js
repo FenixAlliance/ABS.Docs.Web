@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary =
 [
-    [ "Ammount", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html#ad60eb34e6f3401a26529a65ff2ef498c", null ],
+    [ "Amount", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html#ac35eaa98e9bd326d85e3baa6b970b5ab", null ],
     [ "Business", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html#a2a58e8c57f2fec78e19dff400663e629", null ],
     [ "BusinessID", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html#a8a208a66178d50b4e04db3dd8e444386", null ],
     [ "BusinessProfileRecord", "d4/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary.html#a6d7c369c45acd5dd91426ae2f4b5b57f", null ],

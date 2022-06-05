@@ -6,7 +6,7 @@ var class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manage
     [ "GetDashboardMobileMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#a8e8167481dad22856ad1bc7363989262", null ],
     [ "GetFooterMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#af1128dcec4c7e8a54d163db2fb1b0c7d", null ],
     [ "GetMainMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#a22fc90d541fa3c8ff7f0d1d4a97431b1", null ],
-    [ "GetMenuContextAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#a8532ded10e460c5007c3a45f997f2044", null ],
+    [ "GetMenuContextAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#a0c73cf61dfebe3edc91448826ae7ade3", null ],
     [ "GetPortalMainMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#a22689a47a08876af679dee0e3a753736", null ],
     [ "GetSuiteLeftMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#ac4394368a3f8e5b72f995fb1832c1371", null ],
     [ "GetSuiteTopMenuAsync", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html#ab97e5894c4d0ac06fbd97f60d581b4f2", null ],

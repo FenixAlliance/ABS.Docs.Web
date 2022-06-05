@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['razorfileextension_20296',['RazorFileExtension',['../d1/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_web_content.html#a1cebfb08d3c90d2fd7cd7fedcd054f55',1,'FenixAlliance::ABM::Models::Content::WebContent']]],
-  ['razorprojectfilesystem_20297',['RazorProjectFileSystem',['../dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html#a445cc46ac01a14fc30562332d95046d8',1,'FenixAlliance::ABS::Core::Templating::Blazor::Core::RazorCompilationService']]]
+  ['options_22285',['Options',['../db/df5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_startup.html#a75ea79fb50a39074d01954889826b178',1,'FenixAlliance::ABP::API::GraphQl::Startup']]],
+  ['orderstate_22286',['Orderstate',['../d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog.html#a4f2158a6f299a73ef46b7b115af92a57',1,'FenixAlliance::ABP::BotEngine::Core::Dialogs::OrdersDialog']]]
 ];

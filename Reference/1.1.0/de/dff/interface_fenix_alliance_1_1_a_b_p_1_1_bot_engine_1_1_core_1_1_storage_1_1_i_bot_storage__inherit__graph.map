@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage" name="FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html" title="An implementation of the ETag aware IStore interface against Azure Blob Storage." alt="" coords="5,95,204,136"/>
+</map>

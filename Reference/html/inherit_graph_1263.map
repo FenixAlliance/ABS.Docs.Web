@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d1/dc4/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder_1_1_contextual_module.html" title=" " alt="" coords="5,5,227,61"/>
+<area shape="rect" id="node1" href="$d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html" title=" " alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html" title="An implementation of the ETag aware IStore interface against Azure Blob Storage." alt="" coords="262,5,461,47"/>
+<area shape="rect" id="node3" href="$d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html" title=" " alt="" coords="252,71,471,112"/>
 </map>

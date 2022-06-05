@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request =
+[
+    [ "BusinessTeam", "d4/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request.html#a506f2ecd9c34d161ec73b1afad6b11f2", null ],
+    [ "BusinessTeamID", "d4/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request.html#a7120387d00cb41348449b5ab532b4367", null ]
+];

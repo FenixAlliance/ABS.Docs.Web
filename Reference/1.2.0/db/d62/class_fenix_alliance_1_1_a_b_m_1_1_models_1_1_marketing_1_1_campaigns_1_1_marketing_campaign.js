@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign =
+[
+    [ "Active", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a3ab7623ee11af317d6a2052f701af254", null ],
+    [ "ActivityCost", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a4a52fe2e38a328a4e471d421aff6f68f", null ],
+    [ "ActualEnd", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#aac371e01d0476cf61245ef1bee0ce67a", null ],
+    [ "ActualStart", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a08de7ab35882606aa2d8f1e9afc1ec80", null ],
+    [ "AllocatedBudget", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#aefb7171df00a74a8420135d989bcab2a", null ],
+    [ "Business", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#ae7edaa95cc34891cb5a316b62a17c0f1", null ],
+    [ "BusinessID", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a5750e85d662473c7f7aa78fd1f238ff3", null ],
+    [ "BusinessProfileRecord", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a4c1064b4cc3a120c3a441176970409a2", null ],
+    [ "BusinessProfileRecordID", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a0d96e0f5bbecd962dcddbf6c77924e7f", null ],
+    [ "Code", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a6d26b0e2a6355c5780d5d4284c28222f", null ],
+    [ "Currency", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#ab824dcccc016f268534ef87d66707479", null ],
+    [ "CurrencyID", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a4457163d4f1c7b203bd0e125750bac69", null ],
+    [ "EmailTemplates", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#ac7af631c7f413a43d3a38ef916ffb1cd", null ],
+    [ "ExpectedResponcePercent", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a15db5df7320bc80411cdace5faa8207c", null ],
+    [ "ID", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a22de7994b2b39a8bea5871270ffac229", null ],
+    [ "MarketingCampaignActivityFeed", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a554b7afba04fed4320c4c176eb890436", null ],
+    [ "MarketingCampaignResponses", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a3bb9c3e045ca956813546594d8911d5a", null ],
+    [ "MarketingLeads", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a7400e2653f7428bf5f190bbef4bd34e5", null ],
+    [ "MiscCost", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a57ae9ae150fad2fbb03aff6b266aacbc", null ],
+    [ "Name", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a8aa58bcc1919648193f90c52274d9c84", null ],
+    [ "Offer", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a030d3ed81aa8c0eac85e37464d241d82", null ],
+    [ "ProposedEnd", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a7a6d525920b0c5aa2e0af8c06ac60fe5", null ],
+    [ "ProposedStart", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#ad4f9ed0899125a67dda3573d0ff4692a", null ],
+    [ "Timestamp", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#af53b8c04b182107c8cb80d9d7a3e5d16", null ]
+];

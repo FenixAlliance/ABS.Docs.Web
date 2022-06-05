@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -91,6 +91,10 @@ $(document).ready(function(){initNavTree('functions_func_p.html',''); initResiza
 <li>Paginate()
 : <a class="el" href="d6/da5/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_list_pagging_helpers.html#ae5cd001adbc8927ddac9f21601bc6d29">FenixAlliance.ABM.SDK.Helpers.ListPaggingHelpers&lt; T &gt;</a>
 </li>
+<li>PaginateStockItems()
+: <a class="el" href="de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html#a84cecbeacc4575dbf7b09f22135a5bc9">FenixAlliance.ABM.Data.Access.Services.StockItemsService</a>
+, <a class="el" href="d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html#a52a9fee9c31a0b71dc2d035652ae17d1">FenixAlliance.ABM.Data.Interfaces.Services.IStockItemsService</a>
+</li>
 <li>ParentsAsync()
 : <a class="el" href="d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html#a0f3a8a1c612d192d4fb305c9f4a0174d">FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver</a>
 , <a class="el" href="d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html#a2a99dd0b1b542f717b5531dea44ce7ca">FenixAlliance.ABP.FileSystem.IDriver</a>
@@ -103,94 +107,98 @@ $(document).ready(function(){initNavTree('functions_func_p.html',''); initResiza
 : <a class="el" href="d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html#ac762f40a6d6cb677b9e7697fc9bc59b8">FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver</a>
 , <a class="el" href="d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html#a4cb80cccb78fb98b9ac94b8240441439">FenixAlliance.ABP.FileSystem.IDriver</a>
 </li>
-<li>PaymentsController()
-: <a class="el" href="dd/d30/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments_1_1_payments_controller.html#a2c45cf727a561ea83cb1871ac295f8bc">FenixAlliance.ICX.Core.Areas.Store.Controllers.Payments.PaymentsController</a>
+<li>PaymentGatewayService()
+: <a class="el" href="dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service.html#ac00f64c3242309fda8b3a474e2e71713">FenixAlliance.ABM.Data.Access.Services.PaymentGatewayService</a>
 </li>
-<li>Pending()
-: <a class="el" href="dd/d30/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments_1_1_payments_controller.html#a55f0c0fe1f280252eba0b3e7be817ca0">FenixAlliance.ICX.Core.Areas.Store.Controllers.Payments.PaymentsController</a>
+<li>PaymentsDialog()
+: <a class="el" href="d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog.html#ab7bff564e708ceda0db208425c087771">FenixAlliance.ABP.BotEngine.Core.Dialogs.PaymentsDialog</a>
 </li>
-<li>PersonnelController()
-: <a class="el" href="d8/dac/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_personnel_controller.html#a7c176c740cae7c8033e58663ba5662cc">FenixAlliance.APS.Core.Areas.Businesses.Controllers.PersonnelController</a>
+<li>PersistCartChanges()
+: <a class="el" href="d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html#a40507018301c1f4b15b48c0cc2f9c8c2">FenixAlliance.ABS.Core.Contexts.PortalContext</a>
 </li>
-<li>PlaceOrderFromCartAsync()
-: <a class="el" href="d6/d12/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_checkout_1_1_checkout_controller.html#af363e676c6dc722f51028fe708de3694">FenixAlliance.ICX.Core.Areas.Store.Controllers.Checkout.CheckoutController</a>
+<li>PersistConversationState()
+: <a class="el" href="df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html#ac9bbf8716ab3cb52925bf72da018bc52">FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage</a>
+, <a class="el" href="d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html#af53323e46fb5ab47cd53886c5759e244">FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage</a>
+, <a class="el" href="d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html#a31710b6afecc888e06bac0e7d1635152">FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage</a>
 </li>
-<li>PluginLoadContext()
-: <a class="el" href="d3/dcc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_load_context.html#a277cdd18cdd2569b346f36e9ad986330">FenixAlliance.ABP.Hub.Plugins.PluginLoadContext</a>
+<li>PlaceOrderFromCart()
+: <a class="el" href="d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service.html#a073dee555140f708c88df043efa96a5f">FenixAlliance.ABM.Data.Interfaces.Services.ICheckoutService</a>
 </li>
-<li>PocketContext()
-: <a class="el" href="d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html#a86a87ac3d866a73fab4524e0289365cd">FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext</a>
-</li>
-<li>PopWriter()
-: <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a00ee515b9bd61fad0f1c4c4d16fd2bf6">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
+<li>PopulateForeignExchangeSetAsync()
+: <a class="el" href="df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service.html#ab42b38a701930d9905c1e4a099c1f1ab">FenixAlliance.ABM.Data.Access.Services.ForexService</a>
 </li>
 <li>PortalClientService()
-: <a class="el" href="d0/d06/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingleton_1_1_portal_client_service.html#a1f4ba11343e571dd1fc8709bf83a93b0">FenixAlliance.ABS.Core.SIngleton.PortalClientService</a>
+: <a class="el" href="d9/de9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_client_service.html#a038b8c6fcb647d5aa2d58538cc9bf1a3">FenixAlliance.ABM.Data.Access.Services.PortalClientService</a>
 </li>
 <li>PortalContext()
-: <a class="el" href="d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html#a4103dfb561f78534df4526e5e2a15298">FenixAlliance.ABS.Core.Contexts.PortalContext</a>
+: <a class="el" href="d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html#a42a92ff79a3d7f9c53441a2256271291">FenixAlliance.ABS.Core.Contexts.PortalContext</a>
 </li>
-<li>PortalHeaderViewComponent()
-: <a class="el" href="dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_header_view_component.html#a3676663e7334af64d26bd198a9dff4fa">FenixAlliance.ABS.Portal.UI.ViewComponents.PortalHeaderViewComponent</a>
-</li>
-<li>PortalLeftSideNavigationViewComponent()
-: <a class="el" href="d0/d4d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_left_side_navigation_view_component.html#a41a3fc5cc9b2802a7054275b7bfcebfb">FenixAlliance.ABS.Portal.UI.ViewComponents.PortalLeftSideNavigationViewComponent</a>
-</li>
-<li>PortalResponsiveHeaderViewComponent()
-: <a class="el" href="d8/dbd/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_header_view_component.html#ae25f6835ca3de6560193b8cdfa7a27dc">FenixAlliance.ABS.Portal.UI.ViewComponents.PortalResponsiveHeaderViewComponent</a>
-</li>
-<li>PortalResponsiveSideNavViewComponent()
-: <a class="el" href="d8/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_side_nav_view_component.html#aadf1c2338fa94d88f126a5b8bcef9501">FenixAlliance.ABS.Portal.UI.ViewComponents.PortalResponsiveSideNavViewComponent</a>
-</li>
-<li>PortalRightSideNavigationViewComponent()
-: <a class="el" href="de/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_right_side_navigation_view_component.html#aec7dad251ae5207e31aba3eb74084368">FenixAlliance.ABS.Portal.UI.ViewComponents.PortalRightSideNavigationViewComponent</a>
+<li>PortalFilesController()
+: <a class="el" href="d9/d5b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_portal_files_controller.html#a51413f54443caa36118fd5436832ec10">FenixAlliance.ABP.FileSystem.Controllers.PortalFilesController</a>
 </li>
 <li>PortalService()
-: <a class="el" href="d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service.html#a6aa00e28d5c17f5749a0de4cb0c4513f">FenixAlliance.ABM.Data.Access.Services.PortalService</a>
+: <a class="el" href="d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service.html#ad05c83cc025c5aaf5609a0adf0459430">FenixAlliance.ABM.Data.Access.Services.PortalService</a>
+</li>
+<li>Post()
+: <a class="el" href="d3/d76/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_upload_controller.html#a4b55402139f6758af1e7ec3e51ff9acb">FenixAlliance.ABP.FileSystem.Controllers.UploadController</a>
 </li>
 <li>PostAsync()
-: <a class="el" href="d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html#a49a7445c76469ae9a2f6de6e97303144">FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQlController</a>
+: <a class="el" href="d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html#a27f9bc5b1e0513dfc52f1626e28bafc5">FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQlController</a>
 , <a class="el" href="d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller.html#a9051e84dcaa70042c0a0ea4b52c2ca60">FenixAlliance.ABP.BotEngine.Core.Controllers.BotController</a>
-</li>
-<li>PostItemCartRecord()
-: <a class="el" href="d6/d50/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_cart_records_controller.html#a756865fc8858883734aadbb07d578a8f">FenixAlliance.ICX.Core.API.CartRecordsController</a>
-</li>
-<li>PostItemToCompareRecord()
-: <a class="el" href="d3/d80/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_compare_records_controller.html#a2c136cde6c0dd38e47063bea865a770d">FenixAlliance.ICX.Core.API.CompareRecordsController</a>
 </li>
 <li>Posts()
 : <a class="el" href="d1/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_blog_controller.html#a88da705dfb4b3595b5d29de5239808b4">FenixAlliance.ABS.Portal.Core.Controllers.BlogController</a>
 </li>
 <li>PostSetCurrency()
 : <a class="el" href="d2/d8c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_cur669951735d9d1b18db872f8a217f70b9.html#a20cd601ae55a2594927adc6852b832e5">FenixAlliance.ABP.API.REST.Core.Controllers.Global.Currencies.CurrenciesController</a>
-, <a class="el" href="d3/dfc/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_carts_controller.html#a9e997cba30be39b63800eebe7b416c0a">FenixAlliance.ICX.Core.API.CartsController</a>
+</li>
+<li>PrapareForeignExchangeSetAsync()
+: <a class="el" href="df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service.html#a34670912b455935f87f891d9034db8c9">FenixAlliance.ABM.Data.Access.Services.ForexService</a>
 </li>
 <li>PrecompileAsync()
-: <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a4a8dcfdcc7227deca2c19050ed419a76">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
-, <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a25d337e336b8e2510b8e948b24fc715a">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
+: <a class="el" href="d9/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_composer_service.html#ad9a32f9c8e7fa35151dbdb038c9debc2">FenixAlliance.ABM.Data.Access.Services.ViewComposerService</a>
+, <a class="el" href="d9/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_view_composer_service.html#a539dd50b90280b766ef2b2fc8cdd8e86">FenixAlliance.ABM.Data.Interfaces.Services.IViewComposerService</a>
+</li>
+<li>PrepareInvoiceLineAsync()
+: <a class="el" href="d1/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_invoices_service.html#a631e189014cf5500c51946d34982ec75">FenixAlliance.ABM.Data.Access.Services.InvoicesService</a>
+, <a class="el" href="d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service.html#afd2532efb1567c6290bfe2effa460f56">FenixAlliance.ABM.Data.Interfaces.Services.IInvoicesService</a>
 </li>
 <li>PreparePackageForDownloadAsync()
-: <a class="el" href="de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f.html#ae585f770df5d1382e9280120772ae6e9">FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.NuGetPackageManagementService</a>
+: <a class="el" href="d3/d1e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa0c2e2d9eee8026efb1cb379cdb4e026c.html#add083b92282e2ee70d3ed05887ed03f9">FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.NuGetPackageManagementService</a>
+</li>
+<li>PreProcess()
+: <a class="el" href="d2/d9f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_liquid_rendering_service.html#ac5a1a9b87cd36493ec17761195aeaca6">FenixAlliance.ABM.Data.Access.Services.LiquidRenderingService</a>
 </li>
 <li>PriceViewComponent()
-: <a class="el" href="d0/d49/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_price_view_component.html#a63e6c66b7d25d02ec3412e2fd164c565">FenixAlliance.ABS.Portal.UI.ViewComponents.PriceViewComponent</a>
+: <a class="el" href="d0/d49/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_price_view_component.html#a5f18504f2af4b3a115592e6af16ece50">FenixAlliance.ABS.Portal.UI.ViewComponents.PriceViewComponent</a>
+</li>
+<li>PricingService()
+: <a class="el" href="d7/df0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_pricing_service.html#ab6495782b0c7a67079cec6e9d685e779">FenixAlliance.ABM.Data.Access.Services.PricingService</a>
 </li>
 <li>ProcessAsync()
 : <a class="el" href="d6/d44/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_connector.html#a5b7e6a70d439de1cd541aa029b68fad3">FenixAlliance.ABP.FileSystem.Connector</a>
 </li>
 <li>ProcessPayment()
-: <a class="el" href="d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html#a3f8fc9601fc5e55811ed57a9bfe1f15a">FenixAlliance.ICX.Core.Services.ICheckoutService</a>
+: <a class="el" href="db/dd4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_payment_gateway.html#a318f4d042fed58d0b2426505ca5f5362">FenixAlliance.ABM.Data.Interfaces.Abstractions.IPaymentGateway</a>
+, <a class="el" href="d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service.html#a223d39cd1fea88f3e80c980e2bdfcce5">FenixAlliance.ABM.Data.Interfaces.Services.ICheckoutService</a>
 </li>
 <li>ProcessPaymentAsync()
-: <a class="el" href="d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service.html#a44547f8d65505505cf62ef41b769f4c3">FenixAlliance.ABM.Data.Access.Services.StoreService</a>
-, <a class="el" href="d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html#a41d378b486208809172da4b84cfafa90">FenixAlliance.ABM.Data.Interfaces.Services.IStoreService</a>
+: <a class="el" href="dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service.html#a90519d9cad94b3b476905c61f72276e8">FenixAlliance.ABM.Data.Access.Services.PaymentGatewayService</a>
+, <a class="el" href="d8/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payments_service.html#aceeab5ac58f36a53c23038e31fad3d01">FenixAlliance.ABM.Data.Access.Services.PaymentsService</a>
+, <a class="el" href="d7/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payment_gateway_service.html#a0f5f8947a91beb7dbf023189a9ee288b">FenixAlliance.ABM.Data.Interfaces.Services.IPaymentGatewayService</a>
+, <a class="el" href="d6/d15/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payments_service.html#a36a65469786d69448a2050fd16dd7330">FenixAlliance.ABM.Data.Interfaces.Services.IPaymentsService</a>
 </li>
-<li>Products()
-: <a class="el" href="de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html#abe95286869847b5ac56d94260edc7630">FenixAlliance.APS.Core.Areas.Businesses.Controllers.BusinessController</a>
+<li>ProductImageExtactorWorkflow()
+: <a class="el" href="dd/ddc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_image_extactor_workflow.html#ae56041c457e21284e1124f6860c815cd">FenixAlliance.ABP.Hub.Workflows.ProductImageExtactorWorkflow</a>
 </li>
-<li>ProductsController()
-: <a class="el" href="d2/dd7/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_products_controller.html#a770af96a51d26c116324553be36e6f67">FenixAlliance.ICX.Core.API.ProductsController</a>
-, <a class="el" href="db/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_items_1_1_products_controller.html#abb98cc77fbf59c8f71eaf4c15a86461f">FenixAlliance.ICX.Core.Areas.Store.Controllers.Items.ProductsController</a>
+<li>ProductPriceUpdaterWorkflow()
+: <a class="el" href="d1/d58/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_price_updater_workflow.html#a28820590eee7a2adf87d959a9f09e83a">FenixAlliance.ABP.Hub.Workflows.ProductPriceUpdaterWorkflow</a>
+</li>
+<li>ProductsDialog()
+: <a class="el" href="d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog.html#a26fb23a64a9089ceac8cb68d96a411f6">FenixAlliance.ABP.BotEngine.Core.Dialogs.ProductsDialog</a>
+</li>
+<li>PromptLoginStepAsync()
+: <a class="el" href="df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html#a52159a0ac0cc8c3d4a4261e364114265">FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog&lt; T &gt;</a>
 </li>
 <li>ProxyOptions()
 : <a class="el" href="d7/d17/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_options.html#ab45629ba18bd5254d52bed7c535c1a5b">FenixAlliance.ABP.Proxy.ProxyOptions</a>
@@ -199,23 +207,17 @@ $(document).ready(function(){initNavTree('functions_func_p.html',''); initResiza
 : <a class="el" href="d2/d51/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_route_attribute.html#ad05fcba4528d1c6e3bc3112e237adce4">FenixAlliance.ABP.Proxy.ProxyRouteAttribute</a>
 </li>
 <li>PublicFilesController()
-: <a class="el" href="d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller.html#a20f1a5bbe36a0120441ec88960b04867">FenixAlliance.ABP.FileSystem.Controllers.PublicFilesController</a>
+: <a class="el" href="d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller.html#a397ce54cc5102b437b593806314516f2">FenixAlliance.ABP.FileSystem.Controllers.PublicFilesController</a>
 </li>
 <li>PublishSinglePageApplication()
 : <a class="el" href="d6/d2f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_spa_service.html#a5a25ed5c802c709660ab6302d8940b6e">FenixAlliance.ABM.Data.Access.Services.SpaService</a>
 , <a class="el" href="dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service.html#a58880d205ee91b9f22d2bc0df3298f6e">FenixAlliance.ABM.Data.Interfaces.Services.ISpaService</a>
-</li>
-<li>PushWriter()
-: <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a03a4777affa0b88f561739cdbf57ad3c">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
 </li>
 <li>PutAsync()
 : <a class="el" href="d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html#a70bbc9ef4d1ff393c206af0f1dd455ef">FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver</a>
 , <a class="el" href="d4/d08/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_file.html#a06094f5241052e0ab3723f57dde0c1f8">FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemFile</a>
 , <a class="el" href="dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html#ac6183c3eeebe9a1421db45c44b347e7c">FenixAlliance.ABP.FileSystem.Drivers.IFile</a>
 , <a class="el" href="d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html#a0aca9e4a34edaf12694374797fd1505d">FenixAlliance.ABP.FileSystem.IDriver</a>
-</li>
-<li>PutItemCartRecord()
-: <a class="el" href="d6/d50/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_cart_records_controller.html#a64a7181fec1651f1bd85f090ef7ce8e9">FenixAlliance.ICX.Core.API.CartRecordsController</a>
 </li>
 <li>PutResponseModel()
 : <a class="el" href="dc/dd6/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_put_response_model.html#aed0d211b958c801c9a22bdb565682a55">FenixAlliance.ABP.FileSystem.Models.Commands.PutResponseModel</a>

@@ -1,4 +1,4 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions =
 [
-    [ "AcademicInstitution", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution.html", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution" ]
+    [ "AcademicInstitutionProfile", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution_profile.html", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution_profile" ]
 ];

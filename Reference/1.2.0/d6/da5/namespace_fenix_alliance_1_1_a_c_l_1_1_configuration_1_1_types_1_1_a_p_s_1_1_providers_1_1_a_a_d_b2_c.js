@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_b2_c =
+[
+    [ "AzureAdB2C", "d0/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_b2_c_1_1_azure_ad_b2_c.html", "d0/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_b2_c_1_1_azure_ad_b2_c" ]
+];

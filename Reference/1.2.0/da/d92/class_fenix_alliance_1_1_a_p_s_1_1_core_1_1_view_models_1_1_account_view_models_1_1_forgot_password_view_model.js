@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_forgot_password_view_model =
+[
+    [ "Email", "da/d92/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_forgot_password_view_model.html#a9b9003c8871f61700718823b763b53ad", null ]
+];

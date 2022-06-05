@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments =
+[
+    [ "Statuses", "d6/da1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_statuses.html", "d6/da1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_statuses" ],
+    [ "ProjectRequirement", "d5/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_project_requirement.html", "d5/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_project_requirement" ],
+    [ "ProjectResourceRequirement", "d2/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_project_resource_requirement.html", "d2/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_project_resource_requirement" ]
+];

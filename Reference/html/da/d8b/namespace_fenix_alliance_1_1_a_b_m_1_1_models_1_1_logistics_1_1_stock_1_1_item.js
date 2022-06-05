@@ -1,6 +1,13 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item =
 [
     [ "Item", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item" ],
+    [ "StockItemSizeVariation", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation" ],
+    [ "StockItemColorVariation", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation.html", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation" ],
+    [ "StockItemMaterialVariation", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation" ],
+    [ "StockItemVariationsData", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variations_data.html", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variations_data" ],
+    [ "StockItemVariation", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variation.html", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variation" ],
+    [ "StockItemShipsToRule", "d4/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_rule.html", "d4/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_rule" ],
+    [ "StockItemShipsToData", "d2/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_data.html", "d2/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_data" ],
     [ "BateryType", "da/d8b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item.html#affdea5969ffbb347fd414a121ee3afa9", [
       [ "None", "da/d8b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item.html#affdea5969ffbb347fd414a121ee3afa9a6adf97f83acf6453d4a6a4b1070f3754", null ],
       [ "Alkaline", "da/d8b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item.html#affdea5969ffbb347fd414a121ee3afa9ab1ab253465b527ea5cddcd856228c96f", null ],

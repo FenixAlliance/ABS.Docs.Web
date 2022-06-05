@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_1_s3_a_w_s =
+[
+    [ "S3AWSConnector", "d7/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_backup_and_storage_1_195e7bc655548ffd92067bebdf765befe.html", null ]
+];

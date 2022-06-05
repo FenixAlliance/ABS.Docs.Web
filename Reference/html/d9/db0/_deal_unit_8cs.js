@@ -1,9 +1,9 @@
 var _deal_unit_8cs =
 [
     [ "DealUnit", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit" ],
-    [ "DealUnitAmmountsCalculation", "d9/db0/_deal_unit_8cs.html#a349b73155c1f9de763d6b0ca9314c47f", [
-      [ "UserProvided", "d9/db0/_deal_unit_8cs.html#a349b73155c1f9de763d6b0ca9314c47fa86cb5debcd1aabc7f255cb35bb6ccf8b", null ],
-      [ "SystemCalculated", "d9/db0/_deal_unit_8cs.html#a349b73155c1f9de763d6b0ca9314c47fac920f50d9ac04038b4d60b0a31a34371", null ]
+    [ "DealUnitAmountsCalculation", "d9/db0/_deal_unit_8cs.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24", [
+      [ "UserProvided", "d9/db0/_deal_unit_8cs.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24a86cb5debcd1aabc7f255cb35bb6ccf8b", null ],
+      [ "SystemCalculated", "d9/db0/_deal_unit_8cs.html#a6e7d5fdb9dc140d4dd2fb4794b85ad24ac920f50d9ac04038b4d60b0a31a34371", null ]
     ] ],
     [ "DealUnitForecastCategory", "d9/db0/_deal_unit_8cs.html#a1cacdb1a9c5cdb278834c4ef1896993d", [
       [ "None", "d9/db0/_deal_unit_8cs.html#a1cacdb1a9c5cdb278834c4ef1896993da6adf97f83acf6453d4a6a4b1070f3754", null ],

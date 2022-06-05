@@ -2,6 +2,7 @@ var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce =
 [
     [ "Appraisals", "d3/d71/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals.html", "d3/d71/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals" ],
     [ "Employees", "d7/d91/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees.html", "d7/d91/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees" ],
+    [ "Gigs", "da/d08/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs.html", "da/d08/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs" ],
     [ "Jobs", "db/d27/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs.html", "db/d27/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs" ],
     [ "Leaves", "d5/db1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves.html", "d5/db1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves" ],
     [ "Loans", "dc/d96/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans.html", "dc/d96/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_loans" ],

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics =
+[
+    [ "CharacteristicTypes", "da/d8e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_characteristic_types.html", "da/d8e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_characteristic_types" ],
+    [ "Characteristic", "d9/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_characteristic.html", "d9/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics_1_1_characteristic" ]
+];

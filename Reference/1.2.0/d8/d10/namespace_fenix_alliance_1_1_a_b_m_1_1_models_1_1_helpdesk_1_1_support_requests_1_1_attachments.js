@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments =
+[
+    [ "SupportRequestAttachment", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment.html", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment" ]
+];

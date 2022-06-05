@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers =
 [
-    [ "TenantHelpers", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#af59e2dfdaef11462bea8822b9abd2345", null ],
+    [ "TenantHelpers", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a2631d1a3ddd3b04057a57e9bde46b787", null ],
     [ "GetBusinessesWithSocialProfileAsync", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a0fa3eebe3268fb810cfe56fcfe689feb", null ],
     [ "GetBusinessWithSocialProfileAsync", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a8b21212901dfc750298e7673e54842f1", null ],
     [ "GetCurrentAccountHolderBusinesses", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a71715b3c4fd0000acff76eb9e526933c", null ],
@@ -23,8 +23,5 @@ var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_he
     [ "UserOwnsBusinessAsync", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#aee23f03a60db6475560945249bbc3a74", null ],
     [ "UserWorksForBusinessAsync", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a439616125f89f4530584fd3f3e886592", null ],
     [ "AccountUsersHelpers", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a167c6368f2738c685970aa4df622f8a5", null ],
-    [ "Configuration", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#ab2993799bd5a5ec219071a34b8c6e997", null ],
-    [ "DataContext", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#ab15e7fcdb0e77884e30173027fbaec4e", null ],
-    [ "Environment", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a3aefe43fcb55ab0c6e83eddb06f7c14f", null ],
-    [ "SuiteOptions", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#a99277b08eb5fdceb27269beb20edfee8", null ]
+    [ "DataContext", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html#ab15e7fcdb0e77884e30173027fbaec4e", null ]
 ];

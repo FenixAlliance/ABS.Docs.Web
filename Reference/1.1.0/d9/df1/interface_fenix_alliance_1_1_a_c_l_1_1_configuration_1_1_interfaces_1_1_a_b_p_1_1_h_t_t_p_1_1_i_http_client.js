@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_client =
+[
+    [ "BaseUrl", "d9/df1/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_client.html#a7bbf801b0609970739102ff8020e4d40", null ]
+];

@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -97,16 +97,26 @@ $(document).ready(function(){initNavTree('db/df5/class_fenix_alliance_1_1_a_b_m_
 Properties</h2></td></tr>
 <tr class="memitem:a8ad7a8b2b18eec0d1e91d711f30ef5dd"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a8ad7a8b2b18eec0d1e91d711f30ef5dd">ID</a> = Guid.NewGuid().ToString()<code> [get, set]</code></td></tr>
 <tr class="separator:a8ad7a8b2b18eec0d1e91d711f30ef5dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa10b2ae421df95cac98e42779d5058da"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#aa10b2ae421df95cac98e42779d5058da">Timestamp</a><code> [get, set]</code></td></tr>
+<tr class="memitem:aa10b2ae421df95cac98e42779d5058da"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#aa10b2ae421df95cac98e42779d5058da">Timestamp</a> = DateTime.UtcNow<code> [get, set]</code></td></tr>
 <tr class="separator:aa10b2ae421df95cac98e42779d5058da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ce3986129d255851296123906275794"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a7ce3986129d255851296123906275794">Start</a><code> [get, set]</code></td></tr>
+<tr class="memitem:a7ce3986129d255851296123906275794"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a7ce3986129d255851296123906275794">Start</a> = DateTime.UtcNow<code> [get, set]</code></td></tr>
 <tr class="separator:a7ce3986129d255851296123906275794"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad6a4f2d205a7a4911ddf76843f6fb0cb"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#ad6a4f2d205a7a4911ddf76843f6fb0cb">End</a><code> [get, set]</code></td></tr>
+<tr class="memitem:ad6a4f2d205a7a4911ddf76843f6fb0cb"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#ad6a4f2d205a7a4911ddf76843f6fb0cb">End</a> = DateTime.UtcNow.AddMonths(1)<code> [get, set]</code></td></tr>
 <tr class="separator:ad6a4f2d205a7a4911ddf76843f6fb0cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6aa493ca17bb210cbfd0955c3e63a82"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#ad6aa493ca17bb210cbfd0955c3e63a82">SalaryExpectation</a><code> [get, set]</code></td></tr>
+<tr class="separator:ad6aa493ca17bb210cbfd0955c3e63a82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09dff21972f3ffcdc2a548bf5f6da4ae"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a09dff21972f3ffcdc2a548bf5f6da4ae">CurrencyID</a><code> [get, set]</code></td></tr>
+<tr class="separator:a09dff21972f3ffcdc2a548bf5f6da4ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75301277aad9185cebf45f04f738b86f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currency.html">Currency</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a75301277aad9185cebf45f04f738b86f">Currency</a><code> [get, set]</code></td></tr>
+<tr class="separator:a75301277aad9185cebf45f04f738b86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0f78d248b9cbc70fa74ef736e5aa0388"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a0f78d248b9cbc70fa74ef736e5aa0388">CurriculumID</a><code> [get, set]</code></td></tr>
 <tr class="separator:a0f78d248b9cbc70fa74ef736e5aa0388"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5dc1cc970a0df36d0218ed842ad863a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html">Curriculum</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a5dc1cc970a0df36d0218ed842ad863a4">Curriculum</a><code> [get, set]</code></td></tr>
 <tr class="separator:a5dc1cc970a0df36d0218ed842ad863a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae144275237cd0b39d8fb83798e91b5c7"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#ae144275237cd0b39d8fb83798e91b5c7">CurriculumCoverID</a><code> [get, set]</code></td></tr>
+<tr class="separator:ae144275237cd0b39d8fb83798e91b5c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a561092617207dbf2fbc9df7ed8c95d68"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html">CurriculumCover</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a561092617207dbf2fbc9df7ed8c95d68">CurriculumCover</a><code> [get, set]</code></td></tr>
+<tr class="separator:a561092617207dbf2fbc9df7ed8c95d68"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6afde1ce0e04ac6b29e4b9148fc0c62a"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a6afde1ce0e04ac6b29e4b9148fc0c62a">JobOfferID</a><code> [get, set]</code></td></tr>
 <tr class="separator:a6afde1ce0e04ac6b29e4b9148fc0c62a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a482f67289ee96a2d0e754ce5fc35b775"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_offers_1_1_job_offer.html">JobOffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a482f67289ee96a2d0e754ce5fc35b775">JobOffer</a><code> [get, set]</code></td></tr>
@@ -115,8 +125,54 @@ Properties</h2></td></tr>
 <tr class="separator:a49fd51fe7ca7a63701ffe511ab2fff95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a072123fdd0bf2566a01b339723141c21"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html">JobApplicantProfile</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a072123fdd0bf2566a01b339723141c21">JobApplicantProfile</a><code> [get, set]</code></td></tr>
 <tr class="separator:a072123fdd0bf2566a01b339723141c21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26b9ae4c372d580b84f590a0a164cc15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html">JobOfferApplicationFeed</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html#a26b9ae4c372d580b84f590a0a164cc15">JobOfferApplicationFeed</a> = new()<code> [get, set]</code></td></tr>
+<tr class="separator:a26b9ae4c372d580b84f590a0a164cc15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Property Documentation</h2>
+<a id="a75301277aad9185cebf45f04f738b86f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75301277aad9185cebf45f04f738b86f">&#9670;&nbsp;</a></span>Currency</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currency.html">Currency</a> FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Currency</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a09dff21972f3ffcdc2a548bf5f6da4ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09dff21972f3ffcdc2a548bf5f6da4ae">&#9670;&nbsp;</a></span>CurrencyID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.CurrencyID</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a5dc1cc970a0df36d0218ed842ad863a4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5dc1cc970a0df36d0218ed842ad863a4">&#9670;&nbsp;</a></span>Curriculum</h2>
 
@@ -128,6 +184,50 @@ Properties</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="../../db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html">Curriculum</a> FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Curriculum</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a561092617207dbf2fbc9df7ed8c95d68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a561092617207dbf2fbc9df7ed8c95d68">&#9670;&nbsp;</a></span>CurriculumCover</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html">CurriculumCover</a> FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.CurriculumCover</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae144275237cd0b39d8fb83798e91b5c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae144275237cd0b39d8fb83798e91b5c7">&#9670;&nbsp;</a></span>CurriculumCoverID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.CurriculumCoverID</td>
         </tr>
       </table>
   </td>
@@ -171,7 +271,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.End</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.End = DateTime.UtcNow.AddMonths(1)</td>
         </tr>
       </table>
   </td>
@@ -271,6 +371,28 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="a26b9ae4c372d580b84f590a0a164cc15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26b9ae4c372d580b84f590a0a164cc15">&#9670;&nbsp;</a></span>JobOfferApplicationFeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html">JobOfferApplicationFeed</a> FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.JobOfferApplicationFeed = new()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a6afde1ce0e04ac6b29e4b9148fc0c62a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6afde1ce0e04ac6b29e4b9148fc0c62a">&#9670;&nbsp;</a></span>JobOfferID</h2>
 
@@ -293,6 +415,28 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="ad6aa493ca17bb210cbfd0955c3e63a82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6aa493ca17bb210cbfd0955c3e63a82">&#9670;&nbsp;</a></span>SalaryExpectation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.SalaryExpectation</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span><span class="mlabel">set</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a7ce3986129d255851296123906275794"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7ce3986129d255851296123906275794">&#9670;&nbsp;</a></span>Start</h2>
 
@@ -303,7 +447,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Start</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Start = DateTime.UtcNow</td>
         </tr>
       </table>
   </td>
@@ -325,7 +469,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Timestamp</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Workforce.Jobs.JobApplications.JobOfferApplication.Timestamp = DateTime.UtcNow</td>
         </tr>
       </table>
   </td>
@@ -338,7 +482,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li><a class="el" href="../../d4/d83/_fenix_alliance_8_a_b_m_8_models_2_workforce_2_jobs_2_job_applications_2_job_offer_application_8cs.html">FenixAlliance.ABM.Models/Workforce/Jobs/JobApplications/JobOfferApplication.cs</a></li>
+<li><a class="el" href="../../dc/d55/_fenix_alliance_8_a_b_m_8_models_2_workforce_2_jobs_2_job_offers_2_job_offer_application_8cs.html">FenixAlliance.ABM.Models/Workforce/Jobs/JobOffers/JobOfferApplication.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

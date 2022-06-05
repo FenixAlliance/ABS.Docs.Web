@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABM.Models.Security.BusinessPermissions.BusinessPermissionGrants.BusinessPermissionGrantScopes.BusinessRolePermissionGrant" name="FenixAlliance.ABM.Models.Security.BusinessPermissions.BusinessPermissionGrants.BusinessPermissionGrantScopes.BusinessRolePermissionGrant">
+<area shape="rect" id="node1" title="Represents a granted permission for a particular role. Roles are defined programatically by authorize..." alt="" coords="5,80,287,151"/>
+<area shape="rect" id="node2" href="$da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_per4aa214aaacf84ea31a9883beacb7a7b0.html" title="This record represents a granted permission." alt="" coords="59,5,233,32"/>
+</map>

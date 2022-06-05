@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_startups_1_1_startup_program_benefits =
+[
+    [ "StartupProgramBenefit", "d5/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_startups_1_1_startup_program_benefits_1_1_startup_program_benefit.html", "d5/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_startups_1_1_startup_program_benefits_1_1_startup_program_benefit" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types =
+[
+    [ "ExpenseType", "db/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types_1_1_expense_type.html", "db/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses_1_1_expense_types_1_1_expense_type" ]
+];

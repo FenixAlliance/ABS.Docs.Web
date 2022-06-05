@@ -25,5 +25,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_r
     [ "SignatorCertificate", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#ac984cadcff87287ff0099a7feedb1c7b", null ],
     [ "Subscriptions", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a2811afbff69f4438a83300ef5fca5510", null ],
     [ "Taxonomies", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a95f733b1ae80c3eaadb0e75f4d2eb696", null ],
+    [ "Timestamp", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a1d31934a527dadbadf34325e85f05b05", null ],
     [ "WebContents", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html#a547ed70df7a6cc8ae2a59893dd05bc82", null ]
 ];

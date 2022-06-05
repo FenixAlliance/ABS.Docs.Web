@@ -10,11 +10,13 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_unit
     [ "CourseComponents", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a988e94749e73c1d92200eb467d84b24d", null ],
     [ "CourseContentGroup", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#ab217006166e99c3ac0a3d4d3f76483f2", null ],
     [ "CourseContentGroupID", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a67b7a1fcb926888fe40fbafca8eaec84", null ],
+    [ "CourseHandouts", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a72877bf370a35d74f91f31ac5d33e6db", null ],
     [ "CourseID", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#ae80a53f34aaf67045382995a2223d105", null ],
     [ "CourseSection", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a01f41da9201b6cb21611719c720d7a0d", null ],
     [ "CourseSectionID", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a93bd93f666d829788048b5b72b17f148", null ],
     [ "Description", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a2f1e980b200d475082c22dacf0d2f600", null ],
     [ "ID", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a9e0501fae099c7b9bfa9fc655c871e0a", null ],
     [ "ReleaseDateTime", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a87ee00f23b15ebe309ee6b9eae3b3ddf", null ],
+    [ "Timestamp", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#aa8f18e6eb239783c938920361f2f9581", null ],
     [ "Title", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html#a30449dbee89e681708ac5a825509b78b", null ]
 ];

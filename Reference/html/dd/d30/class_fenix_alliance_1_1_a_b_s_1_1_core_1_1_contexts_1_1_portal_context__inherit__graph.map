@@ -1,5 +1,10 @@
 <map id="FenixAlliance.ABS.Core.Contexts.PortalContext" name="FenixAlliance.ABS.Core.Contexts.PortalContext">
-<area shape="rect" id="node1" title="This is the Alliance Business Suite &#45; Portal Context." alt="" coords="5,5,228,47"/>
-<area shape="rect" id="node2" href="$df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html" title="This is the Alliance Business Suite &#45; Studio Context." alt="" coords="5,95,228,136"/>
-<area shape="rect" id="node3" href="$da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html" title=" " alt="" coords="5,184,228,225"/>
+<area shape="rect" id="node1" title="This is the Alliance Business Suite &#45; Portal Context." alt="" coords="452,39,675,80"/>
+<area shape="rect" id="node7" href="$da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html" title=" " alt="" coords="723,5,945,47"/>
+<area shape="rect" id="node8" href="$df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html" title="This is the Alliance Business Suite &#45; Studio Context." alt="" coords="723,71,945,112"/>
+<area shape="rect" id="node2" href="$d2/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_base_service.html" title=" " alt="" coords="303,21,399,47"/>
+<area shape="rect" id="node3" href="$d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html" title=" " alt="" coords="180,46,251,73"/>
+<area shape="rect" id="node6" href="$d5/d27/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts_1_1_i_portal_context.html" title=" " alt="" coords="299,71,404,98"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,21,114,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,71,132,98"/>
 </map>

@@ -3,7 +3,6 @@ var namespace_fenix_alliance_1_1_a_b_p_1_1_file_system =
     [ "AntiVirus", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus" ],
     [ "Controllers", "d3/d93/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers.html", "d3/d93/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers" ],
     [ "Drivers", "d6/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers.html", "d6/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers" ],
-    [ "Extensions", "de/d95/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions.html", "de/d95/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions" ],
     [ "Filters", "d4/ddd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters.html", "d4/ddd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters" ],
     [ "Helpers", "d4/ddd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_helpers.html", "d4/ddd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_helpers" ],
     [ "Manager", "df/d70/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager.html", "df/d70/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager" ],

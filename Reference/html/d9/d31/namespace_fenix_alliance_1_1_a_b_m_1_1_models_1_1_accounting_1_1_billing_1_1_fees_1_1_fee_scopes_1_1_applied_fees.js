@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees =
+[
+    [ "AppliedFee", "db/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees_1_1_applied_fee.html", "db/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees_1_1_applied_fee" ]
+];

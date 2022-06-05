@@ -1,5 +1,25 @@
 var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service =
 [
-    [ "GetBuinessWallet", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a77b54cde04383e6af188e667dfca61b6", null ],
-    [ "GetCurrentHolderWallet", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a612787f786c3b29b98066cce163f9a82", null ]
+    [ "CalculateBalanceAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a27522853972698423617bbebaa069408", null ],
+    [ "CalculateBalanceAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a99b9b94bb9598eb279fdb6037032e1d0", null ],
+    [ "GetIncomingWalletInvoicesAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a8b3710f39671be7810eb05dc1b4cd29f", null ],
+    [ "GetIncomingWalletPaymentsAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a6857c1a5b4901b2de4cc08b114f2c1ad", null ],
+    [ "GetOutgoingWalletInvoicesAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a4abf9d977569477f209aaa99259b28eb", null ],
+    [ "GetOutgoingWalletPaymentsAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a9225e812e2f9a2d1065ea7959ffea28f", null ],
+    [ "GetWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#abaefacc2178b3806b8306995c34a03a4", null ],
+    [ "GetWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#afc8101d2bab6fbf8b9b6dfe1d22a2479", null ],
+    [ "GetWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a0ac1190a0d85d06aaa17852a4162c256", null ],
+    [ "GetWalletBusinessOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#af3e3881e1c7a4c7f66b709548d5e0b76", null ],
+    [ "GetWalletContactOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a6414c1746c9a3944b1e66a45d2ed02dc", null ],
+    [ "GetWalletHolderOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a56a50dbef78005d2f39f8dce0ae0bfd8", null ],
+    [ "GetWalletOrdersAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#aba7aa022bb71c3fe74d95d6351d65e13", null ],
+    [ "GetWalletOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#ac2797715fb554100c2108945591dc262", null ],
+    [ "GetWalletOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#aa0ef92edba87ce9a15c5cf7688beb2df", null ],
+    [ "GetWalletOwnerAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a821469f7d27c5f0400d9109a14880356", null ],
+    [ "InTestMode", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a26a14ee5c5fbd6e27156164e769f9fd7", null ],
+    [ "InTestModeAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a261e0d8fc1a89a5b6f61b9aa66976836", null ],
+    [ "IsBusinessWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a3df42b6e52e12a324209726eaaa9e054", null ],
+    [ "IsContactWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#a6a03e94613935cd1238dd0d4d142ba09", null ],
+    [ "IsHolderWalletAsync", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#afe8490fcf287bbdacacfcd74e4446145", null ],
+    [ "SwitchWalletEnvironment", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html#afb532a6e65d3eb7b46bfc95cc84f6334", null ]
 ];

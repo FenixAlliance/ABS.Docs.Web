@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d =
+[
+    [ "CssFiles", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d.html#aa83855593a164cb8479173ac312a56b8", null ],
+    [ "DllFiles", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d.html#aef15601f4e4beb662ded9719c211f280", null ],
+    [ "JavaScriptFiles", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d.html#a4834d1b5dff55829ad7ebb57802c70fd", null ]
+];

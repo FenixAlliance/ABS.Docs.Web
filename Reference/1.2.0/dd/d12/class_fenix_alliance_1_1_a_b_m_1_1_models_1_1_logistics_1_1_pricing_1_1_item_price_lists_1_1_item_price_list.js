@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_item_price_list =
+[
+    [ "ItemPrices", "dd/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_lists_1_1_item_price_list.html#ae2ffa11c659344bdb5fe9fc7a53d838b", null ]
+];

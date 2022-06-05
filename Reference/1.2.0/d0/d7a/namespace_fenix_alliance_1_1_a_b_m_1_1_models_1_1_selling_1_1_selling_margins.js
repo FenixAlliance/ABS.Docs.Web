@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins =
+[
+    [ "ItemSellingMarginPolicy", "d7/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy.html", "d7/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy" ],
+    [ "ItemSellingMarginPolicyRecord", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy_record.html", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy_record" ]
+];

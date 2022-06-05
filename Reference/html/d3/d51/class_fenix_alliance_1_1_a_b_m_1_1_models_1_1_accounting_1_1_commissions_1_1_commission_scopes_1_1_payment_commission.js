@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission =
+[
+    [ "Payment", "d3/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission.html#a9b424796a4a40029294ef1fd597ec865", null ],
+    [ "PaymentID", "d3/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission.html#ae8faa1eb9e464f6228582b4cd77c75a1", null ]
+];

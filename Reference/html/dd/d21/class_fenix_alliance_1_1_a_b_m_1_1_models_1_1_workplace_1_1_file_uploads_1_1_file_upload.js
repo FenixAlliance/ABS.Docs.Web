@@ -12,7 +12,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1
     [ "ChildFileUploads", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a81cd7ee4365fa0e278072a304c880c61", null ],
     [ "ContentType", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#aecef1eea30c384fc0393a51af7bbebb8", null ],
     [ "File", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a04a86a45dba95fe4833cb19bb16029ca", null ],
-    [ "FileLengthInBits", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a98292da76f8c60ee3c1eee1b69c8629d", null ],
+    [ "FileLength", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a74586c6357a513f110daa8672b039b1b", null ],
     [ "FileName", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#ae27d507b60a82a363a2efdbdc7bec4bb", null ],
     [ "FileUploadPublicAccessType", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a3541912c3fc6a690dac3fd7df571babe", null ],
     [ "FileUploadURL", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a9cf6ec1ed3b0459a3aa213d6441baf14", null ],
@@ -26,5 +26,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1
     [ "SocialProfileID", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a7a9f377509fff70d85a2b89ad6b4a22a", null ],
     [ "Timestamp", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a4d77fdd9541e268b00259d4f0ccac67e", null ],
     [ "Title", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a03974b60b6167c10e0fe03bc12de7e71", null ],
-    [ "Type", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#af871f96098f102646ce56c708b77c0fa", null ]
+    [ "Type", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#af871f96098f102646ce56c708b77c0fa", null ],
+    [ "ValidResponse", "dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a1ab537efcdd2410f41d56cde0bba090e", null ]
 ];

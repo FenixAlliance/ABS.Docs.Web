@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_memory_cache =
+[
+    [ "CompactionPercentage", "d9/d0e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_memory_cache.html#ac5e7154dfd0401e75e9854e1390479e6", null ],
+    [ "ExpirationScanFrequency", "d9/d0e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_memory_cache.html#aa44949154e07f2dcae53a0e19e11ecf5", null ],
+    [ "SizeLimit", "d9/d0e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_distributed_memory_cache.html#ab2ea9948d893752563716a18752a9ae8", null ]
+];

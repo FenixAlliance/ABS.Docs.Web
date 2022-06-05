@@ -10,5 +10,26 @@ var _time_interval_8cs =
       [ "Thursday", "d7/d42/_time_interval_8cs.html#a5f1f75d61c22da486bf7aade8d7e6a37a78ae6f0cd191d25147e252dc54768238", null ],
       [ "Friday", "d7/d42/_time_interval_8cs.html#a5f1f75d61c22da486bf7aade8d7e6a37ac33b138a163847cdb6caeeb7c9a126b4", null ],
       [ "Saturday", "d7/d42/_time_interval_8cs.html#a5f1f75d61c22da486bf7aade8d7e6a37a8b7051187b9191cdcdae6ed5a10e5adc", null ]
+    ] ],
+    [ "MonthOfTheYear", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183", [
+      [ "January", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a86f5978d9b80124f509bdb71786e929e", null ],
+      [ "February", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a659e59f062c75f81259d22786d6c44aa", null ],
+      [ "March", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183afa3e5edac607a88d8fd7ecb9d6d67424", null ],
+      [ "April", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a3fcf026bbfffb63fb24b8de9d0446949", null ],
+      [ "May", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a195fbb57ffe7449796d23466085ce6d8", null ],
+      [ "June", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a688937ccaf2a2b0c45a1c9bbba09698d", null ],
+      [ "July", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a1b539f6f34e8503c97f6d3421346b63c", null ],
+      [ "August", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a41ba70891fb6f39327d8ccb9b1dafb84", null ],
+      [ "September", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183acc5d90569e1c8313c2b1c2aab1401174", null ],
+      [ "October", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183aeca60ae8611369fe28a02e2ab8c5d12e", null ],
+      [ "November", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a7e823b37564da492ca1629b4732289a8", null ],
+      [ "December", "d7/d42/_time_interval_8cs.html#ac33b4762a52376fe4d2097c55e19f183a82331503174acbae012b2004f6431fa5", null ]
+    ] ],
+    [ "RepetitionCriteria", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2b", [
+      [ "NotRepeat", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2ba7301b6da7c8ffa556268ee4e6ce2ee01", null ],
+      [ "WorkWeek", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2ba4ac91e718a664678a8b852098221f361", null ],
+      [ "Day", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2ba03727ac48595a24daed975559c944a44", null ],
+      [ "Month", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2ba7cbb885aa1164b390a0bc050a64e1812", null ],
+      [ "Year", "d7/d42/_time_interval_8cs.html#a60cb372e5fe585a43392ab0bccc44a2ba537c66b24ef5c83b7382cdc3f34885f2", null ]
     ] ]
 ];

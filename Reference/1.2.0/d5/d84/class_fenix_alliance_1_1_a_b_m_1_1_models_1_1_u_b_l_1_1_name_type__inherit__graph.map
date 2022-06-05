@@ -1,0 +1,27 @@
+<map id="FenixAlliance.ABM.Models.UBL.NameType" name="FenixAlliance.ABM.Models.UBL.NameType">
+<area shape="rect" id="node1" title=" " alt="" coords="131,724,313,765"/>
+<area shape="rect" id="node3" href="$d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_additional_street_name_type.html" title=" " alt="" coords="361,5,568,47"/>
+<area shape="rect" id="node4" href="$d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_alias_name_type.html" title=" " alt="" coords="373,71,556,112"/>
+<area shape="rect" id="node5" href="$d1/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_block_name_type.html" title=" " alt="" coords="373,136,556,177"/>
+<area shape="rect" id="node6" href="$d3/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_brand_name_type.html" title=" " alt="" coords="373,201,556,243"/>
+<area shape="rect" id="node7" href="$dc/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_building_name_type.html" title=" " alt="" coords="373,267,556,308"/>
+<area shape="rect" id="node8" href="$d3/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_category_name_type.html" title=" " alt="" coords="373,332,556,373"/>
+<area shape="rect" id="node9" href="$d6/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_city_name_type.html" title=" " alt="" coords="373,397,556,439"/>
+<area shape="rect" id="node10" href="$da/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_city_subdivision_name_type.html" title=" " alt="" coords="363,463,567,504"/>
+<area shape="rect" id="node11" href="$d8/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_family_name_type.html" title=" " alt="" coords="373,528,556,569"/>
+<area shape="rect" id="node12" href="$d1/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_file_name_type.html" title=" " alt="" coords="373,593,556,635"/>
+<area shape="rect" id="node13" href="$df/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_first_name_type.html" title=" " alt="" coords="373,659,556,700"/>
+<area shape="rect" id="node14" href="$d2/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_holder_name_type.html" title=" " alt="" coords="373,724,556,765"/>
+<area shape="rect" id="node15" href="$d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_middle_name_type.html" title=" " alt="" coords="373,789,556,831"/>
+<area shape="rect" id="node16" href="$dc/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_model_name_type.html" title=" " alt="" coords="373,855,556,896"/>
+<area shape="rect" id="node17" href="$df/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_name_type1.html" title=" " alt="" coords="373,920,556,961"/>
+<area shape="rect" id="node18" href="$d8/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_other_name_type.html" title=" " alt="" coords="373,985,556,1027"/>
+<area shape="rect" id="node19" href="$de/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_registration_name_type.html" title=" " alt="" coords="373,1051,556,1092"/>
+<area shape="rect" id="node20" href="$df/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_retail_event_name_type.html" title=" " alt="" coords="373,1116,556,1157"/>
+<area shape="rect" id="node21" href="$da/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_roaming_partner_name_type.html" title=" " alt="" coords="361,1181,568,1223"/>
+<area shape="rect" id="node22" href="$de/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_name_type.html" title=" " alt="" coords="373,1247,556,1288"/>
+<area shape="rect" id="node23" href="$d5/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_street_name_type.html" title=" " alt="" coords="373,1312,556,1353"/>
+<area shape="rect" id="node24" href="$d3/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_technical_name_type.html" title=" " alt="" coords="373,1377,556,1419"/>
+<area shape="rect" id="node25" href="$dc/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_vessel_name_type.html" title=" " alt="" coords="373,1443,556,1484"/>
+<area shape="rect" id="node2" href="$dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_text_type.html" title=" " alt="" coords="5,731,83,758"/>
+</map>

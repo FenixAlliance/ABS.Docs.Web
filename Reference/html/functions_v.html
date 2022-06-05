@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -89,30 +89,85 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 
 <h3><a id="index_v"></a>- v -</h3><ul>
 <li>Valid
-: <a class="el" href="d0/d20/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license.html#ad0fbfcd9720f264202e0f71a9f70a901">FenixAlliance.ACL.Configuration.Interfaces.ACL.ILicense</a>
+: <a class="el" href="d2/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_validation_1_1_license_validation.html#aec2036ed32512ab5d4c6a9c4452d13a9">FenixAlliance.ABM.Models.Licensing.Validation.LicenseValidation</a>
+, <a class="el" href="d0/d20/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license.html#ad0fbfcd9720f264202e0f71a9f70a901">FenixAlliance.ACL.Configuration.Interfaces.ACL.ILicense</a>
 , <a class="el" href="d6/d17/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_licensing_1_1_license.html#a0ecd2f9f15c4382b0555a6c7d2cb8a93">FenixAlliance.ACL.Configuration.Types.ACL.Licensing.License</a>
 </li>
 <li>Validate()
-: <a class="el" href="d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html#ab0654c111fe228e833bc80064c35a5b3">FenixAlliance.ABS.Core.Templating.ICodeCompilationService</a>
-, <a class="el" href="d1/d0e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_compilation_service.html#a9a5ca4a165e0b14b1751de61d533d6d8">FenixAlliance.ABS.Core.Templating.Services.CodeCompilationService</a>
+: <a class="el" href="d2/dd8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_compilation_service.html#a2cd5373cb0272b1b16d6c3aba715e7d9">FenixAlliance.ABM.Data.Access.Services.CodeCompilationService</a>
+, <a class="el" href="d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html#ab0654c111fe228e833bc80064c35a5b3">FenixAlliance.ABS.Core.Templating.ICodeCompilationService</a>
+</li>
+<li>ValidateAsync()
+: <a class="el" href="d2/dd8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_compilation_service.html#a3a95222d531b91672e40e58be6124748">FenixAlliance.ABM.Data.Access.Services.CodeCompilationService</a>
+, <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#a77961022c92404dd70814bf0b73ca148">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a0e80a7f2f4a6189b940f261d7df0d3fe">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
+, <a class="el" href="d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html#a200f48f0ea2327c4183b604656f829fd">FenixAlliance.ABS.Core.Templating.ICodeCompilationService</a>
+</li>
+<li>ValidateBlockchain()
+: <a class="el" href="dc/d48/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_blockchains_service.html#ab6d85b51e65d4c7be4f91e445b88b046">FenixAlliance.ABM.Data.Access.Services.BlockchainsService</a>
+, <a class="el" href="d8/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_blockchains_service.html#a257317aa62522afe7dcb60c7c167b06f">FenixAlliance.ABM.Data.Interfaces.Services.IBlockchainsService</a>
+</li>
+<li>ValidateCSharpCode()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#adddc7bead4cc929814ed5edd5d8f83c9">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a44336d0355e417e1da515182174a512b">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
+</li>
+<li>ValidateCSHtmlCode()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#a69887311c28f6aea88ee8a8b9bf5b997">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a407a8542a5740b856525d7d3b6dbe40d">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
+</li>
+<li>Validated
+: <a class="el" href="db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record.html#a56eed3d2e7ffbf54586b797f7ce12ef6">FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.CurriculumRecord</a>
+</li>
+<li>ValidateHtml5Code()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#add8503046946eec522f448df35272ee3">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a525f29f032d9ce8c0e4b180d3da9e0b4">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
 </li>
 <li>ValidateLicense()
-: <a class="el" href="d6/dee/interface_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_i_licensing_service.html#a4c6988c4337ea52b7ae5494352b84abd">FenixAlliance.ACL.Licensing.ILicensingService</a>
+: <a class="el" href="d6/dee/interface_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_i_licensing_service.html#ab82c741fc996247479fb80e2f0617459">FenixAlliance.ACL.Licensing.ILicensingService</a>
 , <a class="el" href="d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html#a04f0b26eff4bf14baaeb5bb9390a1aed">FenixAlliance.ACL.Licensing.LicensingService</a>
 </li>
 <li>ValidateLicenseCustomer()
 : <a class="el" href="d6/dee/interface_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_i_licensing_service.html#a40cc513d8cbe74ce0803ce9e4bd68e57">FenixAlliance.ACL.Licensing.ILicensingService</a>
-, <a class="el" href="d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html#a78d4fe18369c1a4a7de3ca3557ee8ccd">FenixAlliance.ACL.Licensing.LicensingService</a>
+, <a class="el" href="d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html#a3177f0afbd3c84e5c334296add73c321">FenixAlliance.ACL.Licensing.LicensingService</a>
 </li>
 <li>ValidateLicenseFeatures()
 : <a class="el" href="d6/dee/interface_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_i_licensing_service.html#a94893dfdd5ddae8082539c5fa9b37f38">FenixAlliance.ACL.Licensing.ILicensingService</a>
-, <a class="el" href="d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html#ab61679b43fbb2fd707e21ad106c326df">FenixAlliance.ACL.Licensing.LicensingService</a>
+, <a class="el" href="d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html#ab0a634ef2a374c06997bd2c56c8fbbe7">FenixAlliance.ACL.Licensing.LicensingService</a>
+</li>
+<li>ValidateLiquidCode()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#a5fc95c546f12b03bf81c0e521b9493a5">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a5d9a2fc3eff196691478cd5c1e402478">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
 </li>
 <li>ValidateLiveView()
 : <a class="el" href="da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html#a2c147badc269e9dd564799eb863e6ce8">FenixAlliance.ABS.Core.Contexts.BuilderContext</a>
 </li>
+<li>ValidateMarkdownCode()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#a60b18681aa1842f5d5c1681618c11e60">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a6996584d6f36e8f93cfed254e4159386">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
+</li>
+<li>ValidateOption()
+: <a class="el" href="d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_options_service.html#aa06f63c2841cd427869f3c2d2edda16a">FenixAlliance.ABM.Data.Access.Services.OptionsService</a>
+</li>
+<li>ValidateOptionAsync()
+: <a class="el" href="d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_options_service.html#ae9d60592e591e8976408f5a117e4fcbf">FenixAlliance.ABM.Data.Access.Services.OptionsService</a>
+</li>
+<li>ValidatePayment()
+: <a class="el" href="db/dd4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_payment_gateway.html#aa8ba2af78355685d892b896f62348dd2">FenixAlliance.ABM.Data.Interfaces.Abstractions.IPaymentGateway</a>
+</li>
+<li>ValidatePrimaryImage()
+: <a class="el" href="de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html#a5d37a72c573819a79a17c2ef4bc8e620">FenixAlliance.ABM.Data.Access.Services.StockItemsService</a>
+, <a class="el" href="d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html#aed77e3f90a838b6d7b085d0ced3c400c">FenixAlliance.ABM.Data.Interfaces.Services.IStockItemsService</a>
+</li>
+<li>ValidatePrimaryImages()
+: <a class="el" href="de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html#a5b8527b7d692ed26fb4d1b6d53dfb5f2">FenixAlliance.ABM.Data.Access.Services.StockItemsService</a>
+, <a class="el" href="d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html#a3b23f00b6d662f4039301922c1e91e6c">FenixAlliance.ABM.Data.Interfaces.Services.IStockItemsService</a>
+</li>
 <li>ValidateProcess
 : <a class="el" href="d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html#ac5247e7082e74407afc2f67ee71ac61f">FenixAlliance.ABM.Models.UBL.ResultOfVerificationType</a>
+</li>
+<li>ValidateRazorCode()
+: <a class="el" href="db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html#ad9ba940f5ca32380dc112ef93e48d865">FenixAlliance.ABM.Data.Access.Services.CodeValidationService</a>
+, <a class="el" href="d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html#a86d77a65642fdd09536c0de03a39c6d1">FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService</a>
 </li>
 <li>ValidateThemesFolderExistance()
 : <a class="el" href="da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service.html#a2c20f8b482d1ac34e408d04b84f3c251">FenixAlliance.ABM.Data.Access.Services.ThemingService</a>
@@ -130,25 +185,19 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 : <a class="el" href="d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html#a82deee4ca8f483fef7eb5bddc8e91523">FenixAlliance.ABM.Models.UBL.ResultOfVerificationType</a>
 , <a class="el" href="d8/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signature_type.html#a22c6ae35dd35029abd0d8871df58957b">FenixAlliance.ABM.Models.UBL.SignatureType</a>
 </li>
-<li>ValidationReference
-: <a class="el" href="d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html#a1cceb1fd4dee36ffa039c99e0e057f3a">FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment</a>
-</li>
 <li>ValidationResultCode
 : <a class="el" href="d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html#ac51ba0cbc39e08f2bf62d9d609b7b228">FenixAlliance.ABM.Models.UBL.ResultOfVerificationType</a>
-</li>
-<li>ValidationScriptsViewComponent()
-: <a class="el" href="d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component.html#a066f500bc52804b046fcf0c1f8c3d48b">FenixAlliance.ABS.Portal.UI.ViewComponents.ValidationScriptsViewComponent</a>
 </li>
 <li>ValidationTime
 : <a class="el" href="d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html#a8933a8a6c15078bee433cd7b5772638b">FenixAlliance.ABM.Models.UBL.ResultOfVerificationType</a>
 , <a class="el" href="d8/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signature_type.html#a0998682c3d006c367684332dd7bdc9c0">FenixAlliance.ABM.Models.UBL.SignatureType</a>
 </li>
-<li>ValidationURl
-: <a class="el" href="d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html#a2e3698d94cd6f99940952e7d8c401eb4">FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment</a>
-</li>
 <li>ValidatorID
 : <a class="el" href="d4/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_result_of_verification_type.html#a995106b3cd55cbdbc39ea855b08ad83f">FenixAlliance.ABM.Models.UBL.ResultOfVerificationType</a>
 , <a class="el" href="d8/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signature_type.html#a6ae0f814138e83378f6058997735f101">FenixAlliance.ABM.Models.UBL.SignatureType</a>
+</li>
+<li>ValidFrom
+: <a class="el" href="d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#ad2900c4797ce0cae31752f1a2545180a">FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceNumerationRange.InvoiceEnumerationRange</a>
 </li>
 <li>ValidityInDays
 : <a class="el" href="de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee.html#afd924fc16ac9c62602d2702a399260db">FenixAlliance.ABM.Models.Accounting.Banking.BankGuarantee</a>
@@ -179,20 +228,33 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 <li>ValidityStartDate
 : <a class="el" href="d8/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_card_account_type.html#a1a75afa941671e4c8bf32d29bd34f88e">FenixAlliance.ABM.Models.UBL.CardAccountType</a>
 </li>
+<li>ValidLogic
+: <a class="el" href="d1/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_web_content.html#a7ec24a7090391e67f4de476bc5f89dcd">FenixAlliance.ABM.Models.Content.WebContent</a>
+</li>
 <li>ValidOAuthRedirectURIs
 : <a class="el" href="d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#aa9e067208f55ecc960e13a78b92753da">FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplication</a>
 </li>
+<li>ValidPrimaryImage
+: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a9d2d69575dcbd7e9a4247551039bf0e2">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+</li>
+<li>ValidResponse
+: <a class="el" href="dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html#a1ab537efcdd2410f41d56cde0bba090e">FenixAlliance.ABM.Models.Workplace.FileUploads.FileUpload</a>
+</li>
 <li>ValidSeconds
 : <a class="el" href="dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token.html#a3caf96ab3218172f623fc7ca72cabe1a">FenixAlliance.ABM.Models.Global.Wallets.PaymentTokens.PaymentToken</a>
+</li>
+<li>ValidTo
+: <a class="el" href="d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html#aa828b95a85104f70b802877dc781463a">FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceNumerationRange.InvoiceEnumerationRange</a>
 </li>
 <li>ValidUntil
 : <a class="el" href="dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token.html#a2abbff2b95f75c5c7b4720db2ebee993">FenixAlliance.ABM.Models.Global.Wallets.PaymentTokens.PaymentToken</a>
 </li>
 <li>ValidView
-: <a class="el" href="da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html#aeb2308829afe512297aa3feb52d063ff">FenixAlliance.ABS.Core.Contexts.BuilderContext</a>
+: <a class="el" href="d1/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_web_content.html#a399b069053b7e072116df05bd251b97a">FenixAlliance.ABM.Models.Content.WebContent</a>
+, <a class="el" href="da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html#aeb2308829afe512297aa3feb52d063ff">FenixAlliance.ABS.Core.Contexts.BuilderContext</a>
 </li>
 <li>Value
-: <a class="el" href="da/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_record.html#a6647fd3c73216cb229d81517df70c614">FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceRecord</a>
+: <a class="el" href="df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html#a49d9db1876299e791db5ae523963e842">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Helpers.ViewBufferValue</a>
 , <a class="el" href="df/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_credit_limits_1_1_credit_limit.html#a93abfe62be9ddbdd366508a0385b2678">FenixAlliance.ABM.Models.Accounting.Loans.CreditLimits.CreditLimit</a>
 , <a class="el" href="d0/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_loan.html#a9972e8cedf50aa96bfd41dff2f131e67">FenixAlliance.ABM.Models.Accounting.Loans.Loan</a>
 , <a class="el" href="de/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_discount_lists_1_1_discounts_1_1_discount.html#abb815505e04240c5f2b7d3ea7a803758">FenixAlliance.ABM.Models.Accounting.Pricing.DiscountLists.Discounts.Discount</a>
@@ -225,7 +287,6 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 , <a class="el" href="dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_text_type.html#a44696fb08c8ff757aea903117d6e95b7">FenixAlliance.ABM.Models.UBL.TextType</a>
 , <a class="el" href="da/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_time_type.html#a9d270716c674d521546129ea701f9030">FenixAlliance.ABM.Models.UBL.TimeType</a>
 , <a class="el" href="df/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_ref_accessor.html#ae5f7a1d941a75e55e2eb4575db0d837c">FenixAlliance.ABP.BotEngine.Core.State.DialogStateAdapter.RefAccessor&lt; T &gt;</a>
-, <a class="el" href="d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value.html#a8cff385340f3f7a768f28e6a3e16e9e1">FenixAlliance.ABS.Core.Templating.Helpers.ViewBufferValue</a>
 , <a class="el" href="d1/d1e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e4f75af4beaad303aca88ba8c31f2c912.html#a525dde31dc3e24df2948d84219395bce">FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.REST.Swagger.ISwaggerOAuthAdditionalQueryStringParam</a>
 , <a class="el" href="de/d66/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_http_header.html#a27dcf1c380f379eef4f870523bb24e38">FenixAlliance.ACL.Configuration.Interfaces.ABP.HTTP.IHttpHeader</a>
 , <a class="el" href="d2/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_176bc0df164b8315afdd203b6b1f5c4cf.html#abd3962f55e87fb7725c0e986ed070bc8">FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerOAuthAdditionalQueryStringParam</a>
@@ -252,8 +313,7 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 : <a class="el" href="dc/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_currencies_1_1_foreign_exchange_set.html#a632114f217cee1967f906c5be8c5466a">FenixAlliance.ABM.Models.Global.Globe.Currencies.ForeignExchangeSet</a>
 </li>
 <li>Variables
-: <a class="el" href="d9/d82/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_q_l_request.html#a58f33230b00774e8558ccefac8947789">FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQLRequest</a>
-, <a class="el" href="db/d26/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_graph_q_l_request.html#a3d02db9edd77858442fbef390d2e566e">FenixAlliance.ABP.API.GraphQl.Core.GraphQLRequest</a>
+: <a class="el" href="d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request.html#a08d4dcdb30cf6c75faf0304be1541e6f">FenixAlliance.ABP.API.GraphQl.Core.Models.GraphQLRequest</a>
 </li>
 <li>VarianceQuantity
 : <a class="el" href="d4/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exception_notification_line_type.html#a306ac9189d433ea39a178b5a7641daf1">FenixAlliance.ABM.Models.UBL.ExceptionNotificationLineType</a>
@@ -263,6 +323,9 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 </li>
 <li>VariantID
 : <a class="el" href="d1/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendered_project_type.html#a1e600a9a50265590f6258510fb342ef7">FenixAlliance.ABM.Models.UBL.TenderedProjectType</a>
+</li>
+<li>Variations
+: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#ab1e6c3cbf47bdc240c33c3216b9218e5">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
 </li>
 <li>VaryByQueryKeys
 : <a class="el" href="d2/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_response_caching.html#a1340173944809e8b4a8edd88c7eab35a">FenixAlliance.ACL.Configuration.Interfaces.ABP.Caching.IResponseCaching</a>
@@ -276,34 +339,51 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 : <a class="el" href="d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_b2_c_decoded_token.html#a6d59b90f8804cc635d1eaa67949475a6">FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.B2CDecodedToken</a>
 </li>
 <li>VerificationTimestamp
-: <a class="el" href="d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a1d0482458e8ec05c8931565ab9829484">FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplication</a>
+: <a class="el" href="df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html#a3cd8d12bd73dbde8a12f456308e52264">FenixAlliance.ABM.Models.Accounting.Accounts.Account</a>
+, <a class="el" href="dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_contact_profile.html#ae4cdae3a559fad633371cae2ba295234">FenixAlliance.ABM.Models.Contacts.Profiles.ContactProfile</a>
+, <a class="el" href="d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a1d0482458e8ec05c8931565ab9829484">FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplication</a>
+, <a class="el" href="de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location.html#ad0d030e1ac4461cecd798dca2e1256b3">FenixAlliance.ABM.Models.Global.Locations.Location</a>
 </li>
 <li>Verified
 : <a class="el" href="d5/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_accounts_1_1_chart_of_accounts.html#a8150e02abd46a9bec84c48eb7359bdf6">FenixAlliance.ABM.Data.Seeding.Models.Accounts.ChartOfAccounts</a>
+, <a class="el" href="df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html#aa5b70fd6a1dd38f420ece88fb2c0f52c">FenixAlliance.ABM.Models.Accounting.Accounts.Account</a>
+, <a class="el" href="d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html#ab763e97492565f212f4cd4bbb442ce55">FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment</a>
+, <a class="el" href="dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_contact_profile.html#ad37b3824282f0ed509d1ec2ea684b2c5">FenixAlliance.ABM.Models.Contacts.Profiles.ContactProfile</a>
+, <a class="el" href="de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location.html#aa549d8ea92beffadd2229c4f9035fdcd">FenixAlliance.ABM.Models.Global.Locations.Location</a>
+, <a class="el" href="df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_return.html#af697da9daf28cc624d3490a6fd9e81c6">FenixAlliance.ABM.Models.Helpdesk.ReturnRequest.OrderReturn</a>
+, <a class="el" href="db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html#a63761fc0e686634244e66e3187df48be">FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterSubscription</a>
 , <a class="el" href="d6/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_domains_1_1_business_domain.html#aea5d858ffe9bc7f967e7755de90d80e1">FenixAlliance.ABM.Models.Security.BusinessDomains.BusinessDomain</a>
 , <a class="el" href="d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html#ab69e262e8565acf42162d9326a64df56">FenixAlliance.ABM.Models.Tenants.Business</a>
+</li>
+<li>Verify()
+: <a class="el" href="d6/d52/class_authorization_controller.html#aad8dc4d5b0aa01977c474640a1a156a5">AuthorizationController</a>
+</li>
+<li>VerifyAccept()
+: <a class="el" href="d6/d52/class_authorization_controller.html#a3def2c4917f26d3d4caf074dc11bacf1">AuthorizationController</a>
+</li>
+<li>VerifyDeny()
+: <a class="el" href="d6/d52/class_authorization_controller.html#a0ef35b04ff3b168f99ec023bfe4e9fa1">AuthorizationController</a>
 </li>
 <li>VerifyPayload()
 : <a class="el" href="d1/d83/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_security_helpers.html#aaf327132527f08b95a37bae253c7f7f6">FenixAlliance.ABM.SDK.Helpers.SecurityHelpers</a>
 </li>
 <li>VerifyPayment()
-: <a class="el" href="d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html#ad1dd3d56c68a1b9908226a2e051761b5">FenixAlliance.ICX.Core.Services.ICheckoutService</a>
+: <a class="el" href="d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service.html#a9e4efe00935855c655f2faacc5d4d092">FenixAlliance.ABM.Data.Interfaces.Services.ICheckoutService</a>
 </li>
 <li>VerifyPaymentAsync()
-: <a class="el" href="d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service.html#a0cc49d50ead151c216fd56e104e7f150">FenixAlliance.ABM.Data.Access.Services.StoreService</a>
-, <a class="el" href="d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html#a7150532b31b399b3cb89b7375e797889">FenixAlliance.ABM.Data.Interfaces.Services.IStoreService</a>
+: <a class="el" href="dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service.html#a4e7b2087ffd9a0d35c9b2b00a8ce228c">FenixAlliance.ABM.Data.Access.Services.PaymentGatewayService</a>
+, <a class="el" href="d7/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payment_gateway_service.html#a30163fb688095fa8ed67bb9f3166b5a5">FenixAlliance.ABM.Data.Interfaces.Services.IPaymentGatewayService</a>
 </li>
 <li>Version
-: <a class="el" href="d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_themes_1_1_website_theme.html#af2030fc6d034c915bc9626df12d21ab5">FenixAlliance.ABM.Models.Content.Themes.WebsiteTheme</a>
+: <a class="el" href="dd/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package.html#a1e1060c4f8b8c78730956ddab9b36a4d">FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.Package</a>
+, <a class="el" href="d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_themes_1_1_website_theme.html#af2030fc6d034c915bc9626df12d21ab5">FenixAlliance.ABM.Models.Content.Themes.WebsiteTheme</a>
 , <a class="el" href="da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#ad5f59845a3b4211a91fe4fe00b427d71">FenixAlliance.ABM.Models.Education.Courses.Course</a>
 , <a class="el" href="da/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_integration.html#a88106c81016ba26ec7246fd0771fbbb3">FenixAlliance.ABM.Models.Global.Integrations.Integration</a>
 , <a class="el" href="d5/d62/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_dependency.html#aeb461897d080bb45496a72670185a1da">FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Dependency</a>
 , <a class="el" href="d8/da2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_license.html#a61fbe0d8f0916db9f1177b1bea790018">FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.License</a>
 , <a class="el" href="d3/d27/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_metadata.html#ab249fcecf05fc73dd2fa170abc028bd5">FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Metadata</a>
 , <a class="el" href="d9/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_type.html#acae6e2fcadf7af6c4e229b64d54d9913">FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.PackageType</a>
-, <a class="el" href="d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package.html#ab296a1d93fe211821f6ceb019ce6cc27">FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.Package</a>
 , <a class="el" href="de/d96/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e61780334ebfd64c3aebd14815c7cd25b.html#a408340e42662ffa6d41359c46ee1d21f">FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.REST.Swagger.ISwaggerSpec</a>
-, <a class="el" href="da/d73/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_150efcc716b7414750bc17cb06f35ccf3.html#add4ef5171d1f414509db3d26b6a4bdc5">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.Recaptcha.IGoogleRecaptchaIntegrationOptions</a>
 , <a class="el" href="d0/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module_data.html#aa08958da7caa1eec0c442511d8a41f94">FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModuleData</a>
 , <a class="el" href="de/d86/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_spec.html#a9f8dcb04fbd08010b86efae923917fa6">FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerSpec</a>
 , <a class="el" href="d3/d0f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google96ff110fd184f72def62eef8813ffbea.html#a64b379dfef683840c81298009de0f1b4">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.Recaptcha.GoogleRecaptchaIntegrationOptions</a>
@@ -338,62 +418,56 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 <li>VesselName
 : <a class="el" href="de/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_maritime_transport_type.html#a43effd147cc9888db431f54634752764">FenixAlliance.ABM.Models.UBL.MaritimeTransportType</a>
 </li>
-<li>ViewAssembliesCache
-: <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a7a45df550db44c2de3b819eed65adad8">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
-</li>
 <li>ViewBag
-: <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a49812cfd6917ea8815bed9e5f1cbdc07">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
-, <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a1597774b5561cc67cdf1cf77b2bb691f">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
-, <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#ad46d8c1edc4cb8b333944b3a88866c3f">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a101101a31f7ba03072657e45bf031ccd">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#a51e64639d0ed77a1bdef94c8151cc846">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
+, <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#a2cc5ba21da70dcceb68bae925d8b0366">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
+, <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a49812cfd6917ea8815bed9e5f1cbdc07">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
 , <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#a7d61cc09c715bad3ada3e05cea3bd768">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
 </li>
 <li>ViewBufferValue()
-: <a class="el" href="d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value.html#a486330abe80c1b4574d11b0ea20cd796">FenixAlliance.ABS.Core.Templating.Helpers.ViewBufferValue</a>
-</li>
-<li>ViewComponentCache
-: <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a2a94cf76e37f1108830f65484c038c89">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
+: <a class="el" href="df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html#a542c33998c77e93051adecfae2baa8cb">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Helpers.ViewBufferValue</a>
 </li>
 <li>ViewComponents
 : <a class="el" href="d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model.html#a9724274b546e9f97f16d4b7cb93b2128">FenixAlliance.ABP.Hub.Features.FeaturesViewModel</a>
 </li>
+<li>ViewComposerService()
+: <a class="el" href="d9/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_composer_service.html#a5e4d37dda06fc2519ae205397009ede0">FenixAlliance.ABM.Data.Access.Services.ViewComposerService</a>
+, <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#ae83c5fb28e7accfceb49365c09b83bba">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
+</li>
 <li>ViewContext
-: <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#a7997fb72883293babd20135f38810e02">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a474e50d8f248b441ab87a0012a6ad4e5">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
-, <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#aa7e9d0099e18e9b467caf2b9b2f28395">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#a6876f30b205c5cf4d1698f5481cf98bb">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
 </li>
 <li>ViewData
-: <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a833eec7bf069ac5664bc9bf0d5a727a8">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
-, <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#aba01dd17b22da78022fd720787fc45a6">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
-, <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#ab80a91fa46c7b22d5dc67cc796b65350">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a7c8efb1562aff8e93b5fdf44ea432981">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#aae7dd5282db1f506d9d18c8273bb779c">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
+, <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#a6281d02a7f7fb19ca8a9fd35ed547e5d">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
+, <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a833eec7bf069ac5664bc9bf0d5a727a8">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
 , <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#a85a10e2df046dbf9e10e6f0ac257c7ab">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
 </li>
-<li>ViewPrecompilationsCache
-: <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#aac34fd8fd451dd2b1a78c44a27a828e5">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
+<li>ViewRecompilerWorkflow()
+: <a class="el" href="df/dd7/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_view_recompiler_workflow.html#a2324fbc291cf673d64a6d96e9d57ef10">FenixAlliance.ABP.Hub.Workflows.ViewRecompilerWorkflow</a>
 </li>
 <li>ViewRenderingService()
-: <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a8dc1ae5fb170afe5d4de564aa2dcaebc">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
+: <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#a22b9ead9f7df641a7d2ed4c11e6ab7c7">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
 </li>
 <li>Views
 : <a class="el" href="db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html#a78d816eece0b51e36f3a9006d2556b70">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct</a>
-, <a class="el" href="dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html#ad75a045a538613debba393be946d6146">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product</a>
 , <a class="el" href="d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_entities_1_1_entity.html#ac954359bf7bd087fdd78967b5c40f9ce">FenixAlliance.ABM.Models.Internals.Entities.Entity</a>
 </li>
 <li>ViewsCount
-: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a37f4d7a8cb2338503cc7951dcc194354">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+: <a class="el" href="dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html#ab92615f638666ffb82e34d0eda8d9bbe">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product</a>
+, <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a37f4d7a8cb2338503cc7951dcc194354">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+, <a class="el" href="d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a536fc669dd1b9788d07a3c9ea4caa904">FenixAlliance.ABM.Models.Workforce.Gigs.Gig</a>
+, <a class="el" href="de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_offers_1_1_job_offer.html#ac9c1c3bb0c0e922dce465bff10c5651d">FenixAlliance.ABM.Models.Workforce.Jobs.JobOffers.JobOffer</a>
 </li>
 <li>ViewService
-: <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#a96d20d6c365244ae5b4e3a693165af9b">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#ae17666b10b61eca2d1dbc3a80d2b30e4">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#ac45260484a7fd5681c5d3b34ed3c175d">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
 , <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#a95a7a6c19ab4517848ce590997af7c6c">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
 </li>
 <li>ViewWeight
 : <a class="el" href="d3/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_recomendations_1_1_recommendation_options.html#a62c4e11da9b306a1a541b506bc93bf23">FenixAlliance.ACL.Configuration.Types.ICX.Recomendations.RecommendationOptions</a>
 </li>
 <li>Visible
-: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#acd5387e29766a51e0d67a3981a3b7b86">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
-, <a class="el" href="de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html#a8fd7dceca31ece71c9d0dc26d71d3748">FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.ActivityToggleEventArgs</a>
+: <a class="el" href="d9/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moe18078581c36f8e5f65ef906d44776e3.html#a314aec57eab4b5cf7318f479b4cd8658">FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.ActivityToggleEventArgs</a>
 </li>
 <li>VolumeId
 : <a class="el" href="d0/d03/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_directory_model.html#adff59a55efaaf0e3b4219c16e21d584b">FenixAlliance.ABP.FileSystem.Models.DirectoryModel</a>
@@ -403,7 +477,7 @@ $(document).ready(function(){initNavTree('functions_v.html',''); initResizable()
 : <a class="el" href="d0/d45/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_base_driver.html#ad6ed8230e27ca690c6fe12424a7e1d2a">FenixAlliance.ABP.FileSystem.Drivers.BaseDriver</a>
 </li>
 <li>VPN
-: <a class="el" href="d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup.html#a2ad9812922496a6930d34450c57b87ff">FenixAlliance.ABM.Models.Global.Security.IPLookup</a>
+: <a class="el" href="db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup.html#a8eb1be630a29067e41c68dad03ba64df">FenixAlliance.ABM.Models.Security.IPLookups.IPLookup</a>
 </li>
 </ul>
 </div><!-- contents -->

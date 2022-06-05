@@ -7,6 +7,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy
     [ "BusinessProfileRecordID", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#af5585088a942a592903fd92cf558b2d4", null ],
     [ "City", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#a9abafe6dbea1f8795e4ec7ff34d95bfe", null ],
     [ "CityID", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#a85ac9d8f80d814dc5a0358bd4ee0da20", null ],
+    [ "Code", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#ae02998d9a0f2a0555978b9c4d8fe7b09", null ],
     [ "Country", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#ab4739359f4066faff9910577ce3a6d98", null ],
     [ "CountryID", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#ac7c5b8a98430d0bcce072a1e7f4ac233", null ],
     [ "CountryState", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html#a27807958e9bfb2e621936d7314e5d1ab", null ],

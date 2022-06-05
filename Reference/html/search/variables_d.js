@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tenants_20300',['Tenants',['../de/dd1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_module.html#a72bf2be42d31c385490808a8d0d94e7c',1,'FenixAlliance::ABS::Studio::Core::Navigation::Tenants::ContextualModule']]]
+  ['quotestate_22292',['Quotestate',['../d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog.html#ad334686d0e5aaa63af10ad4c6726051d',1,'FenixAlliance::ABP::BotEngine::Core::Dialogs::QuotesDialog']]]
 ];

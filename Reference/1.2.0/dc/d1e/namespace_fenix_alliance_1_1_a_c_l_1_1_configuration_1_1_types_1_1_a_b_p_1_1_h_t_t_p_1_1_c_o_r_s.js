@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s =
+[
+    [ "CorsOptions", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options.html", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options" ],
+    [ "CorsPolicy", "d1/d7a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_policy.html", "d1/d7a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_policy" ]
+];

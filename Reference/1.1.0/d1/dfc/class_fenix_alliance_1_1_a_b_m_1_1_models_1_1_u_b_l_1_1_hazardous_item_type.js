@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type =
+[
+    [ "AdditionalInformation", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a4054792751e908ab83b404b9051d1f78", null ],
+    [ "AdditionalTemperature", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#ae8031866e35a0435cdf30100138d9b76", null ],
+    [ "CategoryName", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a7d8d3372c77e03aaba53da02e17e732d", null ],
+    [ "ContactParty", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#af3911b964eca277e899a752c3391189b", null ],
+    [ "EmergencyProceduresCode", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#abd0ea45cffd0cf6809b4648c46968588", null ],
+    [ "EmergencyTemperature", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a04c657ef77767cf9aa50462d68c52110", null ],
+    [ "FlashpointTemperature", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a166025a928e755cab6adb0195ec34b2c", null ],
+    [ "HazardClassID", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a8e7887ba7ecb7c8be0f477a1a9666408", null ],
+    [ "HazardousCategoryCode", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a0a2e6f7f602bdcc691acb3b13703eadb", null ],
+    [ "HazardousGoodsTransit", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a28aa043b40966cd620c14ff8abcc7dea", null ],
+    [ "ID", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a632cb65e2e60ba25fb1b687fcde2ed4c", null ],
+    [ "LowerOrangeHazardPlacardID", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#ae0f65c2446d8402a26add9be6aa6adee", null ],
+    [ "MarkingID", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a2e589dd99b89629198bddbf35628010e", null ],
+    [ "MedicalFirstAidGuideCode", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#ae84d7f65ddd09a5dd18ec903203a1529", null ],
+    [ "NetVolumeMeasure", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a32c4bdfc0617219d9433552eee4ca6bf", null ],
+    [ "NetWeightMeasure", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a443bc0a9f796f0fff027640a8be8b2e7", null ],
+    [ "PlacardEndorsement", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a5ad6cd6c3e052244e0289084ca7dee1d", null ],
+    [ "PlacardNotation", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#ac94c4350ccc2b5d63437fdd464a0f03a", null ],
+    [ "Quantity", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#aebbbb4826758bca87392e96a5caceb68", null ],
+    [ "SecondaryHazard", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a5835b073d1d5df4a1bb125080bb4cb01", null ],
+    [ "TechnicalName", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a2de38b3af53bd595a325159a8d417cfe", null ],
+    [ "UNDGCode", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a8d4c4f43f9a92ee92ee4cf4f1c7e4613", null ],
+    [ "UpperOrangeHazardPlacardID", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a3569e6c5a0ea96a06ea7f8452cd3250a", null ]
+];

@@ -4,18 +4,11 @@ var annotated_dup =
       [ "ABM", "d3/dc7/namespace_fenix_alliance_1_1_a_b_m.html", [
         [ "Data", "da/d17/namespace_fenix_alliance_1_1_a_b_m_1_1_data.html", [
           [ "Access", "d9/d15/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access.html", [
-            [ "Clients", "d6/d89/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients.html", [
-              [ "BlobStorageDataAccessClient", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client.html", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client" ],
-              [ "ContextDataAccessClient", "db/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_context_data_access_client.html", "db/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_context_data_access_client" ],
-              [ "HolderDataAccessClient", "d6/d20/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_holder_data_access_client.html", "d6/d20/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_holder_data_access_client" ],
-              [ "SocialDataAccessClient", "db/db4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_social_data_access_client.html", "db/db4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_social_data_access_client" ],
-              [ "StockDataAccessClient", "dc/dfc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_stock_data_access_client.html", "dc/dfc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_stock_data_access_client" ],
-              [ "StorageDataAccessClient", "d7/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_storage_data_access_client.html", "d7/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_storage_data_access_client" ],
-              [ "TenantDataAccessClient", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_tenant_data_access_client.html", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_tenant_data_access_client" ]
-            ] ],
             [ "CQRS", "d6/d27/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s.html", [
               [ "Handlers", "d1/d50/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers.html", [
-                [ "GetAccountHolderHander", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_get_account_holder_hander.html", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_get_account_holder_hander" ]
+                [ "Holders", "d1/d5b/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_holders.html", [
+                  [ "GetAccountHolderHander", "d0/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_holders_1_1_get_account_holder_hander.html", "d0/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_holders_1_1_get_account_holder_hander" ]
+                ] ]
               ] ],
               [ "MediatREntryPoint", "db/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_mediat_r_entry_point.html", null ]
             ] ],
@@ -25,60 +18,165 @@ var annotated_dup =
               [ "AccountUsersHelpers", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers.html", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers" ],
               [ "ApiAuthorizationHelpers", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers.html", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers" ],
               [ "DnsHelperService", "de/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_dns_helper_service.html", "de/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_dns_helper_service" ],
-              [ "EmailHelpers", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers.html", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers" ],
               [ "HolderHelpers", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_holder_helpers.html", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_holder_helpers" ],
               [ "IAccountOAuthHelpers", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers.html", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers" ],
               [ "IApiAuthorizationHelpers", "df/de7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers.html", "df/de7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers" ],
               [ "MongoHelpers", "d6/d47/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_mongo_helpers.html", "d6/d47/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_mongo_helpers" ],
               [ "SocialHelpers", "d8/d98/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_social_helpers.html", "d8/d98/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_social_helpers" ],
-              [ "StoreHelpers", "df/d8c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_store_helpers.html", "df/d8c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_store_helpers" ],
               [ "TenantHelpers", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers.html", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_tenant_helpers" ]
             ] ],
-            [ "Repos", "db/de7/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_repos.html", [
-              [ "StockDataRepo", "d8/d96/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_repos_1_1_stock_data_repo.html", "d8/d96/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_repos_1_1_stock_data_repo" ]
+            [ "Seeding", "d2/df3/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_seeding.html", [
+              [ "SeedingHelpers", "d4/de0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_seeding_1_1_seeding_helpers.html", "d4/de0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_seeding_1_1_seeding_helpers" ]
             ] ],
             [ "Services", "d0/d00/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services.html", [
               [ "Auth", "d8/d81/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth.html", [
                 [ "AADB2C", "d6/dc7/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c.html", [
-                  [ "AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service" ]
+                  [ "AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service" ],
+                  [ "AADGraphService", "d1/d76/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_graph_service.html", "d1/d76/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_graph_service" ]
                 ] ],
                 [ "AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service" ]
               ] ],
-              [ "AADGraphService", "da/d32/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_a_a_d_graph_service.html", "da/d32/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_a_a_d_graph_service" ],
+              [ "Storage", "d5/d7e/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage.html", [
+                [ "AzureStorageService", "d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html", "d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service" ],
+                [ "StorageService", "de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html", "de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service" ]
+              ] ],
+              [ "Templating", "dd/d7a/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating.html", [
+                [ "Blazor", "dd/d6b/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor.html", [
+                  [ "Handlers", "d0/d56/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_handlers.html", [
+                    [ "HandleCriticalUserComponentExceptionsLogger", "d6/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha8a1095ca56fe0529820723949e0e2af9.html", "d6/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha8a1095ca56fe0529820723949e0e2af9" ],
+                    [ "HandleCriticalUserComponentExceptionsLoggerProvider", "da/d3f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha0e282a94f5ec1c2b73da20b8695ffa09.html", "da/d3f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha0e282a94f5ec1c2b73da20b8695ffa09" ]
+                  ] ],
+                  [ "Interfaces", "d7/d4a/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_interfaces.html", [
+                    [ "IRazorCompilationService", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c" ],
+                    [ "ISnippetsService", "df/d65/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763.html", "df/d65/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763" ]
+                  ] ],
+                  [ "Models", "d0/dcf/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models.html", [
+                    [ "ActivityToggleEventArgs", "d9/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moe18078581c36f8e5f65ef906d44776e3.html", "d9/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moe18078581c36f8e5f65ef906d44776e3" ],
+                    [ "CompilationDiagnostic", "df/d90/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_compilation_diagnostic.html", "df/d90/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_compilation_diagnostic" ],
+                    [ "CompileToAssemblyResult", "d6/d8a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_mo3b2f27521dc362f78d5f3bebb166a5cd.html", "d6/d8a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_mo3b2f27521dc362f78d5f3bebb166a5cd" ],
+                    [ "CompileToCSharpResult", "d8/dd7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moeba91c3a706b01342e76baa12feec938.html", "d8/dd7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moeba91c3a706b01342e76baa12feec938" ],
+                    [ "CreateSnippetRequest", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_create_snippet_request.html", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_create_snippet_request" ],
+                    [ "PageNotification", "d3/d7d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_page_notification.html", "d3/d7d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_page_notification" ],
+                    [ "SnippetResponse", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response.html", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response" ],
+                    [ "SnippetsOptions", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippets_options.html", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippets_options" ],
+                    [ "StaticAsset", "dd/d5c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_asset.html", "dd/d5c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_asset" ],
+                    [ "StaticAssets", "de/d33/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_assets.html", "de/d33/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_assets" ]
+                  ] ],
+                  [ "Packages", "db/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages.html", [
+                    [ "NuGetPackageManagementService", "d3/d1e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa0c2e2d9eee8026efb1cb379cdb4e026c.html", "d3/d1e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa0c2e2d9eee8026efb1cb379cdb4e026c" ],
+                    [ "NuGetRemoteDependencyProvider", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac" ],
+                    [ "Package", "dd/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package.html", "dd/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package" ],
+                    [ "PackageLicenseInfo", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package_license_info.html", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package_license_info" ],
+                    [ "PackagesContentsResult", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d.html", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d" ],
+                    [ "PreparePackageInstallationResult", "d5/d89/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paafc20fd527588a36033c4de943472fd1.html", "d5/d89/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paafc20fd527588a36033c4de943472fd1" ]
+                  ] ],
+                  [ "Services", "de/d10/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services.html", [
+                    [ "RazorCompilationService", "d0/d1d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_se765d05eed37790bac05261327d70f0e5.html", "d0/d1d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_se765d05eed37790bac05261327d70f0e5" ],
+                    [ "SnippetsService", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service.html", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service" ]
+                  ] ]
+                ] ],
+                [ "Razor", "d5/d07/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor.html", [
+                  [ "Helpers", "d6/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers.html", [
+                    [ "IViewBufferScope", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2.html", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2" ],
+                    [ "ViewBufferValue", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value" ]
+                  ] ],
+                  [ "Templates", "d1/de0/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_templates.html", [
+                    [ "DynamicComponentBase", "df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html", "df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040" ]
+                  ] ],
+                  [ "Wrappers", "df/d00/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers.html", [
+                    [ "AnonymousTypeWrapper", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wraf9ceb9d29b4328033a927a2e37e1572e.html", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wraf9ceb9d29b4328033a927a2e37e1572e" ],
+                    [ "IViewComponent", "da/d34/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers_1_1_i_view_component.html", "da/d34/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers_1_1_i_view_component" ]
+                  ] ]
+                ] ]
+              ] ],
+              [ "AcademyService", "de/d84/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_academy_service.html", "de/d84/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_academy_service" ],
+              [ "AccountingService", "d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html", "d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service" ],
+              [ "BaseService", "d2/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_base_service.html", "d2/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_base_service" ],
+              [ "BitcoinService", "dd/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_bitcoin_service.html", null ],
+              [ "BlockchainsService", "dc/d48/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_blockchains_service.html", "dc/d48/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_blockchains_service" ],
+              [ "CacheService", "d7/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cache_service.html", "d7/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cache_service" ],
+              [ "CartsService", "d2/d03/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_carts_service.html", "d2/d03/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_carts_service" ],
+              [ "CertificatesService", "db/d72/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_certificates_service.html", "db/d72/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_certificates_service" ],
+              [ "ContactService", "d7/de3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_contact_service.html", "d7/de3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_contact_service" ],
+              [ "CmsDataService", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cms_data_service.html", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cms_data_service" ],
+              [ "CrmDataService", "d1/d16/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_crm_data_service.html", "d1/d16/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_crm_data_service" ],
+              [ "GlobalDataService", "da/df2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_global_data_service.html", "da/df2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_global_data_service" ],
+              [ "LmsDataService", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_lms_data_service.html", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_lms_data_service" ],
+              [ "LocalizationDataService", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_localization_data_service.html", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_localization_data_service" ],
+              [ "MarketplaceDataService", "dd/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_marketplace_data_service.html", "dd/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_marketplace_data_service" ],
+              [ "SecurityDataService", "db/dd1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_data_service.html", "db/dd1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_data_service" ],
+              [ "SocialDataService", "d8/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_data_service.html", "d8/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_data_service" ],
               [ "DbContextFactoryService", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service.html", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service" ],
+              [ "DataRecognizerService", "da/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_data_recognizer_service.html", "da/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_data_recognizer_service" ],
+              [ "DateTimeService", "dd/d1c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_date_time_service.html", "dd/d1c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_date_time_service" ],
+              [ "DealUnitsService", "d5/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_deal_units_service.html", "d5/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_deal_units_service" ],
               [ "DnsLookupService", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service.html", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service" ],
+              [ "EmailService", "d3/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_email_service.html", "d3/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_email_service" ],
+              [ "EthereumService", "db/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ethereum_service.html", "db/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ethereum_service" ],
               [ "FileSystemService", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service.html", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service" ],
+              [ "ForexService", "df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service.html", "df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service" ],
               [ "HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service" ],
+              [ "HttpClientService", "d3/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_http_client_service.html", "d3/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_http_client_service" ],
               [ "InstallerService", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service.html", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service" ],
+              [ "InternationalizationService", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_internationalization_service.html", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_internationalization_service" ],
+              [ "InvoicesService", "d1/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_invoices_service.html", "d1/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_invoices_service" ],
+              [ "IpLookupService", "d0/d06/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ip_lookup_service.html", "d0/d06/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ip_lookup_service" ],
+              [ "LearningService", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_learning_service.html", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_learning_service" ],
+              [ "LoggingService", "de/def/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_logging_service.html", "de/def/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_logging_service" ],
               [ "MenusService", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service.html", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service" ],
+              [ "ModulesService", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service" ],
               [ "MongoService", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service" ],
+              [ "NotificationsService", "dd/dba/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_notifications_service.html", "dd/dba/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_notifications_service" ],
+              [ "OptionsService", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_options_service.html", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_options_service" ],
+              [ "OrdersService", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_orders_service.html", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_orders_service" ],
+              [ "PaymentGatewayService", "dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service.html", "dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service" ],
+              [ "PaymentsService", "d8/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payments_service.html", "d8/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payments_service" ],
+              [ "PortalClientService", "d9/de9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_client_service.html", "d9/de9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_client_service" ],
               [ "PortalService", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service.html", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service" ],
+              [ "PricingService", "d7/df0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_pricing_service.html", "d7/df0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_pricing_service" ],
+              [ "QuotesService", "d4/dfb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_quotes_service.html", "d4/dfb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_quotes_service" ],
               [ "RequestService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service" ],
+              [ "AssembliesService", "d9/dbe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_assemblies_service.html", "d9/dbe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_assemblies_service" ],
+              [ "GarbageCollectionService", "d2/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_garbage_collection_service.html", "d2/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_garbage_collection_service" ],
+              [ "MemoryMetricsService", "de/dae/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_memory_metrics_service.html", "de/dae/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_memory_metrics_service" ],
+              [ "RuntimeInformationService", "de/d62/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_runtime_information_service.html", "de/d62/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_runtime_information_service" ],
+              [ "SalesService", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_sales_service.html", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_sales_service" ],
               [ "SecurityService", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service.html", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service" ],
+              [ "ServicesService", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_services_service.html", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_services_service" ],
               [ "ShellService", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_shell_service.html", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_shell_service" ],
               [ "SmtpService", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service.html", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service" ],
               [ "SocialService", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_service.html", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_service" ],
               [ "SpaService", "d6/d2f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_spa_service.html", "d6/d2f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_spa_service" ],
+              [ "StockItemsService", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service" ],
               [ "StockService", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_service.html", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_service" ],
-              [ "StorageService", "d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html", "d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service" ],
               [ "StoreService", "d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service.html", "d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service" ],
+              [ "SubscriptionsService", "dd/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_subscriptions_service.html", "dd/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_subscriptions_service" ],
+              [ "CodeCompilationService", "d2/dd8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_compilation_service.html", "d2/dd8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_compilation_service" ],
+              [ "CodeGenerationService", "d1/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_generation_service.html", "d1/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_generation_service" ],
+              [ "CodeInstantiationService", "d3/d69/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_instantiation_service.html", "d3/d69/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_instantiation_service" ],
+              [ "CodeValidationService", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service" ],
+              [ "LiquidRenderingService", "d2/d9f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_liquid_rendering_service.html", "d2/d9f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_liquid_rendering_service" ],
+              [ "ViewComposerService", "d9/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_composer_service.html", "d9/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_composer_service" ],
+              [ "ViewRenderingService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service" ],
               [ "TenantService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service" ],
               [ "ThemingService", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service.html", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_theming_service" ],
-              [ "WalletService", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service.html", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service" ]
+              [ "WalletService", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service.html", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service" ],
+              [ "WebUIService", "d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_web_u_i_service.html", "d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_web_u_i_service" ]
+            ] ],
+            [ "Wrappers", "dd/da7/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_wrappers.html", [
+              [ "EmailServiceWrapper", "db/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_wrappers_1_1_email_service_wrapper.html", "db/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_wrappers_1_1_email_service_wrapper" ]
             ] ]
           ] ],
           [ "Clients", "d6/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients.html", [
-            [ "CurrencyExchange", "d0/dc5/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange.html", [
-              [ "ForexService", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service.html", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service" ]
-            ] ],
-            [ "OpenCurrencyExchange", "d5/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange.html", [
-              [ "OpenExchangeRatesClient", "dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange_1_1_open_exchange_rates_client.html", "dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange_1_1_open_exchange_rates_client" ]
-            ] ],
             [ "RestCountries", "d2/d75/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries.html", [
               [ "RestCountriesClient", "d5/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries_1_1_rest_countries_client.html", "d5/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_rest_countries_1_1_rest_countries_client" ]
             ] ]
           ] ],
           [ "Interfaces", "d2/d4f/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces.html", [
+            [ "Abstractions", "d8/d05/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions.html", [
+              [ "IModule", "d3/dc7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_module.html", null ],
+              [ "IPaymentGateway", "db/dd4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_payment_gateway.html", "db/dd4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_payment_gateway" ]
+            ] ],
             [ "Access", "df/d81/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access.html", [
               [ "IBusinessDataAccess", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access.html", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access" ],
               [ "IContactDataAccess", "d1/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_contact_data_access.html", null ],
@@ -94,6 +192,9 @@ var annotated_dup =
               [ "IStoreDataAccess", "d7/d23/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_store_data_access.html", "d7/d23/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_store_data_access" ],
               [ "IWalletDataAccess", "d4/dfe/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_wallet_data_access.html", "d4/dfe/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_wallet_data_access" ]
             ] ],
+            [ "Contexts", "df/da8/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts.html", [
+              [ "IPortalContext", "d5/d27/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts_1_1_i_portal_context.html", "d5/d27/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts_1_1_i_portal_context" ]
+            ] ],
             [ "Helpers", "d8/d0a/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers.html", [
               [ "IAADB2CGraphHelpers", "d2/dd5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_a_a_d_b2_c_graph_helpers.html", "d2/dd5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_a_a_d_b2_c_graph_helpers" ],
               [ "IAccountUsersHelpers", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers.html", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers" ],
@@ -104,64 +205,113 @@ var annotated_dup =
             ] ],
             [ "Services", "da/dbd/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services.html", [
               [ "IAADGraphService", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service.html", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service" ],
+              [ "IAcademyService", "de/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_academy_service.html", "de/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_academy_service" ],
               [ "IAccountingService", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service" ],
               [ "IAnalyticsService", "df/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_analytics_service.html", null ],
+              [ "IAntivirusService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_antivirus_service.html", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_antivirus_service" ],
+              [ "IAssembliesService", "d1/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assemblies_service.html", "d1/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assemblies_service" ],
               [ "IAssetsService", "dc/d49/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assets_service.html", null ],
               [ "IAuthService", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service.html", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service" ],
               [ "IBimService", "d1/de5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bim_service.html", null ],
+              [ "IBitcoinService", "da/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bitcoin_service.html", null ],
+              [ "IBlockchainsService", "d8/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_blockchains_service.html", "d8/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_blockchains_service" ],
               [ "IBotService", "de/df1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bot_service.html", null ],
+              [ "ICacheService", "d7/d29/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cache_service.html", "d7/d29/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cache_service" ],
+              [ "ICartsService", "df/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_carts_service.html", "df/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_carts_service" ],
+              [ "ICertificatesService", "dc/de8/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_certificates_service.html", "dc/de8/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_certificates_service" ],
               [ "IChainService", "d2/de6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_chain_service.html", null ],
+              [ "ICheckoutService", "d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service.html", "d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service" ],
               [ "ICloudService", "d3/d8e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cloud_service.html", null ],
+              [ "ICmsDataService", "d3/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_data_service.html", "d3/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_data_service" ],
               [ "ICmsService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_service.html", null ],
+              [ "ICodeInstantiationService", "d3/dff/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_instantiation_service.html", "d3/dff/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_instantiation_service" ],
+              [ "ICodeValidationService", "d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html", "d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service" ],
               [ "ICognitiveService", "d8/da9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cognitive_service.html", null ],
+              [ "IContactService", "dc/dfa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_contact_service.html", "dc/dfa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_contact_service" ],
               [ "IContainersService", "d3/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_containers_service.html", null ],
+              [ "ICrmDataService", "d5/dec/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_data_service.html", "d5/dec/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_data_service" ],
               [ "ICrmService", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service.html", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service" ],
+              [ "IDataRecognizerService", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service" ],
               [ "IDataRepoService", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service.html", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service" ],
+              [ "IDateTimeService", "d2/d8f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_date_time_service.html", "d2/d8f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_date_time_service" ],
               [ "IDbFactoryService", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service.html", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service" ],
+              [ "IDealUnitsService", "dc/db5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_deal_units_service.html", "dc/db5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_deal_units_service" ],
               [ "IDnsLookupService", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service.html", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service" ],
-              [ "IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", null ],
+              [ "IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service" ],
+              [ "IEntitlementsService", "d3/d50/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_entitlements_service.html", null ],
               [ "IErpService", "d5/d4b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_erp_service.html", null ],
+              [ "IEthereumService", "d5/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ethereum_service.html", "d5/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ethereum_service" ],
               [ "IFileSystemService", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service.html", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service" ],
               [ "IForexService", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service" ],
+              [ "IGarbageCollectionService", "db/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_garbage_collection_service.html", "db/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_garbage_collection_service" ],
+              [ "IGlobalDataService", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_global_data_service.html", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_global_data_service" ],
               [ "IHealthcareService", "d8/dde/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_healthcare_service.html", null ],
               [ "IHolderService", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service" ],
+              [ "IHttpClientService", "de/d2b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_http_client_service.html", null ],
               [ "IInstallerService", "d3/dd3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_installer_service.html", "d3/dd3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_installer_service" ],
               [ "IInternationalizationService", "d0/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_internationalization_service.html", "d0/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_internationalization_service" ],
-              [ "Localizer", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer.html", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer" ],
-              [ "InternationalizationService", "df/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_internationalization_service.html", "df/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_internationalization_service" ],
+              [ "IInvoicesService", "d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service.html", "d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service" ],
+              [ "IIpLookupService", "d6/d00/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ip_lookup_service.html", "d6/d00/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ip_lookup_service" ],
+              [ "ILearningService", "d7/dbf/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_learning_service.html", "d7/dbf/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_learning_service" ],
+              [ "ILiquidRenderingService", "da/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_liquid_rendering_service.html", "da/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_liquid_rendering_service" ],
+              [ "ILmsDataService", "dd/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_data_service.html", "dd/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_data_service" ],
               [ "ILmsService", "d2/d1e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_service.html", null ],
+              [ "Localizer", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer.html", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer" ],
+              [ "ILocalizationDataService", "dc/dba/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_localization_data_service.html", "dc/dba/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_localization_data_service" ],
+              [ "ILoggingService", "df/d97/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logging_service.html", "df/d97/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logging_service" ],
               [ "ILogisticsService", "db/d88/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logistics_service.html", null ],
               [ "IManufacturingService", "dc/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_manufacturing_service.html", null ],
               [ "IMarketingService", "d6/da1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketing_service.html", null ],
+              [ "IMarketplaceDataService", "d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service.html", "d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service" ],
               [ "IMediaService", "d8/dac/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_media_service.html", null ],
+              [ "IMemoryMetricsService", "dc/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_memory_metrics_service.html", "dc/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_memory_metrics_service" ],
               [ "IMenusService", "df/d39/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_menus_service.html", "df/d39/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_menus_service" ],
+              [ "IModulesService", "dc/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_modules_service.html", "dc/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_modules_service" ],
               [ "IMongoService", "df/d7c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_mongo_service.html", "df/d7c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_mongo_service" ],
+              [ "INotificationsService", "da/df6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_notifications_service.html", "da/df6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_notifications_service" ],
+              [ "IOptionsService", "d9/d3c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_options_service.html", "d9/d3c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_options_service" ],
+              [ "IOrdersService", "d1/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_orders_service.html", "d1/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_orders_service" ],
+              [ "IPaymentGatewayService", "d7/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payment_gateway_service.html", "d7/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payment_gateway_service" ],
+              [ "IPaymentsService", "d6/d15/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payments_service.html", "d6/d15/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payments_service" ],
               [ "IPortalService", "db/d5f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_portal_service.html", "db/d5f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_portal_service" ],
-              [ "IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", null ],
+              [ "IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service" ],
               [ "IProcurementService", "df/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_procurement_service.html", null ],
               [ "IProjectService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_project_service.html", null ],
               [ "IQualityService", "dc/d9b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quality_service.html", null ],
+              [ "IQuotesService", "de/de4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quotes_service.html", "de/de4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quotes_service" ],
+              [ "IRefundPoliciesService", "d8/d0f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_refund_policies_service.html", "d8/d0f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_refund_policies_service" ],
               [ "IRequestService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service.html", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service" ],
+              [ "IRestService", "df/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_rest_service.html", null ],
+              [ "IReturnPoliciesService", "d4/d6c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_return_policies_service.html", "d4/d6c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_return_policies_service" ],
+              [ "IRuntimeInformationService", "d0/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_runtime_information_service.html", "d0/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_runtime_information_service" ],
               [ "ISalesService", "da/d38/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sales_service.html", null ],
               [ "ISearchService", "da/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_search_service.html", null ],
+              [ "ISecurityDataService", "d0/dbc/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_data_service.html", "d0/dbc/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_data_service" ],
               [ "ISecurityService", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service.html", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service" ],
               [ "ISeedingService", "d6/d52/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_seeding_service.html", null ],
-              [ "IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", null ],
+              [ "IService", "d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html", "d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service" ],
+              [ "IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service" ],
               [ "IShellService", "d3/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shell_service.html", "d3/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shell_service" ],
+              [ "IShippingService", "d6/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shipping_service.html", "d6/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shipping_service" ],
               [ "ISignatorService", "db/d93/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_signator_service.html", null ],
               [ "ISmtpService", "dc/db2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_smtp_service.html", "dc/db2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_smtp_service" ],
+              [ "ISocialDataService", "d0/da6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_data_service.html", "d0/da6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_data_service" ],
               [ "ISocialService", "de/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_service.html", "de/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_service" ],
               [ "ISpaService", "dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service.html", "dd/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_spa_service" ],
+              [ "IStockItemsService", "d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html", "d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service" ],
               [ "IStockService", "d2/d5d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_service.html", "d2/d5d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_service" ],
               [ "IStorageService", "db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html", "db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service" ],
               [ "IStoreService", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service" ],
-              [ "ISubscriptionService", "d3/de0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscription_service.html", null ],
+              [ "ISubscriptionsService", "de/daa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscriptions_service.html", "de/daa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscriptions_service" ],
               [ "ISupportService", "da/dc2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_support_service.html", null ],
               [ "ISustainabilityService", "d4/de9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sustainability_service.html", null ],
               [ "ITenantService", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service.html", "dc/d9c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_tenant_service" ],
               [ "IThemingService", "da/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_theming_service.html", "da/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_theming_service" ],
               [ "IUpdateService", "de/d6b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_update_service.html", null ],
+              [ "IViewComposerService", "d9/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_view_composer_service.html", "d9/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_view_composer_service" ],
               [ "IWalletService", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service" ],
+              [ "IWarrantyPoliciesService", "dd/d71/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_warranty_policies_service.html", "dd/d71/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_warranty_policies_service" ],
+              [ "IWebUIService", "dd/d4a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_web_u_i_service.html", "dd/d4a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_web_u_i_service" ],
               [ "IWorkflowsService", "d3/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workflows_service.html", null ],
               [ "IWorkforceService", "d5/d5a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workforce_service.html", null ],
               [ "ITalentService", "dd/df4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_talent_service.html", null ]
@@ -169,6 +319,9 @@ var annotated_dup =
             [ "Storage", "d1/d06/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage.html", [
               [ "IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client" ],
               [ "IStorageDataAccess", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access.html", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access" ]
+            ] ],
+            [ "Wrappers", "da/ddc/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers.html", [
+              [ "IEmailServiceWrapper", "df/da4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers_1_1_i_email_service_wrapper.html", "df/da4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers_1_1_i_email_service_wrapper" ]
             ] ]
           ] ],
           [ "Manager", "d0/d38/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_manager.html", [
@@ -176,87 +329,47 @@ var annotated_dup =
           ] ],
           [ "MSSQL", "de/d84/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l.html", [
             [ "Migrations", "d7/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations.html", [
-              [ "Initial", "d0/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial.html", "d0/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial" ],
-              [ "ForeignExchangeSet", "d7/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_foreign_exchange_set.html", "d7/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_foreign_exchange_set" ],
-              [ "AddMultiplePortalDomains", "d6/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains.html", "d6/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains" ],
-              [ "UseSigningKeysOnAppSecrets", "dd/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets.html", "dd/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets" ],
-              [ "ImproveBusinessOwnershipAndHierarchy", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy.html", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy" ],
-              [ "AddsSocialGroupOwnership", "d3/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_social_group_ownership.html", "d3/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_social_group_ownership" ],
-              [ "ImproveRecordsOwnership", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_records_ownership.html", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_records_ownership" ],
-              [ "AddSalesLeads", "dd/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_sales_leads.html", "dd/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_sales_leads" ],
-              [ "SeedActivityTypes", "d4/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_seed_activity_types.html", "d4/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_seed_activity_types" ],
-              [ "AddSupportRequests", "da/d68/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_requests.html", "da/d68/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_requests" ],
-              [ "AddSupportEntitlements", "d8/d0b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_entitlements.html", "d8/d0b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_entitlements" ],
-              [ "InitialPayrollAndLeaveEntities", "d0/d60/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities.html", "d0/d60/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities" ],
-              [ "AddServiceLevelAgreementEntitlement", "df/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement.html", "df/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement" ],
-              [ "RemoveSupplierScoreCard", "da/d5a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_remove_supplier_score_card.html", "da/d5a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_remove_supplier_score_card" ],
-              [ "AddsInitialInvoiceAndAccountRelations", "d9/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations.html", "d9/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations" ],
-              [ "SimplifyPaymentTermTemplates", "d3/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates.html", "d3/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates" ],
-              [ "AddsInvoiceAdjustmentsInitial", "d6/d2d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial.html", "d6/d2d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial" ],
-              [ "AddAmmountsToInvoiceAdjustments", "d2/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments.html", "d2/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments" ],
-              [ "ImproveInvoiceRecordsOwnership", "d9/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership.html", "d9/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership" ],
-              [ "ImprovedAccountingRecordOwnership", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership" ],
-              [ "ImprovedAuthorityOwnershipOverInvoicingEnumerationRange", "d6/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_owned5ccd59323532850b74415a71ff7d9d7.html", "d6/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_owned5ccd59323532850b74415a71ff7d9d7" ],
-              [ "ImprovedBprOwnershipOverInvoicingEnumerationRangeRecords", "d0/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_c753b059fd6d2491efbc98d7acf1185e.html", "d0/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_c753b059fd6d2491efbc98d7acf1185e" ],
-              [ "ImprovedAuthorityOwnershipOverFiscalRegimes", "df/dfa/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes.html", "df/dfa/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes" ],
-              [ "AllowFractionalOrderQuantities", "d0/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities.html", "d0/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities" ],
-              [ "ImprovedStockItemsIdentification", "df/d7c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_stock_items_identification.html", "df/d7c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_stock_items_identification" ],
-              [ "AddStockItemsPriceAggregations", "d6/d41/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations.html", "d6/d41/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations" ],
-              [ "AddsCodeTypeAndCompilationPath", "df/d95/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path.html", "df/d95/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path" ],
-              [ "AddsBlogPostComments", "d6/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_blog_post_comments.html", "d6/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_blog_post_comments" ],
-              [ "AddsLicenseHolder", "de/ddf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_license_holder.html", "de/ddf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_license_holder" ],
-              [ "AddsNonExecutableContent", "d2/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_non_executable_content.html", "d2/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_non_executable_content" ],
+              [ "V_1_5_6", "de/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__6.html", "de/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__6" ],
+              [ "V_1_5_8", "d4/d54/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__8.html", "d4/d54/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__8" ],
+              [ "V_1_6_1", "d7/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__1.html", "d7/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__1" ],
+              [ "V_1_6_2", "d9/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__2.html", "d9/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__2" ],
+              [ "V_1_6_3", "d3/d00/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__3.html", "d3/d00/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__3" ],
+              [ "V_1_6_4", "da/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__4.html", "da/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__4" ],
+              [ "V_1_6_5", "dc/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5.html", "dc/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5" ],
+              [ "V_1_6_5_1", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5__1" ],
               [ "DataContextModelSnapshot", "d8/df9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", "d8/df9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_data_context_model_snapshot" ]
             ] ]
           ] ],
           [ "MySQL", "de/d50/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l.html", [
             [ "Migrations", "d6/db8/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations.html", [
-              [ "Initial", "d2/da1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial.html", "d2/da1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial" ],
-              [ "ForeignExchangeSet", "d6/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_foreign_exchange_set.html", "d6/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_foreign_exchange_set" ],
-              [ "AddMultiplePortalDomains", "d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains.html", "d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains" ],
-              [ "UseSigningKeysOnAppSecrets", "dd/de2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets.html", "dd/de2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets" ],
-              [ "FixRepeatedPermissions", "df/dac/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_repeated_permissions.html", "df/dac/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_repeated_permissions" ],
-              [ "ImproveBusinessOwnershipAndHierarchy", "d7/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy.html", "d7/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy" ],
-              [ "AddsSocialGroupOwnership", "d2/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_social_group_ownership.html", "d2/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_social_group_ownership" ],
-              [ "AddBusinessOwnershipToPermissions", "d5/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_business_ownership_to_permissions.html", "d5/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_business_ownership_to_permissions" ],
-              [ "AddActivityTypes", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_activity_types.html", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_activity_types" ],
-              [ "ImproveAssetOwnership", "d3/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_asset_ownership.html", "d3/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_asset_ownership" ],
-              [ "ImproveInquiryRequestOwnership", "d9/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_inquiry_request_ownership.html", "d9/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_inquiry_request_ownership" ],
-              [ "ImproveSupportTicketOwnership", "de/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_support_ticket_ownership.html", "de/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_support_ticket_ownership" ],
-              [ "ImproveOrderOwnership", "da/dcf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_order_ownership.html", "da/dcf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_order_ownership" ],
-              [ "AddSalesLeads", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_sales_leads.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_sales_leads" ],
-              [ "SeedActivityTypes", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_seed_activity_types.html", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_seed_activity_types" ],
-              [ "AddSupportRequests", "d5/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_requests.html", "d5/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_requests" ],
-              [ "AddSupportEntitlements", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_entitlements.html", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_entitlements" ],
-              [ "InitialPayrollAndLeaveEntities", "db/d83/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities.html", "db/d83/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities" ],
-              [ "AddServiceLevelAgreementEntitlement", "d9/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement.html", "d9/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement" ],
-              [ "RemoveSupplierScoreCard", "d9/d2b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_remove_supplier_score_card.html", "d9/d2b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_remove_supplier_score_card" ],
-              [ "AddsInitialInvoiceAndAccountRelations", "d1/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations.html", "d1/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations" ],
-              [ "SimplifyPaymentTermTemplates", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates.html", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates" ],
-              [ "AddsInvoiceAdjustmentsInitial", "d3/dad/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial.html", "d3/dad/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial" ],
-              [ "AddAmmountsToInvoiceAdjustments", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments.html", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments" ],
-              [ "ImproveInvoiceRecordsOwnership", "d1/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership.html", "d1/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership" ],
-              [ "AddInvoiceNumber", "dc/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_invoice_number.html", "dc/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_invoice_number" ],
-              [ "ImprovedAccountingRecordOwnership", "d4/d71/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership.html", "d4/d71/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership" ],
-              [ "ImprovedAuthorityOwnershipOverInvoicingEnumerationRange", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_owner1a8a3a95f6135e8b16798d38f862f405.html", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_owner1a8a3a95f6135e8b16798d38f862f405" ],
-              [ "ImprovedBprOwnershipOverInvoicingEnumerationRangeRecords", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_o4766cedc90014efeee6316523bfe73ea.html", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_o4766cedc90014efeee6316523bfe73ea" ],
-              [ "ImprovedAuthorityOwnershipOverFiscalRegimes", "db/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes.html", "db/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes" ],
-              [ "AllowFractionalOrderQuantities", "d8/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities.html", "d8/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities" ],
-              [ "ImprovedStockItemsIdentification", "de/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_stock_items_identification.html", "de/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_stock_items_identification" ],
-              [ "AddStockItemsPriceAggregations", "d7/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations.html", "d7/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations" ],
-              [ "FixRequiredSkus", "d7/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_required_skus.html", "d7/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_required_skus" ],
-              [ "AddsCodeTypeAndCompilationPath", "d5/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path.html", "d5/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path" ],
-              [ "AddsStockItemSupplierCode", "df/dc8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_stock_item_supplier_code.html", "df/dc8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_stock_item_supplier_code" ],
-              [ "AddsBlogPostComments", "d5/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_blog_post_comments.html", "d5/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_blog_post_comments" ],
-              [ "AddsLicenseHolder", "d6/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_license_holder.html", "d6/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_license_holder" ],
-              [ "AddsNonExecutableContent", "d0/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_non_executable_content.html", "d0/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_non_executable_content" ],
+              [ "V_1_5_0", "de/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__0.html", "de/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__0" ],
+              [ "V_1_5_6", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__6.html", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__6" ],
+              [ "V_1_5_8", "db/d6e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__8.html", "db/d6e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__8" ],
+              [ "V_1_6_1", "d1/d0a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__1.html", "d1/d0a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__1" ],
+              [ "V_1_6_2", "d9/da2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__2.html", "d9/da2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__2" ],
+              [ "V_1_6_3", "dd/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__3.html", "dd/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__3" ],
+              [ "V_1_6_4", "d8/d55/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__4.html", "d8/d55/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__4" ],
+              [ "V_1_6_5", "d1/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5.html", "d1/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5" ],
+              [ "V_1_6_5_1", "d3/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", "d3/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5__1" ],
               [ "DataContextModelSnapshot", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_data_context_model_snapshot" ]
+            ] ]
+          ] ],
+          [ "ODPSQL", "d3/dd9/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l.html", [
+            [ "Migrations", "d1/d6f/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations.html", [
+              [ "V_1_5_6", "de/df8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__6.html", "de/df8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__6" ],
+              [ "V_1_5_8", "de/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__8.html", "de/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__8" ],
+              [ "V_1_6_1", "dc/d26/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__1.html", "dc/d26/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__1" ],
+              [ "V_1_6_2", "d0/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__2.html", "d0/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__2" ],
+              [ "V_1_6_3", "da/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__3.html", "da/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__3" ],
+              [ "V_1_6_4", "d6/dea/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__4.html", "d6/dea/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__4" ],
+              [ "V_1_6_5", "dd/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5.html", "dd/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5" ],
+              [ "V_1_6_5_1", "d5/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", "d5/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5__1" ],
+              [ "DataContextModelSnapshot", "d5/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", "d5/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_data_context_model_snapshot" ]
             ] ]
           ] ],
           [ "Seeding", "dc/d86/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding.html", [
             [ "Helpers", "d6/de5/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers.html", [
-              [ "ISeedingHelpers", "d6/d03/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_i_seeding_helpers.html", "d6/d03/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_i_seeding_helpers" ],
-              [ "SeedingHelpers", "d3/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_seeding_helpers.html", "d3/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_seeding_helpers" ]
+              [ "ISeedingHelpers", "d6/d03/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_i_seeding_helpers.html", null ]
             ] ],
             [ "Models", "d2/d6c/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models.html", [
               [ "Accounts", "d5/df8/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_accounts.html", [
@@ -273,11 +386,6 @@ var annotated_dup =
               [ "Language", "de/d76/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_language.html", "de/d76/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_language" ],
               [ "RegionalBloc", "d2/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_regional_bloc.html", "d2/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_regional_bloc" ],
               [ "Translations", "d4/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_translations.html", "d4/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_translations" ]
-            ] ],
-            [ "Static", "d4/dcd/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_static.html", [
-              [ "Technologies", "de/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_static_1_1_technologies.html", [
-                [ "SeedTechnologies", "d5/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_static_1_1_technologies_1_1_seed_technologies.html", null ]
-              ] ]
             ] ],
             [ "DBSeeding", "d7/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_d_b_seeding.html", null ]
           ] ],
@@ -313,11 +421,28 @@ var annotated_dup =
               [ "Account", "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html", "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account" ]
             ] ],
             [ "Banking", "de/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking.html", [
+              [ "Bank", "d4/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank.html", "d4/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank" ],
               [ "BankAccount", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account.html", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account" ],
               [ "BankGuarantee", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee.html", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee" ],
               [ "BankTransaction", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_transaction.html", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_transaction" ]
             ] ],
             [ "Billing", "d6/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing.html", [
+              [ "Coupons", "d7/d5f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons.html", [
+                [ "BillingCoupon", "d9/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon.html", "d9/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon" ],
+                [ "BillingCouponCartRecord", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_cart_record.html", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_cart_record" ],
+                [ "BillingCouponOrderRecord", "d9/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_order_record.html", "d9/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_order_record" ]
+              ] ],
+              [ "Fees", "dc/d54/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees.html", [
+                [ "FeeScopes", "d9/dcd/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes.html", [
+                  [ "AppliedFees", "d9/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees.html", [
+                    [ "AppliedFee", "db/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees_1_1_applied_fee.html", "db/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees_1_1_applied_fee" ]
+                  ] ],
+                  [ "WithdrawFees", "d3/d5b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_withdraw_fees.html", [
+                    [ "WalletWithdrawFee", "d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855.html", "d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855" ]
+                  ] ]
+                ] ],
+                [ "Fee", "d2/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee.html", "d2/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee" ]
+              ] ],
               [ "Invoices", "da/dad/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices.html", [
                 [ "InvoiceAdjustments", "d6/d49/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_adjustments.html", [
                   [ "InvoiceAdjustment", "d0/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_adbf0389f06787481a96e3ec5ed1fedcc3.html", "d0/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_adbf0389f06787481a96e3ec5ed1fedcc3" ]
@@ -329,12 +454,7 @@ var annotated_dup =
                   [ "InvoicePeriod", "d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html", "d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period" ]
                 ] ],
                 [ "InvoiceRecords", "d5/dfe/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records.html", [
-                  [ "InvoiceRecordScopes", "d7/d72/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoicdd947bdc36e4ba3fc97535a3fa1796ae.html", [
-                    [ "ItemInvoiceRecord", "d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3.html", "d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3" ],
-                    [ "ServiceInvoiceRecord", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_red41a0820d5bd17a5f45dcc28178a363f.html", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_red41a0820d5bd17a5f45dcc28178a363f" ],
-                    [ "SubscriptionInvoiceRecord", "d4/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re54d54f6cd14e6cc88a2bc5c41d4a0f9d.html", "d4/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re54d54f6cd14e6cc88a2bc5c41d4a0f9d" ]
-                  ] ],
-                  [ "InvoiceRecord", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_record.html", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_record" ]
+                  [ "InvoiceItemRecord", "da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record.html", "da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record" ]
                 ] ],
                 [ "InvoiceReferences", "d0/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_references.html", [
                   [ "InvoiceReference", "d2/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_references_1_1_invoice_reference.html", "d2/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_references_1_1_invoice_reference" ]
@@ -353,20 +473,11 @@ var annotated_dup =
               ] ],
               [ "Orders", "df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html", [
                 [ "OrderRecords", "df/d18/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records.html", [
-                  [ "ItemOrders", "da/d60/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_item_orders.html", [
-                    [ "ItemOrderRecord", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d.html", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d" ]
-                  ] ],
-                  [ "ServiceOrders", "d1/d43/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_service_orders.html", [
-                    [ "ServiceOrderRecord", "d6/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record5b0f88897e15860f398bd19d012fcdbe.html", "d6/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record5b0f88897e15860f398bd19d012fcdbe" ]
-                  ] ],
-                  [ "SubscriptionOrders", "d3/dcb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_subscription_orders.html", [
-                    [ "SubscriptionOrderRecord", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0.html", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0" ]
-                  ] ],
-                  [ "OrderRecord", "de/de0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_record.html", "de/de0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_record" ]
+                  [ "OrderItemRecord", "d8/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_item_record.html", "d8/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_item_record" ]
                 ] ],
                 [ "OrderRecordTaxes", "db/d21/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record_taxes.html", [
                   [ "ItemOrders", "d9/da1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record_taxes_1_1_item_orders.html", [
-                    [ "OrderRecordAppliedTaxPolicy", "d6/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record7da52a946301cd5b634701c1070ede00.html", "d6/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record7da52a946301cd5b634701c1070ede00" ]
+                    [ "AppliedItemTaxRecord", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record498e329a9790da2c115f112c8b65f9a1.html", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record498e329a9790da2c115f112c8b65f9a1" ]
                   ] ]
                 ] ],
                 [ "OrderRelations", "df/d15/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_relations.html", [
@@ -385,25 +496,38 @@ var annotated_dup =
                 [ "PaymentDeductions", "d0/d53/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions.html", [
                   [ "PaymentDeduction", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction" ]
                 ] ],
+                [ "PaymentDisputes", "dd/df0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_disputes.html", [
+                  [ "PaymentDispute", "d4/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_disputes_1_1_payment_dispute.html", "d4/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_disputes_1_1_payment_dispute" ],
+                  [ "PaymentDisputeInquiry", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73" ]
+                ] ],
+                [ "PaymentFees", "dd/d1a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees.html", [
+                  [ "PaymentChargebackFee", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee.html", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee" ],
+                  [ "PaymentRefundFee", "d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee.html", "d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee" ],
+                  [ "PaymentTransactionFee", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee" ]
+                ] ],
                 [ "PaymentModes", "d5/de8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_modes.html", [
                   [ "PaymentMode", "d6/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_modes_1_1_payment_mode.html", "d6/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_modes_1_1_payment_mode" ]
                 ] ],
                 [ "PaymentOrders", "d8/dad/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_orders.html", [
                   [ "PaymentOrder", "dc/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_orders_1_1_payment_order.html", "dc/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_orders_1_1_payment_order" ]
                 ] ],
-                [ "PaymentReferences", "de/d07/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_references.html", [
-                  [ "PaymentReference", "db/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_references_1_1_payment_reference.html", "db/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_references_1_1_payment_reference" ]
+                [ "PaymentRefunds", "dc/d17/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_refunds.html", [
+                  [ "PaymentRefund", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_refunds_1_1_payment_refund.html", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_refunds_1_1_payment_refund" ]
                 ] ],
                 [ "PaymentRequests", "db/dc1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_requests.html", [
                   [ "PaymentRequest", "d8/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_requests_1_1_payment_request.html", "d8/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_requests_1_1_payment_request" ]
                 ] ],
-                [ "PaymentsEntries", "d6/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payments_entries.html", [
-                  [ "PaymentEntry", "db/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payments_entries_1_1_payment_entry.html", "db/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payments_entries_1_1_payment_entry" ]
+                [ "PaymentScopes", "d5/d2b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes.html", [
+                  [ "WalletPayment", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes_1_1_wallet_payment.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes_1_1_wallet_payment" ]
                 ] ],
                 [ "PaymentTerms", "d5/ddb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_terms.html", [
                   [ "PaymentTerm", "d3/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_terms_1_1_payment_term.html", "d3/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_terms_1_1_payment_term" ]
                 ] ],
-                [ "Payment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment" ]
+                [ "PaymentWithholdings", "de/dd0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_withholdings.html", [
+                  [ "AppliedTaxWithholdingRecord", "d1/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_wi47333c4c5587212bee774560a704c62c.html", "d1/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_wi47333c4c5587212bee774560a704c62c" ]
+                ] ],
+                [ "Payment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment" ],
+                [ "PaymentResponse", "d7/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_response.html", "d7/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_response" ]
               ] ],
               [ "Receipts", "d0/d23/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts.html", [
                 [ "ReceiptTypes", "d2/d57/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types.html", [
@@ -411,7 +535,9 @@ var annotated_dup =
                   [ "SalesReceipt", "d6/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_sales_receipt.html", null ]
                 ] ],
                 [ "Receipt", "d3/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt.html", "d3/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt" ]
-              ] ]
+              ] ],
+              [ "BillingItemRecord", "d4/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_item_record.html", "d4/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_item_record" ],
+              [ "BillingCouponItemRecord", "dd/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_coupon_item_record.html", "dd/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_coupon_item_record" ]
             ] ],
             [ "Budgets", "d5/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets.html", [
               [ "BudgetEntries", "dd/d24/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_entries.html", [
@@ -423,6 +549,12 @@ var annotated_dup =
                 [ "ProjectBudget", "d8/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_project_budget.html", "d8/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_project_budget" ]
               ] ],
               [ "Budget", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget.html", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget" ]
+            ] ],
+            [ "Commissions", "d3/def/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions.html", [
+              [ "CommissionScopes", "d1/d84/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes.html", [
+                [ "PaymentCommission", "d3/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission.html", "d3/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission" ]
+              ] ],
+              [ "Commission", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission" ]
             ] ],
             [ "CostCentres", "d7/d96/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres.html", [
               [ "CostCentre", "da/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres_1_1_cost_centre.html", "da/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres_1_1_cost_centre" ],
@@ -452,9 +584,17 @@ var annotated_dup =
               [ "Regimes", "d4/d05/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_regimes.html", [
                 [ "FiscalRegime", "df/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_regimes_1_1_fiscal_regime.html", "df/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_regimes_1_1_fiscal_regime" ]
               ] ],
-              [ "Responsabilities", "d5/de3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities.html", [
-                [ "FiscalResponsability", "d1/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability.html", "d1/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability" ],
-                [ "FiscalResponsabilityRecord", "d3/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability_record.html", "d3/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability_record" ]
+              [ "Responsibilities", "d4/da7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities.html", [
+                [ "FiscalResponsibility", "da/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility.html", "da/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility" ],
+                [ "FiscalResponsibilityRecord", "df/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility_record.html", "df/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility_record" ]
+              ] ],
+              [ "Taxes", "dd/d24/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes.html", [
+                [ "TaxPolicies", "dd/de5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies.html", [
+                  [ "AppliedFeeTaxRecords", "d6/d17/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_1_1_applied_fee_tax_records.html", [
+                    [ "AppliedFeeTaxRecord", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134.html", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134" ]
+                  ] ],
+                  [ "AppliedTaxPolicyRecord", "db/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_1_1_applied_tax_policy_record.html", "db/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_1_1_applied_tax_policy_record" ]
+                ] ]
               ] ]
             ] ],
             [ "FiscalYears", "db/da8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years.html", [
@@ -616,14 +756,24 @@ var annotated_dup =
             ] ],
             [ "Asset", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset.html", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset" ]
           ] ],
+          [ "Blockchains", "d7/daa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains.html", [
+            [ "Blocks", "df/dcb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blocks.html", [
+              [ "BlockchainBlock", "d6/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blocks_1_1_blockchain_block.html", "d6/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blocks_1_1_blockchain_block" ]
+            ] ],
+            [ "NFTs", "db/d36/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts.html", [
+              [ "NonFungibleToken", "da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html", "da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token" ],
+              [ "NonFungibleTokenOwnership", "d3/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token_ownership.html", "d3/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token_ownership" ]
+            ] ],
+            [ "Blockchain", "d0/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blockchain.html", "d0/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blockchain" ]
+          ] ],
           [ "Businesses", "d5/d8c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses.html", [
             [ "BusinessRelationships", "de/d4a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships.html", [
               [ "BusinessRelationship", "d2/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships_1_1_business_relationship.html", "d2/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships_1_1_business_relationship" ]
             ] ],
+            [ "BusinessSegments", "d5/d01/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments.html", [
+              [ "BusinessSize", "db/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments_1_1_business_size.html", "db/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments_1_1_business_size" ]
+            ] ],
             [ "BusinessStructure", "d0/d98/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure.html", [
-              [ "BusinessPositions", "d5/d06/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions.html", [
-                [ "BusinessPosition", "dc/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions_1_1_business_position.html", "dc/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions_1_1_business_position" ]
-              ] ],
               [ "BusinessTeams", "db/da3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams.html", [
                 [ "BusinessTeamRecords", "dd/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_businessd0a68553dd034ff8fb761a3d6487f57b.html", [
                   [ "Scopes", "d8/db0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business19ab50caafc5680b99e09a31062bdb64.html", [
@@ -632,6 +782,12 @@ var annotated_dup =
                   [ "BusinessTeamRecord", "da/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea6bbc1e926533c1cede871cded36ba75d.html", "da/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea6bbc1e926533c1cede871cded36ba75d" ]
                 ] ]
               ] ]
+            ] ]
+          ] ],
+          [ "Cognitive", "dc/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive.html", [
+            [ "CognitiveAgents", "da/dbb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents.html", [
+              [ "CognitiveAgent", "d6/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent.html", "d6/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent" ],
+              [ "CognitiveAgentConversation", "d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html", "d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation" ]
             ] ]
           ] ],
           [ "Contacts", "d1/db8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts.html", [
@@ -668,18 +824,18 @@ var annotated_dup =
               [ "Types", "d1/d24/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types.html", [
                 [ "BankProfile", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_bank_profile.html", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_bank_profile" ],
                 [ "BillingProfile", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile" ],
-                [ "BuyerPersonaProfile", "d4/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_buyer_persona_profile.html", null ],
+                [ "CustomerPersonaProfile", "d1/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_customer_persona_profile.html", null ],
                 [ "DoctorProfile", "d4/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_doctor_profile.html", null ],
                 [ "EmployeeProfile", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile" ],
                 [ "EmployerProfile", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employer_profile.html", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employer_profile" ],
                 [ "FieldAgentProfile", "d0/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_field_agent_profile.html", null ],
                 [ "InstructorProfile", "dd/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_instructor_profile.html", "dd/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_instructor_profile" ],
                 [ "JobApplicantProfile", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile" ],
-                [ "LeadProfile", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile.html", null ],
+                [ "LeadProfile", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile.html", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile" ],
                 [ "LicensingProfile", "d8/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_licensing_profile.html", "d8/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_licensing_profile" ],
-                [ "DonorProfile", "dd/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_donor_profile.html", null ],
+                [ "NonProfitDonorProfile", "d4/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_donor_profile.html", null ],
                 [ "NonProfitMemberProfile", "d9/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_member_profile.html", null ],
-                [ "VolunteerProfile", "d0/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_volunteer_profile.html", null ],
+                [ "NonProfitVolunteerProfile", "d8/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_volunteer_profile.html", null ],
                 [ "OrganizationProfile", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_organization_profile.html", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_organization_profile" ],
                 [ "PatientProfile", "d0/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_patient_profile.html", null ],
                 [ "ShareHolderProfile", "df/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_share_holder_profile.html", "df/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_share_holder_profile" ],
@@ -817,8 +973,11 @@ var annotated_dup =
                   [ "Bank", "db/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_banking_1_1_bank.html", null ]
                 ] ],
                 [ "Billing", "dc/dfd/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing.html", [
-                  [ "Order", "d7/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_order.html", null ],
-                  [ "Payment", "de/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment.html", null ],
+                  [ "Invoice", "db/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_invoice.html", "db/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_invoice" ],
+                  [ "Order", "d7/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_order.html", "d7/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_order" ],
+                  [ "Payment", "de/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment.html", "de/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment" ],
+                  [ "PaymentData", "db/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment_data.html", "db/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment_data" ],
+                  [ "Receipt", "da/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_receipt.html", "da/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_receipt" ],
                   [ "Wallet", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet.html", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet" ]
                 ] ],
                 [ "Budgets", "d5/d52/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_budgets.html", [
@@ -841,9 +1000,6 @@ var annotated_dup =
                 ] ],
                 [ "Grants", "d4/d63/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_grants.html", [
                   [ "Grant", "d5/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_grants_1_1_grant.html", null ]
-                ] ],
-                [ "Invoices", "d1/d65/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_invoices.html", [
-                  [ "Invoice", "d9/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_invoices_1_1_invoice.html", null ]
                 ] ],
                 [ "Journals", "d2/d81/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_journals.html", [
                   [ "Journal", "d7/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_journals_1_1_journal.html", null ]
@@ -909,6 +1065,9 @@ var annotated_dup =
                 ] ]
               ] ],
               [ "Education", "d0/df0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education.html", [
+                [ "CourseSteps", "d1/d89/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course_steps.html", [
+                  [ "CourseStep", "da/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course_steps_1_1_course_step.html", "da/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course_steps_1_1_course_step" ]
+                ] ],
                 [ "Course", "d0/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course.html", null ],
                 [ "University", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_university.html", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_university" ]
               ] ],
@@ -945,6 +1104,9 @@ var annotated_dup =
               [ "Holders", "d6/d67/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders.html", [
                 [ "Holder", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder.html", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder" ]
               ] ],
+              [ "Internal", "d1/de9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_internal.html", [
+                [ "MemoryMetrics", "dc/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_internal_1_1_memory_metrics.html", "dc/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_internal_1_1_memory_metrics" ]
+              ] ],
               [ "Logistics", "dc/d4f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics.html", [
                 [ "Shipping", "d7/d73/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping.html", [
                   [ "Courier", "d0/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping_1_1_courier.html", null ],
@@ -955,7 +1117,10 @@ var annotated_dup =
                 [ "Warehousing", "d1/d0f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing.html", [
                   [ "PickList", "d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_pick_list.html", "d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_pick_list" ],
                   [ "Warehouse", "db/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_warehouse.html", "db/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_warehouse" ]
-                ] ]
+                ] ],
+                [ "BulkProduct", "df/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_bulk_product.html", "df/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_bulk_product" ],
+                [ "SyncronizationProduct", "da/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_product.html", "da/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_product" ],
+                [ "SyncronizationResult", "d2/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_result.html", "d2/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_result" ]
               ] ],
               [ "Manufacturing", "d6/df1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_manufacturing.html", [
                 [ "Workstation", "d2/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_manufacturing_1_1_workstation.html", null ]
@@ -973,7 +1138,8 @@ var annotated_dup =
                 [ "QualityInspection", "d3/dc6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_quality_1_1_quality_inspection.html", null ]
               ] ],
               [ "Security", "d8/df2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security.html", [
-                [ "Role", "d4/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_role.html", null ]
+                [ "IPLookup", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_i_p_lookup.html", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_i_p_lookup" ],
+                [ "Role", "d4/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_role.html", "d4/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_role" ]
               ] ],
               [ "Selling", "df/d47/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling.html", [
                 [ "PriceList", "de/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_price_list.html", "de/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_price_list" ],
@@ -1008,8 +1174,8 @@ var annotated_dup =
                   [ "Cart", "db/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart.html", "db/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart" ]
                 ] ],
                 [ "Products", "d5/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products.html", [
-                  [ "MinimalAPIProduct", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product" ],
                   [ "APIProduct", "db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html", "db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product" ],
+                  [ "MinimalAPIProduct", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product" ],
                   [ "Product", "dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html", "dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product" ],
                   [ "ProductAttribute", "d0/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_attribute.html", "d0/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_attribute" ],
                   [ "ProductBrand", "d6/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_brand.html", "d6/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_brand" ],
@@ -1018,6 +1184,8 @@ var annotated_dup =
                   [ "ProductFamily", "d1/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_family.html", "d1/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_family" ],
                   [ "ProductGroup", "da/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_group.html", "da/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_group" ],
                   [ "ProductGTaxonomy", "de/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_g_taxonomy.html", "de/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_g_taxonomy" ],
+                  [ "ProductQuestion", "d8/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_question.html", "d8/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_question" ],
+                  [ "QuestionResponse", "d6/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_question_response.html", "d6/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_question_response" ],
                   [ "ProductReview", "dc/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_review.html", "dc/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_review" ],
                   [ "ProductTag", "d0/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_tag.html", "d0/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_tag" ],
                   [ "ProductType", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_type.html", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_type" ],
@@ -1030,6 +1198,9 @@ var annotated_dup =
               [ "Subscriptions", "db/d34/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions.html", [
                 [ "Subscription", "dd/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription.html", null ],
                 [ "SubscriptionPlan", "dd/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription_plan.html", null ]
+              ] ],
+              [ "Support", "d8/db6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_support.html", [
+                [ "SupportTicket", "db/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_support_1_1_support_ticket.html", "db/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_support_1_1_support_ticket" ]
               ] ],
               [ "Sustainability", "db/d09/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_sustainability.html", [
                 [ "SustainabilityProfile", "df/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_sustainability_1_1_sustainability_profile.html", null ]
@@ -1084,9 +1255,11 @@ var annotated_dup =
                 ] ]
               ] ]
             ] ],
-            [ "Contexts", "d2/d14/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts.html", [
-              [ "IPocketContext", "d1/d68/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_i_pocket_context.html", "d1/d68/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_i_pocket_context" ],
-              [ "PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context" ]
+            [ "Email", "d0/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email.html", [
+              [ "ActionEmailModel", "db/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_action_email_model.html", "db/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_action_email_model" ],
+              [ "AlertEmailModel", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_alert_email_model.html", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_alert_email_model" ],
+              [ "InvoiceEmailModel", "d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_email_model.html", "d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_email_model" ],
+              [ "InvoiceLine", "d0/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_line.html", "d0/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_line" ]
             ] ],
             [ "Requests", "d9/dbd/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests.html", [
               [ "Cognitive", "d2/dce/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_cognitive.html", [
@@ -1162,6 +1335,9 @@ var annotated_dup =
                 [ "CourseAssignmentUpload", "d5/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload.html", "d5/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload" ],
                 [ "CourseDirectAssignment", "da/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_direct_assignment.html", "da/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_direct_assignment" ]
               ] ],
+              [ "Categories", "da/dd2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories.html", [
+                [ "CourseCategory", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories_1_1_course_category.html", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories_1_1_course_category" ]
+              ] ],
               [ "Certificates", "db/d3d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates.html", [
                 [ "CourseCompletionCertificate", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate" ],
                 [ "CourseCompletionCertificateTemplate", "d7/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate_template.html", "d7/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate_template" ]
@@ -1224,7 +1400,7 @@ var annotated_dup =
           [ "Global", "dd/d95/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global.html", [
             [ "Academic", "d0/d87/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic.html", [
               [ "Institutions", "d5/de7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions.html", [
-                [ "AcademicInstitution", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution.html", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution" ]
+                [ "AcademicInstitutionProfile", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution_profile.html", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution_profile" ]
               ] ]
             ] ],
             [ "Activities", "d2/d72/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities.html", [
@@ -1232,8 +1408,9 @@ var annotated_dup =
                 [ "FeedScopes", "d7/dd6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes.html", [
                   [ "ContactActivityFeed", "d9/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_ddcda65bf4cc72599b413ebf03c7a4ac.html", "d9/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_ddcda65bf4cc72599b413ebf03c7a4ac" ],
                   [ "DealUnitActivityFeed", "dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html", "dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af" ],
+                  [ "GigApplicationFeed", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed.html", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed" ],
+                  [ "JobOfferApplicationFeed", "d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html", "d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db" ],
                   [ "MarketingCampaignActivityFeed", "d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html", "d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873" ],
-                  [ "MarketingLeadActivityFeed", "db/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_58c45a0ec526f74db35014e8f4eaa53a.html", "db/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_58c45a0ec526f74db35014e8f4eaa53a" ],
                   [ "MarketingListActivityFeed", "d0/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b0aa4a0a244e11dc0c8c71d32da7881b.html", "d0/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b0aa4a0a244e11dc0c8c71d32da7881b" ],
                   [ "PerformanceGoalActivityFeed", "d1/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0.html", "d1/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0" ],
                   [ "PlaybookActivityFeed", "d5/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_806d46866d96032643e4f900cae91bbf.html", "d5/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_806d46866d96032643e4f900cae91bbf" ],
@@ -1313,6 +1490,9 @@ var annotated_dup =
                 [ "BusinessApplicationScopes", "d9/db8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_scopes.html", [
                   [ "BusinessPortalApplication", "d5/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busind690a70db032f6846585512973f18aac.html", "d5/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busind690a70db032f6846585512973f18aac" ]
                 ] ],
+                [ "OAuthApplications", "d1/d45/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_auth_applications.html", [
+                  [ "OAuthApplication", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01" ]
+                ] ],
                 [ "BusinessApplication", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application" ],
                 [ "BusinessApplicationQueryRecord", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record.html", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record" ],
                 [ "BusinessApplicationReplyURL", "d7/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_reply_u_r_l.html", "d7/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_reply_u_r_l" ],
@@ -1362,7 +1542,8 @@ var annotated_dup =
               [ "Scopes", "d3/d1b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes.html", [
                 [ "AccountHolderOption", "d4/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_account_holder_option.html", "d4/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_account_holder_option" ],
                 [ "BusinessApplicationOption", "de/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_application_option.html", "de/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_application_option" ],
-                [ "BusinessTenantOption", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option.html", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option" ]
+                [ "BusinessTenantOption", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option.html", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option" ],
+                [ "ContactOption", "da/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_contact_option.html", "da/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_contact_option" ]
               ] ],
               [ "GenericOption", "d1/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_generic_option.html", "d1/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_generic_option" ]
             ] ],
@@ -1371,11 +1552,14 @@ var annotated_dup =
                 [ "PartnerProfile", "de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partner_profile.html", "de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partner_profile" ]
               ] ],
               [ "PartnerTiers", "d7/d8c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers.html", [
-                [ "PartnerTier", "d4/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_tier.html", "d4/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_tier" ]
+                [ "PartnerProgramTier", "d4/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_program_tier.html", "d4/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_program_tier" ]
               ] ]
             ] ],
             [ "Policies", "d5/dfb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies.html", [
               [ "Policy", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy" ]
+            ] ],
+            [ "Priorities", "d6/d1c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_priorities.html", [
+              [ "Priority", "d1/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_priorities_1_1_priority.html", "d1/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_priorities_1_1_priority" ]
             ] ],
             [ "Properties", "da/d99/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties.html", [
               [ "Characteristics", "d8/d80/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_characteristics.html", [
@@ -1395,6 +1579,9 @@ var annotated_dup =
                 [ "CustomProperty", "df/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_custom_property.html", "df/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_custom_property" ]
               ] ]
             ] ],
+            [ "Records", "d0/da0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_records.html", [
+              [ "GenericRecord", "d8/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_records_1_1_generic_record.html", "d8/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_records_1_1_generic_record" ]
+            ] ],
             [ "Schedules", "d7/d83/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules.html", [
               [ "BusinessClosures", "da/d3c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_business_closures.html", [
                 [ "BusinessClosure", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_business_closures_1_1_business_closure.html", null ]
@@ -1408,18 +1595,21 @@ var annotated_dup =
                 ] ],
                 [ "HolidaySchedule", "d0/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holiday_schedule.html", "d0/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holiday_schedule" ]
               ] ],
+              [ "ScheduleMeetings", "d7/d48/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings.html", [
+                [ "ScheduleMeeting", "d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting.html", "d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting" ],
+                [ "ScheduleMeetingAtendee", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting_atendee.html", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting_atendee" ]
+              ] ],
               [ "ScheduleScopes", "d5/d14/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes.html", [
                 [ "AssetSchedule", "d7/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_asset_schedule.html", "d7/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_asset_schedule" ],
                 [ "ContactSchedule", "de/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_contact_schedule.html", "de/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_contact_schedule" ],
-                [ "ServiceSchedule", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule" ]
+                [ "ProjectSchedule", "da/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_project_schedule.html", "da/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_project_schedule" ],
+                [ "ServiceSchedule", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule" ],
+                [ "SocialProfileSchedule", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule.html", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule" ]
               ] ],
               [ "TimeIntervals", "d0/df5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals.html", [
                 [ "TimeInterval", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval" ]
               ] ],
               [ "Schedule", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule" ]
-            ] ],
-            [ "Security", "d8/d51/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security.html", [
-              [ "IPLookup", "d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup.html", "d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup" ]
             ] ],
             [ "Settings", "d0/dea/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings.html", [
               [ "Scopes", "d6/d3f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes.html", [
@@ -1429,19 +1619,32 @@ var annotated_dup =
               ] ],
               [ "ApplicationSettings", "dc/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_application_settings.html", "dc/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_application_settings" ]
             ] ],
-            [ "Suites", "df/ddc/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites.html", [
-              [ "Modules", "d9/d58/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules.html", [
-                [ "LicenseFeature", "d1/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules_1_1_license_feature.html", "d1/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules_1_1_license_feature" ]
+            [ "Tasks", "dc/dfb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks.html", [
+              [ "Lists", "da/da5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists.html", [
+                [ "Scopes", "d2/d2c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes.html", [
+                  [ "AccountHolderTaskList", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list.html", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list" ],
+                  [ "BusinessTenantTaskList", "d0/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_business_tenant_task_list.html", "d0/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_business_tenant_task_list" ],
+                  [ "ContactTaskList", "d5/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_contact_task_list.html", "d5/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_contact_task_list" ],
+                  [ "DealUnitTaskList", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_deal_unit_task_list.html", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_deal_unit_task_list" ],
+                  [ "OrderTaskList", "d6/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_order_task_list.html", "d6/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_order_task_list" ],
+                  [ "ProjectTaskList", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_project_task_list.html", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_project_task_list" ],
+                  [ "SocialGroupTaskList", "d1/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_social_group_task_list.html", "d1/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_social_group_task_list" ]
+                ] ]
               ] ],
-              [ "Tiers", "df/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers.html", [
-                [ "LicenseType", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type.html", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type" ]
-              ] ]
+              [ "TaskList", "de/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_list.html", "de/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_list" ],
+              [ "Task", "d1/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task.html", "d1/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task" ],
+              [ "TaskAssignment", "d7/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_assignment.html", "d7/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_assignment" ],
+              [ "TaskFile", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_file.html", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_file" ],
+              [ "TaskStep", "d7/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_step.html", "d7/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_step" ]
             ] ],
             [ "Units", "dd/daa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units.html", [
               [ "Unit", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit" ],
               [ "UnitGroup", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit_group.html", "d7/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit_group" ]
             ] ],
             [ "Wallets", "d7/d88/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets.html", [
+              [ "Chargebacks", "d3/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_chargebacks.html", [
+                [ "PaymentChargeback", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_chargebacks_1_1_payment_chargeback.html", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_chargebacks_1_1_payment_chargeback" ]
+              ] ],
               [ "PaymentTokens", "d2/dd3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens.html", [
                 [ "PaymentToken", "dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token.html", "dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token" ]
               ] ],
@@ -1449,6 +1652,10 @@ var annotated_dup =
                 [ "AccountHolderWallet", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet.html", "d4/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_account_holder_wallet" ],
                 [ "BusinessWallet", "da/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_business_wallet.html", "da/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_business_wallet" ],
                 [ "ContactWallet", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_contact_wallet.html", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_contact_wallet" ]
+              ] ],
+              [ "WalletWithdraws", "d5/da9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws.html", [
+                [ "WalletWithdraw", "d3/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw.html", "d3/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw" ],
+                [ "WalletWithdrawRequest", "d1/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw_request.html", "d1/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw_request" ]
               ] ],
               [ "WalletAccount", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account" ]
             ] ]
@@ -1477,6 +1684,8 @@ var annotated_dup =
               [ "RefundRequest", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request.html", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request" ]
             ] ],
             [ "ReturnRequest", "db/d0e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request.html", [
+              [ "OrderItemReturn", "d5/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_item_return.html", "d5/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_item_return" ],
+              [ "OrderReturn", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_return.html", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_return" ],
               [ "ReturnRequest", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request.html", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request" ]
             ] ],
             [ "SupportEntitlements", "da/d40/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements.html", [
@@ -1490,7 +1699,7 @@ var annotated_dup =
             ] ],
             [ "SupportTickets", "d0/d5f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets.html", [
               [ "SupportTicketPriorities", "d7/d4e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_priorities.html", [
-                [ "SupportTicketPriority", "dd/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_prbc27499fb925d93f853a684ed1673588.html", "dd/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_prbc27499fb925d93f853a684ed1673588" ]
+                [ "SupportPriority", "de/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_priorities_1_1_support_priority.html", "de/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_priorities_1_1_support_priority" ]
               ] ],
               [ "SupportTicketTypes", "d7/db8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_types.html", [
                 [ "SupportTicketType", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_types_1_1_support_ticket_type.html", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_types_1_1_support_ticket_type" ]
@@ -1498,6 +1707,8 @@ var annotated_dup =
               [ "SupportTicket", "d9/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket.html", "d9/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket" ]
             ] ],
             [ "WarrantyRequests", "d7/dc3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests.html", [
+              [ "OrderItemWarranty", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_item_warranty.html", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_item_warranty" ],
+              [ "OrderWarranty", "d2/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_warranty.html", "d2/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_warranty" ],
               [ "WarrantyRequest", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request.html", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request" ]
             ] ]
           ] ],
@@ -1531,6 +1742,15 @@ var annotated_dup =
             [ "Attributes", "db/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes.html", [
               [ "LicenseAttribute", "d4/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes_1_1_license_attribute.html", "d4/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes_1_1_license_attribute" ]
             ] ],
+            [ "Features", "d7/d4b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_features.html", [
+              [ "LicenseFeature", "d7/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_features_1_1_license_feature.html", "d7/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_features_1_1_license_feature" ]
+            ] ],
+            [ "Types", "df/d66/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types.html", [
+              [ "LicenseType", "d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types_1_1_license_type.html", "d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types_1_1_license_type" ]
+            ] ],
+            [ "Validation", "da/d6d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_validation.html", [
+              [ "LicenseValidation", "d2/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_validation_1_1_license_validation.html", "d2/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_validation_1_1_license_validation" ]
+            ] ],
             [ "License", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_license.html", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_license" ]
           ] ],
           [ "Logistics", "d9/d47/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics.html", [
@@ -1557,9 +1777,10 @@ var annotated_dup =
                 [ "ItemShippingPolicyRecord", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record.html", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record" ],
                 [ "ItemShippingPolicy", "dc/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy.html", "dc/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy" ]
               ] ],
+              [ "Records", "d9/d61/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_records.html", [
+                [ "ShippingRecord", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_records_1_1_shipping_record.html", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_records_1_1_shipping_record" ]
+              ] ],
               [ "Shipments", "d8/da4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments.html", [
-                [ "ItemOrderShipment", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_order_shipment.html", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_order_shipment" ],
-                [ "ItemShipment", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_shipment.html", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_shipment" ],
                 [ "Shipment", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment.html", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment" ]
               ] ],
               [ "ShippingClasses", "d1/ddc/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_classes.html", [
@@ -1569,18 +1790,21 @@ var annotated_dup =
                 [ "CourrierItemShippingPolicyRecord", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607.html", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607" ],
                 [ "ShippingCourier", "d7/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_shipping_courier.html", "d7/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_shipping_courier" ]
               ] ],
+              [ "ShippingLabels", "d2/da6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels.html", [
+                [ "ShippingLabel", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels_1_1_shipping_label.html", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels_1_1_shipping_label" ]
+              ] ],
               [ "ShippingMethods", "d9/d34/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods.html", [
-                [ "ShippingMethod", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method.html", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method" ],
                 [ "ShippingMethodClassRecord", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record.html", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record" ],
-                [ "ShippingMethodZoneRecord", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record" ]
+                [ "ShippingMethodZoneRecord", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record" ],
+                [ "ShippingMethod", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method.html", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method" ]
               ] ],
               [ "ShippingPackages", "da/d09/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_packages.html", [
                 [ "ShippingPackage", "d9/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_packages_1_1_shipping_package.html", "d9/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_packages_1_1_shipping_package" ]
               ] ],
               [ "ShippingRegions", "de/d18/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions.html", [
-                [ "ShippingRegion", "d3/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region.html", "d3/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region" ],
                 [ "ShippingRegionCountryRecord", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_country_record.html", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_country_record" ],
-                [ "ShippingRegionZoneRecord", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record.html", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record" ]
+                [ "ShippingRegionZoneRecord", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record.html", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record" ],
+                [ "ShippingRegion", "d3/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region.html", "d3/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region" ]
               ] ],
               [ "ShippingZones", "d2/d6e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_zones.html", [
                 [ "ShippingZone", "d7/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_zones_1_1_shipping_zone.html", "d7/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_zones_1_1_shipping_zone" ]
@@ -1588,12 +1812,22 @@ var annotated_dup =
             ] ],
             [ "Stock", "dd/dd6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock.html", [
               [ "Item", "da/d8b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item.html", [
-                [ "Item", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item" ]
+                [ "Item", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item" ],
+                [ "StockItemSizeVariation", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation.html", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation" ],
+                [ "StockItemColorVariation", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation.html", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation" ],
+                [ "StockItemMaterialVariation", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation" ],
+                [ "StockItemVariationsData", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variations_data.html", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variations_data" ],
+                [ "StockItemVariation", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variation.html", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variation" ],
+                [ "StockItemShipsToRule", "d4/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_rule.html", "d4/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_rule" ],
+                [ "StockItemShipsToData", "d2/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_data.html", "d2/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_data" ]
               ] ],
               [ "ItemAttributes", "d6/d77/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes.html", [
                 [ "ItemAttribute", "d4/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute.html", "d4/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute" ],
                 [ "ItemAttributeOption", "d8/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option.html", "d8/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option" ],
                 [ "ItemAttributeOptionRecord", "d5/d75/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option_record.html", "d5/d75/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option_record" ]
+              ] ],
+              [ "ItemBids", "d0/dcf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bids.html", [
+                [ "ItemBid", "d7/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bids_1_1_item_bid.html", "d7/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bids_1_1_item_bid" ]
               ] ],
               [ "ItemBrands", "dd/d65/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands.html", [
                 [ "BrandRecord", "d5/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands_1_1_brand_record.html", "d5/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands_1_1_brand_record" ],
@@ -1616,6 +1850,9 @@ var annotated_dup =
               [ "ItemGroups", "db/dde/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups.html", [
                 [ "ItemGroup", "d8/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group.html", "d8/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group" ],
                 [ "ItemGroupRecord", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group_record.html", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_groups_1_1_item_group_record" ]
+              ] ],
+              [ "ItemOwnerships", "d1/d8a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships.html", [
+                [ "ItemOwnership", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships_1_1_item_ownership.html", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships_1_1_item_ownership" ]
               ] ],
               [ "ItemQnA", "d7/d8b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a.html", [
                 [ "ItemQuestion", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question.html", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question" ],
@@ -1788,10 +2025,11 @@ var annotated_dup =
               [ "CurrencyMapper", "d2/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_global_1_1_currency_mapper.html", null ]
             ] ],
             [ "Helpdesk", "d0/d2d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk.html", [
-              [ "SupportTicketMapper", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper.html", null ]
+              [ "ISupportTicketMapper", "d3/dc8/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_i_support_ticket_mapper.html", "d3/dc8/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_i_support_ticket_mapper" ],
+              [ "SupportTicketMapper", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper.html", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper" ]
             ] ],
             [ "Holders", "dd/d23/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders.html", [
-              [ "HolderBinder", "d8/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders_1_1_holder_binder.html", null ]
+              [ "AccountHolderBinder", "d3/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders_1_1_account_holder_binder.html", null ]
             ] ],
             [ "Logistics", "d0/d3b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics.html", [
               [ "Items", "db/da6/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items.html", [
@@ -1831,6 +2069,7 @@ var annotated_dup =
               [ "QualityCheckMapper", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_quality_1_1_quality_check_mapper.html", null ]
             ] ],
             [ "Security", "d2/d51/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security.html", [
+              [ "IPLookupMapper", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security_1_1_i_p_lookup_mapper.html", null ],
               [ "RoleMapper", "dd/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security_1_1_role_mapper.html", null ]
             ] ],
             [ "Selling", "d3/d00/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_selling.html", [
@@ -1884,6 +2123,11 @@ var annotated_dup =
             ] ]
           ] ],
           [ "Marketing", "da/d2e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing.html", [
+            [ "Area", "db/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area.html", [
+              [ "MarketingArea", "d5/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area.html", "d5/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area" ],
+              [ "MarketingAreaSubscription", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area_subscription.html", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area_subscription" ],
+              [ "MarketingProductArea", "d3/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_product_area.html", "d3/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_product_area" ]
+            ] ],
             [ "Campaigns", "d2/da9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns.html", [
               [ "MarketingCampaign", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign" ],
               [ "MarketingCampaignResponse", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign_response.html", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign_response" ]
@@ -1892,17 +2136,14 @@ var annotated_dup =
               [ "EmailGroup", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group.html", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group" ],
               [ "EmailGroupMembership", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership.html", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership" ]
             ] ],
+            [ "EmailRecords", "d1/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records.html", [
+              [ "EmailRecord", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record" ]
+            ] ],
             [ "EmailSignatures", "df/dbd/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures.html", [
-              [ "EmailSignature", "d0/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures_1_1_email_signature.html", null ]
+              [ "EmailSignature", "d0/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures_1_1_email_signature.html", "d0/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures_1_1_email_signature" ]
             ] ],
             [ "EmailTemplates", "db/db1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates.html", [
               [ "EmailTemplate", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template.html", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template" ]
-            ] ],
-            [ "Leads", "db/d4d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads.html", [
-              [ "MarketingLead", "d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html", "d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead" ],
-              [ "MarketingLeadFile", "df/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_file.html", "df/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_file" ],
-              [ "MarketingLeadStakeholder", "d9/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_stakeholder.html", "d9/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_stakeholder" ],
-              [ "MarketingLeadType", "d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html", "d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type" ]
             ] ],
             [ "Lists", "d0/d9f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists.html", [
               [ "MarketingList", "d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html", "d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list" ],
@@ -1910,6 +2151,7 @@ var annotated_dup =
             ] ],
             [ "Newsletters", "d7/da2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters.html", [
               [ "Newsletter", "d9/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter.html", "d9/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter" ],
+              [ "NewsletterPage", "db/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_page.html", "db/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_page" ],
               [ "NewsletterSubscription", "db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html", "db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription" ]
             ] ],
             [ "PostBuckets", "d5/daa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_post_buckets.html", [
@@ -1918,6 +2160,20 @@ var annotated_dup =
             [ "SocialPosts", "da/d85/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts.html", [
               [ "SocialMediaPost", "db/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post.html", "db/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post" ],
               [ "SocialMediaPostFile", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post_file.html", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post_file" ]
+            ] ]
+          ] ],
+          [ "ML", "d8/d6c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l.html", [
+            [ "ProductRecommender", "d0/dca/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender.html", [
+              [ "RelatedProduct", "d0/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product.html", "d0/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product" ],
+              [ "RelatedProductPrediction", "d9/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product_prediction.html", "d9/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product_prediction" ]
+            ] ]
+          ] ],
+          [ "Partners", "d3/d39/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners.html", [
+            [ "PartnerPrograms", "df/de5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs.html", [
+              [ "Registrations", "d2/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations.html", [
+                [ "PartnerProgramRegistration", "d5/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations_1_1_partner_program_registration.html", "d5/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations_1_1_partner_program_registration" ]
+              ] ],
+              [ "PartnerProgram", "db/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_partner_program.html", "db/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_partner_program" ]
             ] ]
           ] ],
           [ "Processes", "d2/d70/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_processes.html", [
@@ -2078,9 +2334,6 @@ var annotated_dup =
               [ "DealUnitRecord", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_record.html", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_record" ],
               [ "DealUnitItemRecord", "db/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_item_record.html", "db/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_item_record" ]
             ] ],
-            [ "Leads", "d5/d56/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads.html", [
-              [ "SalesLead", "da/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads_1_1_sales_lead.html", "da/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads_1_1_sales_lead" ]
-            ] ],
             [ "Literature", "dc/d68/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature.html", [
               [ "Records", "d8/dcc/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_records.html", [
                 [ "SalesLiteratureRecord", "df/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_records_1_1_sales_literature_record.html", "df/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_records_1_1_sales_literature_record" ]
@@ -2120,6 +2373,12 @@ var annotated_dup =
                 [ "SecurityRoleGrant", "dd/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_4847c2df72bb3b5cd20b389dedb8b542.html", "dd/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_4847c2df72bb3b5cd20b389dedb8b542" ]
               ] ],
               [ "BusinessSecurityRole", "d7/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role.html", "d7/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role" ]
+            ] ],
+            [ "IPLookups", "da/dff/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups.html", [
+              [ "IPLookup", "db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup.html", "db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup" ]
+            ] ],
+            [ "Logins", "d1/dd5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_logins.html", [
+              [ "AccountHolderLogin", "d1/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_logins_1_1_account_holder_login.html", "d1/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_logins_1_1_account_holder_login" ]
             ] ]
           ] ],
           [ "Selling", "df/daa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling.html", [
@@ -2146,7 +2405,7 @@ var annotated_dup =
               [ "Quote", "d5/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote.html", "d5/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote" ]
             ] ],
             [ "SalesQuotes", "df/d49/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_quotes.html", [
-              [ "SalesQuote", "d2/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_quotes_1_1_sales_quote.html", null ]
+              [ "SalesQuote", "d2/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_quotes_1_1_sales_quote.html", "d2/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_quotes_1_1_sales_quote" ]
             ] ],
             [ "SalesReports", "d1/d72/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_reports.html", [
               [ "SalesReport", "d4/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_reports_1_1_sales_report.html", "d4/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_reports_1_1_sales_report" ]
@@ -2157,40 +2416,24 @@ var annotated_dup =
             ] ]
           ] ],
           [ "Services", "d8/d54/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services.html", [
-            [ "ServiceAttachments", "d2/d7a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments.html", [
-              [ "ServiceAttachment", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments_1_1_service_attachment.html", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments_1_1_service_attachment" ]
-            ] ],
             [ "ServiceCases", "d0/d2c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases.html", [
               [ "ServiceCase", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case" ]
             ] ],
             [ "ServiceCaseSubjects", "dd/d93/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects.html", [
-              [ "ServiceCaseSubject", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject.html", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject" ]
+              [ "ServiceCaseType", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_type.html", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_type" ]
             ] ],
-            [ "ServiceFulfillmentPreferences", "d7/d92/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fulfillment_preferences.html", [
-              [ "ServiceFulfillmentPreference", "d9/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fulfillment_preferences_1_1_service_fulfillment_preference.html", "d9/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fulfillment_preferences_1_1_service_fulfillment_preference" ]
-            ] ],
-            [ "ServiceIncidentTypes", "dc/db4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types.html", [
-              [ "ServiceIncidentTypeRecords", "d9/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_incident_type_records.html", [
-                [ "ServiceIncidentTypeCharacteristics", "dd/d33/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_servic5792c53d4fcc498469acb829f29636b7.html", [
-                  [ "ServiceIncidentTypeCharacteristic", "df/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in6a274cecde4d877d3b36b3a0e4c520ae.html", "df/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in6a274cecde4d877d3b36b3a0e4c520ae" ]
-                ] ],
-                [ "ServiceIncidentTypeRecordScopes", "d7/da8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_servicb866ec5ee496e9e2fff99c7ed648f2a4.html", [
-                  [ "IncidentTypeItemRecord", "db/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in1c37e97e6f50f5bfb1f15acfd25caa4e.html", "db/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in1c37e97e6f50f5bfb1f15acfd25caa4e" ],
-                  [ "IncidentTypeServiceRecord", "d7/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inab8ed1c04b4f3550b5b48106ddbdd076.html", "d7/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inab8ed1c04b4f3550b5b48106ddbdd076" ],
-                  [ "IncidentTypeSubscriptionRecord", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea.html", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea" ]
-                ] ],
-                [ "ServiceIncidentTypeRecord", "d0/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inf51f656b6a68fb24718f80871cccee71.html", "d0/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inf51f656b6a68fb24718f80871cccee71" ]
-              ] ],
-              [ "ServiceIncidentType", "de/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_incident_type.html", "de/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_incident_type" ]
+            [ "ServiceFullfillments", "de/d45/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments.html", [
+              [ "ServiceFulfillment", "d1/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment.html", "d1/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment" ],
+              [ "ServiceFulfillmentPreferences", "df/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment_preferences.html", "df/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment_preferences" ]
             ] ],
             [ "ServiceLevelAgreements", "d7/de8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements.html", [
-              [ "Entitlements", "d6/dc5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlements.html", [
-                [ "ServiceLevelAgreementEntitlement", "d1/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlemf80a586809a5af3c4ec6dc4e9a2fad01.html", "d1/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlemf80a586809a5af3c4ec6dc4e9a2fad01" ]
-              ] ],
               [ "ServiceLevelAgreement", "d9/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_service_level_agreement.html", "d9/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_service_level_agreement" ]
             ] ],
             [ "ServiceLevels", "da/d5c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels.html", [
               [ "ServiceLevel", "da/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels_1_1_service_level.html", "da/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels_1_1_service_level" ]
+            ] ],
+            [ "ServicePersonnel", "d8/daa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel.html", [
+              [ "ServicePersonnelRecord", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel_1_1_service_personnel_record.html", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel_1_1_service_personnel_record" ]
             ] ],
             [ "ServiceQueues", "d4/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues.html", [
               [ "ServiceQueueRecords", "d5/d4e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records.html", [
@@ -2198,11 +2441,8 @@ var annotated_dup =
               ] ],
               [ "ServiceQueue", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue.html", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue" ]
             ] ],
-            [ "ServiceResourceRequirements", "da/d67/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements.html", [
-              [ "ServiceResourceRequirement", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement.html", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement" ]
-            ] ],
-            [ "ServiceReviews", "d4/d51/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews.html", [
-              [ "ServiceReview", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review.html", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review" ]
+            [ "ServiceTasks", "dc/d30/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_tasks.html", [
+              [ "ServiceTask", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_tasks_1_1_service_task.html", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_tasks_1_1_service_task" ]
             ] ],
             [ "Service", "d9/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service.html", "d9/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service" ]
           ] ],
@@ -2217,7 +2457,7 @@ var annotated_dup =
               [ "SigningProfile", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_profiles_1_1_signing_profile.html", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_profiles_1_1_signing_profile" ]
             ] ],
             [ "Records", "d4/d1e/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records.html", [
-              [ "SignatorRecord", "d5/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signator_record.html", "d5/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signator_record" ]
+              [ "SigningLog", "d4/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signing_log.html", "d4/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signing_log" ]
             ] ],
             [ "Signatures", "d7/da7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_signatures.html", [
               [ "Signature", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_signatures_1_1_signature.html", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_signatures_1_1_signature" ]
@@ -2238,18 +2478,36 @@ var annotated_dup =
               [ "SocialComment", "d9/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment.html", "d9/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment" ],
               [ "SocialCommentMedia", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment_media.html", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment_media" ]
             ] ],
+            [ "Conversations", "d3/d40/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations.html", [
+              [ "Scopes", "d0/dcf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes.html", [
+                [ "SupportTicketConversation", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation.html", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation" ]
+              ] ],
+              [ "Conversation", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_conversation.html", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_conversation" ]
+            ] ],
             [ "Curriculums", "d0/d7c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums.html", [
               [ "CurriculumRecords", "d9/d10/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records.html", [
                 [ "Scopes", "d9/d43/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes.html", [
-                  [ "CourseCertificate", "d6/d63/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_course_certificate.html", null ],
-                  [ "IndividualSkillRecord", "d4/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_850d697104aa563fb0dfd49bf7976715.html", "d4/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_850d697104aa563fb0dfd49bf7976715" ],
-                  [ "InstitutionDiploma", "de/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma.html", "de/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma" ],
-                  [ "ProfessionalDegree", "d7/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_professional_degree.html", "d7/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_professional_degree" ]
+                  [ "Bookmarks", "d2/d5f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_bookmarks.html", [
+                    [ "GigBookmark", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09.html", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09" ]
+                  ] ],
+                  [ "JobOfferBookmark", "df/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark.html", "df/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark" ],
+                  [ "CurriculumAward", "d3/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_award.html", "d3/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_award" ],
+                  [ "CurriculumCourse", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course.html", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course" ],
+                  [ "CurriculumCover", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover" ],
+                  [ "CurriculumDegree", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree" ],
+                  [ "CurriculumDiploma", "d4/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_diploma.html", "d4/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_diploma" ],
+                  [ "CurriculumEducation", "d1/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_education.html", "d1/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_education" ],
+                  [ "CurriculumExperience", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4" ],
+                  [ "CurriculumLanguage", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_language.html", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_language" ],
+                  [ "CurriculumProject", "d4/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_project.html", "d4/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_project" ],
+                  [ "CurriculumRecommendation", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe" ],
+                  [ "CurriculumSkill", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_skill.html", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_skill" ]
                 ] ],
-                [ "CurriculumRecord", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record.html", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record" ]
+                [ "CurriculumRecord", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record.html", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record" ],
+                [ "CurriculumRecordAttachment", "d7/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment.html", "d7/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment" ]
               ] ],
               [ "CurriculumSkills", "d4/d1b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills.html", [
-                [ "CurriculumSkill", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_curriculum_skill.html", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_curriculum_skill" ]
+                [ "Skill", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_skill.html", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_skill" ]
               ] ],
               [ "Curriculum", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum" ]
             ] ],
@@ -2286,11 +2544,8 @@ var annotated_dup =
                 [ "BlogPostReview", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_blog_post_review.html", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_blog_post_review" ],
                 [ "BusinessReview", "d5/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_business_review.html", "d5/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_business_review" ],
                 [ "ContactReview", "d5/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_contact_review.html", "d5/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_contact_review" ],
-                [ "CourseReview", "dd/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_course_review.html", null ],
                 [ "ItemReview", "d8/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_item_review.html", "d8/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_item_review" ],
-                [ "ServiceReview", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_service_review.html", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_service_review" ],
-                [ "SocialGroupReview", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review.html", null ],
-                [ "SubscriptionPlanReview", "dd/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_subscription_plan_review.html", null ]
+                [ "SocialGroupReview", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review.html", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review" ]
               ] ],
               [ "Review", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review.html", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review" ]
             ] ],
@@ -2347,6 +2602,9 @@ var annotated_dup =
               [ "BusinessType", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_type.html", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_type" ]
             ] ],
             [ "BusinessStructure", "dc/d1a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure.html", [
+              [ "BusinessPositions", "d3/d4f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_positions.html", [
+                [ "BusinessPosition", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_positions_1_1_business_position.html", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_positions_1_1_business_position" ]
+              ] ],
               [ "BusinessTeams", "d2/d9c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams.html", [
                 [ "BusinessTeamRecords", "d8/d27/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team_records.html", [
                   [ "BusinessTeamContactEnrollment", "df/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_2d20fef318353403b931d23a1017db5a.html", "df/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_2d20fef318353403b931d23a1017db5a" ],
@@ -2367,7 +2625,7 @@ var annotated_dup =
                 [ "BusinessUnit", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit" ]
               ] ],
               [ "Departments", "d9/dc0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments.html", [
-                [ "OrganizationDepartment", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department.html", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department" ]
+                [ "BusinessDepartment", "dc/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_business_department.html", "dc/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_business_department" ]
               ] ],
               [ "Territories", "dd/d16/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories.html", [
                 [ "TerritoryRelationships", "d4/dcb/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory_relationships.html", [
@@ -3683,6 +3941,10 @@ var annotated_dup =
                 [ "EmployeeType", "de/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_types_1_1_employee_type.html", "de/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_types_1_1_employee_type" ]
               ] ]
             ] ],
+            [ "Gigs", "da/d08/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs.html", [
+              [ "Gig", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig" ],
+              [ "GigApplication", "d2/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig_application.html", "d2/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig_application" ]
+            ] ],
             [ "Jobs", "db/d27/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs.html", [
               [ "JobApplications", "d4/de7/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications.html", [
                 [ "JobOfferApplication", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application.html", "db/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_applications_1_1_job_offer_application" ]
@@ -3754,9 +4016,6 @@ var annotated_dup =
               ] ]
             ] ],
             [ "Salaries", "de/dba/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries.html", [
-              [ "Commissions", "d6/d36/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_commissions.html", [
-                [ "Commission", "d4/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_commissions_1_1_commission.html", "d4/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_commissions_1_1_commission" ]
-              ] ],
               [ "RetentionBonuses", "d7/d0f/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses.html", [
                 [ "RetentionBonus", "d0/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses_1_1_retention_bonus.html", "d0/dc2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_retention_bonuses_1_1_retention_bonus" ]
               ] ],
@@ -3813,31 +4072,51 @@ var annotated_dup =
             [ "Core", "d3/d0a/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core.html", [
               [ "Controllers", "df/d9c/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers.html", [
                 [ "GraphQlController", "d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html", "d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller" ],
-                [ "GraphQLRequest", "d9/d82/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_q_l_request.html", "d9/d82/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_q_l_request" ]
+                [ "ExecutionResultActionResult", "dc/d71/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_execution_result_action_result.html", "dc/d71/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_execution_result_action_result" ]
+              ] ],
+              [ "Extensions", "d6/deb/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_extensions.html", [
+                [ "YourCustomMiddleMiddleware", "d5/db0/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_extensions_1_1_your_custom_middle_middleware.html", "d5/db0/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_extensions_1_1_your_custom_middle_middleware" ]
               ] ],
               [ "Middleware", "db/db1/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware.html", [
+                [ "GraphQLHttpMiddlewareWithLogs", "da/d0e/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_q_l_http_middleware_with_logs.html", "da/d0e/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_q_l_http_middleware_with_logs" ],
                 [ "GraphQlMiddleware", "da/d12/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_ql_middleware.html", "da/d12/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_ql_middleware" ]
               ] ],
+              [ "Models", "d6/d84/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models.html", [
+                [ "GraphQLRequest", "d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request.html", "d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request" ]
+              ] ],
+              [ "Mutations", "d9/d6b/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations.html", [
+                [ "Session", "d7/dd5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session.html", "d7/dd5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session" ],
+                [ "SessionType", "d1/d10/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session_type.html", "d1/d10/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session_type" ],
+                [ "LoginMutation", "de/d96/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_login_mutation.html", "de/d96/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_login_mutation" ]
+              ] ],
               [ "Queries", "da/d3a/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries.html", [
-                [ "AllianceIDQuery", "dd/d5c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_alliance_i_d_query.html", "dd/d5c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_alliance_i_d_query" ]
+                [ "ApiResponseQuery", "d2/d38/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_api_response_query.html", "d2/d38/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_api_response_query" ]
               ] ],
               [ "Repos", "d0/d0d/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos.html", [
-                [ "AllianceIDRepository", "d3/d84/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_alliance_i_d_repository.html", "d3/d84/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_alliance_i_d_repository" ],
                 [ "GraphQLUserContext", "de/da1/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_graph_q_l_user_context.html", "de/da1/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_graph_q_l_user_context" ]
               ] ],
               [ "Schema", "d9/d4d/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema.html", [
-                [ "GraphQlSchema", "dc/d50/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_graph_ql_schema.html", "dc/d50/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_graph_ql_schema" ]
+                [ "ApiBaseResponseQueryGraphQlSchema", "d3/d68/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_api_base_response_query_graph_ql_schema.html", "d3/d68/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_api_base_response_query_graph_ql_schema" ]
               ] ],
               [ "Settings", "d9/d3e/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_settings.html", [
                 [ "GraphQlSettings", "d1/d70/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_settings_1_1_graph_ql_settings.html", "d1/d70/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_settings_1_1_graph_ql_settings" ]
               ] ],
               [ "Types", "d3/d9c/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types.html", [
-                [ "AllianceIDType", "da/db5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_alliance_i_d_type.html", "da/db5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_alliance_i_d_type" ]
+                [ "AccountHolderType", "da/d15/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_type.html", "da/d15/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_type" ],
+                [ "AccountHolderResponseType", "dd/dae/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_response_type.html", "dd/dae/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_response_type" ],
+                [ "ActorResponseType", "d7/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_actor_response_type.html", "d7/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_actor_response_type" ],
+                [ "APIResponseBaseType", "d0/d0b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_base_type.html", "d0/d0b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_base_type" ],
+                [ "APIResponseErrorType", "db/d02/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_error_type.html", "db/d02/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_error_type" ],
+                [ "APIResponsePaginationType", "da/dd3/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_pagination_type.html", "da/dd3/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_pagination_type" ],
+                [ "APIResponseStatusType", "d6/d67/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_status_type.html", "d6/d67/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_status_type" ],
+                [ "BusinessTenantResponseType", "d3/d9f/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_tenant_response_type.html", "d3/d9f/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_tenant_response_type" ],
+                [ "ClientApplicationResponseType", "df/db8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_client_application_response_type.html", "df/db8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_client_application_response_type" ],
+                [ "IPLookupResponseType", "db/df8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_i_p_lookup_response_type.html", "db/df8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_i_p_lookup_response_type" ],
+                [ "BusinessProfileRecordType", "d7/d04/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_profile_record_type.html", "d7/d04/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_profile_record_type" ]
               ] ],
               [ "ValidationRules", "de/d35/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_validation_rules.html", [
                 [ "InputValidationRule", "dc/d4b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_validation_rules_1_1_input_validation_rule.html", null ]
-              ] ],
-              [ "GraphQLRequest", "db/d26/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_graph_q_l_request.html", "db/d26/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_graph_q_l_request" ]
+              ] ]
             ] ],
             [ "Resources", "d7/d50/namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_resources.html", [
               [ "SharedResources", "de/d2e/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_resources_1_1_shared_resources.html", null ]
@@ -3884,11 +4163,39 @@ var annotated_dup =
               [ "BotGateway", "d7/d8c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_bots_1_1_bot_gateway.html", "d7/d8c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_bots_1_1_bot_gateway" ],
               [ "RichCardsBot", "d7/db2/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_bots_1_1_rich_cards_bot.html", "d7/db2/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_bots_1_1_rich_cards_bot" ]
             ] ],
+            [ "Cards", "d9/dd6/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_cards.html", [
+              [ "CardFactory", "db/dcb/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_cards_1_1_card_factory.html", "db/dcb/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_cards_1_1_card_factory" ]
+            ] ],
             [ "Controllers", "de/d2e/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers.html", [
-              [ "BotController", "d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller.html", "d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller" ]
+              [ "BotController", "d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller.html", "d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller" ],
+              [ "ConversationsController", "d1/dae/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_conversations_controller.html", "d1/dae/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_conversations_controller" ]
             ] ],
             [ "Dialogs", "d3/d0a/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs.html", [
-              [ "MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog" ]
+              [ "Billing", "d1/d55/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing.html", [
+                [ "BillingDialog", "d7/d1e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing_1_1_billing_dialog.html", "d7/d1e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing_1_1_billing_dialog" ]
+              ] ],
+              [ "Support", "d7/d22/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support.html", [
+                [ "SupportDialog", "d1/d4e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support_1_1_support_dialog.html", "d1/d4e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support_1_1_support_dialog" ]
+              ] ],
+              [ "AccountDialog", "df/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_account_dialog.html", "df/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_account_dialog" ],
+              [ "AuthenticationDialog", "d7/da0/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_authentication_dialog.html", "d7/da0/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_authentication_dialog" ],
+              [ "LogInDialog", "dd/d21/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_in_dialog.html", "dd/d21/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_in_dialog" ],
+              [ "LogOutDialog", "df/ded/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_out_dialog.html", "df/ded/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_out_dialog" ],
+              [ "BaseDialog", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog" ],
+              [ "InvoicesDialog", "d1/d0f/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_invoices_dialog.html", "d1/d0f/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_invoices_dialog" ],
+              [ "OrdersDialog", "d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog.html", "d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog" ],
+              [ "PaymentsDialog", "d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog.html", "d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog" ],
+              [ "QuotesDialog", "d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog.html", "d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog" ],
+              [ "WalletsDialog", "d4/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_wallets_dialog.html", "d4/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_wallets_dialog" ],
+              [ "BusinessesDialog", "d2/d79/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_businesses_dialog.html", "d2/d79/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_businesses_dialog" ],
+              [ "MyBusinessesDialog", "d9/d19/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_my_businesses_dialog.html", "d9/d19/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_my_businesses_dialog" ],
+              [ "SelectBusinessDialog", "dc/dff/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_select_business_dialog.html", "dc/dff/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_select_business_dialog" ],
+              [ "MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog" ],
+              [ "DealUnitsDialog", "da/d37/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_deal_units_dialog.html", "da/d37/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_deal_units_dialog" ],
+              [ "SalesDialog", "dc/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_sales_dialog.html", "dc/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_sales_dialog" ],
+              [ "CartsDialog", "d4/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_carts_dialog.html", "d4/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_carts_dialog" ],
+              [ "ProductsDialog", "d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog.html", "d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog" ],
+              [ "StoreDialog", "d1/d31/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_store_dialog.html", "d1/d31/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_store_dialog" ]
             ] ],
             [ "Extensions", "dc/dde/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions.html", [
               [ "BotAdapterWithErrorHandler", "da/d65/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler.html", "da/d65/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_extensions_1_1_bot_adapter_with_error_handler" ]
@@ -3905,9 +4212,16 @@ var annotated_dup =
                 [ "DialogHostAdapter", "d9/d53/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_dialog_host_adapter.html", "d9/d53/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_dialog_host_adapter" ],
                 [ "RefAccessor", "df/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_ref_accessor.html", "df/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_ref_accessor" ]
               ] ],
-              [ "BotUserState", "dc/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_bot_user_state.html", "dc/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_bot_user_state" ]
+              [ "Store", "d4/d11/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store.html", [
+                [ "InvoiceState", "d5/d42/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_invoice_state.html", "d5/d42/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_invoice_state" ],
+                [ "ProductState", "d7/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_product_state.html", "d7/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_product_state" ]
+              ] ],
+              [ "BotUserState", "dc/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_bot_user_state.html", "dc/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_bot_user_state" ],
+              [ "ConversationData", "d0/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_conversation_data.html", "d0/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_conversation_data" ]
             ] ],
             [ "Storage", "da/d05/namespace_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage.html", [
+              [ "BlobStorage", "df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html", "df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage" ],
+              [ "DataContextStorage", "d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html", "d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage" ],
               [ "IBotStorage", "d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html", "d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage" ]
             ] ]
           ] ],
@@ -3920,16 +4234,18 @@ var annotated_dup =
           [ "AntiVirus", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html", [
             [ "WindowsDefender", "dd/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender.html", [
               [ "WindowsDefenderScanner", "d1/d1e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender_1_1_windows_defender_scanner.html", "d1/d1e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender_1_1_windows_defender_scanner" ]
-            ] ],
-            [ "IAntivirusScanner", "d0/d9a/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_i_antivirus_scanner.html", "d0/d9a/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_i_antivirus_scanner" ]
+            ] ]
           ] ],
           [ "Controllers", "d3/d93/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers.html", [
-            [ "FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller" ],
             [ "HolderFilesController", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller.html", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller" ],
+            [ "PortalFilesController", "d9/d5b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_portal_files_controller.html", "d9/d5b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_portal_files_controller" ],
             [ "PublicFilesController", "d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller.html", "d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller" ],
             [ "StreamingController", "d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller.html", "d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller" ],
             [ "FormData", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data.html", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data" ],
-            [ "TenantFilesController", "d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller.html", "d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller" ]
+            [ "TenantFilesController", "d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller.html", "d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller" ],
+            [ "UploadController", "d3/d76/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_upload_controller.html", "d3/d76/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_upload_controller" ],
+            [ "AzureBlobsController", "de/dbb/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_azure_blobs_controller.html", "de/dbb/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_azure_blobs_controller" ],
+            [ "FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller" ]
           ] ],
           [ "Drivers", "d6/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers.html", [
             [ "FileSystem", "d4/dac/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system.html", [
@@ -3940,9 +4256,6 @@ var annotated_dup =
             [ "BaseDriver", "d0/d45/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_base_driver.html", "d0/d45/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_base_driver" ],
             [ "IDirectory", "d0/d39/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_directory.html", "d0/d39/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_directory" ],
             [ "IFile", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file" ]
-          ] ],
-          [ "Extensions", "de/d95/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions.html", [
-            [ "AllianceBusinessSuiteFileSystemExtensions", "d9/dcc/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions_1_1_alliance_business_suite_file_system_extensions.html", null ]
           ] ],
           [ "Filters", "d4/ddd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters.html", [
             [ "DisableFormValueModelBindingAttribute", "db/d25/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters_1_1_disable_form_value_model_binding_attribute.html", "db/d25/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters_1_1_disable_form_value_model_binding_attribute" ],
@@ -4006,11 +4319,15 @@ var annotated_dup =
             [ "FeaturesController", "d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller.html", "d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller" ]
           ] ],
           [ "Extensions", "d3/d23/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions.html", [
-            [ "HeartbeatWorkflow", "d5/d20/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_heartbeat_workflow.html", "d5/d20/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_heartbeat_workflow" ],
-            [ "CustomTenantAccessor", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor.html", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor" ]
+            [ "CustomTenantAccessor", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor.html", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor" ],
+            [ "GarbageCollectionWorkflow", "d2/d85/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_garbage_collection_workflow.html", "d2/d85/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_garbage_collection_workflow" ],
+            [ "SingletonUpdaterWorkflow", "d1/d49/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_singleton_updater_workflow.html", "d1/d49/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_singleton_updater_workflow" ]
           ] ],
           [ "Features", "de/d6f/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features.html", [
             [ "FeaturesViewModel", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model.html", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model" ]
+          ] ],
+          [ "Middleware", "d5/d1a/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_middleware.html", [
+            [ "WorkflowsAuthorizationMiddleware", "df/d70/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_middleware_1_1_workflows_authorization_middleware.html", "df/d70/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_middleware_1_1_workflows_authorization_middleware" ]
           ] ],
           [ "Plugins", "d8/daa/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins.html", [
             [ "Specifications", "d0/df1/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications.html", [
@@ -4036,11 +4353,17 @@ var annotated_dup =
               ] ],
               [ "Package", "d9/dd3/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_package.html", "d9/dd3/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_package" ]
             ] ],
-            [ "IPluginManager", "d5/db4/interface_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_i_plugin_manager.html", "d5/db4/interface_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_i_plugin_manager" ],
-            [ "Plugin", "d1/d7d/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin.html", "d1/d7d/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin" ],
-            [ "PluginLoadContext", "d3/dcc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_load_context.html", "d3/dcc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_load_context" ],
-            [ "PluginManager", "d0/da5/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_manager.html", "d0/da5/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_manager" ],
+            [ "ModuleLoadContext", "d2/d39/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_module_load_context.html", "d2/d39/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_module_load_context" ],
             [ "Reference", "d0/de8/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_reference.html", "d0/de8/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_reference" ]
+          ] ],
+          [ "Test", "dd/d11/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_test.html", [
+            [ "PluginTests", "dd/d37/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_test_1_1_plugin_tests.html", "dd/d37/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_test_1_1_plugin_tests" ]
+          ] ],
+          [ "Workflows", "d7/d22/namespace_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows.html", [
+            [ "ProductImageExtactorWorkflow", "dd/ddc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_image_extactor_workflow.html", "dd/ddc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_image_extactor_workflow" ],
+            [ "ProductPriceUpdaterWorkflow", "d1/d58/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_price_updater_workflow.html", "d1/d58/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_price_updater_workflow" ],
+            [ "ViewRecompilerWorkflow", "df/dd7/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_view_recompiler_workflow.html", "df/dd7/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_view_recompiler_workflow" ],
+            [ "WalletSyncronizationWorkflow", "d0/de1/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_wallet_syncronization_workflow.html", "d0/de1/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_wallet_syncronization_workflow" ]
           ] ]
         ] ],
         [ "Proxy", "dd/d20/namespace_fenix_alliance_1_1_a_b_p_1_1_proxy.html", [
@@ -4058,83 +4381,30 @@ var annotated_dup =
       [ "ABS", "d9/dc1/namespace_fenix_alliance_1_1_a_b_s.html", [
         [ "Core", "d2/dc8/namespace_fenix_alliance_1_1_a_b_s_1_1_core.html", [
           [ "Contexts", "d2/d8c/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts.html", [
-            [ "BuilderContext", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context" ],
-            [ "ModelMarker", "df/df0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_model_marker.html", "df/df0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_model_marker" ],
             [ "PortalContext", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context" ],
             [ "StudioContext", "df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html", "df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context" ],
+            [ "BreadcrumbElement", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element.html", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element" ],
             [ "CommandBarElement", "d1/dfe/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element.html", "d1/dfe/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element" ],
-            [ "BreadcrumbElement", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element.html", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element" ]
+            [ "CommandBarElementMenu", "dc/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element_menu.html", null ],
+            [ "BuilderContext", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context" ],
+            [ "ModelMarker", "df/df0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_model_marker.html", "df/df0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_model_marker" ]
           ] ],
           [ "Navigation", "d2/d07/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation.html", [
             [ "INavigationManager", "df/dd4/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_i_navigation_manager.html", "df/dd4/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_i_navigation_manager" ],
             [ "NavigationManager", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager.html", "d9/d79/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_navigation_1_1_navigation_manager" ]
           ] ],
-          [ "SIngleton", "d5/d66/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingleton.html", [
-            [ "PortalClientService", "d0/d06/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingleton_1_1_portal_client_service.html", "d0/d06/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingleton_1_1_portal_client_service" ]
-          ] ],
           [ "SIngletons", "d5/d0c/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingletons.html", [
             [ "IPortalClientService", "d5/dd8/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingletons_1_1_i_portal_client_service.html", "d5/dd8/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingletons_1_1_i_portal_client_service" ]
           ] ],
           [ "Templating", "db/d3d/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating.html", [
-            [ "Blazor", "d9/d11/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor.html", [
-              [ "Client", "d2/db7/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client.html", [
-                [ "Models", "d8/d00/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models.html", [
-                  [ "ActivityToggleEventArgs", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args" ],
-                  [ "CreateSnippetRequest", "d1/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_create_snippet_request.html", "d1/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_create_snippet_request" ],
-                  [ "PageNotification", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification.html", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification" ],
-                  [ "SnippetResponse", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response.html", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response" ],
-                  [ "SnippetsOptions", "d1/d3e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippets_options.html", "d1/d3e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippets_options" ],
-                  [ "StaticAsset", "dc/d0a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_asset.html", "dc/d0a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_asset" ],
-                  [ "StaticAssets", "dd/d69/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_assets.html", "dd/d69/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_assets" ]
-                ] ],
-                [ "Services", "d7/d10/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services.html", [
-                  [ "HandleCriticalUserComponentExceptionsLogger", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_ha515997276f13d94ba5322ef8952b863f.html", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_ha515997276f13d94ba5322ef8952b863f" ],
-                  [ "HandleCriticalUserComponentExceptionsLoggerProvider", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa.html", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa" ],
-                  [ "ISnippetsService", "d4/dff/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_i_snippets_service.html", "d4/dff/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_i_snippets_service" ],
-                  [ "SnippetsService", "dc/d02/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_snippets_service.html", "dc/d02/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_snippets_service" ]
-                ] ]
-              ] ],
-              [ "Core", "d9/d52/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core.html", [
-                [ "PackageInstallation", "d4/d9b/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation.html", [
-                  [ "NuGetPackageManagementService", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f.html", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f" ],
-                  [ "NuGetRemoteDependencyProvider", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4.html", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4" ],
-                  [ "Package", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package.html", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package" ],
-                  [ "PackageLicenseInfo", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info.html", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info" ],
-                  [ "PackagesContentsResult", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637.html", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637" ],
-                  [ "PreparePackageInstallationResult", "d5/d59/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat854752791f9cb9929706e973fa849bad.html", "d5/d59/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat854752791f9cb9929706e973fa849bad" ]
-                ] ],
-                [ "IRazorCompilationService", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service.html", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service" ],
-                [ "CompilationDiagnostic", "d1/d6a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compilation_diagnostic.html", "d1/d6a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compilation_diagnostic" ],
-                [ "CompileToAssemblyResult", "d5/de0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_assembly_result.html", "d5/de0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_assembly_result" ],
-                [ "CompileToCSharpResult", "d8/dc7/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_c_sharp_result.html", "d8/dc7/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_c_sharp_result" ],
-                [ "RazorCompilationService", "dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html", "dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service" ]
-              ] ]
-            ] ],
-            [ "Helpers", "d6/da5/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers.html", [
-              [ "IViewBufferScope", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope.html", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope" ],
-              [ "ViewBufferValue", "d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value.html", "d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value" ]
-            ] ],
             [ "Interfaces", "d2/d43/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces.html", [
-              [ "Services", "db/dca/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services.html", [
-                [ "ViewRenderingService", "d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html", "d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service" ]
-              ] ],
               [ "IViewRenderingService", "d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html", "d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service" ]
             ] ],
-            [ "Services", "dd/d76/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services.html", [
-              [ "CodeCompilationService", "d1/d0e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_compilation_service.html", "d1/d0e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_compilation_service" ],
-              [ "CodeGenerationService", "db/d4e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_generation_service.html", "db/d4e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_generation_service" ]
-            ] ],
             [ "Templates", "d5/de1/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates.html", [
-              [ "IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base" ],
-              [ "DynamicComponentBase", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base" ],
-              [ "DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1" ]
-            ] ],
-            [ "Wrappers", "de/d51/namespace_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_wrappers.html", [
-              [ "IViewComponent", "db/dd1/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_wrappers_1_1_i_view_component.html", "db/dd1/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_wrappers_1_1_i_view_component" ]
+              [ "IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base" ]
             ] ],
             [ "ICodeCompilationService", "d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html", "d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service" ],
-            [ "ICodeGenerationService", "d1/de3/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_generation_service.html", "d1/de3/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_generation_service" ],
-            [ "AnonymousTypeWrapper", "de/dec/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_anonymous_type_wrapper.html", "de/dec/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_anonymous_type_wrapper" ]
+            [ "ICodeGenerationService", "d1/de3/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_generation_service.html", "d1/de3/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_generation_service" ]
           ] ]
         ] ],
         [ "Installer", "de/dff/namespace_fenix_alliance_1_1_a_b_s_1_1_installer.html", [
@@ -4147,6 +4417,7 @@ var annotated_dup =
             [ "Controllers", "d9/d2d/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers.html", [
               [ "AppsController", "dc/d7f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_apps_controller.html", "dc/d7f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_apps_controller" ],
               [ "BlogController", "d1/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_blog_controller.html", "d1/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_blog_controller" ],
+              [ "CultureController", "dd/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_culture_controller.html", "dd/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_culture_controller" ],
               [ "CurrenciesController", "d7/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_currencies_controller.html", "d7/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_currencies_controller" ],
               [ "ErrorController", "d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller.html", "d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller" ],
               [ "ForumsController", "d7/dc3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_forums_controller.html", "d7/dc3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_forums_controller" ],
@@ -4155,47 +4426,45 @@ var annotated_dup =
             ] ]
           ] ],
           [ "Editor", "de/de1/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor.html", [
+            [ "Controllers", "db/d41/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers.html", [
+              [ "BuilderController", "d9/dc8/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers_1_1_builder_controller.html", "d9/dc8/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers_1_1_builder_controller" ]
+            ] ],
             [ "ContentController", "d8/dbf/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_content_controller.html", "d8/dbf/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_content_controller" ]
           ] ],
           [ "UI", "de/dd3/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i.html", [
+            [ "Models", "db/d51/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models.html", [
+              [ "StructuredData", "d9/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_structured_data.html", "d9/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_structured_data" ],
+              [ "ContactPoint", "d1/d75/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_contact_point.html", "d1/d75/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_contact_point" ]
+            ] ],
             [ "ViewComponents", "d0/db1/namespace_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components.html", [
               [ "AccountDropdownViewComponent", "d2/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_dropdown_view_component.html", "d2/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_dropdown_view_component" ],
               [ "AccountHeaderViewComponent", "d0/d34/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_header_view_component.html", "d0/d34/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_header_view_component" ],
-              [ "AccountHolderCartViewComponent", "d7/da5/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_cart_view_component.html", "d7/da5/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_cart_view_component" ],
-              [ "AccountHolderNotificationsViewComponent", "dc/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component.html", "dc/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component" ],
-              [ "AccountProgressViewComponent", "d8/d6e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_progress_view_component.html", "d8/d6e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_progress_view_component" ],
-              [ "AdminTopBarViewComponent", "d2/dfb/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_admin_top_bar_view_component.html", "d2/dfb/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_admin_top_bar_view_component" ],
+              [ "BlogInitViewComponent", "da/d2e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_blog_init_view_component.html", "da/d2e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_blog_init_view_component" ],
               [ "BusinessAccountHeaderViewComponent", "dd/dbc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_account_header_view_component.html", "dd/dbc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_account_header_view_component" ],
-              [ "BusinessNotificationsViewComponent", "d7/d92/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_notifications_view_component.html", "d7/d92/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_notifications_view_component" ],
-              [ "BusinessCartViewComponent", "d1/d66/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_cart_view_component.html", "d1/d66/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_cart_view_component" ],
-              [ "ChatWindowViewComponent", "da/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_chat_window_view_component.html", "da/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_chat_window_view_component" ],
-              [ "ContactAccountHeaderViewComponent", "d8/d4c/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_account_header_view_component.html", "d8/d4c/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_account_header_view_component" ],
-              [ "ContactCardViewComponent", "d9/d95/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_card_view_component.html", "d9/d95/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_card_view_component" ],
               [ "DashboardInitViewComponent", "df/db6/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_dashboard_init_view_component.html", "df/db6/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_dashboard_init_view_component" ],
               [ "ForexRatesViewComponent", "dc/d14/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forex_rates_view_component.html", "dc/d14/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forex_rates_view_component" ],
+              [ "ForumsInitViewComponent", "d9/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forums_init_view_component.html", "d9/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forums_init_view_component" ],
               [ "InitPortalLayoutViewComponent", "de/d8f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_init_portal_layout_view_component.html", "de/d8f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_init_portal_layout_view_component" ],
-              [ "InvoiceViewComponent", "db/d97/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_invoice_view_component.html", "db/d97/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_invoice_view_component" ],
               [ "ItemPriceViewComponent", "df/dd9/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_item_price_view_component.html", "df/dd9/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_item_price_view_component" ],
               [ "LayoutInitViewComponent", "dd/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_layout_init_view_component.html", "dd/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_layout_init_view_component" ],
               [ "LoginViewComponent", "d8/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_login_view_component.html", "d8/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_login_view_component" ],
               [ "MetaTagsViewComponent", "d1/d23/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_meta_tags_view_component.html", "d1/d23/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_meta_tags_view_component" ],
-              [ "NewsletterSubscriptionViewComponent", "db/d2a/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component.html", "db/d2a/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component" ],
               [ "PortalHeaderViewComponent", "dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_header_view_component.html", "dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_header_view_component" ],
               [ "PortalLeftSideNavigationViewComponent", "d0/d4d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_left_side_navigation_view_component.html", "d0/d4d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_left_side_navigation_view_component" ],
               [ "PortalResponsiveHeaderViewComponent", "d8/dbd/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_header_view_component.html", "d8/dbd/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_header_view_component" ],
               [ "PortalResponsiveSideNavViewComponent", "d8/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_side_nav_view_component.html", "d8/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_side_nav_view_component" ],
               [ "PortalRightSideNavigationViewComponent", "de/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_right_side_navigation_view_component.html", "de/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_right_side_navigation_view_component" ],
               [ "PriceViewComponent", "d0/d49/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_price_view_component.html", "d0/d49/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_price_view_component" ],
-              [ "SocialFollowViewComponent", "d1/d68/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_social_follow_view_component.html", "d1/d68/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_social_follow_view_component" ],
               [ "ValidationScriptsViewComponent", "d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component.html", "d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component" ],
               [ "WebCommonsViewComponent", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component.html", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component" ]
             ] ]
-          ] ],
-          [ "Program", "d3/db0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_program.html", null ],
-          [ "Startup", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup.html", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup" ]
+          ] ]
         ] ],
         [ "Studio", "d3/db1/namespace_fenix_alliance_1_1_a_b_s_1_1_studio.html", [
           [ "Core", "d5/dd3/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core.html", [
+            [ "Controllers", "d7/d13/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers.html", [
+              [ "StudioController", "d7/dd5/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers_1_1_studio_controller.html", "d7/dd5/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers_1_1_studio_controller" ]
+            ] ],
             [ "Navigation", "dd/dab/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation.html", [
               [ "Holder", "d0/dae/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder.html", [
                 [ "ContextualMenu", "d2/d03/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder_1_1_contextual_menu.html", null ],
@@ -4217,19 +4486,17 @@ var annotated_dup =
                 [ "ContextualModulesMenu", "d8/d53/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_modules_1_1_contextual_modules_menu.html", null ],
                 [ "ContextualTopMenu", "d8/d37/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_modules_1_1_contextual_top_menu.html", null ]
               ] ],
+              [ "Social", "d4/db1/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social.html", [
+                [ "ContextualMenu", "d3/db1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_menu.html", null ],
+                [ "ContextualModule", "d0/d62/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_module.html", null ],
+                [ "ContextualTopMenu", "d5/def/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_top_menu.html", null ]
+              ] ],
               [ "Support", "dd/d21/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support.html", [
                 [ "ContextualMenu", "d1/d90/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_menu.html", null ],
                 [ "ContextualModule", "d3/d51/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_module.html", null ],
                 [ "ContextualTopMenu", "db/dc1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_top_menu.html", null ]
               ] ],
               [ "Tenants", "d6/dfe/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants.html", [
-                [ "Modules", "dc/df4/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules.html", [
-                  [ "Commerce", "d6/db9/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce.html", [
-                    [ "ContextualMenu", "da/dab/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_menu.html", null ],
-                    [ "ContextualModule", "df/db9/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_module.html", null ],
-                    [ "ContextualTopMenu", "dd/df8/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_top_menu.html", null ]
-                  ] ]
-                ] ],
                 [ "ContextualMenu", "da/d38/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_menu.html", null ],
                 [ "ContextualModule", "de/dd1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_module.html", null ],
                 [ "ContextualTopMenu", "da/d4c/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_top_menu.html", null ]
@@ -4238,9 +4505,6 @@ var annotated_dup =
               [ "ContextualModule", "d3/dcd/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_contextual_module.html", null ],
               [ "ContextualTopMenu", "d2/d95/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_contextual_top_menu.html", null ]
             ] ]
-          ] ],
-          [ "Web", "d3/d64/namespace_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_web.html", [
-            [ "Startup", "d3/d2f/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_web_1_1_startup.html", "d3/d2f/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_web_1_1_startup" ]
           ] ]
         ] ]
       ] ],
@@ -4273,7 +4537,8 @@ var annotated_dup =
                   ] ],
                   [ "IRestApi", "d3/d4c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e_s_t_1_1_i_rest_api.html", "d3/d4c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_e_s_t_1_1_i_rest_api" ]
                 ] ],
-                [ "IApis", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis.html", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis" ]
+                [ "IApis", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis.html", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis" ],
+                [ "IBlockChains", "d1/d99/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_block_chains.html", "d1/d99/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_block_chains" ]
               ] ],
               [ "Caching", "df/dd1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching.html", [
                 [ "ICaching", "d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching.html", "d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching" ],
@@ -4299,7 +4564,12 @@ var annotated_dup =
                 [ "IExceptionHandlerOptions", "dd/dcb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_dev_mode_1_1_i_exception_handler_options.html", "dd/dcb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_dev_mode_1_1_i_exception_handler_options" ]
               ] ],
               [ "FileSystem", "db/d43/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system.html", [
+                [ "IAwsS3FileSystem", "dc/ddd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_aws_s3_file_system.html", "dc/ddd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_aws_s3_file_system" ],
+                [ "IAzureBlobStorageFileSystem", "dd/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_0a3cee689b9556f413b150e2fd1fc9d5.html", "dd/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_0a3cee689b9556f413b150e2fd1fc9d5" ],
                 [ "IFileSystem", "d9/dd7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_file_system.html", "d9/dd7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_file_system" ]
+              ] ],
+              [ "GC", "d9/dc0/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c.html", [
+                [ "IGarbageCollection", "d5/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c_1_1_i_garbage_collection.html", "d5/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c_1_1_i_garbage_collection" ]
               ] ],
               [ "Health", "db/df2/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_health.html", [
                 [ "IHealthChecks", "d6/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_health_1_1_i_health_checks.html", "d6/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_health_1_1_i_health_checks" ],
@@ -4328,70 +4598,12 @@ var annotated_dup =
                 [ "ILocalization", "d6/d4f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1i18n_1_1_i_localization.html", "d6/d4f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1i18n_1_1_i_localization" ]
               ] ],
               [ "Integrations", "de/d37/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations.html", [
-                [ "ePayco", "de/d02/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1e_payco.html", [
-                  [ "IEPaycoIntegrationOptions", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24.html", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24" ]
-                ] ],
-                [ "Facebook", "df/d88/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_facebook.html", [
-                  [ "IFacebookIntegrationsOptions", "dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213.html", "dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213" ]
-                ] ],
-                [ "FenixAlliance", "d4/d95/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance.html", [
-                  [ "ABS", "d8/ddd/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance_1_1_a_b_s.html", [
-                    [ "IAllianceBusinessSuiteIntegrationsOptions", "d5/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b574a4ae5167c4b00fb590eb894cc6fe.html", "d5/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b574a4ae5167c4b00fb590eb894cc6fe" ]
-                  ] ],
-                  [ "ICX", "dc/db2/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance_1_1_i_c_x.html", [
-                    [ "IInfinityComexIntegrationsOptions", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f5560acc24f7691509cfa1d95daee8ca.html", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f5560acc24f7691509cfa1d95daee8ca" ]
-                  ] ],
-                  [ "IFenixAllianceIntegrationsOptions", "df/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dba9b87773ec171536f855692d51607e.html", "df/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dba9b87773ec171536f855692d51607e" ]
-                ] ],
                 [ "Google", "de/db6/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_google.html", [
-                  [ "Analytics", "db/d2e/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_google_1_1_analytics.html", [
-                    [ "IGoogleAnalyticsIntegrationOptions", "dc/db8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_111b702ab574da2952e148bb1cede2f87.html", "dc/db8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_111b702ab574da2952e148bb1cede2f87" ]
-                  ] ],
-                  [ "Maps", "d5/d6f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_google_1_1_maps.html", [
-                    [ "IGoogleMapsIntegrationOptions", "d4/d27/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1e90bd5415bce50a26c25fb0fc9a3b9ac.html", "d4/d27/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1e90bd5415bce50a26c25fb0fc9a3b9ac" ]
-                  ] ],
                   [ "MyBusiness", "d5/d50/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_google_1_1_my_business.html", [
-                    [ "IGoogleMerchantCenterIntegrationOptions", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27" ],
-                    [ "IGoogleMyBusinessIntegrationOptions", "d5/d9e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1766b82b37336c199a4e0e5b90e696f08.html", "d5/d9e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1766b82b37336c199a4e0e5b90e696f08" ],
-                    [ "IGoogleTagManagerIntegrationOptions", "dd/d2e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_198ac1899afca20a7ad9436a5c300d23d.html", "dd/d2e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_198ac1899afca20a7ad9436a5c300d23d" ],
                     [ "GoogleMerchantCenterIntegrationOptions", "d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html", "d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52" ],
                     [ "GoogleTagManagerIntegrationOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_g1bcbe9a8e97387e7a20a048c9d86db5a.html", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_g1bcbe9a8e97387e7a20a048c9d86db5a" ]
-                  ] ],
-                  [ "Recaptcha", "d9/de1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_google_1_1_recaptcha.html", [
-                    [ "IGoogleRecaptchaIntegrationOptions", "da/d73/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_150efcc716b7414750bc17cb06f35ccf3.html", "da/d73/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_150efcc716b7414750bc17cb06f35ccf3" ]
-                  ] ],
-                  [ "IGoogleIntegrationOptions", "dc/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f37a3c864deefa663eb27fe6f04e22de.html", "dc/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f37a3c864deefa663eb27fe6f04e22de" ]
-                ] ],
-                [ "MSFT", "db/d4c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_m_s_f_t.html", [
-                  [ "Azure", "dd/deb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_m_s_f_t_1_1_azure.html", [
-                    [ "AppInsights", "dc/d9d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1923f53a7ad59d4fb8257bd523e1076a4.html", [
-                      [ "IAzureAppInsightIntegrationOptions", "db/d58/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1882055532183cd513e6c699b16dd68f6.html", "db/d58/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1882055532183cd513e6c699b16dd68f6" ]
-                    ] ],
-                    [ "Storage", "d8/d1a/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_182cce35c483e57bf37969ccd406e9b70.html", [
-                      [ "IAzureStorageIntegrationOptions", "dd/d54/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ae9bca894cffed1fdb57098aba7b9059.html", "dd/d54/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ae9bca894cffed1fdb57098aba7b9059" ]
-                    ] ],
-                    [ "IMicrosoftAzureIntegrationOptions", "dd/dcd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b0838e3eb4f4eead753740e3fd6ccb85.html", "dd/dcd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b0838e3eb4f4eead753740e3fd6ccb85" ]
-                  ] ],
-                  [ "IMicrosoftIntegrationOptions", "db/df5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dc89bb2a2afd387e0dfafb163e3c449d.html", "db/df5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dc89bb2a2afd387e0dfafb163e3c449d" ]
-                ] ],
-                [ "OpenExchangeRates", "dd/d0f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_open_exchange_rates.html", [
-                  [ "IOpenExchangeRatesIntegrationOptions", "d4/d34/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dbd1e2a82cd313a5d79a5aec3b02bbe8.html", "d4/d34/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dbd1e2a82cd313a5d79a5aec3b02bbe8" ]
-                ] ],
-                [ "PayPal", "d0/d70/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_pay_pal.html", [
-                  [ "IPayPalIntegrationOptions", "d1/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_10aa4195d25d5597bfe352424045d2af5.html", "d1/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_10aa4195d25d5597bfe352424045d2af5" ]
-                ] ],
-                [ "Sendgrid", "d8/dac/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_sendgrid.html", [
-                  [ "ISendgridIntegrationOptions", "db/d1d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_19156d69f34ad37cb72092dbaaadb4d7a.html", "db/d1d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_19156d69f34ad37cb72092dbaaadb4d7a" ]
-                ] ],
-                [ "WordPress", "d9/d50/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_word_press.html", [
-                  [ "IWooCommerceIntegrationOptions", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0.html", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0" ],
-                  [ "IWordPressIntegrationOptions", "d8/d81/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_190d5e5a8c7cdddc3e294f16e997fc46f.html", "d8/d81/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_190d5e5a8c7cdddc3e294f16e997fc46f" ]
-                ] ],
-                [ "ZiftAnalytics", "dd/d1b/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_zift_analytics.html", [
-                  [ "IZiftAnalyticsOptions", "dc/d97/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_12e0e045730bd190799e7a98dcb62676f.html", "dc/d97/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_12e0e045730bd190799e7a98dcb62676f" ],
-                  [ "ZiftAnalyticsOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9.html", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9" ]
-                ] ],
-                [ "IIntegrations", "dc/dc3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_i_integrations.html", "dc/dc3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_i_integrations" ]
+                  ] ]
+                ] ]
               ] ],
               [ "Logging", "d3/d1c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging.html", [
                 [ "Serilog", "de/d99/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog.html", [
@@ -4404,6 +4616,9 @@ var annotated_dup =
                 ] ],
                 [ "ILogging", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging.html", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging" ],
                 [ "ILogLevel", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level.html", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level" ]
+              ] ],
+              [ "Metrics", "d9/da7/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_metrics.html", [
+                [ "IMetrics", "d3/d8e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_metrics_1_1_i_metrics.html", null ]
               ] ],
               [ "Modular", "da/d8d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular.html", [
                 [ "IModular", "d7/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_modular.html", "d7/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_modular" ],
@@ -4450,6 +4665,7 @@ var annotated_dup =
                 [ "IStaticResource", "d3/de9/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_static_1_1_i_static_resource.html", "d3/de9/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_static_1_1_i_static_resource" ]
               ] ],
               [ "WS", "d5/d2c/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s.html", [
+                [ "IWopi", "d2/deb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_wopi.html", "d2/deb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_wopi" ],
                 [ "IWebSockets", "d8/d2d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_web_sockets.html", "d8/d2d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_web_sockets" ]
               ] ],
               [ "IAllianceBusinessPlatformOptions", "d6/d19/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_i_alliance_business_platform_options.html", "d6/d19/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_i_alliance_business_platform_options" ]
@@ -4463,8 +4679,7 @@ var annotated_dup =
                 [ "IRazorPages", "dc/dad/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_v_m_1_1_i_razor_pages.html", "dc/dad/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_m_v_v_m_1_1_i_razor_pages" ]
               ] ],
               [ "Portal", "dc/d21/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal.html", [
-                [ "IPortal", "d5/d5f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal.html", "d5/d5f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal" ],
-                [ "IPortalOptions", "dc/d98/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal_options.html", "dc/d98/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal_options" ]
+                [ "IPortal", "d5/d5f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal.html", "d5/d5f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal" ]
               ] ],
               [ "SPAs", "d8/dfa/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as.html", [
                 [ "IBlazor", "d2/d96/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor.html", "d2/d96/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor" ],
@@ -4493,9 +4708,6 @@ var annotated_dup =
                   [ "IDefaultIdentity", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca.html", "d8/da3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_056b447052a09720841dc02cc5643cca" ],
                   [ "ICookieAuthenticationOptions", "dd/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_fca7405f91e1411ec35c285dec4c377f.html", "dd/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_fca7405f91e1411ec35c285dec4c377f" ],
                   [ "IOpenIdConnectOptions", "db/d00/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a0baa996c813ec3fa03bc58bea56d67b.html", "db/d00/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a0baa996c813ec3fa03bc58bea56d67b" ]
-                ] ],
-                [ "IdentityServer4", "d3/d86/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_identity_server4.html", [
-                  [ "IIdentityServer4", "da/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_521b0fbc7cb78532a9fb937571388bcf.html", "da/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_521b0fbc7cb78532a9fb937571388bcf" ]
                 ] ]
               ] ],
               [ "IAlliancePassportServicesOptions", "d0/d08/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_i_alliance_passport_services_options.html", "d0/d08/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_i_alliance_passport_services_options" ]
@@ -4541,6 +4753,9 @@ var annotated_dup =
                 ] ],
                 [ "ApisOptions", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options.html", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options" ]
               ] ],
+              [ "BlockChains", "d8/d20/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains.html", [
+                [ "BlockChainsOptions", "d2/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains_1_1_block_chains_options.html", "d2/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains_1_1_block_chains_options" ]
+              ] ],
               [ "Caching", "d3/dd9/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching.html", [
                 [ "CachingOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options.html", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options" ],
                 [ "DistributedCache", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache.html", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache" ],
@@ -4565,7 +4780,12 @@ var annotated_dup =
                 [ "ExceptionHandlerOptions", "d6/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_exception_handler_options.html", "d6/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_exception_handler_options" ]
               ] ],
               [ "FileSystem", "db/d6f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system.html", [
+                [ "AwsS3FileSystem", "d8/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_aws_s3_file_system.html", "d8/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_aws_s3_file_system" ],
+                [ "AzureBlobStorageFileSystem", "d9/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_azure_blob_storage_file_system.html", "d9/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_azure_blob_storage_file_system" ],
                 [ "FileSystemOptions", "d5/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_file_system_options.html", "d5/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_file_system_options" ]
+              ] ],
+              [ "GC", "d7/d0b/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c.html", [
+                [ "GarbageCollection", "d9/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection.html", "d9/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection" ]
               ] ],
               [ "Health", "d7/d01/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health.html", [
                 [ "HealthChecksOptions", "d4/d76/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_options.html", "d4/d76/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_options" ],
@@ -4637,19 +4857,11 @@ var annotated_dup =
                   [ "MicrosoftIntegrationsOptions", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee.html", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee" ]
                 ] ],
                 [ "OpenExchangeRates", "d1/d77/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_exchange_rates.html", [
+                  [ "FreeGeoIPIntegrationOptions", "d2/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_ead7df6747fe3d535d3b0abed6c438489.html", "d2/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_ead7df6747fe3d535d3b0abed6c438489" ],
                   [ "OpenExchangeRatesIntegrationsOptions", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d.html", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d" ]
-                ] ],
-                [ "PayPal", "da/d14/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pal.html", [
-                  [ "PayPalIntegrationsOptions", "db/d3c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pa0627e198b4f55a6bdae43b4a67d7169f.html", "db/d3c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pa0627e198b4f55a6bdae43b4a67d7169f" ]
                 ] ],
                 [ "Sendgrid", "da/d60/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrid.html", [
                   [ "SendgridIntegrationsOptions", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e.html", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e" ]
-                ] ],
-                [ "WordPress", "db/dfa/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_press.html", [
-                  [ "WooCommerce", "d8/df1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_press_1_1_woo_commerce.html", [
-                    [ "WooCommerceIntegrationsOptions", "d2/d08/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p7a3e36d238c01f8b46b38d0cbe753bef.html", "d2/d08/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p7a3e36d238c01f8b46b38d0cbe753bef" ]
-                  ] ],
-                  [ "WordPressIntegrationsOptions", "d7/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p61927c68174347608eda4243adf0b55e.html", "d7/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p61927c68174347608eda4243adf0b55e" ]
                 ] ],
                 [ "IntegrationsOptions", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options" ]
               ] ],
@@ -4664,6 +4876,9 @@ var annotated_dup =
                 ] ],
                 [ "LoggingOptions", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options.html", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options" ],
                 [ "LogLevel", "d6/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_log_level.html", "d6/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_log_level" ]
+              ] ],
+              [ "Metrics", "d6/d3e/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_metrics.html", [
+                [ "MetricsOptions", "d3/d64/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_metrics_1_1_metrics_options.html", null ]
               ] ],
               [ "Modular", "d7/d53/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular.html", [
                 [ "ModularOptions", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options.html", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options" ],
@@ -4727,7 +4942,7 @@ var annotated_dup =
                   [ "BackgroundOptions", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options.html", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options" ]
                 ] ],
                 [ "Blog", "d6/d74/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_blog.html", [
-                  [ "BlogOptions", "d5/dc1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_blog_1_1_blog_options.html", null ]
+                  [ "BlogOptions", "d5/dc1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_blog_1_1_blog_options.html", "d5/dc1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_blog_1_1_blog_options" ]
                 ] ],
                 [ "Branding", "d8/d64/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding.html", [
                   [ "Favicons", "d3/d02/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons.html", [
@@ -4738,10 +4953,11 @@ var annotated_dup =
                   [ "Logos", "d6/d57/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos.html", [
                     [ "Logo", "da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo.html", "da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo" ]
                   ] ],
-                  [ "BrandingOptions", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options.html", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options" ]
+                  [ "BrandingOptions", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options.html", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options" ],
+                  [ "StudioOptions", "d9/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_studio_options.html", "d9/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_studio_options" ]
                 ] ],
                 [ "Breadcrumbs", "d7/d1f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs.html", [
-                  [ "BreadcrumbOptions", "d5/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumb_options.html", "d5/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumb_options" ]
+                  [ "BreadcrumbsOptions", "df/dfa/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumbs_options.html", "df/dfa/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumbs_options" ]
                 ] ],
                 [ "Colors", "dd/da9/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors.html", [
                   [ "ColorOptions", "d1/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_options.html", "d1/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_options" ],
@@ -4755,13 +4971,16 @@ var annotated_dup =
                   [ "Typography", "d2/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_typography.html", "d2/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_typography" ]
                 ] ],
                 [ "Contact", "d5/d0e/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact.html", [
-                  [ "ContactOptions", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options.html", null ]
+                  [ "ContactOptions", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options.html", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options" ]
                 ] ],
                 [ "Dashboard", "d4/db0/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard.html", [
                   [ "DashboardOptions", "dc/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard_1_1_dashboard_options.html", "dc/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_dashboard_1_1_dashboard_options" ]
                 ] ],
+                [ "Emails", "d6/d6d/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_emails.html", [
+                  [ "EmailsOptions", "da/dd5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_emails_1_1_emails_options.html", "da/dd5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_emails_1_1_emails_options" ]
+                ] ],
                 [ "Features", "d9/d25/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features.html", [
-                  [ "FeatureOptions", "d5/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_feature_options.html", null ]
+                  [ "FeaturesOptions", "d9/d80/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_features_options.html", null ]
                 ] ],
                 [ "Fields", "d0/dee/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_fields.html", [
                   [ "CodeFieldsOptions", "d3/dbd/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_fields_1_1_code_fields_options.html", null ]
@@ -4770,10 +4989,10 @@ var annotated_dup =
                   [ "FooterOptions", "d9/ddb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_footer_1_1_footer_options.html", "d9/ddb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_footer_1_1_footer_options" ]
                 ] ],
                 [ "Forms", "d8/dc1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms.html", [
-                  [ "FormOptions", "d5/da8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_form_options.html", null ]
+                  [ "FormsOptions", "da/dd3/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_forms_options.html", null ]
                 ] ],
                 [ "Forum", "d1/d3f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum.html", [
-                  [ "ForumOptions", "df/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum_1_1_forum_options.html", null ]
+                  [ "ForumOptions", "df/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum_1_1_forum_options.html", "df/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum_1_1_forum_options" ]
                 ] ],
                 [ "Grid", "d7/d51/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_grid.html", [
                   [ "GridOptions", "d8/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_grid_1_1_grid_options.html", null ]
@@ -4817,7 +5036,7 @@ var annotated_dup =
                   [ "PortfolioOptions", "da/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portfolio_1_1_portfolio_options.html", null ]
                 ] ],
                 [ "Privacy", "d6/dff/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy.html", [
-                  [ "PrivacyOptions", "db/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy_1_1_privacy_options.html", null ]
+                  [ "PrivacyOptions", "db/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy_1_1_privacy_options.html", "db/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy_1_1_privacy_options" ]
                 ] ],
                 [ "Responsive", "d2/d1e/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_responsive.html", [
                   [ "ResponsiveOptions", "dd/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_responsive_1_1_responsive_options.html", "dd/d3f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_responsive_1_1_responsive_options" ]
@@ -4892,16 +5111,18 @@ var annotated_dup =
                 [ "DefaultIdentity", "d2/dd1/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity.html", [
                   [ "CookieAuthenticationOptions", "d0/d01/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i689c1c02beb21d471b059daef27ed8b4.html", "d0/d01/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i689c1c02beb21d471b059daef27ed8b4" ],
                   [ "DefaultIdentity", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity" ],
-                  [ "OpenIdConnectOptions", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05.html", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05" ]
+                  [ "OpenIdConnectOptions", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05.html", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05" ],
+                  [ "OpenIddictOptions", "d1/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options.html", "d1/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options" ]
                 ] ],
                 [ "Facebook", "d7/da6/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook.html", [
                   [ "FacebookAuthenticationOptions", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831" ]
                 ] ],
                 [ "Google", "df/d01/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google.html", [
-                  [ "GoogleAuthenticationOptions", "dc/df2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_google_authentication_options.html", "dc/df2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_google_authentication_options" ]
-                ] ],
-                [ "IdentityServer4", "dd/d0f/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4.html", [
-                  [ "IdentityServer4", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4" ]
+                  [ "AmazonAuthenticationOptions", "d9/d52/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_amazon_authentication_options.html", "d9/d52/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_amazon_authentication_options" ],
+                  [ "AutodeskAuthenticationOptions", "d9/d22/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_a9ff22f45282448bec32680d6a3b3035.html", "d9/d22/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_a9ff22f45282448bec32680d6a3b3035" ],
+                  [ "GitHubAuthenticationOptions", "de/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68.html", "de/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68" ],
+                  [ "GoogleAuthenticationOptions", "dc/df2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_google_authentication_options.html", "dc/df2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_google_authentication_options" ],
+                  [ "LinkedInAuthenticationOptions", "d8/de9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_107655cad28e87a30b2ae597d55e805e.html", "d8/de9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_107655cad28e87a30b2ae597d55e805e" ]
                 ] ],
                 [ "MicrosoftIdentity", "d4/d13/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoft_identity.html", [
                   [ "MicrosoftIdentityAuthenticationOptions", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9.html", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9" ]
@@ -5014,37 +5235,22 @@ var annotated_dup =
             [ "Account", "d2/dca/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account.html", [
               [ "Controllers", "dc/d1c/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers.html", [
                 [ "AccountController", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller" ],
-                [ "AddressesController", "d1/d5d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_addresses_controller.html", "d1/d5d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_addresses_controller" ],
-                [ "BusinessesController", "d7/d6f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_businesses_controller.html", "d7/d6f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_businesses_controller" ],
-                [ "CartController", "da/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_cart_controller.html", "da/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_cart_controller" ],
-                [ "EnrollmentsController", "df/dcc/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_enrollments_controller.html", "df/dcc/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_enrollments_controller" ],
-                [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller" ],
-                [ "NotificationsController", "d8/d47/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_notifications_controller.html", "d8/d47/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_notifications_controller" ],
-                [ "SettingsController", "d9/dd8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_settings_controller.html", "d9/dd8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_settings_controller" ],
-                [ "SocialProfileController", "d6/d96/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_social_profile_controller.html", "d6/d96/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_social_profile_controller" ],
-                [ "WishListsController", "d4/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_wish_lists_controller.html", "d4/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_wish_lists_controller" ]
+                [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller" ]
               ] ]
             ] ],
             [ "Businesses", "da/dc3/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses.html", [
               [ "Controllers", "d9/d96/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers.html", [
-                [ "BusinessController", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller" ],
-                [ "CartController", "d4/d5f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_cart_controller.html", "d4/d5f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_cart_controller" ],
-                [ "CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller" ],
-                [ "HomeController", "db/d28/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_home_controller.html", "db/d28/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_home_controller" ],
-                [ "LocationsController", "d5/d0c/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_locations_controller.html", "d5/d0c/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_locations_controller" ],
-                [ "NotificationsController", "d6/dd2/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_notifications_controller.html", "d6/dd2/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_notifications_controller" ],
-                [ "PersonnelController", "d8/dac/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_personnel_controller.html", "d8/dac/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_personnel_controller" ],
-                [ "ReviewsController", "de/d82/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_reviews_controller.html", "de/d82/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_reviews_controller" ],
-                [ "SettingsController", "dd/d53/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_settings_controller.html", "dd/d53/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_settings_controller" ],
-                [ "TeamsController", "df/d48/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_teams_controller.html", "df/d48/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_teams_controller" ],
-                [ "WishListsController", "d5/d23/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_wish_lists_controller.html", "d5/d23/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_wish_lists_controller" ]
+                [ "CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller" ]
               ] ]
             ] ]
           ] ],
           [ "Controllers", "d7/dd8/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers.html", [
             [ "Auth", "d9/d95/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth.html", [
               [ "ApplicationsController", "d1/d36/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_applications_controller.html", "d1/d36/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_applications_controller" ],
-              [ "OAuth2Controller", "df/d93/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth2_controller.html", "df/d93/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth2_controller" ]
+              [ "CheckerController", "d6/d09/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_checker_controller.html", "d6/d09/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_checker_controller" ],
+              [ "OAuthController", "d9/d6e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_controller.html", "d9/d6e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_controller" ],
+              [ "SigninModel", "dd/d30/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_signin_model.html", "dd/d30/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_signin_model" ],
+              [ "OAuthTokenRequest", "de/dfb/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_token_request.html", "de/dfb/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_token_request" ]
             ] ],
             [ "Holders", "dd/d50/namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_holders.html", [
               [ "HolderController", "db/d2f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_holders_1_1_holder_controller.html", "db/d2f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_holders_1_1_holder_controller" ]
@@ -5076,113 +5282,13 @@ var annotated_dup =
             [ "ErrorViewModel", "df/dd1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_error_view_model.html", "df/dd1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_error_view_model" ]
           ] ]
         ] ]
-      ] ],
-      [ "ICX", "d9/d3e/namespace_fenix_alliance_1_1_i_c_x.html", [
-        [ "Core", "d0/de4/namespace_fenix_alliance_1_1_i_c_x_1_1_core.html", [
-          [ "API", "d0/d86/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i.html", [
-            [ "CartRecordsController", "d6/d50/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_cart_records_controller.html", "d6/d50/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_cart_records_controller" ],
-            [ "CartsController", "d3/dfc/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_carts_controller.html", "d3/dfc/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_carts_controller" ],
-            [ "CompareRecordsController", "d3/d80/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_compare_records_controller.html", "d3/d80/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_compare_records_controller" ],
-            [ "ProductsController", "d2/dd7/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_products_controller.html", "d2/dd7/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_products_controller" ],
-            [ "WishListsController", "d7/d54/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_wish_lists_controller.html", "d7/d54/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_wish_lists_controller" ]
-          ] ],
-          [ "Areas", "d0/d07/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas.html", [
-            [ "Store", "d3/d02/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store.html", [
-              [ "Controllers", "df/d1c/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers.html", [
-                [ "Attributes", "db/d55/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes.html", [
-                  [ "AttributeOptionsController", "d9/d36/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attribute_options_controller.html", "d9/d36/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attribute_options_controller" ],
-                  [ "AttributesController", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attributes_controller.html", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attributes_controller" ]
-                ] ],
-                [ "Brands", "dc/dfa/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_brands.html", [
-                  [ "BrandsController", "d4/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_brands_1_1_brands_controller.html", "d4/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_brands_1_1_brands_controller" ]
-                ] ],
-                [ "Categories", "dc/de6/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_categories.html", [
-                  [ "CategoriesController", "d9/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_categories_1_1_categories_controller.html", "d9/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_categories_1_1_categories_controller" ]
-                ] ],
-                [ "Checkout", "d6/d0f/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_checkout.html", [
-                  [ "CheckoutController", "d6/d12/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_checkout_1_1_checkout_controller.html", "d6/d12/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_checkout_1_1_checkout_controller" ]
-                ] ],
-                [ "Compare", "d5/d6c/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_compare.html", [
-                  [ "CompareController", "dc/d69/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_compare_1_1_compare_controller.html", "dc/d69/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_compare_1_1_compare_controller" ]
-                ] ],
-                [ "Deals", "d4/db3/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals.html", [
-                  [ "DealsController", "d7/d63/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals_1_1_deals_controller.html", "d7/d63/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals_1_1_deals_controller" ]
-                ] ],
-                [ "Invoices", "dc/d3c/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_invoices.html", [
-                  [ "InvoicesController", "d1/d84/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_invoices_1_1_invoices_controller.html", "d1/d84/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_invoices_1_1_invoices_controller" ]
-                ] ],
-                [ "Items", "dc/d8c/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_items.html", [
-                  [ "ProductsController", "db/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_items_1_1_products_controller.html", "db/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_items_1_1_products_controller" ]
-                ] ],
-                [ "Methods", "d7/d49/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods.html", [
-                  [ "MethodsController", "db/dd2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods_1_1_methods_controller.html", "db/dd2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods_1_1_methods_controller" ]
-                ] ],
-                [ "Orders", "d6/d0e/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_orders.html", [
-                  [ "OrdersController", "da/da2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_orders_1_1_orders_controller.html", "da/da2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_orders_1_1_orders_controller" ]
-                ] ],
-                [ "Payments", "db/d9a/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments.html", [
-                  [ "PaymentsController", "dd/d30/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments_1_1_payments_controller.html", "dd/d30/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments_1_1_payments_controller" ]
-                ] ],
-                [ "StoreCarts", "d6/d0c/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts.html", [
-                  [ "CartsController", "df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller.html", "df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller" ]
-                ] ],
-                [ "Tags", "d0/de8/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_tags.html", [
-                  [ "TagsController", "d5/dcb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_tags_1_1_tags_controller.html", "d5/dcb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_tags_1_1_tags_controller" ]
-                ] ],
-                [ "Types", "d7/d5b/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_types.html", [
-                  [ "TypesController", "d1/d4d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_types_1_1_types_controller.html", "d1/d4d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_types_1_1_types_controller" ]
-                ] ],
-                [ "Wallets", "df/d64/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets.html", [
-                  [ "WalletController", "da/d68/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets_1_1_wallet_controller.html", "da/d68/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets_1_1_wallet_controller" ]
-                ] ],
-                [ "AboutController", "d2/dc2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_about_controller.html", "d2/dc2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_about_controller" ],
-                [ "HomeController", "d5/dc9/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_home_controller.html", "d5/dc9/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_home_controller" ]
-              ] ],
-              [ "ViewComponents", "d5/d18/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components.html", [
-                [ "BlogInitViewComponent", "db/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_blog_init_view_component.html", "db/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_blog_init_view_component" ],
-                [ "ForumsInitViewComponent", "d7/de3/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_forums_init_view_component.html", "d7/de3/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_forums_init_view_component" ],
-                [ "AddToCartButtonViewComponent", "d9/d1e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_cart_button_view_component.html", "d9/d1e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_cart_button_view_component" ],
-                [ "AddToCompareButtonViewComponent", "d0/d88/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_compare_button_view_component.html", "d0/d88/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_compare_button_view_component" ],
-                [ "CategoriesShowcaseViewComponent", "df/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_categories_showcase_view_component.html", "df/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_categories_showcase_view_component" ],
-                [ "ExpressCheckoutButtonViewComponent", "db/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_express_checkout_button_view_component.html", "db/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_express_checkout_button_view_component" ],
-                [ "FullWidthSliderShowcaseSlideViewComponent", "d3/db4/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_s26122a629dab6fb52e512087ef85a264.html", "d3/db4/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_s26122a629dab6fb52e512087ef85a264" ],
-                [ "FullWidthSliderShowcaseViewComponent", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component" ],
-                [ "GetShippingEstimatesBoxViewComponent", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component" ],
-                [ "InlineShowcaseItemViewComponent", "dd/d6f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_item_view_component.html", "dd/d6f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_item_view_component" ],
-                [ "InlineShowcaseViewComponent", "d7/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_view_component.html", "d7/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_view_component" ],
-                [ "ItemPriceDetailViewComponent", "df/d49/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_price_detail_view_component.html", "df/d49/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_price_detail_view_component" ],
-                [ "ItemsGridItemViewComponent", "d3/d27/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_item_view_component.html", "d3/d27/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_item_view_component" ],
-                [ "ItemsGridViewComponent", "d2/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_view_component.html", "d2/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_view_component" ],
-                [ "ItemsMozaicViewComponent", "d6/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_mozaic_view_component.html", "d6/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_mozaic_view_component" ],
-                [ "ItemStarsRatingBoxViewComponent", "d9/d6c/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_stars_rating_box_view_component.html", "d9/d6c/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_stars_rating_box_view_component" ],
-                [ "LatestsReviewsViewComponent", "d1/db5/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_latests_reviews_view_component.html", "d1/db5/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_latests_reviews_view_component" ],
-                [ "RecentlyViewedItemsViewComponent", "d4/d78/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recently_viewed_items_view_component.html", "d4/d78/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recently_viewed_items_view_component" ],
-                [ "RecommendedItemsViewComponent", "d9/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recommended_items_view_component.html", "d9/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recommended_items_view_component" ],
-                [ "ReviewStarsRatingBoxViewComponent", "dc/d18/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_review_stars_rating_box_view_component.html", "dc/d18/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_review_stars_rating_box_view_component" ],
-                [ "SearchBoxPopUpViewComponent", "da/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_box_pop_up_view_component.html", "da/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_box_pop_up_view_component" ],
-                [ "SearchFiltersViewComponent", "df/d73/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_filters_view_component.html", "df/d73/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_filters_view_component" ],
-                [ "SelectCurrencyViewComponent", "d7/deb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_select_currency_view_component.html", "d7/deb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_select_currency_view_component" ],
-                [ "SimilarItemsViewComponent", "da/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_similar_items_view_component.html", "da/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_similar_items_view_component" ],
-                [ "StoreCartDropdownViewComponent", "da/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_cart_dropdown_view_component.html", "da/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_cart_dropdown_view_component" ],
-                [ "StoreCategoriesAcordeonViewComponent", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component" ],
-                [ "StoreCategoriesNavSidebarViewComponent", "d2/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_nav_sidebar_view_component.html", "d2/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_nav_sidebar_view_component" ],
-                [ "StoreFooterViewComponent", "d9/ddf/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_footer_view_component.html", "d9/ddf/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_footer_view_component" ],
-                [ "StoreHeaderViewComponent", "d4/d22/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_header_view_component.html", "d4/d22/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_header_view_component" ],
-                [ "StoreHeroViewComponent", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_hero_view_component.html", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_hero_view_component" ],
-                [ "StoreInitViewComponent", "d4/dac/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_init_view_component.html", "d4/dac/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_init_view_component" ],
-                [ "TabsShowcaseItemViewComponent", "d2/d72/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_item_view_component.html", "d2/d72/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_item_view_component" ],
-                [ "TabsShowcaseViewComponent", "da/d3f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_view_component.html", "da/d3f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_view_component" ],
-                [ "TagsCloudViewComponent", "d7/dc1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tags_cloud_view_component.html", "d7/dc1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tags_cloud_view_component" ]
-              ] ]
-            ] ]
-          ] ],
-          [ "Models", "db/d86/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models.html", [
-            [ "RecommendationObjectsRequestResponse", "dc/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models_1_1_recommendation_objects_request_response.html", "dc/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models_1_1_recommendation_objects_request_response" ]
-          ] ],
-          [ "Services", "d8/d0e/namespace_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services.html", [
-            [ "ICheckoutService", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service" ]
-          ] ]
-        ] ]
       ] ]
-    ] ]
+    ] ],
+    [ "AuthorizationController", "d6/d52/class_authorization_controller.html", "d6/d52/class_authorization_controller" ],
+    [ "AuthorizeViewModel", "da/d06/class_authorize_view_model.html", "da/d06/class_authorize_view_model" ],
+    [ "FormValueRequiredAttribute", "d6/d9b/class_form_value_required_attribute.html", "d6/d9b/class_form_value_required_attribute" ],
+    [ "IdentityWorkerService", "d3/ddf/class_identity_worker_service.html", "d3/ddf/class_identity_worker_service" ],
+    [ "ResourceController", "d7/ddf/class_resource_controller.html", "d7/ddf/class_resource_controller" ],
+    [ "UserinfoController", "dc/db6/class_userinfo_controller.html", "dc/db6/class_userinfo_controller" ],
+    [ "VerifyViewModel", "dd/dfb/class_verify_view_model.html", "dd/dfb/class_verify_view_model" ]
 ];

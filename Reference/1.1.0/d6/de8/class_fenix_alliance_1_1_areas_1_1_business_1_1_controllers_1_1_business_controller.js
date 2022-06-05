@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller =
+[
+    [ "BusinessController", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#af19652fd4d98ca405fe15913d8140339", null ],
+    [ "Create", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a209630620ef30230027cd89ce9d29895", null ],
+    [ "Create", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#ab81e6e344457d20d105de4cc8df704bb", null ],
+    [ "Delete", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#afe62e4a4bd6a5c0340adef10ec943b38", null ],
+    [ "DeleteConfirmed", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#ada3f2a2a16c6d3a957edc59a1bb43bb8", null ],
+    [ "Details", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a51492fb059d4ccca4732ccd3c82943f5", null ],
+    [ "Edit", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#aa88dad64d63cbbd104a319611dac671f", null ],
+    [ "Edit", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#ab1d77ea0dc10a7c25b8d39ecadda1ec4", null ],
+    [ "Employees", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a9c34d307429c662b4cbae727451c5366", null ],
+    [ "Enrollments", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#aba5ad7990b0bfbea96c43782fb2362bd", null ],
+    [ "Followers", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#ac67d23b5347cf9e398ce230d5b32739c", null ],
+    [ "Following", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#aad8f41074bb721f2d067e90eccc346c3", null ],
+    [ "Groups", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a65fcd05b67f5dc0cd3f1f74ba1765f50", null ],
+    [ "Index", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a541f69552d0c401800f61cf38ccab4e6", null ],
+    [ "JobOffers", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a2ad61469f69ac9d48f95f7bbca2a20a8", null ],
+    [ "Products", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#aea5e91b27a74ead7df91191dcc9620cb", null ],
+    [ "Search", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a3134da5b7c2e5f79d82fe1bfbdc48c26", null ],
+    [ "AuthService", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a6f887fe53a74086045daf0c4cd896c7d", null ],
+    [ "Configuration", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#ae006f808eef0843540b9abfabcccf896", null ],
+    [ "DataContext", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a092e260eb414117ee8b23613b5ba637b", null ],
+    [ "Environment", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a5ea8b9b0e6d066973fa43d640f2e869a", null ],
+    [ "HolderService", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#af51839d97127cfc4cbe5f08a24bf536b", null ],
+    [ "StorageService", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#aad656369e27d21fbb34a03d9b7df0e2d", null ],
+    [ "StoreHelpers", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#a7a568577d9d17700b3a78ad798fbc694", null ],
+    [ "TenantService", "d6/de8/class_fenix_alliance_1_1_areas_1_1_business_1_1_controllers_1_1_business_controller.html#afc99081f1ab0f0bef7e0e0f28f272cd1", null ]
+];

@@ -1,12 +1,4 @@
 var namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus =
 [
-    [ "WindowsDefender", "dd/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender.html", "dd/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender" ],
-    [ "IAntivirusScanner", "d0/d9a/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_i_antivirus_scanner.html", "d0/d9a/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_i_antivirus_scanner" ],
-    [ "FileScanResult", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841", [
-      [ "Clean", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841a37d12e2cfbef6e6105297374d02f3998", null ],
-      [ "Threat", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841a4d369630702981cadf5008bb04dec976", null ],
-      [ "File404", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841ab86945791528f1c155c786b14a492367", null ],
-      [ "Error", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Timeout", "dc/d0b/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus.html#abbb38227864321bb764742af8ea9e841ac85a251cc457840f1e032f1b733e9398", null ]
-    ] ]
+    [ "WindowsDefender", "dd/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender.html", "dd/dfd/namespace_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender" ]
 ];

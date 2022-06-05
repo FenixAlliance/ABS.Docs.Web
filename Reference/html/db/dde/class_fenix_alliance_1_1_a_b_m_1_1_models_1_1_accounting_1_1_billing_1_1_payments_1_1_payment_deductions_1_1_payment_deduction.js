@@ -12,6 +12,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_pay
     [ "Currency", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#ad4d00a8b2c08fd981dc81a19d987b143", null ],
     [ "CurrencyID", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#a0d0ecb0d6ff176f16fd68c490521ccff", null ],
     [ "ID", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#a94a125439b71d168e3c3a2022300312a", null ],
-    [ "PaymentEntry", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#ac89d7ff3104fe78293247d013690bd9b", null ],
-    [ "PaymentEntryID", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#ad2471c714e2caffee47e28476d5a757d", null ]
+    [ "Payment", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#ae753963f3c22a4b4b8d4b9dc839c66ac", null ],
+    [ "PaymentID", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html#a5ed30b03e91e819edf5712d3b085b3dc", null ]
 ];

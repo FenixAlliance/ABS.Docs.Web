@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_args =
+[
+    [ "Path", "de/d01/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_args.html#a06d9fd7ba5346dfccd9a26f9ded2da9a", null ]
+];

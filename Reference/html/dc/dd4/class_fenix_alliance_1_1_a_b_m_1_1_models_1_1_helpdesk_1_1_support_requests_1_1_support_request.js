@@ -2,6 +2,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_
 [
     [ "AccountHolder", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#a761f2df414f7f8c6bc0efc15a0807f70", null ],
     [ "AccountHolderID", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#a150643033f3ec70998fa502f7efa7a8b", null ],
+    [ "Approved", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#aac1b4593c451dede3fa47671810b820e", null ],
+    [ "ApprovedTimestamp", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#a97d6859e59d8b55e5509f3c2bd6b1e3f", null ],
     [ "Business", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#ac15a981c883b91e9bce89f76a96cf9d4", null ],
     [ "BusinessID", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#a9e76aa7af554562f1698b2417bc643e8", null ],
     [ "BusinessProfileRecord", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html#a3eb09da05bc673bb299a7be3dc025ab4", null ],

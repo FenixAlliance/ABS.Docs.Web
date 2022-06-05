@@ -4,6 +4,7 @@ var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting =
     [ "Banking", "de/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking.html", "de/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking" ],
     [ "Billing", "d6/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing.html", "d6/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing" ],
     [ "Budgets", "d5/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets.html", "d5/dc8/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets" ],
+    [ "Commissions", "d3/def/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions.html", "d3/def/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions" ],
     [ "CostCentres", "d7/d96/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres.html", "d7/d96/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres" ],
     [ "Expenses", "dd/dce/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses.html", "dd/dce/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_expenses" ],
     [ "FinancialBooks", "d4/d64/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_financial_books.html", "d4/d64/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_financial_books" ],

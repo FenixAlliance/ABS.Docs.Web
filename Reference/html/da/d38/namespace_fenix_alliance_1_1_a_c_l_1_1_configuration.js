@@ -1,5 +1,6 @@
 var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration =
 [
+    [ "Cache", "d7/d91/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_cache.html", null ],
     [ "Enums", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html", [
       [ "AllianceBusinessModelProviderEngine", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a12ae1fee8a63fb639d9f74a853039634", [
         [ "MySQL", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a12ae1fee8a63fb639d9f74a853039634a62a004b95946bb97541afa471dcca73a", null ],
@@ -13,6 +14,11 @@ var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration =
         [ "APS_Operational", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a7446f9a109975772e3c47d8570811f46aaca5f75ce42f848070325eaa0b78bd97", null ],
         [ "ABM_Data", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a7446f9a109975772e3c47d8570811f46aa9830c6148d5bbae6a0678785a70ad84", null ],
         [ "ABM_Cache", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a7446f9a109975772e3c47d8570811f46a0691933f97aa8b2d7334136d7e684be8", null ]
+      ] ],
+      [ "AllianceBusinessModelRegistrationType", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a1129eb85840dfc967189e639c8371737", [
+        [ "Pooled", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a1129eb85840dfc967189e639c8371737ae488a232369c77a528c08970ad5a5b33", null ],
+        [ "Default", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a1129eb85840dfc967189e639c8371737a7a1920d61156abc05a60135aefe8bc67", null ],
+        [ "FromFactory", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#a1129eb85840dfc967189e639c8371737aed40d91c7e3dbab5f171ec39478258ed", null ]
       ] ],
       [ "AuthenticationProvider", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#abd285bc5166c8cc52576d774155e6757", [
         [ "DefaultIdentity", "de/ddb/namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_enums.html#abd285bc5166c8cc52576d774155e6757a14758f04f155d3f1521d6d0e4acd0b95", null ],

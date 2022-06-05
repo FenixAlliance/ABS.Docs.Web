@@ -6,7 +6,11 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libr
     [ "BusinessProfileRecordID", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#ae23e98bf0ec208b803e8b755974ff4bc", null ],
     [ "Course", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a8d14784417c9582302b088ff08fe0478", null ],
     [ "CourseID", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#abced228ffcf59ce7e3b2f965119ed480", null ],
+    [ "CourseUnit", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a42d51ab4efc0159a7a33d2637ed46aa0", null ],
+    [ "CourseUnitID", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#aaa0890e0a0456563cda27477aa54449d", null ],
     [ "Description", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a056c5d5bac5ceae50f9586762aeed1e2", null ],
     [ "ID", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a64df27e179724efd1cc2bb3f621e885b", null ],
+    [ "ReleaseDateTime", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a7efbc78ee5163cb0bfd574c200575170", null ],
+    [ "Timestamp", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a5ed41af162f1d59e027295c95505289a", null ],
     [ "Title", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html#a4b91d2b95a15f939d1d42cc3f5bce893", null ]
 ];

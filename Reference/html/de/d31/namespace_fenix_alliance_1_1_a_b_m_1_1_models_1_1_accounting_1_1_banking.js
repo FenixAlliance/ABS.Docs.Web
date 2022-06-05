@@ -1,5 +1,6 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking =
 [
+    [ "Bank", "d4/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank.html", "d4/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank" ],
     [ "BankAccount", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account.html", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account" ],
     [ "BankGuarantee", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee.html", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee" ],
     [ "BankTransaction", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_transaction.html", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_transaction" ],

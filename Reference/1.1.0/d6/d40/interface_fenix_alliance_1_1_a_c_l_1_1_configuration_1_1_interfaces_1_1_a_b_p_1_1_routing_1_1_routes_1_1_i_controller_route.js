@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes_1_1_i_controller_route =
+[
+    [ "Name", "d6/d40/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes_1_1_i_controller_route.html#a968b39f1da927603d6be8435efe50755", null ],
+    [ "Pattern", "d6/d40/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes_1_1_i_controller_route.html#a676635270034fc1a85347baf667c2d14", null ]
+];

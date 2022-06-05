@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service =
 [
-    [ "MongoService", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html#a6274c08d8b2cbd276402399dc4ad1585", null ],
+    [ "MongoService", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html#a13dac91e64067411ee10fcfbb9941267", null ],
     [ "GetMongodbClient", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html#a4e91033cec9d430d26c41bfb6141ba57", null ],
     [ "GetMongodbCollection", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html#a499221baec2ffd6b2a686cedc62302a9", null ],
     [ "GetMongodbDatabase", "d2/d28/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_mongo_service.html#a1096b4afdb051e82ab4c24ff6e85b40f", null ],

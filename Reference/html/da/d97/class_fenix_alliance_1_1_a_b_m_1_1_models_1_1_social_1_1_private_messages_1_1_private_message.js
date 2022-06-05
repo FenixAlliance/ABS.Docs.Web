@@ -1,5 +1,7 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message =
 [
+    [ "Conversation", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a21b223e7859f2f4a625ece68021bd650", null ],
+    [ "ConversationID", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a18f6315449b9face82e855f2a7e6aa1a", null ],
     [ "ID", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a0bb0671adacb8b18d4a3d85134a4f296", null ],
     [ "Message", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a2a7b98884aa9a801d41c85e85aa4151a", null ],
     [ "MessageAttachments", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a06f741ce3f81e13fd3559e759a3e1d77", null ],

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee =
+[
+    [ "Payment", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html#a47582334b00d17e4c953c2deec5362f6", null ],
+    [ "PaymentGateway", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html#a749986f61869ab8fb0fca6b54049e1d2", null ],
+    [ "PaymentGatewayID", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html#a73a2d4f3545429806bcd4578664894e6", null ],
+    [ "PaymentID", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html#a8c9323d3b026a465ded45b2ada47550c", null ]
+];

@@ -4,6 +4,5 @@ var namespace_fenix_alliance =
     [ "ABP", "d1/d99/namespace_fenix_alliance_1_1_a_b_p.html", "d1/d99/namespace_fenix_alliance_1_1_a_b_p" ],
     [ "ABS", "d9/dc1/namespace_fenix_alliance_1_1_a_b_s.html", "d9/dc1/namespace_fenix_alliance_1_1_a_b_s" ],
     [ "ACL", "db/d81/namespace_fenix_alliance_1_1_a_c_l.html", "db/d81/namespace_fenix_alliance_1_1_a_c_l" ],
-    [ "APS", "d3/d75/namespace_fenix_alliance_1_1_a_p_s.html", "d3/d75/namespace_fenix_alliance_1_1_a_p_s" ],
-    [ "ICX", "d9/d3e/namespace_fenix_alliance_1_1_i_c_x.html", "d9/d3e/namespace_fenix_alliance_1_1_i_c_x" ]
+    [ "APS", "d3/d75/namespace_fenix_alliance_1_1_a_p_s.html", "d3/d75/namespace_fenix_alliance_1_1_a_p_s" ]
 ];

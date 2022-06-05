@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -92,48 +92,607 @@ $(document).ready(function(){initNavTree('df/d0d/interface_fenix_alliance_1_1_a_
 <div class="title">FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService Interface Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>This interface exposes common work methods on Accounts, Invoices, Ledgers and more.  
+ <a href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#details">More...</a></p>
+<div class="dynheader">
+Inheritance diagram for FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService:</div>
+<div class="dyncontent">
+<div class="center"><img src="../../dc/d90/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service__inherit__graph.png" border="0" usemap="#a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_accounting_service_inherit__map" alt="Inheritance graph"/></div>
+<map name="a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_accounting_service_inherit__map" id="a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_accounting_service_inherit__map">
+<area shape="rect" title="This interface exposes common work methods on Accounts, Invoices, Ledgers and more." alt="" coords="5,5,236,47"/>
+<area shape="rect" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html" title=" " alt="" coords="13,95,229,136"/>
+</map>
+<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa71fa4ce40183ba27d810f665f5bb9f1"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aa71fa4ce40183ba27d810f665f5bb9f1">CreateInvoiceAsync</a> ()</td></tr>
-<tr class="separator:aa71fa4ce40183ba27d810f665f5bb9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad10245eb83de82e27d0548e83d0a5856"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ad10245eb83de82e27d0548e83d0a5856">SignInvoiceAsync</a> ()</td></tr>
-<tr class="separator:ad10245eb83de82e27d0548e83d0a5856"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a694028193cb7b7707b7fd338c8e92238"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a694028193cb7b7707b7fd338c8e92238">CloseInvoiceAsync</a> ()</td></tr>
-<tr class="separator:a694028193cb7b7707b7fd338c8e92238"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3714ad773bd45570bbccc1ad9aae7f05"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a3714ad773bd45570bbccc1ad9aae7f05">ReOpenInvoiceAsync</a> ()</td></tr>
-<tr class="separator:a3714ad773bd45570bbccc1ad9aae7f05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a375cb2db21403a3086d27dff4235c2a4"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a375cb2db21403a3086d27dff4235c2a4">DeleteInvoiceAsync</a> ()</td></tr>
-<tr class="separator:a375cb2db21403a3086d27dff4235c2a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef2d20bf39c185421f7fa556f988d62c"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aef2d20bf39c185421f7fa556f988d62c">GetAccount</a> (string AccountID)</td></tr>
-<tr class="separator:aef2d20bf39c185421f7fa556f988d62c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a434825ddd9bf40efa01138e0f6240371"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a434825ddd9bf40efa01138e0f6240371">CreateAccount</a> (<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>)</td></tr>
-<tr class="separator:a434825ddd9bf40efa01138e0f6240371"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62d31e1501bbdd6bd27b77acf57c0d62"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a62d31e1501bbdd6bd27b77acf57c0d62">DeleteAccount</a> (string AccountID)</td></tr>
-<tr class="separator:a62d31e1501bbdd6bd27b77acf57c0d62"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a87e5c9baed657255954ba1b8386236e9"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a87e5c9baed657255954ba1b8386236e9">DeleteAccount</a> (<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>)</td></tr>
-<tr class="separator:a87e5c9baed657255954ba1b8386236e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacca43cd6f194c23c69ca92b5b9073cc"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html">Payment</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aacca43cd6f194c23c69ca92b5b9073cc">CreatePaymentAsync</a> (<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> invoice)</td></tr>
+<tr class="separator:aacca43cd6f194c23c69ca92b5b9073cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49b10f9efbbd9ba5e1a00a38f6c5ca19"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a49b10f9efbbd9ba5e1a00a38f6c5ca19">AggregateCreditJournalEntries</a> (List&lt; <a class="el" href="../../d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html">JournalEntry</a> &gt; entries, string CurrencyID)</td></tr>
+<tr class="memdesc:a49b10f9efbbd9ba5e1a00a38f6c5ca19"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the total credits amount from a historical, multi-currency list of journal <em>entries</em>  in <em>CurrencyID</em> .  <a href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a49b10f9efbbd9ba5e1a00a38f6c5ca19">More...</a><br /></td></tr>
+<tr class="separator:a49b10f9efbbd9ba5e1a00a38f6c5ca19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2a75c20df091761c4043c5996761a7b"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ae2a75c20df091761c4043c5996761a7b">AggregateDebitJournalEntries</a> (List&lt; <a class="el" href="../../d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html">JournalEntry</a> &gt; entries, string CurrencyID)</td></tr>
+<tr class="memdesc:ae2a75c20df091761c4043c5996761a7b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the total debits amount from a historical, multi-currency list of journal <em>entries</em>  in <em>CurrencyID</em> .  <a href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ae2a75c20df091761c4043c5996761a7b">More...</a><br /></td></tr>
+<tr class="separator:ae2a75c20df091761c4043c5996761a7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b5fa7cff96b6cb8dde2e29e29f2ece9"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a2b5fa7cff96b6cb8dde2e29e29f2ece9">AggregateInvoiceTotals</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="memdesc:a2b5fa7cff96b6cb8dde2e29e29f2ece9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the total amount from a historical, multi-currency list of invoices <em>invoices</em>  in <em>CurrencyID</em> .  <a href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a2b5fa7cff96b6cb8dde2e29e29f2ece9">More...</a><br /></td></tr>
+<tr class="separator:a2b5fa7cff96b6cb8dde2e29e29f2ece9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd1cf6a5776aa21fcb60d596124a8c02"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#abd1cf6a5776aa21fcb60d596124a8c02">AggregateInvoiceTaxes</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="memdesc:abd1cf6a5776aa21fcb60d596124a8c02"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the total taxes amount from a historical, multi-currency list of invoices <em>invoices</em>  in <em>CurrencyID</em> .  <a href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#abd1cf6a5776aa21fcb60d596124a8c02">More...</a><br /></td></tr>
+<tr class="separator:abd1cf6a5776aa21fcb60d596124a8c02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9618d08854dd7cbfde18be74333758d1"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a9618d08854dd7cbfde18be74333758d1">AggregateInvoiceProfits</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:a9618d08854dd7cbfde18be74333758d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3316d9a8092abca509df1bb605038d50"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a3316d9a8092abca509df1bb605038d50">AggregateInvoiceDiscounts</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:a3316d9a8092abca509df1bb605038d50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a394f43e6420df23b5a6db27cc323fbe0"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a394f43e6420df23b5a6db27cc323fbe0">AggregateInvoiceSurcharges</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:a394f43e6420df23b5a6db27cc323fbe0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18309aa11164a98efca693354c950db4"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a18309aa11164a98efca693354c950db4">AggregateInvoiceTaxBases</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:a18309aa11164a98efca693354c950db4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7192b27f6b78f153ddbaec30fbecd3fb"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a7192b27f6b78f153ddbaec30fbecd3fb">AggregateInvoiceDetails</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:a7192b27f6b78f153ddbaec30fbecd3fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfaa66b632e31f92043df9661bc3fce5"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#acfaa66b632e31f92043df9661bc3fce5">AggregateInvoiceBases</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:acfaa66b632e31f92043df9661bc3fce5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac99b7fea47b7fa95b9b81c422d1ab6fb"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ac99b7fea47b7fa95b9b81c422d1ab6fb">AggregateInvoiceGlobalDiscounts</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:ac99b7fea47b7fa95b9b81c422d1ab6fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af41a5e472b6d994b8ceba135cabe95d0"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#af41a5e472b6d994b8ceba135cabe95d0">AggregateInvoiceGlobalSurcharges</a> (List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt; invoices, string CurrencyID)</td></tr>
+<tr class="separator:af41a5e472b6d994b8ceba135cabe95d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6b0a38bbe703915c5f4f0d03fad5d59"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ad6b0a38bbe703915c5f4f0d03fad5d59">AggregateAccountsBalances</a> (List&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt; accounts, string CurrencyID)</td></tr>
+<tr class="separator:ad6b0a38bbe703915c5f4f0d03fad5d59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42b0d68a88a3df51f8b15cd8548b81ab"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a42b0d68a88a3df51f8b15cd8548b81ab">AggregateAccountingEntriesDebits</a> (List&lt; <a class="el" href="../../d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html">AccountingEntry</a> &gt; entries, string CurrencyID)</td></tr>
+<tr class="separator:a42b0d68a88a3df51f8b15cd8548b81ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93d2b2d5da60f259f6fa650b689f972a"><td class="memItemLeft" align="right" valign="top">Task&lt; decimal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a93d2b2d5da60f259f6fa650b689f972a">AggregateAccountingEntriesCredits</a> (List&lt; <a class="el" href="../../d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html">AccountingEntry</a> &gt; entries, string CurrencyID)</td></tr>
+<tr class="separator:a93d2b2d5da60f259f6fa650b689f972a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a390f1c9b51fc1f88f1b81dbbd360c661"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a390f1c9b51fc1f88f1b81dbbd360c661">GetAccount</a> (string accountID)</td></tr>
+<tr class="separator:a390f1c9b51fc1f88f1b81dbbd360c661"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0af81508908ae812833ca905ffec8e8"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ab0af81508908ae812833ca905ffec8e8">BalanceAccount</a> (string accountID)</td></tr>
+<tr class="separator:ab0af81508908ae812833ca905ffec8e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd0e6204ae44b18efbf275c46b97a9f2"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#afd0e6204ae44b18efbf275c46b97a9f2">CreateAccount</a> (<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> account)</td></tr>
+<tr class="separator:afd0e6204ae44b18efbf275c46b97a9f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad57559a9a1d7772e343f9b6f73f84ba1"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#ad57559a9a1d7772e343f9b6f73f84ba1">DeleteAccount</a> (string accountID)</td></tr>
+<tr class="separator:ad57559a9a1d7772e343f9b6f73f84ba1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3b3bc76cb50bc30a6b282e701c9f56b"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#aa3b3bc76cb50bc30a6b282e701c9f56b">DeleteAccount</a> (<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> account)</td></tr>
+<tr class="separator:aa3b3bc76cb50bc30a6b282e701c9f56b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e5f8ef37df3ccc895d9bfb17edc2429"><td class="memItemLeft" align="right" valign="top">Task&lt; List&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a0e5f8ef37df3ccc895d9bfb17edc2429">GetAccounts</a> (string businessID)</td></tr>
+<tr class="separator:a0e5f8ef37df3ccc895d9bfb17edc2429"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37d49bd5426260de88133965046f0887"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html#a37d49bd5426260de88133965046f0887">BalanceRootAccount</a> (string businessID)</td></tr>
+<tr class="separator:a37d49bd5426260de88133965046f0887"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a694028193cb7b7707b7fd338c8e92238"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a694028193cb7b7707b7fd338c8e92238">&#9670;&nbsp;</a></span>CloseInvoiceAsync()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>This interface exposes common work methods on Accounts, Invoices, Ledgers and more. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a93d2b2d5da60f259f6fa650b689f972a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93d2b2d5da60f259f6fa650b689f972a">&#9670;&nbsp;</a></span>AggregateAccountingEntriesCredits()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.CloseInvoiceAsync </td>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateAccountingEntriesCredits </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html">AccountingEntry</a> &gt;&#160;</td>
+          <td class="paramname"><em>entries</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#ae22e2aa121c6dc01d977f48d38c0d230">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a42b0d68a88a3df51f8b15cd8548b81ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42b0d68a88a3df51f8b15cd8548b81ab">&#9670;&nbsp;</a></span>AggregateAccountingEntriesDebits()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateAccountingEntriesDebits </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html">AccountingEntry</a> &gt;&#160;</td>
+          <td class="paramname"><em>entries</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#adc18007fd5a3b1e9c99b9c64be026f20">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="ad6b0a38bbe703915c5f4f0d03fad5d59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6b0a38bbe703915c5f4f0d03fad5d59">&#9670;&nbsp;</a></span>AggregateAccountsBalances()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateAccountsBalances </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a> &gt;&#160;</td>
+          <td class="paramname"><em>accounts</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#acb0db2c067483be62714d2c813f01e7e">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a49b10f9efbbd9ba5e1a00a38f6c5ca19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49b10f9efbbd9ba5e1a00a38f6c5ca19">&#9670;&nbsp;</a></span>AggregateCreditJournalEntries()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateCreditJournalEntries </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html">JournalEntry</a> &gt;&#160;</td>
+          <td class="paramname"><em>entries</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns the total credits amount from a historical, multi-currency list of journal <em>entries</em>  in <em>CurrencyID</em> . </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">entries</td><td>the list of historical Journal Entries to aggregate.</td></tr>
+    <tr><td class="paramname">CurrencyID</td><td>The currency to historically convert amounts to.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a12d2019a71049bcb0280e260f5822274">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="ae2a75c20df091761c4043c5996761a7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2a75c20df091761c4043c5996761a7b">&#9670;&nbsp;</a></span>AggregateDebitJournalEntries()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateDebitJournalEntries </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../d3/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_journals_1_1_journal_entries_1_1_journal_entry.html">JournalEntry</a> &gt;&#160;</td>
+          <td class="paramname"><em>entries</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns the total debits amount from a historical, multi-currency list of journal <em>entries</em>  in <em>CurrencyID</em> . </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">entries</td><td>the list of historical Journal Entries to aggregate.</td></tr>
+    <tr><td class="paramname">CurrencyID</td><td>The currency to historically convert amounts to.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a2a99ae680cd633091c81290bc312670e">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="acfaa66b632e31f92043df9661bc3fce5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfaa66b632e31f92043df9661bc3fce5">&#9670;&nbsp;</a></span>AggregateInvoiceBases()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceBases </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a9d45c5106b6a794293bd8e873f5257e0">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a7192b27f6b78f153ddbaec30fbecd3fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7192b27f6b78f153ddbaec30fbecd3fb">&#9670;&nbsp;</a></span>AggregateInvoiceDetails()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceDetails </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a436b6cd205d8529c1435137686e799bb">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a3316d9a8092abca509df1bb605038d50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3316d9a8092abca509df1bb605038d50">&#9670;&nbsp;</a></span>AggregateInvoiceDiscounts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceDiscounts </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#afae22fbbef4a952a5cb87b713df41e86">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="ac99b7fea47b7fa95b9b81c422d1ab6fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac99b7fea47b7fa95b9b81c422d1ab6fb">&#9670;&nbsp;</a></span>AggregateInvoiceGlobalDiscounts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceGlobalDiscounts </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a23249e32e76a709612e61fcf68aaad90">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="af41a5e472b6d994b8ceba135cabe95d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af41a5e472b6d994b8ceba135cabe95d0">&#9670;&nbsp;</a></span>AggregateInvoiceGlobalSurcharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceGlobalSurcharges </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a1305b0ecada686e11a8521ac22d6d3d1">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a9618d08854dd7cbfde18be74333758d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9618d08854dd7cbfde18be74333758d1">&#9670;&nbsp;</a></span>AggregateInvoiceProfits()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceProfits </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a73b5f4b82816adbfc7f699e77cfe61a0">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a394f43e6420df23b5a6db27cc323fbe0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a394f43e6420df23b5a6db27cc323fbe0">&#9670;&nbsp;</a></span>AggregateInvoiceSurcharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceSurcharges </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a5ba895ecb711644be9257b64cdbd052e">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a18309aa11164a98efca693354c950db4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18309aa11164a98efca693354c950db4">&#9670;&nbsp;</a></span>AggregateInvoiceTaxBases()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceTaxBases </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#ab11719c8a66100719a9a8bca6d496691">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="abd1cf6a5776aa21fcb60d596124a8c02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd1cf6a5776aa21fcb60d596124a8c02">&#9670;&nbsp;</a></span>AggregateInvoiceTaxes()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceTaxes </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns the total taxes amount from a historical, multi-currency list of invoices <em>invoices</em>  in <em>CurrencyID</em> . </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">invoices</td><td>the list of historical Invoices to aggregate.</td></tr>
+    <tr><td class="paramname">CurrencyID</td><td>The currency to historically convert amounts to.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#aeca1f55c5a085f30744be6b1a7da2005">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="a2b5fa7cff96b6cb8dde2e29e29f2ece9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b5fa7cff96b6cb8dde2e29e29f2ece9">&#9670;&nbsp;</a></span>AggregateInvoiceTotals()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;decimal&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.AggregateInvoiceTotals </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a> &gt;&#160;</td>
+          <td class="paramname"><em>invoices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>CurrencyID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns the total amount from a historical, multi-currency list of invoices <em>invoices</em>  in <em>CurrencyID</em> . </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">invoices</td><td>the list of historical Invoices to aggregate.</td></tr>
+    <tr><td class="paramname">CurrencyID</td><td>The currency to historically convert amounts to.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a8eb555dbb1f47002b4a9f92542feb5e1">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="ab0af81508908ae812833ca905ffec8e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0af81508908ae812833ca905ffec8e8">&#9670;&nbsp;</a></span>BalanceAccount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.BalanceAccount </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>accountID</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#adc3f214fbf0ec47c009dfcf2ecea5404">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
 </div>
 </div>
-<a id="a434825ddd9bf40efa01138e0f6240371"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a434825ddd9bf40efa01138e0f6240371">&#9670;&nbsp;</a></span>CreateAccount()</h2>
+<a id="a37d49bd5426260de88133965046f0887"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37d49bd5426260de88133965046f0887">&#9670;&nbsp;</a></span>BalanceRootAccount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.BalanceRootAccount </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>businessID</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#ad143676524070ba0e4f7501026f8d628">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
+</div>
+</div>
+<a id="afd0e6204ae44b18efbf275c46b97a9f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd0e6204ae44b18efbf275c46b97a9f2">&#9670;&nbsp;</a></span>CreateAccount()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,33 +701,38 @@ Public Member Functions</h2></td></tr>
           <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.CreateAccount </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&#160;</td>
-          <td class="paramname"><em>Account</em></td><td>)</td>
+          <td class="paramname"><em>account</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a3acccb1041418fe09c4ad25ef04975d1">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
 </div>
 </div>
-<a id="aa71fa4ce40183ba27d810f665f5bb9f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa71fa4ce40183ba27d810f665f5bb9f1">&#9670;&nbsp;</a></span>CreateInvoiceAsync()</h2>
+<a id="aacca43cd6f194c23c69ca92b5b9073cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacca43cd6f194c23c69ca92b5b9073cc">&#9670;&nbsp;</a></span>CreatePaymentAsync()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.CreateInvoiceAsync </td>
+          <td class="memname">Task&lt;<a class="el" href="../../d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html">Payment</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.CreatePaymentAsync </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&#160;</td>
+          <td class="paramname"><em>invoice</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a17f253f8953fcd56fbef9b9fd98ccb87">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
 </div>
 </div>
-<a id="a87e5c9baed657255954ba1b8386236e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87e5c9baed657255954ba1b8386236e9">&#9670;&nbsp;</a></span>DeleteAccount() <span class="overload">[1/2]</span></h2>
+<a id="aa3b3bc76cb50bc30a6b282e701c9f56b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3b3bc76cb50bc30a6b282e701c9f56b">&#9670;&nbsp;</a></span>DeleteAccount() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -177,16 +741,18 @@ Public Member Functions</h2></td></tr>
           <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.DeleteAccount </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&#160;</td>
-          <td class="paramname"><em>Account</em></td><td>)</td>
+          <td class="paramname"><em>account</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a2993e25991f0c1a050659c4de7e439dd">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
 </div>
 </div>
-<a id="a62d31e1501bbdd6bd27b77acf57c0d62"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62d31e1501bbdd6bd27b77acf57c0d62">&#9670;&nbsp;</a></span>DeleteAccount() <span class="overload">[2/2]</span></h2>
+<a id="ad57559a9a1d7772e343f9b6f73f84ba1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad57559a9a1d7772e343f9b6f73f84ba1">&#9670;&nbsp;</a></span>DeleteAccount() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -195,33 +761,18 @@ Public Member Functions</h2></td></tr>
           <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.DeleteAccount </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>AccountID</em></td><td>)</td>
+          <td class="paramname"><em>accountID</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a375cb2db21403a3086d27dff4235c2a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a375cb2db21403a3086d27dff4235c2a4">&#9670;&nbsp;</a></span>DeleteInvoiceAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.DeleteInvoiceAsync </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a34c8173d150529057b1e1702047d640d">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
 
 </div>
 </div>
-<a id="aef2d20bf39c185421f7fa556f988d62c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef2d20bf39c185421f7fa556f988d62c">&#9670;&nbsp;</a></span>GetAccount()</h2>
+<a id="a390f1c9b51fc1f88f1b81dbbd360c661"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a390f1c9b51fc1f88f1b81dbbd360c661">&#9670;&nbsp;</a></span>GetAccount()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -230,45 +781,33 @@ Public Member Functions</h2></td></tr>
           <td class="memname">Task&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.GetAccount </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>AccountID</em></td><td>)</td>
+          <td class="paramname"><em>accountID</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#a60ac5c0551809a017bb587e84c393841">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
+
 </div>
 </div>
-<a id="a3714ad773bd45570bbccc1ad9aae7f05"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3714ad773bd45570bbccc1ad9aae7f05">&#9670;&nbsp;</a></span>ReOpenInvoiceAsync()</h2>
+<a id="a0e5f8ef37df3ccc895d9bfb17edc2429"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e5f8ef37df3ccc895d9bfb17edc2429">&#9670;&nbsp;</a></span>GetAccounts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.ReOpenInvoiceAsync </td>
+          <td class="memname">Task&lt;List&lt;<a class="el" href="../../df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html">Account</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.GetAccounts </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>businessID</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="ad10245eb83de82e27d0548e83d0a5856"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad10245eb83de82e27d0548e83d0a5856">&#9670;&nbsp;</a></span>SignInvoiceAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;<a class="el" href="../../db/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice.html">Invoice</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService.SignInvoiceAsync </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p>Implemented in <a class="el" href="../../d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html#ade277609cfd8138d05fe2c47b6779e2b">FenixAlliance.ABM.Data.Access.Services.AccountingService</a>.</p>
 
 </div>
 </div>

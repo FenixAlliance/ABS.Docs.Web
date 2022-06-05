@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_reference =
+[
+    [ "Name", "da/d1d/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_reference.html#a67ca4fb6d76342ddd6866faaf1862495", null ]
+];

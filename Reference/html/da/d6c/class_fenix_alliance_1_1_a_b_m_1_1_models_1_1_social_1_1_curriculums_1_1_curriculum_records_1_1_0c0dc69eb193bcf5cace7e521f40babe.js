@@ -1,0 +1,9 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe =
+[
+    [ "CurriculumExperience", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#a1284e59a73c0daeb81fd6eb583aae7e7", null ],
+    [ "CurriculumExperienceID", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#a0d77c5eba9005e29791f1f64137ff8b0", null ],
+    [ "Recommendation", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#a2e1f6e0d589898342283994298e3f14b", null ],
+    [ "RelationshipType", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#abc0f0806744181e1fedd8431b098fd35", null ],
+    [ "SocialProfile", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#aef8e5ccb5f52094016f593d9c2589320", null ],
+    [ "SocialProfileID", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html#a1ded51129205daab4df1d2fbbd91bebe", null ]
+];

@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -92,56 +92,58 @@ $(document).ready(function(){initNavTree('db/d44/interface_fenix_alliance_1_1_a_
 <div class="title">FenixAlliance.ABM.Data.Interfaces.Services.IStorageService Interface Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>This Interface is designed to transact files with the Alliance Business Platform  
+ <a href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for FenixAlliance.ABM.Data.Interfaces.Services.IStorageService:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d9/dac/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service__inherit__graph.png" border="0" usemap="#a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_storage_service_inherit__map" alt="Inheritance graph"/></div>
 <map name="a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_storage_service_inherit__map" id="a_fenix_alliance_8_a_b_m_8_data_8_interfaces_8_services_8_i_storage_service_inherit__map">
-<area shape="rect" title=" " alt="" coords="5,5,236,47"/>
-<area shape="rect" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html" title=" " alt="" coords="13,95,229,136"/>
+<area shape="rect" title="This Interface is designed to transact files with the Alliance Business Platform" alt="" coords="5,39,236,80"/>
+<area shape="rect" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html" title=" " alt="" coords="284,5,533,47"/>
+<area shape="rect" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html" title=" " alt="" coords="301,71,517,112"/>
 </map>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:adffff302bb39cdc264b81249be2ea707"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#adffff302bb39cdc264b81249be2ea707">SaveFileAsync</a> (ClaimsPrincipal User, byte[] BinaryContent)</td></tr>
-<tr class="separator:adffff302bb39cdc264b81249be2ea707"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a932ac508ffca9ea494c8c190a29ebd50"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a932ac508ffca9ea494c8c190a29ebd50">SaveFilesAsync</a> (ClaimsPrincipal User, IEnumerable&lt; byte[]&gt; BinaryContents)</td></tr>
-<tr class="separator:a932ac508ffca9ea494c8c190a29ebd50"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a6ecf037ef05513e3878e2cc5ba7f8a"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a9a6ecf037ef05513e3878e2cc5ba7f8a">SaveFilesAsync</a> (ClaimsPrincipal User, IEnumerable&lt; byte[]&gt; BinaryContents, bool CreateIfNotExists)</td></tr>
-<tr class="separator:a9a6ecf037ef05513e3878e2cc5ba7f8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afed6a9fbd28e44b42ae4423990aa5772"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#afed6a9fbd28e44b42ae4423990aa5772">DeleteFileAsync</a> (ClaimsPrincipal User, string FileID)</td></tr>
-<tr class="separator:afed6a9fbd28e44b42ae4423990aa5772"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59abd0dbb8413d8a186b899758463837"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a59abd0dbb8413d8a186b899758463837">DeleteFileIfExistsAsync</a> (ClaimsPrincipal User, string FileID)</td></tr>
-<tr class="separator:a59abd0dbb8413d8a186b899758463837"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16f4eb2078a21a0c8d8fbbcf1c507004"><td class="memItemLeft" align="right" valign="top">Task&lt; byte[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a16f4eb2078a21a0c8d8fbbcf1c507004">GetFileAsync</a> (ClaimsPrincipal User, string FileID)</td></tr>
-<tr class="separator:a16f4eb2078a21a0c8d8fbbcf1c507004"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f6b1cb849a730d4dbb69b6e7ee67b84"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; byte[]&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a7f6b1cb849a730d4dbb69b6e7ee67b84">GetFilesAsync</a> (ClaimsPrincipal User, IEnumerable&lt; string &gt; FileID)</td></tr>
-<tr class="separator:a7f6b1cb849a730d4dbb69b6e7ee67b84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ff8dfe70cc9b599f40b37730111cd35"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a9ff8dfe70cc9b599f40b37730111cd35">GetFilePathByIdAsync</a> (ClaimsPrincipal User, string FileID)</td></tr>
-<tr class="separator:a9ff8dfe70cc9b599f40b37730111cd35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64a460225d6ef8858956e15ebc42d0e4"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a64a460225d6ef8858956e15ebc42d0e4">GetAccountHolderFilesAsync</a> (ClaimsPrincipal User)</td></tr>
-<tr class="separator:a64a460225d6ef8858956e15ebc42d0e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc6bae84722980223c4086dd3dc3bf0e"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#abc6bae84722980223c4086dd3dc3bf0e">GetAccountHolderFilePathByIdAsync</a> (ClaimsPrincipal User, string FileID)</td></tr>
-<tr class="separator:abc6bae84722980223c4086dd3dc3bf0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58e715991fa3c83a6c62f7d1e567721"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ae58e715991fa3c83a6c62f7d1e567721">GetAccountHolderFileIdByPathAsync</a> (ClaimsPrincipal User, string FilePath)</td></tr>
-<tr class="separator:ae58e715991fa3c83a6c62f7d1e567721"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a02992dcf3050fd1d55c74400fc23c47a"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a02992dcf3050fd1d55c74400fc23c47a">GetBusinessTenantFilePathByIdAsync</a> (ClaimsPrincipal User, string FileID, string BusinessTenantID)</td></tr>
-<tr class="separator:a02992dcf3050fd1d55c74400fc23c47a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89ba0627c9282156000071e8e031fed8"><td class="memItemLeft" align="right" valign="top">Task&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a89ba0627c9282156000071e8e031fed8">GetBusinessTenantFileIdByPathAsync</a> (ClaimsPrincipal User, string FilePath, string BusinessTenantID)</td></tr>
-<tr class="separator:a89ba0627c9282156000071e8e031fed8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6bcb687b450ef0d60694e8ba4315b6f"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ac6bcb687b450ef0d60694e8ba4315b6f">GetBusinessTenantFilesAsync</a> (ClaimsPrincipal User, string BusinessTenantID)</td></tr>
-<tr class="separator:ac6bcb687b450ef0d60694e8ba4315b6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8b8838ddd9c820f905f043ca36240cb"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ae8b8838ddd9c820f905f043ca36240cb">SaveFileAsync</a> (ClaimsPrincipal User, string filePath, IFormFile BinaryContent)</td></tr>
+<tr class="separator:ae8b8838ddd9c820f905f043ca36240cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a852c9ec510108f7fa5c110c2e071bc08"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a852c9ec510108f7fa5c110c2e071bc08">SaveFileAsync</a> (ClaimsPrincipal User, string filePath, IBrowserFile BinaryContent)</td></tr>
+<tr class="separator:a852c9ec510108f7fa5c110c2e071bc08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a463f3fe35cfdc5b981f0ffa3700f535a"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a463f3fe35cfdc5b981f0ffa3700f535a">SaveFileAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, string filePath, IFormFile BinaryContent)</td></tr>
+<tr class="separator:a463f3fe35cfdc5b981f0ffa3700f535a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab286eb0619e5df3ce8fa0abad562cd9b"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ab286eb0619e5df3ce8fa0abad562cd9b">SaveFileAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, string filePath, IBrowserFile BinaryContent)</td></tr>
+<tr class="separator:ab286eb0619e5df3ce8fa0abad562cd9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9242a71aa8f937164f30f4587e637545"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a9242a71aa8f937164f30f4587e637545">SaveFileAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, string filePath, IFormFile BinaryContent)</td></tr>
+<tr class="separator:a9242a71aa8f937164f30f4587e637545"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a300ce712dbdead24c9b6fbeb1df347fc"><td class="memItemLeft" align="right" valign="top">Task&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a300ce712dbdead24c9b6fbeb1df347fc">SaveFileAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, string filePath, IBrowserFile BinaryContent)</td></tr>
+<tr class="separator:a300ce712dbdead24c9b6fbeb1df347fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1be895ec25f537a47ad28ba0bd4e9e94"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a1be895ec25f537a47ad28ba0bd4e9e94">SaveFilesAsync</a> (ClaimsPrincipal User, string filePath, IEnumerable&lt; IFormFile &gt; files)</td></tr>
+<tr class="separator:a1be895ec25f537a47ad28ba0bd4e9e94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6564c289de830ca36a2332e4b7d9a5da"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a6564c289de830ca36a2332e4b7d9a5da">SaveFilesAsync</a> (ClaimsPrincipal User, string filePath, IEnumerable&lt; IBrowserFile &gt; files)</td></tr>
+<tr class="separator:a6564c289de830ca36a2332e4b7d9a5da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c801abe5540409197cdc28432b70295"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a3c801abe5540409197cdc28432b70295">SaveFilesAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, IEnumerable&lt; IFormFile &gt; files)</td></tr>
+<tr class="separator:a3c801abe5540409197cdc28432b70295"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b1b9404c7bc5ff0a3c19ec9b3e4364f"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#a2b1b9404c7bc5ff0a3c19ec9b3e4364f">SaveFilesAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, IEnumerable&lt; IBrowserFile &gt; files)</td></tr>
+<tr class="separator:a2b1b9404c7bc5ff0a3c19ec9b3e4364f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4c48482220dae6b0bbcc8df2e623b52"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ae4c48482220dae6b0bbcc8df2e623b52">SaveFilesAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, string filePath, IEnumerable&lt; IFormFile &gt; files)</td></tr>
+<tr class="separator:ae4c48482220dae6b0bbcc8df2e623b52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5ffbd1bc41f68adfbcbd3146cd52460"><td class="memItemLeft" align="right" valign="top">Task&lt; IEnumerable&lt; <a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html#ae5ffbd1bc41f68adfbcbd3146cd52460">SaveFilesAsync</a> (ClaimsPrincipal User, <a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a> tenant, dynamic record, string filePath, IEnumerable&lt; IBrowserFile &gt; files)</td></tr>
+<tr class="separator:ae5ffbd1bc41f68adfbcbd3146cd52460"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="afed6a9fbd28e44b42ae4423990aa5772"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afed6a9fbd28e44b42ae4423990aa5772">&#9670;&nbsp;</a></span>DeleteFileAsync()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>This Interface is designed to transact files with the Alliance Business Platform </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a300ce712dbdead24c9b6fbeb1df347fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a300ce712dbdead24c9b6fbeb1df347fc">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[1/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.DeleteFileAsync </td>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
           <td>(</td>
           <td class="paramtype">ClaimsPrincipal&#160;</td>
           <td class="paramname"><em>User</em>, </td>
@@ -149,339 +151,25 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
         </tr>
         <tr>
+          <td class="paramkey"></td>
           <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a448df1e401480a0a656cece48a9f157c">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a59abd0dbb8413d8a186b899758463837"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59abd0dbb8413d8a186b899758463837">&#9670;&nbsp;</a></span>DeleteFileIfExistsAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.DeleteFileIfExistsAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a503568d19be1b76de614ddab5bb124e5">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="ae58e715991fa3c83a6c62f7d1e567721"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae58e715991fa3c83a6c62f7d1e567721">&#9670;&nbsp;</a></span>GetAccountHolderFileIdByPathAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetAccountHolderFileIdByPathAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
+          <td class="paramname"><em>filePath</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FilePath</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a5bc0846d8a84ade1645b4a0f217f89d9">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="abc6bae84722980223c4086dd3dc3bf0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc6bae84722980223c4086dd3dc3bf0e">&#9670;&nbsp;</a></span>GetAccountHolderFilePathByIdAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetAccountHolderFilePathByIdAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a393633478e710509fc3eb5d483aa2a9d">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a64a460225d6ef8858956e15ebc42d0e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64a460225d6ef8858956e15ebc42d0e4">&#9670;&nbsp;</a></span>GetAccountHolderFilesAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;IEnumerable&lt;string&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetAccountHolderFilesAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a1d50e16d47908242acde87cc1aa49314">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a89ba0627c9282156000071e8e031fed8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89ba0627c9282156000071e8e031fed8">&#9670;&nbsp;</a></span>GetBusinessTenantFileIdByPathAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetBusinessTenantFileIdByPathAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FilePath</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>BusinessTenantID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a879e014c4446fff14bf63d615c7e0dfb">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a02992dcf3050fd1d55c74400fc23c47a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a02992dcf3050fd1d55c74400fc23c47a">&#9670;&nbsp;</a></span>GetBusinessTenantFilePathByIdAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetBusinessTenantFilePathByIdAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>BusinessTenantID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a730fd3305b0ffea90ed1c56706619f9f">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="ac6bcb687b450ef0d60694e8ba4315b6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6bcb687b450ef0d60694e8ba4315b6f">&#9670;&nbsp;</a></span>GetBusinessTenantFilesAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;IEnumerable&lt;string&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetBusinessTenantFilesAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>BusinessTenantID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a04e014f1c6ad7d054c484666f947e22f">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a16f4eb2078a21a0c8d8fbbcf1c507004"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16f4eb2078a21a0c8d8fbbcf1c507004">&#9670;&nbsp;</a></span>GetFileAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;byte[]&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetFileAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#afef79cda8c742afd56d8d8d1b63879d8">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a9ff8dfe70cc9b599f40b37730111cd35"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ff8dfe70cc9b599f40b37730111cd35">&#9670;&nbsp;</a></span>GetFilePathByIdAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetFilePathByIdAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#aee75b99bdc0908c155ed9eabf8654c4b">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="a7f6b1cb849a730d4dbb69b6e7ee67b84"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f6b1cb849a730d4dbb69b6e7ee67b84">&#9670;&nbsp;</a></span>GetFilesAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;IEnumerable&lt;byte[]&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.GetFilesAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">IEnumerable&lt; string &gt;&#160;</td>
-          <td class="paramname"><em>FileID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#acb6abe11e1768e316466ed166a5d0d39">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
-
-</div>
-</div>
-<a id="adffff302bb39cdc264b81249be2ea707"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adffff302bb39cdc264b81249be2ea707">&#9670;&nbsp;</a></span>SaveFileAsync()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Task&lt;string&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
-          <td>(</td>
-          <td class="paramtype">ClaimsPrincipal&#160;</td>
-          <td class="paramname"><em>User</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">byte[]&#160;</td>
+          <td class="paramtype">IBrowserFile&#160;</td>
           <td class="paramname"><em>BinaryContent</em>&#160;</td>
         </tr>
         <tr>
@@ -492,18 +180,18 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a9360bb93a60b69623c9a1008a79f8dba">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#ac0b3fc5c9a138c03e9171601d4e6735d">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#af83ce6dacc69bb133120dc0dc46ea0e1">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
 
 </div>
 </div>
-<a id="a932ac508ffca9ea494c8c190a29ebd50"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a932ac508ffca9ea494c8c190a29ebd50">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[1/2]</span></h2>
+<a id="a9242a71aa8f937164f30f4587e637545"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9242a71aa8f937164f30f4587e637545">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[2/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;IEnumerable&lt;string&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
           <td>(</td>
           <td class="paramtype">ClaimsPrincipal&#160;</td>
           <td class="paramname"><em>User</em>, </td>
@@ -511,8 +199,26 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">IEnumerable&lt; byte[]&gt;&#160;</td>
-          <td class="paramname"><em>BinaryContents</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IFormFile&#160;</td>
+          <td class="paramname"><em>BinaryContent</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -522,18 +228,18 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#a6097bfa5031621f60f0e2baefda7d20e">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a575fbcf3f29fb4901833ad2ec0c1b3ca">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a5c19b6e4ade8198f533336dc05b3d019">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
 
 </div>
 </div>
-<a id="a9a6ecf037ef05513e3878e2cc5ba7f8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a6ecf037ef05513e3878e2cc5ba7f8a">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[2/2]</span></h2>
+<a id="ab286eb0619e5df3ce8fa0abad562cd9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab286eb0619e5df3ce8fa0abad562cd9b">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[3/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Task&lt;IEnumerable&lt;string&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
           <td>(</td>
           <td class="paramtype">ClaimsPrincipal&#160;</td>
           <td class="paramname"><em>User</em>, </td>
@@ -541,14 +247,20 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">IEnumerable&lt; byte[]&gt;&#160;</td>
-          <td class="paramname"><em>BinaryContents</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>CreateIfNotExists</em>&#160;</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IBrowserFile&#160;</td>
+          <td class="paramname"><em>BinaryContent</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -558,7 +270,373 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="../../d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html#ad115c86a0a37d328a4763da116cb565a">FenixAlliance.ABM.Data.Access.Services.StorageService</a>.</p>
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a65dfb9219fc71c73a02a395b63955ee2">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a27b7f279e827eb5069f154d9c3d1d8d5">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a463f3fe35cfdc5b981f0ffa3700f535a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a463f3fe35cfdc5b981f0ffa3700f535a">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[4/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IFormFile&#160;</td>
+          <td class="paramname"><em>BinaryContent</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a598bcf99d010d146e4ebc310ac87ecd9">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#aab4af458908ea847860906ff31ee2c11">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a852c9ec510108f7fa5c110c2e071bc08"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a852c9ec510108f7fa5c110c2e071bc08">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[5/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IBrowserFile&#160;</td>
+          <td class="paramname"><em>BinaryContent</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a9d64da4785f0e111c259f00e27f92fa3">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a1d926ec98417d59fc7400ac9680ed69c">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="ae8b8838ddd9c820f905f043ca36240cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b8838ddd9c820f905f043ca36240cb">&#9670;&nbsp;</a></span>SaveFileAsync() <span class="overload">[6/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFileAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IFormFile&#160;</td>
+          <td class="paramname"><em>BinaryContent</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a0a1ba44ae5f4d7ec7d838ab76e96c4ad">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a00a08d3bc1d5af9151eaa88c8e02f416">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a2b1b9404c7bc5ff0a3c19ec9b3e4364f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b1b9404c7bc5ff0a3c19ec9b3e4364f">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[1/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IBrowserFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a1b11906aaf743f0ef7ce8f8ab1c87f35">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#add2fe3cc376503bc245664060917c975">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a3c801abe5540409197cdc28432b70295"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c801abe5540409197cdc28432b70295">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[2/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IFormFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#acdebd7de46f69292eab2bb8f0c9f7cd3">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a7ee9a89179dad84cb1f382c05232ac75">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="ae5ffbd1bc41f68adfbcbd3146cd52460"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5ffbd1bc41f68adfbcbd3146cd52460">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[3/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IBrowserFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a700e4c3c5a4698e7daefe35a91ec1f4f">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#ae4953b537512bb4dd8b4260da16b6517">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="ae4c48482220dae6b0bbcc8df2e623b52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4c48482220dae6b0bbcc8df2e623b52">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[4/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html">Business</a>&#160;</td>
+          <td class="paramname"><em>tenant</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">dynamic&#160;</td>
+          <td class="paramname"><em>record</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IFormFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a7b9c35251eb3ada5e3f7881512449796">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a6ca5ef8821f44b032f7607b704dbde2b">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a6564c289de830ca36a2332e4b7d9a5da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6564c289de830ca36a2332e4b7d9a5da">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[5/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IBrowserFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#a6a5f560b32869bbbdee43307bf38f820">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a5a226f046103c7c52f7a1f015ea9f90a">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
+
+</div>
+</div>
+<a id="a1be895ec25f537a47ad28ba0bd4e9e94"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1be895ec25f537a47ad28ba0bd4e9e94">&#9670;&nbsp;</a></span>SaveFilesAsync() <span class="overload">[6/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt;IEnumerable&lt;<a class="el" href="../../dd/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workplace_1_1_file_uploads_1_1_file_upload.html">FileUpload</a>&gt; &gt; FenixAlliance.ABM.Data.Interfaces.Services.IStorageService.SaveFilesAsync </td>
+          <td>(</td>
+          <td class="paramtype">ClaimsPrincipal&#160;</td>
+          <td class="paramname"><em>User</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IEnumerable&lt; IFormFile &gt;&#160;</td>
+          <td class="paramname"><em>files</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html#ae433afaccfcd87240d3985f33527eb52">FenixAlliance.ABM.Data.Access.Services.Storage.StorageService</a>, and <a class="el" href="../../d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html#a6854320ab63def79a8baba2ab662dee7">FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService</a>.</p>
 
 </div>
 </div>

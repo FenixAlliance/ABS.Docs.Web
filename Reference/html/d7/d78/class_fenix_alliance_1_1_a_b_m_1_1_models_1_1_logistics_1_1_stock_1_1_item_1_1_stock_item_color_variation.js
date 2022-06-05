@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation =
+[
+    [ "Color", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation.html#a7b46a6e94be3767163e06044e4b232fc", null ]
+];

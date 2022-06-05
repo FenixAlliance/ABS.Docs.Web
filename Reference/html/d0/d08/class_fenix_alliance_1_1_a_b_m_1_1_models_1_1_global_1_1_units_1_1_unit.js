@@ -1,7 +1,7 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit =
 [
     [ "BaseUnit", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#acbfc5d51f98d074b7bf0b43284ca74ee", null ],
-    [ "BaseUnitAmmount", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#a338129268cb0adfa5db8cd29d09dec12", null ],
+    [ "BaseUnitAmount", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#a8775494161a163fc1370c6a38053c9e5", null ],
     [ "BaseUnitID", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#a1c54a46b6835c1b857530e695f960374", null ],
     [ "Business", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#a56a787a153d9ef3fc0d765e0ac2ef57b", null ],
     [ "BusinessID", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_units_1_1_unit.html#a66f5ce10bb604ed66e0cab51b93cf7e6", null ],

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans =
+[
+    [ "SubscriptionPlan", "d4/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan.html", "d4/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan" ]
+];

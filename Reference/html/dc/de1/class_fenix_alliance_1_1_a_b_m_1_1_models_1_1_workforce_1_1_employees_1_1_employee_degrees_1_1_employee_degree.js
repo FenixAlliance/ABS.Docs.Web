@@ -10,5 +10,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_em
     [ "EmployeeProfileID", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html#a2eb6cef30d50e84de86da7c262df2889", null ],
     [ "ID", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html#aeccb8272afdff038a14f4c2b05609ba0", null ],
     [ "Institution", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html#a5475364d2a79615a2b81d13de92c83e2", null ],
+    [ "Timestamp", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html#aec7fc11be47c006284e2eed5e4d71d1c", null ],
     [ "Title", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html#a8a7fac97089280f5127a8b671cfb6425", null ]
 ];

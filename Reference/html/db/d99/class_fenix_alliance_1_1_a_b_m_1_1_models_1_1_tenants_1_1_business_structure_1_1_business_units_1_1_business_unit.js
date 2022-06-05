@@ -18,5 +18,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure
     [ "OrganizationProfile", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#ad91f8afa0030a34204ee09d5d01c43bd", null ],
     [ "OrganizationProfileID", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#a2997544db0a1c638ec9d76b964c3b511", null ],
     [ "ParentBusinessUnit", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#a3793c50abc2148c6a8dbb9aa6c3563a7", null ],
-    [ "ParentBusinessUnitID", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#a8233917f23fc6784f22587545d48ef9d", null ]
+    [ "ParentBusinessUnitID", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#a8233917f23fc6784f22587545d48ef9d", null ],
+    [ "Timestamp", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_units_1_1_business_unit.html#a3ba816f55375a248ae7298a4855a95d8", null ]
 ];

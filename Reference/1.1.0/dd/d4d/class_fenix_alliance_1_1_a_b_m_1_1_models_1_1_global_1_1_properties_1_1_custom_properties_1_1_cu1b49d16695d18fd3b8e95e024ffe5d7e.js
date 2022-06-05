@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b49d16695d18fd3b8e95e024ffe5d7e =
+[
+    [ "Contact", "dd/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b49d16695d18fd3b8e95e024ffe5d7e.html#af2d1c660ca7f5ae08d769d107dd8fc62", null ],
+    [ "ContactID", "dd/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b49d16695d18fd3b8e95e024ffe5d7e.html#a19f78f1f7675575f7aabf6e0a545a4b5", null ]
+];

@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer =
+[
+    [ "Asset", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#af800130206871f8e5accf6cb0d5b45a8", null ],
+    [ "AssetID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a5d76670e9d8e6396fcd32edb42a8ce42", null ],
+    [ "Business", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a49e3497697ca364058598efdca15b87f", null ],
+    [ "BusinessID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ad0e55e09ab66ac6991d7cf93dfa2e02f", null ],
+    [ "DestinationContact", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a95175f47fde82cc7dc5e90e78e1f8643", null ],
+    [ "DestinationContactID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#aacc9a6d4e7c0abc66e378602c8392cc2", null ],
+    [ "DestinationDepartment", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a59b3b83d43cf351ec56094e46af71cf5", null ],
+    [ "DestinationDepartmentID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a83449a52c674be367498a06d5944dba5", null ],
+    [ "DestinationLocation", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a7e44545d729ca08e2fb0b219a4938887", null ],
+    [ "DestinationLocationID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#aa20fdac35957e84ee970a4b52f44b444", null ],
+    [ "ID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a4939a29d21da6a00c3b9242acc6ee8c9", null ],
+    [ "IsRootTransfer", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ab61fcf9e57e55c6b9dd4334d27a6f50b", null ],
+    [ "NextAssetTransfer", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ae72066151d9426da60fc8df15039ece7", null ],
+    [ "PreviousAssetTransfer", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ae45d2e2f3361c2b58652297b44745bf9", null ],
+    [ "PreviousAssetTransferID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a7b5ac3e3443fd16c4bcbe1967fd15317", null ],
+    [ "Quantity", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a751370408b15bbd39012f6c04bc9b801", null ],
+    [ "Serial", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a6cf0badbd2d9137350c1a669f03644e9", null ],
+    [ "SerialList", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a4915639405cb90b3cd091d9240c1e878", null ],
+    [ "SourceContact", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#a2c49a5a8dd6135e42200f9d2ccdf311f", null ],
+    [ "SourceContactID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ad10dd53a25ddfb6bb3e4acccfbf65d55", null ],
+    [ "SourceDepartment", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ab0bcf4c911ff87f1baff118f4334f52f", null ],
+    [ "SourceDepartmentID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#afa5775a5e177b5e6f43d57b3e0ef333d", null ],
+    [ "SourceLocation", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ab64a540a44449be315733e87550f071d", null ],
+    [ "SourceLocationID", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ab68d270d3d36fa33fed5ccd66fdd3526", null ],
+    [ "Timestamp", "dd/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_transfers_1_1_asset_transfer.html#ab6db18b59dbf0ea9a8897f55a7ae89eb", null ]
+];

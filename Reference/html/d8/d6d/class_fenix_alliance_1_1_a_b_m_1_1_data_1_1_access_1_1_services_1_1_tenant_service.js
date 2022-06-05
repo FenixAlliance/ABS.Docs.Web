@@ -1,6 +1,8 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service =
 [
-    [ "TenantService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a95e7ba5f061b6c3d36f038cbb3655fa4", null ],
+    [ "TenantService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#ad83206c5fca669876dd080126f17f02c", null ],
+    [ "CreateBusinessTenant", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a2ac23a60f50355454a5e37b0dad5aac4", null ],
+    [ "CreateBusinessTenantAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a73537382f087666abed7735db3935233", null ],
     [ "GetBusinessesWithSocialProfileAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a7cc3a8008ceeb4e156d5523310b99c6e", null ],
     [ "GetBusinessWithSocialProfileAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a0652358f7e1b62db9b5e1e2432cbd3de", null ],
     [ "GetCurrentAccountHolderBusinesses", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a0339077940113f6556a03669d89be479", null ],
@@ -26,11 +28,10 @@ var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_s
     [ "ResolveRequestedAccessAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a37713e1c3e6b1bbcbf6bb37cdc061ceb", null ],
     [ "ResolveRootBusiness", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#af8756e35c5eae310b7a910ce9e2b01d8", null ],
     [ "ResolveRootBusinessAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a841b6883f06574056707fc1fa197ebfa", null ],
+    [ "ToDataTransferObject", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a9ba2d231d645d7b0de73e3de78def145", null ],
     [ "UserOwnsBusinessAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a5972307fc54b3fe0f8ada569cf089d7c", null ],
     [ "UserWorksForBusinessAsync", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#ac357e36896c1ae3e8215a51eca23f83f", null ],
-    [ "Configuration", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a5fee932e039075c4fa366d396e39064e", null ],
     [ "DataContext", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a305fa83e4fc108f8f4c695c5fca825cc", null ],
-    [ "Environment", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#aee77c3b90eabbb39d923aa2830c0dc5c", null ],
-    [ "HolderService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a1024eff829df4c098db19924b583279d", null ],
-    [ "SuiteOptions", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#afa7da2e6ead3bd2f3cff3b7deefe9a49", null ]
+    [ "ForexService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a151460e3017194b1f40bec0f39726354", null ],
+    [ "HolderService", "d8/d6d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_tenant_service.html#a1024eff829df4c098db19924b583279d", null ]
 ];

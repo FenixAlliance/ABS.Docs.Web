@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352 =
+[
+    [ "KnowledgeArticle", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352.html#a6989627c3b0390aeda79c36f4f4d8f8a", null ],
+    [ "KnowledgeArticleCategory", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352.html#a431c91d3245ad61e5995bee8c7de6dd8", null ],
+    [ "KnowledgeArticleCategoryID", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352.html#a42ce1739e6983d9e4e669238ddf8fe34", null ],
+    [ "KnowledgeArticleID", "d2/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_arti790eaea197b89b458bcf666262790352.html#abc9261f2d89ebfd127a57cd036969eda", null ]
+];

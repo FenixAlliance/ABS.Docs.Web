@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_level_switches =
+[
+    [ "ControlSwitch", "d7/df1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_level_switches.html#a25418adc74e04679a3ba8fbdbfb4410f", null ]
+];

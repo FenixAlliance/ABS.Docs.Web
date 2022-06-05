@@ -6,6 +6,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assi
     [ "BusinessProfileRecord", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a672f8ec4dab6b75fedaed20e7ea97b13", null ],
     [ "BusinessProfileRecordID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a3db57a747161bac9d1afde72291ce2b8", null ],
     [ "Course", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a3f58e3ed2e75cc0dc48783ce16f61524", null ],
+    [ "CourseAssignments", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a6817d4d65e5b1802d98f445ba24c84a3", null ],
     [ "CourseID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a133aff21510dafe1e0a90e8af221ef9f", null ],
     [ "Excluded", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a103922c8a450ebb2d2ff1c5537d0ea6e", null ],
     [ "ID", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html#a23b52d34c63044de72ca3f0fe97d2cdd", null ],

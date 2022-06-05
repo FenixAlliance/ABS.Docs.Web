@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d4/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_billing_1_1_wallet_mapper.html" title=" " alt="" coords="5,5,225,61"/>
+<area shape="rect" id="node1" href="$d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html" title=" " alt="" coords="5,85,223,141"/>
+<area shape="rect" id="node2" href="$d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html" title=" " alt="" coords="271,5,516,61"/>
+<area shape="rect" id="node3" href="$d4/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request.html" title="Used to relate an InquiryRequest to a the specified BusinessTeam." alt="" coords="284,85,503,141"/>
+<area shape="rect" id="node4" href="$d1/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_unit_inquiry_request.html" title="Used to relate an InquiryRequest to a the specified BusinessUnit." alt="" coords="284,165,503,221"/>
 </map>

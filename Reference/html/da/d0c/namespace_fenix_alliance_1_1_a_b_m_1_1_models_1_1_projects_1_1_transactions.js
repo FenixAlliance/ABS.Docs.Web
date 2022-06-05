@@ -1,12 +1,12 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions =
 [
     [ "ProjectTransaction", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction" ],
-    [ "AmmountMethod", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6", [
-      [ "FixedPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6a39cc4ff19395ea9dfb7d5e357571254b", null ],
-      [ "TaxCalculation", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6a81b0e93637cc58d581748ec6bc5c6979", null ],
-      [ "MultiplyByPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6a81d444ba244322728a2646afbcfe50d9", null ],
-      [ "MultiplyBasisQuantityByPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6aaef5d4653518c569137452175a03c19a", null ],
-      [ "MultiplyBasisAmmountByPercent", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a1f132ab186fbbfbf52126ec3ee01d8e6a9f95622355163aa8cf5bb28781e6e7cf", null ]
+    [ "AmountMethod", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9f", [
+      [ "FixedPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9fa39cc4ff19395ea9dfb7d5e357571254b", null ],
+      [ "TaxCalculation", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9fa81b0e93637cc58d581748ec6bc5c6979", null ],
+      [ "MultiplyByPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9fa81d444ba244322728a2646afbcfe50d9", null ],
+      [ "MultiplyBasisQuantityByPrice", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9faaef5d4653518c569137452175a03c19a", null ],
+      [ "MultiplyBasisAmountByPercent", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#a3488effac223026cc0595ed9ffe3bb9fa44b939515b23ff54eb90f2b0dbbd87b1", null ]
     ] ],
     [ "BillingType", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#aed45dc1e10c5e0aec41e42f13ae972c0", [
       [ "NonChargeable", "da/d0c/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions.html#aed45dc1e10c5e0aec41e42f13ae972c0a57cc8141391e1188ec9c62277acbdde3", null ],

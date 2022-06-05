@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_invoices =
+[
+    [ "InvoicesController", "d5/d1e/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_invoices_1_1_invoices_controller.html", "d5/d1e/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_invoices_1_1_invoices_controller" ],
+    [ "MethodsController", "d1/da4/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_invoices_1_1_methods_controller.html", "d1/da4/class_fenix_alliance_1_1_areas_1_1_billing_1_1_controllers_1_1_invoices_1_1_methods_controller" ]
+];

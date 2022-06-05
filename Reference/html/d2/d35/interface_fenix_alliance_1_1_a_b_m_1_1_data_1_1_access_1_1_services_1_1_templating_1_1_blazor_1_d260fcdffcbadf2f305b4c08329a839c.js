@@ -1,0 +1,8 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c =
+[
+    [ "AddAssemblyReferences", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html#a01cb09b451fecdc7b9eccf4bf090eafc", null ],
+    [ "CompileToAssembly", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html#a83e85e286a3a97bff2e268d04403331e", null ],
+    [ "CompileToAssemblyAsync", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html#a4e94bb23fdfe34b2f69f29a3f273ff25", null ],
+    [ "CompileToCSharpAsync", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html#a86a1d6c2ed0ad245cd81911601c15e53", null ],
+    [ "CreateRazorProjectItem", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html#a87ef5f0deaf49e3122a14b90e5e95c1b", null ]
+];

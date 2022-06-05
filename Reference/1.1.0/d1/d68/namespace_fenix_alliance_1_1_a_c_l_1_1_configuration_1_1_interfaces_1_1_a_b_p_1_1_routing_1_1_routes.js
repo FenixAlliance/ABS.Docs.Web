@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes =
+[
+    [ "IAreaControllerRoute", "dd/d23/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_rod56d90cff95cbcda686148a38b920665.html", "dd/d23/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_rod56d90cff95cbcda686148a38b920665" ],
+    [ "IControllerRoute", "d6/d40/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes_1_1_i_controller_route.html", "d6/d40/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_routing_1_1_routes_1_1_i_controller_route" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_i_d =
+[
+    [ "OpenIdConfigurationResponse", "dd/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_i_d_1_1_open_id_configuration_response.html", "dd/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_i_d_1_1_open_id_configuration_response" ]
+];

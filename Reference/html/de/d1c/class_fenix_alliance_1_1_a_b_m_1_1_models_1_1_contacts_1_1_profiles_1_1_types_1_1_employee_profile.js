@@ -9,5 +9,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_type
     [ "JobTitle", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#a17d34203cacb86799fb20c0f5f76f0b8", null ],
     [ "JobTitleID", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#a1bf663007a490cbac69a54fea2fdc298", null ],
     [ "NetSalary", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#a99b5b64182e2baba6b119622785a2437", null ],
-    [ "PayrollCurrency", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#a600c35953912de689cee4ab81ef1e316", null ]
+    [ "PayrollCurrency", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#a600c35953912de689cee4ab81ef1e316", null ],
+    [ "ServicePersonnelRecords", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html#adf3ba125dce8cee1d5bbdf33f8e0aaa7", null ]
 ];

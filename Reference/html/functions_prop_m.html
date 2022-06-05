@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -148,6 +148,13 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MainMenuTypography
 : <a class="el" href="d2/db6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_menu_1_1_menu_options.html#a7e178b373c2c1fd278aacea0a5340ffd">FenixAlliance.ACL.Configuration.Types.ABS.Portal.Menu.MenuOptions</a>
 </li>
+<li>MainNetEndpoint
+: <a class="el" href="d1/d99/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_block_chains.html#a2ff9a69f492b49e13c1adc03c02e225a">FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.IBlockChains</a>
+, <a class="el" href="d2/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains_1_1_block_chains_options.html#ad1599869c2cf3c0c24452dc9814c7a23">FenixAlliance.ACL.Configuration.Types.ABP.BlockChains.BlockChainsOptions</a>
+</li>
+<li>MainNetEtherBalance
+: <a class="el" href="d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html#a89b8c4049ad01eb666f09846d97c5cc9">FenixAlliance.ABM.Models.Global.Wallets.WalletAccount</a>
+</li>
 <li>MainOnAccountPayment
 : <a class="el" href="dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a9212d1dbd4e681a0322baf2c8f97fb10">FenixAlliance.ABM.Models.UBL.UtilityStatementType</a>
 </li>
@@ -168,7 +175,8 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d0/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_holders_1_1_account_holder.html#ada93df0f9c1950ccff69ce5eff0666db">FenixAlliance.ABM.Models.Holders.AccountHolder</a>
 </li>
 <li>ManageInventory
-: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a676067f1dd3e5e8560aac96efcd069c3">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+: <a class="el" href="df/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_bulk_product.html#abf4c474b16fee88a513da7c1e75d790b">FenixAlliance.ABM.Models.DTOs.Components.Logistics.BulkProduct</a>
+, <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a676067f1dd3e5e8560aac96efcd069c3">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
 </li>
 <li>MandateDocumentReference
 : <a class="el" href="db/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_power_of_attorney_type.html#a88d7d1e4f1e550ef3c0af0c1ac6ab2b1">FenixAlliance.ABM.Models.UBL.PowerOfAttorneyType</a>
@@ -179,6 +187,9 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>Manifest
 : <a class="el" href="d0/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module_data.html#a46355620801ba794a8ea0ab17ac0460d">FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModuleData</a>
 , <a class="el" href="da/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_data.html#a2624460d419de688439aa1b25b370283">FenixAlliance.ACL.Configuration.Types.ABP.Modular.ModuleData</a>
+</li>
+<li>Mansory
+: <a class="el" href="da/dee/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portal_options.html#ac2466953d814c01e64810377d3438237">FenixAlliance.ACL.Configuration.Types.ABS.Portal.PortalOptions</a>
 </li>
 <li>ManufactureDate
 : <a class="el" href="d7/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_instance_type.html#ac2f5eb76e491c82b7d9a7c0eb815556d">FenixAlliance.ABM.Models.UBL.ItemInstanceType</a>
@@ -238,79 +249,50 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html#ab14e3388db18d77f9c0529da1cf02d98">FenixAlliance.ABM.Models.Social.Curriculums.Curriculum</a>
 </li>
 <li>MarketingApiToken
-: <a class="el" href="dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213.html#a2ef0c8c0ecc08817ffb1aac0ed981bc7">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Facebook.IFacebookIntegrationsOptions</a>
-, <a class="el" href="d8/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebo60c42a368a8a46508958334decb94ce3.html#ab69834cb8e7254cda1202a8b721a9aa4">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Facebook.FacebookIntegrationOptions</a>
+: <a class="el" href="d8/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebo60c42a368a8a46508958334decb94ce3.html#ab69834cb8e7254cda1202a8b721a9aa4">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Facebook.FacebookIntegrationOptions</a>
 </li>
 <li>MarketingApiTokenSandbox
-: <a class="el" href="dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213.html#aea84c2ccff09b38e09a7fcbc2ef83e3d">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Facebook.IFacebookIntegrationsOptions</a>
-, <a class="el" href="d8/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebo60c42a368a8a46508958334decb94ce3.html#a5a2ffc73778ca32b5c19da3bcfc7a95c">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Facebook.FacebookIntegrationOptions</a>
+: <a class="el" href="d8/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebo60c42a368a8a46508958334decb94ce3.html#a5a2ffc73778ca32b5c19da3bcfc7a95c">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Facebook.FacebookIntegrationOptions</a>
+</li>
+<li>MarketingArea
+: <a class="el" href="db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area_subscription.html#a181c055f35b16fb44cfb1e7e99d7dde9">FenixAlliance.ABM.Models.Marketing.Area.MarketingAreaSubscription</a>
+, <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#ab885ff8ca4d28e86633fa7c28db6154f">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
+</li>
+<li>MarketingAreaID
+: <a class="el" href="db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area_subscription.html#a15f730af5d7826161e47a6d3d08fa449">FenixAlliance.ABM.Models.Marketing.Area.MarketingAreaSubscription</a>
+, <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a0fb6df1bc53a09dff96834020c8372e5">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
+</li>
+<li>MarketingAreaSubscriptions
+: <a class="el" href="de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partner_profile.html#ac0209a36ed9ce599a65d9dbdce8de7fb">FenixAlliance.ABM.Models.Global.Partners.PartnerProfiles.PartnerProfile</a>
+, <a class="el" href="d5/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area.html#aab09cb05eb2655537a9cda2e86f6e717">FenixAlliance.ABM.Models.Marketing.Area.MarketingArea</a>
+, <a class="el" href="d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html#af6f637362e8d3e21aaf1a51deb5a4afb">FenixAlliance.ABM.Models.Tenants.Business</a>
 </li>
 <li>MarketingCampaign
 : <a class="el" href="da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html#ab1d12d2f8c88bcec2d6c9d6df0222da4">FenixAlliance.ABM.Data.DataContext</a>
+, <a class="el" href="d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile.html#a0759fd469f80e9b6d537fec60acde688">FenixAlliance.ABM.Models.Contacts.Profiles.Types.LeadProfile</a>
 , <a class="el" href="d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html#a93a71c6ff55849332bef7f39011d4d0e">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingCampaignActivityFeed</a>
+, <a class="el" href="da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#acfe947ffd9b60450287b3fe5b2f4408f">FenixAlliance.ABM.Models.Marketing.EmailRecords.EmailRecord</a>
 , <a class="el" href="d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template.html#a62960bce82269f8820df2a84fdbd9f7c">FenixAlliance.ABM.Models.Marketing.EmailTemplates.EmailTemplate</a>
-, <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#a6393c338eee5f10d7fedacad92324284">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
 , <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4bc50c62f9d0b31396d30922ddfac525">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
 </li>
 <li>MarketingCampaignActivityFeed
 : <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a554b7afba04fed4320c4c176eb890436">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
 </li>
 <li>MarketingCampaignID
-: <a class="el" href="d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html#a9d4e3cd1dcc9fe1266de8ba8f870bbd0">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingCampaignActivityFeed</a>
+: <a class="el" href="d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile.html#a2ae2b2a78bc11c5c25f029da4cbfc111">FenixAlliance.ABM.Models.Contacts.Profiles.Types.LeadProfile</a>
+, <a class="el" href="d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html#a9d4e3cd1dcc9fe1266de8ba8f870bbd0">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingCampaignActivityFeed</a>
+, <a class="el" href="da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html#aca204cee9c84ce669a22480bffec6fed">FenixAlliance.ABM.Models.Marketing.EmailRecords.EmailRecord</a>
 , <a class="el" href="d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template.html#a5dbe75dbac3da7df6d2e197003393b92">FenixAlliance.ABM.Models.Marketing.EmailTemplates.EmailTemplate</a>
-, <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#ae1a84c295a7c4f82cf0538dea4406d78">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
 , <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a955343ee581e048f46ff142f551489d4">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
 </li>
 <li>MarketingCampaignResponses
-: <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a3bb9c3e045ca956813546594d8911d5a">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
+: <a class="el" href="dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html#ad7e17bdbc33731b295ad22f16a265812">FenixAlliance.ABM.Models.Contacts.Contact</a>
+, <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a3bb9c3e045ca956813546594d8911d5a">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
 </li>
 <li>MarketingCampaigns
-: <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#a4dca261cfab1295b9701e79861ce714f">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
+: <a class="el" href="d5/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area.html#afc9ce7623d77209dfe464d1b05551285">FenixAlliance.ABM.Models.Marketing.Area.MarketingArea</a>
+, <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#a4dca261cfab1295b9701e79861ce714f">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
 , <a class="el" href="d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html#a36be7836a9d76899ed990fea39ec2f55">FenixAlliance.ABM.Models.Tenants.Business</a>
-</li>
-<li>MarketingLead
-: <a class="el" href="da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html#a5a09b5b2684e13b326092da30c8a09ea">FenixAlliance.ABM.Data.DataContext</a>
-, <a class="el" href="dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html#af9628a230efdf77d99790c3f6fbbbf43">FenixAlliance.ABM.Models.Contacts.Contact</a>
-, <a class="el" href="db/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_58c45a0ec526f74db35014e8f4eaa53a.html#a2551134e25312b1a39cc0430a3ab71b1">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingLeadActivityFeed</a>
-, <a class="el" href="d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership.html#a875806bbcef03658213489527aaebd90">FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroupMembership</a>
-, <a class="el" href="df/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_file.html#a0f8dd74dd70b393ce6b12ca58469f9d6">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadFile</a>
-, <a class="el" href="d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list_membership.html#a584497b252a92b8eb827c225bcb7b94b">FenixAlliance.ABM.Models.Marketing.Lists.MarketingListMembership</a>
-, <a class="el" href="db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html#a53c28a79ecec05eb73935f588b6120c5">FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterSubscription</a>
-, <a class="el" href="da/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads_1_1_sales_lead.html#a9583735baa6c34a148120c239eda4235">FenixAlliance.ABM.Models.Sales.Leads.SalesLead</a>
-, <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4c300a8ea1d8fd8c687e57b7c87f770a">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
-</li>
-<li>MarketingLeadActivityFeed
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#ac174650d612b62bbaf51f0ca2bb20d84">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-</li>
-<li>MarketingLeadFiles
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#afca64080d2be891cd55c003eab866ff4">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-</li>
-<li>MarketingLeadID
-: <a class="el" href="db/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_58c45a0ec526f74db35014e8f4eaa53a.html#ae275f60302d25812d3a2455766df2004">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingLeadActivityFeed</a>
-, <a class="el" href="d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership.html#af9de633f81b9d05379de7930eed1a6e0">FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroupMembership</a>
-, <a class="el" href="df/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_file.html#a0df4a4e127041e8583c9f35967c7b881">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadFile</a>
-, <a class="el" href="d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list_membership.html#a074c4af35944af50360b830d1983e306">FenixAlliance.ABM.Models.Marketing.Lists.MarketingListMembership</a>
-, <a class="el" href="db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html#a5125a82396498b7f0c816260ae2eb3f0">FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterSubscription</a>
-, <a class="el" href="da/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads_1_1_sales_lead.html#acd3fbff185a9122c36a016e7a7ab4e43">FenixAlliance.ABM.Models.Sales.Leads.SalesLead</a>
-, <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#acdb7d1cdb71ce807a0d4b1c015c4309a">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
-</li>
-<li>MarketingLeadRating
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#a42de05348d51315f0bce35e2b875394c">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-</li>
-<li>MarketingLeads
-: <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a7400e2653f7428bf5f190bbef4bd34e5">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
-, <a class="el" href="d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html#a2a4e35aff3f492e43f5f7705592bdcac">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadType</a>
-</li>
-<li>MarketingLeadStatus
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#a8c0a66e7ef5f401382b8184a5966b7af">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-</li>
-<li>MarketingLeadType
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#afe43974af7b8404e35e3c32cdb1392de">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-, <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a4011ee555f8ba91502d8e3e3d9d744c6">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
-</li>
-<li>MarketingLeadTypeID
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#a2c251c832aba38ebf8523c565358646f">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-, <a class="el" href="d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html#a11cd76815de6438cf14f0e200bc6ca78">FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit</a>
 </li>
 <li>MarketingList
 : <a class="el" href="da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html#ae842f8a6943177d8b54ca59a742d067a">FenixAlliance.ABM.Data.DataContext</a>
@@ -324,9 +306,11 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d0/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b0aa4a0a244e11dc0c8c71d32da7881b.html#adf53bd956730b60a98226cefd81138d5">FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingListActivityFeed</a>
 , <a class="el" href="d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list_membership.html#a1970cca44b25e122f0b66c23243f15b2">FenixAlliance.ABM.Models.Marketing.Lists.MarketingListMembership</a>
 </li>
+<li>MarketingListMembership
+: <a class="el" href="da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html#a2572822d0cf322bb992e09538aa33b70">FenixAlliance.ABM.Data.DataContext</a>
+</li>
 <li>MarketingListMemberships
-: <a class="el" href="d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html#a0805bf15e74f0ef45765772c35a29a56">FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead</a>
-, <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#a9d631eb67736f26bc48858049e6104ae">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
+: <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#a9d631eb67736f26bc48858049e6104ae">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
 </li>
 <li>MarketingListTarget
 : <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#a900d9946088b6099e958f05d8b8034bb">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
@@ -334,11 +318,17 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MarketingListType
 : <a class="el" href="d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html#aa1dbc59ae784dfa9b8956e1e708274a7">FenixAlliance.ABM.Models.Marketing.Lists.MarketingList</a>
 </li>
+<li>MarketplaceDataService
+: <a class="el" href="de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html#a0b26e82bc17dbfd05a5b4c6068bbfc48">FenixAlliance.ABM.Data.Access.Services.StockItemsService</a>
+</li>
 <li>MarketValueAmount
 : <a class="el" href="d0/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilized_security_type.html#a1c43ae181949ee18bcc91995478e7049">FenixAlliance.ABM.Models.UBL.ImmobilizedSecurityType</a>
 </li>
 <li>MarkingID
 : <a class="el" href="d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#a2e589dd99b89629198bddbf35628010e">FenixAlliance.ABM.Models.UBL.HazardousItemType</a>
+</li>
+<li>Mask
+: <a class="el" href="dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token.html#a82ed478aa328d57c1fa05dda80d74bab">FenixAlliance.ABM.Models.Global.Wallets.PaymentTokens.PaymentToken</a>
 </li>
 <li>MaskFileNames
 : <a class="el" href="da/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_downloadables_1_1_downloadables_options.html#a3b2bad03fb0536a09a736f51d6652af1">FenixAlliance.ACL.Configuration.Types.ICX.Downloadables.DownloadablesOptions</a>
@@ -348,6 +338,7 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 </li>
 <li>Material
 : <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a20e20d1cb7ce3f198e762cfc5f819c81">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+, <a class="el" href="df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html#ad8c42922808811471cecf33c7aa08de8">FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemMaterialVariation</a>
 </li>
 <li>MathematicOperatorCode
 : <a class="el" href="d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_exchange_rate_type.html#a0ea91eea17961858f3bdaa0bfa610553">FenixAlliance.ABM.Models.UBL.ExchangeRateType</a>
@@ -363,8 +354,14 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 , <a class="el" href="de/d53/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_h_s_t_s_1_1_hsts_options.html#a541ac1cd27a702d970b3fa4d4103fe99">FenixAlliance.ACL.Configuration.Types.ABP.HTTP.HSTS.HstsOptions</a>
 , <a class="el" href="df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05.html#a9f77ed3db3a1c3dcd58fa26c5217fe01">FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.OpenIdConnectOptions</a>
 </li>
+<li>MaxBudget
+: <a class="el" href="d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a810fd6f0784b3069a5a802c9c4bd1d75">FenixAlliance.ABM.Models.Workforce.Gigs.Gig</a>
+</li>
 <li>MaxCourseEnrollments
 : <a class="el" href="da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html#a587f413c24fcabd2aacd29d231795bd0">FenixAlliance.ABM.Models.Education.Courses.Course</a>
+</li>
+<li>MaxEmployees
+: <a class="el" href="dc/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_segment.html#a425931037940d355e06b9a7a06940911">FenixAlliance.ABM.Models.Tenants.BusinessSegmentation.BusinessSegment</a>
 </li>
 <li>MaxHeight
 : <a class="el" href="da/da0/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_logos_1_1_logo.html#ad27caab90c4ae15db140e151d4ce280d">FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Logos.Logo</a>
@@ -429,6 +426,9 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d7/dee/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor_hub_options.html#a80e7afb1a4969df3b2bd91dd9abae7a0">FenixAlliance.ACL.Configuration.Interfaces.ABS.SPAs.IBlazorHubOptions</a>
 , <a class="el" href="d0/d92/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_s_p_as_1_1_blazor_hub_options.html#a7a0f5d325455378d5efd4895985c61e1">FenixAlliance.ACL.Configuration.Types.ABS.SPAs.BlazorHubOptions</a>
 </li>
+<li>MaximumSpend
+: <a class="el" href="d9/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon.html#a36d407b2c61aa39dd550513f9ed7df22">FenixAlliance.ABM.Models.Accounting.Billing.Coupons.BillingCoupon</a>
+</li>
 <li>MaximumTemperature
 : <a class="el" href="d3/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_type.html#a3f92f2efd7cdb976f744d5314a4caa97">FenixAlliance.ABM.Models.UBL.GoodsItemType</a>
 , <a class="el" href="df/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_goods_transit_type.html#af63605f5b7d82f6e61e775973cecb500">FenixAlliance.ABM.Models.UBL.HazardousGoodsTransitType</a>
@@ -442,7 +442,7 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d9/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tendering_terms_type.html#a2fad5870cca0c6de7f5bd0ba63ffffc7">FenixAlliance.ABM.Models.UBL.TenderingTermsType</a>
 </li>
 <li>MaxLicenseUtilizations
-: <a class="el" href="dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type.html#aab25337cb46197dfc97ff68ec2b1683e">FenixAlliance.ABM.Models.Global.Suites.Tiers.LicenseType</a>
+: <a class="el" href="d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types_1_1_license_type.html#af3d31ab689169f73914d64511ba18b31">FenixAlliance.ABM.Models.Licensing.Types.LicenseType</a>
 </li>
 <li>MaxMindDbPath
 : <a class="el" href="dc/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_integrations_1_1_integration_options.html#a3859afc3de9d5e805e3a16a2b93b5c64">FenixAlliance.ACL.Configuration.Types.ICX.Integrations.IntegrationOptions</a>
@@ -456,8 +456,17 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MaxQuantity
 : <a class="el" href="de/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_pricing_rule.html#afd5e9d8c03aae3a632102b3371cbe680">FenixAlliance.ABM.Models.DTOs.Components.Selling.PricingRule</a>
 </li>
+<li>MaxRating
+: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#aba03a6f3ee8607b838be6949ff5d7d3d">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+</li>
 <li>MaxRatingValue
 : <a class="el" href="dd/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_model.html#ab344f84be218eb80361e0b7173418e9c">FenixAlliance.ABM.Models.Projects.Proficiency.ProficiencyRatingModel</a>
+</li>
+<li>MaxSalaryAmount
+: <a class="el" href="de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_offers_1_1_job_offer.html#a93aa4b35736d2c9c89517b6dbb873274">FenixAlliance.ABM.Models.Workforce.Jobs.JobOffers.JobOffer</a>
+</li>
+<li>MaxSalaryExpectation
+: <a class="el" href="df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html#a4d2c8dff2f988df95f7022af4122a78c">FenixAlliance.ABM.Models.Contacts.Profiles.Types.JobApplicantProfile</a>
 </li>
 <li>MaxUploadSize
 : <a class="el" href="d5/d10/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_root_volume.html#abe010338ca2bd00e7028157e7265b9b7">FenixAlliance.ABP.FileSystem.RootVolume</a>
@@ -509,8 +518,12 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html#ae84d7f65ddd09a5dd18ec903203a1529">FenixAlliance.ABM.Models.UBL.HazardousItemType</a>
 </li>
 <li>MemoryCache
-: <a class="el" href="d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching.html#adb13e8c77ad23f9fa377f8aa694c9a6b">FenixAlliance.ACL.Configuration.Interfaces.ABP.Caching.ICaching</a>
+: <a class="el" href="d7/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cache_service.html#a7d2464d09bae8bf3275fe6852abb3604">FenixAlliance.ABM.Data.Access.Services.CacheService</a>
+, <a class="el" href="d2/dd5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_caching_1_1_i_caching.html#adb13e8c77ad23f9fa377f8aa694c9a6b">FenixAlliance.ACL.Configuration.Interfaces.ABP.Caching.ICaching</a>
 , <a class="el" href="d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options.html#a80d67d70928831db90d83a552286b048">FenixAlliance.ACL.Configuration.Types.ABP.Caching.CachingOptions</a>
+</li>
+<li>Menu
+: <a class="el" href="da/dee/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portal_options.html#a45e2f72f2705e1be4f6cafd14c0e4d81">FenixAlliance.ACL.Configuration.Types.ABS.Portal.PortalOptions</a>
 </li>
 <li>MenuContext
 : <a class="el" href="da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html#a89e3087025a7e6ee92fca4a9ab5c0dca">FenixAlliance.ABM.Data.DataContext</a>
@@ -543,32 +556,41 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MenuHighlightStyle
 : <a class="el" href="d2/db6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_menu_1_1_menu_options.html#ab9346a92ed7f6aec53eb05f70a777062">FenixAlliance.ACL.Configuration.Types.ABS.Portal.Menu.MenuOptions</a>
 </li>
+<li>MenuImage
+: <a class="el" href="db/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_categories_1_1_item_google_category.html#af9bef06dcdc904ee6c2938fd59ebed65">FenixAlliance.ABM.Models.Logistics.Stock.ItemCategories.ItemGoogleCategory</a>
+</li>
 <li>MenuItemTabTarget
 : <a class="el" href="d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_menus_1_1_menu_context_item.html#aa4a61b9e22af689b1620e43cdcf9b676">FenixAlliance.ABM.Models.Content.Menus.MenuContextItem</a>
 </li>
 <li>MenusService
-: <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#a3275a2a703679cb7522583ace752d510">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
-, <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#ad8a67758128549565809a209f127d4ad">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#a3cd703f66a44ee73bcd9db80815604e9">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#ab9b1ff7488c4e12c187f1d6f13f7e677">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
+, <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#aa09702fac9dd4912b3ace32168097642">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
 , <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#a0e074ac9d0463d62ec6b2d894c5819c4">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
 </li>
 <li>MerchantId
 : <a class="el" href="d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html#a38f7fed7bdd78f441faeea5268e75ef8">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleMerchantCenterIntegrationOptions</a>
-, <a class="el" href="d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html#ad3702219af9f1650f99ebe6d4fb993cc">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.IGoogleMerchantCenterIntegrationOptions</a>
 </li>
 <li>MerchantUserEmail
 : <a class="el" href="d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html#a68b8cb6e65a7917908dd388fde59d4a1">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleMerchantCenterIntegrationOptions</a>
-, <a class="el" href="d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html#a93f3f71118d036c33349722115e5d8c4">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.IGoogleMerchantCenterIntegrationOptions</a>
 </li>
 <li>Message
 : <a class="el" href="d8/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_requests_1_1_payment_request.html#aacf13f833ab2b7f416e580e87cbe180f">FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentRequests.PaymentRequest</a>
 , <a class="el" href="dc/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_helpdesk_1_1_contact_inquiry.html#afcc4f809e5524e94258a3e7bbc86b784">FenixAlliance.ABM.Models.DTOs.Components.Helpdesk.ContactInquiry</a>
 , <a class="el" href="d4/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_notification.html#a4151bff851d6906c7333365058bc950e">FenixAlliance.ABM.Models.DTOs.Components.Social.Notification</a>
 , <a class="el" href="d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_private_message.html#a6c50cadea25782119fa44bca1bc832b6">FenixAlliance.ABM.Models.DTOs.Components.Social.PrivateMessage</a>
+, <a class="el" href="d8/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_question.html#ae16b4403f5c584782a283478b4e56b35">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductQuestion</a>
 , <a class="el" href="dc/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_review.html#a0e90d9563b1eeb9e5c736848ca130fc2">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductReview</a>
-, <a class="el" href="d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup.html#a0e56a4c79c1187bd222311568b26edaa">FenixAlliance.ABM.Models.Global.Security.IPLookup</a>
-, <a class="el" href="d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html#a3db542ad1a4ad76cc378d52b5825d810">FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.InquiryRequest</a>
+, <a class="el" href="d6/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_question_response.html#a5626731d278e018bac6a3053f48f5144">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.QuestionResponse</a>
+</li>
+<li>message
+: <a class="el" href="db/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_action_email_model.html#aef48ff218f8527598e1d89fe1bcfef9b">FenixAlliance.ABM.Models.DTOs.Email.ActionEmailModel</a>
+, <a class="el" href="d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_alert_email_model.html#a2e079f687c7da8edf5f0fee9d92c778c">FenixAlliance.ABM.Models.DTOs.Email.AlertEmailModel</a>
+, <a class="el" href="d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_email_model.html#a386db3a3718e185928616c26103dd9de">FenixAlliance.ABM.Models.DTOs.Email.InvoiceEmailModel</a>
+</li>
+<li>Message
+: <a class="el" href="d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html#a3db542ad1a4ad76cc378d52b5825d810">FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.InquiryRequest</a>
 , <a class="el" href="d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_logs_1_1_business_security_log.html#afd3b56ea9819b6899e1af48e2f2e4bf7">FenixAlliance.ABM.Models.Security.BusinessSecurityLogs.BusinessSecurityLog</a>
+, <a class="el" href="db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup.html#acac630e14cf50c92cb8d24b1c550b45c">FenixAlliance.ABM.Models.Security.IPLookups.IPLookup</a>
 , <a class="el" href="d9/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment.html#a03c8034dcb286946076d48b030c5de02">FenixAlliance.ABM.Models.Social.Comments.SocialComment</a>
 , <a class="el" href="d1/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_notifications_1_1_notification.html#a9ed783f3698d9cb8f36bac3dad39719e">FenixAlliance.ABM.Models.Social.Notifications.Notification</a>
 , <a class="el" href="da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a2a7b98884aa9a801d41c85e85aa4151a">FenixAlliance.ABM.Models.Social.PrivateMessages.PrivateMessage</a>
@@ -581,7 +603,7 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html#a06f741ce3f81e13fd3559e759a3e1d77">FenixAlliance.ABM.Models.Social.PrivateMessages.PrivateMessage</a>
 </li>
 <li>MessagesCount
-: <a class="el" href="df/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_social_profile.html#aa0d71847c8f7f5cf3adbf4ef8fbb4573">FenixAlliance.ABM.Models.DTOs.Components.Social.SocialProfile</a>
+: <a class="el" href="df/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_social_profile.html#a5944da9230bee70f616c1d1217d10a99">FenixAlliance.ABM.Models.DTOs.Components.Social.SocialProfile</a>
 </li>
 <li>Metadata
 : <a class="el" href="d9/dd3/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_package.html#a66c853565d6ac9c4c273f8c328860444">FenixAlliance.ABP.Hub.Plugins.Specifications.Package</a>
@@ -593,6 +615,11 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MetaDescription
 : <a class="el" href="d0/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_taxonomies_1_1_taxonomy.html#a599553e7f0a8b9c713b92e96e9fcaa9e">FenixAlliance.ABM.Models.Content.Taxonomies.Taxonomy</a>
 , <a class="el" href="d1/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_web_content.html#aefbb3fc5c090ada3d9071ad13105071b">FenixAlliance.ABM.Models.Content.WebContent</a>
+</li>
+<li>metaTitle
+: <a class="el" href="db/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_action_email_model.html#a6e44eb2294d8d990ed8f4278f5708cc8">FenixAlliance.ABM.Models.DTOs.Email.ActionEmailModel</a>
+, <a class="el" href="d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_alert_email_model.html#a77a1204d3e74f97168dbedfad07026a7">FenixAlliance.ABM.Models.DTOs.Email.AlertEmailModel</a>
+, <a class="el" href="d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_email_model.html#af11dad63868ab6d8cdff12bc225cb67c">FenixAlliance.ABM.Models.DTOs.Email.InvoiceEmailModel</a>
 </li>
 <li>MeterConstant
 : <a class="el" href="d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_type.html#a6183fa80532f9f28790606312f2b3f3d">FenixAlliance.ABM.Models.UBL.MeterType</a>
@@ -623,10 +650,13 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MeterReadingTypeCode
 : <a class="el" href="d3/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_reading_type.html#ae4028d51ab5c50bc666b7ddef5ca724a">FenixAlliance.ABM.Models.UBL.MeterReadingType</a>
 </li>
+<li>Metrics
+: <a class="el" href="d6/d19/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_i_alliance_business_platform_options.html#a6d3d20a0254159ff5a1de73a1596d960">FenixAlliance.ACL.Configuration.Interfaces.ABP.IAllianceBusinessPlatformOptions</a>
+, <a class="el" href="da/dd1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_alliance_business_platform_options.html#a5a448739d2d0c45f18f30ed33a16e353">FenixAlliance.ACL.Configuration.Types.ABP.AllianceBusinessPlatformOptions</a>
+</li>
 <li>Microsoft
-: <a class="el" href="dc/dc3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_i_integrations.html#a2a511247081e95860aec0b596359bec5">FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.IIntegrations</a>
-, <a class="el" href="d6/df7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_override.html#a76f08b732e804d433faff6b59037ca7e">FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogOverride</a>
-, <a class="el" href="d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html#a6559766e077c32ff40b9bb993909f970">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.IntegrationsOptions</a>
+: <a class="el" href="d6/df7/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_override.html#a76f08b732e804d433faff6b59037ca7e">FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogOverride</a>
+, <a class="el" href="d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html#aedece365d021e9c9e0520e14374303bf">FenixAlliance.ACL.Configuration.Types.ABP.Integrations.IntegrationsOptions</a>
 , <a class="el" href="db/dd3/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_override.html#a46b16c5d55dd4e93ea15b6fc9be176f7">FenixAlliance.ACL.Configuration.Types.ABP.Logging.Serilog.SerilogOverride</a>
 </li>
 <li>MicrosoftIdentity
@@ -667,8 +697,14 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 , <a class="el" href="dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html#a8f80f24138879a04be5503131683914d">FenixAlliance.ABP.FileSystem.Drivers.IFile</a>
 , <a class="el" href="d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html#a4a0bae627c9c0ffe63d3e229c7fecc34">FenixAlliance.ABP.FileSystem.Manager.Drawing.ImageWithMimeType</a>
 </li>
+<li>MinBudget
+: <a class="el" href="d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#af2a29e17eb564c383887569bf9e4466d">FenixAlliance.ABM.Models.Workforce.Gigs.Gig</a>
+</li>
 <li>MinClientVersion
 : <a class="el" href="d3/d27/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_metadata.html#af9c7bcb2321c05f154295ef933f63fd4">FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.Metadata</a>
+</li>
+<li>MinEmployees
+: <a class="el" href="dc/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_segment.html#a2d44a2761b51263a243b7a4ee1b5744e">FenixAlliance.ABM.Models.Tenants.BusinessSegmentation.BusinessSegment</a>
 </li>
 <li>MinimalData
 : <a class="el" href="d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_store_1_1_a_p_i_products_response.html#a42e8fca2f7ce964eee3ebbb9df324c9b">FenixAlliance.ABM.Models.DTOs.Responses.Store.APIProductsResponse</a>
@@ -720,6 +756,9 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="de/dc6/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_cookies_1_1_i_cookie_policy.html#ad55bdaf2d6e843f43609b34b3f2c90cd">FenixAlliance.ACL.Configuration.Interfaces.ABP.Cookies.ICookiePolicy</a>
 , <a class="el" href="d9/dbe/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookie_policy.html#a73ae07b05950e8d7aaf26f537fa813e4">FenixAlliance.ACL.Configuration.Types.ABP.Cookies.CookiePolicy</a>
 </li>
+<li>MinimumSpend
+: <a class="el" href="d9/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon.html#a5633d9537489b0281c7aaab05e1391ec">FenixAlliance.ABM.Models.Accounting.Billing.Coupons.BillingCoupon</a>
+</li>
 <li>MinimumTemperature
 : <a class="el" href="d3/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_type.html#a1bb764bc8ad8078d8a7f42b19ff39db0">FenixAlliance.ABM.Models.UBL.GoodsItemType</a>
 , <a class="el" href="df/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_goods_transit_type.html#a5a32c464bf368a6b9c7f9cbfa1b77dbd">FenixAlliance.ABM.Models.UBL.HazardousGoodsTransitType</a>
@@ -738,8 +777,26 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 <li>MinQuantity
 : <a class="el" href="de/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_pricing_rule.html#a197883f34698cd9cc69fb017d5475a1c">FenixAlliance.ABM.Models.DTOs.Components.Selling.PricingRule</a>
 </li>
+<li>MinRating
+: <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a8e1e5813aeafa3dabf2f71c49cd445b6">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
+</li>
 <li>MinRatingValue
 : <a class="el" href="dd/d26/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_proficiency_1_1_proficiency_rating_model.html#a27c6e4f32f5f5d7d29a79fac0365e2a7">FenixAlliance.ABM.Models.Projects.Proficiency.ProficiencyRatingModel</a>
+</li>
+<li>MinSalaryAmount
+: <a class="el" href="de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_jobs_1_1_job_offers_1_1_job_offer.html#ac13b6595cf0428e5165e14982cf2a633">FenixAlliance.ABM.Models.Workforce.Jobs.JobOffers.JobOffer</a>
+</li>
+<li>MinSalaryExpectation
+: <a class="el" href="df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html#ae2475ab299eedaf28b0ce6d3e6a4480e">FenixAlliance.ABM.Models.Contacts.Profiles.Types.JobApplicantProfile</a>
+</li>
+<li>Minted
+: <a class="el" href="da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html#ad5fc560764c255380bc9eddb2b6c52c1">FenixAlliance.ABM.Models.Blockchains.NFTs.NonFungibleToken</a>
+</li>
+<li>MintedTimestamp
+: <a class="el" href="da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html#ac8df1299ed4bfd7315278e9e859643f9">FenixAlliance.ABM.Models.Blockchains.NFTs.NonFungibleToken</a>
+</li>
+<li>MintTransactionHash
+: <a class="el" href="da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html#a59ddf08463d6df141c4a435414ee0a9d">FenixAlliance.ABM.Models.Blockchains.NFTs.NonFungibleToken</a>
 </li>
 <li>MinutesDocumentReference
 : <a class="el" href="d1/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarded_notification_type.html#a47c851c1712316211d2f4aaec6f1af2b">FenixAlliance.ABM.Models.UBL.AwardedNotificationType</a>
@@ -748,6 +805,9 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 </li>
 <li>MiscCost
 : <a class="el" href="db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html#a57ae9ae150fad2fbb03aff6b266aacbc">FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign</a>
+</li>
+<li>Miscellaneous
+: <a class="el" href="da/dee/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portal_options.html#af5b84cee891780dc8cf1b896bd458379">FenixAlliance.ACL.Configuration.Types.ABS.Portal.PortalOptions</a>
 </li>
 <li>MiscellaneousEvent
 : <a class="el" href="d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_retail_event_type.html#a4e534e6772590cd1dece45dfc75afb26">FenixAlliance.ABM.Models.UBL.RetailEventType</a>
@@ -760,21 +820,19 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 , <a class="el" href="d5/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_status.html#aca885931122926dc48bd5470c38e726a">FenixAlliance.ACL.Configuration.Types.SuiteStatus</a>
 </li>
 <li>Mobile
-: <a class="el" href="d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup.html#ae20e0e4cda13894773e9a06c7ca7c096">FenixAlliance.ABM.Models.Global.Security.IPLookup</a>
+: <a class="el" href="db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup.html#a69d0401d6850f9346f2429ced750216f">FenixAlliance.ABM.Models.Security.IPLookups.IPLookup</a>
 </li>
 <li>MobilePhone
 : <a class="el" href="dc/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact.html#a25a8d2a28e73d65b3cfa78ef97ce801d">FenixAlliance.ABM.Models.Contacts.Contact</a>
+, <a class="el" href="db/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment_data.html#a9f8e5456342ffc38a8e22e798a954d6c">FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.PaymentData</a>
 </li>
 <li>Model
-: <a class="el" href="db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html#a5164a1bfbe5fb722f10124d4f51297d7">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct</a>
-, <a class="el" href="d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html#ac24a59a171e1cd093f9cb8604ffc39a4">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.MinimalAPIProduct</a>
+: <a class="el" href="df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html#a5e68356cb3a7f03604a5764e0252dcea">FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase</a>
+, <a class="el" href="d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html#acdf64d27e34e1cd62916840fc547b367">FenixAlliance.ABM.Data.Access.Services.ViewRenderingService</a>
 , <a class="el" href="dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html#af1bed569e83806501051dcefe423fa21">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product</a>
 , <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a471277371a7ba7b0d4aa6ac92d5fa1eb">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
 , <a class="el" href="da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html#a908cfda75b9e82db8352a1953a471a13">FenixAlliance.ABS.Core.Contexts.BuilderContext</a>
 , <a class="el" href="d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html#a81ae93319e213221772ae2179322a4e9">FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService</a>
-, <a class="el" href="d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html#adbee9caa1d16f150fae5a4dbb12bf969">FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService</a>
-, <a class="el" href="db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html#ae954cd81cd2048e1b90a1a11d0640543">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase</a>
-, <a class="el" href="d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html#ab83994dd566feabb7a28f55bfc5dab66">FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1</a>
 , <a class="el" href="d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html#a7a8785ff438fa170f39e7629043227f4">FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase</a>
 </li>
 <li>ModelName
@@ -824,9 +882,7 @@ $(document).ready(function(){initNavTree('functions_prop_m.html',''); initResiza
 : <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#a670f6c5d047d8e8d24bde48a186572eb">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
 </li>
 <li>MPN
-: <a class="el" href="db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html#afe7838977864aa80a7d1ecd77e47d8c7">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct</a>
-, <a class="el" href="d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html#a1dc465133df1bad0c21746693597f960">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.MinimalAPIProduct</a>
-, <a class="el" href="dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html#aa86197507f087eab5a9e049703b14734">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product</a>
+: <a class="el" href="dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html#aa86197507f087eab5a9e049703b14734">FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product</a>
 , <a class="el" href="d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html#aff52ff9ee26924b6ff31f311d63f5b9c">FenixAlliance.ABM.Models.Logistics.Stock.Item.Item</a>
 </li>
 <li>MPNs

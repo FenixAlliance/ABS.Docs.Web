@@ -51,6 +51,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_ap
     [ "MarkedForPublish", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#ab66d9e93e8e8e2e150fc4c272ae9b075", null ],
     [ "Name", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a5e05d88a21c71954d71c6d3ba5b03f2f", null ],
     [ "Namespace", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a88db0f881e7394a338186f8095fe33c3", null ],
+    [ "OAuthApplication", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a60029d862fedec20fcb95ee1462c0208", null ],
     [ "PrivacyPolicyURL", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a61865c26107ee282daeb05b2b64f1939", null ],
     [ "PublishResultMessages", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#a9c39793bf619e2fe3f56c1098afddc6c", null ],
     [ "RequireAppSecret", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html#aac71db589c9f01f3a2c8c3151cb17cbb", null ],

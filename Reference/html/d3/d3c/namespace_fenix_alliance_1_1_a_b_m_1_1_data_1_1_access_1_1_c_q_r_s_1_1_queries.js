@@ -7,6 +7,5 @@ var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queri
     [ "Content", "d0/da5/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_content.html", null ],
     [ "Holders", "db/d86/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_holders.html", null ],
     [ "Logistics", "df/dee/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_logistics.html", null ],
-    [ "Security", "de/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_security.html", null ],
-    [ "Tenants", "d8/d45/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_tenants.html", null ]
+    [ "Security", "de/d82/namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_queries_1_1_security.html", null ]
 ];

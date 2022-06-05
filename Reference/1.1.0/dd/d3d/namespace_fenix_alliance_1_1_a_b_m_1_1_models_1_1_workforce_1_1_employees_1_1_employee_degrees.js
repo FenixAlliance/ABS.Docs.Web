@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees =
+[
+    [ "EmployeeDegree", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree" ]
+];

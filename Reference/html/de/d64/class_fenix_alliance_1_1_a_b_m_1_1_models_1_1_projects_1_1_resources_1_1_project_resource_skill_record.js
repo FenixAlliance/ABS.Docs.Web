@@ -8,5 +8,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_pro
     [ "ProjectResource", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a90435b63c5732c804d711321b2bc5ea5", null ],
     [ "ProjectResourceID", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a7088aef742f7331c96df8e199b0906c6", null ],
     [ "ProjectResourceSkill", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a09739b4e7bc57bcb2e5a98c88bf5babf", null ],
-    [ "ProjectResourceSkillID", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a3733ee3031cd24b9d8b4639e022a5c11", null ]
+    [ "ProjectResourceSkillID", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a3733ee3031cd24b9d8b4639e022a5c11", null ],
+    [ "Timestamp", "de/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_resources_1_1_project_resource_skill_record.html#a7c7421e68532e92d831f9ff037a84061", null ]
 ];

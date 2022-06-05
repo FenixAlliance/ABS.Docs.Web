@@ -2,14 +2,19 @@ var hierarchy =
 [
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.AADB2CConstants", "d7/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_constants.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.AADB2COptions", "d7/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_options.html", null ],
-    [ "FenixAlliance.ABM.Models.Global.Academic.Institutions.AcademicInstitution", "dd/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution.html", null ],
     [ "FenixAlliance.ABM.Models.Security.AccessKeys.AccessKeyPair", "d1/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_access_keys_1_1_access_key_pair.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.Accounts.Account", "db/d4c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_accounts_1_1_account.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Accounts.Account", "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Accounts.Account", "df/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Banking.BankAccount", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Accounts.Account", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_accounts_1_1_account.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountGroups.AccountGroup", "d7/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_groups_1_1_account_group.html", null ],
+    [ "FenixAlliance.ABM.Models.Mappers.Holders.AccountHolderBinder", "d3/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders_1_1_account_holder_binder.html", null ],
+    [ "FenixAlliance.ABM.Models.Security.Logins.AccountHolderLogin", "d1/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_logins_1_1_account_holder_login.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountingEntries.AccountingEntry", "d4/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_accounting_entries_1_1_accounting_entry.html", [
-      [ "FenixAlliance.ABM.Models.Accounting.Budgets.BudgetEntries.BudgetAccountEntry", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_entries_1_1_budget_account_entry.html", null ]
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentRefunds.PaymentRefund", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_refunds_1_1_payment_refund.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Budgets.BudgetEntries.BudgetAccountEntry", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_entries_1_1_budget_account_entry.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Wallets.Chargebacks.PaymentChargeback", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_chargebacks_1_1_payment_chargeback.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Accounts.AccountingEntry", "d8/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_accounts_1_1_accounting_entry.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Accounting.AccountingOptions", "df/d07/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_accounting_1_1_accounting_options.html", null ],
@@ -22,12 +27,17 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountRelations.Scopes.ProjectAccount", "d0/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes_1_1_project_account.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Accounting.Accounts.AccountTypes.AccountType", "de/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_types_1_1_account_type.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Email.ActionEmailModel", "db/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_action_email_model.html", null ],
+    [ "ActionMethodSelectorAttribute", null, [
+      [ "FormValueRequiredAttribute", "d6/d9b/class_form_value_required_attribute.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ActivityDataLineType", "d3/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_activity_data_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.ActivityFeed", "da/d80/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_activity_feed.html", [
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.ContactActivityFeed", "d9/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_ddcda65bf4cc72599b413ebf03c7a4ac.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.DealUnitActivityFeed", "dd/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_757cd02a67acf3528656ef021d83a2af.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.GigApplicationFeed", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.JobOfferApplicationFeed", "d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingCampaignActivityFeed", "d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html", null ],
-      [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingLeadActivityFeed", "db/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_58c45a0ec526f74db35014e8f4eaa53a.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.MarketingListActivityFeed", "d0/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b0aa4a0a244e11dc0c8c71d32da7881b.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.PerformanceGoalActivityFeed", "d1/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_8669fe582c9b8b0dd3c0fc2097c1e2b0.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Activities.ActivityFeeds.FeedScopes.PlaybookActivityFeed", "d5/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_806d46866d96032643e4f900cae91bbf.html", null ],
@@ -40,7 +50,7 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.ActivityPropertyType", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_activity_property_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Activities.ActivityRecords.ActivityRecord", "da/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_records_1_1_activity_record.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.ActivityToggleEventArgs", "de/db2/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_activity_toggle_event_args.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.ActivityToggleEventArgs", "d9/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moe18078581c36f8e5f65ef906d44776e3.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Activities.ActivityTypes.ActivityType", "d5/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_types_1_1_activity_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.Actor", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_actor.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.Cart.AddProductToCartRequest", "d5/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_cart_1_1_add_product_to_cart_request.html", null ],
@@ -57,8 +67,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Contacts.Agreements.AgreementRevisions.AgreementRevision", "da/d9a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_revisions_1_1_agreement_revision.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Agreements.AgreementTypes.AgreementType", "d7/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_types_1_1_agreement_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AirTransportType", "db/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_air_transport_type.html", null ],
-    [ "FenixAlliance.ABP.FileSystem.Extensions.AllianceBusinessSuiteFileSystemExtensions", "d9/dcc/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_extensions_1_1_alliance_business_suite_file_system_extensions.html", null ],
-    [ "FenixAlliance.ABP.API.GraphQl.Core.Repos.AllianceIDRepository", "d3/d84/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_repos_1_1_alliance_i_d_repository.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Email.AlertEmailModel", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_alert_email_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AllowanceChargeType", "d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_allowance_charge_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AmountType", "da/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.AmountType1", "d9/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_amount_type1.html", [
@@ -134,7 +143,6 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.Answer", "d3/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_answer.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AnyType", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_any_type.html", null ],
-    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct", "db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.APIResponse", "db/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_a_p_i_response.html", [
       [ "FenixAlliance.ABM.Models.DTOs.Components.Social.APISocialActivityResponse", "d9/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_a_p_i_social_activity_response.html", null ],
       [ "FenixAlliance.ABM.Models.DTOs.Responses.Business.BusinessEnrollmentsResponse", "d2/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_business_1_1_business_enrollments_response.html", null ],
@@ -151,6 +159,17 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Global.Settings.Scopes.BusinessTenantSettings", "d2/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_business_tenant_settings.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Settings.Scopes.SingletonApplicationSettings", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_settings_1_1_scopes_1_1_singleton_application_settings.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Fees.FeeScopes.AppliedFees.AppliedFee", "db/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees_1_1_applied_fee.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Fees.FeeScopes.WithdrawFees.WalletWithdrawFee", "d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentFees.PaymentChargebackFee", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentFees.PaymentRefundFee", "d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentFees.PaymentTransactionFee", "d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Taxes.TaxPolicies.AppliedTaxPolicyRecord", "db/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_1_1_applied_tax_policy_record.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecordTaxes.ItemOrders.AppliedItemTaxRecord", "d2/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record498e329a9790da2c115f112c8b65f9a1.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentWithholdings.AppliedTaxWithholdingRecord", "d1/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_wi47333c4c5587212bee774560a704c62c.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Taxes.TaxPolicies.AppliedFeeTaxRecords.AppliedFeeTaxRecord", "d9/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_taxes_1_1_tax_policies_142d242d404dc33e4be6cd56cdad74134.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.Appraisals.Appraisal", "d9/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_appraisals_1_1_appraisal.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Appraisals.AppraisalSessions.AppraisalSession", "db/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_sessions_1_1_appraisal_session.html", [
       [ "FenixAlliance.ABM.Models.Workforce.Appraisals.EmployeeAppraisalSession", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_employee_appraisal_session.html", null ]
@@ -158,7 +177,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Workforce.Appraisals.AppraisalSessionEntries.AppraisalSessionEntry", "d5/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_session_ent33465b09825e97b4f36acad0aeca0f23.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.Archive", "d5/d03/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_archive.html", null ],
     [ "AssemblyLoadContext", null, [
-      [ "FenixAlliance.ABP.Hub.Plugins.PluginLoadContext", "d3/dcc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_load_context.html", null ]
+      [ "FenixAlliance.ABP.Hub.Plugins.ModuleLoadContext", "d2/d39/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_module_load_context.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Assets.Asset", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Assets.Asset", "dd/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_assets_1_1_asset.html", null ],
@@ -182,6 +201,7 @@ var hierarchy =
       [ "FenixAlliance.ABP.Proxy.ProxyRouteAttribute", "d2/d51/class_fenix_alliance_1_1_a_b_p_1_1_proxy_1_1_proxy_route_attribute.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.AuctionTermsType", "d4/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_auction_terms_type.html", null ],
+    [ "AuthorizeViewModel", "da/d06/class_authorize_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardedNotificationType", "d1/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarded_notification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardingCriterionResponseType", "dc/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarding_criterion_response_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.AwardingCriterionType", "d8/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_awarding_criterion_type.html", null ],
@@ -189,10 +209,71 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AADB2C.B2CDecodedToken", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_b2_c_1_1_b2_c_decoded_token.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Background", "d5/d92/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_background.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.BG.BackgroundOptions", "de/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_b_g_1_1_background_options.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Banking.Bank", "d4/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Banking.Bank", "db/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_banking_1_1_bank.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Banking.BankAccount", "de/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_account.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Banking.BankGuarantee", "de/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_banking_1_1_bank_guarantee.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Banking.BankMapper", "d8/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_banking_1_1_bank_mapper.html", null ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< AccountDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.AccountDialog", "df/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_account_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< AuthenticationDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.AuthenticationDialog", "d7/da0/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_authentication_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< BillingDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.Billing.BillingDialog", "d7/d1e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_billing_1_1_billing_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< BusinessesDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BusinessesDialog", "d2/d79/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_businesses_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< CartsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.CartsDialog", "d4/d66/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_carts_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< DealUnitsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.DealUnitsDialog", "da/d37/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_deal_units_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< InvoicesDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.InvoicesDialog", "d1/d0f/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_invoices_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< LogInDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.LogInDialog", "dd/d21/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_in_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< LogOutDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.LogOutDialog", "df/ded/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_log_out_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< MainDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< MyBusinessesDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.MyBusinessesDialog", "d9/d19/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_my_businesses_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< OrdersDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.OrdersDialog", "d3/d82/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_orders_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< PaymentsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.PaymentsDialog", "d2/d34/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_payments_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< ProductsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.ProductsDialog", "d4/d4a/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_products_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< QuotesDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.QuotesDialog", "d5/d90/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_quotes_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< SalesDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.SalesDialog", "dc/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_sales_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< SelectBusinessDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.SelectBusinessDialog", "dc/dff/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_select_business_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< StoreDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.StoreDialog", "d1/d31/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_store_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< SupportDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.Support.SupportDialog", "d1/d4e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_support_1_1_support_dialog.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< SupportTicketsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", null ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< WalletsDialog >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.WalletsDialog", "d4/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_wallets_dialog.html", null ]
+    ] ],
     [ "FenixAlliance.ABP.FileSystem.Drivers.BaseDriver", "d0/d45/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_base_driver.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver", "d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html", null ]
     ] ],
@@ -205,6 +286,16 @@ var hierarchy =
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.BaseOpenResponseModel", "d1/df8/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_base_open_response_model.html", [
       [ "FenixAlliance.ABP.FileSystem.Models.Commands.InitResponseModel", "d5/db4/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_init_response_model.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Models.Commands.OpenResponse", "df/df9/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_open_response.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Coupons.BillingCoupon", "d9/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.BillingItemRecord", "d4/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_item_record.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.BillingCouponItemRecord", "dd/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_coupon_item_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Coupons.BillingCouponCartRecord", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_cart_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Coupons.BillingCouponOrderRecord", "d9/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_coupons_1_1_billing_coupon_order_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceItemRecord", "da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecords.OrderItemRecord", "d8/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_item_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitItemRecord", "db/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_item_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Selling.Quotes.QuoteRecords.QuoteItemRecord", "da/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records_1_1_quote_item_record.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.BillingReferenceLineType", "d8/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_billing_reference_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.BillingReferenceType", "d6/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_billing_reference_type.html", null ],
@@ -220,6 +311,8 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Content.BindBlogPosts", "db/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_content_1_1_bind_blog_posts.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Content.BindWebPages", "dc/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_content_1_1_bind_web_pages.html", null ],
+    [ "FenixAlliance.ABM.Models.Blockchains.Blockchain", "d0/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blockchain.html", null ],
+    [ "FenixAlliance.ABM.Models.Blockchains.Blocks.BlockchainBlock", "d6/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_blocks_1_1_blockchain_block.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Blocks.BlockRecord", "d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_blocks_1_1_block_record.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Blog.BlogOptions", "d5/dc1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_blog_1_1_blog_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Content.BlogPosts.BlogPost", "da/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_blog_posts_1_1_blog_post.html", null ],
@@ -240,7 +333,7 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.BrandingOptions", "d6/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_branding_options.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBrands.BrandRecord", "d5/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands_1_1_brand_record.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.BreadcrumbElement", "d3/da9/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_breadcrumb_element.html", null ],
-    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Breadcrumbs.BreadcrumbOptions", "d5/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumb_options.html", null ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Breadcrumbs.BreadcrumbsOptions", "df/dfa/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_breadcrumbs_1_1_breadcrumbs_options.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Budgets.Budget", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Budgets.BudgetScopes.ContactBudget", "df/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_contact_budget.html", null ],
       [ "FenixAlliance.ABM.Models.Accounting.Budgets.BudgetScopes.CostCentreBudget", "d6/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_budgets_1_1_budget_scopes_1_1_cost_centre_budget.html", null ],
@@ -250,6 +343,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.BudgetAccountLineType", "de/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_budget_account_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.BudgetAccountType", "d7/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_budget_account_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Budgets.BudgetMapper", "d2/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_budgets_1_1_budget_mapper.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.BulkProduct", "df/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_bulk_product.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.Business", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplication", "d9/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application.html", [
       [ "FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplicationScopes.BusinessPortalApplication", "d5/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busind690a70db032f6846585512973f18aac.html", null ]
@@ -259,6 +353,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplicationRequestedPermission", "da/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_busin62d18dfe25ed83eeebc0309743b0c18b.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Integrations.Applications.BusinessApplicationSecret", "d1/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_secret.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.BusinessClosures.BusinessClosure", "d0/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_business_closures_1_1_business_closure.html", null ],
+    [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.Departments.BusinessDepartment", "dc/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_business_department.html", null ],
     [ "FenixAlliance.ABM.Models.Security.BusinessDomains.BusinessDomain", "d6/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_domains_1_1_business_domain.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessSegmentation.BusinessIndustry", "d2/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessSegmentation.BusinessIndustryRecord", "d5/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_industry_record.html", null ],
@@ -268,7 +363,7 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Security.BusinessPermissions.BusinessPermissionGrants.BusinessPermissionGrantScopes.BusinessProfileDirectPermissionGrant", "db/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perf38e0cbb899d5dc1fad8f9bcb18392bc.html", null ],
       [ "FenixAlliance.ABM.Models.Security.BusinessPermissions.BusinessPermissionGrants.BusinessPermissionGrantScopes.BusinessRolePermissionGrant", "d8/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_permissions_1_1_business_perd11222c44a333c7737372faaf3bbb0f5.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Businesses.BusinessStructure.BusinessPositions.BusinessPosition", "dc/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_positions_1_1_business_position.html", null ],
+    [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.BusinessPositions.BusinessPosition", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_positions_1_1_business_position.html", null ],
     [ "FenixAlliance.ABM.Models.Processes.BusinessProcess", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_processes_1_1_business_process.html", [
       [ "FenixAlliance.ABM.Models.Selling.DealUnitFlows.DealUnitFlow", "d3/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_unit_flows_1_1_deal_unit_flow.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Appraisals.AppraisalWorkflows.AppraisalWorkflow", "d7/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_appraisals_1_1_appraisal_workflows_1_1_appraisal_workflow.html", null ]
@@ -282,10 +377,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Tenants.BusinessProfileRecords.BusinessProfileRecord", "dc/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_profile_records_1_1_business_profile_record.html", null ],
     [ "FenixAlliance.ABM.Models.Businesses.BusinessRelationships.BusinessRelationship", "d2/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_relationships_1_1_business_relationship.html", null ],
     [ "FenixAlliance.ABM.Models.Security.BusinessSecurityLogs.BusinessSecurityLog", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_logs_1_1_business_security_log.html", [
-      [ "FenixAlliance.ABM.Models.Signator.Records.SignatorRecord", "d5/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signator_record.html", null ]
+      [ "FenixAlliance.ABM.Models.Signator.Records.SigningLog", "d4/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_records_1_1_signing_log.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRole", "d7/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessSegmentation.BusinessSegment", "dc/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_segmentation_1_1_business_segment.html", null ],
+    [ "FenixAlliance.ABM.Models.Businesses.BusinessSegments.BusinessSize", "db/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments_1_1_business_size.html", null ],
     [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.BusinessTeams.BusinessTeam", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html", null ],
     [ "FenixAlliance.ABM.Models.Businesses.BusinessStructure.BusinessTeams.BusinessTeamRecords.BusinessTeamRecord", "da/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea6bbc1e926533c1cede871cded36ba75d.html", [
       [ "FenixAlliance.ABM.Models.Businesses.BusinessStructure.BusinessTeams.BusinessTeamRecords.Scopes.BusinessTeamProjectEnrollment", "dd/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_tea513013b35954bb82973a6a3a0d70d9f1.html", null ],
@@ -305,6 +401,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.CanonicalizationMethodType1", "df/dce/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_canonicalization_method_type1.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CapabilityType", "d8/d57/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_capability_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CardAccountType", "d8/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_card_account_type.html", null ],
+    [ "FenixAlliance.ABP.BotEngine.Core.Cards.CardFactory", "db/dcb/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_cards_1_1_card_factory.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.Cart", "db/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Carts.Cart", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart.html", [
       [ "FenixAlliance.ABM.Models.Global.Carts.CartScopes.AccountHolderCart", "d4/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_scopes_1_1_account_holder_cart.html", null ],
@@ -569,22 +666,27 @@ var hierarchy =
         [ "FenixAlliance.ABM.Models.UBL.WorkPhaseCodeType", "d9/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_work_phase_code_type.html", null ]
       ] ]
     ] ],
+    [ "FenixAlliance.ABM.Models.Cognitive.CognitiveAgents.CognitiveAgent", "d6/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent.html", null ],
+    [ "FenixAlliance.ABM.Models.Cognitive.CognitiveAgents.CognitiveAgentConversation", "d0/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cognitive_1_1_cognitive_agents_1_1_cognitive_agent_conversation.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Colors.ColorOptions", "d1/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Colors.ColorScheme", "d8/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_colors_1_1_color_scheme.html", null ],
     [ "FenixAlliance.ABM.Models.Internals.Columns.Column", "da/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_columns_1_1_column.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.CommandBarElement", "d1/dfe/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element.html", null ],
-    [ "FenixAlliance.ABM.Models.Workforce.Salaries.Commissions.Commission", "d4/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_commissions_1_1_commission.html", null ],
+    [ "FenixAlliance.ABS.Core.Contexts.CommandBarElementMenu", "dc/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_command_bar_element_menu.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Commissions.Commission", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Commissions.CommissionScopes.PaymentCommission", "d3/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission_scopes_1_1_payment_commission.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.UBL.CommitmentTypeIndicationType", "d9/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_commitment_type_indication_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CommodityClassificationType", "d1/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_commodity_classification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CommunicationType", "da/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_communication_type.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.CompilationDiagnostic", "d1/d6a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compilation_diagnostic.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.CompileToAssemblyResult", "d5/de0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_assembly_result.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.CompileToCSharpResult", "d8/dc7/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_compile_to_c_sharp_result.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.CompilationDiagnostic", "df/d90/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_compilation_diagnostic.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.CompileToAssemblyResult", "d6/d8a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_mo3b2f27521dc362f78d5f3bebb166a5cd.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.CompileToCSharpResult", "d8/dd7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_moeba91c3a706b01342e76baa12feec938.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CompleteCertificateRefsType", "d8/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_complete_certificate_refs_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CompletedTaskType", "d9/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_completed_task_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CompleteRevocationRefsType", "d8/df2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_complete_revocation_refs_type.html", null ],
     [ "ComponentDialog", null, [
-      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.MainDialog", "dc/de8/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_main_dialog.html", null ]
+      [ "FenixAlliance.ABP.BotEngine.Core.Dialogs.BaseDialog< T >", "df/d3e/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_dialogs_1_1_base_dialog.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.ConditionType1", "d0/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_condition_type1.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Connector", "d6/d44/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_connector.html", null ],
@@ -602,13 +704,13 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Contacts.Groups.ContactGroupRecord", "dc/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_groups_1_1_contact_group_record.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Helpdesk.ContactInquiry", "dc/d21/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_helpdesk_1_1_contact_inquiry.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Contact.ContactOptions", "dc/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_contact_1_1_contact_options.html", null ],
+    [ "FenixAlliance.ABS.Portal.UI.Models.ContactPoint", "d1/d75/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_contact_point.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.ContactPoint", "d5/d6f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_contact_point.html", null ],
     [ "FenixAlliance.ABM.Models.Contacts.Profiles.ContactProfile", "dd/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_contact_profile.html", [
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.BankProfile", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_bank_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.BillingProfile", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html", null ],
-      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.BuyerPersonaProfile", "d4/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_buyer_persona_profile.html", null ],
+      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.CustomerPersonaProfile", "d1/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_customer_persona_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.DoctorProfile", "d4/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_doctor_profile.html", null ],
-      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.DonorProfile", "dd/d98/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_donor_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.EmployeeProfile", "de/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employee_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.EmployerProfile", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_employer_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.FieldAgentProfile", "d0/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_field_agent_profile.html", null ],
@@ -616,13 +718,15 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.JobApplicantProfile", "df/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_job_applicant_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.LeadProfile", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_lead_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.LicensingProfile", "d8/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_licensing_profile.html", null ],
+      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.NonProfitDonorProfile", "d4/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_donor_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.NonProfitMemberProfile", "d9/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_member_profile.html", null ],
+      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.NonProfitVolunteerProfile", "d8/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_non_profit_volunteer_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.OrganizationProfile", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_organization_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.PatientProfile", "d0/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_patient_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.ShareHolderProfile", "df/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_share_holder_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.StudentProfile", "d1/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_student_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.SupplierProfile", "dd/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_supplier_profile.html", null ],
-      [ "FenixAlliance.ABM.Models.Contacts.Profiles.Types.VolunteerProfile", "d0/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_volunteer_profile.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Academic.Institutions.AcademicInstitutionProfile", "d8/dd8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_academic_1_1_institutions_1_1_academic_institution_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Partners.PartnerProfiles.PartnerProfile", "de/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_profiles_1_1_partner_profile.html", null ],
       [ "FenixAlliance.ABM.Models.Signator.Profiles.SigningProfile", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_profiles_1_1_signing_profile.html", null ]
     ] ],
@@ -638,24 +742,24 @@ var hierarchy =
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Integrations.ContextualMenu", "d3/dbd/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_integrations_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Market.ContextualMenu", "df/d18/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_market_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Modules.ContextualMenu", "da/de1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_modules_1_1_contextual_menu.html", null ],
+    [ "FenixAlliance.ABS.Studio.Core.Navigation.Social.ContextualMenu", "d3/db1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Support.ContextualMenu", "d1/d90/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.ContextualMenu", "da/d38/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_menu.html", null ],
-    [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.Modules.Commerce.ContextualMenu", "da/dab/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.ContextualModule", "d3/dcd/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_contextual_module.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Holder.ContextualModule", "d1/dc4/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder_1_1_contextual_module.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Market.ContextualModule", "dd/de7/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_market_1_1_contextual_module.html", null ],
+    [ "FenixAlliance.ABS.Studio.Core.Navigation.Social.ContextualModule", "d0/d62/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_module.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Support.ContextualModule", "d3/d51/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_module.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.ContextualModule", "de/dd1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_module.html", null ],
-    [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.Modules.Commerce.ContextualModule", "df/db9/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_module.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Modules.ContextualModulesMenu", "d8/d53/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_modules_1_1_contextual_modules_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.ContextualTopMenu", "d2/d95/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Holder.ContextualTopMenu", "d2/dee/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_holder_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Integrations.ContextualTopMenu", "df/d8e/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_integrations_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Market.ContextualTopMenu", "de/d29/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_market_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Modules.ContextualTopMenu", "d8/d37/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_modules_1_1_contextual_top_menu.html", null ],
+    [ "FenixAlliance.ABS.Studio.Core.Navigation.Social.ContextualTopMenu", "d5/def/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_social_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Support.ContextualTopMenu", "db/dc1/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_support_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.ContextualTopMenu", "da/d4c/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_contextual_top_menu.html", null ],
-    [ "FenixAlliance.ABS.Studio.Core.Navigation.Tenants.Modules.Commerce.ContextualTopMenu", "dd/df8/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_navigation_1_1_tenants_1_1_modules_1_1_commerce_1_1_contextual_top_menu.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractAwardNoticeType", "df/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_award_notice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractExecutionRequirementType", "d1/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_execution_requirement_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractExtensionType", "d0/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_extension_type.html", null ],
@@ -665,75 +769,49 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ContractNoticeType", "df/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_notice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractType", "d8/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_type.html", null ],
     [ "Controller", null, [
+      [ "AuthorizationController", "d6/d52/class_authorization_controller.html", null ],
+      [ "FenixAlliance.ABP.FileSystem.Controllers.AzureBlobsController", "de/dbb/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_azure_blobs_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.HolderFilesController", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller.html", null ],
+      [ "FenixAlliance.ABP.FileSystem.Controllers.PortalFilesController", "d9/d5b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_portal_files_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.PublicFilesController", "d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.StreamingController", "d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.TenantFilesController", "d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller.html", null ],
+      [ "FenixAlliance.ABP.FileSystem.Controllers.UploadController", "d3/d76/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_upload_controller.html", null ],
       [ "FenixAlliance.ABP.Hub.Controllers.FeaturesController", "d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.AppsController", "dc/d7f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_apps_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.BlogController", "d1/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_blog_controller.html", null ],
+      [ "FenixAlliance.ABS.Portal.Core.Controllers.CultureController", "dd/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_culture_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.CurrenciesController", "d7/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_currencies_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.ErrorController", "d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.ForumsController", "d7/dc3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_forums_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.HomeController", "db/daa/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_home_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Core.Controllers.LanguageController", "d6/d7e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_language_controller.html", null ],
       [ "FenixAlliance.ABS.Portal.Editor.ContentController", "d8/dbf/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_content_controller.html", null ],
+      [ "FenixAlliance.ABS.Portal.Editor.Controllers.BuilderController", "d9/dc8/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers_1_1_builder_controller.html", null ],
+      [ "FenixAlliance.ABS.Studio.Core.Controllers.StudioController", "d7/dd5/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers_1_1_studio_controller.html", null ],
       [ "FenixAlliance.APS.Core.Areas.Account.Controllers.AccountController", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.AddressesController", "d1/d5d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_addresses_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.BusinessesController", "d7/d6f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_businesses_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.CartController", "da/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_cart_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.EnrollmentsController", "df/dcc/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_enrollments_controller.html", null ],
       [ "FenixAlliance.APS.Core.Areas.Account.Controllers.ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.NotificationsController", "d8/d47/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_notifications_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.SettingsController", "d9/dd8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_settings_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.SocialProfileController", "d6/d96/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_social_profile_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.WishListsController", "d4/d4e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_wish_lists_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.BusinessController", "de/db1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_business_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.CartController", "d4/d5f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_cart_controller.html", null ],
       [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.HomeController", "db/d28/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_home_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.LocationsController", "d5/d0c/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_locations_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.NotificationsController", "d6/dd2/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_notifications_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.PersonnelController", "d8/dac/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_personnel_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.ReviewsController", "de/d82/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_reviews_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.SettingsController", "dd/d53/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_settings_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.TeamsController", "df/d48/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_teams_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.WishListsController", "d5/d23/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_wish_lists_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.AboutController", "d2/dc2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_about_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Attributes.AttributeOptionsController", "d9/d36/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attribute_options_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Attributes.AttributesController", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_attributes_1_1_attributes_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Brands.BrandsController", "d4/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_brands_1_1_brands_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Categories.CategoriesController", "d9/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_categories_1_1_categories_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Checkout.CheckoutController", "d6/d12/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_checkout_1_1_checkout_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Compare.CompareController", "dc/d69/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_compare_1_1_compare_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Deals.DealsController", "d7/d63/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_deals_1_1_deals_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.HomeController", "d5/dc9/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_home_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Invoices.InvoicesController", "d1/d84/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_invoices_1_1_invoices_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Items.ProductsController", "db/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_items_1_1_products_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Methods.MethodsController", "db/dd2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_methods_1_1_methods_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Orders.OrdersController", "da/da2/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_orders_1_1_orders_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Payments.PaymentsController", "dd/d30/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_payments_1_1_payments_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.StoreCarts.CartsController", "df/de6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_store_carts_1_1_carts_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Tags.TagsController", "d5/dcb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_tags_1_1_tags_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Types.TypesController", "d1/d4d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_types_1_1_types_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.Controllers.Wallets.WalletController", "da/d68/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_controllers_1_1_wallets_1_1_wallet_controller.html", null ]
+      [ "ResourceController", "d7/ddf/class_resource_controller.html", null ],
+      [ "UserinfoController", "dc/db6/class_userinfo_controller.html", null ]
     ] ],
     [ "ControllerBase", null, [
       [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQlController", "d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html", null ],
       [ "FenixAlliance.ABP.API.REST.Core.Controllers.Global.Countries.CountriesController", "da/d7e/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_countries_1_1_countries_controller.html", null ],
       [ "FenixAlliance.ABP.API.REST.Core.Controllers.Global.Currencies.CurrenciesController", "d2/d8c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_r_e_s_t_1_1_core_1_1_controllers_1_1_global_1_1_cur669951735d9d1b18db872f8a217f70b9.html", null ],
       [ "FenixAlliance.ABP.BotEngine.Core.Controllers.BotController", "d7/d8b/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_bot_controller.html", null ],
+      [ "FenixAlliance.ABP.BotEngine.Core.Controllers.ConversationsController", "d1/dae/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_controllers_1_1_conversations_controller.html", null ],
       [ "FenixAlliance.APS.Core.Controllers.Auth.ApplicationsController", "d1/d36/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_applications_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Controllers.Auth.OAuth2Controller", "df/d93/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth2_controller.html", null ],
+      [ "FenixAlliance.APS.Core.Controllers.Auth.CheckerController", "d6/d09/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_checker_controller.html", null ],
+      [ "FenixAlliance.APS.Core.Controllers.Auth.OAuthController", "d9/d6e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_controller.html", null ],
       [ "FenixAlliance.APS.Core.Controllers.Holders.HolderController", "db/d2f/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_holders_1_1_holder_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Controllers.Tenants.TenantsController", "d5/de3/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_tenants_1_1_tenants_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.API.CartRecordsController", "d6/d50/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_cart_records_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.API.CartsController", "d3/dfc/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_carts_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.API.CompareRecordsController", "d3/d80/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_compare_records_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.API.ProductsController", "d2/dd7/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_products_controller.html", null ],
-      [ "FenixAlliance.ICX.Core.API.WishListsController", "d7/d54/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_a_p_i_1_1_wish_lists_controller.html", null ]
+      [ "FenixAlliance.APS.Core.Controllers.Tenants.TenantsController", "d5/de3/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_tenants_1_1_tenants_controller.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Models.Social.Conversations.Conversation", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_conversation.html", [
+      [ "FenixAlliance.ABM.Models.Social.Conversations.Scopes.SupportTicketConversation", "d5/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_conversations_1_1_scopes_1_1_support_ticket_conversation.html", null ]
+    ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.State.ConversationData", "d0/d07/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_conversation_data.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CorporateRegistrationSchemeType", "d7/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_corporate_registration_scheme_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.CostCentres.CostCentre", "da/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_cost_centres_1_1_cost_centre.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.CostCentres.CostCentre", "d4/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_cost_centres_1_1_cost_centre.html", null ],
@@ -758,7 +836,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.CountryType", "d2/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_country_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Coupons.CouponsOptions", "d4/d27/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_coupons_1_1_coupons_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping.Courier", "d0/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping_1_1_courier.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingCouriers.CourrierItemShippingPolicyRecord", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Education.Course", "d0/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Assignments.CourseAssignment", "df/d2b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment.html", [
       [ "FenixAlliance.ABM.Models.Education.Courses.Assignments.CourseDirectAssignment", "da/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_direct_assignment.html", null ]
@@ -766,7 +843,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Education.Courses.Assignments.CourseAssignmentSubmit", "d4/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_submit.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Assignments.CourseAssignmentType", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_type.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Cohorts.CourseCohort", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_cohorts_1_1_course_cohort.html", null ],
-    [ "FenixAlliance.ABM.Models.Education.Courses.Collections.CourseCollection", "d4/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Collections.CourseCollectionRecord", "d7/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection_record.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Certificates.CourseCompletionCertificate", "d0/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_certificates_1_1_course_completion_certificate.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Groups.CourseContentGroup", "d7/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_groups_1_1_course_content_group.html", null ],
@@ -778,16 +854,14 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Education.Courses.Libraries.CourseLibrary", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_libraries_1_1_course_library.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Education.CourseMapper", "de/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_education_1_1_course_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.ProblemSets.CourseProblemSet", "d2/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_problem_sets_1_1_course_problem_set.html", null ],
-    [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.CourseReview", "dd/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_course_review.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Sections.CourseSection", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Education.CourseSteps.CourseStep", "da/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_education_1_1_course_steps_1_1_course_step.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Team.CourseTeamMembership", "d8/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_team_1_1_course_team_membership.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Units.CourseUnit", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_units_1_1_course_unit.html", null ],
     [ "FenixAlliance.ABM.Models.Education.Courses.Articles.CourseWiki", "d6/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_articles_1_1_course_wiki.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.CreateSnippetRequest", "d1/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_create_snippet_request.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.CreateSnippetRequest", "d8/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_create_snippet_request.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.Creator", "d3/d4b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_creator.html", null ],
-    [ "FenixAlliance.ABM.Models.DTOs.Auth.Credentials", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_credentials.html", [
-      [ "FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Models.DTOs.Auth.Credentials", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_credentials.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.CreditAccountType", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_credit_account_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Loans.CreditLimits.CreditLimit", "df/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_loans_1_1_credit_limits_1_1_credit_limit.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.CreditLimits.CreditLimit", "d7/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_credit_limits_1_1_credit_limit.html", null ],
@@ -805,15 +879,21 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Social.Curriculums.Curriculum", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Social.CurriculumMapper", "db/dc9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_social_1_1_curriculum_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.CurriculumRecord", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record.html", [
-      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CourseCertificate", "d6/d63/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_course_certificate.html", null ],
-      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.IndividualSkillRecord", "d4/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_850d697104aa563fb0dfd49bf7976715.html", null ],
-      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.InstitutionDiploma", "de/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_institution_diploma.html", null ],
-      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.ProfessionalDegree", "d7/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_professional_degree.html", null ]
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.Bookmarks.GigBookmark", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumAward", "d3/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_award.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumCourse", "d2/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_course.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumCover", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumDegree", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumDiploma", "d4/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_diploma.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumEducation", "d1/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_education.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumExperience", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumLanguage", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_language.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumProject", "d4/d5a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_project.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumRecommendation", "da/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_0c0dc69eb193bcf5cace7e521f40babe.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.CurriculumSkill", "d3/de9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_skill.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.Scopes.JobOfferBookmark", "df/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.Curriculums.Skillset.CurriculumSkill", "d1/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_curriculums_1f27dc2f065bf20d6e20be16f1803629d.html", null ],
-    [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumSkills.CurriculumSkill", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_curriculum_skill.html", [
-      [ "FenixAlliance.ABM.Models.Projects.Skills.ProjectResourceSkill", "d4/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_skills_1_1_project_resource_skill.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.CustomerPartyType", "d6/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_customer_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.CustomerProfile", "d0/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_customer_profile.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Typography.CustomFont", "d7/d23/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_typography_1_1_custom_font.html", null ],
@@ -884,7 +964,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Seeding.DBSeeding", "d7/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_d_b_seeding.html", null ],
     [ "FenixAlliance.ABM.Models.Selling.DealUnits.DealUnit", "d2/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_deal_units_1_1_deal_unit.html", null ],
     [ "FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitRecord", "d2/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_record.html", [
-      [ "FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitItemRecord", "db/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_deal_unit_item_record.html", null ],
       [ "FenixAlliance.ABM.Models.Sales.DealUnits.Records.Scopes.DealUnitPartnerRecord", "db/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_deal_units_1_1_records_1_1_scopes_1_1_deal_unit_partner_record.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.DebitNoteLineType", "d4/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_debit_note_line_type.html", null ],
@@ -925,13 +1004,15 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.DSAKeyValueType", "db/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_d_s_a_key_value_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.DutyType1", "d1/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_duty_type1.html", null ],
     [ "DynamicObject", null, [
-      [ "FenixAlliance.ABS.Core.Templating.AnonymousTypeWrapper", "de/dec/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_anonymous_type_wrapper.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Wrappers.AnonymousTypeWrapper", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wraf9ceb9d29b4328033a927a2e37e1572e.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.EconomicOperatorRoleType", "d2/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_role_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EconomicOperatorShortListType", "db/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_economic_operator_short_list_type.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroup", "de/d90/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.EmailGroups.EmailGroupMembership", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_groups_1_1_email_group_membership.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Emails.EmailOptions", "d1/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_emails_1_1_email_options.html", null ],
+    [ "FenixAlliance.ABM.Models.Marketing.EmailRecords.EmailRecord", "da/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_records_1_1_email_record.html", null ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Emails.EmailsOptions", "da/dd5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_emails_1_1_emails_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.EmissionCalculationMethodType", "d2/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_emission_calculation_method_type.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeBenefits.EmployeeBenefit", "d3/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeDegrees.EmployeeDegree", "dc/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_degrees_1_1_employee_degree.html", null ],
@@ -950,7 +1031,9 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Contacts.Entitlements.Entitlement", "d2/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement.html", [
       [ "FenixAlliance.ABM.Models.Contacts.Entitlements.EntitlementTypes.PriceListEntitlement", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_entitlements_1_1_entitlement_types_1_1_price_list_entitlement.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.SupportEntitlements.SupportEntitlement", "dd/dc8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_entitlements_1_1_support_entitlement.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceLevelAgreements.Entitlements.ServiceLevelAgreementEntitlement", "d1/df0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_entitlemf80a586809a5af3c4ec6dc4e9a2fad01.html", null ],
+      [ "FenixAlliance.ABM.Models.Licensing.License", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_license.html", null ],
+      [ "FenixAlliance.ABM.Models.Services.ServiceLevelAgreements.ServiceLevelAgreement", "d9/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_service_level_agreement.html", null ],
+      [ "FenixAlliance.ABM.Models.Subscriptions.Subscription", "d9/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Employees.EmployeeBenefits.EmployeeBenefitEntitlement", "d5/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_employees_1_1_employee_benefits_1_1_employee_benefit_entitlement.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Internals.Entities.Entity", "d1/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_entities_1_1_entity.html", null ],
@@ -985,8 +1068,9 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ExternalReferenceType", "d5/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_external_reference_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Favicons.Favicons", "d6/ddc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_favicons.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Others.FeaturedImageRollover.FeaturedImageRolloverOptions", "dd/d87/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_others_1_1_feeb767d84d08f8cb7ec548e9b534e069.html", null ],
-    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Features.FeatureOptions", "d5/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_feature_options.html", null ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Features.FeaturesOptions", "d9/d80/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_features_1_1_features_options.html", null ],
     [ "FenixAlliance.ABP.Hub.Features.FeaturesViewModel", "d0/d52/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_features_1_1_features_view_model.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Fees.Fee", "d2/d87/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.FieldAgentProfile", "db/dc1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_field_agent_profile.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Files.Files", "dc/d96/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_files.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Attachments.FileUpload", "d9/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_attachments_1_1_file_upload.html", null ],
@@ -997,15 +1081,15 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Contacts.ContactFiles.ContactFile", "d8/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_contact_files_1_1_contact_file.html", null ],
       [ "FenixAlliance.ABM.Models.Education.Courses.Assignments.CourseAssignmentUpload", "d5/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload.html", null ],
       [ "FenixAlliance.ABM.Models.Education.Courses.Files.CourseFile", "d6/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_files_1_1_course_file.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.TaskFile", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_file.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.InquiryRequestAttachment", "dc/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.SupportRequests.Attachments.SupportRequestAttachment", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemUploads.ItemAttachment", "db/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_uploads_1_1_item_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemUploads.ItemImage", "d5/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_uploads_1_1_item_image.html", null ],
-      [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadFile", "df/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_file.html", null ],
       [ "FenixAlliance.ABM.Models.Marketing.SocialPosts.SocialMediaPostFile", "d8/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post_file.html", null ],
       [ "FenixAlliance.ABM.Models.Sales.Attachment.SalesLiteratureAttachment", "d5/d85/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_attachment_1_1_sales_literature_attachment.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceAttachments.ServiceAttachment", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_attachments_1_1_service_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Comments.SocialCommentMedia", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment_media.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumRecords.CurriculumRecordAttachment", "d7/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Social.PrivateMessages.PrivateMessageAttachment", "db/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Social.SocialPosts.SociaPostAttachment", "dc/d38/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_socia_post_attachment.html", null ],
       [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.BusinessTeams.BusinessTeamResources.BusinessTeamFile", "d1/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_f5f5528aaf291ca07bddce6dd228f391.html", null ]
@@ -1021,8 +1105,8 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Identifications.FiscalIdentificationType", "d1/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_identifications_1_1_fiscal_identification_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.FiscalYears.Periods.FiscalPeriod", "de/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_periods_1_1_fiscal_period.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Regimes.FiscalRegime", "df/d4f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_regimes_1_1_fiscal_regime.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Responsabilities.FiscalResponsability", "d1/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Responsabilities.FiscalResponsabilityRecord", "d3/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsabilities_1_1_fiscal_responsability_record.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Responsibilities.FiscalResponsibility", "da/df3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Fiscal.Responsibilities.FiscalResponsibilityRecord", "df/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_1_1_responsibilities_1_1_fiscal_responsibility_record.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.FiscalYears.FiscalYear", "da/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_fiscal_year.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.FiscalYears.FiscalYear", "d3/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_fiscal_years_1_1_fiscal_year.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.FiscalYears.Distributions.FiscalYearDistribution", "d3/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_distributions_1_1_fiscal_year_distribution.html", [
@@ -1048,7 +1132,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies.ForexRates", "d8/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_currencies_1_1_forex_rates.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.AccountViewModels.ForgotPasswordViewModel", "da/d92/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_account_view_models_1_1_forgot_password_view_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Controllers.FormData", "d1/d95/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_form_data.html", null ],
-    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Forms.FormOptions", "d5/da8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_form_options.html", null ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Forms.FormsOptions", "da/dd3/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forms_1_1_forms_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Content.Forums.Forum", "d6/d69/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_content_1_1_forums_1_1_forum.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Forum.ForumOptions", "df/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_forum_1_1_forum_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ForwardingInstructionsType", "d8/d65/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_forwarding_instructions_type.html", null ],
@@ -1063,13 +1147,26 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Global.Options.GenericOption", "d1/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_generic_option.html", [
       [ "FenixAlliance.ABM.Models.Global.Options.Scopes.AccountHolderOption", "d4/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_account_holder_option.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Options.Scopes.BusinessApplicationOption", "de/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_application_option.html", null ],
-      [ "FenixAlliance.ABM.Models.Global.Options.Scopes.BusinessTenantOption", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option.html", null ]
+      [ "FenixAlliance.ABM.Models.Global.Options.Scopes.BusinessTenantOption", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_business_tenant_option.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Options.Scopes.ContactOption", "da/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_options_1_1_scopes_1_1_contact_option.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Global.Records.GenericRecord", "d8/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_records_1_1_generic_record.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Taxes.TaxRecords.ItemTaxPolicyRecord", "df/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_item_tax_policy_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.PricingRuleListRecord", "d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule_list_record.html", [
+        [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.ItemPricingRuleRecord", "d5/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_item_pricing_rule_record.html", null ]
+      ] ],
+      [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemRefunds.ItemRefundPolicyRecord", "dd/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_refunds_1_1_item_refund_policy_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemWarranties.ItemWarrantyPolicyRecord", "d3/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_item_warranty_policy_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemReturns.ItemReturnPolicyRecord", "dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_item_return_policy_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Selling.SellingMargins.ItemSellingMarginPolicyRecord", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy_record.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.GenericTimeStampType", "d6/d0d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_generic_time_stamp_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.OtherTimeStampType", "da/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_other_time_stamp_type.html", null ],
       [ "FenixAlliance.ABM.Models.UBL.XAdESTimeStampType", "d5/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x_ad_e_s_time_stamp_type.html", null ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.GetResponseModel", "d6/d0e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_get_response_model.html", null ],
+    [ "FenixAlliance.ABM.Models.Workforce.Gigs.Gig", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html", null ],
+    [ "FenixAlliance.ABM.Models.Workforce.Gigs.GigApplication", "d2/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig_application.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemContainerType", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_container_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemItineraryType", "d5/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_itinerary_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.GoodsItemType", "d3/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_goods_item_type.html", null ],
@@ -1078,9 +1175,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Grants.Grant", "d5/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_grants_1_1_grant.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Grants.GrantApplication", "d5/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_grants_1_1_grant_application.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Grants.GrantMapper", "de/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_grants_1_1_grant_mapper.html", null ],
+    [ "GraphQLHttpMiddleware", null, [
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Middleware.GraphQLHttpMiddlewareWithLogs< TSchema >", "da/d0e/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_q_l_http_middleware_with_logs.html", null ]
+    ] ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.Middleware.GraphQlMiddleware", "da/d12/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_middleware_1_1_graph_ql_middleware.html", null ],
-    [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQLRequest", "d9/d82/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_q_l_request.html", null ],
-    [ "FenixAlliance.ABP.API.GraphQl.Core.GraphQLRequest", "db/d26/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_graph_q_l_request.html", null ],
+    [ "FenixAlliance.ABP.API.GraphQl.Core.Models.GraphQLRequest", "d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request.html", null ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.Settings.GraphQlSettings", "d1/d70/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_settings_1_1_graph_ql_settings.html", null ],
     [ "Greeter.GreeterBase", null, [
       [ "FenixAlliance.ABP.API.gRPC.Services.GreeterService", "da/df6/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1g_r_p_c_1_1_services_1_1_greeter_service.html", null ]
@@ -1092,71 +1191,199 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.HazardousItemType", "d1/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_hazardous_item_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Header.HeaderOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_header_1_1_header_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Holders.Holder", "da/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_holders_1_1_holder.html", null ],
-    [ "FenixAlliance.ABM.Models.Mappers.Holders.HolderBinder", "d8/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_holders_1_1_holder_binder.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.Holidays.Holiday", "d9/dd1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holidays_1_1_holiday.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.HolidaySchedule", "d0/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_holiday_schedule.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.HolidaySchedules.HolidayScheduleRegistrations.HolidayScheduleRecord", "d5/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_holiday_schedules_1_1_hol6289c1e35ed5e824961cd62141fbc1fe.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Cloud.Hosting.Servers.HostingServerMapper", "de/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_hosting_1_1_servers_1_1_hosting_server_mapper.html", null ],
-    [ "Hub", null, [
+    [ "Microsoft.AspNetCore.SignalR.Hub", null, [
       [ "FenixAlliance.ABP.SignalR.ChatHUB", "d3/d47/class_fenix_alliance_1_1_a_b_p_1_1_signal_r_1_1_chat_h_u_b.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IAADB2CGraphHelpers", "d2/dd5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_a_a_d_b2_c_graph_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.AADB2CGraphHelpers", "d4/d16/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_a_a_d_b2_c_graph_helpers.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAADGraphService", "df/d1b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_a_a_d_graph_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.AADGraphService", "da/d32/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_a_a_d_graph_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADGraphService", "d1/d76/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_graph_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IAccountingService", "df/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_accounting_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.AccountingService", "d5/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_accounting_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Access.Helpers.IAccountOAuthHelpers", "d5/d94/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_account_o_auth_helpers.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IAccountUsersHelpers", "da/d5c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_account_users_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.AccountUsersHelpers", "d5/d8f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_account_users_helpers.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Helpers.HolderHelpers", "d5/d5e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_holder_helpers.html", null ]
     ] ],
+    [ "IActionResult", null, [
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.ExecutionResultActionResult", "dc/d71/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_execution_result_action_result.html", null ]
+    ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ACL.IAllianceCoreLibrariesOptions", "d1/d15/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_alliance_core_libraries_options.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ACL.AllianceCoreLibrariesOptions", "dc/d5c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_alliance_core_libraries_options.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAnalyticsService", "df/d62/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_analytics_service.html", null ],
-    [ "FenixAlliance.ABP.FileSystem.AntiVirus.IAntivirusScanner", "d0/d9a/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_i_antivirus_scanner.html", [
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IAntivirusService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_antivirus_service.html", [
       [ "FenixAlliance.ABP.FileSystem.AntiVirus.WindowsDefender.WindowsDefenderScanner", "d1/d1e/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_anti_virus_1_1_windows_defender_1_1_windows_defender_scanner.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Access.Helpers.IApiAuthorizationHelpers", "df/de7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.ApiAuthorizationHelpers", "d5/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_api_authorization_helpers.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IAssembliesService", "d1/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assemblies_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.AssembliesService", "d9/dbe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_assemblies_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IAssetsService", "dc/d49/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_assets_service.html", null ],
     [ "IAsyncDisposable", null, [
-      [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", [
-        [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.DbContextFactoryService< TContext >", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service.html", null ],
+      [ "FenixAlliance.ABM.Data.Interfaces.Services.IService", "d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html", [
+        [ "FenixAlliance.ABM.Data.Access.Services.BaseService", "d2/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_base_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.AcademyService", "de/d84/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_academy_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", [
+            [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", null ]
+          ] ],
+          [ "FenixAlliance.ABM.Data.Access.Services.BlockchainsService", "dc/d48/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_blockchains_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.CmsDataService", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cms_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.ContactService", "d7/de3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_contact_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.CrmDataService", "d1/d16/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_crm_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.DnsLookupService", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.EmailService", "d3/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_email_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.EthereumService", "db/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ethereum_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.ForexService", "df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.GlobalDataService", "da/df2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_global_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.InstallerService", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.IpLookupService", "d0/d06/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ip_lookup_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.LmsDataService", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_lms_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.LocalizationDataService", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_localization_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.MarketplaceDataService", "dd/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_marketplace_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.MenusService", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.SecurityDataService", "db/dd1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.SocialDataService", "d8/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_data_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.SubscriptionsService", "dd/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_subscriptions_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.ViewRenderingService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.WalletService", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service.html", null ],
+          [ "FenixAlliance.ABS.Core.Contexts.PortalContext", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html", [
+            [ "FenixAlliance.ABS.Core.Contexts.BuilderContext", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html", null ],
+            [ "FenixAlliance.ABS.Core.Contexts.StudioContext", "df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html", null ]
+          ] ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Contexts.IPortalContext", "d5/d27/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts_1_1_i_portal_context.html", [
+          [ "FenixAlliance.ABS.Core.Contexts.PortalContext", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IAcademyService", "de/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_academy_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.AcademyService", "de/d84/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_academy_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IAuthService", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", null ],
+          [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IBlockchainsService", "d8/dc6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_blockchains_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.BlockchainsService", "dc/d48/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_blockchains_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ICmsDataService", "d3/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.CmsDataService", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cms_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IContactService", "dc/dfa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_contact_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.ContactService", "d7/de3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_contact_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IDnsLookupService", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.DnsLookupService", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IEthereumService", "d5/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ethereum_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.EthereumService", "db/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ethereum_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IForexService", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.ForexService", "df/d42/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_forex_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IGlobalDataService", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_global_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.GlobalDataService", "da/df2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_global_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IHolderService", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IInstallerService", "d3/dd3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_installer_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.InstallerService", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ILmsDataService", "dd/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.LmsDataService", "df/d1a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_lms_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ILocalizationDataService", "dc/dba/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_localization_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.LocalizationDataService", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_localization_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IMarketplaceDataService", "d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.MarketplaceDataService", "dd/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_marketplace_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IMenusService", "df/d39/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_menus_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.MenusService", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ISecurityDataService", "d0/dbc/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.SecurityDataService", "db/dd1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ISocialDataService", "d0/da6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_social_data_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.SocialDataService", "d8/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_social_data_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.ISubscriptionsService", "de/daa/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscriptions_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.SubscriptionsService", "dd/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_subscriptions_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABM.Data.Interfaces.Services.IWalletService", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.WalletService", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service.html", null ]
+        ] ],
+        [ "FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService", "d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html", [
+          [ "FenixAlliance.ABM.Data.Access.Services.ViewRenderingService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_rendering_service.html", null ]
+        ] ]
       ] ],
-      [ "FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", null ]
+      [ "FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", [
+        [ "FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Templates.DynamicComponentBase", "df/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_temd55fcd6c377cdd2e8b34e00ff97b9040.html", null ]
+      ] ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IAuthService", "d3/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_auth_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.Auth.AADB2C.AADB2CAuthenticationService", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_a_a_d_b2_c_1_1_a_a_d_b2_c_authentication_service.html", null ],
-      [ "FenixAlliance.ABM.Data.Access.Services.Auth.AuthService", "dd/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_auth_1_1_auth_service.html", null ]
+    [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.FileSystem.IAwsS3FileSystem", "dc/ddd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_1_i_aws_s3_file_system.html", [
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.FileSystem.AwsS3FileSystem", "d8/d0c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_aws_s3_file_system.html", null ]
+    ] ],
+    [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.FileSystem.IAzureBlobStorageFileSystem", "dd/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_file_system_1_0a3cee689b9556f413b150e2fd1fc9d5.html", [
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.FileSystem.AzureBlobStorageFileSystem", "d9/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_file_system_1_1_azure_blob_storage_file_system.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IBimService", "d1/de5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bim_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IBitcoinService", "da/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bitcoin_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.BitcoinService", "dd/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_bitcoin_service.html", null ]
+    ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABS.SPAs.IBlazorFallbackPage", "d2/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_s_p_as_1_1_i_blazor_fallback_page.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABS.SPAs.BlazorFallbackPage", "db/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_s_p_as_1_1_blazor_fallback_page.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Storage.IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.BlobStorageDataAccessClient", "d1/d82/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_blob_storage_data_access_client.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Storage.IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IBotService", "de/df1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_bot_service.html", null ],
     [ "FenixAlliance.ABP.BotEngine.Core.Services.IBotServices", "d2/d4f/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_services_1_1_i_bot_services.html", [
       [ "FenixAlliance.ABP.BotEngine.Core.Services.BotServices", "df/d6d/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_services_1_1_bot_services.html", null ]
     ] ],
-    [ "FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage", "d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html", null ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Access.IBusinessDataAccess", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.TenantDataAccessClient", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_tenant_data_access_client.html", null ]
+    [ "FenixAlliance.ABP.BotEngine.Core.Storage.IBotStorage", "d7/dfb/interface_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_i_bot_storage.html", [
+      [ "FenixAlliance.ABP.BotEngine.Core.Storage.BlobStorage", "df/d7c/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_blob_storage.html", null ],
+      [ "FenixAlliance.ABP.BotEngine.Core.Storage.DataContextStorage", "d5/dd5/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_storage_1_1_data_context_storage.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Access.IBusinessDataAccess", "db/dea/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_business_data_access.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICacheService", "d7/d29/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cache_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CacheService", "d7/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_cache_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICartsService", "df/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_carts_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CartsService", "d2/d03/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_carts_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICertificatesService", "dc/de8/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_certificates_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CertificatesService", "db/d72/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_certificates_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IChainService", "d2/de6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_chain_service.html", null ],
-    [ "FenixAlliance.ICX.Core.Services.ICheckoutService", "d8/d18/interface_fenix_alliance_1_1_i_c_x_1_1_core_1_1_services_1_1_i_checkout_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICheckoutService", "d8/d9a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_checkout_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICloudService", "d3/d8e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cloud_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICmsService", "d1/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cms_service.html", null ],
     [ "FenixAlliance.ABS.Core.Templating.ICodeCompilationService", "d9/d15/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_compilation_service.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Services.CodeCompilationService", "d1/d0e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_compilation_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.CodeCompilationService", "d2/dd8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_compilation_service.html", [
+        [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Services.RazorCompilationService", "d0/d1d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_se765d05eed37790bac05261327d70f0e5.html", null ]
+      ] ],
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Interfaces.IRazorCompilationService", "d2/d35/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_d260fcdffcbadf2f305b4c08329a839c.html", [
+        [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Services.RazorCompilationService", "d0/d1d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_se765d05eed37790bac05261327d70f0e5.html", null ]
+      ] ]
     ] ],
     [ "FenixAlliance.ABS.Core.Templating.ICodeGenerationService", "d1/de3/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_i_code_generation_service.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Services.CodeGenerationService", "db/d4e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_services_1_1_code_generation_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.CodeGenerationService", "d1/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_generation_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICodeInstantiationService", "d3/dff/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_instantiation_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CodeInstantiationService", "d3/d69/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_instantiation_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICodeValidationService", "d8/d61/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_code_validation_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CodeValidationService", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_code_validation_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICognitiveService", "d8/da9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_cognitive_service.html", null ],
     [ "IConfigureNamedOptions", null, [
@@ -1164,14 +1391,24 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IContactDataAccess", "d1/d0d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_contact_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IContainersService", "d3/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_containers_service.html", null ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Access.IContextDataAccess", "d3/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_context_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.ContextDataAccessClient", "db/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_context_data_access_client.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Access.IContextDataAccess", "d3/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_context_data_access.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ICrmDataService", "d5/dec/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_data_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.CrmDataService", "d1/d16/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_crm_data_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ICrmService", "df/dab/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_crm_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IDataRecognizerService", "d6/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_recognizer_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.DataRecognizerService", "da/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_data_recognizer_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IDataRepoService< T >", "d5/dd0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_data_repo_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IDataRepository< T >", "d8/def/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_data_repository.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IDateTimeService", "d2/d8f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_date_time_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.DateTimeService", "dd/d1c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_date_time_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IDbFactoryService< TContext >", "d3/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_db_factory_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.DbContextFactoryService< TContext >", "db/dbb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_db_context_factory_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IDealUnitsService", "dc/db5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_deal_units_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.DealUnitsService", "d5/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_deal_units_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.IdentifierType", "df/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_identifier_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.IdentifierType1", "d8/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_identifier_type1.html", [
@@ -1302,19 +1539,20 @@ var hierarchy =
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDirectory", "d6/dac/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_directory.html", null ]
     ] ],
     [ "IDisposable", null, [
-      [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", null ]
-    ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IDnsLookupService", "d9/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_dns_lookup_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.DnsLookupService", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_dns_lookup_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Interfaces.Services.IService", "d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html", null ],
+      [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.ImageWithMimeType", "d3/d4b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_image_with_mime_type.html", null ],
+      [ "FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", null ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.IDriver", "d1/d9f/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_i_driver.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemDriver", "d8/db5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_driver.html", null ]
     ] ],
-    [ "FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html", null ],
-      [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.EmailService", "d3/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_email_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IEmailService", "d5/d05/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_email_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Wrappers.IEmailServiceWrapper", "df/da4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers_1_1_i_email_service_wrapper.html", [
+      [ "FenixAlliance.ABM.Data.Access.Wrappers.EmailServiceWrapper", "db/dda/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_wrappers_1_1_email_service_wrapper.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IEntitlementsService", "d3/d50/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_entitlements_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IErpService", "d5/d4b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_erp_service.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Drivers.IFile", "dc/db2/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_i_file.html", [
       [ "FenixAlliance.ABP.FileSystem.Drivers.FileSystem.FileSystemFile", "d4/d08/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_drivers_1_1_file_system_1_1_file_system_file.html", null ]
@@ -1325,26 +1563,33 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IFileSystemService", "d9/d75/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_file_system_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.FileSystemService", "d0/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_file_system_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IForexService", "dc/d08/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_forex_service.html", [
-      [ "FenixAlliance.ABM.Data.Clients.CurrencyExchange.ForexService", "d9/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_currency_exchange_1_1_forex_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IGarbageCollectionService", "db/dee/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_garbage_collection_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.GarbageCollectionService", "d2/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_garbage_collection_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IGlobalDataAccess", "db/db1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_global_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IHealthcareService", "d8/dde/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_healthcare_service.html", null ],
     [ "IHealthCheck", null, [
       [ "FenixAlliance.ABP.HealthChecks.Core.Checks.CMSHealthCheck", "da/d35/class_fenix_alliance_1_1_a_b_p_1_1_health_checks_1_1_core_1_1_checks_1_1_c_m_s_health_check.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Access.IHolderDataAccess", "d2/d95/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_holder_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.HolderDataAccessClient", "d6/d20/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_holder_data_access_client.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Access.IHolderDataAccess", "d2/d95/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_holder_data_access.html", null ],
+    [ "IHostedService", null, [
+      [ "IdentityWorkerService", "d3/ddf/class_identity_worker_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IHolderService", "da/d89/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_holder_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html", null ]
-    ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IInstallerService", "d3/dd3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_installer_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.InstallerService", "d6/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_installer_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IHttpClientService", "de/d2b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_http_client_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.HttpClientService", "d3/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_http_client_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IIntegrationsDataAccess", "d3/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_integrations_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IInternationalizationService", "d0/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_internationalization_service.html", [
-      [ "FenixAlliance.ABM.Data.Interfaces.Services.InternationalizationService", "df/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_internationalization_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.InternationalizationService", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_internationalization_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IInvoicesService", "d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.InvoicesService", "d1/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_invoices_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IIpLookupService", "d6/d00/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_ip_lookup_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.IpLookupService", "d0/d06/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_ip_lookup_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ILearningService", "d7/dbf/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_learning_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.LearningService", "de/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_learning_service.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ACL.ILicense", "d0/d20/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_c_l_1_1_i_license.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ACL.Licensing.License", "d6/d17/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_c_l_1_1_licensing_1_1_license.html", null ]
@@ -1365,14 +1610,20 @@ var hierarchy =
     [ "FenixAlliance.ACL.Licensing.ILicensingService", "d6/dee/interface_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_i_licensing_service.html", [
       [ "FenixAlliance.ACL.Licensing.LicensingService", "d6/dad/class_fenix_alliance_1_1_a_c_l_1_1_licensing_1_1_licensing_service.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ILiquidRenderingService", "da/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_liquid_rendering_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.LiquidRenderingService", "d2/d9f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_liquid_rendering_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ILmsService", "d2/d1e/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_lms_service.html", null ],
     [ "ILogger", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLogger", "d7/db6/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_ha515997276f13d94ba5322ef8952b863f.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Handlers.HandleCriticalUserComponentExceptionsLogger", "d6/dc6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha8a1095ca56fe0529820723949e0e2af9.html", null ]
     ] ],
     [ "ILoggerProvider", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.HandleCriticalUserComponentExceptionsLoggerProvider", "dc/d80/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_hac5e2efcf476205c3c361fd873278cdfa.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Handlers.HandleCriticalUserComponentExceptionsLoggerProvider", "da/d3f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_ha0e282a94f5ec1c2b73da20b8695ffa09.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Logging.ILoggerService< T >", "d2/d1d/interface_fenix_alliance_1_1_a_c_l_1_1_logging_1_1_i_logger_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ILoggingService", "df/d97/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logging_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.LoggingService", "de/def/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_logging_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ILogisticsService", "db/d88/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_logistics_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.ILogLevel", "d6/de2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_log_level.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.LogLevel", "d6/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_log_level.html", null ]
@@ -1380,10 +1631,17 @@ var hierarchy =
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IManufacturingService", "dc/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_manufacturing_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMarketingService", "d6/da1/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketing_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMediaService", "d8/dac/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_media_service.html", null ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IMenusService", "df/d39/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_menus_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.MenusService", "da/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_menus_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IMemoryMetricsService", "dc/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_memory_metrics_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.MemoryMetricsService", "de/dae/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_memory_metrics_service.html", null ]
+    ] ],
+    [ "IMiddleware", null, [
+      [ "FenixAlliance.ABP.Hub.Middleware.WorkflowsAuthorizationMiddleware", "df/d70/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_middleware_1_1_workflows_authorization_middleware.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.ImmobilizedSecurityType", "d0/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_immobilized_security_type.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Abstractions.IModule", "d3/dc7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_module.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IModulesService", "dc/de3/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_modules_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.ModulesService", "da/d21/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_modules_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IMongoHelpers", "da/d4b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_mongo_helpers.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IMongoService", "df/d7c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_mongo_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.MongoHelpers", "d6/d47/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_mongo_helpers.html", null ],
@@ -1456,8 +1714,12 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.UBL.UnknownPriceIndicatorType", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_unknown_price_indicator_type.html", null ],
       [ "FenixAlliance.ABM.Models.UBL.VariantConstraintIndicatorType", "d7/dc9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_variant_constraint_indicator_type.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.INotificationsService", "da/df6/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_notifications_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.NotificationsService", "dd/dba/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_notifications_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABP.API.GraphQl.Core.ValidationRules.InputValidationRule", "dc/d4b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_validation_rules_1_1_input_validation_rule.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.InquiryRequest", "d7/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_inquiry_request.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentDisputes.PaymentDisputeInquiry", "d3/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_di1f8c891c3fb135b39d0ff88ea7dcff73.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.Types.BusinessTeamInquiryRequest", "d4/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_team_inquiry_request.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.InquiryRequests.Types.BusinessUnitInquiryRequest", "d1/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_inquiry_requests_1_1_types_1_1_business_unit_inquiry_request.html", null ]
     ] ],
@@ -1478,62 +1740,68 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceTypes.PurchaseInvoice", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_purchase_invoice.html", null ],
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceTypes.SalesInvoice", "d5/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_sales_invoice.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Invoices.Invoice", "d9/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_invoices_1_1_invoice.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Invoice", "db/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_invoice.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceAdjustments.InvoiceAdjustment", "d0/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_adbf0389f06787481a96e3ec5ed1fedcc3.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Email.InvoiceEmailModel", "d3/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_email_model.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceNumerationRange.InvoiceEnumerationRange", "d0/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_nuaf4e44c28c6b087fc7a07a3da133ddd3.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Email.InvoiceLine", "d0/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_email_1_1_invoice_line.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.InvoiceLineType", "d9/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_invoice_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Invoices.InvoiceMapper", "d0/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_invoices_1_1_invoice_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.UBL.InvoiceMapper", "d4/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_u_b_l_1_1_invoice_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoicePeriods.InvoicePeriod", "d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceRecord", "da/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_record.html", [
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceRecordScopes.ItemInvoiceRecord", "d7/db0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re1bdfe64c404525cfdf0ba7f0651cd9e3.html", null ],
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceRecordScopes.ServiceInvoiceRecord", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_red41a0820d5bd17a5f45dcc28178a363f.html", null ],
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRecords.InvoiceRecordScopes.SubscriptionInvoiceRecord", "d4/de5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re54d54f6cd14e6cc88a2bc5c41d4a0f9d.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceReferences.InvoiceReference", "d2/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_references_1_1_invoice_reference.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRelations.InvoiceRelation", "d1/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_relations_1_1_invoice_relation.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoiceRelations.Scopes.ProjectInvoice", "d4/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_re001c99d2c89e694f563c8ade6595394b.html", null ]
     ] ],
+    [ "FenixAlliance.ABP.BotEngine.Core.State.Store.InvoiceState", "d5/d42/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_invoice_state.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.InvoiceType", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_invoice_type.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IOptionsService", "d9/d3c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_options_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.OptionsService", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_options_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IOrdersService", "d1/d7b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_orders_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.OrdersService", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_orders_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IOrganizationDataAccess", "dc/d28/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_organization_data_access.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Abstractions.IPaymentGateway", "db/dd4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_abstractions_1_1_i_payment_gateway.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IPaymentGatewayService", "d7/dc4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payment_gateway_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.PaymentGatewayService", "dc/d80/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payment_gateway_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IPaymentsService", "d6/d15/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_payments_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.PaymentsService", "d8/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_payments_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.IPictureEditor", "d4/d20/interface_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_i_picture_editor.html", [
       [ "FenixAlliance.ABP.FileSystem.Manager.Drawing.DefaultPictureEditor", "d0/d48/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_manager_1_1_drawing_1_1_default_picture_editor.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Global.Security.IPLookup", "d7/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_security_1_1_i_p_lookup.html", null ],
-    [ "FenixAlliance.ABP.Hub.Plugins.IPluginManager", "d5/db4/interface_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_i_plugin_manager.html", [
-      [ "FenixAlliance.ABP.Hub.Plugins.PluginManager", "d0/da5/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin_manager.html", null ]
-    ] ],
-    [ "FenixAlliance.ABM.Models.DTOs.Contexts.IPocketContext", "d1/d68/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_i_pocket_context.html", [
-      [ "FenixAlliance.ABM.Models.DTOs.Contexts.PocketContext", "d4/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_contexts_1_1_pocket_context.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Security.IPLookup", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_security_1_1_i_p_lookup.html", null ],
+    [ "FenixAlliance.ABM.Models.Security.IPLookups.IPLookup", "db/dc7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_i_p_lookups_1_1_i_p_lookup.html", null ],
+    [ "FenixAlliance.ABM.Models.Mappers.Security.IPLookupMapper", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_security_1_1_i_p_lookup_mapper.html", null ],
     [ "FenixAlliance.ABS.Core.SIngletons.IPortalClientService", "d5/dd8/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingletons_1_1_i_portal_client_service.html", [
-      [ "FenixAlliance.ABS.Core.SIngleton.PortalClientService", "d0/d06/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_s_ingleton_1_1_portal_client_service.html", null ]
-    ] ],
-    [ "FenixAlliance.ACL.Configuration.Interfaces.ABS.Portal.IPortalOptions", "dc/d98/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_s_1_1_portal_1_1_i_portal_options.html", [
-      [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.PortalOptions", "da/dee/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portal_options.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.PortalClientService", "d9/de9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_client_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IPortalService", "db/d5f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_portal_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.PortalService", "d3/d6b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_portal_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IPricingService", "d1/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_pricing_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.PricingService", "d7/df0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_pricing_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IProcurementService", "df/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_procurement_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IProjectService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_project_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IQualityService", "dc/d9b/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quality_service.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.IRazorCompilationService", "d2/d19/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_i_razor_compilation_service.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.RazorCompilationService", "dd/d99/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_razor_compilation_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IQuotesService", "de/de4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_quotes_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.QuotesService", "d4/dfb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_quotes_service.html", null ]
     ] ],
     [ "IRazorPage", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBase", "db/de8/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base.html", null ],
-      [ "FenixAlliance.ABS.Core.Templating.Templates.DynamicComponentBaseV1", "d7/d2e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_dynamic_component_base_v1.html", null ]
+      [ "FenixAlliance.ABS.Core.Templating.Templates.IDynamicComponentBase", "d9/d18/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_templates_1_1_i_dynamic_component_base.html", null ]
     ] ],
     [ "IRecognizer", null, [
       [ "FenixAlliance.ABP.BotEngine.Core.LUIS.BotLUISRecognizer", "d1/df3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_l_u_i_s_1_1_bot_l_u_i_s_recognizer.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IRefundPoliciesService", "d8/d0f/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_refund_policies_service.html", null ],
     [ "IRemoteDependencyProvider", null, [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.NuGetRemoteDependencyProvider", "d3/d0c/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatc9f112170bee04324e49d909ad4ca7c4.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.NuGetRemoteDependencyProvider", "d2/d45/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paf4387bd4fb6e7680425f6032fd5a54ac.html", null ]
     ] ],
     [ "IRequestHandler", null, [
-      [ "FenixAlliance.ABM.Data.Access.CQRS.Handlers.GetAccountHolderHander", "de/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_get_account_holder_hander.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.CQRS.Handlers.Holders.GetAccountHolderHander", "d0/d86/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_handlers_1_1_holders_1_1_get_account_holder_hander.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IRequestService", "df/d66/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_request_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.RequestService", "d2/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_request_service.html", null ]
@@ -1541,13 +1809,20 @@ var hierarchy =
     [ "IResourceFilter", null, [
       [ "FenixAlliance.ABP.FileSystem.Filters.DisableFormValueModelBindingAttribute", "db/d25/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_filters_1_1_disable_form_value_model_binding_attribute.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.ISalesService", "da/d38/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sales_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IRestService", "df/d1c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_rest_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IReturnPoliciesService", "d4/d6c/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_return_policies_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IRuntimeInformationService", "d0/d77/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_runtime_information_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.RuntimeInformationService", "de/d62/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_runtime_information_service.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.ISalesService", "da/d38/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sales_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.SalesService", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_sales_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISearchService", "da/d60/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_search_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISecurityService", "d0/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_security_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.SecurityService", "dc/d4a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_security_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Seeding.Helpers.ISeedingHelpers", "d6/d03/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_i_seeding_helpers.html", [
-      [ "FenixAlliance.ABM.Data.Seeding.Helpers.SeedingHelpers", "d3/d63/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_helpers_1_1_seeding_helpers.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Seeding.SeedingHelpers", "d4/de0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_seeding_1_1_seeding_helpers.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISeedingService", "d6/d52/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_seeding_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogArgs", "de/d01/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_args.html", [
@@ -1565,21 +1840,21 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogWriteTo", "db/daa/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_write_to.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.Serilog.SerilogWriteTo", "d3/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_write_to.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IServicesService", "d9/dc0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_services_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.ServicesService", "d7/dbd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_services_service.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IShellService", "d3/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shell_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.ShellService", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_shell_service.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IShippingService", "d6/dc7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_shipping_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISignatorService", "db/d93/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_signator_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISmtpService", "dc/db2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_smtp_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Helpers.EmailHelpers", "d5/ddb/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_email_helpers.html", null ],
       [ "FenixAlliance.ABM.Data.Access.Services.SmtpService", "d5/dec/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_smtp_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.ISnippetsService", "d4/dff/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_i_snippets_service.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Services.SnippetsService", "dc/d02/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_services_1_1_snippets_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Interfaces.ISnippetsService", "df/d65/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_b38ab357c75e3b0b571cd90f6b52e763.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Services.SnippetsService", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Access.ISocialDataAccess", "df/d70/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_social_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.SocialDataAccessClient", "db/db4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_social_data_access_client.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Access.ISocialDataAccess", "df/d70/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_social_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Helpers.ISocialHelpers", "d7/dcf/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_social_helpers.html", [
       [ "FenixAlliance.ABM.Data.Access.Helpers.SocialHelpers", "d8/d98/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_social_helpers.html", null ]
     ] ],
@@ -1592,27 +1867,23 @@ var hierarchy =
     [ "IStatePropertyAccessor", null, [
       [ "FenixAlliance.ABP.BotEngine.Core.State.DialogStateAdapter.RefAccessor< T >", "df/d91/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_dialog_state_adapter_1_1_ref_accessor.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Access.IStockDataAccess", "dd/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_stock_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.StockDataAccessClient", "dc/dfc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_stock_data_access_client.html", null ],
-      [ "FenixAlliance.ABM.Data.Access.Repos.StockDataRepo", "d8/d96/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_repos_1_1_stock_data_repo.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Access.IStockDataAccess", "dd/d04/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_stock_data_access.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IStockItemsService", "d9/da5/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_items_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.StockItemsService", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_items_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IStockService", "d2/d5d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_stock_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.StockService", "dc/d37/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_stock_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Storage.IStorageDataAccess", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access.html", [
-      [ "FenixAlliance.ABM.Data.Access.Clients.StorageDataAccessClient", "d7/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_clients_1_1_storage_data_access_client.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Storage.IStorageDataAccess", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IStorageService", "db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.StorageService", "d7/d02/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_service.html", null ]
+      [ "FenixAlliance.ABM.Data.Access.Services.Storage.AzureStorageService", "d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html", null ],
+      [ "FenixAlliance.ABM.Data.Access.Services.Storage.StorageService", "de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IStoreDataAccess", "d7/d23/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_store_data_access.html", null ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IStoreHelpers", "da/ddd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_store_helpers.html", [
-      [ "FenixAlliance.ABM.Data.Access.Helpers.StoreHelpers", "df/d8c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_store_helpers.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Helpers.IStoreHelpers", "da/ddd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_helpers_1_1_i_store_helpers.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IStoreService", "d1/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_store_service.html", [
       [ "FenixAlliance.ABM.Data.Access.Services.StoreService", "d0/d34/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_store_service.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.ISubscriptionService", "d3/de0/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_subscription_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ISuiteOption", "dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html", [
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABM.IAllianceBusinessModelOptions", "d0/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_m_1_1_i_alliance_business_model_options.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABM.AllianceBusinessModelOptions", "df/dbc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_m_1_1_alliance_business_model_options.html", null ]
@@ -1628,6 +1899,9 @@ var hierarchy =
       ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.IApis", "db/d4e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_apis.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.ApisOptions", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options.html", null ]
+      ] ],
+      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.IBlockChains", "d1/d99/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_i_block_chains.html", [
+        [ "FenixAlliance.ACL.Configuration.Types.ABP.BlockChains.BlockChainsOptions", "d2/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains_1_1_block_chains_options.html", null ]
       ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.Limiting.IGeneralLimitingRule", "d7/dfb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_limc070c6148df3adec0a230bad203567a7.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.Limiting.GeneralLimitingRule", "d4/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_limiting_1_1_general_limiting_rule.html", null ]
@@ -1689,6 +1963,9 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.DevMode.IExceptionHandlerOptions", "dd/dcb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_dev_mode_1_1_i_exception_handler_options.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.DevMode.ExceptionHandlerOptions", "d6/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_exception_handler_options.html", null ]
       ] ],
+      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.GC.IGarbageCollection", "d5/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c_1_1_i_garbage_collection.html", [
+        [ "FenixAlliance.ACL.Configuration.Types.ABP.GC.GarbageCollection", "d9/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection.html", null ]
+      ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.HTTP.CORS.ICors", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_i_cors.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.CORS.CorsOptions", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options.html", null ]
       ] ],
@@ -1734,91 +2011,21 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.IAllianceBusinessPlatformOptions", "d6/d19/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_i_alliance_business_platform_options.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.AllianceBusinessPlatformOptions", "da/dd1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_alliance_business_platform_options.html", null ]
       ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Facebook.IFacebookIntegrationsOptions", "dd/df2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1cc3fd0fadf9dd3f193c2f79ac47f9213.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Facebook.FacebookIntegrationOptions", "d8/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_facebo60c42a368a8a46508958334decb94ce3.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.FenixAlliance.ABS.IAllianceBusinessSuiteIntegrationsOptions", "d5/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b574a4ae5167c4b00fb590eb894cc6fe.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.FenixAlliance.ABS.AllianceBusinessSuiteIntegrationOptions", "d5/dcb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_164504e7d56f27a63e0faf2256d51a3f.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.FenixAlliance.ICX.IInfinityComexIntegrationsOptions", "dd/d67/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f5560acc24f7691509cfa1d95daee8ca.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.FenixAlliance.ICX.InfinityComexIntegrationOptions", "db/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_8bc884056ee20a6c4cc8ead12ab06143.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.FenixAlliance.IFenixAllianceIntegrationsOptions", "df/ddf/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dba9b87773ec171536f855692d51607e.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.FenixAlliance.FenixAllianceIntegrationsOptions", "d1/df5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_14c3fb4f57647cc9d71151cbe0d21728.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.Analytics.IGoogleAnalyticsIntegrationOptions", "dc/db8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_111b702ab574da2952e148bb1cede2f87.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.Analytics.GoogleAnalytics", "d5/d19/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google0d054d097d5728507653b2c050a924b8.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.IGoogleIntegrationOptions", "dc/d21/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1f37a3c864deefa663eb27fe6f04e22de.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.GoogleIntegrationOptions", "d5/de4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google_1_1_google_integration_options.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.Maps.IGoogleMapsIntegrationOptions", "d4/d27/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1e90bd5415bce50a26c25fb0fc9a3b9ac.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.Maps.GoogleMapsIntegrationOptions", "d1/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google45f84ef6fc8390e013e3a76e52cecfc8.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleMerchantCenterIntegrationOptions", "d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html", null ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleTagManagerIntegrationOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_g1bcbe9a8e97387e7a20a048c9d86db5a.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.IGoogleMerchantCenterIntegrationOptions", "d8/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1253e0d2533878e15870521699ab1fa27.html", [
-        [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleMerchantCenterIntegrationOptions", "d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.IGoogleMyBusinessIntegrationOptions", "d5/d9e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1766b82b37336c199a4e0e5b90e696f08.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.MyBusiness.GoogleMyBusinessIntegrationOptions", "dd/d5d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_googleea5f11ccfb942b9dc09d3d231ca4e593.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.IGoogleTagManagerIntegrationOptions", "dd/d2e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_198ac1899afca20a7ad9436a5c300d23d.html", [
-        [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleTagManagerIntegrationOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_g1bcbe9a8e97387e7a20a048c9d86db5a.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.Recaptcha.IGoogleRecaptchaIntegrationOptions", "da/d73/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_150efcc716b7414750bc17cb06f35ccf3.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Google.Recaptcha.GoogleRecaptchaIntegrationOptions", "d3/d0f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_google96ff110fd184f72def62eef8813ffbea.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.IIntegrations", "dc/dc3/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_i_integrations.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.IntegrationsOptions", "d7/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_integrations_options.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.MSFT.Azure.AppInsights.IAzureAppInsightIntegrationOptions", "db/d58/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1882055532183cd513e6c699b16dd68f6.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.Azure.AppInsights.AzureAppInsightIntegrationOptions", "d9/d21/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_b76128b654f611be00ba5a544c6a3651.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.MSFT.Azure.IMicrosoftAzureIntegrationOptions", "dd/dcd/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1b0838e3eb4f4eead753740e3fd6ccb85.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.Azure.MicrosoftAzureIntegrationOptions", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.MSFT.Azure.Storage.IAzureStorageIntegrationOptions", "dd/d54/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ae9bca894cffed1fdb57098aba7b9059.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.Azure.Storage.AzureStorageIntegrationOptions", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.MSFT.IMicrosoftIntegrationOptions", "db/df5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dc89bb2a2afd387e0dfafb163e3c449d.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.MicrosoftIntegrationsOptions", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.OpenExchangeRates.IOpenExchangeRatesIntegrationOptions", "d4/d34/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1dbd1e2a82cd313a5d79a5aec3b02bbe8.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.OpenExchangeRates.OpenExchangeRatesIntegrationsOptions", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.PayPal.IPayPalIntegrationOptions", "d1/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_10aa4195d25d5597bfe352424045d2af5.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.PayPal.PayPalIntegrationsOptions", "db/d3c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pa0627e198b4f55a6bdae43b4a67d7169f.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Sendgrid.ISendgridIntegrationOptions", "db/d1d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_19156d69f34ad37cb72092dbaaadb4d7a.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Sendgrid.SendgridIntegrationsOptions", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.WordPress.IWooCommerceIntegrationOptions", "d0/d43/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_18bf18a901bc39f4b812c7c26d83968d0.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.WordPress.WooCommerce.WooCommerceIntegrationsOptions", "d2/d08/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p7a3e36d238c01f8b46b38d0cbe753bef.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.WordPress.IWordPressIntegrationOptions", "d8/d81/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_190d5e5a8c7cdddc3e294f16e997fc46f.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.WordPress.WordPressIntegrationsOptions", "d7/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p61927c68174347608eda4243adf0b55e.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.ZiftAnalytics.IZiftAnalyticsOptions", "dc/d97/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_12e0e045730bd190799e7a98dcb62676f.html", [
-        [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.ZiftAnalytics.ZiftAnalyticsOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9.html", null ]
-      ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.ZiftAnalytics.ZiftAnalyticsOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.ePayco.IEPaycoIntegrationOptions", "d8/d5c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1ecaee818a53655dd06125666987ffd24.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.ePayco.EPaycoIntegrationOptions", "d1/d0b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1e_payco35d866da80f053322ec091f9ca6760fb.html", null ]
-      ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.ILogging", "d1/da8/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_i_logging.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.LoggingOptions", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options.html", null ]
       ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Logging.Serilog.ISerilogOptions", "df/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_i_serilog_options.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.Serilog.SerilogOptions", "dc/d89/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_options.html", null ]
       ] ],
+      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Metrics.IMetrics", "d3/d8e/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_metrics_1_1_i_metrics.html", [
+        [ "FenixAlliance.ACL.Configuration.Types.ABP.Metrics.MetricsOptions", "d3/d64/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_metrics_1_1_metrics_options.html", null ]
+      ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModular", "d7/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_modular.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.Modular.ModularOptions", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options.html", null ]
       ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModule", "d7/d8a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.ABP.Modular.Module", "d3/d75/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module.html", [
-          [ "FenixAlliance.ABP.Hub.Plugins.Plugin", "d1/d7d/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_plugin.html", null ]
-        ] ]
+        [ "FenixAlliance.ACL.Configuration.Types.ABP.Modular.Module", "d3/d75/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module.html", null ]
       ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModuleData", "d0/de5/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module_data.html", [
         [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Modular.IModule", "d7/d8a/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_modular_1_1_i_module.html", null ],
@@ -1885,6 +2092,7 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.WS.IWebSockets", "d8/d2d/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_web_sockets.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.WS.WebSocketsOptions", "d4/d59/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_w_s_1_1_web_sockets_options.html", null ]
       ] ],
+      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.WS.IWopi", "d2/deb/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_w_s_1_1_i_wopi.html", null ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.i18n.ILocalization", "d6/d4f/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1i18n_1_1_i_localization.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ABP.i18n.LocalizationOptions", "d8/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1i18n_1_1_localization_options.html", null ]
       ] ],
@@ -1927,9 +2135,6 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Interfaces.APS.Providers.DefaultIdentity.IOpenIdConnectOptions", "db/d00/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_a0baa996c813ec3fa03bc58bea56d67b.html", [
         [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.OpenIdConnectOptions", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05.html", null ]
       ] ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.APS.Providers.IdentityServer4.IIdentityServer4", "da/dc4/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_p_s_1_1_providers_1_1_521b0fbc7cb78532a9fb937571388bcf.html", [
-        [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.IdentityServer4.IdentityServer4", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html", null ]
-      ] ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ICX.Store.IStoreOptions", "d6/d49/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_c_x_1_1_store_1_1_i_store_options.html", [
         [ "FenixAlliance.ACL.Configuration.Types.ICX.StoreOptions", "de/d8d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_store_options.html", null ]
       ] ]
@@ -1944,6 +2149,9 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Types.SuiteStatus", "d5/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_status.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISupportService", "da/dc2/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_support_service.html", null ],
+    [ "FenixAlliance.ABM.Models.Mappers.Helpdesk.ISupportTicketMapper", "d3/dc8/interface_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_i_support_ticket_mapper.html", [
+      [ "FenixAlliance.ABM.Models.Mappers.Helpdesk.SupportTicketMapper", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ISustainabilityService", "d4/de9/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_sustainability_service.html", null ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.APIs.REST.Swagger.ISwaggerContact", "d2/db2/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_a_p_is_1_1_r_ea805fa5c8e26c7e9acc16737da68fb40.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerOpenApiContact", "d9/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1b8cb9f87073745848ed35cf0723e04a4.html", null ]
@@ -1956,9 +2164,12 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.ITalentService", "dd/df4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_talent_service.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.Item", "d3/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_item.html", [
+      [ "FenixAlliance.ABM.Models.Blockchains.NFTs.NonFungibleToken", "da/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token.html", null ],
+      [ "FenixAlliance.ABM.Models.Education.Courses.Collections.CourseCollection", "d4/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection.html", null ],
       [ "FenixAlliance.ABM.Models.Education.Courses.Course", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_course.html", null ],
-      [ "FenixAlliance.ABM.Models.Global.Suites.Tiers.LicenseType", "dd/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_tiers_1_1_license_type.html", null ],
+      [ "FenixAlliance.ABM.Models.Licensing.Types.LicenseType", "d1/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_types_1_1_license_type.html", null ],
       [ "FenixAlliance.ABM.Models.Services.Service", "d9/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service.html", null ],
+      [ "FenixAlliance.ABM.Models.Services.ServiceLevels.ServiceLevel", "da/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels_1_1_service_level.html", null ],
       [ "FenixAlliance.ABM.Models.Stores.Products.Product", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_products_1_1_product.html", null ],
       [ "FenixAlliance.ABM.Models.Subscriptions.SubscriptionPlans.SubscriptionPlan", "d4/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription_plans_1_1_subscription_plan.html", null ]
     ] ],
@@ -1966,12 +2177,15 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemAttributeMapper", "dc/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_attribute_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemAttributes.ItemAttributeOption", "d8/d67/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemAttributes.ItemAttributeOptionRecord", "d5/d75/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_attributes_1_1_item_attribute_option_record.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBids.ItemBid", "d7/d3e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bids_1_1_item_bid.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBrands.ItemBrand", "db/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_brands_1_1_item_brand.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemBrandMapper", "d9/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_brand_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBundles.ItemBundle", "d5/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemBundleMapper", "d3/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_bundle_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemBundles.ItemBundleRecord", "d2/d1b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_bundles_1_1_item_bundle_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemCategories.ItemCategory", "de/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_categories_1_1_item_category.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemCategories.ItemCategory", "de/dfb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_categories_1_1_item_category.html", [
+      [ "FenixAlliance.ABM.Models.Education.Courses.Categories.CourseCategory", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_categories_1_1_course_category.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemCategoryMapper", "d5/dae/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_category_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemCategories.ItemCategoryRecord", "d8/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_categories_1_1_item_category_record.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ItemComparisonType", "df/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_comparison_type.html", null ],
@@ -1990,6 +2204,9 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ItemInstanceType", "d7/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_instance_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ItemLocationQuantityType", "d1/d01/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_location_quantity_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ItemManagementProfileType", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_management_profile_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemOwnerships.ItemOwnership", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships_1_1_item_ownership.html", [
+      [ "FenixAlliance.ABM.Models.Blockchains.NFTs.NonFungibleTokenOwnership", "d3/df6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_blockchains_1_1_n_f_ts_1_1_non_fungible_token_ownership.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPackingSlips.ItemPackingSlip", "dc/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_packing_slips_1_1_item_packing_slip.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPackingSlips.ItemPackingSlipEntry", "d1/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_packing_slips_1_1_item_packing_slip_entry.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemPickLists.ItemPickList", "d6/d37/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_pick_lists_1_1_item_pick_list.html", null ],
@@ -2001,24 +2218,17 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ItemPropertyType", "d0/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_property_type.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemQnA.ItemQuestion", "d1/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemQnA.ItemQuestionReply", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemRefunds.ItemRefundPolicyRecord", "dd/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_refunds_1_1_item_refund_policy_record.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemRequests.ItemRequest", "df/d37/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_requests_1_1_item_request.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemRestocks.ItemRestock", "d1/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_restocks_1_1_item_restock.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemRestocks.ItemRestockEntry", "d9/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_restocks_1_1_item_restock_entry.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemRetainSamples.ItemRetainSample", "dd/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_retain_samples_1_1_item_retain_sample.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Warehousing.ItemReturns.ItemReturnPolicyRecord", "dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_item_return_policy_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Selling.SellingMargins.ItemSellingMarginPolicyRecord", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.Shipments.ItemShipment", "dd/dad/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_shipment.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.Policies.ItemShippingPolicyRecord", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemTags.ItemTag", "d0/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_tags_1_1_item_tag.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemTagMapper", "d6/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_tag_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemTags.ItemTagRecord", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_tags_1_1_item_tag_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Taxes.TaxRecords.ItemTaxPolicyRecord", "df/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_item_tax_policy_record.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemTypes.ItemType", "de/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_types_1_1_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ItemType", "d4/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Items.ItemTypeMapper", "d4/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_items_1_1_item_type_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemTypes.ItemTypeRecord", "df/d55/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_types_1_1_item_type_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Stock.ItemWarranties.ItemWarrantyPolicyRecord", "d3/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_item_warranty_policy_record.html", null ],
     [ "ITenantAccessor", null, [
       [ "FenixAlliance.ABP.Hub.Extensions.CustomTenantAccessor", "db/d4c/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_custom_tenant_accessor.html", null ]
     ] ],
@@ -2035,17 +2245,23 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.HTTP.IUrlRewriteOptions", "da/d11/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_url_rewrite_options.html", [
       [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.UrlRewriteOptions", "d5/d67/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_url_rewrite_options.html", null ]
     ] ],
-    [ "FenixAlliance.ABS.Core.Templating.Helpers.IViewBufferScope", "df/d50/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_i_view_buffer_scope.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Wrappers.IViewComponent", "db/dd1/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_wrappers_1_1_i_view_component.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Interfaces.IViewRenderingService", "d1/d8d/interface_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_i_view_rendering_service.html", [
-      [ "FenixAlliance.ABS.Core.Templating.Interfaces.Services.ViewRenderingService", "d6/d31/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_interfaces_1_1_services_1_1_view_rendering_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Helpers.IViewBufferScope", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Wrappers.IViewComponent", "da/d34/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_wrappers_1_1_i_view_component.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IViewComposerService", "d9/d54/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_view_composer_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.ViewComposerService", "d9/ddd/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_view_composer_service.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Access.IWalletDataAccess", "d4/dfe/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_access_1_1_i_wallet_data_access.html", null ],
-    [ "FenixAlliance.ABM.Data.Interfaces.Services.IWalletService", "d3/d16/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_wallet_service.html", [
-      [ "FenixAlliance.ABM.Data.Access.Services.WalletService", "d3/db2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_wallet_service.html", null ]
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IWarrantyPoliciesService", "dd/d71/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_warranty_policies_service.html", null ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.IWebUIService", "dd/d4a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_web_u_i_service.html", [
+      [ "FenixAlliance.ABM.Data.Access.Services.WebUIService", "d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_web_u_i_service.html", null ]
     ] ],
     [ "IWorkflow", null, [
-      [ "FenixAlliance.ABP.Hub.Extensions.HeartbeatWorkflow", "d5/d20/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_heartbeat_workflow.html", null ]
+      [ "FenixAlliance.ABP.Hub.Extensions.GarbageCollectionWorkflow", "d2/d85/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_garbage_collection_workflow.html", null ],
+      [ "FenixAlliance.ABP.Hub.Extensions.SingletonUpdaterWorkflow", "d1/d49/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_extensions_1_1_singleton_updater_workflow.html", null ],
+      [ "FenixAlliance.ABP.Hub.Workflows.ProductImageExtactorWorkflow", "dd/ddc/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_image_extactor_workflow.html", null ],
+      [ "FenixAlliance.ABP.Hub.Workflows.ProductPriceUpdaterWorkflow", "d1/d58/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_product_price_updater_workflow.html", null ],
+      [ "FenixAlliance.ABP.Hub.Workflows.ViewRecompilerWorkflow", "df/dd7/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_view_recompiler_workflow.html", null ],
+      [ "FenixAlliance.ABP.Hub.Workflows.WalletSyncronizationWorkflow", "d0/de1/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_workflows_1_1_wallet_syncronization_workflow.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IWorkflowsService", "d3/d98/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workflows_service.html", null ],
     [ "FenixAlliance.ABM.Data.Interfaces.Services.IWorkforceService", "d5/d5a/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_workforce_service.html", null ],
@@ -2086,11 +2302,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Ledgers.Ledger", "d5/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_ledgers_1_1_ledger.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Ledgers.LedgerMapper", "d8/d19/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_ledgers_1_1_ledger_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Ledgers.LedgerTypes.LedgerType", "d0/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_ledgers_1_1_ledger_types_1_1_ledger_type.html", null ],
-    [ "FenixAlliance.ABM.Models.Licensing.License", "d9/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_license.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.License", "d8/da2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_license.html", null ],
     [ "FenixAlliance.ABM.Models.Licensing.Assignment.LicenseAssignment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_assignment_1_1_license_assignment.html", null ],
     [ "FenixAlliance.ABM.Models.Licensing.Attributes.LicenseAttribute", "d4/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_attributes_1_1_license_attribute.html", null ],
-    [ "FenixAlliance.ABM.Models.Global.Suites.Modules.LicenseFeature", "d1/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_modules_1_1_license_feature.html", null ],
+    [ "FenixAlliance.ABM.Models.Licensing.Features.LicenseFeature", "d7/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_features_1_1_license_feature.html", null ],
+    [ "FenixAlliance.ABM.Models.Licensing.Validation.LicenseValidation", "d2/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_licensing_1_1_validation_1_1_license_validation.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Lightbox.LightboxOptions", "d7/dda/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_lightbox_1_1_lightbox_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LineItemType", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_item_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.LineReferenceType", "d3/d48/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_line_reference_type.html", null ],
@@ -2108,6 +2324,7 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Content.Resources.Strings.LocalizationString", "d6/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_strings_1_1_localization_string.html", null ],
       [ "FenixAlliance.ABM.Models.Content.Resources.Strings.LocalizedString", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_resources_1_1_strings_1_1_localized_string.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Data.Interfaces.Services.Localizer< string, string >", "dc/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_localizer.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Locations.Location", "d7/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_locations_1_1_location.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Locations.Location", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_locations_1_1_location.html", [
       [ "FenixAlliance.ABM.Models.Assets.AssetLocations.AssetLocation", "d9/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_assets_1_1_asset_locations_1_1_asset_location.html", null ],
@@ -2132,11 +2349,12 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Mansory.MansoryOptions", "d5/d6c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_mansory_1_1_mansory_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Commons.Margin", "d3/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_commons_1_1_margin.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MaritimeTransportType", "de/d51/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_maritime_transport_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Marketing.Area.MarketingArea", "d5/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area.html", [
+      [ "FenixAlliance.ABM.Models.Marketing.Area.MarketingProductArea", "d3/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_product_area.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Marketing.Area.MarketingAreaSubscription", "db/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_area_1_1_marketing_area_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaign", "db/d62/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Campaigns.MarketingCampaignResponse", "d5/db4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_campaigns_1_1_marketing_campaign_response.html", null ],
-    [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLead", "d8/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead.html", null ],
-    [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadStakeholder", "d9/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_stakeholder.html", null ],
-    [ "FenixAlliance.ABM.Models.Marketing.Leads.MarketingLeadType", "d4/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_leads_1_1_marketing_lead_type.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Lists.MarketingList", "d3/d07/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Lists.MarketingListMembership", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_lists_1_1_marketing_list_membership.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Measurements.MeasurementOptions", "de/d3e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_measurements_1_1_measurement_options.html", null ],
@@ -2172,6 +2390,7 @@ var hierarchy =
     ] ],
     [ "FenixAlliance.ABM.Data.Access.CQRS.MediatREntryPoint", "db/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_c_q_r_s_1_1_mediat_r_entry_point.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AAD.MemberOf", "d4/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_member_of.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Internal.MemoryMetrics", "dc/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_internal_1_1_memory_metrics.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Menus.MenuContext", "dc/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_menus_1_1_menu_context.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Menus.MenuContextItem", "d8/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_menus_1_1_menu_context_item.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Menu.MenuOptions", "d2/db6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_menu_1_1_menu_options.html", null ],
@@ -2180,89 +2399,46 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.MeterReadingType", "d3/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_reading_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MeterType", "d1/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_meter_type.html", null ],
     [ "Migration", null, [
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddAmmountsToInvoiceAdjustments", "d2/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddMultiplePortalDomains", "d6/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddSalesLeads", "dd/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_sales_leads.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddServiceLevelAgreementEntitlement", "df/db1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddStockItemsPriceAggregations", "d6/d41/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddSupportEntitlements", "d8/d0b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_entitlements.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddSupportRequests", "da/d68/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_add_support_requests.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsBlogPostComments", "d6/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_blog_post_comments.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsCodeTypeAndCompilationPath", "df/d95/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsInitialInvoiceAndAccountRelations", "d9/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsInvoiceAdjustmentsInitial", "d6/d2d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsLicenseHolder", "de/ddf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_license_holder.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsNonExecutableContent", "d2/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_non_executable_content.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AddsSocialGroupOwnership", "d3/dfe/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_adds_social_group_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.AllowFractionalOrderQuantities", "d0/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ForeignExchangeSet", "d7/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_foreign_exchange_set.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImproveBusinessOwnershipAndHierarchy", "db/d73/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImproveInvoiceRecordsOwnership", "d9/d3d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImproveRecordsOwnership", "de/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improve_records_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImprovedAccountingRecordOwnership", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImprovedAuthorityOwnershipOverFiscalRegimes", "df/dfa/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImprovedAuthorityOwnershipOverInvoicingEnumerationRange", "d6/df1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_authority_owned5ccd59323532850b74415a71ff7d9d7.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImprovedBprOwnershipOverInvoicingEnumerationRangeRecords", "d0/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_c753b059fd6d2491efbc98d7acf1185e.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.ImprovedStockItemsIdentification", "df/d7c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_improved_stock_items_identification.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.Initial", "d0/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.InitialPayrollAndLeaveEntities", "d0/d60/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.RemoveSupplierScoreCard", "da/d5a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_remove_supplier_score_card.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.SeedActivityTypes", "d4/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_seed_activity_types.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.SimplifyPaymentTermTemplates", "d3/db5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates.html", null ],
-      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.UseSigningKeysOnAppSecrets", "dd/dde/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddActivityTypes", "dd/d24/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_activity_types.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddAmmountsToInvoiceAdjustments", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_ammounts_to_invoice_adjustments.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddBusinessOwnershipToPermissions", "d5/db7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_business_ownership_to_permissions.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddInvoiceNumber", "dc/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_invoice_number.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddMultiplePortalDomains", "d2/da4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_multiple_portal_domains.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddSalesLeads", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_sales_leads.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddServiceLevelAgreementEntitlement", "d9/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_service_level_agreement_entitlement.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddStockItemsPriceAggregations", "d7/d1b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_stock_items_price_aggregations.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddSupportEntitlements", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_entitlements.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddSupportRequests", "d5/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_add_support_requests.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsBlogPostComments", "d5/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_blog_post_comments.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsCodeTypeAndCompilationPath", "d5/d08/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_code_type_and_compilation_path.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsInitialInvoiceAndAccountRelations", "d1/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_initial_invoice_and_account_relations.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsInvoiceAdjustmentsInitial", "d3/dad/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_invoice_adjustments_initial.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsLicenseHolder", "d6/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_license_holder.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsNonExecutableContent", "d0/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_non_executable_content.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsSocialGroupOwnership", "d2/df5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_social_group_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AddsStockItemSupplierCode", "df/dc8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_adds_stock_item_supplier_code.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.AllowFractionalOrderQuantities", "d8/d23/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_allow_fractional_order_quantities.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.FixRepeatedPermissions", "df/dac/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_repeated_permissions.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.FixRequiredSkus", "d7/de1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_fix_required_skus.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ForeignExchangeSet", "d6/dd5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_foreign_exchange_set.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveAssetOwnership", "d3/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_asset_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveBusinessOwnershipAndHierarchy", "d7/da3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_business_ownership_and_hierarchy.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveInquiryRequestOwnership", "d9/d04/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_inquiry_request_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveInvoiceRecordsOwnership", "d1/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_invoice_records_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveOrderOwnership", "da/dcf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_order_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImproveSupportTicketOwnership", "de/d1f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improve_support_ticket_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImprovedAccountingRecordOwnership", "d4/d71/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_accounting_record_ownership.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImprovedAuthorityOwnershipOverFiscalRegimes", "db/d52/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_ownership_over_fiscal_regimes.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImprovedAuthorityOwnershipOverInvoicingEnumerationRange", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_authority_owner1a8a3a95f6135e8b16798d38f862f405.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImprovedBprOwnershipOverInvoicingEnumerationRangeRecords", "da/d3e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_bpr_ownership_o4766cedc90014efeee6316523bfe73ea.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.ImprovedStockItemsIdentification", "de/d0f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_improved_stock_items_identification.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.Initial", "d2/da1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.InitialPayrollAndLeaveEntities", "db/d83/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_initial_payroll_and_leave_entities.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.RemoveSupplierScoreCard", "d9/d2b/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_remove_supplier_score_card.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.SeedActivityTypes", "d3/d99/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_seed_activity_types.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.SimplifyPaymentTermTemplates", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_simplify_payment_term_templates.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.UseSigningKeysOnAppSecrets", "dd/de2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_use_signing_keys_on_app_secrets.html", null ]
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_5_6", "de/d01/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__6.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_5_8", "d4/d54/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__5__8.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_1", "d7/d07/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__1.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_2", "d9/dce/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__2.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_3", "d3/d00/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__3.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_4", "da/db3/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__4.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_5", "dc/dc5/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5.html", null ],
+      [ "FenixAlliance.ABM.Data.MSSQL.Migrations.V_1_6_5_1", "dd/d9d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_5_0", "de/d88/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__0.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_5_6", "d6/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__6.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_5_8", "db/d6e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__5__8.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_1", "d1/d0a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__1.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_2", "d9/da2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__2.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_3", "dd/d4f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__3.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_4", "d8/d55/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__4.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_5", "d1/d17/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5.html", null ],
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.V_1_6_5_1", "d3/dd4/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_5_6", "de/df8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__6.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_5_8", "de/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__5__8.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_1", "dc/d26/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__1.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_2", "d0/d0c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__2.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_3", "da/de8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__3.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_4", "d6/dea/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__4.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_5", "dd/d38/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.V_1_6_5_1", "d5/d6f/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_v__1__6__5__1.html", null ]
     ] ],
     [ "FenixAlliance.ABP.FileSystem.Models.MimeType", "d3/d6d/struct_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_mime_type.html", null ],
-    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.MinimalAPIProduct", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.MiscellaneousEventType", "d3/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_miscellaneous_event_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Miscellaneous.MiscellaneousOptions", "dc/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_miscellaneous_1_1_miscellaneous_options.html", null ],
     [ "FenixAlliance.ABS.Core.Contexts.ModelMarker", "df/df0/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_model_marker.html", null ],
     [ "ModelSnapshot", null, [
       [ "FenixAlliance.ABM.Data.MSSQL.Migrations.DataContextModelSnapshot", "d8/df9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_m_s_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ],
-      [ "FenixAlliance.ABM.Data.MySQL.Migrations.DataContextModelSnapshot", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ]
+      [ "FenixAlliance.ABM.Data.MySQL.Migrations.DataContextModelSnapshot", "de/d29/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_my_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ],
+      [ "FenixAlliance.ABM.Data.ODPSQL.Migrations.DataContextModelSnapshot", "d5/db8/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_o_d_p_s_q_l_1_1_migrations_1_1_data_context_model_snapshot.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.MonetaryTotalType", "d9/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_monetary_total_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.Favicons.MSAppTile", "d5/d38/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_favicons_1_1_m_s_app_tile.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Helpers.MultiPartRequestHelper", "d6/d6d/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_helpers_1_1_multi_part_request_helper.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.NewGuestCartRequest", "d1/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_new_guest_cart_request.html", null ],
+    [ "FenixAlliance.ABM.Models.Marketing.Newsletters.Newsletter", "d9/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterSubscription", "db/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.NewWishListRequest", "d3/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_new_wish_list_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Notes.Note", "d3/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_notes_1_1_note.html", null ],
@@ -2272,7 +2448,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Social.Notifications.Notification", "d1/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_notifications_1_1_notification.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Social.NotificationBinder", "de/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_social_1_1_notification_binder.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.NotificationRequirementType", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_notification_requirement_type.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.NuGetPackageManagementService", "de/d41/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installatda53b796dd699c9109b9c55d14afaf6f.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.NuGetPackageManagementService", "d3/d1e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa0c2e2d9eee8026efb1cb379cdb4e026c.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.NumericType", "d5/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type.html", [
       [ "FenixAlliance.ABM.Models.UBL.NumericType1", "d1/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_numeric_type1.html", [
         [ "FenixAlliance.ABM.Models.UBL.BudgetYearNumericType", "d9/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_budget_year_numeric_type.html", null ],
@@ -2319,18 +2495,33 @@ var hierarchy =
       ] ],
       [ "FenixAlliance.ABM.Models.UBL.ValueType1", "dd/d7a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_value_type1.html", null ]
     ] ],
+    [ "FenixAlliance.APS.Core.Controllers.Auth.OAuthTokenRequest", "de/dfb/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_o_auth_token_request.html", null ],
     [ "ObjectGraphType", null, [
-      [ "FenixAlliance.ABP.API.GraphQl.Core.Queries.AllianceIDQuery", "dd/d5c/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_alliance_i_d_query.html", null ],
-      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.AllianceIDType", "da/db5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_alliance_i_d_type.html", null ]
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Mutations.LoginMutation", "de/d96/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_login_mutation.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Mutations.SessionType", "d1/d10/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Queries.ApiResponseQuery", "d2/d38/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_queries_1_1_api_response_query.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.APIResponseBaseType", "d0/d0b/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_base_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.APIResponseErrorType", "db/d02/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_error_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.APIResponsePaginationType", "da/dd3/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_pagination_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.APIResponseStatusType", "d6/d67/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_status_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.AccountHolderResponseType", "dd/dae/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_response_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.AccountHolderType", "da/d15/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_account_holder_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.ActorResponseType", "d7/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_actor_response_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.BusinessProfileRecordType", "d7/d04/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_profile_record_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.BusinessTenantResponseType", "d3/d9f/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_business_tenant_response_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.ClientApplicationResponseType", "df/db8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_client_application_response_type.html", null ],
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Types.IPLookupResponseType", "db/df8/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_i_p_lookup_response_type.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.ObjectIdentifierType", "d0/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_identifier_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ObjectType", "d3/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_object_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OCSPIdentifierType", "dc/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_identifier_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OCSPRefType", "de/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_o_c_s_p_ref_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OnAccountPaymentType", "d0/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_on_account_payment_type.html", null ],
-    [ "FenixAlliance.ABM.Data.Clients.OpenCurrencyExchange.OpenExchangeRatesClient", "dc/dd9/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_clients_1_1_open_currency_exchange_1_1_open_exchange_rates_client.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.OpenIdConfiguration", "d3/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_id_configuration.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.OpenID.OpenIdConfigurationResponse", "dd/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_open_i_d_1_1_open_id_configuration_response.html", null ],
+    [ "OpenIddictEntityFrameworkCoreApplication", null, [
+      [ "FenixAlliance.ABM.Models.Global.Integrations.Applications.OAuthApplications.OAuthApplication", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html", null ]
+    ] ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.Options", "d8/d63/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_options.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.Order", "d5/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderTypes.PurchaseOrder", "de/d05/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_types_1_1_purchase_order.html", null ],
@@ -2340,30 +2531,27 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.OrderCancellationType", "d1/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_cancellation_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderChangeType", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_change_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderedShipmentType", "da/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_ordered_shipment_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Helpdesk.ReturnRequest.OrderItemReturn", "d5/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_item_return.html", null ],
+    [ "FenixAlliance.ABM.Models.Helpdesk.WarrantyRequests.OrderItemWarranty", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_item_warranty.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderLineReferenceType", "d0/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_line_reference_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderLineType", "d0/dc6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Billing.OrderMapper", "dc/d55/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_billing_1_1_order_mapper.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecords.OrderRecord", "de/de0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_records_1_1_order_record.html", [
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecords.ItemOrders.ItemOrderRecord", "d3/dbd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordd78f9fc91f9107e448f4f8d2ec251a1d.html", null ],
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecords.ServiceOrders.ServiceOrderRecord", "d6/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record5b0f88897e15860f398bd19d012fcdbe.html", null ],
-      [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecords.SubscriptionOrders.SubscriptionOrderRecord", "d5/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_recordc8a83a5ec2cf1d6bf3c7d398c4bdc5d0.html", null ]
-    ] ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRecordTaxes.ItemOrders.OrderRecordAppliedTaxPolicy", "d6/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_record7da52a946301cd5b634701c1070ede00.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderReferenceType", "de/d2a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_reference_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRelations.OrderRelation", "d7/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_relations_1_1_order_relation.html", [
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Orders.OrderRelations.Scopes.ProjectOrder", "df/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_relatibed793cba56c36aa6f5a8af17727b116.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.UBL.OrderResponseSimpleType", "d5/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_response_simple_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderResponseType", "d1/dbb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_response_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Helpdesk.ReturnRequest.OrderReturn", "df/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_order_return.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.OrderType", "d7/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_order_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Helpdesk.WarrantyRequests.OrderWarranty", "d2/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_warranty.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Metadata.Organization", "d7/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_metadata_1_1_organization.html", null ],
-    [ "FenixAlliance.ABM.Models.Tenants.BusinessStructure.Departments.OrganizationDepartment", "dc/da5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_departments_1_1_organization_department.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.OrganizationProfile", "dd/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_organization_profile.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.Package", "dd/db6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Package", "d9/dd3/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_package.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.Package", "d2/d28/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Files.PackageFile", "dc/db2/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_files_1_1_package_file.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PackageLicenseInfo", "d7/d4a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installation_1_1_package_license_info.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PackagesContentsResult", "d5/d72/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat43e7c4fcca9649d641ca40d7fd59f637.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.PackageLicenseInfo", "d9/ddc/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_packages_1_1_package_license_info.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.PackagesContentsResult", "d2/d8e/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_pa889a4cef60631fde63327061d172139d.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PackageType", "df/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_package_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.PackageType", "d9/d14/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_type.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Specifications.Metadata.PackageTypes", "df/d84/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_package_types.html", null ],
@@ -2372,21 +2560,26 @@ var hierarchy =
     [ "PageModel", null, [
       [ "FenixAlliance.ABS.Installer.Pages.ErrorModel", "de/dbd/class_fenix_alliance_1_1_a_b_s_1_1_installer_1_1_pages_1_1_error_model.html", null ]
     ] ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.PageNotification", "d7/dfd/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_page_notification.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.PageNotification", "d3/d7d/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_page_notification.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Pagination.PaginationOptions", "d7/d7d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_pagination_1_1_pagination_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.PartnerProfile", "da/d11/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_partner_profile.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Partners.PartnerProfile", "da/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_partners_1_1_partner_profile.html", null ],
-    [ "FenixAlliance.ABM.Models.Global.Partners.PartnerTiers.PartnerTier", "d4/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_tier.html", null ],
+    [ "FenixAlliance.ABM.Models.Partners.PartnerPrograms.PartnerProgram", "db/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_partner_program.html", null ],
+    [ "FenixAlliance.ABM.Models.Partners.PartnerPrograms.Registrations.PartnerProgramRegistration", "d5/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations_1_1_partner_program_registration.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Partners.PartnerTiers.PartnerProgramTier", "d4/db2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_partners_1_1_partner_tiers_1_1_partner_program_tier.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyIdentificationType", "d3/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_identification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyLegalEntityType", "d7/d16/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_legal_entity_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyNameType", "d7/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_name_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyTaxSchemeType", "d9/de3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_tax_scheme_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PartyType", "df/d30/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles.PatientProfile", "d0/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_contacts_1_1_contact_profiles_1_1_patient_profile.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.Payment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment.html", [
+      [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentScopes.WalletPayment", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes_1_1_wallet_payment.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Payment", "de/da3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.PaymentData", "db/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_payment_data.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentDeductions.PaymentDeduction", "db/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_deductions_1_1_payment_deduction.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentsEntries.PaymentEntry", "db/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payments_entries_1_1_payment_entry.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentDisputes.PaymentDispute", "d4/de6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_disputes_1_1_payment_dispute.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Integrations.PaymentGateways.PaymentGateway", "d4/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_payment_gateways_1_1_payment_gateway.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PaymentMandateType", "d8/d68/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_payment_mandate_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Billing.PaymentMapper", "dc/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_billing_1_1_payment_mapper.html", null ],
@@ -2394,8 +2587,8 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentModes.PaymentMode", "d6/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_modes_1_1_payment_mode.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Payments.PaymentOptions", "db/d32/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_payment_options.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentOrders.PaymentOrder", "dc/d77/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_orders_1_1_payment_order.html", null ],
-    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentReferences.PaymentReference", "db/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_references_1_1_payment_reference.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentRequests.PaymentRequest", "d8/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_requests_1_1_payment_request.html", null ],
+    [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentResponse", "d7/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_response.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Billing.Payments.PaymentTerms.PaymentTerm", "d3/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_terms_1_1_payment_term.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PaymentTermsType", "de/d63/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_payment_terms_type.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Wallets.PaymentTokens.PaymentToken", "dc/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_payment_tokens_1_1_payment_token.html", null ],
@@ -2420,6 +2613,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Management.Playbooks.PlaybookActivityCompletion", "da/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook_activity_completion.html", null ],
     [ "FenixAlliance.ABM.Models.Management.Playbooks.PlaybookCategory", "d8/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook_category.html", null ],
     [ "FenixAlliance.ABM.Models.Management.Playbooks.PlaybookIteration", "dc/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_management_1_1_playbooks_1_1_playbook_iteration.html", null ],
+    [ "FenixAlliance.ABP.Hub.Test.PluginTests", "dd/d37/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_test_1_1_plugin_tests.html", null ],
     [ "FenixAlliance.ABM.Models.Selling.POS.PointOfSale", "da/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_p_o_s_1_1_point_of_sale.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Policies.Policy", "d3/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_policies_1_1_policy.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Policies.Policy", "d5/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_policies_1_1_policy.html", [
@@ -2433,14 +2627,10 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Selling.SellingMargins.ItemSellingMarginPolicy", "d7/d13/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Analytics.Polls.Poll", "de/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_polls_1_1_poll.html", null ],
-    [ "FenixAlliance.ABS.Core.Contexts.PortalContext", "d8/d33/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_portal_context.html", [
-      [ "FenixAlliance.ABS.Core.Contexts.StudioContext", "df/d76/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_studio_context.html", [
-        [ "FenixAlliance.ABS.Core.Contexts.BuilderContext", "da/d89/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_contexts_1_1_builder_context.html", null ]
-      ] ]
-    ] ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.PortalOptions", "da/dee/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portal_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Portfolio.PortfolioOptions", "da/d47/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_portfolio_1_1_portfolio_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PowerOfAttorneyType", "db/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_power_of_attorney_type.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Core.PackageInstallation.PreparePackageInstallationResult", "d5/d59/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_core_1_1_package_installat854752791f9cb9929706e973fa849bad.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Packages.PreparePackageInstallationResult", "d5/d89/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_paafc20fd527588a36033c4de943472fd1.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Prices.PriceCalculationOptions", "d7/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_prices_1_1_price_calculation_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PriceExtensionType", "dc/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_price_extension_type.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Pricing.PriceLists.PriceList", "df/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_pricing_1_1_price_lists_1_1_price_list.html", [
@@ -2457,10 +2647,8 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.PriceType", "d7/d57/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_price_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.PricingReferenceType", "da/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_pricing_reference_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Selling.PricingRule", "de/d49/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_pricing_rule.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.PricingRuleListRecord", "d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule_list_record.html", [
-      [ "FenixAlliance.ABM.Models.Logistics.Pricing.ItemPriceRules.ItemPricingRuleRecord", "d5/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_item_pricing_rule_record.html", null ]
-    ] ],
     [ "FenixAlliance.ABM.Models.UBL.PriorInformationNoticeType", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Priorities.Priority", "d1/d89/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_priorities_1_1_priority.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Privacy.PrivacyOptions", "db/de7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_privacy_1_1_privacy_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.PrivateMessage", "d3/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_private_message.html", null ],
     [ "FenixAlliance.ABM.Models.Social.PrivateMessages.PrivateMessage", "da/d97/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_private_messages_1_1_private_message.html", null ],
@@ -2468,7 +2656,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ProcessJustificationType", "d0/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_process_justification_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ProcurementProjectLotType", "d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_procurement_project_lot_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ProcurementProjectType", "da/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_procurement_project_type.html", null ],
-    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product", "dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.Product", "dd/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product.html", [
+      [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.MinimalAPIProduct", "d4/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_minimal_a_p_i_product.html", [
+        [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.APIProduct", "db/d1c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_a_p_i_product.html", null ]
+      ] ]
+    ] ],
     [ "FenixAlliance.ABM.Models.UBL.ProductActivityType", "d5/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_product_activity_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductAttribute", "d0/d10/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_attribute.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductBrand", "d6/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_brand.html", null ],
@@ -2480,8 +2672,10 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductGTaxonomy", "de/d0b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_g_taxonomy.html", null ],
     [ "FenixAlliance.ABM.Models.Manufacturing.ProductionPlans.ProductionPlan", "dc/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_production_plans_1_1_production_plan.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Products.ProductOptions", "db/df8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_products_1_1_product_options.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductQuestion", "d8/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_question.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductReview", "dc/d2f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_review.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.ProductSearchRequest", "df/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_product_search_request.html", null ],
+    [ "FenixAlliance.ABP.BotEngine.Core.State.Store.ProductState", "d7/da1/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_core_1_1_state_1_1_store_1_1_product_state.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductTag", "d0/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_tag.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.ProductToWishListRequest", "d4/dfc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_product_to_wish_list_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.ProductType", "df/dc5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_product_type.html", null ],
@@ -2492,7 +2686,6 @@ var hierarchy =
     [ "FenixAlliance.ABP.BotEngine.Web.Program", "de/de3/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_web_1_1_program.html", null ],
     [ "FenixAlliance.ABP.HealthChecks.Web.Program", "d9/d24/class_fenix_alliance_1_1_a_b_p_1_1_health_checks_1_1_web_1_1_program.html", null ],
     [ "FenixAlliance.ABP.Web.Program", "d6/d85/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_program.html", null ],
-    [ "FenixAlliance.ABS.Portal.Program", "d3/db0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_program.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Projects.Project", "d8/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_projects_1_1_project.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Project", "d8/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_project.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Billing.ProjectBacklog", "d8/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_billing_1_1_project_backlog.html", [
@@ -2521,7 +2714,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Projects.Requeriments.Statuses.ProjectBookingStatus", "db/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_requeriments_1_1_statuses_1_1_project_booking_status.html", null ],
       [ "FenixAlliance.ABM.Models.Projects.Statuses.ProjectRequirementStatus", "d3/da4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_statuses_1_1_project_requirement_status.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Projects.ProjectTasks.ProjectTask", "dd/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_project_tasks_1_1_project_task.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Assignments.ProjectTaskAssignments", "de/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_assignments_1_1_project_task_assignments.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.TaskBuckets.ProjectTaskBucket", "dd/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_task_buckets_1_1_project_task_bucket.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.TaskBuckets.ProjectTaskBucketRecord", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_task_buckets_1_1_project_task_bucket_record.html", null ],
@@ -2618,6 +2810,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Social.Question", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_social_1_1_question.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Products.QuestionResponse", "d6/d7d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_products_1_1_question_response.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.QuotationLineType", "d0/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.QuotationType", "da/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_quotation_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Selling.Quote", "da/d0a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_selling_1_1_quote.html", null ],
@@ -2626,7 +2819,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Projects.Quotes.ProjectQuote", "d6/dc3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_quotes_1_1_project_quote.html", null ],
       [ "FenixAlliance.ABM.Models.Selling.SalesQuotes.SalesQuote", "d2/d4b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_sales_quotes_1_1_sales_quote.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Selling.Quotes.QuoteRecords.QuoteItemRecord", "da/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_records_1_1_quote_item_record.html", null ],
     [ "FenixAlliance.ABM.Models.Selling.Quotes.QuoteRequests.QuoteRequest", "d1/dcf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_quotes_1_1_quote_requests_1_1_quote_request.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RailTransportType", "de/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_rail_transport_type.html", null ],
     [ "FenixAlliance.ABM.Data.Seeding.Models.RawIndustryModel", "d2/d41/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_models_1_1_raw_industry_model.html", null ],
@@ -2634,11 +2826,11 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Receipts.ReceiptTypes.PurchaseReceipt", "dc/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_purchase_receipt.html", null ],
       [ "FenixAlliance.ABM.Models.Accounting.Billing.Receipts.ReceiptTypes.SalesReceipt", "d6/d17/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_receipts_1_1_receipt_types_1_1_sales_receipt.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Receipt", "da/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_receipt.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Receipts.Receipt", "d8/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_receipts_1_1_receipt.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReceiptAdviceType", "d6/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_receipt_advice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReceiptLineType", "d2/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_receipt_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Receipts.ReceiptMapper", "d5/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_receipts_1_1_receipt_mapper.html", null ],
-    [ "FenixAlliance.ICX.Core.Models.RecommendationObjectsRequestResponse", "dc/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_models_1_1_recommendation_objects_request_response.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Recomendations.RecommendationOptions", "d3/d0e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_recomendations_1_1_recommendation_options.html", null ],
     [ "FenixAlliance.ABP.Hub.Plugins.Reference", "d0/de8/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_reference.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReferenceInfoType", "dc/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reference_info_type.html", null ],
@@ -2652,6 +2844,8 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.RegulationType", "d3/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_regulation_type.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Others.RelatedContent.RelatedContentOptions", "d4/d8c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_others_1_1_r879ef68174e35c15ef3336132510c7e3.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RelatedItemType", "de/da7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_related_item_type.html", null ],
+    [ "FenixAlliance.ABM.Models.ML.ProductRecommender.RelatedProduct", "d0/d9b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product.html", null ],
+    [ "FenixAlliance.ABM.Models.ML.ProductRecommender.RelatedProductPrediction", "d9/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_m_l_1_1_product_recommender_1_1_related_product_prediction.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReminderLineType", "df/d0e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reminder_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ReminderType", "d8/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_reminder_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.RemittanceAdviceLineType", "db/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_remittance_advice_line_type.html", null ],
@@ -2687,12 +2881,11 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.RetrievalMethodType", "d5/d93/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_retrieval_method_type.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Reviews.Review", "dd/d09/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review.html", [
       [ "FenixAlliance.ABM.Models.Procurement.SupplierReviews.SupplierReview", "d2/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_reviews_1_1_supplier_review.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceReviews.ServiceReview", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_reviews_1_1_service_review.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.BlogPostReview", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_blog_post_review.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.BusinessReview", "d5/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_business_review.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.ContactReview", "d5/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_contact_review.html", null ],
       [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.ItemReview", "d8/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_item_review.html", null ],
-      [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.ServiceReview", "d0/daa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_service_review.html", null ],
+      [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.SocialGroupReview", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Training.TrainingProgramReviews.TrainingProgramReview", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_training_1_1_training_program_reviews_1_1_training_program_review.html", null ]
     ] ],
     [ "FenixAlliance.ACL.Configuration.Interfaces.ICX.Reviews.ReviewsOptions", "d3/d62/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_c_x_1_1_reviews_1_1_reviews_options.html", null ],
@@ -2711,7 +2904,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.SalaryDeductions.SalaryDeduction", "d6/d02/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary_deductions_1_1_salary_deduction.html", null ],
     [ "FenixAlliance.ABM.Models.Workforce.Salaries.SalaryEarnings.SalaryEarning", "d9/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_salaries_1_1_salary_earnings_1_1_salary_earning.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SalesItemType", "d3/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_sales_item_type.html", null ],
-    [ "FenixAlliance.ABM.Models.Sales.Leads.SalesLead", "da/d6f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_leads_1_1_sales_lead.html", null ],
     [ "FenixAlliance.ABM.Models.Sales.Literature.SalesLiterature", "da/dac/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_sales_literature.html", null ],
     [ "FenixAlliance.ABM.Models.Sales.Literature.Records.SalesLiteratureRecord", "df/d45/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_records_1_1_sales_literature_record.html", [
       [ "FenixAlliance.ABM.Models.Sales.Literature.SalesLiteratureItemRecord", "db/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sales_1_1_literature_1_1_sales_literature_item_record.html", null ]
@@ -2726,11 +2918,14 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Global.Schedules.Schedule", "d1/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule.html", [
       [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.AssetSchedule", "d7/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_asset_schedule.html", null ],
       [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.ContactSchedule", "de/df1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_contact_schedule.html", null ],
-      [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.ServiceSchedule", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule.html", null ]
+      [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.ProjectSchedule", "da/da9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_project_schedule.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.ServiceSchedule", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_service_schedule.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleScopes.SocialProfileSchedule", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleMeetings.ScheduleMeetingAtendee", "d8/d79/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting_atendee.html", null ],
     [ "FenixAlliance.ABM.Models.Projects.Scheduling.SchedulingParameters", "dd/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_scheduling_1_1_scheduling_parameters.html", null ],
     [ "GraphQL.Types.Schema", null, [
-      [ "FenixAlliance.ABP.API.GraphQl.Core.Schema.GraphQlSchema", "dc/d50/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_graph_ql_schema.html", null ]
+      [ "FenixAlliance.ABP.API.GraphQl.Core.Schema.ApiBaseResponseQueryGraphQlSchema", "d3/d68/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_schema_1_1_api_base_response_query_graph_ql_schema.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Data.Manager.SchemaManager", "df/daf/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_manager_1_1_schema_manager.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Search.SearchOptions", "d7/dba/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_search_1_1_search_options.html", null ],
@@ -2741,7 +2936,6 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRoleGrants.BusinessSecurityRoleGrantScopes.BusinessApplicationSecurityRoleGrant", "de/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_3b204fe178bb4fddf552ebaec9404d90.html", null ],
       [ "FenixAlliance.ABM.Models.Security.BusinessSecurityRoles.BusinessSecurityRoleGrants.BusinessSecurityRoleGrantScopes.BusinessProfileSecurityRoleGrant", "da/df8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_8fc2ceca426d49c812ce648cf1c07c1f.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Data.Seeding.Static.Technologies.SeedTechnologies", "d5/dd2/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_seeding_1_1_static_1_1_technologies_1_1_seed_technologies.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SelfBilledCreditNoteType", "d9/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_self_billed_credit_note_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SelfBilledInvoiceType", "d6/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_self_billed_invoice_type.html", null ],
     [ "FenixAlliance.ABM.Models.Content.SEO.SEOKeyWord", "df/de1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_s_e_o_1_1_s_e_o_key_word.html", null ],
@@ -2752,26 +2946,21 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.SeoOptions", "d1/d66/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_seo_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Services.Service", "d6/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_services_1_1_service.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.CartRecords.ServiceCartRecord", "d5/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart28384e24a9a50fe2480d37e1233ecc0e.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceCases.ServiceCase", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceCaseSubjects.ServiceCaseSubject", "d1/d20/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_subject.html", null ],
-    [ "FenixAlliance.ABM.Models.UBL.ServiceFrequencyType", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_frequency_type.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceFulfillmentPreferences.ServiceFulfillmentPreference", "d9/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fulfillment_preferences_1_1_service_fulfillment_preference.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentType", "de/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_incident_type.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentTypeRecords.ServiceIncidentTypeRecord", "d0/d1e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inf51f656b6a68fb24718f80871cccee71.html", [
-      [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentTypeRecords.ServiceIncidentTypeCharacteristics.ServiceIncidentTypeCharacteristic", "df/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in6a274cecde4d877d3b36b3a0e4c520ae.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentTypeRecords.ServiceIncidentTypeRecordScopes.IncidentTypeItemRecord", "db/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in1c37e97e6f50f5bfb1f15acfd25caa4e.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentTypeRecords.ServiceIncidentTypeRecordScopes.IncidentTypeServiceRecord", "d7/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_inab8ed1c04b4f3550b5b48106ddbdd076.html", null ],
-      [ "FenixAlliance.ABM.Models.Services.ServiceIncidentTypes.ServiceIncidentTypeRecords.ServiceIncidentTypeRecordScopes.IncidentTypeSubscriptionRecord", "da/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_incident_types_1_1_service_in77827f012fa54dba82b534c101d451ea.html", null ]
+    [ "FenixAlliance.ABM.Models.Services.ServiceCases.ServiceCase", "d5/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_cases_1_1_service_case.html", [
+      [ "FenixAlliance.ABM.Models.Manufacturing.WorkOrders.WorkOrder", "db/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_work_orders_1_1_work_order.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceLevels.ServiceLevel", "da/dfa/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_levels_1_1_service_level.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceLevelAgreements.ServiceLevelAgreement", "d9/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_level_agreements_1_1_service_level_agreement.html", null ],
+    [ "FenixAlliance.ABM.Models.Services.ServiceCaseSubjects.ServiceCaseType", "df/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_case_subjects_1_1_service_case_type.html", null ],
+    [ "FenixAlliance.ABM.Models.UBL.ServiceFrequencyType", "d9/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_frequency_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Services.ServiceFullfillments.ServiceFulfillment", "d1/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment.html", null ],
+    [ "FenixAlliance.ABM.Models.Services.ServiceFullfillments.ServiceFulfillmentPreferences", "df/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_fullfillments_1_1_service_fulfillment_preferences.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Services.ServiceMapper", "dd/d8c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_services_1_1_service_mapper.html", null ],
+    [ "FenixAlliance.ABM.Models.Services.ServicePersonnel.ServicePersonnelRecord", "dc/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_personnel_1_1_service_personnel_record.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ServiceProviderPartyType", "de/dde/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_service_provider_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceQueues.ServiceQueue", "de/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue.html", null ],
     [ "FenixAlliance.ABM.Models.Services.ServiceQueues.ServiceQueueRecords.ServiceQueueRecord", "d6/d9f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_queues_1_1_service_queue_records_1_1_service_queue_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Services.ServiceResourceRequirements.ServiceResourceRequirement", "d9/d47/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_resource_requirements_1_1_service_resource_requirement.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Services.ServicesOptions", "db/de1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_services_1_1_services_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.ServiceToWishListRequest", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_service_to_wish_list_request.html", null ],
+    [ "FenixAlliance.ABP.API.GraphQl.Core.Mutations.Session", "d7/dd5/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_mutations_1_1_session.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.SetPasswordViewModel", "d4/d76/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_set_password_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Accounting.Shares.ShareClasses.ShareClass", "d6/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_classes_1_1_share_class.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Shares.ShareClasses.ShareClass", "d9/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_shares_1_1_share_classes_1_1_share_class.html", null ],
@@ -2784,9 +2973,7 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Accounting.Shares.ShareTransferReasons.ShareTransferReason", "d6/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_shares_1_1_share_transfer_reasons_1_1_share_transfer_reason.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Workforce.Shifts.Shifts", "d2/d27/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_workforce_1_1_shifts_1_1_shifts.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping.Shipment", "d5/d3b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping_1_1_shipment.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.Shipments.Shipment", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment.html", [
-      [ "FenixAlliance.ABM.Models.Logistics.Shipping.Shipments.ItemOrderShipment", "d0/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_item_order_shipment.html", null ]
-    ] ],
+    [ "FenixAlliance.ABM.Models.Logistics.Shipping.Shipments.Shipment", "db/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipments_1_1_shipment.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping.ShipmentEstimate", "d8/d25/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_shipping_1_1_shipment_estimate.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Shipments.ShipmentMapper", "dc/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_shipments_1_1_shipment_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ShipmentStageType", "d9/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_shipment_stage_type.html", null ],
@@ -2795,14 +2982,19 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingCouriers.ShippingCourier", "d7/db5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_shipping_courier.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.ShippingEstimateRequest", "d8/df9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_shipping_estimate_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Responses.Store.ShippingEstimatesResponse", "db/d8b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_responses_1_1_store_1_1_shipping_estimates_response.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingLabels.ShippingLabel", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels_1_1_shipping_label.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingMethods.ShippingMethod", "da/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingMethods.ShippingMethodClassRecord", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingMethods.ShippingMethodZoneRecord", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Shipping.ShippingOptions", "d6/d7c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_shipping_1_1_shipping_options.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingPackages.ShippingPackage", "d9/dcd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_packages_1_1_shipping_package.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Shipping.Records.ShippingRecord", "d6/d0f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_records_1_1_shipping_record.html", [
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.Policies.ItemShippingPolicyRecord", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingCouriers.CourrierItemShippingPolicyRecord", "db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingMethods.ShippingMethodClassRecord", "dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingMethods.ShippingMethodZoneRecord", "df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingRegions.ShippingRegionCountryRecord", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_country_record.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingRegions.ShippingRegionZoneRecord", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingRegions.ShippingRegion", "d3/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingRegions.ShippingRegionCountryRecord", "d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_country_record.html", null ],
-    [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingRegions.ShippingRegionZoneRecord", "d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record.html", null ],
     [ "FenixAlliance.ABM.Models.Logistics.Shipping.ShippingZones.ShippingZone", "d7/dcc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_zones_1_1_shipping_zone.html", null ],
     [ "FenixAlliance.APS.Core.ViewModels.ManageViewModels.ShowRecoveryCodesViewModel", "d1/da2/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_view_models_1_1_manage_view_models_1_1_show_recovery_codes_view_model.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Sidebars.SidebarOptions", "da/d1d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_sidebars_1_1_sidebar_options.html", null ],
@@ -2826,13 +3018,17 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.SignedSignaturePropertiesType", "da/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signed_signature_properties_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SignerRoleType", "d2/d6b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_signer_role_type.html", null ],
     [ "FenixAlliance.ABM.Models.Signator.Certificates.SigningCertificate", "d6/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_signator_1_1_certificates_1_1_signing_certificate.html", null ],
+    [ "FenixAlliance.APS.Core.Controllers.Auth.SigninModel", "dd/d30/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_controllers_1_1_auth_1_1_signin_model.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.SizeResponseModel", "d1/db7/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_size_response_model.html", null ],
+    [ "FenixAlliance.ABM.Models.Social.Curriculums.CurriculumSkills.Skill", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_skills_1_1_skill.html", [
+      [ "FenixAlliance.ABM.Models.Projects.Skills.ProjectResourceSkill", "d4/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_skills_1_1_project_resource_skill.html", null ]
+    ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Workforce.Skills.SkillMapper", "d9/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_skills_1_1_skill_mapper.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Sliders.SliderOptions", "da/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_sliders_1_1_slider_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Slideshows.SlideshowOptions", "d8/d68/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_slideshows_1_1_slideshow_options.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SlidingBar.SlidingBarOptions", "d9/d79/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_sliding_bar_1_1_sliding_bar_options.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.SnippetResponse", "df/d53/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippet_response.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.SnippetsOptions", "d1/d3e/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_snippets_options.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.SnippetResponse", "d7/d77/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippet_response.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.SnippetsOptions", "dd/d74/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_snippets_options.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Badges.SocialBadge", "de/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_badges_1_1_social_badge.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Badges.SocialBadgeRecord", "de/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_badges_1_1_social_badge_record.html", null ],
     [ "FenixAlliance.ABM.Models.Social.Comments.SocialComment", "d9/d5f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_comments_1_1_social_comment.html", [
@@ -2845,7 +3041,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Social.Groups.SocialGroupRecords.SocialGroupRecord", "df/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_records_1_1_social_group_record.html", [
       [ "FenixAlliance.ABM.Models.Social.Groups.SocialGroupEnrollmentRecord", "d3/d46/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_groups_1_1_social_group_enrollment_record.html", null ]
     ] ],
-    [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.SocialGroupReview", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SocialMedia.SocialMediaOptions", "d8/db2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_social_media_1_1_social_media_options.html", null ],
     [ "FenixAlliance.ABM.Models.Marketing.SocialPosts.SocialMediaPost", "db/dcb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_social_posts_1_1_social_media_post.html", null ],
     [ "FenixAlliance.ABM.Models.Social.SocialPosts.SocialPost", "dd/da2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_posts_1_1_social_post.html", [
@@ -2876,35 +3071,40 @@ var hierarchy =
     [ "FenixAlliance.ABP.BotEngine.Web.Startup", "d3/d60/class_fenix_alliance_1_1_a_b_p_1_1_bot_engine_1_1_web_1_1_startup.html", null ],
     [ "FenixAlliance.ABP.HealthChecks.Web.Startup", "d9/d9e/class_fenix_alliance_1_1_a_b_p_1_1_health_checks_1_1_web_1_1_startup.html", null ],
     [ "FenixAlliance.ABP.Web.Startup", "db/db2/class_fenix_alliance_1_1_a_b_p_1_1_web_1_1_startup.html", null ],
-    [ "FenixAlliance.ABS.Portal.Startup", "d4/dff/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_startup.html", null ],
-    [ "FenixAlliance.ABS.Studio.Web.Startup", "d3/d2f/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_web_1_1_startup.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Global.Startups.StartupProfile", "d8/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_startups_1_1_startup_profile.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatementLineType", "d1/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatementType", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_statement_type.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.StaticAsset", "dc/d0a/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_asset.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Blazor.Client.Models.StaticAssets", "dd/d69/class_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_blazor_1_1_client_1_1_models_1_1_static_assets.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.StaticAsset", "dd/d5c/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_asset.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Blazor.Models.StaticAssets", "de/d33/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_models_1_1_static_assets.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StatusType", "d6/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_status_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StockAvailabilityReportLineType", "d9/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stock_availability_report_line_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StockAvailabilityReportType", "d4/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stock_availability_report_type.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemShipsToData", "d2/d08/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_data.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemShipsToRule", "d4/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_ships_to_rule.html", null ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemVariation", "d8/d12/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variation.html", [
+      [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemColorVariation", "d7/d78/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_color_variation.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemMaterialVariation", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html", null ],
+      [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemSizeVariation", "da/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_size_variation.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Logistics.Stock.Item.StockItemVariationsData", "d7/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_variations_data.html", null ],
     [ "FenixAlliance.ABM.Models.Stores.Store", "d5/dea/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.IdentityAndPrivacy.StoreDataRetentionPolicy", "d9/d96/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_identity_and_privacy_1_1_store_data_retention_policy.html", null ],
     [ "FenixAlliance.ABM.Models.Stores.StoreProductStockAvailability", "d7/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_stores_1_1_store_product_stock_availability.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.StowageType", "d0/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_stowage_type.html", null ],
     [ "FenixAlliance.ABM.SDK.Helpers.StringHelpers", "da/d08/class_fenix_alliance_1_1_a_b_m_1_1_s_d_k_1_1_helpers_1_1_string_helpers.html", null ],
+    [ "FenixAlliance.ABS.Portal.UI.Models.StructuredData", "d9/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_models_1_1_structured_data.html", null ],
+    [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Branding.StudioOptions", "d9/d29/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_branding_1_1_studio_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SubcontractTermsType", "dc/d2c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subcontract_terms_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SubscriberConsumptionType", "df/d6c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_subscriber_consumption_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Subscriptions.Subscription", "dd/ddb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription.html", null ],
-    [ "FenixAlliance.ABM.Models.Subscriptions.Subscription", "d9/d99/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_subscriptions_1_1_subscription.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Subscriptions.SubscriptionMapper", "de/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_subscriptions_1_1_subscription_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Subscriptions.SubscriptionPlan", "dd/d42/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_subscriptions_1_1_subscription_plan.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.CartRecords.SubscriptionPlanCartRecord", "db/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_store_1_1_carts_1_1_cart5ec82556478699bc43ba3efbe72557c5.html", null ],
-    [ "FenixAlliance.ABM.Models.Social.Reviews.ReviewScopes.SubscriptionPlanReview", "dd/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_subscription_plan_review.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Subscriptions.SubscriptionsOptions", "d8/dd2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_subscriptions_1_1_subscriptions_options.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists.SubscriptionToWishListRequest", "d3/db7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_requests_1_1_store_1_1_wish_lists_1_1_s4f4441672e4988d57e9262bcb8caa103.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.SuiteOption", "d1/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_suite_option.html", [
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleMerchantCenterIntegrationOptions", "d0/d30/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_gb09055f3e81044ac547f4745741f3a52.html", null ],
       [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.Google.MyBusiness.GoogleTagManagerIntegrationOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_g1bcbe9a8e97387e7a20a048c9d86db5a.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Interfaces.ABP.Integrations.ZiftAnalytics.ZiftAnalyticsOptions", "d9/d63/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_integrations_1_1_za2396ef81510a87564988129c17492b9.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABM.AllianceBusinessModelOptions", "df/dbc/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_m_1_1_alliance_business_model_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABM.AllianceBusinessModelProvider", "d6/db9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_m_1_1_alliance_business_model_provider.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.ApisOptions", "d4/de8/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_apis_options.html", null ],
@@ -2918,6 +3118,7 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerOptions", "dd/ddd/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.APIS.REST.Swagger.SwaggerSpec", "de/d86/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_spec.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.AllianceBusinessPlatformOptions", "da/dd1/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_alliance_business_platform_options.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.BlockChains.BlockChainsOptions", "d2/d4a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_block_chains_1_1_block_chains_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Caching.CachingOptions", "d2/d09/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_caching_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Caching.DistributedCache", "d6/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_cache.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Caching.DistributedMemoryCache", "da/d65/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_caching_1_1_distributed_memory_cache.html", null ],
@@ -2931,6 +3132,7 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Cookies.CookiesOptions", "d3/da7/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_cookies_1_1_cookies_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.DevMode.DevMode", "dc/d33/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_dev_mode.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.DevMode.ExceptionHandlerOptions", "d6/d13/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_dev_mode_1_1_exception_handler_options.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.GC.GarbageCollection", "d9/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.CORS.CorsOptions", "d6/dec/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.CORS.CorsPolicy", "d1/d7a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_c_o_r_s_1_1_cors_policy.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.HTTP.HSTS.HstsOptions", "de/d53/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_h_s_t_s_1_1_hsts_options.html", null ],
@@ -2960,14 +3162,13 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.Azure.MicrosoftAzureIntegrationOptions", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.Azure.Storage.AzureStorageIntegrationOptions", "d8/d8a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_eafe239eb8a68d2b776fe9eaaa43e3a9.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.MSFT.MicrosoftIntegrationsOptions", "da/d93/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_14f2ba7f7f70bee74594aa75e3ff9bee.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.OpenExchangeRates.FreeGeoIPIntegrationOptions", "d2/dd6/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_ead7df6747fe3d535d3b0abed6c438489.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.OpenExchangeRates.OpenExchangeRatesIntegrationsOptions", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.PayPal.PayPalIntegrationsOptions", "db/d3c/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_pay_pa0627e198b4f55a6bdae43b4a67d7169f.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.Sendgrid.SendgridIntegrationsOptions", "d2/d9a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_sendgrc435020520c09943c55b78ff2296b76e.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.WordPress.WooCommerce.WooCommerceIntegrationsOptions", "d2/d08/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p7a3e36d238c01f8b46b38d0cbe753bef.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.WordPress.WordPressIntegrationsOptions", "d7/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_word_p61927c68174347608eda4243adf0b55e.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Integrations.ePayco.EPaycoIntegrationOptions", "d1/d0b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1e_payco35d866da80f053322ec091f9ca6760fb.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.LoggingOptions", "d5/d77/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_logging_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Logging.Serilog.SerilogOptions", "dc/d89/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_logging_1_1_serilog_1_1_serilog_options.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.ABP.Metrics.MetricsOptions", "d3/d64/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_metrics_1_1_metrics_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Modular.ModularOptions", "de/dab/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_modular_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Modular.ModuleData", "da/db5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_modular_1_1_module_data.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ABP.Privacy.GDPR.GdprOptions", "d5/dcd/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_privacy_1_1_g_d_p_r_1_1_gdpr_options.html", null ],
@@ -2997,11 +3198,14 @@ var hierarchy =
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.AAD.AzureAd", "d6/d19/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_1_1_azure_ad.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.AADB2C.AzureAdB2C", "d0/d84/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_a_a_d_b2_c_1_1_azure_ad_b2_c.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.CookieAuthenticationOptions", "d0/d01/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i689c1c02beb21d471b059daef27ed8b4.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.DefaultIdentity", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.OpenIdConnectOptions", "df/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_i7692b082adbc3bcdf933207d76acad05.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.DefaultIdentity.OpenIddictOptions", "d1/d6d/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_open_iddict_options.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Facebook.FacebookAuthenticationOptions", "d2/dbb/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_facebook_7114bfa5f0b7339d0625148973435831.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Google.AmazonAuthenticationOptions", "d9/d52/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_amazon_authentication_options.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Google.AutodeskAuthenticationOptions", "d9/d22/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_a9ff22f45282448bec32680d6a3b3035.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Google.GitHubAuthenticationOptions", "de/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Google.GoogleAuthenticationOptions", "dc/df2/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_1_google_authentication_options.html", null ],
-      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.IdentityServer4.IdentityServer4", "d3/d81/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_identity_server4_1_1_identity_server4.html", null ],
+      [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Google.LinkedInAuthenticationOptions", "d8/de9/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_107655cad28e87a30b2ae597d55e805e.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.MicrosoftIdentity.MicrosoftIdentityAuthenticationOptions", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.APS.Providers.Twitter.TwitterAuthenticationOptions", "dd/d5e/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_twitter_13bca9cc72c9d3be5297352439c6a813a.html", null ],
       [ "FenixAlliance.ACL.Configuration.Types.ICX.Payments.PaymentMethod", "d0/d75/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_payments_1_1_payment_method.html", [
@@ -3024,14 +3228,14 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Mappers.Procurement.SupplierMapper", "d4/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_procurement_1_1_supplier_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.SupplierPartyType", "d3/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_supplier_party_type.html", null ],
     [ "FenixAlliance.ABM.Models.Procurement.SupplierQuotes.SupplierQuoteRequest", "d9/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_procurement_1_1_supplier_quotes_1_1_supplier_quote_request.html", null ],
+    [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicketPriorities.SupportPriority", "de/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_priorities_1_1_support_priority.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportRequests.SupportRequest", "dc/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_support_request.html", [
       [ "FenixAlliance.ABM.Models.Helpdesk.RefundRequests.RefundRequest", "d9/d15/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_refund_requests_1_1_refund_request.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.ReturnRequest.ReturnRequest", "d5/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_return_request_1_1_return_request.html", null ],
       [ "FenixAlliance.ABM.Models.Helpdesk.WarrantyRequests.WarrantyRequest", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request.html", null ]
     ] ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Support.SupportTicket", "db/d76/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_support_1_1_support_ticket.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicket", "d9/de4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket.html", null ],
-    [ "FenixAlliance.ABM.Models.Mappers.Helpdesk.SupportTicketMapper", "d1/dff/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_helpdesk_1_1_support_ticket_mapper.html", null ],
-    [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicketPriorities.SupportTicketPriority", "dd/d43/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_prbc27499fb925d93f853a684ed1673588.html", null ],
     [ "FenixAlliance.ABM.Models.Helpdesk.SupportTickets.SupportTicketTypes.SupportTicketType", "d0/d82/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_tickets_1_1_support_ticket_types_1_1_support_ticket_type.html", null ],
     [ "FenixAlliance.ABM.Models.Analytics.Surveys.Survey", "de/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_analytics_1_1_surveys_1_1_survey.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Analytics.Survey", "d5/d04/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_analytics_1_1_survey.html", null ],
@@ -3039,6 +3243,23 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.DTOs.Components.Sustainability.SustainabilityProfile", "df/d4c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_sustainability_1_1_sustainability_profile.html", null ],
     [ "FenixAlliance.ABM.Models.Sustainability.SustainabilityProfile", "db/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_sustainability_1_1_sustainability_profile.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Sustainability.SustainabilityProfileMapper", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_sustainability_1_1_sustainability_profile_mapper.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.SyncronizationProduct", "da/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_product.html", null ],
+    [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.SyncronizationResult", "d2/dc4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_syncronization_result.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Tasks.Task", "d1/dd2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task.html", [
+      [ "FenixAlliance.ABM.Models.Projects.ProjectTasks.ProjectTask", "dd/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_project_tasks_1_1_project_task.html", null ],
+      [ "FenixAlliance.ABM.Models.Services.ServiceTasks.ServiceTask", "d7/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_services_1_1_service_tasks_1_1_service_task.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Global.Tasks.TaskAssignment", "d7/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_assignment.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Tasks.TaskList", "de/ddd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_list.html", [
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.AccountHolderTaskList", "d7/dd5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_account_holder_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.BusinessTenantTaskList", "d0/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_business_tenant_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.ContactTaskList", "d5/d1f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_contact_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.DealUnitTaskList", "db/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_deal_unit_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.OrderTaskList", "d6/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_order_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.ProjectTaskList", "db/d18/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_project_task_list.html", null ],
+      [ "FenixAlliance.ABM.Models.Global.Tasks.Lists.Scopes.SocialGroupTaskList", "d1/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_lists_1_1_scopes_1_1_social_group_task_list.html", null ]
+    ] ],
+    [ "FenixAlliance.ABM.Models.Global.Tasks.TaskStep", "d7/daf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_tasks_1_1_task_step.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Taxes.Tax", "df/d4d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_taxes_1_1_tax.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ICX.Taxes.TaxCalculationOptions", "d7/d8b/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_i_c_x_1_1_taxes_1_1_tax_calculation_options.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.TaxCategoryType", "de/d9c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tax_category_type.html", null ],
@@ -3308,6 +3529,7 @@ var hierarchy =
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.Theming.ThemingOptions", "d9/d91/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_theming_1_1_theming_options.html", null ],
     [ "FenixAlliance.ABP.FileSystem.Models.Commands.ThumbsResponseModel", "db/d27/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_models_1_1_commands_1_1_thumbs_response_model.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Schedules.TimeIntervals.TimeInterval", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html", [
+      [ "FenixAlliance.ABM.Models.Global.Schedules.ScheduleMeetings.ScheduleMeeting", "d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Leaves.LeaveBlockedIntervals.LeaveBlockedInterval", "d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_blocked_intervals_1_1_leave_blocked_interval.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Leaves.LeaveIntervalRequests.LeaveIntervalRequest", "df/dd4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_leaves_1_1_leave_interval_requests_1_1_leave_interval_request.html", null ],
       [ "FenixAlliance.ABM.Models.Workforce.Payroll.PayrollPeriods.PayrollPeriod", "da/d7b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_payroll_1_1_payroll_periods_1_1_payroll_period.html", null ],
@@ -3409,73 +3631,30 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ValidationDataType", "d8/dda/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_validation_data_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Auth.AAD.Value", "da/ddf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_a_a_d_1_1_value.html", null ],
     [ "FenixAlliance.ACL.Configuration.Types.ABS.Portal.SEO.Verification.VerificationOptions", "db/d28/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_s_1_1_portal_1_1_s_e_o_1_1_veebf61a08d456e3eb203e63e16013621e.html", null ],
+    [ "VerifyViewModel", "dd/dfb/class_verify_view_model.html", null ],
     [ "FenixAlliance.ABM.Models.Internals.Views.View", "da/dec/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_internals_1_1_views_1_1_view.html", null ],
-    [ "FenixAlliance.ABS.Core.Templating.Helpers.ViewBufferValue", "d3/d19/struct_fenix_alliance_1_1_a_b_s_1_1_core_1_1_templating_1_1_helpers_1_1_view_buffer_value.html", null ],
+    [ "FenixAlliance.ABM.Data.Access.Services.Templating.Razor.Helpers.ViewBufferValue", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html", null ],
     [ "ViewComponent", null, [
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AccountDropdownViewComponent", "d2/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_dropdown_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AccountHeaderViewComponent", "d0/d34/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_header_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AccountHolderCartViewComponent", "d7/da5/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_cart_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AccountHolderNotificationsViewComponent", "dc/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_holder_notifications_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AccountProgressViewComponent", "d8/d6e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_account_progress_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.AdminTopBarViewComponent", "d2/dfb/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_admin_top_bar_view_component.html", null ],
+      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.BlogInitViewComponent", "da/d2e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_blog_init_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.BusinessAccountHeaderViewComponent", "dd/dbc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_account_header_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.BusinessCartViewComponent", "d1/d66/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_cart_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.BusinessNotificationsViewComponent", "d7/d92/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_business_notifications_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ChatWindowViewComponent", "da/dd1/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_chat_window_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ContactAccountHeaderViewComponent", "d8/d4c/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_account_header_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ContactCardViewComponent", "d9/d95/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_contact_card_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.DashboardInitViewComponent", "df/db6/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_dashboard_init_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ForexRatesViewComponent", "dc/d14/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forex_rates_view_component.html", null ],
+      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ForumsInitViewComponent", "d9/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_forums_init_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.InitPortalLayoutViewComponent", "de/d8f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_init_portal_layout_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.InvoiceViewComponent", "db/d97/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_invoice_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ItemPriceViewComponent", "df/dd9/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_item_price_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.LayoutInitViewComponent", "dd/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_layout_init_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.LoginViewComponent", "d8/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_login_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.MetaTagsViewComponent", "d1/d23/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_meta_tags_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.NewsletterSubscriptionViewComponent", "db/d2a/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_newsletter_subscription_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PortalHeaderViewComponent", "dd/df0/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_header_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PortalLeftSideNavigationViewComponent", "d0/d4d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_left_side_navigation_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PortalResponsiveHeaderViewComponent", "d8/dbd/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_header_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PortalResponsiveSideNavViewComponent", "d8/d35/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_responsive_side_nav_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PortalRightSideNavigationViewComponent", "de/dc2/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_portal_right_side_navigation_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.PriceViewComponent", "d0/d49/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_price_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.SocialFollowViewComponent", "d1/d68/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_social_follow_view_component.html", null ],
       [ "FenixAlliance.ABS.Portal.UI.ViewComponents.ValidationScriptsViewComponent", "d0/d5d/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_validation_scripts_view_component.html", null ],
-      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.WebCommonsViewComponent", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.AddToCartButtonViewComponent", "d9/d1e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_cart_button_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.AddToCompareButtonViewComponent", "d0/d88/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_add_to_compare_button_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.BlogInitViewComponent", "db/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_blog_init_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.CategoriesShowcaseViewComponent", "df/d0e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_categories_showcase_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ExpressCheckoutButtonViewComponent", "db/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_express_checkout_button_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ForumsInitViewComponent", "d7/de3/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_forums_init_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.FullWidthSliderShowcaseSlideViewComponent", "d3/db4/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_s26122a629dab6fb52e512087ef85a264.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.FullWidthSliderShowcaseViewComponent", "d5/d48/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_full_width_slider_showcase_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.GetShippingEstimatesBoxViewComponent", "d3/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_get_shipping_estimates_box_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.InlineShowcaseItemViewComponent", "dd/d6f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_item_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.InlineShowcaseViewComponent", "d7/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_inline_showcase_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ItemPriceDetailViewComponent", "df/d49/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_price_detail_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ItemStarsRatingBoxViewComponent", "d9/d6c/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_item_stars_rating_box_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ItemsGridItemViewComponent", "d3/d27/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_item_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ItemsGridViewComponent", "d2/d62/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_grid_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ItemsMozaicViewComponent", "d6/da1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_items_mozaic_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.LatestsReviewsViewComponent", "d1/db5/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_latests_reviews_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.RecentlyViewedItemsViewComponent", "d4/d78/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recently_viewed_items_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.RecommendedItemsViewComponent", "d9/d89/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_recommended_items_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.ReviewStarsRatingBoxViewComponent", "dc/d18/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_review_stars_rating_box_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.SearchBoxPopUpViewComponent", "da/d2d/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_box_pop_up_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.SearchFiltersViewComponent", "df/d73/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_search_filters_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.SelectCurrencyViewComponent", "d7/deb/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_select_currency_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.SimilarItemsViewComponent", "da/d51/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_similar_items_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreCartDropdownViewComponent", "da/d7e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_cart_dropdown_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreCategoriesAcordeonViewComponent", "dc/d8e/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_acordeon_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreCategoriesNavSidebarViewComponent", "d2/da6/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_categories_nav_sidebar_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreFooterViewComponent", "d9/ddf/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_footer_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreHeaderViewComponent", "d4/d22/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_header_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreHeroViewComponent", "dd/d53/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_hero_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.StoreInitViewComponent", "d4/dac/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_store_init_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.TabsShowcaseItemViewComponent", "d2/d72/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_item_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.TabsShowcaseViewComponent", "da/d3f/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tabs_showcase_view_component.html", null ],
-      [ "FenixAlliance.ICX.Core.Areas.Store.ViewComponents.TagsCloudViewComponent", "d7/dc1/class_fenix_alliance_1_1_i_c_x_1_1_core_1_1_areas_1_1_store_1_1_view_components_1_1_tags_cloud_view_component.html", null ]
+      [ "FenixAlliance.ABS.Portal.UI.ViewComponents.WebCommonsViewComponent", "d6/dd3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_u_i_1_1_view_components_1_1_web_commons_view_component.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing.Wallet", "d6/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_accounting_1_1_billing_1_1_wallet.html", null ],
     [ "FenixAlliance.ABM.Models.Global.Wallets.WalletAccount", "d7/d52/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account.html", [
@@ -3484,6 +3663,8 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Global.Wallets.WalletAccountScopes.ContactWallet", "de/d56/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_account_scopes_1_1_contact_wallet.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Mappers.Accounting.Billing.WalletMapper", "d4/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_accounting_1_1_billing_1_1_wallet_mapper.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Wallets.WalletWithdraws.WalletWithdraw", "d3/da6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw.html", null ],
+    [ "FenixAlliance.ABM.Models.Global.Wallets.WalletWithdraws.WalletWithdrawRequest", "d1/d5e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_wallets_1_1_wallet_withdraws_1_1_wallet_withdraw_request.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Logistics.Warehousing.Warehouse", "db/d44/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_logistics_1_1_warehousing_1_1_warehouse.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Logistics.Warehouses.WarehouseMapper", "de/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_logistics_1_1_warehouses_1_1_warehouse_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.WaybillType", "d8/db6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_waybill_type.html", null ],
@@ -3506,7 +3687,7 @@ var hierarchy =
       [ "FenixAlliance.ABM.Models.Helpdesk.KnowledgeArticles.KnowledgeArticle", "d5/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_knowledge_articles_1_1_knowledge_article.html", null ],
       [ "FenixAlliance.ABM.Models.Marketing.EmailSignatures.EmailSignature", "d0/de8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_signatures_1_1_email_signature.html", null ],
       [ "FenixAlliance.ABM.Models.Marketing.EmailTemplates.EmailTemplate", "d3/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_email_templates_1_1_email_template.html", null ],
-      [ "FenixAlliance.ABM.Models.Marketing.Newsletters.Newsletter", "d9/dba/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter.html", null ]
+      [ "FenixAlliance.ABM.Models.Marketing.Newsletters.NewsletterPage", "db/d54/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_marketing_1_1_newsletters_1_1_newsletter_page.html", null ]
     ] ],
     [ "FenixAlliance.ABM.Models.Content.Forms.WebFormField", "d2/d5c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_forms_1_1_web_form_field.html", null ],
     [ "FenixAlliance.ABM.Models.Content.Forms.WebFormSubmit", "d1/d6a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_content_1_1_forms_1_1_web_form_submit.html", null ],
@@ -3536,12 +3717,12 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.Mappers.Workflows.WorkflowMapper", "d2/d55/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workflows_1_1_workflow_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.Workflows.WorkflowStage", "d7/d8a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workflows_1_1_workflow_stage.html", null ],
     [ "FenixAlliance.ABM.Models.Workflows.WorkflowState", "d9/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workflows_1_1_workflow_state.html", null ],
-    [ "FenixAlliance.ABM.Models.Manufacturing.WorkOrders.WorkOrder", "db/d92/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_work_orders_1_1_work_order.html", null ],
     [ "FenixAlliance.ABM.Models.Manufacturing.WorkOrderTypes.WorkOrderType", "d8/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_work_order_types_1_1_work_order_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.WorkPhaseReferenceType", "d8/d14/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_work_phase_reference_type.html", null ],
     [ "FenixAlliance.ABM.Models.DTOs.Components.Manufacturing.Workstation", "d2/d6d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_manufacturing_1_1_workstation.html", null ],
     [ "FenixAlliance.ABM.Models.Manufacturing.Workstations.Workstation", "db/d23/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_manufacturing_1_1_workstations_1_1_workstation.html", null ],
     [ "FenixAlliance.ABM.Models.Mappers.Manufacturing.WorkStationMapper", "de/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_manufacturing_1_1_work_station_mapper.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.X509DataType", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_data_type.html", null ],
-    [ "FenixAlliance.ABM.Models.UBL.X509IssuerSerialType", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_issuer_serial_type.html", null ]
+    [ "FenixAlliance.ABM.Models.UBL.X509IssuerSerialType", "dc/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_x509_issuer_serial_type.html", null ],
+    [ "FenixAlliance.ABP.API.GraphQl.Core.Extensions.YourCustomMiddleMiddleware", "d5/db0/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_extensions_1_1_your_custom_middle_middleware.html", null ]
 ];

@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record =
+[
+    [ "BusinessApplication", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record.html#ab34d5c66942683469887c813f539dd93", null ],
+    [ "BusinessApplicationID", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record.html#ac106d5d50d1f1c1bc78434673446fdb9", null ],
+    [ "ID", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record.html#a1f00fd4033bb928896dde8b9c7c6bfb4", null ],
+    [ "Timestamp", "d4/dbc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_business_application_query_record.html#a95f0b4f94bcc3a144867fdcbbac1bb15", null ]
+];

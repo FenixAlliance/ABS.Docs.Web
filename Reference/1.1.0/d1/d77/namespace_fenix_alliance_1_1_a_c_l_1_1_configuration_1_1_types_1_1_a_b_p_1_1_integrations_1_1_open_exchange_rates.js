@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_exchange_rates =
+[
+    [ "OpenExchangeRatesIntegrationsOptions", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d.html", "d6/dc4/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_open_eb621bfad237339f52ae31874aef5201d" ]
+];

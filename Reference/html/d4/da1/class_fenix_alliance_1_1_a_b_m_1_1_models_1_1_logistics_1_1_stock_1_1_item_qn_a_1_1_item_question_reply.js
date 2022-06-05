@@ -9,5 +9,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_q
     [ "Reply", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#a307cb3817a3bc0dedec3ce38d880ec36", null ],
     [ "SentimentScore", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#ac9b9905cc9f9fd466e90159f9de4132c", null ],
     [ "SocialProfile", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#a09807e2f04886c95b7eecaf22c9a9d2c", null ],
-    [ "SocialProfileID", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#a9e91379e1d1866337fdb8554d833978d", null ]
+    [ "SocialProfileID", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#a9e91379e1d1866337fdb8554d833978d", null ],
+    [ "Timestamp", "d4/da1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_qn_a_1_1_item_question_reply.html#aed2b68ec40e9f680ddb107cacaec43fd", null ]
 ];

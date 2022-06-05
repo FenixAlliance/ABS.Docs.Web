@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_pagination_type =
+[
+    [ "APIResponsePaginationType", "da/dd3/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_pagination_type.html#aa45efbf69ab47c0b7aacee6bcc475b92", null ]
+];

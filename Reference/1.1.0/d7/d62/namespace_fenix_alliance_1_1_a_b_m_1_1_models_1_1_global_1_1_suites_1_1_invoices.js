@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_invoices =
+[
+    [ "LicenseRenewalInvoice", "d6/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_invoices_1_1_license_renewal_invoice.html", "d6/d33/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_suites_1_1_invoices_1_1_license_renewal_invoice" ]
+];

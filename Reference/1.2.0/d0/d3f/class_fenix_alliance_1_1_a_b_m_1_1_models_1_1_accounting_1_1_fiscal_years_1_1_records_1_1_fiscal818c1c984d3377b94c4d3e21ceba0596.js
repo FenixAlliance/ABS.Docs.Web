@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal818c1c984d3377b94c4d3e21ceba0596 =
+[
+    [ "Contact", "d0/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal818c1c984d3377b94c4d3e21ceba0596.html#a696890fa295092e6bf7264098afc8424", null ],
+    [ "ContactID", "d0/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal818c1c984d3377b94c4d3e21ceba0596.html#ad05700e1f16905458405718bd65f27b1", null ]
+];

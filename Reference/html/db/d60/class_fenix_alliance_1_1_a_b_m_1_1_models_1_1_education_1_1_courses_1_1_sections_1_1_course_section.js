@@ -12,5 +12,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sect
     [ "Icon", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#a30888124d155b405dc6bf78127e2ccd3", null ],
     [ "ID", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#a48fc7ee3f5518ec18e9401898bf93d3d", null ],
     [ "Name", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#a5750daadc2dc138cf8efb3e690a07c96", null ],
-    [ "ReleaseDateTime", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#ac695efbf3c1e31eb2b9d53aaa250eaa8", null ]
+    [ "ReleaseDateTime", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#ac695efbf3c1e31eb2b9d53aaa250eaa8", null ],
+    [ "Timestamp", "db/d60/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_sections_1_1_course_section.html#a61e8f8f3eab33200219eaf9b75dbf15a", null ]
 ];

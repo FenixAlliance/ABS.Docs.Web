@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -108,6 +108,7 @@ Namespaces</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order.html">Order</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the stated intention to engage in a commercial transaction for specific products or services.  <a href="../../d5/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -117,7 +118,7 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="separator:aa4a891240729edb62149585803ac127e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae32e25d5a25eccfd96dd7f57b21d0da5"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5">OrderStatus</a> { <br />
-&#160;&#160;<a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a405eb372c95d4c344a2904b88782ec02">NewOrder</a> = 1
+&#160;&#160;<a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a03c2e7e41ffc181a4e84080b4710e81e">New</a> = 1
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a643562a9ae7099c8aabfdc93478db117">Processing</a> = 2
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a382ab522931673c11e398ead1b7b1678">Accepted</a> = 3
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a616b5940be86c327aaa5090f50c061f5">Declined</a> = 4
@@ -126,6 +127,9 @@ Enumerations</h2></td></tr>
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a67edd3b99247c9eb5884a02802a20fa7">Delivered</a> = 6
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5ab0c20989fc4692ffdcb556dde07c855d">OnHold</a> = 7
 , <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5ad7c8c85bf79bbe1b7188497c32c3b0ca">Failed</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5a2a6de846fd07e369786e3f5b41e20455">Fulfilled</a> = 9
+, <a class="el" href="../../df/d22/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders.html#ae32e25d5a25eccfd96dd7f57b21d0da5aa149e85a44aeec9140e92733d9ed694e">Cancelled</a> = 10
 <br />
  }</td></tr>
 <tr class="separator:ae32e25d5a25eccfd96dd7f57b21d0da5"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -151,7 +155,7 @@ Enumerations</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a405eb372c95d4c344a2904b88782ec02"></a>NewOrder&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a03c2e7e41ffc181a4e84080b4710e81e"></a>New&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a643562a9ae7099c8aabfdc93478db117"></a>Processing&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a382ab522931673c11e398ead1b7b1678"></a>Accepted&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a616b5940be86c327aaa5090f50c061f5"></a>Declined&#160;</td><td class="fielddoc"></td></tr>
@@ -159,6 +163,8 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a67edd3b99247c9eb5884a02802a20fa7"></a>Delivered&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5ab0c20989fc4692ffdcb556dde07c855d"></a>OnHold&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5ad7c8c85bf79bbe1b7188497c32c3b0ca"></a>Failed&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5a2a6de846fd07e369786e3f5b41e20455"></a>Fulfilled&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae32e25d5a25eccfd96dd7f57b21d0da5aa149e85a44aeec9140e92733d9ed694e"></a>Cancelled&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>

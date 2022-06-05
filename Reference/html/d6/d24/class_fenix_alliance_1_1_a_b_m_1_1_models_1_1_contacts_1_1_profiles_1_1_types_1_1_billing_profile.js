@@ -2,6 +2,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_type
 [
     [ "Accounts", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a19e8eb919f1faad251aa5d8de6f9373c", null ],
     [ "Address", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a8eef8eb59162de576d8d84dbb6a2384a", null ],
+    [ "Address1", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a2c9321b7808ec075f08696c63f5c9843", null ],
+    [ "Address2", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#abd986a633d2644b711413e8805bca3eb", null ],
     [ "BusinessName", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ae76cb51103150407c0521852178667f2", null ],
     [ "City", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a9a750774cb7333a5daa429dc3796c2d6", null ],
     [ "CityID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a8b9515ad67f2c536013a94375509d3c7", null ],
@@ -10,6 +12,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_type
     [ "CountryID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a8087a312d8f65a61c9d84504335b052b", null ],
     [ "CountryState", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a86b3469b4132ecbac45738474b96dd59", null ],
     [ "CountryStateID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ae71dfcea5b84eec1ec5b7388407a0326", null ],
+    [ "DUNS", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a5f15a40f71350d04447dcfb83750f831", null ],
     [ "Email", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a4e8c2ec39377a1863a4d6a702f627987", null ],
     [ "EmmitedInvoices", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ab00bdd6c93899262f0556c178bc60979", null ],
     [ "FiscalAuthority", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a706f7079064a000c7738547cd9141ddf", null ],
@@ -18,10 +21,13 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_type
     [ "FiscalIdentificationTypeID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ab38a488441f9245b521db9d589384ca2", null ],
     [ "FiscalRegime", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a416f2f1ed1dae45f4b73d63ad88b1b83", null ],
     [ "FiscalRegimeID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#af1e58407c402778e4463556fa0649681", null ],
-    [ "FiscalResponsabilityRecord", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a7f439a22038549187b554cd8e1c8b086", null ],
+    [ "FiscalResponsibilityRecord", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a20fe112b8dab448b973d037d05e95efe", null ],
+    [ "IsFactaCustomer", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a97dbf68aaa4808fe76da59263be1a278", null ],
+    [ "IsPublicCompany", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#adde2de259e07064fe27da5f7b170a361", null ],
     [ "Phone", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ad48cd596b97d82170a03144116d0c59e", null ],
     [ "PostalCode", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a34fc68fc9e304887350301aa54b88b35", null ],
     [ "ReceivedInvoices", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ac2f858f320c117869d52bac4c0ce6cb4", null ],
     [ "TaxID", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#ac32109eee84f84f578634dd840f0a681", null ],
-    [ "TaxPayerType", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#aa811d02154a9011889aba50745902915", null ]
+    [ "TaxPayerType", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#aa811d02154a9011889aba50745902915", null ],
+    [ "Ticker", "d6/d24/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_profiles_1_1_types_1_1_billing_profile.html#a1d5cfde1dd358f8562fb40ada0070c45", null ]
 ];

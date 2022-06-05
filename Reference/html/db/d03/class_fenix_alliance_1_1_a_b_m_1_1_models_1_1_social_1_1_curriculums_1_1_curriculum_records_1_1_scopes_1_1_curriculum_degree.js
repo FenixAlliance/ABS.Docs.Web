@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree =
+[
+    [ "AcademicInstitutionProfile", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html#a42bf47fcb049c340cd9f8f6e1ce83698", null ],
+    [ "AcademicInstitutionProfileID", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html#afe160d09d445dd74693064744be5154c", null ],
+    [ "InstitutionName", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html#af7ffaee3c366e0129d520f847771e04c", null ],
+    [ "KnowledgeField", "db/d03/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_degree.html#a1af4bcb86ce97dd06b6ecbd34b001d6e", null ]
+];

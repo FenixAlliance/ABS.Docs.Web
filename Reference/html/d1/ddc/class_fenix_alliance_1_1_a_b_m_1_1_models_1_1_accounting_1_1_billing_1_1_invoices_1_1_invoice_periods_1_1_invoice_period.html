@@ -28,7 +28,7 @@
   <td id="projectlogo"><img alt="Logo" src="../../Iso.Blue.Logo.Comb.h128.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Alliance Business Suite
-   &#160;<span id="projectnumber">1.2.0</span>
+   &#160;<span id="projectnumber">1.7.0</span>
    </div>
    <div id="projectbrief">The Alliance Business Suite is a set of intelligent, extensible, multi-tenant business applications that enable users to jumpstart your business through the acceleration of several core aspects of any given business.</div>
   </td>
@@ -97,9 +97,9 @@ $(document).ready(function(){initNavTree('d1/ddc/class_fenix_alliance_1_1_a_b_m_
 Properties</h2></td></tr>
 <tr class="memitem:a44ef22127b9432d0a9bdc23a16516ba8"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#a44ef22127b9432d0a9bdc23a16516ba8">ID</a> = Guid.NewGuid().ToString()<code> [get, set]</code></td></tr>
 <tr class="separator:a44ef22127b9432d0a9bdc23a16516ba8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad7240824a91625e7160d73b8b96cdc2e"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#ad7240824a91625e7160d73b8b96cdc2e">Start</a><code> [get, set]</code></td></tr>
+<tr class="memitem:ad7240824a91625e7160d73b8b96cdc2e"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#ad7240824a91625e7160d73b8b96cdc2e">Start</a> = DateTime.UtcNow<code> [get, set]</code></td></tr>
 <tr class="separator:ad7240824a91625e7160d73b8b96cdc2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79971bda5b8432098486a0f01fe9bae5"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#a79971bda5b8432098486a0f01fe9bae5">End</a><code> [get, set]</code></td></tr>
+<tr class="memitem:a79971bda5b8432098486a0f01fe9bae5"><td class="memItemLeft" align="right" valign="top">DateTime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#a79971bda5b8432098486a0f01fe9bae5">End</a> = DateTime.UtcNow.AddYears(1)<code> [get, set]</code></td></tr>
 <tr class="separator:a79971bda5b8432098486a0f01fe9bae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2bb86e003066783dfa6b3ebf62845bb"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_periods_1_1_invoice_period.html#aa2bb86e003066783dfa6b3ebf62845bb">BusinessID</a><code> [get, set]</code></td></tr>
 <tr class="separator:aa2bb86e003066783dfa6b3ebf62845bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -163,7 +163,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DateTime FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoicePeriods.InvoicePeriod.End</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoicePeriods.InvoicePeriod.End = DateTime.UtcNow.AddYears(1)</td>
         </tr>
       </table>
   </td>
@@ -229,7 +229,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DateTime FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoicePeriods.InvoicePeriod.Start</td>
+          <td class="memname">DateTime FenixAlliance.ABM.Models.Accounting.Billing.Invoices.InvoicePeriods.InvoicePeriod.Start = DateTime.UtcNow</td>
         </tr>
       </table>
   </td>

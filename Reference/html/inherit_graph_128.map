@@ -1,4 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d7/d9e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_relations_1_1_order_relation.html" title="Represents an order relation base class. Other classes might inherit from this class to stabish some ..." alt="" coords="5,5,211,61"/>
-<area shape="rect" id="node2" href="$df/d2d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_orders_1_1_order_relatibed793cba56c36aa6f5a8af17727b116.html" title=" " alt="" coords="259,5,464,61"/>
+<area shape="rect" id="node1" href="$db/d44/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_storage_service.html" title="This Interface is designed to transact files with the Alliance Business Platform" alt="" coords="5,39,236,80"/>
+<area shape="rect" id="node2" href="$d4/df6/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_azure_storage_service.html" title=" " alt="" coords="284,5,533,47"/>
+<area shape="rect" id="node3" href="$de/dc1/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_storage_1_1_storage_service.html" title=" " alt="" coords="301,71,517,112"/>
 </map>

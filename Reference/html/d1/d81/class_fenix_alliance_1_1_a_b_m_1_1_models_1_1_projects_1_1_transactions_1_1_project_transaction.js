@@ -1,7 +1,7 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction =
 [
     [ "AccountingDate", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a49b23798b4d149c2408114b464752ea7", null ],
-    [ "AmmountMethod", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#ab875116b3b884ae08f88816549be0fcf", null ],
+    [ "AmountMethod", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a395a645bf198acad57a8d97bf72a1df0", null ],
     [ "BillingType", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a800145f2c3cc1b177b8976a22b77f79d", null ],
     [ "Business", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a1be4a04e107372b8510bcd677de9fe6c", null ],
     [ "BusinessID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a349c213205464645796934b12f4041cb", null ],

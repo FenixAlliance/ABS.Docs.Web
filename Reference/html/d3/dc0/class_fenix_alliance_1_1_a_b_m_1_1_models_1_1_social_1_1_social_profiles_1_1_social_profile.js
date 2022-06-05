@@ -2,7 +2,8 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1
 [
     [ "AgreementSignatures", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a4ff14651a818349f6d796769a88de3a0", null ],
     [ "BlockedProfiles", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a8ae8217e208963601e3808a48aa1eb5a", null ],
-    [ "Curriculum", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#ad2f20c57beb3ba8ead1c9c8140bceabd", null ],
+    [ "CurriculumRecommendations", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#acf7ebfc89b32d62e6ad6aecb1f4fdb67", null ],
+    [ "Curriculums", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a3ae9ae2bee49800c8fe7dd2444b3e9e3", null ],
     [ "Domain", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a19b130a6341edcee0982469a80b445b1", null ],
     [ "FacebookURL", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#aae450d95513df393d2392daea39667d4", null ],
     [ "FileUploads", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#ad7e4fe0e02b58a9f9f9ec2f39094df57", null ],
@@ -22,7 +23,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1
     [ "Notifications", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#aa72335a9c054d5f1a6c84f390fa0abd4", null ],
     [ "Projects", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#ac6471e218e157714d4946c0667f2655b", null ],
     [ "ProjectTasks", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#accca942f47d435d4099056a79974c4b5", null ],
-    [ "QualifiedName", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a4a244dff1ea7376a1b3170d9aed7cb00", null ],
     [ "ReceivedMessages", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#ac193952d5f7437da88cae73e2b340575", null ],
     [ "SendedMessages", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a0692f75ec0caf4b291479cb7bbfd77d0", null ],
     [ "SocialBadgeRecords", "d3/dc0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_social_profiles_1_1_social_profile.html#a461b390c55163ad5d3b049da489980c9", null ],

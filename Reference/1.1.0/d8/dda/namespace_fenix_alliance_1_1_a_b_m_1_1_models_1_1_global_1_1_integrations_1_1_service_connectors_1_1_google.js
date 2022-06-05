@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1_google =
+[
+    [ "GoogleOAuthClient", "d8/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1a00bc84fb0c96b08eb346d946d17aa37.html", "d8/db1/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_service_connectors_1_1a00bc84fb0c96b08eb346d946d17aa37" ]
+];

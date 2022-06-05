@@ -1,0 +1,14 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager =
+[
+    [ "Carts", "d8/de2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_carts.html", "d8/de2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_carts" ],
+    [ "CloudDatacenters", "da/d2d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters.html", "da/d2d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_datacenters" ],
+    [ "CloudManagedSubcriptions", "db/dfa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions.html", "db/dfa/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_managed_subcriptions" ],
+    [ "CloudRegions", "d4/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_regions.html", "d4/daf/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_regions" ],
+    [ "CloudResourceCategories", "d9/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_categories.html", "d9/db9/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_categories" ],
+    [ "CloudResourceDeployments", "d1/dde/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_deployments.html", "d1/dde/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_deployments" ],
+    [ "CloudResourceGroups", "db/db1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_groups.html", "db/db1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_groups" ],
+    [ "CloudResourceInstances", "da/de1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_instances.html", "da/de1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_instances" ],
+    [ "CloudResourcePricing", "d4/df5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing.html", "d4/df5/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resource_pricing" ],
+    [ "CloudResources", "d6/db4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources.html", "d6/db4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_resources" ],
+    [ "CloudServiceProviders", "d4/df0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_service_providers.html", "d4/df0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_cloud_1_1_manager_1_1_cloud_service_providers" ]
+];

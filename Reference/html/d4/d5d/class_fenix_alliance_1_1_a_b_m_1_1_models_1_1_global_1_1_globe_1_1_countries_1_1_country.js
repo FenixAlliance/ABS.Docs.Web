@@ -21,6 +21,7 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries
     [ "Demonym", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#a2df960bac81a9fb8e610abd0017c1ce6", null ],
     [ "Emoji", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#afcda5230dfa9ebf7c2b8074fd0ac0a98", null ],
     [ "EmojiUnicode", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#a4d5317e18bf737705ce9f800cc367dc9", null ],
+    [ "Enabled", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#af311635f730cab6d236e1a2b1538557d", null ],
     [ "FiscalAuthorities", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#ae5b309aeb8674abc829652cef6693bae", null ],
     [ "FlagUrl", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#a1b6b414130cc6cc95d742eab62e4c028", null ],
     [ "Gini", "d4/d5d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_globe_1_1_countries_1_1_country.html#ac5aff56d25a569b81a4f8da10c4024de", null ],

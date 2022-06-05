@@ -21,5 +21,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure
     [ "OrganizationProfile", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#a4bb353f1a6d57bdb1460c7b48cef6880", null ],
     [ "OrganizationProfileID", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#a2c2a41c14bce1af7362c95b331a86a01", null ],
     [ "Projects", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#a158e0b9d2242afe339faef647cc80a7c", null ],
-    [ "ServiceQueues", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#a40652cceae3d626ead91929961f25e81", null ]
+    [ "ServiceQueues", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#a40652cceae3d626ead91929961f25e81", null ],
+    [ "Timestamp", "dc/df7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_1_1_business_team.html#ab6e8e3af9a6a4251be799ec537e4ab33", null ]
 ];

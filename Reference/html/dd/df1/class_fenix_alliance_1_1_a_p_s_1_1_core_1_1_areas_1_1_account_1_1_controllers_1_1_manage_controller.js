@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller =
 [
-    [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html#acd3bd8fb88c89242b429b654355a9357", null ],
+    [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html#a9875400fa1484b5b483869d448ffe2c4", null ],
     [ "ChangePassword", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html#a480dce147b73f6065e699a2995d73d64", null ],
     [ "ChangePassword", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html#aa648460816ee3f20722ec177ec531a51", null ],
     [ "Disable2fa", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html#addaee9ca4e2316f3d411dcb9f2f7e4b1", null ],

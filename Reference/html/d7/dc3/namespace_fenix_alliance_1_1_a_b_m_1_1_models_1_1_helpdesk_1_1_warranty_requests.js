@@ -1,4 +1,6 @@
 var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests =
 [
+    [ "OrderItemWarranty", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_item_warranty.html", "dd/d32/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_item_warranty" ],
+    [ "OrderWarranty", "d2/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_warranty.html", "d2/d8d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_order_warranty" ],
     [ "WarrantyRequest", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request.html", "d4/dbf/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_warranty_requests_1_1_warranty_request" ]
 ];

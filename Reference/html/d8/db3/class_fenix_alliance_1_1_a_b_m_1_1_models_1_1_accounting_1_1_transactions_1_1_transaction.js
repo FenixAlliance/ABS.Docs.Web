@@ -1,6 +1,6 @@
 var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction =
 [
-    [ "BasisAmmount", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html#a62052ae98c3cedaf62d5bbbe629df5ca", null ],
+    [ "BasisAmount", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html#acb095b3c134786b0a0b579b525ab471c", null ],
     [ "BasisQuantity", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html#acb7389c4d2b4afb275f63a12a55edaa9", null ],
     [ "Business", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html#adc074736e492c8a58aba7b6b542eef53", null ],
     [ "BusinessID", "d8/db3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_transactions_1_1_transaction.html#adb9d2bb37a82bce598709c0fdb312e3a", null ],

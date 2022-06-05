@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment =
+[
+    [ "CurriculumRecord", "d7/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment.html#ab2f5698893bff78f4fe2da651b3972e4", null ],
+    [ "CurriculumRecordID", "d7/d00/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_curriculum_record_attachment.html#aa75ecc04ca7b11a279c90cfa296dbffd", null ]
+];

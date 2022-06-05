@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles =
+[
+    [ "BusinessSecurityRoleGrants", "d0/db4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role_grants.html", "d0/db4/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role_grants" ],
+    [ "BusinessSecurityRole", "d7/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role.html", "d7/d7c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_security_1_1_business_security_roles_1_1_business_security_role" ]
+];

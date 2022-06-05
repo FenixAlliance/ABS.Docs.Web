@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_2d20fef318353403b931d23a1017db5a =
+[
+    [ "Contact", "df/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_2d20fef318353403b931d23a1017db5a.html#a274e7208c0b1b8f3434d45ff085006c6", null ],
+    [ "ContactID", "df/d3d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_business_teams_2d20fef318353403b931d23a1017db5a.html#ad4a071cad8d2eb563954fc810e080d11", null ]
+];

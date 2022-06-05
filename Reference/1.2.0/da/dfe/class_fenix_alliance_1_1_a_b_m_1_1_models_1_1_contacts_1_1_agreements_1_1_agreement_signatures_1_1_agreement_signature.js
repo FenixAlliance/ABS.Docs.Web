@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures_1_1_agreement_signature =
+[
+    [ "AgreementRevision", "da/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures_1_1_agreement_signature.html#aa7c5521c2454121ff78027ba63ffbb84", null ],
+    [ "AgreementRevisionID", "da/dfe/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_contacts_1_1_agreements_1_1_agreement_signatures_1_1_agreement_signature.html#ab08b0f1f28d0ce6c090f94c5bbf36f60", null ]
+];

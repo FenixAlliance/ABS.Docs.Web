@@ -10,5 +10,6 @@ var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure
     [ "Name", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#aa4d8ed6d58ccd04a2824a18a0fd0cf2a", null ],
     [ "ParentTerritory", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#ad4eed6bd4b912154ad802d54764dc2cc", null ],
     [ "ParentTerritoryID", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#a4e577264e9d295860f2f80792857130b", null ],
-    [ "SubTerritories", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#ad0d0d2eb543c7a57496f3b9ab9e50ff0", null ]
+    [ "SubTerritories", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#ad0d0d2eb543c7a57496f3b9ab9e50ff0", null ],
+    [ "Timestamp", "de/da8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_tenants_1_1_business_structure_1_1_territories_1_1_territory.html#a69d83e6321ac2c5b32f94fe613144e11", null ]
 ];

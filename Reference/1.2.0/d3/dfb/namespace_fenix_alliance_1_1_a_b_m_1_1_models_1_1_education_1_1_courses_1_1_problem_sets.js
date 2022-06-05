@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_problem_sets =
+[
+    [ "CourseProblemSet", "d2/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_problem_sets_1_1_course_problem_set.html", "d2/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_problem_sets_1_1_course_problem_set" ]
+];

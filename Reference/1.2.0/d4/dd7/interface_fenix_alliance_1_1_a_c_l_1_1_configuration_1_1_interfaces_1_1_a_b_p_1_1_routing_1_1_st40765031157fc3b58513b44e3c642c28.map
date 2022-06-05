@@ -1,0 +1,6 @@
+<map id="FenixAlliance.ACL.Configuration.Interfaces.ABP.Routing.StatusCodePages.IStatusCodePagesWithRedirects" name="FenixAlliance.ACL.Configuration.Interfaces.ABP.Routing.StatusCodePages.IStatusCodePagesWithRedirects">
+<area shape="rect" id="node1" title="Specifies that responses should be handled by redirecting with the given location URL template." alt="" coords="148,5,420,61"/>
+<area shape="rect" id="node3" href="$d3/d18/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_status_code495c8ebf4912fed2053e974e57c9a8a0.html" title=" " alt="" coords="468,5,719,61"/>
+<area shape="rect" id="node2" href="$dd/d1c/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_option.html" title=" " alt="" coords="5,20,100,47"/>
+<area shape="rect" id="node4" href="$d4/d6f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_status_code8cf142adce442d43a086e0c554d2920d.html" title=" " alt="" coords="767,5,1017,61"/>
+</map>

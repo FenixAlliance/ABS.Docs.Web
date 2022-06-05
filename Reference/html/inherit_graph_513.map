@@ -1,3 +1,10 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/d37/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_pick_lists_1_1_item_pick_list.html" title=" " alt="" coords="5,5,215,61"/>
+<area shape="rect" id="node1" href="$d8/d1d/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_records_1_1_generic_record.html" title=" " alt="" coords="5,213,207,254"/>
+<area shape="rect" id="node2" href="$df/d31/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_taxes_1_1_tax_records_1_1_item_tax_policy_record.html" title="Represents the relation between a Stock Item and a Tax Policy." alt="" coords="255,5,486,61"/>
+<area shape="rect" id="node3" href="$d1/d86/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_pricing_rule_list_record.html" title=" " alt="" coords="263,85,478,141"/>
+<area shape="rect" id="node5" href="$dd/dd7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_refunds_1_1_item_refund_policy_record.html" title=" " alt="" coords="261,165,481,221"/>
+<area shape="rect" id="node6" href="$d3/d72/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_warranties_1_1_item_warranty_policy_record.html" title=" " alt="" coords="267,245,475,301"/>
+<area shape="rect" id="node7" href="$dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_item_return_policy_record.html" title=" " alt="" coords="255,325,487,381"/>
+<area shape="rect" id="node8" href="$d8/d95/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_selling_1_1_selling_margins_1_1_item_selling_margin_policy_record.html" title=" " alt="" coords="261,405,480,461"/>
+<area shape="rect" id="node4" href="$d5/d61/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_pricing_1_1_item_price_rules_1_1_item_pricing_rule_record.html" title=" " alt="" coords="535,85,749,141"/>
 </map>

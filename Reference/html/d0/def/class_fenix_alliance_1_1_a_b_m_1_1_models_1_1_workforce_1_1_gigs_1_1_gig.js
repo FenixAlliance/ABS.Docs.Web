@@ -1,0 +1,28 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig =
+[
+    [ "Business", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a0e17661f8ac8661b670066a44f732773", null ],
+    [ "BusinessID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a8a57062b34ca72c10708dd6fba96b2c6", null ],
+    [ "BusinessProfileRecord", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ac01b4e077b6688b9980374df138102df", null ],
+    [ "BusinessProfileRecordID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a033e293c44c5b759205cad0b51af8daa", null ],
+    [ "City", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a473beb196abc0ce89b6227d2e54e4ade", null ],
+    [ "CityID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ad433bcaf1dfe5d76aac6bfb9fe14e59c", null ],
+    [ "Country", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ad58da24085002003e806533b5cf2b82d", null ],
+    [ "CountryID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ab5fcd1770db3c3562e16e2309ecd5832", null ],
+    [ "CountryState", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a2ba6ecac891c189631d208e7766029d6", null ],
+    [ "CountryStateID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#aac672466afaa55556f741c182ec6f897", null ],
+    [ "Currency", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#abcc00ad174dda8f09989d5b478fdaaf5", null ],
+    [ "CurrencyID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#aca6beb2e0cfae8f4c4538580ad961050", null ],
+    [ "Description", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#afcd5e9f20a4faa03133c2aaff178212c", null ],
+    [ "EmployerProfile", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a7bc7529145fef245f9648dc480677bac", null ],
+    [ "EmployerProfileID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a565ed121b74a6f163a3ea7492a49d84f", null ],
+    [ "ExpectedDeliveryDate", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#aa51c1ff66174b39e9d96ea7272439b40", null ],
+    [ "GigApplications", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#abae4a9a9565b93f0b261a6f1158c3155", null ],
+    [ "GigBookmarks", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ad43fa696cf1254261d560caaa106c84d", null ],
+    [ "ID", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a74bda0675e0ea25a7fe9f3bbdafeb1ac", null ],
+    [ "MaxBudget", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a810fd6f0784b3069a5a802c9c4bd1d75", null ],
+    [ "MinBudget", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#af2a29e17eb564c383887569bf9e4466d", null ],
+    [ "Timestamp", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a7a4ac95bda70d1feb67670477183dd2b", null ],
+    [ "Title", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a921cbd3c0fa7bd00525567095ba5d55b", null ],
+    [ "Type", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#ae074f2f846b58069ea51b7dabafa3bf0", null ],
+    [ "ViewsCount", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_workforce_1_1_gigs_1_1_gig.html#a536fc669dd1b9788d07a3c9ea4caa904", null ]
+];
