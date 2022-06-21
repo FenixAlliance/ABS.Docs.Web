@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records =
+[
+    [ "FiscalYearRecordScopes", "db/de0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal_year_record_scopes.html", "db/de0/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal_year_record_scopes" ],
+    [ "FiscalYearRecord", "d9/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal_year_record.html", "d9/dd9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_fiscal_years_1_1_records_1_1_fiscal_year_record" ]
+];

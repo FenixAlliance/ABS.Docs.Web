@@ -1,0 +1,7 @@
+<map id="FenixAlliance.ABM.Models.Accounting.Billing.Fees.FeeScopes.AppliedFees.AppliedFee" name="FenixAlliance.ABM.Models.Accounting.Billing.Fees.FeeScopes.AppliedFees.AppliedFee">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,239,181"/>
+<area shape="rect" id="node2" href="$d0/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_148de9c7816604f3eda56f16905ed8855.html" title=" " alt="" coords="293,5,526,61"/>
+<area shape="rect" id="node3" href="$db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee.html" title=" " alt="" coords="287,85,532,141"/>
+<area shape="rect" id="node4" href="$d7/d50/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_refund_fee.html" title=" " alt="" coords="287,165,532,221"/>
+<area shape="rect" id="node5" href="$d7/d8f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_transaction_fee.html" title=" " alt="" coords="287,245,532,301"/>
+</map>

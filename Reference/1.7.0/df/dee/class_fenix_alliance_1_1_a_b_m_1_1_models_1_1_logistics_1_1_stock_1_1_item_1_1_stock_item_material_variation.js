@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation =
+[
+    [ "Material", "df/dee/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_1_1_stock_item_material_variation.html#ad8c42922808811471cecf33c7aa08de8", null ]
+];

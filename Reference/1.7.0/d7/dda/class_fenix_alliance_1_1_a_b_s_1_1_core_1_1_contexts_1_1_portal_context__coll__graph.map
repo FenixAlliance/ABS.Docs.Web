@@ -1,0 +1,9 @@
+<map id="FenixAlliance.ABS.Core.Contexts.PortalContext" name="FenixAlliance.ABS.Core.Contexts.PortalContext">
+<area shape="rect" id="node1" title="This is the Alliance Business Suite &#45; Portal Context." alt="" coords="651,49,873,90"/>
+<area shape="rect" id="node2" href="$d2/dff/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_base_service.html" title=" " alt="" coords="375,5,471,32"/>
+<area shape="rect" id="node3" href="$d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html" title=" " alt="" coords="181,32,252,59"/>
+<area shape="rect" id="node6" href="$d5/d27/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_contexts_1_1_i_portal_context.html" title=" " alt="" coords="371,56,476,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,7,114,33"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,57,132,84"/>
+<area shape="rect" id="node7" href="$d0/d7e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_components_1_1_global_1_1_currencies_1_1_currency.html" title=" " alt="" coords="301,107,545,163"/>
+</map>

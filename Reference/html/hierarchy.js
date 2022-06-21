@@ -769,7 +769,6 @@ var hierarchy =
     [ "FenixAlliance.ABM.Models.UBL.ContractNoticeType", "df/d84/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_notice_type.html", null ],
     [ "FenixAlliance.ABM.Models.UBL.ContractType", "d8/d22/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_contract_type.html", null ],
     [ "Controller", null, [
-      [ "AuthorizationController", "d6/d52/class_authorization_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.AzureBlobsController", "de/dbb/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_azure_blobs_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.FileManagerController", "d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html", null ],
       [ "FenixAlliance.ABP.FileSystem.Controllers.HolderFilesController", "db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller.html", null ],
@@ -791,10 +790,11 @@ var hierarchy =
       [ "FenixAlliance.ABS.Portal.Editor.Controllers.BuilderController", "d9/dc8/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers_1_1_builder_controller.html", null ],
       [ "FenixAlliance.ABS.Studio.Core.Controllers.StudioController", "d7/dd5/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers_1_1_studio_controller.html", null ],
       [ "FenixAlliance.APS.Core.Areas.Account.Controllers.AccountController", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html", null ],
+      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.AuthorizationController", "d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller.html", null ],
       [ "FenixAlliance.APS.Core.Areas.Account.Controllers.ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", null ],
-      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", null ],
-      [ "ResourceController", "d7/ddf/class_resource_controller.html", null ],
-      [ "UserinfoController", "dc/db6/class_userinfo_controller.html", null ]
+      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.ResourceController", "dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller.html", null ],
+      [ "FenixAlliance.APS.Core.Areas.Account.Controllers.UserinfoController", "dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller.html", null ],
+      [ "FenixAlliance.APS.Core.Areas.Businesses.Controllers.CurrentController", "dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html", null ]
     ] ],
     [ "ControllerBase", null, [
       [ "FenixAlliance.ABP.API.GraphQl.Core.Controllers.GraphQlController", "d4/def/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_controllers_1_1_graph_ql_controller.html", null ],

@@ -1,0 +1,9 @@
+<map id="FenixAlliance.ABM.Models.Logistics.Shipping.Records.ShippingRecord" name="FenixAlliance.ABM.Models.Logistics.Shipping.Records.ShippingRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="5,205,240,261"/>
+<area shape="rect" id="node2" href="$d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record.html" title=" " alt="" coords="302,5,510,61"/>
+<area shape="rect" id="node3" href="$db/dca/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_couriers_1_1_cf0198cd765dad84b641e94ffe5dfc607.html" title="This record represents the enrollment of a particular courrier to a shipping policy." alt="" coords="289,85,523,141"/>
+<area shape="rect" id="node4" href="$dc/da0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_class_record.html" title=" " alt="" coords="288,165,524,221"/>
+<area shape="rect" id="node5" href="$df/dd3/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_methods_1_1_shipping_method_zone_record.html" title=" " alt="" coords="288,245,524,301"/>
+<area shape="rect" id="node6" href="$d2/df4/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_country_record.html" title=" " alt="" coords="289,325,523,381"/>
+<area shape="rect" id="node7" href="$d5/d34/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_regions_1_1_shipping_region_zone_record.html" title=" " alt="" coords="289,405,523,461"/>
+</map>

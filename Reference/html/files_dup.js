@@ -687,7 +687,7 @@ var files_dup =
     [ "AuthenticationProvider.cs", "dc/d8d/_authentication_provider_8cs.html", "dc/d8d/_authentication_provider_8cs" ],
     [ "AuthenticationQueries.cs", "d5/db5/_authentication_queries_8cs.html", null ],
     [ "AuthorizationController.cs", "d5/dbe/_authorization_controller_8cs.html", [
-      [ "AuthorizationController", "d6/d52/class_authorization_controller.html", "d6/d52/class_authorization_controller" ]
+      [ "AuthorizationController", "d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller.html", "d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller" ]
     ] ],
     [ "AuthorizationQueries.cs", "d3/d28/_authorization_queries_8cs.html", null ],
     [ "AuthorizeViewModel.cs", "d7/dd0/_authorize_view_model_8cs.html", [
@@ -7252,7 +7252,7 @@ var files_dup =
       [ "ResolutionType", "d3/dd6/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_resolution_type.html", null ]
     ] ],
     [ "ResourceController.cs", "d2/d54/_resource_controller_8cs.html", [
-      [ "ResourceController", "d7/ddf/class_resource_controller.html", "d7/ddf/class_resource_controller" ]
+      [ "ResourceController", "dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller.html", "dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller" ]
     ] ],
     [ "Resources.Designer.cs", "d6/d0e/_resources_8_designer_8cs.html", null ],
     [ "ResponderIDType.cs", "d4/dec/_responder_i_d_type_8cs.html", [
@@ -9008,7 +9008,7 @@ var files_dup =
       [ "UserContext", "d8/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_user_context.html", "d8/d1a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_d_t_os_1_1_auth_1_1_user_context" ]
     ] ],
     [ "UserInfoController.cs", "df/d62/_user_info_controller_8cs.html", [
-      [ "UserinfoController", "dc/db6/class_userinfo_controller.html", "dc/db6/class_userinfo_controller" ]
+      [ "UserinfoController", "dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller.html", "dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller" ]
     ] ],
     [ "UtilityItemType.cs", "dd/dae/_utility_item_type_8cs.html", [
       [ "UtilityItemType", "d4/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_item_type.html", "d4/d4e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_item_type" ]

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes =
+[
+    [ "AppliedFees", "d9/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees.html", "d9/d31/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_applied_fees" ],
+    [ "WithdrawFees", "d3/d5b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_withdraw_fees.html", "d3/d5b/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_fees_1_1_fee_scopes_1_1_withdraw_fees" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee =
+[
+    [ "PaymentChargeback", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee.html#ade2c5b31188ff6e1f6c8972f6f549d9c", null ],
+    [ "PaymentChargebackID", "db/d36/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_fees_1_1_payment_chargeback_fee.html#a30999f69684ffc856cc78eec321d3da1", null ]
+];

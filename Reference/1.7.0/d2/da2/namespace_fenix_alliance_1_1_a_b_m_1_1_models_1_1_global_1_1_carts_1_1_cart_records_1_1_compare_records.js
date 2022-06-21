@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_compare_records =
+[
+    [ "ItemToCompareRecord", "dd/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_compare_records_1_1_item_to_compare_record.html", "dd/dab/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_cart_records_1_1_compare_records_1_1_item_to_compare_record" ]
+];

@@ -1,0 +1,9 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity =
+[
+    [ "AuthenticationOptions", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#a273a431a262050d6c92b1349cc374afd", null ],
+    [ "CookieAuthenticationOptions", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#a57a89bfb10052584548d41e2e29f406e", null ],
+    [ "Enable", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#af39ed7ed0fe1d514b445b87a7499b412", null ],
+    [ "IdentityOptions", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#aea4f16cddc15319720df4162e7faf24f", null ],
+    [ "OpenIdConnectOptions", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#ace022c1a3d920336371e11326313f055", null ],
+    [ "OpenIddictOptions", "da/d34/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_default_identity_1_1_default_identity.html#a040835515913999b3b742e9ae16516bd", null ]
+];

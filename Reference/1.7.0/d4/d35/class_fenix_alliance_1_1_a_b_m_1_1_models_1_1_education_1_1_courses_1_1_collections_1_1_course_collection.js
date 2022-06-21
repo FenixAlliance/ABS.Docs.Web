@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection =
+[
+    [ "CourseCollectionRecords", "d4/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_collections_1_1_course_collection.html#a54f36204c11f95c5920ab7af91911b2d", null ]
+];

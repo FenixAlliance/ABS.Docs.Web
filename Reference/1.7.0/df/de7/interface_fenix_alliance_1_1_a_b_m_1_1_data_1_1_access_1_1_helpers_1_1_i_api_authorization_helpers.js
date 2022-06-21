@@ -1,0 +1,4 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers =
+[
+    [ "BindAPIBaseResponse", "df/de7/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_helpers_1_1_i_api_authorization_helpers.html#ae86825b372ef6d74904328907001e204", null ]
+];

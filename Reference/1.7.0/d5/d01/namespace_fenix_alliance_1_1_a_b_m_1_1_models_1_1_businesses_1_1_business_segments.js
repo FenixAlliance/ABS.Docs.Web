@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments =
+[
+    [ "BusinessSize", "db/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments_1_1_business_size.html", "db/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_segments_1_1_business_size" ]
+];

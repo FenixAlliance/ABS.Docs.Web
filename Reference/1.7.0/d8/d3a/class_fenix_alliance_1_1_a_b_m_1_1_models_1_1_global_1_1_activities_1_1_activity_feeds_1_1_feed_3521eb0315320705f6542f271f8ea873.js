@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873 =
+[
+    [ "MarketingCampaign", "d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html#a93a71c6ff55849332bef7f39011d4d0e", null ],
+    [ "MarketingCampaignID", "d8/d3a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_3521eb0315320705f6542f271f8ea873.html#a9d4e3cd1dcc9fe1266de8ba8f870bbd0", null ]
+];

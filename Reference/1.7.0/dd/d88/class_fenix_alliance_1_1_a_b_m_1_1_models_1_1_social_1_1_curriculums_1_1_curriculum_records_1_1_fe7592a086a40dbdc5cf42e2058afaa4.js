@@ -1,0 +1,8 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4 =
+[
+    [ "Achievements", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html#a6b6e7bf165628c24c1174eee722c9383", null ],
+    [ "CurriculumRecommendations", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html#afa3dc56420bc6f836289d918710ce509", null ],
+    [ "EmployerProfile", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html#a574f3760f008801fd263f27652f9c3ec", null ],
+    [ "EmployerProfileID", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html#ab5a3c4ca0ad6b1d9ace8c8215e62fc91", null ],
+    [ "Responsibilities", "dd/d88/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_fe7592a086a40dbdc5cf42e2058afaa4.html#a8049af702f607be8e92295ae37c899bd", null ]
+];

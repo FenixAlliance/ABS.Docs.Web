@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes =
+[
+    [ "WalletPayment", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes_1_1_wallet_payment.html", "d0/d39/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_payments_1_1_payment_scopes_1_1_wallet_payment" ]
+];

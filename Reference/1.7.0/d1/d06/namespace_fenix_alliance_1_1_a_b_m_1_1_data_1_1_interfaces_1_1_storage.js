@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage =
+[
+    [ "IBlobStorageDataAccessClient", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client.html", "d5/d3d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_blob_storage_data_access_client" ],
+    [ "IStorageDataAccess", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access.html", "da/d78/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_storage_1_1_i_storage_data_access" ]
+];

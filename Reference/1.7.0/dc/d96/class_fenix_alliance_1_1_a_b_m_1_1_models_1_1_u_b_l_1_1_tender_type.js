@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type =
+[
+    [ "ContractFolderID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#aac53aaf0fecbfd470bccaa601bbd53a9", null ],
+    [ "ContractingParty", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a63a345eccfd761d670762d5148c76c7d", null ],
+    [ "ContractName", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a7b9082647cb1300ba344e21c0107f3b5", null ],
+    [ "CopyIndicator", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#aafab8a2fee6299ac7a8948088a6fc5dd", null ],
+    [ "CustomizationID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a32741273d6e04355266c3f4b43fef1fa", null ],
+    [ "DocumentReference", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#afe42a5e9a093204e250a01c95a5a7f2f", null ],
+    [ "ID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#adfb96e11fe02101d628e010e62438f31", null ],
+    [ "IssueDate", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a8e7e2011085ce3eb69ee07768d5f00d0", null ],
+    [ "IssueTime", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a5d0c887831430509c490aac95b7e81cc", null ],
+    [ "Note", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a4f7d875da84193b730ac340b5c1eff63", null ],
+    [ "OriginatorCustomerParty", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a19585fe7d5675c8f29e107bd4542d5bd", null ],
+    [ "ProfileExecutionID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#ac04fb22a88cd8a50d7cfe4bb0909e80a", null ],
+    [ "ProfileID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a95f1db56e41a6b395471bf46d280fce5", null ],
+    [ "Signature", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#ace28681b4a34a839a89bb7a37c7ce4e5", null ],
+    [ "SubcontractorParty", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#aa9aa61bb9c6f2ad31e858011c4205031", null ],
+    [ "TenderedProject", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#ac2b0166a664b4451b3461b9c900e77be", null ],
+    [ "TendererParty", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#ab59c8c20554e4988aaaecf72c85298ca", null ],
+    [ "TendererQualificationDocumentReference", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#aa24f0f03d9b23c321b1fff0cb27c691c", null ],
+    [ "TenderTypeCode", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#af0e3c6f448d4636beeac84e8b43f4e53", null ],
+    [ "UBLExtensions", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a261118b8ebe29d1207dc1185fd5d02b5", null ],
+    [ "UBLVersionID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a1c98a41f82e35300031c90df64b9b059", null ],
+    [ "UUID", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a01f14ef1790ca2e79ff61bcf645ad654", null ],
+    [ "ValidityPeriod", "dc/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_tender_type.html#a3786eb2d841387bfd33d75851747bab9", null ]
+];

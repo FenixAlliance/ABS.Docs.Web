@@ -1,0 +1,11 @@
+<map id="FenixAlliance.ABP.BotEngine.Core.Cards.CardFactory" name="FenixAlliance.ABP.BotEngine.Core.Cards.CardFactory">
+<area shape="rect" id="node1" title=" " alt="" coords="791,95,989,136"/>
+<area shape="rect" id="node2" href="$da/d7a/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_data_context.html" title=" " alt="" coords="383,5,578,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="181,5,316,47"/>
+<area shape="rect" id="node4" href="$d9/dff/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_i_suite_options.html" title=" " alt="" coords="374,71,587,112"/>
+<area shape="rect" id="node5" href="$d8/d79/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_marketplace_data_service.html" title=" " alt="" coords="365,136,596,177"/>
+<area shape="rect" id="node6" href="$d2/dcd/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_service.html" title=" " alt="" coords="213,143,284,170"/>
+<area shape="rect" id="node7" title=" " alt="" coords="23,118,114,145"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,169,132,195"/>
+<area shape="rect" id="node9" href="$d7/d87/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_services_1_1_i_invoices_service.html" title=" " alt="" coords="365,201,596,243"/>
+</map>

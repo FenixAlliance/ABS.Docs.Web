@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records =
+[
+    [ "InvoiceItemRecord", "da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record.html", "da/d70/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_records_1_1_invoice_item_record" ]
+];

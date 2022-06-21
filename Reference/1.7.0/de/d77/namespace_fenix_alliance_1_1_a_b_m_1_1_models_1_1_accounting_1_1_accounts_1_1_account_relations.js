@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations =
+[
+    [ "Scopes", "d5/dd2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes.html", "d5/dd2/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_scopes" ],
+    [ "AccountRelation", "d3/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_account_relation.html", "d3/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_accounts_1_1_account_relations_1_1_account_relation" ]
+];

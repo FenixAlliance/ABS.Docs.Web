@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection =
+[
+    [ "GarbageCollectionFrecuency", "d9/d98/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_g_c_1_1_garbage_collection.html#a5d863c875877a519fd2f38750ec4e758", null ]
+];

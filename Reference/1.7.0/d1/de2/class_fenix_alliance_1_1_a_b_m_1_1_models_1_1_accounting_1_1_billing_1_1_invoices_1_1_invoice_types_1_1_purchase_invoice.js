@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_purchase_invoice =
+[
+    [ "Assets", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_purchase_invoice.html#a23c0bcec5c727fc46fce03a3a8ef7742", null ],
+    [ "SupplierInvoiceDate", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_purchase_invoice.html#a56fcdd135dd7e1f56e39dff4f0ef25d8", null ],
+    [ "SupplierInvoiceReference", "d1/de2/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_invoices_1_1_invoice_types_1_1_purchase_invoice.html#a7660faf13ee8407530e44268a5e719be", null ]
+];

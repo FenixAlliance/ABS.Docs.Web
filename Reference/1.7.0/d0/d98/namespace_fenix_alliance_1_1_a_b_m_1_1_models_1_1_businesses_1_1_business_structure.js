@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure =
+[
+    [ "BusinessTeams", "db/da3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams.html", "db/da3/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_businesses_1_1_business_structure_1_1_business_teams" ]
+];

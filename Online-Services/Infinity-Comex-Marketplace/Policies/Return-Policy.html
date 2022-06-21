@@ -1,0 +1,372 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Returns Policy - Alliance Business Suite Documentation</title>
+                
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="The Ultimate Business Development Platform">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                <link rel="icon" href="../../../favicon.svg">
+                        <link rel="shortcut icon" href="../../../favicon.png">
+                <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+                <link rel="stylesheet" href="../../../css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="../../../fonts/fonts.css">
+        
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+            </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../../index.html"><strong aria-hidden="true">1.</strong> Overview</a></li><li class="chapter-item "><a href="../../../About.html"><strong aria-hidden="true">2.</strong> About</a></li><li class="chapter-item "><a href="../../../Roadmap.html"><strong aria-hidden="true">3.</strong> Roadmap</a></li><li class="chapter-item "><a href="../../../References.html"><strong aria-hidden="true">4.</strong> API Reference</a></li><li class="chapter-item "><a href="../../../Requirements.html"><strong aria-hidden="true">5.</strong> Requirements</a></li><li class="chapter-item "><a href="../../../Getting-started.html"><strong aria-hidden="true">6.</strong> Getting Started</a></li><li class="chapter-item "><a href="../../../Fundamentals.html"><strong aria-hidden="true">7.</strong> Fundamentals</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Fundamentals/Installation.html"><strong aria-hidden="true">7.1.</strong> Installation</a></li><li class="chapter-item "><a href="../../../Fundamentals/Configuration.html"><strong aria-hidden="true">7.2.</strong> Configuration</a></li><li class="chapter-item "><a href="../../../Fundamentals/Options.html"><strong aria-hidden="true">7.3.</strong> Options</a></li><li class="chapter-item "><a href="../../../Fundamentals/Environments.html"><strong aria-hidden="true">7.4.</strong> Environments</a></li><li class="chapter-item "><a href="../../../Fundamentals/Hosting.html"><strong aria-hidden="true">7.5.</strong> Hosting</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Fundamentals/Hosting/Hosting-on-ABS-Cloud.html"><strong aria-hidden="true">7.5.1.</strong> Hosting on ABS Cloud</a></li><li class="chapter-item "><a href="../../../Fundamentals/Hosting/Hosting-on-IIS.html"><strong aria-hidden="true">7.5.2.</strong> Hosting on IIS</a></li></ol></li><li class="chapter-item "><a href="../../../Fundamentals/Logging.html"><strong aria-hidden="true">7.6.</strong> Logging</a></li><li class="chapter-item "><a href="../../../Fundamentals/Routing.html"><strong aria-hidden="true">7.7.</strong> Routing</a></li><li class="chapter-item "><a href="../../../Fundamentals/Static-Files.html"><strong aria-hidden="true">7.8.</strong> Static Files</a></li><li class="chapter-item "><a href="../../../Fundamentals/Data-Access.html"><strong aria-hidden="true">7.9.</strong> Data Access</a></li></ol></li><li class="chapter-item "><a href="../../../Web-Development.html"><strong aria-hidden="true">8.</strong> Web Development</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Web-Development/Web-Portals.html"><strong aria-hidden="true">8.1.</strong> Web Portals</a></li><li class="chapter-item "><a href="../../../Web-Development/Web-Pages.html"><strong aria-hidden="true">8.2.</strong> Web Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Razor-Pages.html"><strong aria-hidden="true">8.2.1.</strong> Razor Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Razor-Pages/Razor-Syntax.html"><strong aria-hidden="true">8.2.1.1.</strong> Razor Syntax</a></li></ol></li><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Blazor-Pages.html"><strong aria-hidden="true">8.2.2.</strong> Blazor Pages</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Blazor-Pages/Data-Binding.html"><strong aria-hidden="true">8.2.2.1.</strong> Data Binding</a></li><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Blazor-Pages/Event-Handling.html"><strong aria-hidden="true">8.2.2.2.</strong> Event Handling</a></li><li class="chapter-item "><a href="../../../Web-Development/Web-Pages/Blazor-Pages/Forms-and-validation.html"><strong aria-hidden="true">8.2.2.3.</strong> Forms and Validation</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../../Web-Development/Web-Themes.html"><strong aria-hidden="true">8.3.</strong> Web Themes</a></li><li class="chapter-item "><a href="../../../Web-Development/Web-Templates.html"><strong aria-hidden="true">8.4.</strong> Web Templates</a></li><li class="chapter-item "><a href="../../../Web-Development/Web-Components.html"><strong aria-hidden="true">8.5.</strong> Web Components</a></li><li class="chapter-item "><a href="../../../Web-Development/Client-Side-Apps.html"><strong aria-hidden="true">8.6.</strong> Client Side-Apps</a></li><li class="chapter-item "><a href="../../../Web-Development/Session-and-state-management.html"><strong aria-hidden="true">8.7.</strong> Sessions and State</a></li></ol></li><li class="chapter-item "><a href="../../../Web-API-Development.html"><strong aria-hidden="true">9.</strong> Web API Development</a></li><li class="chapter-item "><a href="../../../Module-Development.html"><strong aria-hidden="true">10.</strong> Module Development</a></li><li class="chapter-item "><a href="../../../Internationalization.html"><strong aria-hidden="true">11.</strong> Internationalization</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Internationalization/Localization-Strings.html"><strong aria-hidden="true">11.1.</strong> Localization Strings</a></li></ol></li><li class="chapter-item "><a href="../../../Components.html"><strong aria-hidden="true">12.</strong> Components</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Core-Libraries.html"><strong aria-hidden="true">12.1.</strong> Alliance Core Libraries</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Model.html"><strong aria-hidden="true">12.2.</strong> Alliance Business Model</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Business-Model/Records.html"><strong aria-hidden="true">12.2.1.</strong> Records</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Model/Extensibility.html"><strong aria-hidden="true">12.2.2.</strong> Extensibility</a></li></ol></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service.html"><strong aria-hidden="true">12.3.</strong> Alliance Passport Service</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Account-Holders.html"><strong aria-hidden="true">12.3.1.</strong> Account Holders</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Business-Tenants.html"><strong aria-hidden="true">12.3.2.</strong> Business Tenants</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Security-Roles.html"><strong aria-hidden="true">12.3.3.</strong> Security Roles</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Security-Groups.html"><strong aria-hidden="true">12.3.4.</strong> Security Groups</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Business-PErmissions.html"><strong aria-hidden="true">12.3.5.</strong> Business Permissions</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Passport-Service/Connect-protocols.html"><strong aria-hidden="true">12.3.6.</strong> Connect Protocols</a></li></ol></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform.html"><strong aria-hidden="true">12.4.</strong> Alliance Business Platform</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/APIs.html"><strong aria-hidden="true">12.4.1.</strong> Application Programming Interfaces</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/APIs/REST-API.html"><strong aria-hidden="true">12.4.1.1.</strong> REST API</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/APIs/GraphQl-API.html"><strong aria-hidden="true">12.4.1.2.</strong> GraphQl API</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/APIs/GRPC-API.html"><strong aria-hidden="true">12.4.1.3.</strong> GRPC API</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/APIs/ABS-Tx.html"><strong aria-hidden="true">12.4.1.4.</strong> ABS TermX</a></li></ol></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/SDKs.html"><strong aria-hidden="true">12.4.2.</strong> Software Development Kits</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/SDKs/SDK-Nuget-Package.html"><strong aria-hidden="true">12.4.2.1.</strong> .NET SDK</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/SDKs/DTOs-Nuget-Package.html"><strong aria-hidden="true">12.4.2.2.</strong> .NET DTOs Library</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Platform/SDKs/PowerShell-CLI-Module.html"><strong aria-hidden="true">12.4.2.3.</strong> PowerShell CLI</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Studio.html"><strong aria-hidden="true">12.5.</strong> Alliance Business Studio</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Components/Alliance-Business-Studio/Layout.html"><strong aria-hidden="true">12.5.1.</strong> Layout</a></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Studio/Portals.html"><strong aria-hidden="true">12.5.2.</strong> Portals</a></li></ol></li><li class="chapter-item "><a href="../../../Components/Alliance-Business-Pocket.html"><strong aria-hidden="true">12.6.</strong> Alliance Business Pocket</a></li></ol></li><li class="chapter-item "><a href="../../../Services.html"><strong aria-hidden="true">13.</strong> Services</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Services/BlockChains-Service.html"><strong aria-hidden="true">13.1.</strong> BlockChains Service</a></li><li class="chapter-item "><a href="../../../Services/Tenants-Service.html"><strong aria-hidden="true">13.2.</strong> Multi-Tenancy Service</a></li><li class="chapter-item "><a href="../../../Services/Forex-Service.html"><strong aria-hidden="true">13.3.</strong> Multi-Currency Service</a></li><li class="chapter-item "><a href="../../../Services/Pricing-Service.html"><strong aria-hidden="true">13.4.</strong> Pricing Service</a></li><li class="chapter-item "><a href="../../../Services/Wallets-Service.html"><strong aria-hidden="true">13.5.</strong> Wallets Service</a></li></ol></li><li class="chapter-item "><a href="../../../Modules.html"><strong aria-hidden="true">14.</strong> Official Modules</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/IAM.html"><strong aria-hidden="true">14.1.</strong> IAM</a></li><li class="chapter-item "><a href="../../../Modules/Accounting.html"><strong aria-hidden="true">14.2.</strong> Accounting</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/Accounting/Accounts.html"><strong aria-hidden="true">14.2.1.</strong> Accounts</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/Accounting/Accounts/Accounting-Records.html"><strong aria-hidden="true">14.2.1.1.</strong> Accounting Records</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/Accounting/Billing.html"><strong aria-hidden="true">14.2.2.</strong> Billing</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/ACCOUNTING/Billing/Billing-Records.html"><strong aria-hidden="true">14.2.2.1.</strong> Billing Records</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/ACCOUNTING/Billing/Billing-Records/Orders.html"><strong aria-hidden="true">14.2.2.1.1.</strong> Orders</a></li><li class="chapter-item "><a href="../../../Modules/ACCOUNTING/Billing/Billing-Records/Invoices.html"><strong aria-hidden="true">14.2.2.1.2.</strong> Invoices</a></li><li class="chapter-item "><a href="../../../Modules/ACCOUNTING/Billing/Billing-Records/Payments.html"><strong aria-hidden="true">14.2.2.1.3.</strong> Payments</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/ACCOUNTING/Billing/Billing-Item-Records.html"><strong aria-hidden="true">14.2.2.2.</strong> Billing Item Records</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/Accounting/Ledgers.html"><strong aria-hidden="true">14.2.3.</strong> Ledgers</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/Assets-Manager.html"><strong aria-hidden="true">14.3.</strong> Assets Manager</a></li><li class="chapter-item "><a href="../../../Modules/CRM.html"><strong aria-hidden="true">14.4.</strong> Contact Sight</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/CRM/Contacts.html"><strong aria-hidden="true">14.4.1.</strong> Contacts</a></li><li class="chapter-item "><a href="../../../Modules/CRM/Contact-Profiles.html"><strong aria-hidden="true">14.4.2.</strong> Contact Profiles</a></li><li class="chapter-item "><a href="../../../Modules/CRM/Contact-Relations.html"><strong aria-hidden="true">14.4.3.</strong> Contact Relations</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE.html"><strong aria-hidden="true">14.5.</strong> eCommerce</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Carts.html"><strong aria-hidden="true">14.5.1.</strong> Carts</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Wishlists.html"><strong aria-hidden="true">14.5.2.</strong> Wishlists</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Comparisons.html"><strong aria-hidden="true">14.5.3.</strong> Comparisons</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Recommendations.html"><strong aria-hidden="true">14.5.4.</strong> Recommendations</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Products.html"><strong aria-hidden="true">14.5.5.</strong> Products</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Services.html"><strong aria-hidden="true">14.5.6.</strong> Services</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Subscriptions.html"><strong aria-hidden="true">14.5.7.</strong> Subscriptions</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Payments.html"><strong aria-hidden="true">14.5.8.</strong> Payments</a></li><li class="chapter-item "><a href="../../../Modules/ECOMMERCE/Shipping.html"><strong aria-hidden="true">14.5.9.</strong> Shipping</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/LOGISTICS.html"><strong aria-hidden="true">14.6.</strong> Logistics</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/LOGISTICS/Stock-Items.html"><strong aria-hidden="true">14.6.1.</strong> Stock Items</a></li></ol></li><li class="chapter-item "><a href="../../../Modules/Sales-Hub.html"><strong aria-hidden="true">14.7.</strong> Sales Hub</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/Sales-Hub/Sales-Flows.html"><strong aria-hidden="true">14.7.1.</strong> Sales Flows</a></li><li class="chapter-item "><a href="../../../Modules/Sales-Hub/Sales-Records.html"><strong aria-hidden="true">14.7.2.</strong> Sales Records</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Modules/Sales-Hub/Sales-Records/Deal-Units.html"><strong aria-hidden="true">14.7.2.1.</strong> Deal Units</a></li><li class="chapter-item "><a href="../../../Modules/Sales-Hub/Sales-Records/Quotes.html"><strong aria-hidden="true">14.7.2.2.</strong> Quotes</a></li><li class="chapter-item "><a href="../../../Modules/Sales-Hub/Sales-Records/Orders.html"><strong aria-hidden="true">14.7.2.3.</strong> Orders</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../../Modules/CMS.html"><strong aria-hidden="true">14.8.</strong> Media Portals</a></li><li class="chapter-item "><a href="../../../Modules/Workflows.html"><strong aria-hidden="true">14.9.</strong> Workflows Studio</a></li></ol></li><li class="chapter-item "><a href="../../../Integrations.html"><strong aria-hidden="true">15.</strong> Official Integrations</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Integrations/Self.html"><strong aria-hidden="true">15.1.</strong> ABS Self</a></li><li class="chapter-item "><a href="../../../Integrations/Authorize.Net.html"><strong aria-hidden="true">15.2.</strong> Authorize.net</a></li><li class="chapter-item "><a href="../../../Integrations/ePayco.html"><strong aria-hidden="true">15.3.</strong> ePayco</a></li><li class="chapter-item "><a href="../../../Integrations/Facebook.html"><strong aria-hidden="true">15.4.</strong> Facebook</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Integrations/Facebook/Commerce.html"><strong aria-hidden="true">15.4.1.</strong> Commerce</a></li><li class="chapter-item "><a href="../../../Integrations/Facebook/Marketing.html"><strong aria-hidden="true">15.4.2.</strong> Marketing</a></li></ol></li><li class="chapter-item "><a href="../../../Integrations/Google.html"><strong aria-hidden="true">15.5.</strong> Google</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Integrations/Google/Merchant.html"><strong aria-hidden="true">15.5.1.</strong> Merchant</a></li><li class="chapter-item "><a href="../../../Integrations/Google/My-Business.html"><strong aria-hidden="true">15.5.2.</strong> My Business</a></li></ol></li><li class="chapter-item "><a href="../../../Integrations/Mercado-Libre.html"><strong aria-hidden="true">15.6.</strong> MercadoLibre</a></li><li class="chapter-item "><a href="../../../Integrations/Stripe.html"><strong aria-hidden="true">15.7.</strong> Stripe</a></li></ol></li><li class="chapter-item "><a href="../../../Security.html"><strong aria-hidden="true">16.</strong> Security</a></li><li class="chapter-item "><a href="../../../Advanced.html"><strong aria-hidden="true">17.</strong> Advanced</a></li><li class="chapter-item expanded "><a href="../../../Online-Services.html"><strong aria-hidden="true">18.</strong> Online Services</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Online-Services/REST-API.html"><strong aria-hidden="true">18.1.</strong> AOS REST API</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Online-Services/REST-API/Authentication-and-Authorization.html"><strong aria-hidden="true">18.1.1.</strong> Authentication and Authorization</a></li></ol></li><li class="chapter-item "><a href="../../../Online-Services/GraphQl-API.html"><strong aria-hidden="true">18.2.</strong> AOS GraphQl API</a></li><li class="chapter-item "><a href="../../../Online-Services/Alliance-Business-Cloud.html"><strong aria-hidden="true">18.3.</strong> Alliance Business Cloud</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Online-Services/Alliance-Business-Cloud/About.html"><strong aria-hidden="true">18.3.1.</strong> About</a></li><li class="chapter-item "><a href="../../../Online-Services/Alliance-Business-Cloud/View-Statistics.html"><strong aria-hidden="true">18.3.2.</strong> View Statistics</a></li><li class="chapter-item "><a href="../../../Online-Services/Alliance-Business-Cloud/Hosting-Features.html"><strong aria-hidden="true">18.3.3.</strong> Hosting-Features</a></li><li class="chapter-item "><a href="../../../Online-Services/Alliance-Business-Cloud/Allocated-and-Consumed-Resources.html"><strong aria-hidden="true">18.3.4.</strong> Allocated and Consumed Resources</a></li></ol></li><li class="chapter-item "><a href="../../../Online-Services/Alliance-Pay-Platform.html"><strong aria-hidden="true">18.4.</strong> Alliance Pay Platform</a></li><li class="chapter-item expanded "><a href="../../../Online-Services/Infinity-Comex-Marketplace.html"><strong aria-hidden="true">18.5.</strong> Infinity Comex Marketplace</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Refunds,-partial-refunds,-and-restocking-fees.html"><strong aria-hidden="true">18.5.1.</strong> Refunds Policy</a></li><li class="chapter-item expanded "><a href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Return-Policy.html" class="active"><strong aria-hidden="true">18.5.2.</strong> Returns Policy</a></li><li class="chapter-item "><a href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Product-Disclaimers.html"><strong aria-hidden="true">18.5.3.</strong> Product Disclaimers</a></li><li class="chapter-item "><a href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Price-Matching.html"><strong aria-hidden="true">18.5.4.</strong> Price Matcing Policy</a></li><li class="chapter-item "><a href="../../../Online-Services/Infinity-Comex-Marketplace/Pricing-&-Promos.html"><strong aria-hidden="true">18.5.5.</strong> Promo Codes</a></li></ol></li><li class="chapter-item "><a href="../../../Online-Services/Terms-and-Conditions.html"><strong aria-hidden="true">18.6.</strong> Terms and Conditions</a></li></ol></li><li class="chapter-item "><a href="../../../Changelog.html"><strong aria-hidden="true">19.</strong> Changelog</a></li><li class="chapter-item "><a href="../../../Contributing.html"><strong aria-hidden="true">20.</strong> Contributing</a></li><li class="chapter-item "><a href="../../../CODE_OF_CONDUCT.html"><strong aria-hidden="true">21.</strong> Code of Conduct</a></li><li class="chapter-item "><a href="../../../THIRD_PARTY_NOTICES.html"><strong aria-hidden="true">22.</strong> Third Party Notices</a></li><li class="chapter-item "><a href="../../../License.html"><strong aria-hidden="true">23.</strong> License</a></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Alliance Business Suite Documentation</h1>
+
+                    <div class="right-buttons">
+                                                <a href="../../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>[[<em>TOC</em>]]</p>
+<h1 id="return-policy"><a class="header" href="#return-policy">Return Policy</a></h1>
+<p>This Return Policy only applies to products that are listed on any website or mobile application owned or operated by Fenix Alliance S.A.S (the &quot;Site&quot;) as &quot;Sold and Shipped by Infinity Comex&quot;.</p>
+<p>For a Marketplace item, an item that is listed on the Site as &quot;Sold and Shipped&quot; by a third-party seller through Infinity Comex's Marketplace platform and not &quot;Sold and Shipped by Infinity Comex&quot; (&quot;Marketplace Item&quot;), the Marketplace Item is covered by the Marketplace seller's return policy. To learn more about returns for Marketplace Items, please review our Marketplace FAQs</p>
+<h2 id="overall-return-guidelines"><a class="header" href="#overall-return-guidelines">Overall Return Guidelines</a></h2>
+<p>These are Fenix Alliance S.A.S' Overall Return Guidelines. All returns must meet the overall guidelines in order for the individual return policy to apply.</p>
+<ul>
+<li>
+<p>All product returns require a Return Merchandise Authorization (RMA) number.</p>
+</li>
+<li>
+<p>You can request an RMA number by contacting with a customer service representative or by creating a support ticket on your Alliance ID:</p>
+<ul>
+<li>If you are an international customer, please contact with a support representative for return instructions.</li>
+</ul>
+</li>
+<li>
+<p>Most products that are new and unopened can be returned to Fenix Alliance S.A.S within 30 days.</p>
+</li>
+<li>
+<p>Products that are received by Fenix Alliance S.A.S in any of the following conditions are not eligible for return and may be rejected:</p>
+<ul>
+<li>
+<p>Any product not purchased from the Infinity Comex Platform.</p>
+</li>
+<li>
+<p>Any product that does not exhibit the described reason for the return (i.e., a return initiated for a DOA product that powers on and works properly upon inspection).</p>
+</li>
+<li>
+<p>Any product with a missing, damaged, altered, or otherwise unreadable serial number label, manufacturer model or part number label, and/or warranty label.</p>
+</li>
+<li>
+<p>Any product that is returned without all original packaging and accessories, including the retail box, manuals, cables, and all other items originally included with the product.</p>
+</li>
+<li>
+<p>Any product from which the UPC code has been removed from its packaging.</p>
+</li>
+<li>
+<p>Any product that exhibits physical damage. If you received your product damaged, please read our <a href="https://kb.newegg.com/knowledge-base/report-a-shipping-problem/">Report a shipping problem</a> article for guidelines and instructions on how to resolve this issue. This is would not be considered a return.</p>
+</li>
+<li>
+<p>Any product for which you have submitted a mail-in rebate.</p>
+</li>
+<li>
+<p>Any product which appears tampered, customized or altered in any way.</p>
+</li>
+<li>
+<p>Any product that is returned with markings or writing made by the customer on the original box.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="restocking-fees-and-return-shipping-labels"><a class="header" href="#restocking-fees-and-return-shipping-labels">Restocking Fees and Return Shipping Labels</a></h2>
+<p>Returns are subject to restocking fees and return shipping fees. For products that are eligible for return for replacement, the return shipping labels are free for returns for replacement of the same item within the applicable return policy period. Fenix Alliance S.A.S does NOT charge for restocking fees or return shipping labels for returns of defective products or unopened items that are returned in the original condition as shipped or if you received the wrong product, the product did not match what was shown on the Site or we made some other shipping error, provided the item is returned within its return policy period. In the event a product is returned that is not defective or an incorrect product or where the product does match what was shown on the Site, the product will either be returned to the customer or the return shipping cost initially covered by Fenix Alliance S.A.S will instead be deducted from the refund amount along with any necessary restocking fee that may apply. Please <a href="https://fenix-alliance.gitbook.io/en/infinity-comex/rma/refunds">click here</a> to learn more about restocking fees and return shipping fees.</p>
+<h2 id="return-policies"><a class="header" href="#return-policies">Return Policies</a></h2>
+<h3 id="standard-return-policy"><a class="header" href="#standard-return-policy">Standard Return Policy</a></h3>
+<ul>
+<li>
+<p>Request a return for refund within: 30 days</p>
+</li>
+<li>
+<p>Request a return for replacement within: 30 days</p>
+</li>
+</ul>
+<p>This is our Standard Return Policy. For items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' Standard Return Policy&quot;), you must request a return within 30 days from the invoice date for this policy to apply.</p>
+<p>Please review the notes specific to your product:</p>
+<ul>
+<li>
+<p>Desktop PC, Notebooks, or Tablet PCs:</p>
+<ul>
+<li>
+<p>A defective Desktop PC, Notebook, or Tablet PC that is returned for a replacement may be repaired or replaced at Fenix Alliance S.A.S' sole discretion, unless otherwise required by law. While we strive to adhere to our own standard RMA processing times, we cannot guarantee that these times will be met, especially in situations where the item must be sent to the manufacturer for repair. If you have a question regarding returning a Desktop PC, Notebook, or Tablet PC, please contact our customer service Department.</p>
+</li>
+<li>
+<p>Some computer systems will require pre-authorization from the manufacturer technical support in order for an RMA to Fenix Alliance S.A.S to be authorized.</p>
+</li>
+<li>
+<p>For computers that have had an additional operating system(s) installed, we will provide you a replacement or refund as noted in the above policy as long as the original operating system is not corrupted or removed.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Televisions:</p>
+<ul>
+<li>For televisions with a screen size greater than 37 inches: An adult (age 18 or older) is required to sign the shipping courier's release form to complete delivery. It is highly recommended that you inspect the product upon delivery for visible damage. Large item shipments require that shipping damage is reported within 48 HOURS of the product's delivery. To the fullest extent permitted by law, any damage reported more than 48 HOURS after the product delivery will not be accepted by Fenix Alliance S.A.S for replacement or refund. After delivery, please read all included documentation and/or contact the manufacturer directly to determine applicable warranty coverage, if any. If you need to return a product that was shipped via Large Item Delivery, please contact Fenix Alliance S.A.S' customer service department to obtain instructions on how to return the product.</li>
+</ul>
+</li>
+<li>
+<p>Television and Monitor Dead Pixels:</p>
+<ul>
+<li>Televisions or Monitors with 8 dead pixels or more can be returned for a replacement so long as a return request is submitted within 30 days of the invoice date.</li>
+</ul>
+</li>
+</ul>
+<p>45/1 Return Policy</p>
+<ul>
+<li>
+<p>Request a return for refund within: 45 days</p>
+</li>
+<li>
+<p>Request a return for replacement within: 1 year</p>
+</li>
+</ul>
+<p>This is our 45/1 Return Policy. For items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' 45/1 Return Policy&quot;), you must request a return for refund within 45 days of the invoice date or request a return for a replacement within 1 year of the invoice date for this policy to apply.</p>
+<h3 id="replacement-only-return-policy"><a class="header" href="#replacement-only-return-policy">Replacement Only Return Policy</a></h3>
+<ul>
+<li>Request a return for replacement within: 30 days</li>
+</ul>
+<p>This is our Replacement Only Return Policy. For items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S Replacement Only Return Policy&quot;), you must request a return for replacement within 30 days from the invoice date for this policy to apply. Products covered by this policy may only be returned for a replacement of the same item. If the original item is no longer available, a refund in the amount of the price originally paid will be issued. Products subject to this policy cannot be returned for a refund.</p>
+<h3 id="manufacturer-only-return-policy"><a class="header" href="#manufacturer-only-return-policy">Manufacturer Only Return Policy</a></h3>
+<p>This is our Manufacturer Only Return Policy. Items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' Manufacturer Only Return Policy&quot;) cannot be returned to Fenix Alliance S.A.S. These items are covered by a manufacturer's warranty. For information about the manufacturer's warranty, please refer to the terms and conditions for the manufacturer's warranty or contact the manufacturer.</p>
+<h3 id="consumable-product-return-policy"><a class="header" href="#consumable-product-return-policy">Consumable Product Return Policy</a></h3>
+<p>This is our Consumable Product Return Policy. Items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' Consumable Product Return Policy&quot;) cannot be returned to Fenix Alliance S.A.S. Consumable products may include, but are not limited to, Printer Ink, Toner Cartridges, CD/DVD Media, Retail Packaged Software, Downloadable Software, Digital Downloads, Paper Products, and etc. that are consumed once they are used.</p>
+<h3 id="retail-packaged-software-downloadable-software-and-digital-downloads"><a class="header" href="#retail-packaged-software-downloadable-software-and-digital-downloads">Retail Packaged Software, Downloadable Software and Digital Downloads</a></h3>
+<p>Software may require you to use a computer or other device meeting minimum system requirements, and you are responsible for ensuring that your computer or device meets software system requirements prior to purchase. Generally, software system requirements are available on or from product detail pages. Once you have purchased Retail Packaged Software, Downloadable Software and/or Digital Downloads, we encourage you to install or download it, if applicable, and to access it promptly to ensure that you have received it.</p>
+<h3 id="non-contract-cell-phone-return-policy"><a class="header" href="#non-contract-cell-phone-return-policy">Non-Contract Cell Phone Return Policy</a></h3>
+<ul>
+<li>Request a return for replacement within: 30 days</li>
+</ul>
+<p>This is our Non-Contract Cell Phone Return Policy. For items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S's Non-Contract Cell Phone Return Policy&quot;), you must request a return within 30 days of the invoice date for this policy to apply. Products covered by this policy may only be returned for a replacement of the same item. If the original item is no longer available, a refund in the amount of the price originally paid will be issued. Products subject to this policy cannot be returned for a refund.</p>
+<h3 id="services-and-extended-warranties-return-policy"><a class="header" href="#services-and-extended-warranties-return-policy">Services and Extended Warranties Return Policy</a></h3>
+<ul>
+<li>
+<p>Request a full refund within: 30 days</p>
+</li>
+<li>
+<p>For requests for refunds after 30 days, you may receive a partial refund. A prorated refund may be provided by the warranty provider.</p>
+</li>
+</ul>
+<p>This is our Services and Extended Warranties Return Policy. Items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' Services and Extended Warranties Return Policy.&quot;) can be returned if the service or warranty has not been used or redeemed. A return must be initiated by Fenix Alliance S.A.S within 30 days of the invoice date for this policy to apply.</p>
+<h3 id="international-return-policy"><a class="header" href="#international-return-policy">International Return Policy</a></h3>
+<ul>
+<li>Request a return for refund within: 30 days</li>
+</ul>
+<p>Items covered by this policy (those products for which Fenix Alliance S.A.S states &quot;This item is covered by Fenix Alliance S.A.S' International Return Policy&quot;) must have a return issued through the Fenix Alliance S.A.S Global return portal within 30 days from the invoice date for this policy to apply.</p>
+<h2 id="more-information"><a class="header" href="#more-information">More Information</a></h2>
+<h3 id="product-specific-return-information"><a class="header" href="#product-specific-return-information">Product-Specific Return Information</a></h3>
+<h4 id="bundles"><a class="header" href="#bundles">Bundles</a></h4>
+<p>Bundles are offered to Fenix Alliance S.A.S shoppers as a way to purchase multiple items together at a discounted price. If you wish to return a Bundle for a refund, you must request a return within the applicable Fenix Alliance S.A.S Return Policy period and you must return the ENTIRE BUNDLE. Items sold as part of a Bundle may be returned individually for replacement if you request a replacement within the applicable Fenix Alliance S.A.S Return Policy period for that individual item.</p>
+<h4 id="combos-and-kits"><a class="header" href="#combos-and-kits">Combos and Kits</a></h4>
+<p>Combos and Kits include two or more items that must be purchased together in order to receive a discount. Items sold as part of a Combo or Kit may be returned individually for replacement within the applicable Fenix Alliance S.A.S Return Policy Period for that individual item.</p>
+<p>If an individual Combo or Kit item is returned for a refund, the applicable discount will be voided, and the discounted amount will be deducted from the amount of the refund. If your Combo/Kit discount amount is greater than the individual unit price of the item you wish to return, then the item cannot be returned for a refund by itself; you will need to return all items in the Combo/Kit or return it with other items of value in order to receive a refund. For example, if your Combo/Kit discount was $5, and you return one of the items for a refund, the $5 will be deducted from your refund amount.</p>
+<h4 id="manufacturer-promotional-items-and-fenix-alliance-sas-gifts"><a class="header" href="#manufacturer-promotional-items-and-fenix-alliance-sas-gifts">Manufacturer Promotional Items and Fenix Alliance S.A.S Gifts</a></h4>
+<p>Manufacturers may offer free promotional items with their products. To receive a full refund on a purchase that includes promotional items, all items must be returned. The cost of any promotional items not returned will be deducted from the refund total.</p>
+<p>Fenix Alliance S.A.S may also offer gifts to valued customers for their continued support as well as for special giveaways. These gifts are not part of any purchase value and therefore do not have to be returned.</p>
+<p>Prepaid card, gift packaging and Memberships</p>
+<p>Purchases for prepaid cards, gift packaging and memberships are not eligible for return.</p>
+<h2 id="special-order-products"><a class="header" href="#special-order-products">Special Order Products</a></h2>
+<p>Special order products are not eligible for return.</p>
+<p>Quantity Purchases</p>
+<p>While we are more than happy to fill your order for a quantity of ten (10 +) or more of any given item in our inventory on a single purchase order, please understand that an order of that size, once purchase is completed, is automatically non-refundable. All other specific conditions related to the ordered item still apply, including any and all stipulations relative to any available replacement return policies. Please contact our customer service department with any questions you may have.</p>
+<h2 id="additional-return-information"><a class="header" href="#additional-return-information">Additional Return Information</a></h2>
+<h3 id="refunds"><a class="header" href="#refunds">Refunds</a></h3>
+<p>Refunds will be credited back to your original payment method. If the original payment method is no longer available, Fenix Alliance S.A.S will mail you a check to the billing address listed on your account.</p>
+<p>For returns for refunds for items purchased as discounts, Fenix Alliance S.A.S will issue you a refund in the form of Alliance ID Wallet credit or an Infinity Comex gift card.</p>
+<h3 id="replacements"><a class="header" href="#replacements">Replacements</a></h3>
+<p>For products that are eligible for return for replacement, the product may only be returned for a replacement of the same item. We do not allow exchanges or returns for replacements for different items. If you would like to receive a different item, you would need to return the original item for a refund, in accordance with the Return Policy and then purchase the item you would like to receive instead of the original item.</p>
+<p>If Fenix Alliance S.A.S no longer carries an item that is sent in for replacement, or if that item is simply out of stock, Fenix Alliance S.A.S will issue you a refund.</p>
+<p>###Product Return Procedures</p>
+<p>To return a product to Fenix Alliance S.A.S, you must obtain an RMA number within the applicable return period for the product (described above). Fenix Alliance S.A.S will not accept returns without prior authorization and an RMA number. Once issued, RMA numbers are valid for 15 days within which time returned products must be received by Fenix Alliance S.A.S. RMA numbers will not be extended or reissued. Customer should prominently display the RMA number(s) on the shipping label as well as the RMA invoice on the box(s) containing the returned product.</p>
+<p>Customer is solely responsible for shipping any returned product to Fenix Alliance S.A.S. Customer agrees to use only reputable carriers capable of providing proof of delivery and insurance for the entire value of the shipment. Customer agrees to bear all shipping and insurance charges and all risk of loss for the return product during shipment. Customer agrees that all returned products will be 100% complete, in re-sealable condition, and will include the original packaging material, manuals, blank warranty cards, and other accessories provided by the manufacturer. If any component of the returned product is missing, Fenix Alliance S.A.S's Return Procedure will be breached and Fenix Alliance S.A.S may in its sole and absolute discretion reject the entire return or choose to impose additional charges against the customer for replacement of the missing component(s). Fenix Alliance S.A.S will not refund the original shipping charges to the Customer. In addition, Fenix Alliance S.A.S may assess a 15% restocking fee against the Customer's account or deduct the fee from the refund amount on all returns, subject to the Return Policy and any product-specific policy. Fenix Alliance S.A.S reserves the right to adjust the value of any item returned for refund to reflect its current market price, in which case the 15% restocking fee will be applied after this adjustment.</p>
+<h3 id="packaging-returns"><a class="header" href="#packaging-returns">Packaging Returns</a></h3>
+<p>The return must be properly packaged to protect against damage in transit. Please note that any damage caused by mishandling, improper installation or product defacement will result in your return being denied and the product being returned to you.</p>
+<h3 id="return-processing"><a class="header" href="#return-processing">Return Processing</a></h3>
+<p>Please allow 3-5 business days for your return to process after being received. For returns for laptops, notebooks, desktops, or table PCs, please allow 7-10 business days for your return to process after being received. Due to item availability, some repair/replacement returns may be delayed or changed to refund.</p>
+<h2 id="additional-terms"><a class="header" href="#additional-terms">Additional Terms</a></h2>
+<h3 id="title"><a class="header" href="#title">Title</a></h3>
+<p>Fenix Alliance S.A.S does not take title to returned items until the item arrives at the returns address destination. At our discretion, a refund may be issued without requiring a return. In this situation, Fenix Alliance S.A.S does not take title to the refunded item.</p>
+<h3 id="original-shipping-charges"><a class="header" href="#original-shipping-charges">Original Shipping Charges</a></h3>
+<p>Your original shipping fees are non-refundable. Your original shipping charges are paid for the services provided by and to the original carrier, and will not be refunded to if your item is returned.</p>
+<h3 id="cross-shipping"><a class="header" href="#cross-shipping">Cross-Shipping</a></h3>
+<p>We do not cross-ship. Returns must be received, inspected and approved before we ship a replacement.</p>
+<h3 id="refusing-delivery"><a class="header" href="#refusing-delivery">Refusing Delivery</a></h3>
+<p>Refused shipments are treated like regular returns and may be charged a non-refundable 15% restocking fee.</p>
+<h3 id="disclaimer"><a class="header" href="#disclaimer">Disclaimer</a></h3>
+<p>Nothing in this Return Policy limits your rights and remedies under any law.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Refunds,-partial-refunds,-and-restocking-fees.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Product-Disclaimers.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Refunds,-partial-refunds,-and-restocking-fees.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="../../../Online-Services/Infinity-Comex-Marketplace/Policies/Product-Disclaimers.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="../../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="../../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+        
+    </body>
+</html>

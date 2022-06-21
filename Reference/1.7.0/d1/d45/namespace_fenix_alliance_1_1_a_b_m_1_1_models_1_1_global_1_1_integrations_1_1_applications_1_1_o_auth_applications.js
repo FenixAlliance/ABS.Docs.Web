@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_auth_applications =
+[
+    [ "OAuthApplication", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01.html", "d5/de7/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_integrations_1_1_applications_1_1_o_aute6fd71b4fccd796671d5ba8a0a46ad01" ]
+];

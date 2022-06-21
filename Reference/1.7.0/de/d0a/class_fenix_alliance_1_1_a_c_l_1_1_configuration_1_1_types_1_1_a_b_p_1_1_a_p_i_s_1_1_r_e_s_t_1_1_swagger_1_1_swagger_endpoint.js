@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_endpoint =
+[
+    [ "Name", "de/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_endpoint.html#a4b393b89f66e755832d8ff29efc9ff4e", null ],
+    [ "Url", "de/d0a/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_a_p_i_s_1_1_r_e_s_t_1_1_swagger_1_1_swagger_endpoint.html#afcfcbfc0d6edcc63de6a2560f6dd8857", null ]
+];

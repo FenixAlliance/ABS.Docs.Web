@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies =
+[
+    [ "ItemShippingPolicyRecord", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record.html", "d7/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy_record" ],
+    [ "ItemShippingPolicy", "dc/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy.html", "dc/db8/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_policies_1_1_item_shipping_policy" ]
+];

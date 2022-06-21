@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type =
+[
+    [ "ContractFolderID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#af29bd308e9b2ace5baccc93342ed3e14", null ],
+    [ "ContractingParty", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a2acb0a1303f6993839fdba30140a675d", null ],
+    [ "CopyIndicator", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a8a7f81fb6efe10edd029d08ad96604d1", null ],
+    [ "CustomizationID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a541bd7e5681b99bcea3266f7bdc3ad38", null ],
+    [ "DocumentReference", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a75eaf71f6bc48301ba3e64e957714949", null ],
+    [ "ID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#aed405b2dcc82251ec9609ec2244b2364", null ],
+    [ "IssueDate", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#aaed857e5b9df0b6621aabf7badd112c1", null ],
+    [ "IssueTime", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#afa029d20337994fcf36e51ce96c8d158", null ],
+    [ "Note", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a0a21e6544a0a90e6fe81ad131e8092e8", null ],
+    [ "OriginatorCustomerParty", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a182e573c9aa94eddc4e2003a365ff427", null ],
+    [ "PlannedDate", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#ad333af7220823c66da1af16eb5261b6e", null ],
+    [ "ProcurementProject", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a6cc8279e59bab083259f5c0883b2558a", null ],
+    [ "ProcurementProjectLot", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#aab0c09a7640c4aeb5887e3ac406a4027", null ],
+    [ "ProfileExecutionID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#ac421df4566f30045ee177c0a3dbf9d7c", null ],
+    [ "ProfileID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#aa99c9f8e62acb7623f93172999af1838", null ],
+    [ "ReceiverParty", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#abe5235160350b40919aa14bb8d4a8ea0", null ],
+    [ "Signature", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a280965d503685b0063e5034701b48200", null ],
+    [ "TenderingProcess", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#ab16672f4dead63064627784b7513594b", null ],
+    [ "TenderingTerms", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a82f3c7e39560678f1a247c4e34499bad", null ],
+    [ "UBLExtensions", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#ad9a239b6aea5bcf3174f65de38ab08f0", null ],
+    [ "UBLVersionID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#ab162e5bc919da8cfe58a8d82deb994d6", null ],
+    [ "UUID", "d1/df5/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_prior_information_notice_type.html#a01143022a80fd38c268d71ac68073b5c", null ]
+];

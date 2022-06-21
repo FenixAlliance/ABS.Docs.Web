@@ -1,5 +1,8 @@
 var namespace_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers =
 [
     [ "AccountController", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html", "d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller" ],
-    [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller" ]
+    [ "AuthorizationController", "d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller.html", "d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller" ],
+    [ "ManageController", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html", "dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller" ],
+    [ "ResourceController", "dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller.html", "dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller" ],
+    [ "UserinfoController", "dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller.html", "dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller" ]
 ];

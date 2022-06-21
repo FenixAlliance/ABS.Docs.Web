@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_assemblies =
+[
+    [ "FrameworkAssembly", "d8/db9/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_plugins_1_1_specifications_1_1_metadata_1_1_framework_assemblies.html#aeaddc791ce758e887a94e1ffbf0b7073", null ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_149439fe09ec0699dd85ae9cb47df983 =
+[
+    [ "Project", "de/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_149439fe09ec0699dd85ae9cb47df983.html#a6d259d9324ebd36d337de5665e67f310", null ],
+    [ "ProjectID", "de/d71/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_149439fe09ec0699dd85ae9cb47df983.html#a6dd2d07f929adf0d70c9aa8707b9d76e", null ]
+];

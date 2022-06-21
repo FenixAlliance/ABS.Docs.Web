@@ -1,0 +1,4 @@
+<map id="FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitItemRecord" name="FenixAlliance.ABM.Models.Sales.DealUnits.DealUnitItemRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,240,121"/>
+<area shape="rect" id="node2" href="$d4/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_billing_1_1_billing_item_record.html" title="Represents the relation between a Stock Item and a Billing Process." alt="" coords="61,5,185,32"/>
+</map>

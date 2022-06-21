@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoft_identity =
+[
+    [ "MicrosoftIdentityAuthenticationOptions", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9.html", "d3/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_microsoftf6f20308d8a2df32a666298a64b172a9" ]
+];

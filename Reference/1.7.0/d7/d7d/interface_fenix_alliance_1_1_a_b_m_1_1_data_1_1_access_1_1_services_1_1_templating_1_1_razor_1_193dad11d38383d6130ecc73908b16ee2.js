@@ -1,0 +1,6 @@
+var interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2 =
+[
+    [ "CreateWriter", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2.html#a5be7523a2f5f3f3871a0f653cc8a5587", null ],
+    [ "GetPage", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2.html#a2a8f53c8ba63da47a129cd9e42ad0252", null ],
+    [ "ReturnSegment", "d7/d7d/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_193dad11d38383d6130ecc73908b16ee2.html#ad1a1dd809cd72c2aa11363a48a0db3f1", null ]
+];

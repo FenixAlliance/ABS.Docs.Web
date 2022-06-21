@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68 =
+[
+    [ "ClientId", "de/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68.html#aa641aca0344f3e66eb539fe36c6044f6", null ],
+    [ "ClientSecret", "de/d41/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_p_s_1_1_providers_1_1_google_1_f280dab58fb962cd637e735fe060fe68.html#a1d04d0a93b1f53b5c734be87326c0411", null ]
+];

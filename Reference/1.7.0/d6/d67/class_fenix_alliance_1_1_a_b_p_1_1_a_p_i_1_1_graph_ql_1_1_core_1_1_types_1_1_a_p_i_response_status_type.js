@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_status_type =
+[
+    [ "APIResponseStatusType", "d6/d67/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_types_1_1_a_p_i_response_status_type.html#a3b41a2d153cacb6e5921e4f05197381e", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns =
+[
+    [ "ItemReturnPolicyRecord", "dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_item_return_policy_record.html", "dd/db9/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_item_return_policy_record" ],
+    [ "ReturnPolicy", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_return_policy.html", "de/dfd/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_warehousing_1_1_item_returns_1_1_return_policy" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships =
+[
+    [ "ItemOwnership", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships_1_1_item_ownership.html", "da/d3c/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_stock_1_1_item_ownerships_1_1_item_ownership" ]
+];

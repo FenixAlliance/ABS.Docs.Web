@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service =
+[
+    [ "SnippetsService", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service.html#ad836f40a1e44a7483ea5cc721bf3b12e", null ],
+    [ "GetSnippetContentAsync", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service.html#ae5edeb928a00696cfbaf84375367dabf", null ],
+    [ "SaveSnippetAsync", "d3/d92/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_blazor_1_1_services_1_1_snippets_service.html#a9c0c924df59b1aaefb41ef976076b5d7", null ]
+];

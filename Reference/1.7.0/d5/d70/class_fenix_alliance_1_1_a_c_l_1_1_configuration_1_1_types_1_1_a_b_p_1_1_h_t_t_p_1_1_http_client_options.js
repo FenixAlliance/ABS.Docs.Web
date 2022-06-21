@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_client_options =
+[
+    [ "BaseUrl", "d5/d70/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_h_t_t_p_1_1_http_client_options.html#a7a47f739160f8989ec5a98ddf927dadc", null ]
+];

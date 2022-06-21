@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction =
+[
+    [ "AccountingDate", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a49b23798b4d149c2408114b464752ea7", null ],
+    [ "AmountMethod", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a395a645bf198acad57a8d97bf72a1df0", null ],
+    [ "BillingType", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a800145f2c3cc1b177b8976a22b77f79d", null ],
+    [ "Business", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a1be4a04e107372b8510bcd677de9fe6c", null ],
+    [ "BusinessID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a349c213205464645796934b12f4041cb", null ],
+    [ "BusinessProfileRecord", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a4ac9a4ed1d777254543df99f126c584d", null ],
+    [ "BusinessProfileRecordID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#ad6b4c29c8b522a0ee08cf38d18767a4f", null ],
+    [ "Contact", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#ad12f45171adcf6bbe989e9a15c248eb0", null ],
+    [ "ContactID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a3581991fbc53f79d61ae0aba787a6c4b", null ],
+    [ "CustomerType", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#abdafdc7f740e2cef009f4e00aa86dbfa", null ],
+    [ "DocumentDate", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a7fcb7f22b87fa22aed79c5682021abe4", null ],
+    [ "EndDateTime", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a308bd2f75621b2484cefb709d87654fd", null ],
+    [ "Project", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a6fe224c3a7f932c948daf5d9ade1ae2f", null ],
+    [ "ProjectID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#ac7232e58a5d207b8a61ed69a07fa1f17", null ],
+    [ "ProjectResource", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a5e3e628f3e2465dbadf6d3b86d1a24b4", null ],
+    [ "ProjectResourceID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a9efefcb8eb8cea39c000da9e5dfc61ad", null ],
+    [ "ProjectResourceRole", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a4856ad2661539952c8fc3af518ffe319", null ],
+    [ "ProjectResourceRoleID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a608ae6b6cd5f563c13d9c60add0475ea", null ],
+    [ "ProjectTask", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a7356872b4b196a2390d6a58434706ed0", null ],
+    [ "ProjectTaskID", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a778f6946106d690f7beaebc2c98c1f6c", null ],
+    [ "StartDateTime", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#af68548feb657808561bbbc904725dacc", null ],
+    [ "TransactionClass", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#a4a526da6e428db754b9a9751eff0e648", null ],
+    [ "TransactionType", "d1/d81/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_projects_1_1_transactions_1_1_project_transaction.html#afdac55d8102faa25a3d0b4f4ccaf7b62", null ]
+];

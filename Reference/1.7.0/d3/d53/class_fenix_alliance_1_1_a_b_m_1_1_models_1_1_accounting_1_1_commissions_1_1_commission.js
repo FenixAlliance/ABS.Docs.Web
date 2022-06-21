@@ -1,0 +1,25 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission =
+[
+    [ "AddedAmount", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#aacee08fbbd18d099fbc5b494d71bd7cb", null ],
+    [ "AddedPercent", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a4d02933dcf01383d072943206fd4aed0", null ],
+    [ "BaseAmount", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#abeba90fe0a0a50a465007d43a0b0b303", null ],
+    [ "Business", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a2aa8634b6c4b0a5b211a101887c80dca", null ],
+    [ "BusinessID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a38c33eb27eec5fa9da8a6eaa196c1a0f", null ],
+    [ "BusinessProfileRecord", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#ab455ff7c7ac72f2454d4d34e7c04e0e4", null ],
+    [ "BusinessProfileRecordID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a7023bb3850926678415137581c733225", null ],
+    [ "Description", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a4a8734e38c78232286efb6a91fc58059", null ],
+    [ "EmmisorContact", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a758e17d13acdb6b45efbe0af245e6b60", null ],
+    [ "EmmisorContactID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#af7e1c4648b5dffc75ba8203bb7ddfb01", null ],
+    [ "EmmisorWalletAccount", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#aecf16f4314e1a8cc90276ed47e5db96a", null ],
+    [ "EmmisorWalletAccountID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#abb29e5439c5b4327283a1cfbf386c280", null ],
+    [ "ID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a838980605fc7f174357345b8cd051d25", null ],
+    [ "ReceptorContact", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#ae3843e89efaf4d41a1a7cd58bd9b80b2", null ],
+    [ "ReceptorContactID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a314f7d919ee0af087236a73aa1835a00", null ],
+    [ "ReceptorWalletAccount", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#ae028fd5e975e5a52cc97d19d7317d884", null ],
+    [ "ReceptorWalletAccountID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a5c1bf32d9c4bb9ec470fc574c5ab9b82", null ],
+    [ "Salary", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#afbf6a04bbd9204e1a9800619a05bc1a4", null ],
+    [ "SalaryID", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#ad04bab9373a82e40cdcf9267249c18b3", null ],
+    [ "TaxComission", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a5f5f27f48f9fa58094c08014c62074d8", null ],
+    [ "Timestamp", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#aa2513f42c309748e00a16b8c72c8098b", null ],
+    [ "Title", "d3/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_accounting_1_1_commissions_1_1_commission.html#a6dce0e3d24953693b7b0345a474f85ef", null ]
+];

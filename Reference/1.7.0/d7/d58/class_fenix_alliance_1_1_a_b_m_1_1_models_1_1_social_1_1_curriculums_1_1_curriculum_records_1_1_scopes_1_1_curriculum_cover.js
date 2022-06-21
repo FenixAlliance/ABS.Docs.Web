@@ -1,0 +1,6 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover =
+[
+    [ "CoverLetter", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html#a03f2198e9e83854ca6acf32b0264e350", null ],
+    [ "GigApplication", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html#ac54eecfe89b94ad30d6d4d602d7a9cf7", null ],
+    [ "JobOfferApplications", "d7/d58/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_cover.html#a7c4a93acac985fb6e449426df7d25f0a", null ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting =
+[
+    [ "ScheduleMeetingAtendees", "d7/d5b/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_meetings_1_1_schedule_meeting.html#a2330dfd8711fc11bf4910d1bb14c0a8a", null ]
+];

@@ -1,0 +1,4 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_language =
+[
+    [ "CurriculumLanguageProficiency", "d7/d66/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_curriculum_language.html#a8234d64a9d0ba48d8d558cbc20fa7e8e", null ]
+];

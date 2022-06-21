@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health =
+[
+    [ "HealthChecksOptions", "d4/d76/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_options.html", "d4/d76/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_options" ],
+    [ "HealthChecksUiOptions", "d4/dc5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_ui_options.html", "d4/dc5/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_health_1_1_health_checks_ui_options" ]
+];

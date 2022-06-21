@@ -1,0 +1,5 @@
+var interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_https_redirection =
+[
+    [ "HttpsPort", "d0/d68/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_https_redirection.html#a35aaa38e52d51e9a9c5c56ccddc3cfe8", null ],
+    [ "RedirectStatusCode", "d0/d68/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_h_t_t_p_1_1_i_https_redirection.html#a7047e5a136d2b2f6b1f1377ec3189cfa", null ]
+];

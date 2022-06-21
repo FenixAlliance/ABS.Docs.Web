@@ -1,0 +1,6 @@
+var struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value =
+[
+    [ "ViewBufferValue", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html#a542c33998c77e93051adecfae2baa8cb", null ],
+    [ "ViewBufferValue", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html#a50687e57cb543beb82225a51efb9040d", null ],
+    [ "Value", "df/d79/struct_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_templating_1_1_razor_1_1_helpers_1_1_view_buffer_value.html#a49d9db1876299e791db5ae523963e842", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models =
+[
+    [ "GraphQLRequest", "d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request.html", "d6/d34/class_fenix_alliance_1_1_a_b_p_1_1_a_p_i_1_1_graph_ql_1_1_core_1_1_models_1_1_graph_q_l_request" ]
+];

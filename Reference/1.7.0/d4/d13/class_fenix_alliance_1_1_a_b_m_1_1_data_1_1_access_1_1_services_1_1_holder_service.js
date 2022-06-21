@@ -1,0 +1,23 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service =
+[
+    [ "HolderService", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a1cca8eda5fe231655e0079d26c896981", null ],
+    [ "GetAccountHolder", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a014cb45f8738757611987580ce7b8471", null ],
+    [ "GetAccountHolderCountryID", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a77dc973f5520023975d18d42f7328a25", null ],
+    [ "GetAccountHolderSocialProfileAsync", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#ad062fcdbcdb67f7ac0e7e25cbf3c7bf4", null ],
+    [ "GetCurrentAccountHolderAsync", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a616407ae718ab0fc506fc39e1898aad2", null ],
+    [ "GetCurrentAccountHolderID", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a272c71a58a77f75aa9d7811284e2b668", null ],
+    [ "GetCurrentAccountHolderIDAsync", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a916e372784f9207a2ff5cf0a59373ec6", null ],
+    [ "GetCurrentBusinessProfileRecord", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a5f1cec42a6e96cff44d6a843b85a9534", null ],
+    [ "GetCurrentBusinessSecurityLogs", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#ac7e1de5014a2bd8dd2f463ad7e6770b0", null ],
+    [ "GetFullHolderAndBusiness", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a1a730f2364941e5a2c5a52cbd34ffa1e", null ],
+    [ "GetFullHolderAndBusiness", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a206e508c87b32a39f9579cb6ce0631d9", null ],
+    [ "GetFullHolderAndBusiness", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a974edb2b2978a45edeed4cbf19523de2", null ],
+    [ "GetFullHolderAndBusiness", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a1f4187e1ff6ec451e204e86a7294c242", null ],
+    [ "GetSubjectIdentifier", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a690b3cabcaa6190916ae71827936c52e", null ],
+    [ "IsNewAccountHolderAsync", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a88bd722fdf46c430e94bd02e27112681", null ],
+    [ "SetDataContext", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a3fc6166f58587be21f802d1290d4ab66", null ],
+    [ "ToDataTransferObject", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a8b6fd92ac2921cc01a5069567142dc65", null ],
+    [ "UpdateAccountHolder", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a8503d0da06e5c3810b19aca3325b237a", null ],
+    [ "BusinessEndpoint", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#ad4322a6bf35c366f321fe67cb37c2f03", null ],
+    [ "DataContext", "d4/d13/class_fenix_alliance_1_1_a_b_m_1_1_data_1_1_access_1_1_services_1_1_holder_service.html#a8f58997874eda7e5d8321a778a3b0310", null ]
+];

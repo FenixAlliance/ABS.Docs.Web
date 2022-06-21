@@ -1,0 +1,26 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval =
+[
+    [ "ChildTimeInterval", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a8306ef95ce871a797aa6babc82cbba21", null ],
+    [ "DayOfTheWeek", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#ae0276ac6d62d1a67e8993da5022c3ba1", null ],
+    [ "Description", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#af0398e6057bb2244f2867706ebe34981", null ],
+    [ "End", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#ad8ddc809d0f70ceb9e6bae2d4f017e93", null ],
+    [ "ID", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a22c95bd42a7bf2719fddb04ff9078320", null ],
+    [ "IsBreak", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a741bb324a723bd1e3f851c0fea47b3dd", null ],
+    [ "OccustOnFriday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a6c88f1037096f2b2cdd6b2e8ebd94e97", null ],
+    [ "OccustOnMonday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#ac17d6df9492f9ac83174021a6a6c9836", null ],
+    [ "OccustOnSaturday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a6209bef1cbd79d6f6443964d814af203", null ],
+    [ "OccustOnSunday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a776b374c35de1e20487116c1e432940a", null ],
+    [ "OccustOnThursday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a15d7d3b0ff1988c35ed1f6d522f84c49", null ],
+    [ "OccustOnTuesday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a8ed6c2f6d3851640e1cf457dcc318065", null ],
+    [ "OccustOnWednesday", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a5d787b85cbbc257b6e88a1b7a0b527b9", null ],
+    [ "ParentTimeInterval", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#adc3c0f93055ce8b3a03630c096b05f4a", null ],
+    [ "ParentTimeIntervalID", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a9a02bc6b4d342f2554407f7cc49e1ac1", null ],
+    [ "RecurrenceEnd", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a2015cabc7769957ede65076098d4ce91", null ],
+    [ "RecurrenceStart", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a20867a599c2a6bcf5a67f79e39115839", null ],
+    [ "RepeatEvery", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a277ec6b609faa2670b2f404f9b77dc4e", null ],
+    [ "RepetitionCriteria", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#ad6d68797ae54cd853b17e8c8cca32635", null ],
+    [ "Schedule", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#aced4e755c932cdf6536fbb445ed76ef9", null ],
+    [ "ScheduleID", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a3ffe2e3224bad4c8950a65b0066f7a21", null ],
+    [ "Start", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#aa6702de116e236d220be9c47b332ccd6", null ],
+    [ "Title", "d2/d91/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_time_intervals_1_1_time_interval.html#a5ab9d00542b08c829fd641850cb99178", null ]
+];

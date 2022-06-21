@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_manager_1_1_subscriptions =
+[
+    [ "CloudSubscriptionMapper", "d3/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_cloud_1_1_manager_1_1_subscriptions_1_1_cloud_subscription_mapper.html", null ]
+];

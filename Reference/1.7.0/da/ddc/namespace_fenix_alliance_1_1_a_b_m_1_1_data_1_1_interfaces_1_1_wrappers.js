@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers =
+[
+    [ "IEmailServiceWrapper", "df/da4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers_1_1_i_email_service_wrapper.html", "df/da4/interface_fenix_alliance_1_1_a_b_m_1_1_data_1_1_interfaces_1_1_wrappers_1_1_i_email_service_wrapper" ]
+];

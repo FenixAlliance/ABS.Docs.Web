@@ -1,0 +1,6 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs =
+[
+    [ "JobApplications", "d4/dc1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_applications.html", "d4/dc1/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_applications" ],
+    [ "JobFields", "dd/d76/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_fields.html", "dd/d76/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_fields" ],
+    [ "JobOffers", "d1/d80/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_offers.html", "d1/d80/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_mappers_1_1_workforce_1_1_jobs_1_1_job_offers" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438 =
+[
+    [ "AzureAppInsight", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438.html#a8d4dad001aa7a760a074b05cc82546c1", null ],
+    [ "AzureStorage", "db/d57/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_m_s_f_fa8a6a0a3249d08499a59fa33c077438.html#adc17ea996650fd0057ee3f46d60735b4", null ]
+];

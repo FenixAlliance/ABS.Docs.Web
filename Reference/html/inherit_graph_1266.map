@@ -1,3 +1,29 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d6/d44/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_connector.html" title="Represents a connector which processes file manager requests" alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,830,83,857"/>
+<area shape="rect" id="node2" href="$de/dbb/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_azure_blobs_controller.html" title=" " alt="" coords="154,5,365,47"/>
+<area shape="rect" id="node3" href="$d3/daa/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_file_manager_controller.html" title=" " alt="" coords="152,71,367,112"/>
+<area shape="rect" id="node4" href="$db/df5/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_holder_files_controller.html" title=" " alt="" coords="155,136,363,177"/>
+<area shape="rect" id="node5" href="$d9/d5b/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_portal_files_controller.html" title=" " alt="" coords="157,201,362,243"/>
+<area shape="rect" id="node6" href="$d5/d2a/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_public_files_controller.html" title=" " alt="" coords="156,267,363,308"/>
+<area shape="rect" id="node7" href="$d7/d4f/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_streaming_controller.html" title=" " alt="" coords="157,332,362,373"/>
+<area shape="rect" id="node8" href="$d5/df2/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_tenant_files_controller.html" title=" " alt="" coords="154,397,365,439"/>
+<area shape="rect" id="node9" href="$d3/d76/class_fenix_alliance_1_1_a_b_p_1_1_file_system_1_1_controllers_1_1_upload_controller.html" title=" " alt="" coords="157,463,362,504"/>
+<area shape="rect" id="node10" href="$d3/d21/class_fenix_alliance_1_1_a_b_p_1_1_hub_1_1_controllers_1_1_features_controller.html" title=" " alt="" coords="145,528,373,569"/>
+<area shape="rect" id="node11" href="$dc/d7f/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_apps_controller.html" title=" " alt="" coords="157,593,361,635"/>
+<area shape="rect" id="node12" href="$d1/d87/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_blog_controller.html" title=" " alt="" coords="159,659,359,700"/>
+<area shape="rect" id="node13" href="$dd/d15/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_culture_controller.html" title=" " alt="" coords="152,724,367,765"/>
+<area shape="rect" id="node14" href="$d7/de4/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_currencies_controller.html" title=" " alt="" coords="141,789,377,831"/>
+<area shape="rect" id="node15" href="$d3/ddc/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_error_controller.html" title=" " alt="" coords="158,855,361,896"/>
+<area shape="rect" id="node16" href="$d7/dc3/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_forums_controller.html" title=" " alt="" coords="150,920,369,961"/>
+<area shape="rect" id="node17" href="$db/daa/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_home_controller.html" title=" " alt="" coords="155,985,363,1027"/>
+<area shape="rect" id="node18" href="$d6/d7e/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_core_1_1_controllers_1_1_language_controller.html" title=" " alt="" coords="144,1051,375,1092"/>
+<area shape="rect" id="node19" href="$d8/dbf/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_content_controller.html" title=" " alt="" coords="173,1116,346,1157"/>
+<area shape="rect" id="node20" href="$d9/dc8/class_fenix_alliance_1_1_a_b_s_1_1_portal_1_1_editor_1_1_controllers_1_1_builder_controller.html" title=" " alt="" coords="149,1181,370,1223"/>
+<area shape="rect" id="node21" href="$d7/dd5/class_fenix_alliance_1_1_a_b_s_1_1_studio_1_1_core_1_1_controllers_1_1_studio_controller.html" title=" " alt="" coords="154,1247,365,1288"/>
+<area shape="rect" id="node22" href="$d5/d4d/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_account_controller.html" title=" " alt="" coords="138,1312,381,1353"/>
+<area shape="rect" id="node23" href="$d6/dad/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_authorization_controller.html" title=" " alt="" coords="151,1378,367,1434"/>
+<area shape="rect" id="node24" href="$dd/df1/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_manage_controller.html" title=" " alt="" coords="139,1459,380,1500"/>
+<area shape="rect" id="node25" href="$dd/d1e/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_resource_controller.html" title=" " alt="" coords="134,1524,385,1565"/>
+<area shape="rect" id="node26" href="$dc/d79/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_account_1_1_controllers_1_1_userinfo_controller.html" title=" " alt="" coords="138,1589,381,1631"/>
+<area shape="rect" id="node27" href="$dd/df8/class_fenix_alliance_1_1_a_p_s_1_1_core_1_1_areas_1_1_businesses_1_1_controllers_1_1_current_controller.html" title=" " alt="" coords="131,1655,388,1696"/>
 </map>

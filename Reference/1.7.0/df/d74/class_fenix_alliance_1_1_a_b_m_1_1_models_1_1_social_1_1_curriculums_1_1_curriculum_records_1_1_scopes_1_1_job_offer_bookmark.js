@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark =
+[
+    [ "JobOffer", "df/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark.html#a6f0d523e23b1c1bd0f5721f1a7b2c44b", null ],
+    [ "JobOfferID", "df/d74/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_job_offer_bookmark.html#a61a234add2d3bfbba4f7f0c2359ec21f", null ]
+];

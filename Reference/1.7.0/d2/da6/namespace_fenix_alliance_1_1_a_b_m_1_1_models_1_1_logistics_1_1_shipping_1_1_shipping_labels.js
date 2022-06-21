@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels =
+[
+    [ "ShippingLabel", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels_1_1_shipping_label.html", "d0/def/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_logistics_1_1_shipping_1_1_shipping_labels_1_1_shipping_label" ]
+];

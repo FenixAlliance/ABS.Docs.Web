@@ -1,0 +1,27 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type =
+[
+    [ "AccountingCost", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a9a0e960a3b88304d08f2a4dfebe7cbae", null ],
+    [ "AccountingCostCode", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a935edf396168569dd8f2abc5ba0310f8", null ],
+    [ "AdditionalDocumentReference", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a061bf14fe430d9bb4dbf1ae8073610db", null ],
+    [ "CopyIndicator", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a2199d9519066f770d8dd180e190e0f1c", null ],
+    [ "CustomerParty", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a6054d9622d907c20857ef3682f88f899", null ],
+    [ "CustomizationID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a21e084be07aa61e6a3a8a0b52dee83c4", null ],
+    [ "DocumentCurrencyCode", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a9cfee9aad189f7a6b42139619f2ce305", null ],
+    [ "ID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#aac10c285840fae81dbf4a1e079a1f79f", null ],
+    [ "IssueDate", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#ac025a706b99985d04710996f261482b2", null ],
+    [ "IssueTime", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a863209e3086c2be3596930fe1bb81bc0", null ],
+    [ "MainOnAccountPayment", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a9212d1dbd4e681a0322baf2c8f97fb10", null ],
+    [ "Note", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a8b9910577bed05639bf1016b004ed91e", null ],
+    [ "ParentDocumentReference", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#ac6ac944fc8662c369065f74f1a13b6bd", null ],
+    [ "ProfileExecutionID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a8c0adba9be20e1b0978ba96801331b90", null ],
+    [ "ProfileID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#ae073e6200825ebd17ff5c40920ac96ce", null ],
+    [ "ReceiverParty", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#ad3e989497718d2dda2f10b7852d321ca", null ],
+    [ "SenderParty", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a36cd40b5a105546b2ce9373115a7c9e2", null ],
+    [ "Signature", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#af97653d89e1b391d0230e1720b96ed27", null ],
+    [ "SubscriberConsumption", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#aab4d433d78755d2656d3bd64b25cb375", null ],
+    [ "SubscriberParty", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#ad61f775727147071670c4d8f5c074322", null ],
+    [ "UBLExtensions", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a33a711c0143807c1cdd552566e3359db", null ],
+    [ "UBLVersionID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#adb5c99b06c6668db490cf8d207d07dbe", null ],
+    [ "UtilityStatementTypeCode", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#abc33a277e4a20c07120c3f9f19f54147", null ],
+    [ "UUID", "dc/dd0/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_u_b_l_1_1_utility_statement_type.html#a53456c642012f06979f0679ea35cd216", null ]
+];

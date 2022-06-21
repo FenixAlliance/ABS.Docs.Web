@@ -1,0 +1,7 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2 =
+[
+    [ "CustomProperty", "d7/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2.html#a0b9cb7511f12c84a6d398434215f9276", null ],
+    [ "CustomPropertyID", "d7/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2.html#af6394c882a71aa1ab5f343aedbf1899d", null ],
+    [ "ID", "d7/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2.html#abd221efe16437e3a17d33f22cde8a65f", null ],
+    [ "Value", "d7/d96/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_properties_1_1_custom_properties_1_1_cu1b7f04f43270adef15d64156d33f99d2.html#af05b288626373e31216c64da246a08c0", null ]
+];

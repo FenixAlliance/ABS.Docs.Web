@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload =
+[
+    [ "CourseAssignment", "d5/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload.html#a13c34206047fd93bc253c3f77cd32e5e", null ],
+    [ "CourseAssignmentID", "d5/d64/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_education_1_1_courses_1_1_assignments_1_1_course_assignment_upload.html#a3d9947e290a573e0bb7133720c5f4d85", null ]
+];

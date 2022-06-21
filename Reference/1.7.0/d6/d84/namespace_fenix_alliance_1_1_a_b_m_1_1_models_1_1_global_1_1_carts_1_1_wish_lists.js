@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists =
+[
+    [ "WishListRecords", "d1/d0a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists_1_1_wish_list_records.html", "d1/d0a/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists_1_1_wish_list_records" ],
+    [ "WishList", "df/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists_1_1_wish_list.html", "df/d35/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_carts_1_1_wish_lists_1_1_wish_list" ]
+];

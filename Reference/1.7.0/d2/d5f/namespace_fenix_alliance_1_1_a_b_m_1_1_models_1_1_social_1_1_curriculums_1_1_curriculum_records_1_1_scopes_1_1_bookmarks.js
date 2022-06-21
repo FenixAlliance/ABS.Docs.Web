@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_scopes_1_1_bookmarks =
+[
+    [ "GigBookmark", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09.html", "d3/d2e/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_curriculums_1_1_curriculum_records_1_1_a4c4a3486867c01db7f0e5f26036ec09" ]
+];

@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c =
+[
+    [ "IGarbageCollection", "d5/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c_1_1_i_garbage_collection.html", "d5/d14/interface_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_interfaces_1_1_a_b_p_1_1_g_c_1_1_i_garbage_collection" ]
+];

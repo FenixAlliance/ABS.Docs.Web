@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db =
+[
+    [ "JobOfferApplication", "d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html#af46234e8bd2e4d58c1076dab1625246c", null ],
+    [ "JobOfferApplicationID", "d7/d28/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_b374823d4197d6308a31914ebdc4a0db.html#a9c565f5270f8ef663e9013c7883a3ecb", null ]
+];

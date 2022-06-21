@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes =
+[
+    [ "AreaControllerRoute", "dc/d07/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_area_controller_route.html", "dc/d07/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_area_controller_route" ],
+    [ "ControllerRoute", "dc/d40/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_controller_route.html", "dc/d40/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_routing_1_1_routes_1_1_controller_route" ]
+];

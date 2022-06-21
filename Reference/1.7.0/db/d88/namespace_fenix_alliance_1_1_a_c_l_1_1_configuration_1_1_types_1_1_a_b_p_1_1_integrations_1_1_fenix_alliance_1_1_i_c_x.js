@@ -1,0 +1,4 @@
+var namespace_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_alliance_1_1_i_c_x =
+[
+    [ "InfinityComexIntegrationOptions", "db/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_8bc884056ee20a6c4cc8ead12ab06143.html", "db/d9f/class_fenix_alliance_1_1_a_c_l_1_1_configuration_1_1_types_1_1_a_b_p_1_1_integrations_1_1_fenix_8bc884056ee20a6c4cc8ead12ab06143" ]
+];

@@ -1,0 +1,8 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes =
+[
+    [ "BlogPostReview", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_blog_post_review.html", "dc/d53/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_blog_post_review" ],
+    [ "BusinessReview", "d5/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_business_review.html", "d5/ded/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_business_review" ],
+    [ "ContactReview", "d5/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_contact_review.html", "d5/d4a/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_contact_review" ],
+    [ "ItemReview", "d8/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_item_review.html", "d8/d06/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_item_review" ],
+    [ "SocialGroupReview", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review.html", "d2/d83/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_social_1_1_reviews_1_1_review_scopes_1_1_social_group_review" ]
+];

@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule =
+[
+    [ "SocialProfile", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule.html#abeeebc4a6cb25d7806e04434cfd35f56", null ],
+    [ "SocialProfileID", "db/d3f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_schedules_1_1_schedule_scopes_1_1_social_profile_schedule.html#ac96c6ecb6ec7242bcb4ec8065df1952d", null ]
+];

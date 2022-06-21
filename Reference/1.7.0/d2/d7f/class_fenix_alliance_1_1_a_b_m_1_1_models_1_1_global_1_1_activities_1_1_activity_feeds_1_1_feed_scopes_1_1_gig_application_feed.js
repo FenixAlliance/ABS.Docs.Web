@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed =
+[
+    [ "GigApplication", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed.html#a94f1f88534ad510222906e6f537aecc9", null ],
+    [ "GigApplicationID", "d2/d7f/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_global_1_1_activities_1_1_activity_feeds_1_1_feed_scopes_1_1_gig_application_feed.html#a9bdd1437b71a6d54d3f8dfb59ce82c86", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs =
+[
+    [ "Registrations", "d2/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations.html", "d2/d8d/namespace_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_registrations" ],
+    [ "PartnerProgram", "db/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_partner_program.html", "db/deb/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_partners_1_1_partner_programs_1_1_partner_program" ]
+];

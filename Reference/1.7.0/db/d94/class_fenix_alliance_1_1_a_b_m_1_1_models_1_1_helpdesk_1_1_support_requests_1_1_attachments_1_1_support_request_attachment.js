@@ -1,0 +1,5 @@
+var class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment =
+[
+    [ "SupportRequest", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment.html#a7383c589324d307e27ca36ca97ce388d", null ],
+    [ "SupportRequestID", "db/d94/class_fenix_alliance_1_1_a_b_m_1_1_models_1_1_helpdesk_1_1_support_requests_1_1_attachments_1_1_support_request_attachment.html#aba8f95df759774915fe056b12b839c8a", null ]
+];
