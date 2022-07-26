@@ -236,7 +236,7 @@ namespace FenixAlliance.Areas.Licensing.Controllers
         {
             var apiResponse = JsonConvert.DeserializeObject&lt;APIResponse&gt;(
                 JsonConvert.SerializeObject(
-                    await AuthService.BindAPIBaseResponse(
+                    await AuthService.BindApiBaseResponse(
                         DataContext,
                         HttpContext,
                         Request,

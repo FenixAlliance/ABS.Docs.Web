@@ -145,7 +145,7 @@
                     <main>
                         <h1 id="welcome-to-the-alliance-business-platform-rest-api-reference-for-the-v20-endpoint"><a class="header" href="#welcome-to-the-alliance-business-platform-rest-api-reference-for-the-v20-endpoint">Welcome to the Alliance Business Platform REST API reference for the v2.0 endpoint.</a></h1>
 <p>[[<em>TOC</em>]]</p>
-<p>API sets on the <a href="https://fenixalliance.com.co/api/v2/documentation/index.html" target="_blank">ABS v2.0 endpoint</a>
+<p>API sets on the <a href="https://absuite.net/api/v2/documentation/index.html" target="_blank">ABS REST endpoint v2.0</a>
 are in general availability (GA) status, and have gone through a review-and-feedback process with customers to meet practical, production needs. Updates to APIs on this endpoint are additive in nature and do not break existing app scenarios.</p>
 <p>Representational State Transfer (REST) APIs are service endpoints that support sets of HTTP operations (methods), which provide create, retrieve, update, or delete access to the service's resources. This section will give you an overall overview of processes like:</p>
 <ul>
@@ -177,96 +177,26 @@ are in general availability (GA) status, and have gone through a review-and-feed
 <h3 id="tenants-set"><a class="header" href="#tenants-set">Tenants Set</a></h3>
 </li>
 <li>
-<h3 id="gen-set"><a class="header" href="#gen-set">GEN Set</a></h3>
-</li>
-<li>
-<h3 id="cms-set"><a class="header" href="#cms-set">CMS Set</a></h3>
-</li>
-<li>
-<h3 id="cmr-set"><a class="header" href="#cmr-set">CMR Set</a></h3>
-</li>
-<li>
-<h3 id="lms-set"><a class="header" href="#lms-set">LMS Set</a></h3>
-</li>
-<li>
-<h3 id="qms-set"><a class="header" href="#qms-set">QMS Set</a></h3>
-</li>
-<li>
-<h3 id="pms-set"><a class="header" href="#pms-set">PMS Set</a></h3>
-</li>
-<li>
-<h3 id="csp-set"><a class="header" href="#csp-set">CSP Set</a></h3>
-</li>
-<li>
-<h3 id="bim-set"><a class="header" href="#bim-set">BIM Set</a></h3>
-</li>
-<li>
-<h3 id="sar-set"><a class="header" href="#sar-set">SAR Set</a></h3>
-</li>
-<li>
-<h3 id="fihr-set"><a class="header" href="#fihr-set">FIHR Set</a></h3>
-</li>
-<li>
-<h3 id="dian-set"><a class="header" href="#dian-set">DIAN Set</a></h3>
-</li>
-<li>
-<h3 id="eams-set"><a class="header" href="#eams-set">EAMS Set</a></h3>
-</li>
-<li>
-<h3 id="hrms-set"><a class="header" href="#hrms-set">HRMS Set</a></h3>
-</li>
-<li>
-<h3 id="stock-set"><a class="header" href="#stock-set">Stock Set</a></h3>
-</li>
-<li>
-<h3 id="store-set"><a class="header" href="#store-set">Store Set</a></h3>
-</li>
-<li>
-<h3 id="social-set"><a class="header" href="#social-set">Social Set</a></h3>
-</li>
-<li>
-<h3 id="billing-set"><a class="header" href="#billing-set">Billing Set</a></h3>
-</li>
-<li>
-<h3 id="selling-set"><a class="header" href="#selling-set">Selling Set</a></h3>
-</li>
-<li>
-<h3 id="services-set"><a class="header" href="#services-set">Services Set</a></h3>
-</li>
-<li>
-<h3 id="shipping-set"><a class="header" href="#shipping-set">Shipping Set</a></h3>
-</li>
-<li>
-<h3 id="helpdesk-set"><a class="header" href="#helpdesk-set">Helpdesk Set</a></h3>
-</li>
-<li>
-<h3 id="analytics-set"><a class="header" href="#analytics-set">Analytics Set</a></h3>
-</li>
-<li>
-<h3 id="workplace-set"><a class="header" href="#workplace-set">Workplace Set</a></h3>
-</li>
-<li>
-<h3 id="marketing-set"><a class="header" href="#marketing-set">Marketing Set</a></h3>
-</li>
-<li>
-<h3 id="accounting-set"><a class="header" href="#accounting-set">Accounting Set</a></h3>
-</li>
-<li>
-<h3 id="procurement-set"><a class="header" href="#procurement-set">Procurement Set</a></h3>
-</li>
-<li>
-<h3 id="sustainability-set"><a class="header" href="#sustainability-set">Sustainability Set</a></h3>
-</li>
-<li>
-<h3 id="subscriptions-set"><a class="header" href="#subscriptions-set">Subscriptions Set</a></h3>
-</li>
-<li>
-<h3 id="manufacturing-set"><a class="header" href="#manufacturing-set">Manufacturing Set</a></h3>
+<h3 id="global-data-set"><a class="header" href="#global-data-set">Global Data Set</a></h3>
 </li>
 </ul>
-<p>The <a href="https://fenixalliance.com.co/api/v2/documentation">ABP REST API Browser</a> – is a tool to allow internal and external developers to get the most out of the REST APIs from Fenix Alliance. If you have any feedback, create a new issue in the FenixAlliance/feedback repo on GitHub.</p>
+<p>The <a href="https://absuite.net/api/v2/documentation">ABP REST API Browser</a> – is a tool to allow internal and external developers to get the most out of the REST APIs from Fenix Alliance. If you have any feedback, create a new issue in the FenixAlliance/feedback repo on GitHub.</p>
+<h2 id="odata-support"><a class="header" href="#odata-support">OData Support</a></h2>
+<p>OData (Open Data Protocol) is an ISO/IEC approved, OASIS standard that defines a set of best practices for building and consuming REST APIs. It enables creation of REST-based services which allow resources identified using Uniform Resource Locators (URLs) and defined in a data model, to be published and edited by Web clients using simple HTTP messages.</p>
+<p>OData is fully integrated ont the Alliance Business Platform to help developers to focus on business logic without worrying about the various API approaches to define request and response headers, status codes, HTTP methods, URL conventions, media types, payload formats, query options, etc. It provides guidance for tracking changes, defining functions/actions for reusable procedures, and sending asynchronous/batch requests.</p>
+<h3 id="about-the-odata-protocol"><a class="header" href="#about-the-odata-protocol">About the OData Protocol</a></h3>
+<p>The OData Protocol is an application-level protocol for interacting with data via RESTful interfaces. It supports the description of data models, editing and querying of data according to those models. REST APIs that are based on OData are easy to discover and consume due to the OData metadata, a machine-readable description of the data model which renders in a human readable format and enables the creation of powerful generic client proxies and tools.</p>
+<p>OData improves semantic interoperability between systems and follows these design principles:</p>
+<ul>
+<li>Follow REST principles.</li>
+<li>Keep it simple. Address the common cases and provide extensibility where necessary.</li>
+<li>Build incrementally. A very basic, compliant service should be easy to build, with additional work necessary only to support additional capabilities.</li>
+<li>Extensibility is important. Services should be able to support extended functionality without breaking clients unaware of those extensions.</li>
+<li>Prefer mechanisms that work on a variety of data sources. In particular, do not assume a relational data model.</li>
+</ul>
+<p>The OData Protocol is different from other REST-based web service approaches in that it provides a uniform way to describe both the data and the data model. This improves semantic interoperability between systems and allows an ecosystem to emerge. It follows these design principles:</p>
 <h2 id="common-use-cases"><a class="header" href="#common-use-cases">Common use cases</a></h2>
-<p>The power of the Alliance ID API lies in easy navigation of entities and relationships across different services exposed on a single Microsoft Graph REST endpoint.</p>
+<p>The power of the Alliance Business Platform REST API Engine lies in being able to easily extend the Alliance Business Suite across different business-cases through services exposed on several REST endpoints.</p>
 <p>A number of these services are designed to enable rich scenarios around Alliance ID Tenants and around Business Contexts.</p>
 <h3 id="user-centric-use-cases-in-v20"><a class="header" href="#user-centric-use-cases-in-v20">User-centric use cases in v2.0</a></h3>
 <ol>
@@ -286,6 +216,7 @@ are in general availability (GA) status, and have gone through a review-and-feed
 <h3 id="business-use-cases-in-v20"><a class="header" href="#business-use-cases-in-v20">Business use cases in v2.0</a></h3>
 <ol>
 <li>Run a report on an organization Anna belongs to and identify the group with the most communication among group members.</li>
+<li>Run a report on the amounts of unpaid invoices, filtering through data using OData (Open Data Protocol).</li>
 </ol>
 <h2 id="other-api-versions"><a class="header" href="#other-api-versions">Other API versions</a></h2>
 <p>There are currently 2 versions of the Alliance ID REST APIs - v2.0 and v2.1 (still in beta). Be aware that APIs in beta status is subject to change, and may break existing scenarios without notice. Don't take a production dependency on APIs in the beta endpoint. Be aware that V1.x endpoints and SDKs were deprecated as of 31/12/2015  and are no longer functional.</p>
